@@ -1,0 +1,22 @@
+{
+  "infinitif": "couvrir",
+  "participePresent": "couvrant",
+  "participePasse": "couvert",
+  "present": [ "couvre", "couvres", "couvre", "couvrons", "couvrez", "couvrent" ],
+  "imparfait": [ "couvrais", "couvrais", "couvrait", "couvrions", "couvriez", "couvraient" ],
+  "passeSimple": [ "couvris", "couvris", "couvrit", "couvrîmes", "couvrîtes", "couvrirent" ],
+  "futurSimple": [ "couvrirai", "couvriras", "couvrira", "couvrirons", "couvrirez", "couvriront" ],
+  "passeCompose": [ "ai couvert", "as couvert", "a couvert", "avons couvert", "avez couvert", "ont couvert" ],
+  "plusQueParfait": [ "avais couvert", "avais couvert", "avait couvert", "avions couvert", "aviez couvert", "avaient couvert" ],
+  "passeAnterieur": [ "eus couvert", "eus couvert", "eut couvert", "eûmes couvert", "eûtes couvert", "eurent couvert" ],
+  "futurAnterieur": [ "aurai couvert", "auras couvert", "aura couvert", "aurons couvert", "aurez couvert", "auront couvert" ],
+  "subjonctifPresent": [ "couvre", "couvres", "couvre", "couvrions", "couvriez", "couvrent" ],
+  "subjonctifImparfait": [ "couvrisse", "couvrisses", "couvrît", "couvrissions", "couvrissiez", "couvrissent" ],
+  "subjonctifPasse": [ "aie couvert", "aies couvert", "ait couvert", "ayons couvert", "ayez couvert", "aient couvert" ],
+  "subjonctifPlusQueParfait": [ "eusse couvert", "eusses couvert", "eût couvert", "eussions couvert", "eussiez couvert", "eussent couvert" ],
+  "conditionnelPresent": [ "couvrirais", "couvrirais", "couvrirait", "couvririons", "couvririez", "couvriraient" ],
+  "conditionnelPasse": [ "aurais couvert", "aurais couvert", "aurait couvert", "aurions couvert", "auriez couvert", "auraient couvert" ],
+  "conditionnelPasseII": [ "eusse couvert", "eusses couvert", "eût couvert", "eussions couvert", "eussiez couvert", "eussent couvert" ],
+  "imperatif": [ "–", "couvre !", "–", "couvrons !", "couvrez !", "–" ],
+  "imperatifPasse": [ "–", "aie couvert !", "–", "ayons couvert !", "ayez couvert !", "–" ]
+}

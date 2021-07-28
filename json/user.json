@@ -1,0 +1,22 @@
+{
+  "infinitif": "user",
+  "participePresent": "usant",
+  "participePasse": "usé",
+  "present": [ "use", "uses", "use", "usons", "usez", "usent" ],
+  "imparfait": [ "usais", "usais", "usait", "usions", "usiez", "usaient" ],
+  "passeSimple": [ "usai", "usas", "usa", "usâmes", "usâtes", "usèrent" ],
+  "futurSimple": [ "userai", "useras", "usera", "userons", "userez", "useront" ],
+  "passeCompose": [ "ai usé", "as usé", "a usé", "avons usé", "avez usé", "ont usé" ],
+  "plusQueParfait": [ "avais usé", "avais usé", "avait usé", "avions usé", "aviez usé", "avaient usé" ],
+  "passeAnterieur": [ "eus usé", "eus usé", "eut usé", "eûmes usé", "eûtes usé", "eurent usé" ],
+  "futurAnterieur": [ "aurai usé", "auras usé", "aura usé", "aurons usé", "aurez usé", "auront usé" ],
+  "subjonctifPresent": [ "use", "uses", "use", "usions", "usiez", "usent" ],
+  "subjonctifImparfait": [ "usasse", "usasses", "usât", "usassions", "usassiez", "usassent" ],
+  "subjonctifPasse": [ "aie usé", "aies usé", "ait usé", "ayons usé", "ayez usé", "aient usé" ],
+  "subjonctifPlusQueParfait": [ "eusse usé", "eusses usé", "eût usé", "eussions usé", "eussiez usé", "eussent usé" ],
+  "conditionnelPresent": [ "userais", "userais", "userait", "userions", "useriez", "useraient" ],
+  "conditionnelPasse": [ "aurais usé", "aurais usé", "aurait usé", "aurions usé", "auriez usé", "auraient usé" ],
+  "conditionnelPasseII": [ "eusse usé", "eusses usé", "eût usé", "eussions usé", "eussiez usé", "eussent usé" ],
+  "imperatif": [ "–", "use !", "–", "usons !", "usez !", "–" ],
+  "imperatifPasse": [ "–", "aie usé !", "–", "ayons usé !", "ayez usé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se mêler",
+  "participePresent": "se mêlant",
+  "participePasse": "mêlé",
+  "present": [ "me mêle", "te mêles", "se mêle", "nous mêlons", "vous mêlez", "se mêlent" ],
+  "imparfait": [ "me mêlais", "te mêlais", "se mêlait", "nous mêlions", "vous mêliez", "se mêlaient" ],
+  "passeSimple": [ "me mêlai", "te mêlas", "se mêla", "nous mêlâmes", "vous mêlâtes", "se mêlèrent" ],
+  "futurSimple": [ "me mêlerai", "te mêleras", "se mêlera", "nous mêlerons", "vous mêlerez", "se mêleront" ],
+  "passeCompose": [ "me suis mêlé(e)", "t'es mêlé(e)", "s'est mêlé(e)", "nous sommes mêlé(e)s", "vous êtes mêlé(e)(s)", "se sont mêlé(e)s" ],
+  "plusQueParfait": [ "m'étais mêlé(e)", "t'étais mêlé(e)", "s'était mêlé(e)", "nous étions mêlé(e)s", "vous étiez mêlé(e)(s)", "s'étaient mêlé(e)s" ],
+  "passeAnterieur": [ "me fus mêlé(e)", "te fus mêlé(e)", "se fut mêlé(e)", "nous fûmes mêlé(e)s", "vous fûtes mêlé(e)(s)", "se furent mêlé(e)s" ],
+  "futurAnterieur": [ "me serai mêlé(e)", "te seras mêlé(e)", "se sera mêlé(e)", "nous serons mêlé(e)s", "vous serez mêlé(e)(s)", "se seront mêlé(e)s" ],
+  "subjonctifPresent": [ "me mêle", "te mêles", "se mêle", "nous mêlions", "vous mêliez", "se mêlent" ],
+  "subjonctifImparfait": [ "me mêlasse", "te mêlasses", "se mêlât", "nous mêlassions", "vous mêlassiez", "se mêlassent" ],
+  "subjonctifPasse": [ "me sois mêlé(e)", "te sois mêlé(e)", "se soit mêlé(e)", "nous soyons mêlé(e)s", "vous soyez mêlé(e)(s)", "se soient mêlé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse mêlé(e)", "te fusses mêlé(e)", "se fût mêlé(e)", "nous fussions mêlé(e)s", "vous fussiez mêlé(e)(s)", "se fussent mêlé(e)s" ],
+  "conditionnelPresent": [ "me mêlerais", "te mêlerais", "se mêlerait", "nous mêlerions", "vous mêleriez", "se mêleraient" ],
+  "conditionnelPasse": [ "me serais mêlé(e)", "te serais mêlé(e)", "se serait mêlé(e)", "nous serions mêlé(e)s", "vous seriez mêlé(e)(s)", "se seraient mêlé(e)s" ],
+  "conditionnelPasseII": [ "me fusse mêlé(e)", "te fusses mêlé(e)", "se fût mêlé(e)", "nous fussions mêlé(e)s", "vous fussiez mêlé(e)(s)", "se fussent mêlé(e)s" ],
+  "imperatif": [ "–", "mêle-toi !", "–", "mêlons-nous !", "mêlez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

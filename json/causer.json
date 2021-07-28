@@ -1,0 +1,22 @@
+{
+  "infinitif": "causer",
+  "participePresent": "causant",
+  "participePasse": "causé",
+  "present": [ "cause", "causes", "cause", "causons", "causez", "causent" ],
+  "imparfait": [ "causais", "causais", "causait", "causions", "causiez", "causaient" ],
+  "passeSimple": [ "causai", "causas", "causa", "causâmes", "causâtes", "causèrent" ],
+  "futurSimple": [ "causerai", "causeras", "causera", "causerons", "causerez", "causeront" ],
+  "passeCompose": [ "ai causé", "as causé", "a causé", "avons causé", "avez causé", "ont causé" ],
+  "plusQueParfait": [ "avais causé", "avais causé", "avait causé", "avions causé", "aviez causé", "avaient causé" ],
+  "passeAnterieur": [ "eus causé", "eus causé", "eut causé", "eûmes causé", "eûtes causé", "eurent causé" ],
+  "futurAnterieur": [ "aurai causé", "auras causé", "aura causé", "aurons causé", "aurez causé", "auront causé" ],
+  "subjonctifPresent": [ "cause", "causes", "cause", "causions", "causiez", "causent" ],
+  "subjonctifImparfait": [ "causasse", "causasses", "causât", "causassions", "causassiez", "causassent" ],
+  "subjonctifPasse": [ "aie causé", "aies causé", "ait causé", "ayons causé", "ayez causé", "aient causé" ],
+  "subjonctifPlusQueParfait": [ "eusse causé", "eusses causé", "eût causé", "eussions causé", "eussiez causé", "eussent causé" ],
+  "conditionnelPresent": [ "causerais", "causerais", "causerait", "causerions", "causeriez", "causeraient" ],
+  "conditionnelPasse": [ "aurais causé", "aurais causé", "aurait causé", "aurions causé", "auriez causé", "auraient causé" ],
+  "conditionnelPasseII": [ "eusse causé", "eusses causé", "eût causé", "eussions causé", "eussiez causé", "eussent causé" ],
+  "imperatif": [ "–", "cause !", "–", "causons !", "causez !", "–" ],
+  "imperatifPasse": [ "–", "aie causé !", "–", "ayons causé !", "ayez causé !", "–" ]
+}

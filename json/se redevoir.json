@@ -1,0 +1,22 @@
+{
+  "infinitif": "se redevoir",
+  "participePresent": "se redevant",
+  "participePasse": "redû,",
+  "present": [ "me redois", "te redois", "se redoit", "nous redevons", "vous redevez", "se redoivent" ],
+  "imparfait": [ "me redevais", "te redevais", "se redevait", "nous redevions", "vous redeviez", "se redevaient" ],
+  "passeSimple": [ "me redus", "te redus", "se redut", "nous redûmes", "vous redûtes", "se redurent" ],
+  "futurSimple": [ "me redevrai", "te redevras", "se redevra", "nous redevrons", "vous redevrez", "se redevront" ],
+  "passeCompose": [ "me suis redû, redue", "t'es redû, redue", "s'est redû, redue", "nous sommes redu(e)s", "vous êtes redû, redu(e)s", "se sont redu(e)s" ],
+  "plusQueParfait": [ "m'étais redû, redue", "t'étais redû, redue", "s'était redû, redue", "nous étions redu(e)s", "vous étiez redû, redu(e)s", "s'étaient redu(e)s" ],
+  "passeAnterieur": [ "me fus redû, redue", "te fus redû, redue", "se fut redû, redue", "nous fûmes redu(e)s", "vous fûtes redû, redu(e)s", "se furent redu(e)s" ],
+  "futurAnterieur": [ "me serai redû, redue", "te seras redû, redue", "se sera redû, redue", "nous serons redu(e)s", "vous serez redû, redu(e)s", "se seront redu(e)s" ],
+  "subjonctifPresent": [ "me redoive", "te redoives", "se redoive", "nous redevions", "vous redeviez", "se redoivent" ],
+  "subjonctifImparfait": [ "me redusse", "te redusses", "se redût", "nous redussions", "vous redussiez", "se redussent" ],
+  "subjonctifPasse": [ "me sois redû, redue", "te sois redû, redue", "se soit redû, redue", "nous soyons redu(e)s", "vous soyez redû, redu(e)s", "se soient redu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse redû, redue", "te fusses redû, redue", "se fût redû, redue", "nous fussions redu(e)s", "vous fussiez redû, redu(e)s", "se fussent redu(e)s" ],
+  "conditionnelPresent": [ "me redevrais", "te redevrais", "se redevrait", "nous redevrions", "vous redevriez", "se redevraient" ],
+  "conditionnelPasse": [ "me serais redû, redue", "te serais redû, redue", "se serait redû, redue", "nous serions redu(e)s", "vous seriez redû, redu(e)s", "se seraient redu(e)s" ],
+  "conditionnelPasseII": [ "me fusse redû, redue", "te fusses redû, redue", "se fût redû, redue", "nous fussions redu(e)s", "vous fussiez redû, redu(e)s", "se fussent redu(e)s" ],
+  "imperatif": [ "–", "redois-toi !", "–", "redevons-nous !", "redevez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

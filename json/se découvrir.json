@@ -1,0 +1,22 @@
+{
+  "infinitif": "se découvrir",
+  "participePresent": "se découvrant",
+  "participePasse": "découvert",
+  "present": [ "me découvre", "te découvres", "se découvre", "nous découvrons", "vous découvrez", "se découvrent" ],
+  "imparfait": [ "me découvrais", "te découvrais", "se découvrait", "nous découvrions", "vous découvriez", "se découvraient" ],
+  "passeSimple": [ "me découvris", "te découvris", "se découvrit", "nous découvrîmes", "vous découvrîtes", "se découvrirent" ],
+  "futurSimple": [ "me découvrirai", "te découvriras", "se découvrira", "nous découvrirons", "vous découvrirez", "se découvriront" ],
+  "passeCompose": [ "me suis découvert(e)", "t'es découvert(e)", "s'est découvert(e)", "nous sommes découvert(e)s", "vous êtes découvert(e)(s)", "se sont découvert(e)s" ],
+  "plusQueParfait": [ "m'étais découvert(e)", "t'étais découvert(e)", "s'était découvert(e)", "nous étions découvert(e)s", "vous étiez découvert(e)(s)", "s'étaient découvert(e)s" ],
+  "passeAnterieur": [ "me fus découvert(e)", "te fus découvert(e)", "se fut découvert(e)", "nous fûmes découvert(e)s", "vous fûtes découvert(e)(s)", "se furent découvert(e)s" ],
+  "futurAnterieur": [ "me serai découvert(e)", "te seras découvert(e)", "se sera découvert(e)", "nous serons découvert(e)s", "vous serez découvert(e)(s)", "se seront découvert(e)s" ],
+  "subjonctifPresent": [ "me découvre", "te découvres", "se découvre", "nous découvrions", "vous découvriez", "se découvrent" ],
+  "subjonctifImparfait": [ "me découvrisse", "te découvrisses", "se découvrît", "nous découvrissions", "vous découvrissiez", "se découvrissent" ],
+  "subjonctifPasse": [ "me sois découvert(e)", "te sois découvert(e)", "se soit découvert(e)", "nous soyons découvert(e)s", "vous soyez découvert(e)(s)", "se soient découvert(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse découvert(e)", "te fusses découvert(e)", "se fût découvert(e)", "nous fussions découvert(e)s", "vous fussiez découvert(e)(s)", "se fussent découvert(e)s" ],
+  "conditionnelPresent": [ "me découvrirais", "te découvrirais", "se découvrirait", "nous découvririons", "vous découvririez", "se découvriraient" ],
+  "conditionnelPasse": [ "me serais découvert(e)", "te serais découvert(e)", "se serait découvert(e)", "nous serions découvert(e)s", "vous seriez découvert(e)(s)", "se seraient découvert(e)s" ],
+  "conditionnelPasseII": [ "me fusse découvert(e)", "te fusses découvert(e)", "se fût découvert(e)", "nous fussions découvert(e)s", "vous fussiez découvert(e)(s)", "se fussent découvert(e)s" ],
+  "imperatif": [ "–", "découvre-toi !", "–", "découvrons-nous !", "découvrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

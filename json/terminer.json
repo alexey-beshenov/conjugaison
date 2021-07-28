@@ -1,0 +1,22 @@
+{
+  "infinitif": "terminer",
+  "participePresent": "terminant",
+  "participePasse": "terminé",
+  "present": [ "termine", "termines", "termine", "terminons", "terminez", "terminent" ],
+  "imparfait": [ "terminais", "terminais", "terminait", "terminions", "terminiez", "terminaient" ],
+  "passeSimple": [ "terminai", "terminas", "termina", "terminâmes", "terminâtes", "terminèrent" ],
+  "futurSimple": [ "terminerai", "termineras", "terminera", "terminerons", "terminerez", "termineront" ],
+  "passeCompose": [ "ai terminé", "as terminé", "a terminé", "avons terminé", "avez terminé", "ont terminé" ],
+  "plusQueParfait": [ "avais terminé", "avais terminé", "avait terminé", "avions terminé", "aviez terminé", "avaient terminé" ],
+  "passeAnterieur": [ "eus terminé", "eus terminé", "eut terminé", "eûmes terminé", "eûtes terminé", "eurent terminé" ],
+  "futurAnterieur": [ "aurai terminé", "auras terminé", "aura terminé", "aurons terminé", "aurez terminé", "auront terminé" ],
+  "subjonctifPresent": [ "termine", "termines", "termine", "terminions", "terminiez", "terminent" ],
+  "subjonctifImparfait": [ "terminasse", "terminasses", "terminât", "terminassions", "terminassiez", "terminassent" ],
+  "subjonctifPasse": [ "aie terminé", "aies terminé", "ait terminé", "ayons terminé", "ayez terminé", "aient terminé" ],
+  "subjonctifPlusQueParfait": [ "eusse terminé", "eusses terminé", "eût terminé", "eussions terminé", "eussiez terminé", "eussent terminé" ],
+  "conditionnelPresent": [ "terminerais", "terminerais", "terminerait", "terminerions", "termineriez", "termineraient" ],
+  "conditionnelPasse": [ "aurais terminé", "aurais terminé", "aurait terminé", "aurions terminé", "auriez terminé", "auraient terminé" ],
+  "conditionnelPasseII": [ "eusse terminé", "eusses terminé", "eût terminé", "eussions terminé", "eussiez terminé", "eussent terminé" ],
+  "imperatif": [ "–", "termine !", "–", "terminons !", "terminez !", "–" ],
+  "imperatifPasse": [ "–", "aie terminé !", "–", "ayons terminé !", "ayez terminé !", "–" ]
+}

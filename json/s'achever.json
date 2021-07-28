@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'achever",
+  "participePresent": "s'achevant",
+  "participePasse": "achevé",
+  "present": [ "m'achève", "t'achèves", "s'achève", "nous achevons", "vous achevez", "s'achèvent" ],
+  "imparfait": [ "m'achevais", "t'achevais", "s'achevait", "nous achevions", "vous acheviez", "s'achevaient" ],
+  "passeSimple": [ "m'achevai", "t'achevas", "s'acheva", "nous achevâmes", "vous achevâtes", "s'achevèrent" ],
+  "futurSimple": [ "m'achèverai", "t'achèveras", "s'achèvera", "nous achèverons", "vous achèverez", "s'achèveront" ],
+  "passeCompose": [ "me suis achevé(e)", "t'es achevé(e)", "s'est achevé(e)", "nous sommes achevé(e)s", "vous êtes achevé(e)(s)", "se sont achevé(e)s" ],
+  "plusQueParfait": [ "m'étais achevé(e)", "t'étais achevé(e)", "s'était achevé(e)", "nous étions achevé(e)s", "vous étiez achevé(e)(s)", "s'étaient achevé(e)s" ],
+  "passeAnterieur": [ "me fus achevé(e)", "te fus achevé(e)", "se fut achevé(e)", "nous fûmes achevé(e)s", "vous fûtes achevé(e)(s)", "se furent achevé(e)s" ],
+  "futurAnterieur": [ "me serai achevé(e)", "te seras achevé(e)", "se sera achevé(e)", "nous serons achevé(e)s", "vous serez achevé(e)(s)", "se seront achevé(e)s" ],
+  "subjonctifPresent": [ "m'achève", "t'achèves", "s'achève", "nous achevions", "vous acheviez", "s'achèvent" ],
+  "subjonctifImparfait": [ "m'achevasse", "t'achevasses", "s'achevât", "nous achevassions", "vous achevassiez", "s'achevassent" ],
+  "subjonctifPasse": [ "me sois achevé(e)", "te sois achevé(e)", "se soit achevé(e)", "nous soyons achevé(e)s", "vous soyez achevé(e)(s)", "se soient achevé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse achevé(e)", "te fusses achevé(e)", "se fût achevé(e)", "nous fussions achevé(e)s", "vous fussiez achevé(e)(s)", "se fussent achevé(e)s" ],
+  "conditionnelPresent": [ "m'achèverais", "t'achèverais", "s'achèverait", "nous achèverions", "vous achèveriez", "s'achèveraient" ],
+  "conditionnelPasse": [ "me serais achevé(e)", "te serais achevé(e)", "se serait achevé(e)", "nous serions achevé(e)s", "vous seriez achevé(e)(s)", "se seraient achevé(e)s" ],
+  "conditionnelPasseII": [ "me fusse achevé(e)", "te fusses achevé(e)", "se fût achevé(e)", "nous fussions achevé(e)s", "vous fussiez achevé(e)(s)", "se fussent achevé(e)s" ],
+  "imperatif": [ "–", "achève-toi !", "–", "achevons-nous !", "achevez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

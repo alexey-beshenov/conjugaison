@@ -1,0 +1,22 @@
+{
+  "infinitif": "déclarer",
+  "participePresent": "déclarant",
+  "participePasse": "déclaré",
+  "present": [ "déclare", "déclares", "déclare", "déclarons", "déclarez", "déclarent" ],
+  "imparfait": [ "déclarais", "déclarais", "déclarait", "déclarions", "déclariez", "déclaraient" ],
+  "passeSimple": [ "déclarai", "déclaras", "déclara", "déclarâmes", "déclarâtes", "déclarèrent" ],
+  "futurSimple": [ "déclarerai", "déclareras", "déclarera", "déclarerons", "déclarerez", "déclareront" ],
+  "passeCompose": [ "ai déclaré", "as déclaré", "a déclaré", "avons déclaré", "avez déclaré", "ont déclaré" ],
+  "plusQueParfait": [ "avais déclaré", "avais déclaré", "avait déclaré", "avions déclaré", "aviez déclaré", "avaient déclaré" ],
+  "passeAnterieur": [ "eus déclaré", "eus déclaré", "eut déclaré", "eûmes déclaré", "eûtes déclaré", "eurent déclaré" ],
+  "futurAnterieur": [ "aurai déclaré", "auras déclaré", "aura déclaré", "aurons déclaré", "aurez déclaré", "auront déclaré" ],
+  "subjonctifPresent": [ "déclare", "déclares", "déclare", "déclarions", "déclariez", "déclarent" ],
+  "subjonctifImparfait": [ "déclarasse", "déclarasses", "déclarât", "déclarassions", "déclarassiez", "déclarassent" ],
+  "subjonctifPasse": [ "aie déclaré", "aies déclaré", "ait déclaré", "ayons déclaré", "ayez déclaré", "aient déclaré" ],
+  "subjonctifPlusQueParfait": [ "eusse déclaré", "eusses déclaré", "eût déclaré", "eussions déclaré", "eussiez déclaré", "eussent déclaré" ],
+  "conditionnelPresent": [ "déclarerais", "déclarerais", "déclarerait", "déclarerions", "déclareriez", "déclareraient" ],
+  "conditionnelPasse": [ "aurais déclaré", "aurais déclaré", "aurait déclaré", "aurions déclaré", "auriez déclaré", "auraient déclaré" ],
+  "conditionnelPasseII": [ "eusse déclaré", "eusses déclaré", "eût déclaré", "eussions déclaré", "eussiez déclaré", "eussent déclaré" ],
+  "imperatif": [ "–", "déclare !", "–", "déclarons !", "déclarez !", "–" ],
+  "imperatifPasse": [ "–", "aie déclaré !", "–", "ayons déclaré !", "ayez déclaré !", "–" ]
+}

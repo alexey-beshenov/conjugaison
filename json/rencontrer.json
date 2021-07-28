@@ -1,0 +1,22 @@
+{
+  "infinitif": "rencontrer",
+  "participePresent": "rencontrant",
+  "participePasse": "rencontré",
+  "present": [ "rencontre", "rencontres", "rencontre", "rencontrons", "rencontrez", "rencontrent" ],
+  "imparfait": [ "rencontrais", "rencontrais", "rencontrait", "rencontrions", "rencontriez", "rencontraient" ],
+  "passeSimple": [ "rencontrai", "rencontras", "rencontra", "rencontrâmes", "rencontrâtes", "rencontrèrent" ],
+  "futurSimple": [ "rencontrerai", "rencontreras", "rencontrera", "rencontrerons", "rencontrerez", "rencontreront" ],
+  "passeCompose": [ "ai rencontré", "as rencontré", "a rencontré", "avons rencontré", "avez rencontré", "ont rencontré" ],
+  "plusQueParfait": [ "avais rencontré", "avais rencontré", "avait rencontré", "avions rencontré", "aviez rencontré", "avaient rencontré" ],
+  "passeAnterieur": [ "eus rencontré", "eus rencontré", "eut rencontré", "eûmes rencontré", "eûtes rencontré", "eurent rencontré" ],
+  "futurAnterieur": [ "aurai rencontré", "auras rencontré", "aura rencontré", "aurons rencontré", "aurez rencontré", "auront rencontré" ],
+  "subjonctifPresent": [ "rencontre", "rencontres", "rencontre", "rencontrions", "rencontriez", "rencontrent" ],
+  "subjonctifImparfait": [ "rencontrasse", "rencontrasses", "rencontrât", "rencontrassions", "rencontrassiez", "rencontrassent" ],
+  "subjonctifPasse": [ "aie rencontré", "aies rencontré", "ait rencontré", "ayons rencontré", "ayez rencontré", "aient rencontré" ],
+  "subjonctifPlusQueParfait": [ "eusse rencontré", "eusses rencontré", "eût rencontré", "eussions rencontré", "eussiez rencontré", "eussent rencontré" ],
+  "conditionnelPresent": [ "rencontrerais", "rencontrerais", "rencontrerait", "rencontrerions", "rencontreriez", "rencontreraient" ],
+  "conditionnelPasse": [ "aurais rencontré", "aurais rencontré", "aurait rencontré", "aurions rencontré", "auriez rencontré", "auraient rencontré" ],
+  "conditionnelPasseII": [ "eusse rencontré", "eusses rencontré", "eût rencontré", "eussions rencontré", "eussiez rencontré", "eussent rencontré" ],
+  "imperatif": [ "–", "rencontre !", "–", "rencontrons !", "rencontrez !", "–" ],
+  "imperatifPasse": [ "–", "aie rencontré !", "–", "ayons rencontré !", "ayez rencontré !", "–" ]
+}

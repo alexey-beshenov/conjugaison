@@ -1,0 +1,22 @@
+{
+  "infinitif": "vociférer",
+  "participePresent": "vociférant",
+  "participePasse": "vociféré",
+  "present": [ "vocifère", "vocifères", "vocifère", "vociférons", "vociférez", "vocifèrent" ],
+  "imparfait": [ "vociférais", "vociférais", "vociférait", "vociférions", "vocifériez", "vociféraient" ],
+  "passeSimple": [ "vociférai", "vociféras", "vociféra", "vociférâmes", "vociférâtes", "vociférèrent" ],
+  "futurSimple": [ "vociférerai", "vociféreras", "vociférera", "vociférerons", "vociférerez", "vociféreront" ],
+  "passeCompose": [ "ai vociféré", "as vociféré", "a vociféré", "avons vociféré", "avez vociféré", "ont vociféré" ],
+  "plusQueParfait": [ "avais vociféré", "avais vociféré", "avait vociféré", "avions vociféré", "aviez vociféré", "avaient vociféré" ],
+  "passeAnterieur": [ "eus vociféré", "eus vociféré", "eut vociféré", "eûmes vociféré", "eûtes vociféré", "eurent vociféré" ],
+  "futurAnterieur": [ "aurai vociféré", "auras vociféré", "aura vociféré", "aurons vociféré", "aurez vociféré", "auront vociféré" ],
+  "subjonctifPresent": [ "vocifère", "vocifères", "vocifère", "vociférions", "vocifériez", "vocifèrent" ],
+  "subjonctifImparfait": [ "vociférasse", "vociférasses", "vociférât", "vociférassions", "vociférassiez", "vociférassent" ],
+  "subjonctifPasse": [ "aie vociféré", "aies vociféré", "ait vociféré", "ayons vociféré", "ayez vociféré", "aient vociféré" ],
+  "subjonctifPlusQueParfait": [ "eusse vociféré", "eusses vociféré", "eût vociféré", "eussions vociféré", "eussiez vociféré", "eussent vociféré" ],
+  "conditionnelPresent": [ "vociférerais", "vociférerais", "vociférerait", "vociférerions", "vociféreriez", "vociféreraient" ],
+  "conditionnelPasse": [ "aurais vociféré", "aurais vociféré", "aurait vociféré", "aurions vociféré", "auriez vociféré", "auraient vociféré" ],
+  "conditionnelPasseII": [ "eusse vociféré", "eusses vociféré", "eût vociféré", "eussions vociféré", "eussiez vociféré", "eussent vociféré" ],
+  "imperatif": [ "–", "vocifère !", "–", "vociférons !", "vociférez !", "–" ],
+  "imperatifPasse": [ "–", "aie vociféré !", "–", "ayons vociféré !", "ayez vociféré !", "–" ]
+}

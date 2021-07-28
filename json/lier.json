@@ -1,0 +1,22 @@
+{
+  "infinitif": "lier",
+  "participePresent": "liant",
+  "participePasse": "lié",
+  "present": [ "lie", "lies", "lie", "lions", "liez", "lient" ],
+  "imparfait": [ "liais", "liais", "liait", "liions", "liiez", "liaient" ],
+  "passeSimple": [ "liai", "lias", "lia", "liâmes", "liâtes", "lièrent" ],
+  "futurSimple": [ "lierai", "lieras", "liera", "lierons", "lierez", "lieront" ],
+  "passeCompose": [ "ai lié", "as lié", "a lié", "avons lié", "avez lié", "ont lié" ],
+  "plusQueParfait": [ "avais lié", "avais lié", "avait lié", "avions lié", "aviez lié", "avaient lié" ],
+  "passeAnterieur": [ "eus lié", "eus lié", "eut lié", "eûmes lié", "eûtes lié", "eurent lié" ],
+  "futurAnterieur": [ "aurai lié", "auras lié", "aura lié", "aurons lié", "aurez lié", "auront lié" ],
+  "subjonctifPresent": [ "lie", "lies", "lie", "liions", "liiez", "lient" ],
+  "subjonctifImparfait": [ "liasse", "liasses", "liât", "liassions", "liassiez", "liassent" ],
+  "subjonctifPasse": [ "aie lié", "aies lié", "ait lié", "ayons lié", "ayez lié", "aient lié" ],
+  "subjonctifPlusQueParfait": [ "eusse lié", "eusses lié", "eût lié", "eussions lié", "eussiez lié", "eussent lié" ],
+  "conditionnelPresent": [ "lierais", "lierais", "lierait", "lierions", "lieriez", "lieraient" ],
+  "conditionnelPasse": [ "aurais lié", "aurais lié", "aurait lié", "aurions lié", "auriez lié", "auraient lié" ],
+  "conditionnelPasseII": [ "eusse lié", "eusses lié", "eût lié", "eussions lié", "eussiez lié", "eussent lié" ],
+  "imperatif": [ "–", "lie !", "–", "lions !", "liez !", "–" ],
+  "imperatifPasse": [ "–", "aie lié !", "–", "ayons lié !", "ayez lié !", "–" ]
+}

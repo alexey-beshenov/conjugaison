@@ -1,0 +1,22 @@
+{
+  "infinitif": "se plaindre",
+  "participePresent": "se plaignant",
+  "participePasse": "plaint",
+  "present": [ "me plains", "te plains", "se plaint", "nous plaignons", "vous plaignez", "se plaignent" ],
+  "imparfait": [ "me plaignais", "te plaignais", "se plaignait", "nous plaignions", "vous plaigniez", "se plaignaient" ],
+  "passeSimple": [ "me plaignis", "te plaignis", "se plaignit", "nous plaignîmes", "vous plaignîtes", "se plaignirent" ],
+  "futurSimple": [ "me plaindrai", "te plaindras", "se plaindra", "nous plaindrons", "vous plaindrez", "se plaindront" ],
+  "passeCompose": [ "me suis plaint(e)", "t'es plaint(e)", "s'est plaint(e)", "nous sommes plaint(e)s", "vous êtes plaint(e)(s)", "se sont plaint(e)s" ],
+  "plusQueParfait": [ "m'étais plaint(e)", "t'étais plaint(e)", "s'était plaint(e)", "nous étions plaint(e)s", "vous étiez plaint(e)(s)", "s'étaient plaint(e)s" ],
+  "passeAnterieur": [ "me fus plaint(e)", "te fus plaint(e)", "se fut plaint(e)", "nous fûmes plaint(e)s", "vous fûtes plaint(e)(s)", "se furent plaint(e)s" ],
+  "futurAnterieur": [ "me serai plaint(e)", "te seras plaint(e)", "se sera plaint(e)", "nous serons plaint(e)s", "vous serez plaint(e)(s)", "se seront plaint(e)s" ],
+  "subjonctifPresent": [ "me plaigne", "te plaignes", "se plaigne", "nous plaignions", "vous plaigniez", "se plaignent" ],
+  "subjonctifImparfait": [ "me plaignisse", "te plaignisses", "se plaignît", "nous plaignissions", "vous plaignissiez", "se plaignissent" ],
+  "subjonctifPasse": [ "me sois plaint(e)", "te sois plaint(e)", "se soit plaint(e)", "nous soyons plaint(e)s", "vous soyez plaint(e)(s)", "se soient plaint(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse plaint(e)", "te fusses plaint(e)", "se fût plaint(e)", "nous fussions plaint(e)s", "vous fussiez plaint(e)(s)", "se fussent plaint(e)s" ],
+  "conditionnelPresent": [ "me plaindrais", "te plaindrais", "se plaindrait", "nous plaindrions", "vous plaindriez", "se plaindraient" ],
+  "conditionnelPasse": [ "me serais plaint(e)", "te serais plaint(e)", "se serait plaint(e)", "nous serions plaint(e)s", "vous seriez plaint(e)(s)", "se seraient plaint(e)s" ],
+  "conditionnelPasseII": [ "me fusse plaint(e)", "te fusses plaint(e)", "se fût plaint(e)", "nous fussions plaint(e)s", "vous fussiez plaint(e)(s)", "se fussent plaint(e)s" ],
+  "imperatif": [ "–", "plains-toi !", "–", "plaignons-nous !", "plaignez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

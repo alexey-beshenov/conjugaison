@@ -1,0 +1,22 @@
+{
+  "infinitif": "accuser",
+  "participePresent": "accusant",
+  "participePasse": "accusé",
+  "present": [ "accuse", "accuses", "accuse", "accusons", "accusez", "accusent" ],
+  "imparfait": [ "accusais", "accusais", "accusait", "accusions", "accusiez", "accusaient" ],
+  "passeSimple": [ "accusai", "accusas", "accusa", "accusâmes", "accusâtes", "accusèrent" ],
+  "futurSimple": [ "accuserai", "accuseras", "accusera", "accuserons", "accuserez", "accuseront" ],
+  "passeCompose": [ "ai accusé", "as accusé", "a accusé", "avons accusé", "avez accusé", "ont accusé" ],
+  "plusQueParfait": [ "avais accusé", "avais accusé", "avait accusé", "avions accusé", "aviez accusé", "avaient accusé" ],
+  "passeAnterieur": [ "eus accusé", "eus accusé", "eut accusé", "eûmes accusé", "eûtes accusé", "eurent accusé" ],
+  "futurAnterieur": [ "aurai accusé", "auras accusé", "aura accusé", "aurons accusé", "aurez accusé", "auront accusé" ],
+  "subjonctifPresent": [ "accuse", "accuses", "accuse", "accusions", "accusiez", "accusent" ],
+  "subjonctifImparfait": [ "accusasse", "accusasses", "accusât", "accusassions", "accusassiez", "accusassent" ],
+  "subjonctifPasse": [ "aie accusé", "aies accusé", "ait accusé", "ayons accusé", "ayez accusé", "aient accusé" ],
+  "subjonctifPlusQueParfait": [ "eusse accusé", "eusses accusé", "eût accusé", "eussions accusé", "eussiez accusé", "eussent accusé" ],
+  "conditionnelPresent": [ "accuserais", "accuserais", "accuserait", "accuserions", "accuseriez", "accuseraient" ],
+  "conditionnelPasse": [ "aurais accusé", "aurais accusé", "aurait accusé", "aurions accusé", "auriez accusé", "auraient accusé" ],
+  "conditionnelPasseII": [ "eusse accusé", "eusses accusé", "eût accusé", "eussions accusé", "eussiez accusé", "eussent accusé" ],
+  "imperatif": [ "–", "accuse !", "–", "accusons !", "accusez !", "–" ],
+  "imperatifPasse": [ "–", "aie accusé !", "–", "ayons accusé !", "ayez accusé !", "–" ]
+}

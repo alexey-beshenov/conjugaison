@@ -1,0 +1,22 @@
+{
+  "infinitif": "entendre",
+  "participePresent": "entendant",
+  "participePasse": "entendu",
+  "present": [ "entends", "entends", "entend", "entendons", "entendez", "entendent" ],
+  "imparfait": [ "entendais", "entendais", "entendait", "entendions", "entendiez", "entendaient" ],
+  "passeSimple": [ "entendis", "entendis", "entendit", "entendîmes", "entendîtes", "entendirent" ],
+  "futurSimple": [ "entendrai", "entendras", "entendra", "entendrons", "entendrez", "entendront" ],
+  "passeCompose": [ "ai entendu", "as entendu", "a entendu", "avons entendu", "avez entendu", "ont entendu" ],
+  "plusQueParfait": [ "avais entendu", "avais entendu", "avait entendu", "avions entendu", "aviez entendu", "avaient entendu" ],
+  "passeAnterieur": [ "eus entendu", "eus entendu", "eut entendu", "eûmes entendu", "eûtes entendu", "eurent entendu" ],
+  "futurAnterieur": [ "aurai entendu", "auras entendu", "aura entendu", "aurons entendu", "aurez entendu", "auront entendu" ],
+  "subjonctifPresent": [ "entende", "entendes", "entende", "entendions", "entendiez", "entendent" ],
+  "subjonctifImparfait": [ "entendisse", "entendisses", "entendît", "entendissions", "entendissiez", "entendissent" ],
+  "subjonctifPasse": [ "aie entendu", "aies entendu", "ait entendu", "ayons entendu", "ayez entendu", "aient entendu" ],
+  "subjonctifPlusQueParfait": [ "eusse entendu", "eusses entendu", "eût entendu", "eussions entendu", "eussiez entendu", "eussent entendu" ],
+  "conditionnelPresent": [ "entendrais", "entendrais", "entendrait", "entendrions", "entendriez", "entendraient" ],
+  "conditionnelPasse": [ "aurais entendu", "aurais entendu", "aurait entendu", "aurions entendu", "auriez entendu", "auraient entendu" ],
+  "conditionnelPasseII": [ "eusse entendu", "eusses entendu", "eût entendu", "eussions entendu", "eussiez entendu", "eussent entendu" ],
+  "imperatif": [ "–", "entends !", "–", "entendons !", "entendez !", "–" ],
+  "imperatifPasse": [ "–", "aie entendu !", "–", "ayons entendu !", "ayez entendu !", "–" ]
+}

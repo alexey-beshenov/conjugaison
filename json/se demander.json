@@ -1,0 +1,22 @@
+{
+  "infinitif": "se demander",
+  "participePresent": "se demandant",
+  "participePasse": "demandé",
+  "present": [ "me demande", "te demandes", "se demande", "nous demandons", "vous demandez", "se demandent" ],
+  "imparfait": [ "me demandais", "te demandais", "se demandait", "nous demandions", "vous demandiez", "se demandaient" ],
+  "passeSimple": [ "me demandai", "te demandas", "se demanda", "nous demandâmes", "vous demandâtes", "se demandèrent" ],
+  "futurSimple": [ "me demanderai", "te demanderas", "se demandera", "nous demanderons", "vous demanderez", "se demanderont" ],
+  "passeCompose": [ "me suis demandé(e)", "t'es demandé(e)", "s'est demandé(e)", "nous sommes demandé(e)s", "vous êtes demandé(e)(s)", "se sont demandé(e)s" ],
+  "plusQueParfait": [ "m'étais demandé(e)", "t'étais demandé(e)", "s'était demandé(e)", "nous étions demandé(e)s", "vous étiez demandé(e)(s)", "s'étaient demandé(e)s" ],
+  "passeAnterieur": [ "me fus demandé(e)", "te fus demandé(e)", "se fut demandé(e)", "nous fûmes demandé(e)s", "vous fûtes demandé(e)(s)", "se furent demandé(e)s" ],
+  "futurAnterieur": [ "me serai demandé(e)", "te seras demandé(e)", "se sera demandé(e)", "nous serons demandé(e)s", "vous serez demandé(e)(s)", "se seront demandé(e)s" ],
+  "subjonctifPresent": [ "me demande", "te demandes", "se demande", "nous demandions", "vous demandiez", "se demandent" ],
+  "subjonctifImparfait": [ "me demandasse", "te demandasses", "se demandât", "nous demandassions", "vous demandassiez", "se demandassent" ],
+  "subjonctifPasse": [ "me sois demandé(e)", "te sois demandé(e)", "se soit demandé(e)", "nous soyons demandé(e)s", "vous soyez demandé(e)(s)", "se soient demandé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse demandé(e)", "te fusses demandé(e)", "se fût demandé(e)", "nous fussions demandé(e)s", "vous fussiez demandé(e)(s)", "se fussent demandé(e)s" ],
+  "conditionnelPresent": [ "me demanderais", "te demanderais", "se demanderait", "nous demanderions", "vous demanderiez", "se demanderaient" ],
+  "conditionnelPasse": [ "me serais demandé(e)", "te serais demandé(e)", "se serait demandé(e)", "nous serions demandé(e)s", "vous seriez demandé(e)(s)", "se seraient demandé(e)s" ],
+  "conditionnelPasseII": [ "me fusse demandé(e)", "te fusses demandé(e)", "se fût demandé(e)", "nous fussions demandé(e)s", "vous fussiez demandé(e)(s)", "se fussent demandé(e)s" ],
+  "imperatif": [ "–", "demande-toi !", "–", "demandons-nous !", "demandez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

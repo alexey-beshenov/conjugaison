@@ -1,0 +1,22 @@
+{
+  "infinitif": "confondre",
+  "participePresent": "confondant",
+  "participePasse": "confondu",
+  "present": [ "confonds", "confonds", "confond", "confondons", "confondez", "confondent" ],
+  "imparfait": [ "confondais", "confondais", "confondait", "confondions", "confondiez", "confondaient" ],
+  "passeSimple": [ "confondis", "confondis", "confondit", "confondîmes", "confondîtes", "confondirent" ],
+  "futurSimple": [ "confondrai", "confondras", "confondra", "confondrons", "confondrez", "confondront" ],
+  "passeCompose": [ "ai confondu", "as confondu", "a confondu", "avons confondu", "avez confondu", "ont confondu" ],
+  "plusQueParfait": [ "avais confondu", "avais confondu", "avait confondu", "avions confondu", "aviez confondu", "avaient confondu" ],
+  "passeAnterieur": [ "eus confondu", "eus confondu", "eut confondu", "eûmes confondu", "eûtes confondu", "eurent confondu" ],
+  "futurAnterieur": [ "aurai confondu", "auras confondu", "aura confondu", "aurons confondu", "aurez confondu", "auront confondu" ],
+  "subjonctifPresent": [ "confonde", "confondes", "confonde", "confondions", "confondiez", "confondent" ],
+  "subjonctifImparfait": [ "confondisse", "confondisses", "confondît", "confondissions", "confondissiez", "confondissent" ],
+  "subjonctifPasse": [ "aie confondu", "aies confondu", "ait confondu", "ayons confondu", "ayez confondu", "aient confondu" ],
+  "subjonctifPlusQueParfait": [ "eusse confondu", "eusses confondu", "eût confondu", "eussions confondu", "eussiez confondu", "eussent confondu" ],
+  "conditionnelPresent": [ "confondrais", "confondrais", "confondrait", "confondrions", "confondriez", "confondraient" ],
+  "conditionnelPasse": [ "aurais confondu", "aurais confondu", "aurait confondu", "aurions confondu", "auriez confondu", "auraient confondu" ],
+  "conditionnelPasseII": [ "eusse confondu", "eusses confondu", "eût confondu", "eussions confondu", "eussiez confondu", "eussent confondu" ],
+  "imperatif": [ "–", "confonds !", "–", "confondons !", "confondez !", "–" ],
+  "imperatifPasse": [ "–", "aie confondu !", "–", "ayons confondu !", "ayez confondu !", "–" ]
+}

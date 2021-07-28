@@ -1,0 +1,22 @@
+{
+  "infinitif": "percevoir",
+  "participePresent": "percevant",
+  "participePasse": "perçu",
+  "present": [ "perçois", "perçois", "perçoit", "percevons", "percevez", "perçoivent" ],
+  "imparfait": [ "percevais", "percevais", "percevait", "percevions", "perceviez", "percevaient" ],
+  "passeSimple": [ "perçus", "perçus", "perçut", "perçûmes", "perçûtes", "perçurent" ],
+  "futurSimple": [ "percevrai", "percevras", "percevra", "percevrons", "percevrez", "percevront" ],
+  "passeCompose": [ "ai perçu", "as perçu", "a perçu", "avons perçu", "avez perçu", "ont perçu" ],
+  "plusQueParfait": [ "avais perçu", "avais perçu", "avait perçu", "avions perçu", "aviez perçu", "avaient perçu" ],
+  "passeAnterieur": [ "eus perçu", "eus perçu", "eut perçu", "eûmes perçu", "eûtes perçu", "eurent perçu" ],
+  "futurAnterieur": [ "aurai perçu", "auras perçu", "aura perçu", "aurons perçu", "aurez perçu", "auront perçu" ],
+  "subjonctifPresent": [ "perçoive", "perçoives", "perçoive", "percevions", "perceviez", "perçoivent" ],
+  "subjonctifImparfait": [ "perçusse", "perçusses", "perçût", "perçussions", "perçussiez", "perçussent" ],
+  "subjonctifPasse": [ "aie perçu", "aies perçu", "ait perçu", "ayons perçu", "ayez perçu", "aient perçu" ],
+  "subjonctifPlusQueParfait": [ "eusse perçu", "eusses perçu", "eût perçu", "eussions perçu", "eussiez perçu", "eussent perçu" ],
+  "conditionnelPresent": [ "percevrais", "percevrais", "percevrait", "percevrions", "percevriez", "percevraient" ],
+  "conditionnelPasse": [ "aurais perçu", "aurais perçu", "aurait perçu", "aurions perçu", "auriez perçu", "auraient perçu" ],
+  "conditionnelPasseII": [ "eusse perçu", "eusses perçu", "eût perçu", "eussions perçu", "eussiez perçu", "eussent perçu" ],
+  "imperatif": [ "–", "perçois !", "–", "percevons !", "percevez !", "–" ],
+  "imperatifPasse": [ "–", "aie perçu !", "–", "ayons perçu !", "ayez perçu !", "–" ]
+}

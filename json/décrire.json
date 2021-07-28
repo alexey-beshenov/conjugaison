@@ -1,0 +1,22 @@
+{
+  "infinitif": "décrire",
+  "participePresent": "décrivant",
+  "participePasse": "décrit",
+  "present": [ "décris", "décris", "décrit", "décrivons", "décrivez", "décrivent" ],
+  "imparfait": [ "décrivais", "décrivais", "décrivait", "décrivions", "décriviez", "décrivaient" ],
+  "passeSimple": [ "décrivis", "décrivis", "décrivit", "décrivîmes", "décrivîtes", "décrivirent" ],
+  "futurSimple": [ "décrirai", "décriras", "décrira", "décrirons", "décrirez", "décriront" ],
+  "passeCompose": [ "ai décrit", "as décrit", "a décrit", "avons décrit", "avez décrit", "ont décrit" ],
+  "plusQueParfait": [ "avais décrit", "avais décrit", "avait décrit", "avions décrit", "aviez décrit", "avaient décrit" ],
+  "passeAnterieur": [ "eus décrit", "eus décrit", "eut décrit", "eûmes décrit", "eûtes décrit", "eurent décrit" ],
+  "futurAnterieur": [ "aurai décrit", "auras décrit", "aura décrit", "aurons décrit", "aurez décrit", "auront décrit" ],
+  "subjonctifPresent": [ "décrive", "décrives", "décrive", "décrivions", "décriviez", "décrivent" ],
+  "subjonctifImparfait": [ "décrivisse", "décrivisses", "décrivît", "décrivissions", "décrivissiez", "décrivissent" ],
+  "subjonctifPasse": [ "aie décrit", "aies décrit", "ait décrit", "ayons décrit", "ayez décrit", "aient décrit" ],
+  "subjonctifPlusQueParfait": [ "eusse décrit", "eusses décrit", "eût décrit", "eussions décrit", "eussiez décrit", "eussent décrit" ],
+  "conditionnelPresent": [ "décrirais", "décrirais", "décrirait", "décririons", "décririez", "décriraient" ],
+  "conditionnelPasse": [ "aurais décrit", "aurais décrit", "aurait décrit", "aurions décrit", "auriez décrit", "auraient décrit" ],
+  "conditionnelPasseII": [ "eusse décrit", "eusses décrit", "eût décrit", "eussions décrit", "eussiez décrit", "eussent décrit" ],
+  "imperatif": [ "–", "décris !", "–", "décrivons !", "décrivez !", "–" ],
+  "imperatifPasse": [ "–", "aie décrit !", "–", "ayons décrit !", "ayez décrit !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "déchirer",
+  "participePresent": "déchirant",
+  "participePasse": "déchiré",
+  "present": [ "déchire", "déchires", "déchire", "déchirons", "déchirez", "déchirent" ],
+  "imparfait": [ "déchirais", "déchirais", "déchirait", "déchirions", "déchiriez", "déchiraient" ],
+  "passeSimple": [ "déchirai", "déchiras", "déchira", "déchirâmes", "déchirâtes", "déchirèrent" ],
+  "futurSimple": [ "déchirerai", "déchireras", "déchirera", "déchirerons", "déchirerez", "déchireront" ],
+  "passeCompose": [ "ai déchiré", "as déchiré", "a déchiré", "avons déchiré", "avez déchiré", "ont déchiré" ],
+  "plusQueParfait": [ "avais déchiré", "avais déchiré", "avait déchiré", "avions déchiré", "aviez déchiré", "avaient déchiré" ],
+  "passeAnterieur": [ "eus déchiré", "eus déchiré", "eut déchiré", "eûmes déchiré", "eûtes déchiré", "eurent déchiré" ],
+  "futurAnterieur": [ "aurai déchiré", "auras déchiré", "aura déchiré", "aurons déchiré", "aurez déchiré", "auront déchiré" ],
+  "subjonctifPresent": [ "déchire", "déchires", "déchire", "déchirions", "déchiriez", "déchirent" ],
+  "subjonctifImparfait": [ "déchirasse", "déchirasses", "déchirât", "déchirassions", "déchirassiez", "déchirassent" ],
+  "subjonctifPasse": [ "aie déchiré", "aies déchiré", "ait déchiré", "ayons déchiré", "ayez déchiré", "aient déchiré" ],
+  "subjonctifPlusQueParfait": [ "eusse déchiré", "eusses déchiré", "eût déchiré", "eussions déchiré", "eussiez déchiré", "eussent déchiré" ],
+  "conditionnelPresent": [ "déchirerais", "déchirerais", "déchirerait", "déchirerions", "déchireriez", "déchireraient" ],
+  "conditionnelPasse": [ "aurais déchiré", "aurais déchiré", "aurait déchiré", "aurions déchiré", "auriez déchiré", "auraient déchiré" ],
+  "conditionnelPasseII": [ "eusse déchiré", "eusses déchiré", "eût déchiré", "eussions déchiré", "eussiez déchiré", "eussent déchiré" ],
+  "imperatif": [ "–", "déchire !", "–", "déchirons !", "déchirez !", "–" ],
+  "imperatifPasse": [ "–", "aie déchiré !", "–", "ayons déchiré !", "ayez déchiré !", "–" ]
+}

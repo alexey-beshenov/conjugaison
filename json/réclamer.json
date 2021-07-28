@@ -1,0 +1,22 @@
+{
+  "infinitif": "réclamer",
+  "participePresent": "réclamant",
+  "participePasse": "réclamé",
+  "present": [ "réclame", "réclames", "réclame", "réclamons", "réclamez", "réclament" ],
+  "imparfait": [ "réclamais", "réclamais", "réclamait", "réclamions", "réclamiez", "réclamaient" ],
+  "passeSimple": [ "réclamai", "réclamas", "réclama", "réclamâmes", "réclamâtes", "réclamèrent" ],
+  "futurSimple": [ "réclamerai", "réclameras", "réclamera", "réclamerons", "réclamerez", "réclameront" ],
+  "passeCompose": [ "ai réclamé", "as réclamé", "a réclamé", "avons réclamé", "avez réclamé", "ont réclamé" ],
+  "plusQueParfait": [ "avais réclamé", "avais réclamé", "avait réclamé", "avions réclamé", "aviez réclamé", "avaient réclamé" ],
+  "passeAnterieur": [ "eus réclamé", "eus réclamé", "eut réclamé", "eûmes réclamé", "eûtes réclamé", "eurent réclamé" ],
+  "futurAnterieur": [ "aurai réclamé", "auras réclamé", "aura réclamé", "aurons réclamé", "aurez réclamé", "auront réclamé" ],
+  "subjonctifPresent": [ "réclame", "réclames", "réclame", "réclamions", "réclamiez", "réclament" ],
+  "subjonctifImparfait": [ "réclamasse", "réclamasses", "réclamât", "réclamassions", "réclamassiez", "réclamassent" ],
+  "subjonctifPasse": [ "aie réclamé", "aies réclamé", "ait réclamé", "ayons réclamé", "ayez réclamé", "aient réclamé" ],
+  "subjonctifPlusQueParfait": [ "eusse réclamé", "eusses réclamé", "eût réclamé", "eussions réclamé", "eussiez réclamé", "eussent réclamé" ],
+  "conditionnelPresent": [ "réclamerais", "réclamerais", "réclamerait", "réclamerions", "réclameriez", "réclameraient" ],
+  "conditionnelPasse": [ "aurais réclamé", "aurais réclamé", "aurait réclamé", "aurions réclamé", "auriez réclamé", "auraient réclamé" ],
+  "conditionnelPasseII": [ "eusse réclamé", "eusses réclamé", "eût réclamé", "eussions réclamé", "eussiez réclamé", "eussent réclamé" ],
+  "imperatif": [ "–", "réclame !", "–", "réclamons !", "réclamez !", "–" ],
+  "imperatifPasse": [ "–", "aie réclamé !", "–", "ayons réclamé !", "ayez réclamé !", "–" ]
+}

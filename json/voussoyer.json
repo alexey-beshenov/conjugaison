@@ -1,0 +1,22 @@
+{
+  "infinitif": "voussoyer",
+  "participePresent": "voussoyant",
+  "participePasse": "voussoyé",
+  "present": [ "voussoie", "voussoies", "voussoie", "voussoyons", "voussoyez", "voussoient" ],
+  "imparfait": [ "voussoyais", "voussoyais", "voussoyait", "voussoyions", "voussoyiez", "voussoyaient" ],
+  "passeSimple": [ "voussoyai", "voussoyas", "voussoya", "voussoyâmes", "voussoyâtes", "voussoyèrent" ],
+  "futurSimple": [ "voussoierai", "voussoieras", "voussoiera", "voussoierons", "voussoierez", "voussoieront" ],
+  "passeCompose": [ "ai voussoyé", "as voussoyé", "a voussoyé", "avons voussoyé", "avez voussoyé", "ont voussoyé" ],
+  "plusQueParfait": [ "avais voussoyé", "avais voussoyé", "avait voussoyé", "avions voussoyé", "aviez voussoyé", "avaient voussoyé" ],
+  "passeAnterieur": [ "eus voussoyé", "eus voussoyé", "eut voussoyé", "eûmes voussoyé", "eûtes voussoyé", "eurent voussoyé" ],
+  "futurAnterieur": [ "aurai voussoyé", "auras voussoyé", "aura voussoyé", "aurons voussoyé", "aurez voussoyé", "auront voussoyé" ],
+  "subjonctifPresent": [ "voussoie", "voussoies", "voussoie", "voussoyions", "voussoyiez", "voussoient" ],
+  "subjonctifImparfait": [ "voussoyasse", "voussoyasses", "voussoyât", "voussoyassions", "voussoyassiez", "voussoyassent" ],
+  "subjonctifPasse": [ "aie voussoyé", "aies voussoyé", "ait voussoyé", "ayons voussoyé", "ayez voussoyé", "aient voussoyé" ],
+  "subjonctifPlusQueParfait": [ "eusse voussoyé", "eusses voussoyé", "eût voussoyé", "eussions voussoyé", "eussiez voussoyé", "eussent voussoyé" ],
+  "conditionnelPresent": [ "voussoierais", "voussoierais", "voussoierait", "voussoierions", "voussoieriez", "voussoieraient" ],
+  "conditionnelPasse": [ "aurais voussoyé", "aurais voussoyé", "aurait voussoyé", "aurions voussoyé", "auriez voussoyé", "auraient voussoyé" ],
+  "conditionnelPasseII": [ "eusse voussoyé", "eusses voussoyé", "eût voussoyé", "eussions voussoyé", "eussiez voussoyé", "eussent voussoyé" ],
+  "imperatif": [ "–", "voussoie !", "–", "voussoyons !", "voussoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie voussoyé !", "–", "ayons voussoyé !", "ayez voussoyé !", "–" ]
+}

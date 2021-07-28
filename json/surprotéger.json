@@ -1,0 +1,22 @@
+{
+  "infinitif": "surprotéger",
+  "participePresent": "surprotégeant",
+  "participePasse": "surprotégé",
+  "present": [ "surprotège", "surprotèges", "surprotège", "surprotégeons", "surprotégez", "surprotègent" ],
+  "imparfait": [ "surprotégeais", "surprotégeais", "surprotégeait", "surprotégions", "surprotégiez", "surprotégeaient" ],
+  "passeSimple": [ "surprotégeai", "surprotégeas", "surprotégea", "surprotégeâmes", "surprotégeâtes", "surprotégèrent" ],
+  "futurSimple": [ "surprotégerai", "surprotégeras", "surprotégera", "surprotégerons", "surprotégerez", "surprotégeront" ],
+  "passeCompose": [ "ai surprotégé", "as surprotégé", "a surprotégé", "avons surprotégé", "avez surprotégé", "ont surprotégé" ],
+  "plusQueParfait": [ "avais surprotégé", "avais surprotégé", "avait surprotégé", "avions surprotégé", "aviez surprotégé", "avaient surprotégé" ],
+  "passeAnterieur": [ "eus surprotégé", "eus surprotégé", "eut surprotégé", "eûmes surprotégé", "eûtes surprotégé", "eurent surprotégé" ],
+  "futurAnterieur": [ "aurai surprotégé", "auras surprotégé", "aura surprotégé", "aurons surprotégé", "aurez surprotégé", "auront surprotégé" ],
+  "subjonctifPresent": [ "surprotège", "surprotèges", "surprotège", "surprotégions", "surprotégiez", "surprotègent" ],
+  "subjonctifImparfait": [ "surprotégeasse", "surprotégeasses", "surprotégeât", "surprotégeassions", "surprotégeassiez", "surprotégeassent" ],
+  "subjonctifPasse": [ "aie surprotégé", "aies surprotégé", "ait surprotégé", "ayons surprotégé", "ayez surprotégé", "aient surprotégé" ],
+  "subjonctifPlusQueParfait": [ "eusse surprotégé", "eusses surprotégé", "eût surprotégé", "eussions surprotégé", "eussiez surprotégé", "eussent surprotégé" ],
+  "conditionnelPresent": [ "surprotégerais", "surprotégerais", "surprotégerait", "surprotégerions", "surprotégeriez", "surprotégeraient" ],
+  "conditionnelPasse": [ "aurais surprotégé", "aurais surprotégé", "aurait surprotégé", "aurions surprotégé", "auriez surprotégé", "auraient surprotégé" ],
+  "conditionnelPasseII": [ "eusse surprotégé", "eusses surprotégé", "eût surprotégé", "eussions surprotégé", "eussiez surprotégé", "eussent surprotégé" ],
+  "imperatif": [ "–", "surprotège !", "–", "surprotégeons !", "surprotégez !", "–" ],
+  "imperatifPasse": [ "–", "aie surprotégé !", "–", "ayons surprotégé !", "ayez surprotégé !", "–" ]
+}

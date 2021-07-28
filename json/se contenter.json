@@ -1,0 +1,22 @@
+{
+  "infinitif": "se contenter",
+  "participePresent": "se contentant",
+  "participePasse": "contenté",
+  "present": [ "me contente", "te contentes", "se contente", "nous contentons", "vous contentez", "se contentent" ],
+  "imparfait": [ "me contentais", "te contentais", "se contentait", "nous contentions", "vous contentiez", "se contentaient" ],
+  "passeSimple": [ "me contentai", "te contentas", "se contenta", "nous contentâmes", "vous contentâtes", "se contentèrent" ],
+  "futurSimple": [ "me contenterai", "te contenteras", "se contentera", "nous contenterons", "vous contenterez", "se contenteront" ],
+  "passeCompose": [ "me suis contenté(e)", "t'es contenté(e)", "s'est contenté(e)", "nous sommes contenté(e)s", "vous êtes contenté(e)(s)", "se sont contenté(e)s" ],
+  "plusQueParfait": [ "m'étais contenté(e)", "t'étais contenté(e)", "s'était contenté(e)", "nous étions contenté(e)s", "vous étiez contenté(e)(s)", "s'étaient contenté(e)s" ],
+  "passeAnterieur": [ "me fus contenté(e)", "te fus contenté(e)", "se fut contenté(e)", "nous fûmes contenté(e)s", "vous fûtes contenté(e)(s)", "se furent contenté(e)s" ],
+  "futurAnterieur": [ "me serai contenté(e)", "te seras contenté(e)", "se sera contenté(e)", "nous serons contenté(e)s", "vous serez contenté(e)(s)", "se seront contenté(e)s" ],
+  "subjonctifPresent": [ "me contente", "te contentes", "se contente", "nous contentions", "vous contentiez", "se contentent" ],
+  "subjonctifImparfait": [ "me contentasse", "te contentasses", "se contentât", "nous contentassions", "vous contentassiez", "se contentassent" ],
+  "subjonctifPasse": [ "me sois contenté(e)", "te sois contenté(e)", "se soit contenté(e)", "nous soyons contenté(e)s", "vous soyez contenté(e)(s)", "se soient contenté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse contenté(e)", "te fusses contenté(e)", "se fût contenté(e)", "nous fussions contenté(e)s", "vous fussiez contenté(e)(s)", "se fussent contenté(e)s" ],
+  "conditionnelPresent": [ "me contenterais", "te contenterais", "se contenterait", "nous contenterions", "vous contenteriez", "se contenteraient" ],
+  "conditionnelPasse": [ "me serais contenté(e)", "te serais contenté(e)", "se serait contenté(e)", "nous serions contenté(e)s", "vous seriez contenté(e)(s)", "se seraient contenté(e)s" ],
+  "conditionnelPasseII": [ "me fusse contenté(e)", "te fusses contenté(e)", "se fût contenté(e)", "nous fussions contenté(e)s", "vous fussiez contenté(e)(s)", "se fussent contenté(e)s" ],
+  "imperatif": [ "–", "contente-toi !", "–", "contentons-nous !", "contentez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

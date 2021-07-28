@@ -1,0 +1,22 @@
+{
+  "infinitif": "précéder",
+  "participePresent": "précédant",
+  "participePasse": "précédé",
+  "present": [ "précède", "précèdes", "précède", "précédons", "précédez", "précèdent" ],
+  "imparfait": [ "précédais", "précédais", "précédait", "précédions", "précédiez", "précédaient" ],
+  "passeSimple": [ "précédai", "précédas", "précéda", "précédâmes", "précédâtes", "précédèrent" ],
+  "futurSimple": [ "précéderai", "précéderas", "précédera", "précéderons", "précéderez", "précéderont" ],
+  "passeCompose": [ "ai précédé", "as précédé", "a précédé", "avons précédé", "avez précédé", "ont précédé" ],
+  "plusQueParfait": [ "avais précédé", "avais précédé", "avait précédé", "avions précédé", "aviez précédé", "avaient précédé" ],
+  "passeAnterieur": [ "eus précédé", "eus précédé", "eut précédé", "eûmes précédé", "eûtes précédé", "eurent précédé" ],
+  "futurAnterieur": [ "aurai précédé", "auras précédé", "aura précédé", "aurons précédé", "aurez précédé", "auront précédé" ],
+  "subjonctifPresent": [ "précède", "précèdes", "précède", "précédions", "précédiez", "précèdent" ],
+  "subjonctifImparfait": [ "précédasse", "précédasses", "précédât", "précédassions", "précédassiez", "précédassent" ],
+  "subjonctifPasse": [ "aie précédé", "aies précédé", "ait précédé", "ayons précédé", "ayez précédé", "aient précédé" ],
+  "subjonctifPlusQueParfait": [ "eusse précédé", "eusses précédé", "eût précédé", "eussions précédé", "eussiez précédé", "eussent précédé" ],
+  "conditionnelPresent": [ "précéderais", "précéderais", "précéderait", "précéderions", "précéderiez", "précéderaient" ],
+  "conditionnelPasse": [ "aurais précédé", "aurais précédé", "aurait précédé", "aurions précédé", "auriez précédé", "auraient précédé" ],
+  "conditionnelPasseII": [ "eusse précédé", "eusses précédé", "eût précédé", "eussions précédé", "eussiez précédé", "eussent précédé" ],
+  "imperatif": [ "–", "précède !", "–", "précédons !", "précédez !", "–" ],
+  "imperatifPasse": [ "–", "aie précédé !", "–", "ayons précédé !", "ayez précédé !", "–" ]
+}

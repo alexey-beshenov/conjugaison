@@ -1,0 +1,22 @@
+{
+  "infinitif": "préparer",
+  "participePresent": "préparant",
+  "participePasse": "préparé",
+  "present": [ "prépare", "prépares", "prépare", "préparons", "préparez", "préparent" ],
+  "imparfait": [ "préparais", "préparais", "préparait", "préparions", "prépariez", "préparaient" ],
+  "passeSimple": [ "préparai", "préparas", "prépara", "préparâmes", "préparâtes", "préparèrent" ],
+  "futurSimple": [ "préparerai", "prépareras", "préparera", "préparerons", "préparerez", "prépareront" ],
+  "passeCompose": [ "ai préparé", "as préparé", "a préparé", "avons préparé", "avez préparé", "ont préparé" ],
+  "plusQueParfait": [ "avais préparé", "avais préparé", "avait préparé", "avions préparé", "aviez préparé", "avaient préparé" ],
+  "passeAnterieur": [ "eus préparé", "eus préparé", "eut préparé", "eûmes préparé", "eûtes préparé", "eurent préparé" ],
+  "futurAnterieur": [ "aurai préparé", "auras préparé", "aura préparé", "aurons préparé", "aurez préparé", "auront préparé" ],
+  "subjonctifPresent": [ "prépare", "prépares", "prépare", "préparions", "prépariez", "préparent" ],
+  "subjonctifImparfait": [ "préparasse", "préparasses", "préparât", "préparassions", "préparassiez", "préparassent" ],
+  "subjonctifPasse": [ "aie préparé", "aies préparé", "ait préparé", "ayons préparé", "ayez préparé", "aient préparé" ],
+  "subjonctifPlusQueParfait": [ "eusse préparé", "eusses préparé", "eût préparé", "eussions préparé", "eussiez préparé", "eussent préparé" ],
+  "conditionnelPresent": [ "préparerais", "préparerais", "préparerait", "préparerions", "prépareriez", "prépareraient" ],
+  "conditionnelPasse": [ "aurais préparé", "aurais préparé", "aurait préparé", "aurions préparé", "auriez préparé", "auraient préparé" ],
+  "conditionnelPasseII": [ "eusse préparé", "eusses préparé", "eût préparé", "eussions préparé", "eussiez préparé", "eussent préparé" ],
+  "imperatif": [ "–", "prépare !", "–", "préparons !", "préparez !", "–" ],
+  "imperatifPasse": [ "–", "aie préparé !", "–", "ayons préparé !", "ayez préparé !", "–" ]
+}

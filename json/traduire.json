@@ -1,0 +1,22 @@
+{
+  "infinitif": "traduire",
+  "participePresent": "traduisant",
+  "participePasse": "traduit",
+  "present": [ "traduis", "traduis", "traduit", "traduisons", "traduisez", "traduisent" ],
+  "imparfait": [ "traduisais", "traduisais", "traduisait", "traduisions", "traduisiez", "traduisaient" ],
+  "passeSimple": [ "traduisis", "traduisis", "traduisit", "traduisîmes", "traduisîtes", "traduisirent" ],
+  "futurSimple": [ "traduirai", "traduiras", "traduira", "traduirons", "traduirez", "traduiront" ],
+  "passeCompose": [ "ai traduit", "as traduit", "a traduit", "avons traduit", "avez traduit", "ont traduit" ],
+  "plusQueParfait": [ "avais traduit", "avais traduit", "avait traduit", "avions traduit", "aviez traduit", "avaient traduit" ],
+  "passeAnterieur": [ "eus traduit", "eus traduit", "eut traduit", "eûmes traduit", "eûtes traduit", "eurent traduit" ],
+  "futurAnterieur": [ "aurai traduit", "auras traduit", "aura traduit", "aurons traduit", "aurez traduit", "auront traduit" ],
+  "subjonctifPresent": [ "traduise", "traduises", "traduise", "traduisions", "traduisiez", "traduisent" ],
+  "subjonctifImparfait": [ "traduisisse", "traduisisses", "traduisît", "traduisissions", "traduisissiez", "traduisissent" ],
+  "subjonctifPasse": [ "aie traduit", "aies traduit", "ait traduit", "ayons traduit", "ayez traduit", "aient traduit" ],
+  "subjonctifPlusQueParfait": [ "eusse traduit", "eusses traduit", "eût traduit", "eussions traduit", "eussiez traduit", "eussent traduit" ],
+  "conditionnelPresent": [ "traduirais", "traduirais", "traduirait", "traduirions", "traduiriez", "traduiraient" ],
+  "conditionnelPasse": [ "aurais traduit", "aurais traduit", "aurait traduit", "aurions traduit", "auriez traduit", "auraient traduit" ],
+  "conditionnelPasseII": [ "eusse traduit", "eusses traduit", "eût traduit", "eussions traduit", "eussiez traduit", "eussent traduit" ],
+  "imperatif": [ "–", "traduis !", "–", "traduisons !", "traduisez !", "–" ],
+  "imperatifPasse": [ "–", "aie traduit !", "–", "ayons traduit !", "ayez traduit !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se tourner",
+  "participePresent": "se tournant",
+  "participePasse": "tourné",
+  "present": [ "me tourne", "te tournes", "se tourne", "nous tournons", "vous tournez", "se tournent" ],
+  "imparfait": [ "me tournais", "te tournais", "se tournait", "nous tournions", "vous tourniez", "se tournaient" ],
+  "passeSimple": [ "me tournai", "te tournas", "se tourna", "nous tournâmes", "vous tournâtes", "se tournèrent" ],
+  "futurSimple": [ "me tournerai", "te tourneras", "se tournera", "nous tournerons", "vous tournerez", "se tourneront" ],
+  "passeCompose": [ "me suis tourné(e)", "t'es tourné(e)", "s'est tourné(e)", "nous sommes tourné(e)s", "vous êtes tourné(e)(s)", "se sont tourné(e)s" ],
+  "plusQueParfait": [ "m'étais tourné(e)", "t'étais tourné(e)", "s'était tourné(e)", "nous étions tourné(e)s", "vous étiez tourné(e)(s)", "s'étaient tourné(e)s" ],
+  "passeAnterieur": [ "me fus tourné(e)", "te fus tourné(e)", "se fut tourné(e)", "nous fûmes tourné(e)s", "vous fûtes tourné(e)(s)", "se furent tourné(e)s" ],
+  "futurAnterieur": [ "me serai tourné(e)", "te seras tourné(e)", "se sera tourné(e)", "nous serons tourné(e)s", "vous serez tourné(e)(s)", "se seront tourné(e)s" ],
+  "subjonctifPresent": [ "me tourne", "te tournes", "se tourne", "nous tournions", "vous tourniez", "se tournent" ],
+  "subjonctifImparfait": [ "me tournasse", "te tournasses", "se tournât", "nous tournassions", "vous tournassiez", "se tournassent" ],
+  "subjonctifPasse": [ "me sois tourné(e)", "te sois tourné(e)", "se soit tourné(e)", "nous soyons tourné(e)s", "vous soyez tourné(e)(s)", "se soient tourné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse tourné(e)", "te fusses tourné(e)", "se fût tourné(e)", "nous fussions tourné(e)s", "vous fussiez tourné(e)(s)", "se fussent tourné(e)s" ],
+  "conditionnelPresent": [ "me tournerais", "te tournerais", "se tournerait", "nous tournerions", "vous tourneriez", "se tourneraient" ],
+  "conditionnelPasse": [ "me serais tourné(e)", "te serais tourné(e)", "se serait tourné(e)", "nous serions tourné(e)s", "vous seriez tourné(e)(s)", "se seraient tourné(e)s" ],
+  "conditionnelPasseII": [ "me fusse tourné(e)", "te fusses tourné(e)", "se fût tourné(e)", "nous fussions tourné(e)s", "vous fussiez tourné(e)(s)", "se fussent tourné(e)s" ],
+  "imperatif": [ "–", "tourne-toi !", "–", "tournons-nous !", "tournez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

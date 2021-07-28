@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'émoudre",
+  "participePresent": "s'émoulant",
+  "participePasse": "émoulu",
+  "present": [ "m'émouds", "t'émouds", "s'émoud", "nous émoulons", "vous émoulez", "s'émoulent" ],
+  "imparfait": [ "m'émoulais", "t'émoulais", "s'émoulait", "nous émoulions", "vous émouliez", "s'émoulaient" ],
+  "passeSimple": [ "m'émoulus", "t'émoulus", "s'émoulut", "nous émoulûmes", "vous émoulûtes", "s'émoulurent" ],
+  "futurSimple": [ "m'émoudrai", "t'émoudras", "s'émoudra", "nous émoudrons", "vous émoudrez", "s'émoudront" ],
+  "passeCompose": [ "me suis émoulu(e)", "t'es émoulu(e)", "s'est émoulu(e)", "nous sommes émoulu(e)s", "vous êtes émoulu(e)(s)", "se sont émoulu(e)s" ],
+  "plusQueParfait": [ "m'étais émoulu(e)", "t'étais émoulu(e)", "s'était émoulu(e)", "nous étions émoulu(e)s", "vous étiez émoulu(e)(s)", "s'étaient émoulu(e)s" ],
+  "passeAnterieur": [ "me fus émoulu(e)", "te fus émoulu(e)", "se fut émoulu(e)", "nous fûmes émoulu(e)s", "vous fûtes émoulu(e)(s)", "se furent émoulu(e)s" ],
+  "futurAnterieur": [ "me serai émoulu(e)", "te seras émoulu(e)", "se sera émoulu(e)", "nous serons émoulu(e)s", "vous serez émoulu(e)(s)", "se seront émoulu(e)s" ],
+  "subjonctifPresent": [ "m'émoule", "t'émoules", "s'émoule", "nous émoulions", "vous émouliez", "s'émoulent" ],
+  "subjonctifImparfait": [ "m'émoulusse", "t'émoulusses", "s'émoulût", "nous émoulussions", "vous émoulussiez", "s'émoulussent" ],
+  "subjonctifPasse": [ "me sois émoulu(e)", "te sois émoulu(e)", "se soit émoulu(e)", "nous soyons émoulu(e)s", "vous soyez émoulu(e)(s)", "se soient émoulu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse émoulu(e)", "te fusses émoulu(e)", "se fût émoulu(e)", "nous fussions émoulu(e)s", "vous fussiez émoulu(e)(s)", "se fussent émoulu(e)s" ],
+  "conditionnelPresent": [ "m'émoudrais", "t'émoudrais", "s'émoudrait", "nous émoudrions", "vous émoudriez", "s'émoudraient" ],
+  "conditionnelPasse": [ "me serais émoulu(e)", "te serais émoulu(e)", "se serait émoulu(e)", "nous serions émoulu(e)s", "vous seriez émoulu(e)(s)", "se seraient émoulu(e)s" ],
+  "conditionnelPasseII": [ "me fusse émoulu(e)", "te fusses émoulu(e)", "se fût émoulu(e)", "nous fussions émoulu(e)s", "vous fussiez émoulu(e)(s)", "se fussent émoulu(e)s" ],
+  "imperatif": [ "–", "émouds-toi !", "–", "émoulons-nous !", "émoulez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

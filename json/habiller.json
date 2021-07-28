@@ -1,0 +1,22 @@
+{
+  "infinitif": "habiller",
+  "participePresent": "habillant",
+  "participePasse": "habillé",
+  "present": [ "habille", "habilles", "habille", "habillons", "habillez", "habillent" ],
+  "imparfait": [ "habillais", "habillais", "habillait", "habillions", "habilliez", "habillaient" ],
+  "passeSimple": [ "habillai", "habillas", "habilla", "habillâmes", "habillâtes", "habillèrent" ],
+  "futurSimple": [ "habillerai", "habilleras", "habillera", "habillerons", "habillerez", "habilleront" ],
+  "passeCompose": [ "ai habillé", "as habillé", "a habillé", "avons habillé", "avez habillé", "ont habillé" ],
+  "plusQueParfait": [ "avais habillé", "avais habillé", "avait habillé", "avions habillé", "aviez habillé", "avaient habillé" ],
+  "passeAnterieur": [ "eus habillé", "eus habillé", "eut habillé", "eûmes habillé", "eûtes habillé", "eurent habillé" ],
+  "futurAnterieur": [ "aurai habillé", "auras habillé", "aura habillé", "aurons habillé", "aurez habillé", "auront habillé" ],
+  "subjonctifPresent": [ "habille", "habilles", "habille", "habillions", "habilliez", "habillent" ],
+  "subjonctifImparfait": [ "habillasse", "habillasses", "habillât", "habillassions", "habillassiez", "habillassent" ],
+  "subjonctifPasse": [ "aie habillé", "aies habillé", "ait habillé", "ayons habillé", "ayez habillé", "aient habillé" ],
+  "subjonctifPlusQueParfait": [ "eusse habillé", "eusses habillé", "eût habillé", "eussions habillé", "eussiez habillé", "eussent habillé" ],
+  "conditionnelPresent": [ "habillerais", "habillerais", "habillerait", "habillerions", "habilleriez", "habilleraient" ],
+  "conditionnelPasse": [ "aurais habillé", "aurais habillé", "aurait habillé", "aurions habillé", "auriez habillé", "auraient habillé" ],
+  "conditionnelPasseII": [ "eusse habillé", "eusses habillé", "eût habillé", "eussions habillé", "eussiez habillé", "eussent habillé" ],
+  "imperatif": [ "–", "habille !", "–", "habillons !", "habillez !", "–" ],
+  "imperatifPasse": [ "–", "aie habillé !", "–", "ayons habillé !", "ayez habillé !", "–" ]
+}

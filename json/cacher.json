@@ -1,0 +1,22 @@
+{
+  "infinitif": "cacher",
+  "participePresent": "cachant",
+  "participePasse": "caché",
+  "present": [ "cache", "caches", "cache", "cachons", "cachez", "cachent" ],
+  "imparfait": [ "cachais", "cachais", "cachait", "cachions", "cachiez", "cachaient" ],
+  "passeSimple": [ "cachai", "cachas", "cacha", "cachâmes", "cachâtes", "cachèrent" ],
+  "futurSimple": [ "cacherai", "cacheras", "cachera", "cacherons", "cacherez", "cacheront" ],
+  "passeCompose": [ "ai caché", "as caché", "a caché", "avons caché", "avez caché", "ont caché" ],
+  "plusQueParfait": [ "avais caché", "avais caché", "avait caché", "avions caché", "aviez caché", "avaient caché" ],
+  "passeAnterieur": [ "eus caché", "eus caché", "eut caché", "eûmes caché", "eûtes caché", "eurent caché" ],
+  "futurAnterieur": [ "aurai caché", "auras caché", "aura caché", "aurons caché", "aurez caché", "auront caché" ],
+  "subjonctifPresent": [ "cache", "caches", "cache", "cachions", "cachiez", "cachent" ],
+  "subjonctifImparfait": [ "cachasse", "cachasses", "cachât", "cachassions", "cachassiez", "cachassent" ],
+  "subjonctifPasse": [ "aie caché", "aies caché", "ait caché", "ayons caché", "ayez caché", "aient caché" ],
+  "subjonctifPlusQueParfait": [ "eusse caché", "eusses caché", "eût caché", "eussions caché", "eussiez caché", "eussent caché" ],
+  "conditionnelPresent": [ "cacherais", "cacherais", "cacherait", "cacherions", "cacheriez", "cacheraient" ],
+  "conditionnelPasse": [ "aurais caché", "aurais caché", "aurait caché", "aurions caché", "auriez caché", "auraient caché" ],
+  "conditionnelPasseII": [ "eusse caché", "eusses caché", "eût caché", "eussions caché", "eussiez caché", "eussent caché" ],
+  "imperatif": [ "–", "cache !", "–", "cachons !", "cachez !", "–" ],
+  "imperatifPasse": [ "–", "aie caché !", "–", "ayons caché !", "ayez caché !", "–" ]
+}

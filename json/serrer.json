@@ -1,0 +1,22 @@
+{
+  "infinitif": "serrer",
+  "participePresent": "serrant",
+  "participePasse": "serré",
+  "present": [ "serre", "serres", "serre", "serrons", "serrez", "serrent" ],
+  "imparfait": [ "serrais", "serrais", "serrait", "serrions", "serriez", "serraient" ],
+  "passeSimple": [ "serrai", "serras", "serra", "serrâmes", "serrâtes", "serrèrent" ],
+  "futurSimple": [ "serrerai", "serreras", "serrera", "serrerons", "serrerez", "serreront" ],
+  "passeCompose": [ "ai serré", "as serré", "a serré", "avons serré", "avez serré", "ont serré" ],
+  "plusQueParfait": [ "avais serré", "avais serré", "avait serré", "avions serré", "aviez serré", "avaient serré" ],
+  "passeAnterieur": [ "eus serré", "eus serré", "eut serré", "eûmes serré", "eûtes serré", "eurent serré" ],
+  "futurAnterieur": [ "aurai serré", "auras serré", "aura serré", "aurons serré", "aurez serré", "auront serré" ],
+  "subjonctifPresent": [ "serre", "serres", "serre", "serrions", "serriez", "serrent" ],
+  "subjonctifImparfait": [ "serrasse", "serrasses", "serrât", "serrassions", "serrassiez", "serrassent" ],
+  "subjonctifPasse": [ "aie serré", "aies serré", "ait serré", "ayons serré", "ayez serré", "aient serré" ],
+  "subjonctifPlusQueParfait": [ "eusse serré", "eusses serré", "eût serré", "eussions serré", "eussiez serré", "eussent serré" ],
+  "conditionnelPresent": [ "serrerais", "serrerais", "serrerait", "serrerions", "serreriez", "serreraient" ],
+  "conditionnelPasse": [ "aurais serré", "aurais serré", "aurait serré", "aurions serré", "auriez serré", "auraient serré" ],
+  "conditionnelPasseII": [ "eusse serré", "eusses serré", "eût serré", "eussions serré", "eussiez serré", "eussent serré" ],
+  "imperatif": [ "–", "serre !", "–", "serrons !", "serrez !", "–" ],
+  "imperatifPasse": [ "–", "aie serré !", "–", "ayons serré !", "ayez serré !", "–" ]
+}

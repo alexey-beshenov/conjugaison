@@ -1,0 +1,22 @@
+{
+  "infinitif": "exécuter",
+  "participePresent": "exécutant",
+  "participePasse": "exécuté",
+  "present": [ "exécute", "exécutes", "exécute", "exécutons", "exécutez", "exécutent" ],
+  "imparfait": [ "exécutais", "exécutais", "exécutait", "exécutions", "exécutiez", "exécutaient" ],
+  "passeSimple": [ "exécutai", "exécutas", "exécuta", "exécutâmes", "exécutâtes", "exécutèrent" ],
+  "futurSimple": [ "exécuterai", "exécuteras", "exécutera", "exécuterons", "exécuterez", "exécuteront" ],
+  "passeCompose": [ "ai exécuté", "as exécuté", "a exécuté", "avons exécuté", "avez exécuté", "ont exécuté" ],
+  "plusQueParfait": [ "avais exécuté", "avais exécuté", "avait exécuté", "avions exécuté", "aviez exécuté", "avaient exécuté" ],
+  "passeAnterieur": [ "eus exécuté", "eus exécuté", "eut exécuté", "eûmes exécuté", "eûtes exécuté", "eurent exécuté" ],
+  "futurAnterieur": [ "aurai exécuté", "auras exécuté", "aura exécuté", "aurons exécuté", "aurez exécuté", "auront exécuté" ],
+  "subjonctifPresent": [ "exécute", "exécutes", "exécute", "exécutions", "exécutiez", "exécutent" ],
+  "subjonctifImparfait": [ "exécutasse", "exécutasses", "exécutât", "exécutassions", "exécutassiez", "exécutassent" ],
+  "subjonctifPasse": [ "aie exécuté", "aies exécuté", "ait exécuté", "ayons exécuté", "ayez exécuté", "aient exécuté" ],
+  "subjonctifPlusQueParfait": [ "eusse exécuté", "eusses exécuté", "eût exécuté", "eussions exécuté", "eussiez exécuté", "eussent exécuté" ],
+  "conditionnelPresent": [ "exécuterais", "exécuterais", "exécuterait", "exécuterions", "exécuteriez", "exécuteraient" ],
+  "conditionnelPasse": [ "aurais exécuté", "aurais exécuté", "aurait exécuté", "aurions exécuté", "auriez exécuté", "auraient exécuté" ],
+  "conditionnelPasseII": [ "eusse exécuté", "eusses exécuté", "eût exécuté", "eussions exécuté", "eussiez exécuté", "eussent exécuté" ],
+  "imperatif": [ "–", "exécute !", "–", "exécutons !", "exécutez !", "–" ],
+  "imperatifPasse": [ "–", "aie exécuté !", "–", "ayons exécuté !", "ayez exécuté !", "–" ]
+}

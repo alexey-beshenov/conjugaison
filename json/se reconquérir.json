@@ -1,0 +1,22 @@
+{
+  "infinitif": "se reconquérir",
+  "participePresent": "se reconquérant",
+  "participePasse": "reconquis",
+  "present": [ "me reconquiers", "te reconquiers", "se reconquiert", "nous reconquérons", "vous reconquérez", "se reconquièrent" ],
+  "imparfait": [ "me reconquérais", "te reconquérais", "se reconquérait", "nous reconquérions", "vous reconquériez", "se reconquéraient" ],
+  "passeSimple": [ "me reconquis", "te reconquis", "se reconquit", "nous reconquîmes", "vous reconquîtes", "se reconquirent" ],
+  "futurSimple": [ "me reconquerrai", "te reconquerras", "se reconquerra", "nous reconquerrons", "vous reconquerrez", "se reconquerront" ],
+  "passeCompose": [ "me suis reconquis(e)", "t'es reconquis(e)", "s'est reconquis(e)", "nous sommes reconquis(es)", "vous êtes reconquis(e(s))", "se sont reconquis(es)" ],
+  "plusQueParfait": [ "m'étais reconquis(e)", "t'étais reconquis(e)", "s'était reconquis(e)", "nous étions reconquis(es)", "vous étiez reconquis(e(s))", "s'étaient reconquis(es)" ],
+  "passeAnterieur": [ "me fus reconquis(e)", "te fus reconquis(e)", "se fut reconquis(e)", "nous fûmes reconquis(es)", "vous fûtes reconquis(e(s))", "se furent reconquis(es)" ],
+  "futurAnterieur": [ "me serai reconquis(e)", "te seras reconquis(e)", "se sera reconquis(e)", "nous serons reconquis(es)", "vous serez reconquis(e(s))", "se seront reconquis(es)" ],
+  "subjonctifPresent": [ "me reconquière", "te reconquières", "se reconquière", "nous reconquérions", "vous reconquériez", "se reconquièrent" ],
+  "subjonctifImparfait": [ "me reconquisse", "te reconquisses", "se reconquît", "nous reconquissions", "vous reconquissiez", "se reconquissent" ],
+  "subjonctifPasse": [ "me sois reconquis(e)", "te sois reconquis(e)", "se soit reconquis(e)", "nous soyons reconquis(es)", "vous soyez reconquis(e(s))", "se soient reconquis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse reconquis(e)", "te fusses reconquis(e)", "se fût reconquis(e)", "nous fussions reconquis(es)", "vous fussiez reconquis(e(s))", "se fussent reconquis(es)" ],
+  "conditionnelPresent": [ "me reconquerrais", "te reconquerrais", "se reconquerrait", "nous reconquerrions", "vous reconquerriez", "se reconquerraient" ],
+  "conditionnelPasse": [ "me serais reconquis(e)", "te serais reconquis(e)", "se serait reconquis(e)", "nous serions reconquis(es)", "vous seriez reconquis(e(s))", "se seraient reconquis(es)" ],
+  "conditionnelPasseII": [ "me fusse reconquis(e)", "te fusses reconquis(e)", "se fût reconquis(e)", "nous fussions reconquis(es)", "vous fussiez reconquis(e(s))", "se fussent reconquis(es)" ],
+  "imperatif": [ "–", "reconquiers-toi !", "–", "reconquérons-nous !", "reconquérez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

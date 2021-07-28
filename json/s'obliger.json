@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'obliger",
+  "participePresent": "s'obligeant",
+  "participePasse": "obligé",
+  "present": [ "m'oblige", "t'obliges", "s'oblige", "nous obligeons", "vous obligez", "s'obligent" ],
+  "imparfait": [ "m'obligeais", "t'obligeais", "s'obligeait", "nous obligions", "vous obligiez", "s'obligeaient" ],
+  "passeSimple": [ "m'obligeai", "t'obligeas", "s'obligea", "nous obligeâmes", "vous obligeâtes", "s'obligèrent" ],
+  "futurSimple": [ "m'obligerai", "t'obligeras", "s'obligera", "nous obligerons", "vous obligerez", "s'obligeront" ],
+  "passeCompose": [ "me suis obligé(e)", "t'es obligé(e)", "s'est obligé(e)", "nous sommes obligé(e)s", "vous êtes obligé(e)(s)", "se sont obligé(e)s" ],
+  "plusQueParfait": [ "m'étais obligé(e)", "t'étais obligé(e)", "s'était obligé(e)", "nous étions obligé(e)s", "vous étiez obligé(e)(s)", "s'étaient obligé(e)s" ],
+  "passeAnterieur": [ "me fus obligé(e)", "te fus obligé(e)", "se fut obligé(e)", "nous fûmes obligé(e)s", "vous fûtes obligé(e)(s)", "se furent obligé(e)s" ],
+  "futurAnterieur": [ "me serai obligé(e)", "te seras obligé(e)", "se sera obligé(e)", "nous serons obligé(e)s", "vous serez obligé(e)(s)", "se seront obligé(e)s" ],
+  "subjonctifPresent": [ "m'oblige", "t'obliges", "s'oblige", "nous obligions", "vous obligiez", "s'obligent" ],
+  "subjonctifImparfait": [ "m'obligeasse", "t'obligeasses", "s'obligeât", "nous obligeassions", "vous obligeassiez", "s'obligeassent" ],
+  "subjonctifPasse": [ "me sois obligé(e)", "te sois obligé(e)", "se soit obligé(e)", "nous soyons obligé(e)s", "vous soyez obligé(e)(s)", "se soient obligé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse obligé(e)", "te fusses obligé(e)", "se fût obligé(e)", "nous fussions obligé(e)s", "vous fussiez obligé(e)(s)", "se fussent obligé(e)s" ],
+  "conditionnelPresent": [ "m'obligerais", "t'obligerais", "s'obligerait", "nous obligerions", "vous obligeriez", "s'obligeraient" ],
+  "conditionnelPasse": [ "me serais obligé(e)", "te serais obligé(e)", "se serait obligé(e)", "nous serions obligé(e)s", "vous seriez obligé(e)(s)", "se seraient obligé(e)s" ],
+  "conditionnelPasseII": [ "me fusse obligé(e)", "te fusses obligé(e)", "se fût obligé(e)", "nous fussions obligé(e)s", "vous fussiez obligé(e)(s)", "se fussent obligé(e)s" ],
+  "imperatif": [ "–", "oblige-toi !", "–", "obligeons-nous !", "obligez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

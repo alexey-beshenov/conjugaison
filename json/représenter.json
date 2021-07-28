@@ -1,0 +1,22 @@
+{
+  "infinitif": "représenter",
+  "participePresent": "représentant",
+  "participePasse": "représenté",
+  "present": [ "représente", "représentes", "représente", "représentons", "représentez", "représentent" ],
+  "imparfait": [ "représentais", "représentais", "représentait", "représentions", "représentiez", "représentaient" ],
+  "passeSimple": [ "représentai", "représentas", "représenta", "représentâmes", "représentâtes", "représentèrent" ],
+  "futurSimple": [ "représenterai", "représenteras", "représentera", "représenterons", "représenterez", "représenteront" ],
+  "passeCompose": [ "ai représenté", "as représenté", "a représenté", "avons représenté", "avez représenté", "ont représenté" ],
+  "plusQueParfait": [ "avais représenté", "avais représenté", "avait représenté", "avions représenté", "aviez représenté", "avaient représenté" ],
+  "passeAnterieur": [ "eus représenté", "eus représenté", "eut représenté", "eûmes représenté", "eûtes représenté", "eurent représenté" ],
+  "futurAnterieur": [ "aurai représenté", "auras représenté", "aura représenté", "aurons représenté", "aurez représenté", "auront représenté" ],
+  "subjonctifPresent": [ "représente", "représentes", "représente", "représentions", "représentiez", "représentent" ],
+  "subjonctifImparfait": [ "représentasse", "représentasses", "représentât", "représentassions", "représentassiez", "représentassent" ],
+  "subjonctifPasse": [ "aie représenté", "aies représenté", "ait représenté", "ayons représenté", "ayez représenté", "aient représenté" ],
+  "subjonctifPlusQueParfait": [ "eusse représenté", "eusses représenté", "eût représenté", "eussions représenté", "eussiez représenté", "eussent représenté" ],
+  "conditionnelPresent": [ "représenterais", "représenterais", "représenterait", "représenterions", "représenteriez", "représenteraient" ],
+  "conditionnelPasse": [ "aurais représenté", "aurais représenté", "aurait représenté", "aurions représenté", "auriez représenté", "auraient représenté" ],
+  "conditionnelPasseII": [ "eusse représenté", "eusses représenté", "eût représenté", "eussions représenté", "eussiez représenté", "eussent représenté" ],
+  "imperatif": [ "–", "représente !", "–", "représentons !", "représentez !", "–" ],
+  "imperatifPasse": [ "–", "aie représenté !", "–", "ayons représenté !", "ayez représenté !", "–" ]
+}

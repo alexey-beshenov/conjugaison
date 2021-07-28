@@ -1,0 +1,22 @@
+{
+  "infinitif": "condamner",
+  "participePresent": "condamnant",
+  "participePasse": "condamné",
+  "present": [ "condamne", "condamnes", "condamne", "condamnons", "condamnez", "condamnent" ],
+  "imparfait": [ "condamnais", "condamnais", "condamnait", "condamnions", "condamniez", "condamnaient" ],
+  "passeSimple": [ "condamnai", "condamnas", "condamna", "condamnâmes", "condamnâtes", "condamnèrent" ],
+  "futurSimple": [ "condamnerai", "condamneras", "condamnera", "condamnerons", "condamnerez", "condamneront" ],
+  "passeCompose": [ "ai condamné", "as condamné", "a condamné", "avons condamné", "avez condamné", "ont condamné" ],
+  "plusQueParfait": [ "avais condamné", "avais condamné", "avait condamné", "avions condamné", "aviez condamné", "avaient condamné" ],
+  "passeAnterieur": [ "eus condamné", "eus condamné", "eut condamné", "eûmes condamné", "eûtes condamné", "eurent condamné" ],
+  "futurAnterieur": [ "aurai condamné", "auras condamné", "aura condamné", "aurons condamné", "aurez condamné", "auront condamné" ],
+  "subjonctifPresent": [ "condamne", "condamnes", "condamne", "condamnions", "condamniez", "condamnent" ],
+  "subjonctifImparfait": [ "condamnasse", "condamnasses", "condamnât", "condamnassions", "condamnassiez", "condamnassent" ],
+  "subjonctifPasse": [ "aie condamné", "aies condamné", "ait condamné", "ayons condamné", "ayez condamné", "aient condamné" ],
+  "subjonctifPlusQueParfait": [ "eusse condamné", "eusses condamné", "eût condamné", "eussions condamné", "eussiez condamné", "eussent condamné" ],
+  "conditionnelPresent": [ "condamnerais", "condamnerais", "condamnerait", "condamnerions", "condamneriez", "condamneraient" ],
+  "conditionnelPasse": [ "aurais condamné", "aurais condamné", "aurait condamné", "aurions condamné", "auriez condamné", "auraient condamné" ],
+  "conditionnelPasseII": [ "eusse condamné", "eusses condamné", "eût condamné", "eussions condamné", "eussiez condamné", "eussent condamné" ],
+  "imperatif": [ "–", "condamne !", "–", "condamnons !", "condamnez !", "–" ],
+  "imperatifPasse": [ "–", "aie condamné !", "–", "ayons condamné !", "ayez condamné !", "–" ]
+}

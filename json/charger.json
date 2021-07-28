@@ -1,0 +1,22 @@
+{
+  "infinitif": "charger",
+  "participePresent": "chargeant",
+  "participePasse": "chargé",
+  "present": [ "charge", "charges", "charge", "chargeons", "chargez", "chargent" ],
+  "imparfait": [ "chargeais", "chargeais", "chargeait", "chargions", "chargiez", "chargeaient" ],
+  "passeSimple": [ "chargeai", "chargeas", "chargea", "chargeâmes", "chargeâtes", "chargèrent" ],
+  "futurSimple": [ "chargerai", "chargeras", "chargera", "chargerons", "chargerez", "chargeront" ],
+  "passeCompose": [ "ai chargé", "as chargé", "a chargé", "avons chargé", "avez chargé", "ont chargé" ],
+  "plusQueParfait": [ "avais chargé", "avais chargé", "avait chargé", "avions chargé", "aviez chargé", "avaient chargé" ],
+  "passeAnterieur": [ "eus chargé", "eus chargé", "eut chargé", "eûmes chargé", "eûtes chargé", "eurent chargé" ],
+  "futurAnterieur": [ "aurai chargé", "auras chargé", "aura chargé", "aurons chargé", "aurez chargé", "auront chargé" ],
+  "subjonctifPresent": [ "charge", "charges", "charge", "chargions", "chargiez", "chargent" ],
+  "subjonctifImparfait": [ "chargeasse", "chargeasses", "chargeât", "chargeassions", "chargeassiez", "chargeassent" ],
+  "subjonctifPasse": [ "aie chargé", "aies chargé", "ait chargé", "ayons chargé", "ayez chargé", "aient chargé" ],
+  "subjonctifPlusQueParfait": [ "eusse chargé", "eusses chargé", "eût chargé", "eussions chargé", "eussiez chargé", "eussent chargé" ],
+  "conditionnelPresent": [ "chargerais", "chargerais", "chargerait", "chargerions", "chargeriez", "chargeraient" ],
+  "conditionnelPasse": [ "aurais chargé", "aurais chargé", "aurait chargé", "aurions chargé", "auriez chargé", "auraient chargé" ],
+  "conditionnelPasseII": [ "eusse chargé", "eusses chargé", "eût chargé", "eussions chargé", "eussiez chargé", "eussent chargé" ],
+  "imperatif": [ "–", "charge !", "–", "chargeons !", "chargez !", "–" ],
+  "imperatifPasse": [ "–", "aie chargé !", "–", "ayons chargé !", "ayez chargé !", "–" ]
+}

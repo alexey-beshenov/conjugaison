@@ -1,0 +1,22 @@
+{
+  "infinitif": "approcher",
+  "participePresent": "approchant",
+  "participePasse": "approché",
+  "present": [ "approche", "approches", "approche", "approchons", "approchez", "approchent" ],
+  "imparfait": [ "approchais", "approchais", "approchait", "approchions", "approchiez", "approchaient" ],
+  "passeSimple": [ "approchai", "approchas", "approcha", "approchâmes", "approchâtes", "approchèrent" ],
+  "futurSimple": [ "approcherai", "approcheras", "approchera", "approcherons", "approcherez", "approcheront" ],
+  "passeCompose": [ "ai approché", "as approché", "a approché", "avons approché", "avez approché", "ont approché" ],
+  "plusQueParfait": [ "avais approché", "avais approché", "avait approché", "avions approché", "aviez approché", "avaient approché" ],
+  "passeAnterieur": [ "eus approché", "eus approché", "eut approché", "eûmes approché", "eûtes approché", "eurent approché" ],
+  "futurAnterieur": [ "aurai approché", "auras approché", "aura approché", "aurons approché", "aurez approché", "auront approché" ],
+  "subjonctifPresent": [ "approche", "approches", "approche", "approchions", "approchiez", "approchent" ],
+  "subjonctifImparfait": [ "approchasse", "approchasses", "approchât", "approchassions", "approchassiez", "approchassent" ],
+  "subjonctifPasse": [ "aie approché", "aies approché", "ait approché", "ayons approché", "ayez approché", "aient approché" ],
+  "subjonctifPlusQueParfait": [ "eusse approché", "eusses approché", "eût approché", "eussions approché", "eussiez approché", "eussent approché" ],
+  "conditionnelPresent": [ "approcherais", "approcherais", "approcherait", "approcherions", "approcheriez", "approcheraient" ],
+  "conditionnelPasse": [ "aurais approché", "aurais approché", "aurait approché", "aurions approché", "auriez approché", "auraient approché" ],
+  "conditionnelPasseII": [ "eusse approché", "eusses approché", "eût approché", "eussions approché", "eussiez approché", "eussent approché" ],
+  "imperatif": [ "–", "approche !", "–", "approchons !", "approchez !", "–" ],
+  "imperatifPasse": [ "–", "aie approché !", "–", "ayons approché !", "ayez approché !", "–" ]
+}

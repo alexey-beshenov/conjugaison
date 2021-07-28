@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'exprimer",
+  "participePresent": "s'exprimant",
+  "participePasse": "exprimé",
+  "present": [ "m'exprime", "t'exprimes", "s'exprime", "nous exprimons", "vous exprimez", "s'expriment" ],
+  "imparfait": [ "m'exprimais", "t'exprimais", "s'exprimait", "nous exprimions", "vous exprimiez", "s'exprimaient" ],
+  "passeSimple": [ "m'exprimai", "t'exprimas", "s'exprima", "nous exprimâmes", "vous exprimâtes", "s'exprimèrent" ],
+  "futurSimple": [ "m'exprimerai", "t'exprimeras", "s'exprimera", "nous exprimerons", "vous exprimerez", "s'exprimeront" ],
+  "passeCompose": [ "me suis exprimé(e)", "t'es exprimé(e)", "s'est exprimé(e)", "nous sommes exprimé(e)s", "vous êtes exprimé(e)(s)", "se sont exprimé(e)s" ],
+  "plusQueParfait": [ "m'étais exprimé(e)", "t'étais exprimé(e)", "s'était exprimé(e)", "nous étions exprimé(e)s", "vous étiez exprimé(e)(s)", "s'étaient exprimé(e)s" ],
+  "passeAnterieur": [ "me fus exprimé(e)", "te fus exprimé(e)", "se fut exprimé(e)", "nous fûmes exprimé(e)s", "vous fûtes exprimé(e)(s)", "se furent exprimé(e)s" ],
+  "futurAnterieur": [ "me serai exprimé(e)", "te seras exprimé(e)", "se sera exprimé(e)", "nous serons exprimé(e)s", "vous serez exprimé(e)(s)", "se seront exprimé(e)s" ],
+  "subjonctifPresent": [ "m'exprime", "t'exprimes", "s'exprime", "nous exprimions", "vous exprimiez", "s'expriment" ],
+  "subjonctifImparfait": [ "m'exprimasse", "t'exprimasses", "s'exprimât", "nous exprimassions", "vous exprimassiez", "s'exprimassent" ],
+  "subjonctifPasse": [ "me sois exprimé(e)", "te sois exprimé(e)", "se soit exprimé(e)", "nous soyons exprimé(e)s", "vous soyez exprimé(e)(s)", "se soient exprimé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse exprimé(e)", "te fusses exprimé(e)", "se fût exprimé(e)", "nous fussions exprimé(e)s", "vous fussiez exprimé(e)(s)", "se fussent exprimé(e)s" ],
+  "conditionnelPresent": [ "m'exprimerais", "t'exprimerais", "s'exprimerait", "nous exprimerions", "vous exprimeriez", "s'exprimeraient" ],
+  "conditionnelPasse": [ "me serais exprimé(e)", "te serais exprimé(e)", "se serait exprimé(e)", "nous serions exprimé(e)s", "vous seriez exprimé(e)(s)", "se seraient exprimé(e)s" ],
+  "conditionnelPasseII": [ "me fusse exprimé(e)", "te fusses exprimé(e)", "se fût exprimé(e)", "nous fussions exprimé(e)s", "vous fussiez exprimé(e)(s)", "se fussent exprimé(e)s" ],
+  "imperatif": [ "–", "exprime-toi !", "–", "exprimons-nous !", "exprimez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

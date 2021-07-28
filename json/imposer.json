@@ -1,0 +1,22 @@
+{
+  "infinitif": "imposer",
+  "participePresent": "imposant",
+  "participePasse": "imposé",
+  "present": [ "impose", "imposes", "impose", "imposons", "imposez", "imposent" ],
+  "imparfait": [ "imposais", "imposais", "imposait", "imposions", "imposiez", "imposaient" ],
+  "passeSimple": [ "imposai", "imposas", "imposa", "imposâmes", "imposâtes", "imposèrent" ],
+  "futurSimple": [ "imposerai", "imposeras", "imposera", "imposerons", "imposerez", "imposeront" ],
+  "passeCompose": [ "ai imposé", "as imposé", "a imposé", "avons imposé", "avez imposé", "ont imposé" ],
+  "plusQueParfait": [ "avais imposé", "avais imposé", "avait imposé", "avions imposé", "aviez imposé", "avaient imposé" ],
+  "passeAnterieur": [ "eus imposé", "eus imposé", "eut imposé", "eûmes imposé", "eûtes imposé", "eurent imposé" ],
+  "futurAnterieur": [ "aurai imposé", "auras imposé", "aura imposé", "aurons imposé", "aurez imposé", "auront imposé" ],
+  "subjonctifPresent": [ "impose", "imposes", "impose", "imposions", "imposiez", "imposent" ],
+  "subjonctifImparfait": [ "imposasse", "imposasses", "imposât", "imposassions", "imposassiez", "imposassent" ],
+  "subjonctifPasse": [ "aie imposé", "aies imposé", "ait imposé", "ayons imposé", "ayez imposé", "aient imposé" ],
+  "subjonctifPlusQueParfait": [ "eusse imposé", "eusses imposé", "eût imposé", "eussions imposé", "eussiez imposé", "eussent imposé" ],
+  "conditionnelPresent": [ "imposerais", "imposerais", "imposerait", "imposerions", "imposeriez", "imposeraient" ],
+  "conditionnelPasse": [ "aurais imposé", "aurais imposé", "aurait imposé", "aurions imposé", "auriez imposé", "auraient imposé" ],
+  "conditionnelPasseII": [ "eusse imposé", "eusses imposé", "eût imposé", "eussions imposé", "eussiez imposé", "eussent imposé" ],
+  "imperatif": [ "–", "impose !", "–", "imposons !", "imposez !", "–" ],
+  "imperatifPasse": [ "–", "aie imposé !", "–", "ayons imposé !", "ayez imposé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "sauter",
+  "participePresent": "sautant",
+  "participePasse": "sauté",
+  "present": [ "saute", "sautes", "saute", "sautons", "sautez", "sautent" ],
+  "imparfait": [ "sautais", "sautais", "sautait", "sautions", "sautiez", "sautaient" ],
+  "passeSimple": [ "sautai", "sautas", "sauta", "sautâmes", "sautâtes", "sautèrent" ],
+  "futurSimple": [ "sauterai", "sauteras", "sautera", "sauterons", "sauterez", "sauteront" ],
+  "passeCompose": [ "ai sauté", "as sauté", "a sauté", "avons sauté", "avez sauté", "ont sauté" ],
+  "plusQueParfait": [ "avais sauté", "avais sauté", "avait sauté", "avions sauté", "aviez sauté", "avaient sauté" ],
+  "passeAnterieur": [ "eus sauté", "eus sauté", "eut sauté", "eûmes sauté", "eûtes sauté", "eurent sauté" ],
+  "futurAnterieur": [ "aurai sauté", "auras sauté", "aura sauté", "aurons sauté", "aurez sauté", "auront sauté" ],
+  "subjonctifPresent": [ "saute", "sautes", "saute", "sautions", "sautiez", "sautent" ],
+  "subjonctifImparfait": [ "sautasse", "sautasses", "sautât", "sautassions", "sautassiez", "sautassent" ],
+  "subjonctifPasse": [ "aie sauté", "aies sauté", "ait sauté", "ayons sauté", "ayez sauté", "aient sauté" ],
+  "subjonctifPlusQueParfait": [ "eusse sauté", "eusses sauté", "eût sauté", "eussions sauté", "eussiez sauté", "eussent sauté" ],
+  "conditionnelPresent": [ "sauterais", "sauterais", "sauterait", "sauterions", "sauteriez", "sauteraient" ],
+  "conditionnelPasse": [ "aurais sauté", "aurais sauté", "aurait sauté", "aurions sauté", "auriez sauté", "auraient sauté" ],
+  "conditionnelPasseII": [ "eusse sauté", "eusses sauté", "eût sauté", "eussions sauté", "eussiez sauté", "eussent sauté" ],
+  "imperatif": [ "–", "saute !", "–", "sautons !", "sautez !", "–" ],
+  "imperatifPasse": [ "–", "aie sauté !", "–", "ayons sauté !", "ayez sauté !", "–" ]
+}

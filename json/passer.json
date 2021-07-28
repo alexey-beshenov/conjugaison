@@ -1,0 +1,22 @@
+{
+  "infinitif": "passer",
+  "participePresent": "passant",
+  "participePasse": "passé",
+  "present": [ "passe", "passes", "passe", "passons", "passez", "passent" ],
+  "imparfait": [ "passais", "passais", "passait", "passions", "passiez", "passaient" ],
+  "passeSimple": [ "passai", "passas", "passa", "passâmes", "passâtes", "passèrent" ],
+  "futurSimple": [ "passerai", "passeras", "passera", "passerons", "passerez", "passeront" ],
+  "passeCompose": [ "suis passé(e)", "es passé(e)", "est passé(e)", "sommes passé(e)s", "êtes passé(e)(s)", "sont passé(e)s" ],
+  "plusQueParfait": [ "étais passé(e)", "étais passé(e)", "était passé(e)", "étions passé(e)s", "étiez passé(e)(s)", "étaient passé(e)s" ],
+  "passeAnterieur": [ "fus passé(e)", "fus passé(e)", "fut passé(e)", "fûmes passé(e)s", "fûtes passé(e)(s)", "furent passé(e)s" ],
+  "futurAnterieur": [ "serai passé(e)", "seras passé(e)", "sera passé(e)", "serons passé(e)s", "serez passé(e)(s)", "seront passé(e)s" ],
+  "subjonctifPresent": [ "passe", "passes", "passe", "passions", "passiez", "passent" ],
+  "subjonctifImparfait": [ "passasse", "passasses", "passât", "passassions", "passassiez", "passassent" ],
+  "subjonctifPasse": [ "sois passé(e)", "sois passé(e)", "soit passé(e)", "soyons passé(e)s", "soyez passé(e)(s)", "soient passé(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse passé(e)", "fusses passé(e)", "fût passé(e)", "fussions passé(e)s", "fussiez passé(e)(s)", "fussent passé(e)s" ],
+  "conditionnelPresent": [ "passerais", "passerais", "passerait", "passerions", "passeriez", "passeraient" ],
+  "conditionnelPasse": [ "serais passé(e)", "serais passé(e)", "serait passé(e)", "serions passé(e)s", "seriez passé(e)(s)", "seraient passé(e)s" ],
+  "conditionnelPasseII": [ "fusse passé(e)", "fusses passé(e)", "fût passé(e)", "fussions passé(e)s", "fussiez passé(e)(s)", "fussent passé(e)s" ],
+  "imperatif": [ "–", "passe !", "–", "passons !", "passez !", "–" ],
+  "imperatifPasse": [ "–", "sois passé(e) !", "–", "soyons passé(e)s !", "soyez passé(e)(s) !", "–" ]
+}

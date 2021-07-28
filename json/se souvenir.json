@@ -1,0 +1,22 @@
+{
+  "infinitif": "se souvenir",
+  "participePresent": "se souvenant",
+  "participePasse": "souvenu",
+  "present": [ "me souviens", "te souviens", "se souvient", "nous souvenons", "vous souvenez", "se souviennent" ],
+  "imparfait": [ "me souvenais", "te souvenais", "se souvenait", "nous souvenions", "vous souveniez", "se souvenaient" ],
+  "passeSimple": [ "me souvins", "te souvins", "se souvint", "nous souvînmes", "vous souvîntes", "se souvinrent" ],
+  "futurSimple": [ "me souviendrai", "te souviendras", "se souviendra", "nous souviendrons", "vous souviendrez", "se souviendront" ],
+  "passeCompose": [ "me suis souvenu(e)", "t'es souvenu(e)", "s'est souvenu(e)", "nous sommes souvenu(e)s", "vous êtes souvenu(e)(s)", "se sont souvenu(e)s" ],
+  "plusQueParfait": [ "m'étais souvenu(e)", "t'étais souvenu(e)", "s'était souvenu(e)", "nous étions souvenu(e)s", "vous étiez souvenu(e)(s)", "s'étaient souvenu(e)s" ],
+  "passeAnterieur": [ "me fus souvenu(e)", "te fus souvenu(e)", "se fut souvenu(e)", "nous fûmes souvenu(e)s", "vous fûtes souvenu(e)(s)", "se furent souvenu(e)s" ],
+  "futurAnterieur": [ "me serai souvenu(e)", "te seras souvenu(e)", "se sera souvenu(e)", "nous serons souvenu(e)s", "vous serez souvenu(e)(s)", "se seront souvenu(e)s" ],
+  "subjonctifPresent": [ "me souvienne", "te souviennes", "se souvienne", "nous souvenions", "vous souveniez", "se souviennent" ],
+  "subjonctifImparfait": [ "me souvinsse", "te souvinsses", "se souvînt", "nous souvinssions", "vous souvinssiez", "se souvinssent" ],
+  "subjonctifPasse": [ "me sois souvenu(e)", "te sois souvenu(e)", "se soit souvenu(e)", "nous soyons souvenu(e)s", "vous soyez souvenu(e)(s)", "se soient souvenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse souvenu(e)", "te fusses souvenu(e)", "se fût souvenu(e)", "nous fussions souvenu(e)s", "vous fussiez souvenu(e)(s)", "se fussent souvenu(e)s" ],
+  "conditionnelPresent": [ "me souviendrais", "te souviendrais", "se souviendrait", "nous souviendrions", "vous souviendriez", "se souviendraient" ],
+  "conditionnelPasse": [ "me serais souvenu(e)", "te serais souvenu(e)", "se serait souvenu(e)", "nous serions souvenu(e)s", "vous seriez souvenu(e)(s)", "se seraient souvenu(e)s" ],
+  "conditionnelPasseII": [ "me fusse souvenu(e)", "te fusses souvenu(e)", "se fût souvenu(e)", "nous fussions souvenu(e)s", "vous fussiez souvenu(e)(s)", "se fussent souvenu(e)s" ],
+  "imperatif": [ "–", "souviens-toi !", "–", "souvenons-nous !", "souvenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

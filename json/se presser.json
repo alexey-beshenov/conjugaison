@@ -1,0 +1,22 @@
+{
+  "infinitif": "se presser",
+  "participePresent": "se pressant",
+  "participePasse": "pressé",
+  "present": [ "me presse", "te presses", "se presse", "nous pressons", "vous pressez", "se pressent" ],
+  "imparfait": [ "me pressais", "te pressais", "se pressait", "nous pressions", "vous pressiez", "se pressaient" ],
+  "passeSimple": [ "me pressai", "te pressas", "se pressa", "nous pressâmes", "vous pressâtes", "se pressèrent" ],
+  "futurSimple": [ "me presserai", "te presseras", "se pressera", "nous presserons", "vous presserez", "se presseront" ],
+  "passeCompose": [ "me suis pressé(e)", "t'es pressé(e)", "s'est pressé(e)", "nous sommes pressé(e)s", "vous êtes pressé(e)(s)", "se sont pressé(e)s" ],
+  "plusQueParfait": [ "m'étais pressé(e)", "t'étais pressé(e)", "s'était pressé(e)", "nous étions pressé(e)s", "vous étiez pressé(e)(s)", "s'étaient pressé(e)s" ],
+  "passeAnterieur": [ "me fus pressé(e)", "te fus pressé(e)", "se fut pressé(e)", "nous fûmes pressé(e)s", "vous fûtes pressé(e)(s)", "se furent pressé(e)s" ],
+  "futurAnterieur": [ "me serai pressé(e)", "te seras pressé(e)", "se sera pressé(e)", "nous serons pressé(e)s", "vous serez pressé(e)(s)", "se seront pressé(e)s" ],
+  "subjonctifPresent": [ "me presse", "te presses", "se presse", "nous pressions", "vous pressiez", "se pressent" ],
+  "subjonctifImparfait": [ "me pressasse", "te pressasses", "se pressât", "nous pressassions", "vous pressassiez", "se pressassent" ],
+  "subjonctifPasse": [ "me sois pressé(e)", "te sois pressé(e)", "se soit pressé(e)", "nous soyons pressé(e)s", "vous soyez pressé(e)(s)", "se soient pressé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse pressé(e)", "te fusses pressé(e)", "se fût pressé(e)", "nous fussions pressé(e)s", "vous fussiez pressé(e)(s)", "se fussent pressé(e)s" ],
+  "conditionnelPresent": [ "me presserais", "te presserais", "se presserait", "nous presserions", "vous presseriez", "se presseraient" ],
+  "conditionnelPasse": [ "me serais pressé(e)", "te serais pressé(e)", "se serait pressé(e)", "nous serions pressé(e)s", "vous seriez pressé(e)(s)", "se seraient pressé(e)s" ],
+  "conditionnelPasseII": [ "me fusse pressé(e)", "te fusses pressé(e)", "se fût pressé(e)", "nous fussions pressé(e)s", "vous fussiez pressé(e)(s)", "se fussent pressé(e)s" ],
+  "imperatif": [ "–", "presse-toi !", "–", "pressons-nous !", "pressez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

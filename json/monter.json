@@ -1,0 +1,22 @@
+{
+  "infinitif": "monter",
+  "participePresent": "montant",
+  "participePasse": "monté",
+  "present": [ "monte", "montes", "monte", "montons", "montez", "montent" ],
+  "imparfait": [ "montais", "montais", "montait", "montions", "montiez", "montaient" ],
+  "passeSimple": [ "montai", "montas", "monta", "montâmes", "montâtes", "montèrent" ],
+  "futurSimple": [ "monterai", "monteras", "montera", "monterons", "monterez", "monteront" ],
+  "passeCompose": [ "suis monté(e)", "es monté(e)", "est monté(e)", "sommes monté(e)s", "êtes monté(e)(s)", "sont monté(e)s" ],
+  "plusQueParfait": [ "étais monté(e)", "étais monté(e)", "était monté(e)", "étions monté(e)s", "étiez monté(e)(s)", "étaient monté(e)s" ],
+  "passeAnterieur": [ "fus monté(e)", "fus monté(e)", "fut monté(e)", "fûmes monté(e)s", "fûtes monté(e)(s)", "furent monté(e)s" ],
+  "futurAnterieur": [ "serai monté(e)", "seras monté(e)", "sera monté(e)", "serons monté(e)s", "serez monté(e)(s)", "seront monté(e)s" ],
+  "subjonctifPresent": [ "monte", "montes", "monte", "montions", "montiez", "montent" ],
+  "subjonctifImparfait": [ "montasse", "montasses", "montât", "montassions", "montassiez", "montassent" ],
+  "subjonctifPasse": [ "sois monté(e)", "sois monté(e)", "soit monté(e)", "soyons monté(e)s", "soyez monté(e)(s)", "soient monté(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse monté(e)", "fusses monté(e)", "fût monté(e)", "fussions monté(e)s", "fussiez monté(e)(s)", "fussent monté(e)s" ],
+  "conditionnelPresent": [ "monterais", "monterais", "monterait", "monterions", "monteriez", "monteraient" ],
+  "conditionnelPasse": [ "serais monté(e)", "serais monté(e)", "serait monté(e)", "serions monté(e)s", "seriez monté(e)(s)", "seraient monté(e)s" ],
+  "conditionnelPasseII": [ "fusse monté(e)", "fusses monté(e)", "fût monté(e)", "fussions monté(e)s", "fussiez monté(e)(s)", "fussent monté(e)s" ],
+  "imperatif": [ "–", "monte !", "–", "montons !", "montez !", "–" ],
+  "imperatifPasse": [ "–", "sois monté(e) !", "–", "soyons monté(e)s !", "soyez monté(e)(s) !", "–" ]
+}

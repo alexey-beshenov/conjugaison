@@ -1,0 +1,22 @@
+{
+  "infinitif": "veiller",
+  "participePresent": "veillant",
+  "participePasse": "veillé",
+  "present": [ "veille", "veilles", "veille", "veillons", "veillez", "veillent" ],
+  "imparfait": [ "veillais", "veillais", "veillait", "veillions", "veilliez", "veillaient" ],
+  "passeSimple": [ "veillai", "veillas", "veilla", "veillâmes", "veillâtes", "veillèrent" ],
+  "futurSimple": [ "veillerai", "veilleras", "veillera", "veillerons", "veillerez", "veilleront" ],
+  "passeCompose": [ "ai veillé", "as veillé", "a veillé", "avons veillé", "avez veillé", "ont veillé" ],
+  "plusQueParfait": [ "avais veillé", "avais veillé", "avait veillé", "avions veillé", "aviez veillé", "avaient veillé" ],
+  "passeAnterieur": [ "eus veillé", "eus veillé", "eut veillé", "eûmes veillé", "eûtes veillé", "eurent veillé" ],
+  "futurAnterieur": [ "aurai veillé", "auras veillé", "aura veillé", "aurons veillé", "aurez veillé", "auront veillé" ],
+  "subjonctifPresent": [ "veille", "veilles", "veille", "veillions", "veilliez", "veillent" ],
+  "subjonctifImparfait": [ "veillasse", "veillasses", "veillât", "veillassions", "veillassiez", "veillassent" ],
+  "subjonctifPasse": [ "aie veillé", "aies veillé", "ait veillé", "ayons veillé", "ayez veillé", "aient veillé" ],
+  "subjonctifPlusQueParfait": [ "eusse veillé", "eusses veillé", "eût veillé", "eussions veillé", "eussiez veillé", "eussent veillé" ],
+  "conditionnelPresent": [ "veillerais", "veillerais", "veillerait", "veillerions", "veilleriez", "veilleraient" ],
+  "conditionnelPasse": [ "aurais veillé", "aurais veillé", "aurait veillé", "aurions veillé", "auriez veillé", "auraient veillé" ],
+  "conditionnelPasseII": [ "eusse veillé", "eusses veillé", "eût veillé", "eussions veillé", "eussiez veillé", "eussent veillé" ],
+  "imperatif": [ "–", "veille !", "–", "veillons !", "veillez !", "–" ],
+  "imperatifPasse": [ "–", "aie veillé !", "–", "ayons veillé !", "ayez veillé !", "–" ]
+}

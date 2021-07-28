@@ -1,0 +1,22 @@
+{
+  "infinitif": "répondre",
+  "participePresent": "répondant",
+  "participePasse": "répondu",
+  "present": [ "réponds", "réponds", "répond", "répondons", "répondez", "répondent" ],
+  "imparfait": [ "répondais", "répondais", "répondait", "répondions", "répondiez", "répondaient" ],
+  "passeSimple": [ "répondis", "répondis", "répondit", "répondîmes", "répondîtes", "répondirent" ],
+  "futurSimple": [ "répondrai", "répondras", "répondra", "répondrons", "répondrez", "répondront" ],
+  "passeCompose": [ "ai répondu", "as répondu", "a répondu", "avons répondu", "avez répondu", "ont répondu" ],
+  "plusQueParfait": [ "avais répondu", "avais répondu", "avait répondu", "avions répondu", "aviez répondu", "avaient répondu" ],
+  "passeAnterieur": [ "eus répondu", "eus répondu", "eut répondu", "eûmes répondu", "eûtes répondu", "eurent répondu" ],
+  "futurAnterieur": [ "aurai répondu", "auras répondu", "aura répondu", "aurons répondu", "aurez répondu", "auront répondu" ],
+  "subjonctifPresent": [ "réponde", "répondes", "réponde", "répondions", "répondiez", "répondent" ],
+  "subjonctifImparfait": [ "répondisse", "répondisses", "répondît", "répondissions", "répondissiez", "répondissent" ],
+  "subjonctifPasse": [ "aie répondu", "aies répondu", "ait répondu", "ayons répondu", "ayez répondu", "aient répondu" ],
+  "subjonctifPlusQueParfait": [ "eusse répondu", "eusses répondu", "eût répondu", "eussions répondu", "eussiez répondu", "eussent répondu" ],
+  "conditionnelPresent": [ "répondrais", "répondrais", "répondrait", "répondrions", "répondriez", "répondraient" ],
+  "conditionnelPasse": [ "aurais répondu", "aurais répondu", "aurait répondu", "aurions répondu", "auriez répondu", "auraient répondu" ],
+  "conditionnelPasseII": [ "eusse répondu", "eusses répondu", "eût répondu", "eussions répondu", "eussiez répondu", "eussent répondu" ],
+  "imperatif": [ "–", "réponds !", "–", "répondons !", "répondez !", "–" ],
+  "imperatifPasse": [ "–", "aie répondu !", "–", "ayons répondu !", "ayez répondu !", "–" ]
+}

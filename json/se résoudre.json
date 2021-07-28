@@ -1,0 +1,22 @@
+{
+  "infinitif": "se résoudre",
+  "participePresent": "se résolvant",
+  "participePasse": "résolu",
+  "present": [ "me résous", "te résous", "se résout", "nous résolvons", "vous résolvez", "se résolvent" ],
+  "imparfait": [ "me résolvais", "te résolvais", "se résolvait", "nous résolvions", "vous résolviez", "se résolvaient" ],
+  "passeSimple": [ "me résolus", "te résolus", "se résolut", "nous résolûmes", "vous résolûtes", "se résolurent" ],
+  "futurSimple": [ "me résoudrai", "te résoudras", "se résoudra", "nous résoudrons", "vous résoudrez", "se résoudront" ],
+  "passeCompose": [ "me suis résolu(e)", "t'es résolu(e)", "s'est résolu(e)", "nous sommes résolu(e)s", "vous êtes résolu(e)(s)", "se sont résolu(e)s" ],
+  "plusQueParfait": [ "m'étais résolu(e)", "t'étais résolu(e)", "s'était résolu(e)", "nous étions résolu(e)s", "vous étiez résolu(e)(s)", "s'étaient résolu(e)s" ],
+  "passeAnterieur": [ "me fus résolu(e)", "te fus résolu(e)", "se fut résolu(e)", "nous fûmes résolu(e)s", "vous fûtes résolu(e)(s)", "se furent résolu(e)s" ],
+  "futurAnterieur": [ "me serai résolu(e)", "te seras résolu(e)", "se sera résolu(e)", "nous serons résolu(e)s", "vous serez résolu(e)(s)", "se seront résolu(e)s" ],
+  "subjonctifPresent": [ "me résolve", "te résolves", "se résolve", "nous résolvions", "vous résolviez", "se résolvent" ],
+  "subjonctifImparfait": [ "me résolusse", "te résolusses", "se résolût", "nous résolussions", "vous résolussiez", "se résolussent" ],
+  "subjonctifPasse": [ "me sois résolu(e)", "te sois résolu(e)", "se soit résolu(e)", "nous soyons résolu(e)s", "vous soyez résolu(e)(s)", "se soient résolu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse résolu(e)", "te fusses résolu(e)", "se fût résolu(e)", "nous fussions résolu(e)s", "vous fussiez résolu(e)(s)", "se fussent résolu(e)s" ],
+  "conditionnelPresent": [ "me résoudrais", "te résoudrais", "se résoudrait", "nous résoudrions", "vous résoudriez", "se résoudraient" ],
+  "conditionnelPasse": [ "me serais résolu(e)", "te serais résolu(e)", "se serait résolu(e)", "nous serions résolu(e)s", "vous seriez résolu(e)(s)", "se seraient résolu(e)s" ],
+  "conditionnelPasseII": [ "me fusse résolu(e)", "te fusses résolu(e)", "se fût résolu(e)", "nous fussions résolu(e)s", "vous fussiez résolu(e)(s)", "se fussent résolu(e)s" ],
+  "imperatif": [ "–", "résous-toi !", "–", "résolvons-nous !", "résolvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

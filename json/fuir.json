@@ -1,0 +1,22 @@
+{
+  "infinitif": "fuir",
+  "participePresent": "fuyant",
+  "participePasse": "fui",
+  "present": [ "fuis", "fuis", "fuit", "fuyons", "fuyez", "fuient" ],
+  "imparfait": [ "fuyais", "fuyais", "fuyait", "fuyions", "fuyiez", "fuyaient" ],
+  "passeSimple": [ "fuis", "fuis", "fuit", "fuîmes", "fuîtes", "fuirent" ],
+  "futurSimple": [ "fuirai", "fuiras", "fuira", "fuirons", "fuirez", "fuiront" ],
+  "passeCompose": [ "ai fui", "as fui", "a fui", "avons fui", "avez fui", "ont fui" ],
+  "plusQueParfait": [ "avais fui", "avais fui", "avait fui", "avions fui", "aviez fui", "avaient fui" ],
+  "passeAnterieur": [ "eus fui", "eus fui", "eut fui", "eûmes fui", "eûtes fui", "eurent fui" ],
+  "futurAnterieur": [ "aurai fui", "auras fui", "aura fui", "aurons fui", "aurez fui", "auront fui" ],
+  "subjonctifPresent": [ "fuie", "fuies", "fuie", "fuyions", "fuyiez", "fuient" ],
+  "subjonctifImparfait": [ "fuisse", "fuisses", "fuît", "fuissions", "fuissiez", "fuissent" ],
+  "subjonctifPasse": [ "aie fui", "aies fui", "ait fui", "ayons fui", "ayez fui", "aient fui" ],
+  "subjonctifPlusQueParfait": [ "eusse fui", "eusses fui", "eût fui", "eussions fui", "eussiez fui", "eussent fui" ],
+  "conditionnelPresent": [ "fuirais", "fuirais", "fuirait", "fuirions", "fuiriez", "fuiraient" ],
+  "conditionnelPasse": [ "aurais fui", "aurais fui", "aurait fui", "aurions fui", "auriez fui", "auraient fui" ],
+  "conditionnelPasseII": [ "eusse fui", "eusses fui", "eût fui", "eussions fui", "eussiez fui", "eussent fui" ],
+  "imperatif": [ "–", "fuis !", "–", "fuyons !", "fuyez !", "–" ],
+  "imperatifPasse": [ "–", "aie fui !", "–", "ayons fui !", "ayez fui !", "–" ]
+}

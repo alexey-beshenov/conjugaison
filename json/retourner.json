@@ -1,0 +1,22 @@
+{
+  "infinitif": "retourner",
+  "participePresent": "retournant",
+  "participePasse": "retourné",
+  "present": [ "retourne", "retournes", "retourne", "retournons", "retournez", "retournent" ],
+  "imparfait": [ "retournais", "retournais", "retournait", "retournions", "retourniez", "retournaient" ],
+  "passeSimple": [ "retournai", "retournas", "retourna", "retournâmes", "retournâtes", "retournèrent" ],
+  "futurSimple": [ "retournerai", "retourneras", "retournera", "retournerons", "retournerez", "retourneront" ],
+  "passeCompose": [ "suis retourné(e)", "es retourné(e)", "est retourné(e)", "sommes retourné(e)s", "êtes retourné(e)(s)", "sont retourné(e)s" ],
+  "plusQueParfait": [ "étais retourné(e)", "étais retourné(e)", "était retourné(e)", "étions retourné(e)s", "étiez retourné(e)(s)", "étaient retourné(e)s" ],
+  "passeAnterieur": [ "fus retourné(e)", "fus retourné(e)", "fut retourné(e)", "fûmes retourné(e)s", "fûtes retourné(e)(s)", "furent retourné(e)s" ],
+  "futurAnterieur": [ "serai retourné(e)", "seras retourné(e)", "sera retourné(e)", "serons retourné(e)s", "serez retourné(e)(s)", "seront retourné(e)s" ],
+  "subjonctifPresent": [ "retourne", "retournes", "retourne", "retournions", "retourniez", "retournent" ],
+  "subjonctifImparfait": [ "retournasse", "retournasses", "retournât", "retournassions", "retournassiez", "retournassent" ],
+  "subjonctifPasse": [ "sois retourné(e)", "sois retourné(e)", "soit retourné(e)", "soyons retourné(e)s", "soyez retourné(e)(s)", "soient retourné(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse retourné(e)", "fusses retourné(e)", "fût retourné(e)", "fussions retourné(e)s", "fussiez retourné(e)(s)", "fussent retourné(e)s" ],
+  "conditionnelPresent": [ "retournerais", "retournerais", "retournerait", "retournerions", "retourneriez", "retourneraient" ],
+  "conditionnelPasse": [ "serais retourné(e)", "serais retourné(e)", "serait retourné(e)", "serions retourné(e)s", "seriez retourné(e)(s)", "seraient retourné(e)s" ],
+  "conditionnelPasseII": [ "fusse retourné(e)", "fusses retourné(e)", "fût retourné(e)", "fussions retourné(e)s", "fussiez retourné(e)(s)", "fussent retourné(e)s" ],
+  "imperatif": [ "–", "retourne !", "–", "retournons !", "retournez !", "–" ],
+  "imperatifPasse": [ "–", "sois retourné(e) !", "–", "soyons retourné(e)s !", "soyez retourné(e)(s) !", "–" ]
+}

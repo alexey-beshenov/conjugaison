@@ -1,0 +1,22 @@
+{
+  "infinitif": "entretenir",
+  "participePresent": "entretenant",
+  "participePasse": "entretenu",
+  "present": [ "entretiens", "entretiens", "entretient", "entretenons", "entretenez", "entretiennent" ],
+  "imparfait": [ "entretenais", "entretenais", "entretenait", "entretenions", "entreteniez", "entretenaient" ],
+  "passeSimple": [ "entretins", "entretins", "entretint", "entretînmes", "entretîntes", "entretinrent" ],
+  "futurSimple": [ "entretiendrai", "entretiendras", "entretiendra", "entretiendrons", "entretiendrez", "entretiendront" ],
+  "passeCompose": [ "ai entretenu", "as entretenu", "a entretenu", "avons entretenu", "avez entretenu", "ont entretenu" ],
+  "plusQueParfait": [ "avais entretenu", "avais entretenu", "avait entretenu", "avions entretenu", "aviez entretenu", "avaient entretenu" ],
+  "passeAnterieur": [ "eus entretenu", "eus entretenu", "eut entretenu", "eûmes entretenu", "eûtes entretenu", "eurent entretenu" ],
+  "futurAnterieur": [ "aurai entretenu", "auras entretenu", "aura entretenu", "aurons entretenu", "aurez entretenu", "auront entretenu" ],
+  "subjonctifPresent": [ "entretienne", "entretiennes", "entretienne", "entretenions", "entreteniez", "entretiennent" ],
+  "subjonctifImparfait": [ "entretinsse", "entretinsses", "entretînt", "entretinssions", "entretinssiez", "entretinssent" ],
+  "subjonctifPasse": [ "aie entretenu", "aies entretenu", "ait entretenu", "ayons entretenu", "ayez entretenu", "aient entretenu" ],
+  "subjonctifPlusQueParfait": [ "eusse entretenu", "eusses entretenu", "eût entretenu", "eussions entretenu", "eussiez entretenu", "eussent entretenu" ],
+  "conditionnelPresent": [ "entretiendrais", "entretiendrais", "entretiendrait", "entretiendrions", "entretiendriez", "entretiendraient" ],
+  "conditionnelPasse": [ "aurais entretenu", "aurais entretenu", "aurait entretenu", "aurions entretenu", "auriez entretenu", "auraient entretenu" ],
+  "conditionnelPasseII": [ "eusse entretenu", "eusses entretenu", "eût entretenu", "eussions entretenu", "eussiez entretenu", "eussent entretenu" ],
+  "imperatif": [ "–", "entretiens !", "–", "entretenons !", "entretenez !", "–" ],
+  "imperatifPasse": [ "–", "aie entretenu !", "–", "ayons entretenu !", "ayez entretenu !", "–" ]
+}

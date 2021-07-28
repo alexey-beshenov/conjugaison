@@ -1,0 +1,22 @@
+{
+  "infinitif": "chanter",
+  "participePresent": "chantant",
+  "participePasse": "chanté",
+  "present": [ "chante", "chantes", "chante", "chantons", "chantez", "chantent" ],
+  "imparfait": [ "chantais", "chantais", "chantait", "chantions", "chantiez", "chantaient" ],
+  "passeSimple": [ "chantai", "chantas", "chanta", "chantâmes", "chantâtes", "chantèrent" ],
+  "futurSimple": [ "chanterai", "chanteras", "chantera", "chanterons", "chanterez", "chanteront" ],
+  "passeCompose": [ "ai chanté", "as chanté", "a chanté", "avons chanté", "avez chanté", "ont chanté" ],
+  "plusQueParfait": [ "avais chanté", "avais chanté", "avait chanté", "avions chanté", "aviez chanté", "avaient chanté" ],
+  "passeAnterieur": [ "eus chanté", "eus chanté", "eut chanté", "eûmes chanté", "eûtes chanté", "eurent chanté" ],
+  "futurAnterieur": [ "aurai chanté", "auras chanté", "aura chanté", "aurons chanté", "aurez chanté", "auront chanté" ],
+  "subjonctifPresent": [ "chante", "chantes", "chante", "chantions", "chantiez", "chantent" ],
+  "subjonctifImparfait": [ "chantasse", "chantasses", "chantât", "chantassions", "chantassiez", "chantassent" ],
+  "subjonctifPasse": [ "aie chanté", "aies chanté", "ait chanté", "ayons chanté", "ayez chanté", "aient chanté" ],
+  "subjonctifPlusQueParfait": [ "eusse chanté", "eusses chanté", "eût chanté", "eussions chanté", "eussiez chanté", "eussent chanté" ],
+  "conditionnelPresent": [ "chanterais", "chanterais", "chanterait", "chanterions", "chanteriez", "chanteraient" ],
+  "conditionnelPasse": [ "aurais chanté", "aurais chanté", "aurait chanté", "aurions chanté", "auriez chanté", "auraient chanté" ],
+  "conditionnelPasseII": [ "eusse chanté", "eusses chanté", "eût chanté", "eussions chanté", "eussiez chanté", "eussent chanté" ],
+  "imperatif": [ "–", "chante !", "–", "chantons !", "chantez !", "–" ],
+  "imperatifPasse": [ "–", "aie chanté !", "–", "ayons chanté !", "ayez chanté !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "animer",
+  "participePresent": "animant",
+  "participePasse": "animé",
+  "present": [ "anime", "animes", "anime", "animons", "animez", "animent" ],
+  "imparfait": [ "animais", "animais", "animait", "animions", "animiez", "animaient" ],
+  "passeSimple": [ "animai", "animas", "anima", "animâmes", "animâtes", "animèrent" ],
+  "futurSimple": [ "animerai", "animeras", "animera", "animerons", "animerez", "animeront" ],
+  "passeCompose": [ "ai animé", "as animé", "a animé", "avons animé", "avez animé", "ont animé" ],
+  "plusQueParfait": [ "avais animé", "avais animé", "avait animé", "avions animé", "aviez animé", "avaient animé" ],
+  "passeAnterieur": [ "eus animé", "eus animé", "eut animé", "eûmes animé", "eûtes animé", "eurent animé" ],
+  "futurAnterieur": [ "aurai animé", "auras animé", "aura animé", "aurons animé", "aurez animé", "auront animé" ],
+  "subjonctifPresent": [ "anime", "animes", "anime", "animions", "animiez", "animent" ],
+  "subjonctifImparfait": [ "animasse", "animasses", "animât", "animassions", "animassiez", "animassent" ],
+  "subjonctifPasse": [ "aie animé", "aies animé", "ait animé", "ayons animé", "ayez animé", "aient animé" ],
+  "subjonctifPlusQueParfait": [ "eusse animé", "eusses animé", "eût animé", "eussions animé", "eussiez animé", "eussent animé" ],
+  "conditionnelPresent": [ "animerais", "animerais", "animerait", "animerions", "animeriez", "animeraient" ],
+  "conditionnelPasse": [ "aurais animé", "aurais animé", "aurait animé", "aurions animé", "auriez animé", "auraient animé" ],
+  "conditionnelPasseII": [ "eusse animé", "eusses animé", "eût animé", "eussions animé", "eussiez animé", "eussent animé" ],
+  "imperatif": [ "–", "anime !", "–", "animons !", "animez !", "–" ],
+  "imperatifPasse": [ "–", "aie animé !", "–", "ayons animé !", "ayez animé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rejeter",
+  "participePresent": "se rejetant",
+  "participePasse": "rejeté",
+  "present": [ "me rejette", "te rejettes", "se rejette", "nous rejetons", "vous rejetez", "se rejettent" ],
+  "imparfait": [ "me rejetais", "te rejetais", "se rejetait", "nous rejetions", "vous rejetiez", "se rejetaient" ],
+  "passeSimple": [ "me rejetai", "te rejetas", "se rejeta", "nous rejetâmes", "vous rejetâtes", "se rejetèrent" ],
+  "futurSimple": [ "me rejetterai", "te rejetteras", "se rejettera", "nous rejetterons", "vous rejetterez", "se rejetteront" ],
+  "passeCompose": [ "me suis rejeté(e)", "t'es rejeté(e)", "s'est rejeté(e)", "nous sommes rejeté(e)s", "vous êtes rejeté(e)(s)", "se sont rejeté(e)s" ],
+  "plusQueParfait": [ "m'étais rejeté(e)", "t'étais rejeté(e)", "s'était rejeté(e)", "nous étions rejeté(e)s", "vous étiez rejeté(e)(s)", "s'étaient rejeté(e)s" ],
+  "passeAnterieur": [ "me fus rejeté(e)", "te fus rejeté(e)", "se fut rejeté(e)", "nous fûmes rejeté(e)s", "vous fûtes rejeté(e)(s)", "se furent rejeté(e)s" ],
+  "futurAnterieur": [ "me serai rejeté(e)", "te seras rejeté(e)", "se sera rejeté(e)", "nous serons rejeté(e)s", "vous serez rejeté(e)(s)", "se seront rejeté(e)s" ],
+  "subjonctifPresent": [ "me rejette", "te rejettes", "se rejette", "nous rejetions", "vous rejetiez", "se rejettent" ],
+  "subjonctifImparfait": [ "me rejetasse", "te rejetasses", "se rejetât", "nous rejetassions", "vous rejetassiez", "se rejetassent" ],
+  "subjonctifPasse": [ "me sois rejeté(e)", "te sois rejeté(e)", "se soit rejeté(e)", "nous soyons rejeté(e)s", "vous soyez rejeté(e)(s)", "se soient rejeté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rejeté(e)", "te fusses rejeté(e)", "se fût rejeté(e)", "nous fussions rejeté(e)s", "vous fussiez rejeté(e)(s)", "se fussent rejeté(e)s" ],
+  "conditionnelPresent": [ "me rejetterais", "te rejetterais", "se rejetterait", "nous rejetterions", "vous rejetteriez", "se rejetteraient" ],
+  "conditionnelPasse": [ "me serais rejeté(e)", "te serais rejeté(e)", "se serait rejeté(e)", "nous serions rejeté(e)s", "vous seriez rejeté(e)(s)", "se seraient rejeté(e)s" ],
+  "conditionnelPasseII": [ "me fusse rejeté(e)", "te fusses rejeté(e)", "se fût rejeté(e)", "nous fussions rejeté(e)s", "vous fussiez rejeté(e)(s)", "se fussent rejeté(e)s" ],
+  "imperatif": [ "–", "rejette-toi !", "–", "rejetons-nous !", "rejetez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

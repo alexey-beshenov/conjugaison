@@ -1,0 +1,22 @@
+{
+  "infinitif": "habiter",
+  "participePresent": "habitant",
+  "participePasse": "habité",
+  "present": [ "habite", "habites", "habite", "habitons", "habitez", "habitent" ],
+  "imparfait": [ "habitais", "habitais", "habitait", "habitions", "habitiez", "habitaient" ],
+  "passeSimple": [ "habitai", "habitas", "habita", "habitâmes", "habitâtes", "habitèrent" ],
+  "futurSimple": [ "habiterai", "habiteras", "habitera", "habiterons", "habiterez", "habiteront" ],
+  "passeCompose": [ "ai habité", "as habité", "a habité", "avons habité", "avez habité", "ont habité" ],
+  "plusQueParfait": [ "avais habité", "avais habité", "avait habité", "avions habité", "aviez habité", "avaient habité" ],
+  "passeAnterieur": [ "eus habité", "eus habité", "eut habité", "eûmes habité", "eûtes habité", "eurent habité" ],
+  "futurAnterieur": [ "aurai habité", "auras habité", "aura habité", "aurons habité", "aurez habité", "auront habité" ],
+  "subjonctifPresent": [ "habite", "habites", "habite", "habitions", "habitiez", "habitent" ],
+  "subjonctifImparfait": [ "habitasse", "habitasses", "habitât", "habitassions", "habitassiez", "habitassent" ],
+  "subjonctifPasse": [ "aie habité", "aies habité", "ait habité", "ayons habité", "ayez habité", "aient habité" ],
+  "subjonctifPlusQueParfait": [ "eusse habité", "eusses habité", "eût habité", "eussions habité", "eussiez habité", "eussent habité" ],
+  "conditionnelPresent": [ "habiterais", "habiterais", "habiterait", "habiterions", "habiteriez", "habiteraient" ],
+  "conditionnelPasse": [ "aurais habité", "aurais habité", "aurait habité", "aurions habité", "auriez habité", "auraient habité" ],
+  "conditionnelPasseII": [ "eusse habité", "eusses habité", "eût habité", "eussions habité", "eussiez habité", "eussent habité" ],
+  "imperatif": [ "–", "habite !", "–", "habitons !", "habitez !", "–" ],
+  "imperatifPasse": [ "–", "aie habité !", "–", "ayons habité !", "ayez habité !", "–" ]
+}

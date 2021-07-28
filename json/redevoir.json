@@ -1,0 +1,22 @@
+{
+  "infinitif": "redevoir",
+  "participePresent": "redevant",
+  "participePasse": "redû,",
+  "present": [ "redois", "redois", "redoit", "redevons", "redevez", "redoivent" ],
+  "imparfait": [ "redevais", "redevais", "redevait", "redevions", "redeviez", "redevaient" ],
+  "passeSimple": [ "redus", "redus", "redut", "redûmes", "redûtes", "redurent" ],
+  "futurSimple": [ "redevrai", "redevras", "redevra", "redevrons", "redevrez", "redevront" ],
+  "passeCompose": [ "ai redû", "as redû", "a redû", "avons redû", "avez redû", "ont redû" ],
+  "plusQueParfait": [ "avais redû", "avais redû", "avait redû", "avions redû", "aviez redû", "avaient redû" ],
+  "passeAnterieur": [ "eus redû", "eus redû", "eut redû", "eûmes redû", "eûtes redû", "eurent redû" ],
+  "futurAnterieur": [ "aurai redû", "auras redû", "aura redû", "aurons redû", "aurez redû", "auront redû" ],
+  "subjonctifPresent": [ "redoive", "redoives", "redoive", "redevions", "redeviez", "redoivent" ],
+  "subjonctifImparfait": [ "redusse", "redusses", "redût", "redussions", "redussiez", "redussent" ],
+  "subjonctifPasse": [ "aie redû", "aies redû", "ait redû", "ayons redû", "ayez redû", "aient redû" ],
+  "subjonctifPlusQueParfait": [ "eusse redû", "eusses redû", "eût redû", "eussions redû", "eussiez redû", "eussent redû" ],
+  "conditionnelPresent": [ "redevrais", "redevrais", "redevrait", "redevrions", "redevriez", "redevraient" ],
+  "conditionnelPasse": [ "aurais redû", "aurais redû", "aurait redû", "aurions redû", "auriez redû", "auraient redû" ],
+  "conditionnelPasseII": [ "eusse redû", "eusses redû", "eût redû", "eussions redû", "eussiez redû", "eussent redû" ],
+  "imperatif": [ "–", "redois !", "–", "redevons !", "redevez !", "–" ],
+  "imperatifPasse": [ "–", "aie redû !", "–", "ayons redû !", "ayez redû !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "peser",
+  "participePresent": "pesant",
+  "participePasse": "pesé",
+  "present": [ "pèse", "pèses", "pèse", "pesons", "pesez", "pèsent" ],
+  "imparfait": [ "pesais", "pesais", "pesait", "pesions", "pesiez", "pesaient" ],
+  "passeSimple": [ "pesai", "pesas", "pesa", "pesâmes", "pesâtes", "pesèrent" ],
+  "futurSimple": [ "pèserai", "pèseras", "pèsera", "pèserons", "pèserez", "pèseront" ],
+  "passeCompose": [ "ai pesé", "as pesé", "a pesé", "avons pesé", "avez pesé", "ont pesé" ],
+  "plusQueParfait": [ "avais pesé", "avais pesé", "avait pesé", "avions pesé", "aviez pesé", "avaient pesé" ],
+  "passeAnterieur": [ "eus pesé", "eus pesé", "eut pesé", "eûmes pesé", "eûtes pesé", "eurent pesé" ],
+  "futurAnterieur": [ "aurai pesé", "auras pesé", "aura pesé", "aurons pesé", "aurez pesé", "auront pesé" ],
+  "subjonctifPresent": [ "pèse", "pèses", "pèse", "pesions", "pesiez", "pèsent" ],
+  "subjonctifImparfait": [ "pesasse", "pesasses", "pesât", "pesassions", "pesassiez", "pesassent" ],
+  "subjonctifPasse": [ "aie pesé", "aies pesé", "ait pesé", "ayons pesé", "ayez pesé", "aient pesé" ],
+  "subjonctifPlusQueParfait": [ "eusse pesé", "eusses pesé", "eût pesé", "eussions pesé", "eussiez pesé", "eussent pesé" ],
+  "conditionnelPresent": [ "pèserais", "pèserais", "pèserait", "pèserions", "pèseriez", "pèseraient" ],
+  "conditionnelPasse": [ "aurais pesé", "aurais pesé", "aurait pesé", "aurions pesé", "auriez pesé", "auraient pesé" ],
+  "conditionnelPasseII": [ "eusse pesé", "eusses pesé", "eût pesé", "eussions pesé", "eussiez pesé", "eussent pesé" ],
+  "imperatif": [ "–", "pèse !", "–", "pesons !", "pesez !", "–" ],
+  "imperatifPasse": [ "–", "aie pesé !", "–", "ayons pesé !", "ayez pesé !", "–" ]
+}

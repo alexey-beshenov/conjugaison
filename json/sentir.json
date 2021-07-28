@@ -1,0 +1,22 @@
+{
+  "infinitif": "sentir",
+  "participePresent": "sentant",
+  "participePasse": "senti",
+  "present": [ "sens", "sens", "sent", "sentons", "sentez", "sentent" ],
+  "imparfait": [ "sentais", "sentais", "sentait", "sentions", "sentiez", "sentaient" ],
+  "passeSimple": [ "sentis", "sentis", "sentit", "sentîmes", "sentîtes", "sentirent" ],
+  "futurSimple": [ "sentirai", "sentiras", "sentira", "sentirons", "sentirez", "sentiront" ],
+  "passeCompose": [ "ai senti", "as senti", "a senti", "avons senti", "avez senti", "ont senti" ],
+  "plusQueParfait": [ "avais senti", "avais senti", "avait senti", "avions senti", "aviez senti", "avaient senti" ],
+  "passeAnterieur": [ "eus senti", "eus senti", "eut senti", "eûmes senti", "eûtes senti", "eurent senti" ],
+  "futurAnterieur": [ "aurai senti", "auras senti", "aura senti", "aurons senti", "aurez senti", "auront senti" ],
+  "subjonctifPresent": [ "sente", "sentes", "sente", "sentions", "sentiez", "sentent" ],
+  "subjonctifImparfait": [ "sentisse", "sentisses", "sentît", "sentissions", "sentissiez", "sentissent" ],
+  "subjonctifPasse": [ "aie senti", "aies senti", "ait senti", "ayons senti", "ayez senti", "aient senti" ],
+  "subjonctifPlusQueParfait": [ "eusse senti", "eusses senti", "eût senti", "eussions senti", "eussiez senti", "eussent senti" ],
+  "conditionnelPresent": [ "sentirais", "sentirais", "sentirait", "sentirions", "sentiriez", "sentiraient" ],
+  "conditionnelPasse": [ "aurais senti", "aurais senti", "aurait senti", "aurions senti", "auriez senti", "auraient senti" ],
+  "conditionnelPasseII": [ "eusse senti", "eusses senti", "eût senti", "eussions senti", "eussiez senti", "eussent senti" ],
+  "imperatif": [ "–", "sens !", "–", "sentons !", "sentez !", "–" ],
+  "imperatifPasse": [ "–", "aie senti !", "–", "ayons senti !", "ayez senti !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "douter",
+  "participePresent": "doutant",
+  "participePasse": "douté",
+  "present": [ "doute", "doutes", "doute", "doutons", "doutez", "doutent" ],
+  "imparfait": [ "doutais", "doutais", "doutait", "doutions", "doutiez", "doutaient" ],
+  "passeSimple": [ "doutai", "doutas", "douta", "doutâmes", "doutâtes", "doutèrent" ],
+  "futurSimple": [ "douterai", "douteras", "doutera", "douterons", "douterez", "douteront" ],
+  "passeCompose": [ "ai douté", "as douté", "a douté", "avons douté", "avez douté", "ont douté" ],
+  "plusQueParfait": [ "avais douté", "avais douté", "avait douté", "avions douté", "aviez douté", "avaient douté" ],
+  "passeAnterieur": [ "eus douté", "eus douté", "eut douté", "eûmes douté", "eûtes douté", "eurent douté" ],
+  "futurAnterieur": [ "aurai douté", "auras douté", "aura douté", "aurons douté", "aurez douté", "auront douté" ],
+  "subjonctifPresent": [ "doute", "doutes", "doute", "doutions", "doutiez", "doutent" ],
+  "subjonctifImparfait": [ "doutasse", "doutasses", "doutât", "doutassions", "doutassiez", "doutassent" ],
+  "subjonctifPasse": [ "aie douté", "aies douté", "ait douté", "ayons douté", "ayez douté", "aient douté" ],
+  "subjonctifPlusQueParfait": [ "eusse douté", "eusses douté", "eût douté", "eussions douté", "eussiez douté", "eussent douté" ],
+  "conditionnelPresent": [ "douterais", "douterais", "douterait", "douterions", "douteriez", "douteraient" ],
+  "conditionnelPasse": [ "aurais douté", "aurais douté", "aurait douté", "aurions douté", "auriez douté", "auraient douté" ],
+  "conditionnelPasseII": [ "eusse douté", "eusses douté", "eût douté", "eussions douté", "eussiez douté", "eussent douté" ],
+  "imperatif": [ "–", "doute !", "–", "doutons !", "doutez !", "–" ],
+  "imperatifPasse": [ "–", "aie douté !", "–", "ayons douté !", "ayez douté !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "émouvoir",
+  "participePresent": "émouvant",
+  "participePasse": "ému",
+  "present": [ "émeus", "émeus", "émeut", "émouvons", "émouvez", "émeuvent" ],
+  "imparfait": [ "émouvais", "émouvais", "émouvait", "émouvions", "émouviez", "émouvaient" ],
+  "passeSimple": [ "émus", "émus", "émut", "émûmes", "émûtes", "émurent" ],
+  "futurSimple": [ "émouvrai", "émouvras", "émouvra", "émouvrons", "émouvrez", "émouvront" ],
+  "passeCompose": [ "ai ému", "as ému", "a ému", "avons ému", "avez ému", "ont ému" ],
+  "plusQueParfait": [ "avais ému", "avais ému", "avait ému", "avions ému", "aviez ému", "avaient ému" ],
+  "passeAnterieur": [ "eus ému", "eus ému", "eut ému", "eûmes ému", "eûtes ému", "eurent ému" ],
+  "futurAnterieur": [ "aurai ému", "auras ému", "aura ému", "aurons ému", "aurez ému", "auront ému" ],
+  "subjonctifPresent": [ "émeuve", "émeuves", "émeuve", "émouvions", "émouviez", "émeuvent" ],
+  "subjonctifImparfait": [ "émusse", "émusses", "émût", "émussions", "émussiez", "émussent" ],
+  "subjonctifPasse": [ "aie ému", "aies ému", "ait ému", "ayons ému", "ayez ému", "aient ému" ],
+  "subjonctifPlusQueParfait": [ "eusse ému", "eusses ému", "eût ému", "eussions ému", "eussiez ému", "eussent ému" ],
+  "conditionnelPresent": [ "émouvrais", "émouvrais", "émouvrait", "émouvrions", "émouvriez", "émouvraient" ],
+  "conditionnelPasse": [ "aurais ému", "aurais ému", "aurait ému", "aurions ému", "auriez ému", "auraient ému" ],
+  "conditionnelPasseII": [ "eusse ému", "eusses ému", "eût ému", "eussions ému", "eussiez ému", "eussent ému" ],
+  "imperatif": [ "–", "émeus !", "–", "émouvons !", "émouvez !", "–" ],
+  "imperatifPasse": [ "–", "aie ému !", "–", "ayons ému !", "ayez ému !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se déplaire",
+  "participePresent": "se déplaisant",
+  "participePasse": "déplu",
+  "present": [ "me déplais", "te déplais", "se déplaît", "nous déplaisons", "vous déplaisez", "se déplaisent" ],
+  "imparfait": [ "me déplaisais", "te déplaisais", "se déplaisait", "nous déplaisions", "vous déplaisiez", "se déplaisaient" ],
+  "passeSimple": [ "me déplus", "te déplus", "se déplut", "nous déplûmes", "vous déplûtes", "se déplurent" ],
+  "futurSimple": [ "me déplairai", "te déplairas", "se déplaira", "nous déplairons", "vous déplairez", "se déplairont" ],
+  "passeCompose": [ "me suis déplu", "t'es déplu", "s'est déplu", "nous sommes déplu", "vous êtes déplu", "se sont déplu" ],
+  "plusQueParfait": [ "m'étais déplu", "t'étais déplu", "s'était déplu", "nous étions déplu", "vous étiez déplu", "s'étaient déplu" ],
+  "passeAnterieur": [ "me fus déplu", "te fus déplu", "se fut déplu", "nous fûmes déplu", "vous fûtes déplu", "se furent déplu" ],
+  "futurAnterieur": [ "me serai déplu", "te seras déplu", "se sera déplu", "nous serons déplu", "vous serez déplu", "se seront déplu" ],
+  "subjonctifPresent": [ "me déplaise", "te déplaises", "se déplaise", "nous déplaisions", "vous déplaisiez", "se déplaisent" ],
+  "subjonctifImparfait": [ "me déplusse", "te déplusses", "se déplût", "nous déplussions", "vous déplussiez", "se déplussent" ],
+  "subjonctifPasse": [ "me sois déplu", "te sois déplu", "se soit déplu", "nous soyons déplu", "vous soyez déplu", "se soient déplu" ],
+  "subjonctifPlusQueParfait": [ "me fusse déplu", "te fusses déplu", "se fût déplu", "nous fussions déplu", "vous fussiez déplu", "se fussent déplu" ],
+  "conditionnelPresent": [ "me déplairais", "te déplairais", "se déplairait", "nous déplairions", "vous déplairiez", "se déplairaient" ],
+  "conditionnelPasse": [ "me serais déplu", "te serais déplu", "se serait déplu", "nous serions déplu", "vous seriez déplu", "se seraient déplu" ],
+  "conditionnelPasseII": [ "me fusse déplu", "te fusses déplu", "se fût déplu", "nous fussions déplu", "vous fussiez déplu", "se fussent déplu" ],
+  "imperatif": [ "–", "déplais-toi !", "–", "déplaisons-nous !", "déplaisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

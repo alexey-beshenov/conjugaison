@@ -1,0 +1,22 @@
+{
+  "infinitif": "tenir",
+  "participePresent": "tenant",
+  "participePasse": "tenu",
+  "present": [ "tiens", "tiens", "tient", "tenons", "tenez", "tiennent" ],
+  "imparfait": [ "tenais", "tenais", "tenait", "tenions", "teniez", "tenaient" ],
+  "passeSimple": [ "tins", "tins", "tint", "tînmes", "tîntes", "tinrent" ],
+  "futurSimple": [ "tiendrai", "tiendras", "tiendra", "tiendrons", "tiendrez", "tiendront" ],
+  "passeCompose": [ "ai tenu", "as tenu", "a tenu", "avons tenu", "avez tenu", "ont tenu" ],
+  "plusQueParfait": [ "avais tenu", "avais tenu", "avait tenu", "avions tenu", "aviez tenu", "avaient tenu" ],
+  "passeAnterieur": [ "eus tenu", "eus tenu", "eut tenu", "eûmes tenu", "eûtes tenu", "eurent tenu" ],
+  "futurAnterieur": [ "aurai tenu", "auras tenu", "aura tenu", "aurons tenu", "aurez tenu", "auront tenu" ],
+  "subjonctifPresent": [ "tienne", "tiennes", "tienne", "tenions", "teniez", "tiennent" ],
+  "subjonctifImparfait": [ "tinsse", "tinsses", "tînt", "tinssions", "tinssiez", "tinssent" ],
+  "subjonctifPasse": [ "aie tenu", "aies tenu", "ait tenu", "ayons tenu", "ayez tenu", "aient tenu" ],
+  "subjonctifPlusQueParfait": [ "eusse tenu", "eusses tenu", "eût tenu", "eussions tenu", "eussiez tenu", "eussent tenu" ],
+  "conditionnelPresent": [ "tiendrais", "tiendrais", "tiendrait", "tiendrions", "tiendriez", "tiendraient" ],
+  "conditionnelPasse": [ "aurais tenu", "aurais tenu", "aurait tenu", "aurions tenu", "auriez tenu", "auraient tenu" ],
+  "conditionnelPasseII": [ "eusse tenu", "eusses tenu", "eût tenu", "eussions tenu", "eussiez tenu", "eussent tenu" ],
+  "imperatif": [ "–", "tiens !", "–", "tenons !", "tenez !", "–" ],
+  "imperatifPasse": [ "–", "aie tenu !", "–", "ayons tenu !", "ayez tenu !", "–" ]
+}

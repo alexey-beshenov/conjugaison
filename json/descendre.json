@@ -1,0 +1,22 @@
+{
+  "infinitif": "descendre",
+  "participePresent": "descendant",
+  "participePasse": "descendu",
+  "present": [ "descends", "descends", "descend", "descendons", "descendez", "descendent" ],
+  "imparfait": [ "descendais", "descendais", "descendait", "descendions", "descendiez", "descendaient" ],
+  "passeSimple": [ "descendis", "descendis", "descendit", "descendîmes", "descendîtes", "descendirent" ],
+  "futurSimple": [ "descendrai", "descendras", "descendra", "descendrons", "descendrez", "descendront" ],
+  "passeCompose": [ "suis descendu(e)", "es descendu(e)", "est descendu(e)", "sommes descendu(e)s", "êtes descendu(e)(s)", "sont descendu(e)s" ],
+  "plusQueParfait": [ "étais descendu(e)", "étais descendu(e)", "était descendu(e)", "étions descendu(e)s", "étiez descendu(e)(s)", "étaient descendu(e)s" ],
+  "passeAnterieur": [ "fus descendu(e)", "fus descendu(e)", "fut descendu(e)", "fûmes descendu(e)s", "fûtes descendu(e)(s)", "furent descendu(e)s" ],
+  "futurAnterieur": [ "serai descendu(e)", "seras descendu(e)", "sera descendu(e)", "serons descendu(e)s", "serez descendu(e)(s)", "seront descendu(e)s" ],
+  "subjonctifPresent": [ "descende", "descendes", "descende", "descendions", "descendiez", "descendent" ],
+  "subjonctifImparfait": [ "descendisse", "descendisses", "descendît", "descendissions", "descendissiez", "descendissent" ],
+  "subjonctifPasse": [ "sois descendu(e)", "sois descendu(e)", "soit descendu(e)", "soyons descendu(e)s", "soyez descendu(e)(s)", "soient descendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse descendu(e)", "fusses descendu(e)", "fût descendu(e)", "fussions descendu(e)s", "fussiez descendu(e)(s)", "fussent descendu(e)s" ],
+  "conditionnelPresent": [ "descendrais", "descendrais", "descendrait", "descendrions", "descendriez", "descendraient" ],
+  "conditionnelPasse": [ "serais descendu(e)", "serais descendu(e)", "serait descendu(e)", "serions descendu(e)s", "seriez descendu(e)(s)", "seraient descendu(e)s" ],
+  "conditionnelPasseII": [ "fusse descendu(e)", "fusses descendu(e)", "fût descendu(e)", "fussions descendu(e)s", "fussiez descendu(e)(s)", "fussent descendu(e)s" ],
+  "imperatif": [ "–", "descends !", "–", "descendons !", "descendez !", "–" ],
+  "imperatifPasse": [ "–", "sois descendu(e) !", "–", "soyons descendu(e)s !", "soyez descendu(e)(s) !", "–" ]
+}

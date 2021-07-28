@@ -1,0 +1,22 @@
+{
+  "infinitif": "révéler",
+  "participePresent": "révélant",
+  "participePasse": "révélé",
+  "present": [ "révèle", "révèles", "révèle", "révélons", "révélez", "révèlent" ],
+  "imparfait": [ "révélais", "révélais", "révélait", "révélions", "révéliez", "révélaient" ],
+  "passeSimple": [ "révélai", "révélas", "révéla", "révélâmes", "révélâtes", "révélèrent" ],
+  "futurSimple": [ "révélerai", "révéleras", "révélera", "révélerons", "révélerez", "révéleront" ],
+  "passeCompose": [ "ai révélé", "as révélé", "a révélé", "avons révélé", "avez révélé", "ont révélé" ],
+  "plusQueParfait": [ "avais révélé", "avais révélé", "avait révélé", "avions révélé", "aviez révélé", "avaient révélé" ],
+  "passeAnterieur": [ "eus révélé", "eus révélé", "eut révélé", "eûmes révélé", "eûtes révélé", "eurent révélé" ],
+  "futurAnterieur": [ "aurai révélé", "auras révélé", "aura révélé", "aurons révélé", "aurez révélé", "auront révélé" ],
+  "subjonctifPresent": [ "révèle", "révèles", "révèle", "révélions", "révéliez", "révèlent" ],
+  "subjonctifImparfait": [ "révélasse", "révélasses", "révélât", "révélassions", "révélassiez", "révélassent" ],
+  "subjonctifPasse": [ "aie révélé", "aies révélé", "ait révélé", "ayons révélé", "ayez révélé", "aient révélé" ],
+  "subjonctifPlusQueParfait": [ "eusse révélé", "eusses révélé", "eût révélé", "eussions révélé", "eussiez révélé", "eussent révélé" ],
+  "conditionnelPresent": [ "révélerais", "révélerais", "révélerait", "révélerions", "révéleriez", "révéleraient" ],
+  "conditionnelPasse": [ "aurais révélé", "aurais révélé", "aurait révélé", "aurions révélé", "auriez révélé", "auraient révélé" ],
+  "conditionnelPasseII": [ "eusse révélé", "eusses révélé", "eût révélé", "eussions révélé", "eussiez révélé", "eussent révélé" ],
+  "imperatif": [ "–", "révèle !", "–", "révélons !", "révélez !", "–" ],
+  "imperatifPasse": [ "–", "aie révélé !", "–", "ayons révélé !", "ayez révélé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "arracher",
+  "participePresent": "arrachant",
+  "participePasse": "arraché",
+  "present": [ "arrache", "arraches", "arrache", "arrachons", "arrachez", "arrachent" ],
+  "imparfait": [ "arrachais", "arrachais", "arrachait", "arrachions", "arrachiez", "arrachaient" ],
+  "passeSimple": [ "arrachai", "arrachas", "arracha", "arrachâmes", "arrachâtes", "arrachèrent" ],
+  "futurSimple": [ "arracherai", "arracheras", "arrachera", "arracherons", "arracherez", "arracheront" ],
+  "passeCompose": [ "ai arraché", "as arraché", "a arraché", "avons arraché", "avez arraché", "ont arraché" ],
+  "plusQueParfait": [ "avais arraché", "avais arraché", "avait arraché", "avions arraché", "aviez arraché", "avaient arraché" ],
+  "passeAnterieur": [ "eus arraché", "eus arraché", "eut arraché", "eûmes arraché", "eûtes arraché", "eurent arraché" ],
+  "futurAnterieur": [ "aurai arraché", "auras arraché", "aura arraché", "aurons arraché", "aurez arraché", "auront arraché" ],
+  "subjonctifPresent": [ "arrache", "arraches", "arrache", "arrachions", "arrachiez", "arrachent" ],
+  "subjonctifImparfait": [ "arrachasse", "arrachasses", "arrachât", "arrachassions", "arrachassiez", "arrachassent" ],
+  "subjonctifPasse": [ "aie arraché", "aies arraché", "ait arraché", "ayons arraché", "ayez arraché", "aient arraché" ],
+  "subjonctifPlusQueParfait": [ "eusse arraché", "eusses arraché", "eût arraché", "eussions arraché", "eussiez arraché", "eussent arraché" ],
+  "conditionnelPresent": [ "arracherais", "arracherais", "arracherait", "arracherions", "arracheriez", "arracheraient" ],
+  "conditionnelPasse": [ "aurais arraché", "aurais arraché", "aurait arraché", "aurions arraché", "auriez arraché", "auraient arraché" ],
+  "conditionnelPasseII": [ "eusse arraché", "eusses arraché", "eût arraché", "eussions arraché", "eussiez arraché", "eussent arraché" ],
+  "imperatif": [ "–", "arrache !", "–", "arrachons !", "arrachez !", "–" ],
+  "imperatifPasse": [ "–", "aie arraché !", "–", "ayons arraché !", "ayez arraché !", "–" ]
+}

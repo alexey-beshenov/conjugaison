@@ -1,0 +1,22 @@
+{
+  "infinitif": "appuyer",
+  "participePresent": "appuyant",
+  "participePasse": "appuyé",
+  "present": [ "appuie", "appuies", "appuie", "appuyons", "appuyez", "appuient" ],
+  "imparfait": [ "appuyais", "appuyais", "appuyait", "appuyions", "appuyiez", "appuyaient" ],
+  "passeSimple": [ "appuyai", "appuyas", "appuya", "appuyâmes", "appuyâtes", "appuyèrent" ],
+  "futurSimple": [ "appuierai", "appuieras", "appuiera", "appuierons", "appuierez", "appuieront" ],
+  "passeCompose": [ "ai appuyé", "as appuyé", "a appuyé", "avons appuyé", "avez appuyé", "ont appuyé" ],
+  "plusQueParfait": [ "avais appuyé", "avais appuyé", "avait appuyé", "avions appuyé", "aviez appuyé", "avaient appuyé" ],
+  "passeAnterieur": [ "eus appuyé", "eus appuyé", "eut appuyé", "eûmes appuyé", "eûtes appuyé", "eurent appuyé" ],
+  "futurAnterieur": [ "aurai appuyé", "auras appuyé", "aura appuyé", "aurons appuyé", "aurez appuyé", "auront appuyé" ],
+  "subjonctifPresent": [ "appuie", "appuies", "appuie", "appuyions", "appuyiez", "appuient" ],
+  "subjonctifImparfait": [ "appuyasse", "appuyasses", "appuyât", "appuyassions", "appuyassiez", "appuyassent" ],
+  "subjonctifPasse": [ "aie appuyé", "aies appuyé", "ait appuyé", "ayons appuyé", "ayez appuyé", "aient appuyé" ],
+  "subjonctifPlusQueParfait": [ "eusse appuyé", "eusses appuyé", "eût appuyé", "eussions appuyé", "eussiez appuyé", "eussent appuyé" ],
+  "conditionnelPresent": [ "appuierais", "appuierais", "appuierait", "appuierions", "appuieriez", "appuieraient" ],
+  "conditionnelPasse": [ "aurais appuyé", "aurais appuyé", "aurait appuyé", "aurions appuyé", "auriez appuyé", "auraient appuyé" ],
+  "conditionnelPasseII": [ "eusse appuyé", "eusses appuyé", "eût appuyé", "eussions appuyé", "eussiez appuyé", "eussent appuyé" ],
+  "imperatif": [ "–", "appuie !", "–", "appuyons !", "appuyez !", "–" ],
+  "imperatifPasse": [ "–", "aie appuyé !", "–", "ayons appuyé !", "ayez appuyé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se réélire",
+  "participePresent": "se réélisant",
+  "participePasse": "réélu",
+  "present": [ "me réélis", "te réélis", "se réélit", "nous réélisons", "vous réélisez", "se réélisent" ],
+  "imparfait": [ "me réélisais", "te réélisais", "se réélisait", "nous réélisions", "vous réélisiez", "se réélisaient" ],
+  "passeSimple": [ "me réélus", "te réélus", "se réélut", "nous réélûmes", "vous réélûtes", "se réélurent" ],
+  "futurSimple": [ "me réélirai", "te rééliras", "se réélira", "nous réélirons", "vous réélirez", "se rééliront" ],
+  "passeCompose": [ "me suis réélu(e)", "t'es réélu(e)", "s'est réélu(e)", "nous sommes réélu(e)s", "vous êtes réélu(e)(s)", "se sont réélu(e)s" ],
+  "plusQueParfait": [ "m'étais réélu(e)", "t'étais réélu(e)", "s'était réélu(e)", "nous étions réélu(e)s", "vous étiez réélu(e)(s)", "s'étaient réélu(e)s" ],
+  "passeAnterieur": [ "me fus réélu(e)", "te fus réélu(e)", "se fut réélu(e)", "nous fûmes réélu(e)s", "vous fûtes réélu(e)(s)", "se furent réélu(e)s" ],
+  "futurAnterieur": [ "me serai réélu(e)", "te seras réélu(e)", "se sera réélu(e)", "nous serons réélu(e)s", "vous serez réélu(e)(s)", "se seront réélu(e)s" ],
+  "subjonctifPresent": [ "me réélise", "te réélises", "se réélise", "nous réélisions", "vous réélisiez", "se réélisent" ],
+  "subjonctifImparfait": [ "me réélusse", "te réélusses", "se réélût", "nous réélussions", "vous réélussiez", "se réélussent" ],
+  "subjonctifPasse": [ "me sois réélu(e)", "te sois réélu(e)", "se soit réélu(e)", "nous soyons réélu(e)s", "vous soyez réélu(e)(s)", "se soient réélu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse réélu(e)", "te fusses réélu(e)", "se fût réélu(e)", "nous fussions réélu(e)s", "vous fussiez réélu(e)(s)", "se fussent réélu(e)s" ],
+  "conditionnelPresent": [ "me réélirais", "te réélirais", "se réélirait", "nous réélirions", "vous rééliriez", "se rééliraient" ],
+  "conditionnelPasse": [ "me serais réélu(e)", "te serais réélu(e)", "se serait réélu(e)", "nous serions réélu(e)s", "vous seriez réélu(e)(s)", "se seraient réélu(e)s" ],
+  "conditionnelPasseII": [ "me fusse réélu(e)", "te fusses réélu(e)", "se fût réélu(e)", "nous fussions réélu(e)s", "vous fussiez réélu(e)(s)", "se fussent réélu(e)s" ],
+  "imperatif": [ "–", "réélis-toi !", "–", "réélisons-nous !", "réélisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "revoir",
+  "participePresent": "revoyant",
+  "participePasse": "revu",
+  "present": [ "revois", "revois", "revoit", "revoyons", "revoyez", "revoient" ],
+  "imparfait": [ "revoyais", "revoyais", "revoyait", "revoyions", "revoyiez", "revoyaient" ],
+  "passeSimple": [ "revis", "revis", "revit", "revîmes", "revîtes", "revirent" ],
+  "futurSimple": [ "reverrai", "reverras", "reverra", "reverrons", "reverrez", "reverront" ],
+  "passeCompose": [ "ai revu", "as revu", "a revu", "avons revu", "avez revu", "ont revu" ],
+  "plusQueParfait": [ "avais revu", "avais revu", "avait revu", "avions revu", "aviez revu", "avaient revu" ],
+  "passeAnterieur": [ "eus revu", "eus revu", "eut revu", "eûmes revu", "eûtes revu", "eurent revu" ],
+  "futurAnterieur": [ "aurai revu", "auras revu", "aura revu", "aurons revu", "aurez revu", "auront revu" ],
+  "subjonctifPresent": [ "revoie", "revoies", "revoie", "revoyions", "revoyiez", "revoient" ],
+  "subjonctifImparfait": [ "revisse", "revisses", "revît", "revissions", "revissiez", "revissent" ],
+  "subjonctifPasse": [ "aie revu", "aies revu", "ait revu", "ayons revu", "ayez revu", "aient revu" ],
+  "subjonctifPlusQueParfait": [ "eusse revu", "eusses revu", "eût revu", "eussions revu", "eussiez revu", "eussent revu" ],
+  "conditionnelPresent": [ "reverrais", "reverrais", "reverrait", "reverrions", "reverriez", "reverraient" ],
+  "conditionnelPasse": [ "aurais revu", "aurais revu", "aurait revu", "aurions revu", "auriez revu", "auraient revu" ],
+  "conditionnelPasseII": [ "eusse revu", "eusses revu", "eût revu", "eussions revu", "eussiez revu", "eussent revu" ],
+  "imperatif": [ "–", "revois !", "–", "revoyons !", "revoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie revu !", "–", "ayons revu !", "ayez revu !", "–" ]
+}

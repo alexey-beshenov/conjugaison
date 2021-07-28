@@ -1,0 +1,22 @@
+{
+  "infinitif": "se perdre",
+  "participePresent": "se perdant",
+  "participePasse": "perdu",
+  "present": [ "me perds", "te perds", "se perd", "nous perdons", "vous perdez", "se perdent" ],
+  "imparfait": [ "me perdais", "te perdais", "se perdait", "nous perdions", "vous perdiez", "se perdaient" ],
+  "passeSimple": [ "me perdis", "te perdis", "se perdit", "nous perdîmes", "vous perdîtes", "se perdirent" ],
+  "futurSimple": [ "me perdrai", "te perdras", "se perdra", "nous perdrons", "vous perdrez", "se perdront" ],
+  "passeCompose": [ "me suis perdu(e)", "t'es perdu(e)", "s'est perdu(e)", "nous sommes perdu(e)s", "vous êtes perdu(e)(s)", "se sont perdu(e)s" ],
+  "plusQueParfait": [ "m'étais perdu(e)", "t'étais perdu(e)", "s'était perdu(e)", "nous étions perdu(e)s", "vous étiez perdu(e)(s)", "s'étaient perdu(e)s" ],
+  "passeAnterieur": [ "me fus perdu(e)", "te fus perdu(e)", "se fut perdu(e)", "nous fûmes perdu(e)s", "vous fûtes perdu(e)(s)", "se furent perdu(e)s" ],
+  "futurAnterieur": [ "me serai perdu(e)", "te seras perdu(e)", "se sera perdu(e)", "nous serons perdu(e)s", "vous serez perdu(e)(s)", "se seront perdu(e)s" ],
+  "subjonctifPresent": [ "me perde", "te perdes", "se perde", "nous perdions", "vous perdiez", "se perdent" ],
+  "subjonctifImparfait": [ "me perdisse", "te perdisses", "se perdît", "nous perdissions", "vous perdissiez", "se perdissent" ],
+  "subjonctifPasse": [ "me sois perdu(e)", "te sois perdu(e)", "se soit perdu(e)", "nous soyons perdu(e)s", "vous soyez perdu(e)(s)", "se soient perdu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse perdu(e)", "te fusses perdu(e)", "se fût perdu(e)", "nous fussions perdu(e)s", "vous fussiez perdu(e)(s)", "se fussent perdu(e)s" ],
+  "conditionnelPresent": [ "me perdrais", "te perdrais", "se perdrait", "nous perdrions", "vous perdriez", "se perdraient" ],
+  "conditionnelPasse": [ "me serais perdu(e)", "te serais perdu(e)", "se serait perdu(e)", "nous serions perdu(e)s", "vous seriez perdu(e)(s)", "se seraient perdu(e)s" ],
+  "conditionnelPasseII": [ "me fusse perdu(e)", "te fusses perdu(e)", "se fût perdu(e)", "nous fussions perdu(e)s", "vous fussiez perdu(e)(s)", "se fussent perdu(e)s" ],
+  "imperatif": [ "–", "perds-toi !", "–", "perdons-nous !", "perdez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

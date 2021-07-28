@@ -1,0 +1,22 @@
+{
+  "infinitif": "commander",
+  "participePresent": "commandant",
+  "participePasse": "commandé",
+  "present": [ "commande", "commandes", "commande", "commandons", "commandez", "commandent" ],
+  "imparfait": [ "commandais", "commandais", "commandait", "commandions", "commandiez", "commandaient" ],
+  "passeSimple": [ "commandai", "commandas", "commanda", "commandâmes", "commandâtes", "commandèrent" ],
+  "futurSimple": [ "commanderai", "commanderas", "commandera", "commanderons", "commanderez", "commanderont" ],
+  "passeCompose": [ "ai commandé", "as commandé", "a commandé", "avons commandé", "avez commandé", "ont commandé" ],
+  "plusQueParfait": [ "avais commandé", "avais commandé", "avait commandé", "avions commandé", "aviez commandé", "avaient commandé" ],
+  "passeAnterieur": [ "eus commandé", "eus commandé", "eut commandé", "eûmes commandé", "eûtes commandé", "eurent commandé" ],
+  "futurAnterieur": [ "aurai commandé", "auras commandé", "aura commandé", "aurons commandé", "aurez commandé", "auront commandé" ],
+  "subjonctifPresent": [ "commande", "commandes", "commande", "commandions", "commandiez", "commandent" ],
+  "subjonctifImparfait": [ "commandasse", "commandasses", "commandât", "commandassions", "commandassiez", "commandassent" ],
+  "subjonctifPasse": [ "aie commandé", "aies commandé", "ait commandé", "ayons commandé", "ayez commandé", "aient commandé" ],
+  "subjonctifPlusQueParfait": [ "eusse commandé", "eusses commandé", "eût commandé", "eussions commandé", "eussiez commandé", "eussent commandé" ],
+  "conditionnelPresent": [ "commanderais", "commanderais", "commanderait", "commanderions", "commanderiez", "commanderaient" ],
+  "conditionnelPasse": [ "aurais commandé", "aurais commandé", "aurait commandé", "aurions commandé", "auriez commandé", "auraient commandé" ],
+  "conditionnelPasseII": [ "eusse commandé", "eusses commandé", "eût commandé", "eussions commandé", "eussiez commandé", "eussent commandé" ],
+  "imperatif": [ "–", "commande !", "–", "commandons !", "commandez !", "–" ],
+  "imperatifPasse": [ "–", "aie commandé !", "–", "ayons commandé !", "ayez commandé !", "–" ]
+}

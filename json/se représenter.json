@@ -1,0 +1,22 @@
+{
+  "infinitif": "se représenter",
+  "participePresent": "se représentant",
+  "participePasse": "représenté",
+  "present": [ "me représente", "te représentes", "se représente", "nous représentons", "vous représentez", "se représentent" ],
+  "imparfait": [ "me représentais", "te représentais", "se représentait", "nous représentions", "vous représentiez", "se représentaient" ],
+  "passeSimple": [ "me représentai", "te représentas", "se représenta", "nous représentâmes", "vous représentâtes", "se représentèrent" ],
+  "futurSimple": [ "me représenterai", "te représenteras", "se représentera", "nous représenterons", "vous représenterez", "se représenteront" ],
+  "passeCompose": [ "me suis représenté(e)", "t'es représenté(e)", "s'est représenté(e)", "nous sommes représenté(e)s", "vous êtes représenté(e)(s)", "se sont représenté(e)s" ],
+  "plusQueParfait": [ "m'étais représenté(e)", "t'étais représenté(e)", "s'était représenté(e)", "nous étions représenté(e)s", "vous étiez représenté(e)(s)", "s'étaient représenté(e)s" ],
+  "passeAnterieur": [ "me fus représenté(e)", "te fus représenté(e)", "se fut représenté(e)", "nous fûmes représenté(e)s", "vous fûtes représenté(e)(s)", "se furent représenté(e)s" ],
+  "futurAnterieur": [ "me serai représenté(e)", "te seras représenté(e)", "se sera représenté(e)", "nous serons représenté(e)s", "vous serez représenté(e)(s)", "se seront représenté(e)s" ],
+  "subjonctifPresent": [ "me représente", "te représentes", "se représente", "nous représentions", "vous représentiez", "se représentent" ],
+  "subjonctifImparfait": [ "me représentasse", "te représentasses", "se représentât", "nous représentassions", "vous représentassiez", "se représentassent" ],
+  "subjonctifPasse": [ "me sois représenté(e)", "te sois représenté(e)", "se soit représenté(e)", "nous soyons représenté(e)s", "vous soyez représenté(e)(s)", "se soient représenté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse représenté(e)", "te fusses représenté(e)", "se fût représenté(e)", "nous fussions représenté(e)s", "vous fussiez représenté(e)(s)", "se fussent représenté(e)s" ],
+  "conditionnelPresent": [ "me représenterais", "te représenterais", "se représenterait", "nous représenterions", "vous représenteriez", "se représenteraient" ],
+  "conditionnelPasse": [ "me serais représenté(e)", "te serais représenté(e)", "se serait représenté(e)", "nous serions représenté(e)s", "vous seriez représenté(e)(s)", "se seraient représenté(e)s" ],
+  "conditionnelPasseII": [ "me fusse représenté(e)", "te fusses représenté(e)", "se fût représenté(e)", "nous fussions représenté(e)s", "vous fussiez représenté(e)(s)", "se fussent représenté(e)s" ],
+  "imperatif": [ "–", "représente-toi !", "–", "représentons-nous !", "représentez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

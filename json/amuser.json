@@ -1,0 +1,22 @@
+{
+  "infinitif": "amuser",
+  "participePresent": "amusant",
+  "participePasse": "amusé",
+  "present": [ "amuse", "amuses", "amuse", "amusons", "amusez", "amusent" ],
+  "imparfait": [ "amusais", "amusais", "amusait", "amusions", "amusiez", "amusaient" ],
+  "passeSimple": [ "amusai", "amusas", "amusa", "amusâmes", "amusâtes", "amusèrent" ],
+  "futurSimple": [ "amuserai", "amuseras", "amusera", "amuserons", "amuserez", "amuseront" ],
+  "passeCompose": [ "ai amusé", "as amusé", "a amusé", "avons amusé", "avez amusé", "ont amusé" ],
+  "plusQueParfait": [ "avais amusé", "avais amusé", "avait amusé", "avions amusé", "aviez amusé", "avaient amusé" ],
+  "passeAnterieur": [ "eus amusé", "eus amusé", "eut amusé", "eûmes amusé", "eûtes amusé", "eurent amusé" ],
+  "futurAnterieur": [ "aurai amusé", "auras amusé", "aura amusé", "aurons amusé", "aurez amusé", "auront amusé" ],
+  "subjonctifPresent": [ "amuse", "amuses", "amuse", "amusions", "amusiez", "amusent" ],
+  "subjonctifImparfait": [ "amusasse", "amusasses", "amusât", "amusassions", "amusassiez", "amusassent" ],
+  "subjonctifPasse": [ "aie amusé", "aies amusé", "ait amusé", "ayons amusé", "ayez amusé", "aient amusé" ],
+  "subjonctifPlusQueParfait": [ "eusse amusé", "eusses amusé", "eût amusé", "eussions amusé", "eussiez amusé", "eussent amusé" ],
+  "conditionnelPresent": [ "amuserais", "amuserais", "amuserait", "amuserions", "amuseriez", "amuseraient" ],
+  "conditionnelPasse": [ "aurais amusé", "aurais amusé", "aurait amusé", "aurions amusé", "auriez amusé", "auraient amusé" ],
+  "conditionnelPasseII": [ "eusse amusé", "eusses amusé", "eût amusé", "eussions amusé", "eussiez amusé", "eussent amusé" ],
+  "imperatif": [ "–", "amuse !", "–", "amusons !", "amusez !", "–" ],
+  "imperatifPasse": [ "–", "aie amusé !", "–", "ayons amusé !", "ayez amusé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "rentrer",
+  "participePresent": "rentrant",
+  "participePasse": "rentré",
+  "present": [ "rentre", "rentres", "rentre", "rentrons", "rentrez", "rentrent" ],
+  "imparfait": [ "rentrais", "rentrais", "rentrait", "rentrions", "rentriez", "rentraient" ],
+  "passeSimple": [ "rentrai", "rentras", "rentra", "rentrâmes", "rentrâtes", "rentrèrent" ],
+  "futurSimple": [ "rentrerai", "rentreras", "rentrera", "rentrerons", "rentrerez", "rentreront" ],
+  "passeCompose": [ "suis rentré(e)", "es rentré(e)", "est rentré(e)", "sommes rentré(e)s", "êtes rentré(e)(s)", "sont rentré(e)s" ],
+  "plusQueParfait": [ "étais rentré(e)", "étais rentré(e)", "était rentré(e)", "étions rentré(e)s", "étiez rentré(e)(s)", "étaient rentré(e)s" ],
+  "passeAnterieur": [ "fus rentré(e)", "fus rentré(e)", "fut rentré(e)", "fûmes rentré(e)s", "fûtes rentré(e)(s)", "furent rentré(e)s" ],
+  "futurAnterieur": [ "serai rentré(e)", "seras rentré(e)", "sera rentré(e)", "serons rentré(e)s", "serez rentré(e)(s)", "seront rentré(e)s" ],
+  "subjonctifPresent": [ "rentre", "rentres", "rentre", "rentrions", "rentriez", "rentrent" ],
+  "subjonctifImparfait": [ "rentrasse", "rentrasses", "rentrât", "rentrassions", "rentrassiez", "rentrassent" ],
+  "subjonctifPasse": [ "sois rentré(e)", "sois rentré(e)", "soit rentré(e)", "soyons rentré(e)s", "soyez rentré(e)(s)", "soient rentré(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse rentré(e)", "fusses rentré(e)", "fût rentré(e)", "fussions rentré(e)s", "fussiez rentré(e)(s)", "fussent rentré(e)s" ],
+  "conditionnelPresent": [ "rentrerais", "rentrerais", "rentrerait", "rentrerions", "rentreriez", "rentreraient" ],
+  "conditionnelPasse": [ "serais rentré(e)", "serais rentré(e)", "serait rentré(e)", "serions rentré(e)s", "seriez rentré(e)(s)", "seraient rentré(e)s" ],
+  "conditionnelPasseII": [ "fusse rentré(e)", "fusses rentré(e)", "fût rentré(e)", "fussions rentré(e)s", "fussiez rentré(e)(s)", "fussent rentré(e)s" ],
+  "imperatif": [ "–", "rentre !", "–", "rentrons !", "rentrez !", "–" ],
+  "imperatifPasse": [ "–", "sois rentré(e) !", "–", "soyons rentré(e)s !", "soyez rentré(e)(s) !", "–" ]
+}

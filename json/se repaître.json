@@ -1,0 +1,22 @@
+{
+  "infinitif": "se repaître",
+  "participePresent": "se repaissant",
+  "participePasse": "repu",
+  "present": [ "me repais", "te repais", "se repaît", "nous repaissons", "vous repaissez", "se repaissent" ],
+  "imparfait": [ "me repaissais", "te repaissais", "se repaissait", "nous repaissions", "vous repaissiez", "se repaissaient" ],
+  "passeSimple": [ "me repus", "te repus", "se reput", "nous repûmes", "vous repûtes", "se repurent" ],
+  "futurSimple": [ "me repaîtrai", "te repaîtras", "se repaîtra", "nous repaîtrons", "vous repaîtrez", "se repaîtront" ],
+  "passeCompose": [ "me suis repu(e)", "t'es repu(e)", "s'est repu(e)", "nous sommes repu(e)s", "vous êtes repu(e)(s)", "se sont repu(e)s" ],
+  "plusQueParfait": [ "m'étais repu(e)", "t'étais repu(e)", "s'était repu(e)", "nous étions repu(e)s", "vous étiez repu(e)(s)", "s'étaient repu(e)s" ],
+  "passeAnterieur": [ "me fus repu(e)", "te fus repu(e)", "se fut repu(e)", "nous fûmes repu(e)s", "vous fûtes repu(e)(s)", "se furent repu(e)s" ],
+  "futurAnterieur": [ "me serai repu(e)", "te seras repu(e)", "se sera repu(e)", "nous serons repu(e)s", "vous serez repu(e)(s)", "se seront repu(e)s" ],
+  "subjonctifPresent": [ "me repaisse", "te repaisses", "se repaisse", "nous repaissions", "vous repaissiez", "se repaissent" ],
+  "subjonctifImparfait": [ "me repusse", "te repusses", "se repût", "nous repussions", "vous repussiez", "se repussent" ],
+  "subjonctifPasse": [ "me sois repu(e)", "te sois repu(e)", "se soit repu(e)", "nous soyons repu(e)s", "vous soyez repu(e)(s)", "se soient repu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse repu(e)", "te fusses repu(e)", "se fût repu(e)", "nous fussions repu(e)s", "vous fussiez repu(e)(s)", "se fussent repu(e)s" ],
+  "conditionnelPresent": [ "me repaîtrais", "te repaîtrais", "se repaîtrait", "nous repaîtrions", "vous repaîtriez", "se repaîtraient" ],
+  "conditionnelPasse": [ "me serais repu(e)", "te serais repu(e)", "se serait repu(e)", "nous serions repu(e)s", "vous seriez repu(e)(s)", "se seraient repu(e)s" ],
+  "conditionnelPasseII": [ "me fusse repu(e)", "te fusses repu(e)", "se fût repu(e)", "nous fussions repu(e)s", "vous fussiez repu(e)(s)", "se fussent repu(e)s" ],
+  "imperatif": [ "–", "repais-toi !", "–", "repaissons-nous !", "repaissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

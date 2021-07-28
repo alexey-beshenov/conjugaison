@@ -1,0 +1,22 @@
+{
+  "infinitif": "signer",
+  "participePresent": "signant",
+  "participePasse": "signé",
+  "present": [ "signe", "signes", "signe", "signons", "signez", "signent" ],
+  "imparfait": [ "signais", "signais", "signait", "signions", "signiez", "signaient" ],
+  "passeSimple": [ "signai", "signas", "signa", "signâmes", "signâtes", "signèrent" ],
+  "futurSimple": [ "signerai", "signeras", "signera", "signerons", "signerez", "signeront" ],
+  "passeCompose": [ "ai signé", "as signé", "a signé", "avons signé", "avez signé", "ont signé" ],
+  "plusQueParfait": [ "avais signé", "avais signé", "avait signé", "avions signé", "aviez signé", "avaient signé" ],
+  "passeAnterieur": [ "eus signé", "eus signé", "eut signé", "eûmes signé", "eûtes signé", "eurent signé" ],
+  "futurAnterieur": [ "aurai signé", "auras signé", "aura signé", "aurons signé", "aurez signé", "auront signé" ],
+  "subjonctifPresent": [ "signe", "signes", "signe", "signions", "signiez", "signent" ],
+  "subjonctifImparfait": [ "signasse", "signasses", "signât", "signassions", "signassiez", "signassent" ],
+  "subjonctifPasse": [ "aie signé", "aies signé", "ait signé", "ayons signé", "ayez signé", "aient signé" ],
+  "subjonctifPlusQueParfait": [ "eusse signé", "eusses signé", "eût signé", "eussions signé", "eussiez signé", "eussent signé" ],
+  "conditionnelPresent": [ "signerais", "signerais", "signerait", "signerions", "signeriez", "signeraient" ],
+  "conditionnelPasse": [ "aurais signé", "aurais signé", "aurait signé", "aurions signé", "auriez signé", "auraient signé" ],
+  "conditionnelPasseII": [ "eusse signé", "eusses signé", "eût signé", "eussions signé", "eussiez signé", "eussent signé" ],
+  "imperatif": [ "–", "signe !", "–", "signons !", "signez !", "–" ],
+  "imperatifPasse": [ "–", "aie signé !", "–", "ayons signé !", "ayez signé !", "–" ]
+}

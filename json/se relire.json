@@ -1,0 +1,22 @@
+{
+  "infinitif": "se relire",
+  "participePresent": "se relisant",
+  "participePasse": "relu",
+  "present": [ "me relis", "te relis", "se relit", "nous relisons", "vous relisez", "se relisent" ],
+  "imparfait": [ "me relisais", "te relisais", "se relisait", "nous relisions", "vous relisiez", "se relisaient" ],
+  "passeSimple": [ "me relus", "te relus", "se relut", "nous relûmes", "vous relûtes", "se relurent" ],
+  "futurSimple": [ "me relirai", "te reliras", "se relira", "nous relirons", "vous relirez", "se reliront" ],
+  "passeCompose": [ "me suis relu(e)", "t'es relu(e)", "s'est relu(e)", "nous sommes relu(e)s", "vous êtes relu(e)(s)", "se sont relu(e)s" ],
+  "plusQueParfait": [ "m'étais relu(e)", "t'étais relu(e)", "s'était relu(e)", "nous étions relu(e)s", "vous étiez relu(e)(s)", "s'étaient relu(e)s" ],
+  "passeAnterieur": [ "me fus relu(e)", "te fus relu(e)", "se fut relu(e)", "nous fûmes relu(e)s", "vous fûtes relu(e)(s)", "se furent relu(e)s" ],
+  "futurAnterieur": [ "me serai relu(e)", "te seras relu(e)", "se sera relu(e)", "nous serons relu(e)s", "vous serez relu(e)(s)", "se seront relu(e)s" ],
+  "subjonctifPresent": [ "me relise", "te relises", "se relise", "nous relisions", "vous relisiez", "se relisent" ],
+  "subjonctifImparfait": [ "me relusse", "te relusses", "se relût", "nous relussions", "vous relussiez", "se relussent" ],
+  "subjonctifPasse": [ "me sois relu(e)", "te sois relu(e)", "se soit relu(e)", "nous soyons relu(e)s", "vous soyez relu(e)(s)", "se soient relu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse relu(e)", "te fusses relu(e)", "se fût relu(e)", "nous fussions relu(e)s", "vous fussiez relu(e)(s)", "se fussent relu(e)s" ],
+  "conditionnelPresent": [ "me relirais", "te relirais", "se relirait", "nous relirions", "vous reliriez", "se reliraient" ],
+  "conditionnelPasse": [ "me serais relu(e)", "te serais relu(e)", "se serait relu(e)", "nous serions relu(e)s", "vous seriez relu(e)(s)", "se seraient relu(e)s" ],
+  "conditionnelPasseII": [ "me fusse relu(e)", "te fusses relu(e)", "se fût relu(e)", "nous fussions relu(e)s", "vous fussiez relu(e)(s)", "se fussent relu(e)s" ],
+  "imperatif": [ "–", "relis-toi !", "–", "relisons-nous !", "relisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

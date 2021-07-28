@@ -1,0 +1,22 @@
+{
+  "infinitif": "contenter",
+  "participePresent": "contentant",
+  "participePasse": "contenté",
+  "present": [ "contente", "contentes", "contente", "contentons", "contentez", "contentent" ],
+  "imparfait": [ "contentais", "contentais", "contentait", "contentions", "contentiez", "contentaient" ],
+  "passeSimple": [ "contentai", "contentas", "contenta", "contentâmes", "contentâtes", "contentèrent" ],
+  "futurSimple": [ "contenterai", "contenteras", "contentera", "contenterons", "contenterez", "contenteront" ],
+  "passeCompose": [ "ai contenté", "as contenté", "a contenté", "avons contenté", "avez contenté", "ont contenté" ],
+  "plusQueParfait": [ "avais contenté", "avais contenté", "avait contenté", "avions contenté", "aviez contenté", "avaient contenté" ],
+  "passeAnterieur": [ "eus contenté", "eus contenté", "eut contenté", "eûmes contenté", "eûtes contenté", "eurent contenté" ],
+  "futurAnterieur": [ "aurai contenté", "auras contenté", "aura contenté", "aurons contenté", "aurez contenté", "auront contenté" ],
+  "subjonctifPresent": [ "contente", "contentes", "contente", "contentions", "contentiez", "contentent" ],
+  "subjonctifImparfait": [ "contentasse", "contentasses", "contentât", "contentassions", "contentassiez", "contentassent" ],
+  "subjonctifPasse": [ "aie contenté", "aies contenté", "ait contenté", "ayons contenté", "ayez contenté", "aient contenté" ],
+  "subjonctifPlusQueParfait": [ "eusse contenté", "eusses contenté", "eût contenté", "eussions contenté", "eussiez contenté", "eussent contenté" ],
+  "conditionnelPresent": [ "contenterais", "contenterais", "contenterait", "contenterions", "contenteriez", "contenteraient" ],
+  "conditionnelPasse": [ "aurais contenté", "aurais contenté", "aurait contenté", "aurions contenté", "auriez contenté", "auraient contenté" ],
+  "conditionnelPasseII": [ "eusse contenté", "eusses contenté", "eût contenté", "eussions contenté", "eussiez contenté", "eussent contenté" ],
+  "imperatif": [ "–", "contente !", "–", "contentons !", "contentez !", "–" ],
+  "imperatifPasse": [ "–", "aie contenté !", "–", "ayons contenté !", "ayez contenté !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "pendre",
+  "participePresent": "pendant",
+  "participePasse": "pendu",
+  "present": [ "pends", "pends", "pend", "pendons", "pendez", "pendent" ],
+  "imparfait": [ "pendais", "pendais", "pendait", "pendions", "pendiez", "pendaient" ],
+  "passeSimple": [ "pendis", "pendis", "pendit", "pendîmes", "pendîtes", "pendirent" ],
+  "futurSimple": [ "pendrai", "pendras", "pendra", "pendrons", "pendrez", "pendront" ],
+  "passeCompose": [ "ai pendu", "as pendu", "a pendu", "avons pendu", "avez pendu", "ont pendu" ],
+  "plusQueParfait": [ "avais pendu", "avais pendu", "avait pendu", "avions pendu", "aviez pendu", "avaient pendu" ],
+  "passeAnterieur": [ "eus pendu", "eus pendu", "eut pendu", "eûmes pendu", "eûtes pendu", "eurent pendu" ],
+  "futurAnterieur": [ "aurai pendu", "auras pendu", "aura pendu", "aurons pendu", "aurez pendu", "auront pendu" ],
+  "subjonctifPresent": [ "pende", "pendes", "pende", "pendions", "pendiez", "pendent" ],
+  "subjonctifImparfait": [ "pendisse", "pendisses", "pendît", "pendissions", "pendissiez", "pendissent" ],
+  "subjonctifPasse": [ "aie pendu", "aies pendu", "ait pendu", "ayons pendu", "ayez pendu", "aient pendu" ],
+  "subjonctifPlusQueParfait": [ "eusse pendu", "eusses pendu", "eût pendu", "eussions pendu", "eussiez pendu", "eussent pendu" ],
+  "conditionnelPresent": [ "pendrais", "pendrais", "pendrait", "pendrions", "pendriez", "pendraient" ],
+  "conditionnelPasse": [ "aurais pendu", "aurais pendu", "aurait pendu", "aurions pendu", "auriez pendu", "auraient pendu" ],
+  "conditionnelPasseII": [ "eusse pendu", "eusses pendu", "eût pendu", "eussions pendu", "eussiez pendu", "eussent pendu" ],
+  "imperatif": [ "–", "pends !", "–", "pendons !", "pendez !", "–" ],
+  "imperatifPasse": [ "–", "aie pendu !", "–", "ayons pendu !", "ayez pendu !", "–" ]
+}

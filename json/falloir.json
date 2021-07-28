@@ -1,0 +1,22 @@
+{
+  "infinitif": "falloir",
+  "participePresent": "–",
+  "participePasse": "fallu",
+  "present": [ "–", "–", "faut", "–", "–", "–" ],
+  "imparfait": [ "–", "–", "fallait", "–", "–", "–" ],
+  "passeSimple": [ "–", "–", "fallut", "–", "–", "–" ],
+  "futurSimple": [ "–", "–", "faudra", "–", "–", "–" ],
+  "passeCompose": [ "–", "–", "a fallu", "–", "–", "–" ],
+  "plusQueParfait": [ "–", "–", "avait fallu", "–", "–", "–" ],
+  "passeAnterieur": [ "–", "–", "eut fallu", "–", "–", "–" ],
+  "futurAnterieur": [ "–", "–", "aura fallu", "–", "–", "–" ],
+  "subjonctifPresent": [ "–", "–", "faille", "–", "–", "–" ],
+  "subjonctifImparfait": [ "–", "–", "fallût", "–", "–", "–" ],
+  "subjonctifPasse": [ "–", "–", "ait fallu", "–", "–", "–" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "eût fallu", "–", "–", "–" ],
+  "conditionnelPresent": [ "–", "–", "faudrait", "–", "–", "–" ],
+  "conditionnelPasse": [ "–", "–", "aurait fallu", "–", "–", "–" ],
+  "conditionnelPasseII": [ "–", "–", "eût fallu", "–", "–", "–" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

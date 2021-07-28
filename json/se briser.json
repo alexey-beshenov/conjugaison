@@ -1,0 +1,22 @@
+{
+  "infinitif": "se briser",
+  "participePresent": "se brisant",
+  "participePasse": "brisé",
+  "present": [ "me brise", "te brises", "se brise", "nous brisons", "vous brisez", "se brisent" ],
+  "imparfait": [ "me brisais", "te brisais", "se brisait", "nous brisions", "vous brisiez", "se brisaient" ],
+  "passeSimple": [ "me brisai", "te brisas", "se brisa", "nous brisâmes", "vous brisâtes", "se brisèrent" ],
+  "futurSimple": [ "me briserai", "te briseras", "se brisera", "nous briserons", "vous briserez", "se briseront" ],
+  "passeCompose": [ "me suis brisé(e)", "t'es brisé(e)", "s'est brisé(e)", "nous sommes brisé(e)s", "vous êtes brisé(e)(s)", "se sont brisé(e)s" ],
+  "plusQueParfait": [ "m'étais brisé(e)", "t'étais brisé(e)", "s'était brisé(e)", "nous étions brisé(e)s", "vous étiez brisé(e)(s)", "s'étaient brisé(e)s" ],
+  "passeAnterieur": [ "me fus brisé(e)", "te fus brisé(e)", "se fut brisé(e)", "nous fûmes brisé(e)s", "vous fûtes brisé(e)(s)", "se furent brisé(e)s" ],
+  "futurAnterieur": [ "me serai brisé(e)", "te seras brisé(e)", "se sera brisé(e)", "nous serons brisé(e)s", "vous serez brisé(e)(s)", "se seront brisé(e)s" ],
+  "subjonctifPresent": [ "me brise", "te brises", "se brise", "nous brisions", "vous brisiez", "se brisent" ],
+  "subjonctifImparfait": [ "me brisasse", "te brisasses", "se brisât", "nous brisassions", "vous brisassiez", "se brisassent" ],
+  "subjonctifPasse": [ "me sois brisé(e)", "te sois brisé(e)", "se soit brisé(e)", "nous soyons brisé(e)s", "vous soyez brisé(e)(s)", "se soient brisé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse brisé(e)", "te fusses brisé(e)", "se fût brisé(e)", "nous fussions brisé(e)s", "vous fussiez brisé(e)(s)", "se fussent brisé(e)s" ],
+  "conditionnelPresent": [ "me briserais", "te briserais", "se briserait", "nous briserions", "vous briseriez", "se briseraient" ],
+  "conditionnelPasse": [ "me serais brisé(e)", "te serais brisé(e)", "se serait brisé(e)", "nous serions brisé(e)s", "vous seriez brisé(e)(s)", "se seraient brisé(e)s" ],
+  "conditionnelPasseII": [ "me fusse brisé(e)", "te fusses brisé(e)", "se fût brisé(e)", "nous fussions brisé(e)s", "vous fussiez brisé(e)(s)", "se fussent brisé(e)s" ],
+  "imperatif": [ "–", "brise-toi !", "–", "brisons-nous !", "brisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

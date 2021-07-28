@@ -1,0 +1,22 @@
+{
+  "infinitif": "se croire",
+  "participePresent": "se croyant",
+  "participePasse": "cru",
+  "present": [ "me crois", "te crois", "se croit", "nous croyons", "vous croyez", "se croient" ],
+  "imparfait": [ "me croyais", "te croyais", "se croyait", "nous croyions", "vous croyiez", "se croyaient" ],
+  "passeSimple": [ "me crus", "te crus", "se crut", "nous crûmes", "vous crûtes", "se crurent" ],
+  "futurSimple": [ "me croirai", "te croiras", "se croira", "nous croirons", "vous croirez", "se croiront" ],
+  "passeCompose": [ "me suis cru(e)", "t'es cru(e)", "s'est cru(e)", "nous sommes cru(e)s", "vous êtes cru(e)(s)", "se sont cru(e)s" ],
+  "plusQueParfait": [ "m'étais cru(e)", "t'étais cru(e)", "s'était cru(e)", "nous étions cru(e)s", "vous étiez cru(e)(s)", "s'étaient cru(e)s" ],
+  "passeAnterieur": [ "me fus cru(e)", "te fus cru(e)", "se fut cru(e)", "nous fûmes cru(e)s", "vous fûtes cru(e)(s)", "se furent cru(e)s" ],
+  "futurAnterieur": [ "me serai cru(e)", "te seras cru(e)", "se sera cru(e)", "nous serons cru(e)s", "vous serez cru(e)(s)", "se seront cru(e)s" ],
+  "subjonctifPresent": [ "me croie", "te croies", "se croie", "nous croyions", "vous croyiez", "se croient" ],
+  "subjonctifImparfait": [ "me crusse", "te crusses", "se crût", "nous crussions", "vous crussiez", "se crussent" ],
+  "subjonctifPasse": [ "me sois cru(e)", "te sois cru(e)", "se soit cru(e)", "nous soyons cru(e)s", "vous soyez cru(e)(s)", "se soient cru(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse cru(e)", "te fusses cru(e)", "se fût cru(e)", "nous fussions cru(e)s", "vous fussiez cru(e)(s)", "se fussent cru(e)s" ],
+  "conditionnelPresent": [ "me croirais", "te croirais", "se croirait", "nous croirions", "vous croiriez", "se croiraient" ],
+  "conditionnelPasse": [ "me serais cru(e)", "te serais cru(e)", "se serait cru(e)", "nous serions cru(e)s", "vous seriez cru(e)(s)", "se seraient cru(e)s" ],
+  "conditionnelPasseII": [ "me fusse cru(e)", "te fusses cru(e)", "se fût cru(e)", "nous fussions cru(e)s", "vous fussiez cru(e)(s)", "se fussent cru(e)s" ],
+  "imperatif": [ "–", "crois-toi !", "–", "croyons-nous !", "croyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se surproduire",
+  "participePresent": "se surproduisant",
+  "participePasse": "surproduit",
+  "present": [ "me surproduis", "te surproduis", "se surproduit", "nous surproduisons", "vous surproduisez", "se surproduisent" ],
+  "imparfait": [ "me surproduisais", "te surproduisais", "se surproduisait", "nous surproduisions", "vous surproduisiez", "se surproduisaient" ],
+  "passeSimple": [ "me surproduisis", "te surproduisis", "se surproduisit", "nous surproduisîmes", "vous surproduisîtes", "se surproduisirent" ],
+  "futurSimple": [ "me surproduirai", "te surproduiras", "se surproduira", "nous surproduirons", "vous surproduirez", "se surproduiront" ],
+  "passeCompose": [ "me suis surproduit(e)", "t'es surproduit(e)", "s'est surproduit(e)", "nous sommes surproduit(e)s", "vous êtes surproduit(e)(s)", "se sont surproduit(e)s" ],
+  "plusQueParfait": [ "m'étais surproduit(e)", "t'étais surproduit(e)", "s'était surproduit(e)", "nous étions surproduit(e)s", "vous étiez surproduit(e)(s)", "s'étaient surproduit(e)s" ],
+  "passeAnterieur": [ "me fus surproduit(e)", "te fus surproduit(e)", "se fut surproduit(e)", "nous fûmes surproduit(e)s", "vous fûtes surproduit(e)(s)", "se furent surproduit(e)s" ],
+  "futurAnterieur": [ "me serai surproduit(e)", "te seras surproduit(e)", "se sera surproduit(e)", "nous serons surproduit(e)s", "vous serez surproduit(e)(s)", "se seront surproduit(e)s" ],
+  "subjonctifPresent": [ "me surproduise", "te surproduises", "se surproduise", "nous surproduisions", "vous surproduisiez", "se surproduisent" ],
+  "subjonctifImparfait": [ "me surproduisisse", "te surproduisisses", "se surproduisît", "nous surproduisissions", "vous surproduisissiez", "se surproduisissent" ],
+  "subjonctifPasse": [ "me sois surproduit(e)", "te sois surproduit(e)", "se soit surproduit(e)", "nous soyons surproduit(e)s", "vous soyez surproduit(e)(s)", "se soient surproduit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse surproduit(e)", "te fusses surproduit(e)", "se fût surproduit(e)", "nous fussions surproduit(e)s", "vous fussiez surproduit(e)(s)", "se fussent surproduit(e)s" ],
+  "conditionnelPresent": [ "me surproduirais", "te surproduirais", "se surproduirait", "nous surproduirions", "vous surproduiriez", "se surproduiraient" ],
+  "conditionnelPasse": [ "me serais surproduit(e)", "te serais surproduit(e)", "se serait surproduit(e)", "nous serions surproduit(e)s", "vous seriez surproduit(e)(s)", "se seraient surproduit(e)s" ],
+  "conditionnelPasseII": [ "me fusse surproduit(e)", "te fusses surproduit(e)", "se fût surproduit(e)", "nous fussions surproduit(e)s", "vous fussiez surproduit(e)(s)", "se fussent surproduit(e)s" ],
+  "imperatif": [ "–", "surproduis-toi !", "–", "surproduisons-nous !", "surproduisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

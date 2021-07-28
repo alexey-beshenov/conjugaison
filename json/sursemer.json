@@ -1,0 +1,22 @@
+{
+  "infinitif": "sursemer",
+  "participePresent": "sursemant",
+  "participePasse": "sursemé",
+  "present": [ "sursème", "sursèmes", "sursème", "sursemons", "sursemez", "sursèment" ],
+  "imparfait": [ "sursemais", "sursemais", "sursemait", "sursemions", "sursemiez", "sursemaient" ],
+  "passeSimple": [ "sursemai", "sursemas", "sursema", "sursemâmes", "sursemâtes", "sursemèrent" ],
+  "futurSimple": [ "sursèmerai", "sursèmeras", "sursèmera", "sursèmerons", "sursèmerez", "sursèmeront" ],
+  "passeCompose": [ "ai sursemé", "as sursemé", "a sursemé", "avons sursemé", "avez sursemé", "ont sursemé" ],
+  "plusQueParfait": [ "avais sursemé", "avais sursemé", "avait sursemé", "avions sursemé", "aviez sursemé", "avaient sursemé" ],
+  "passeAnterieur": [ "eus sursemé", "eus sursemé", "eut sursemé", "eûmes sursemé", "eûtes sursemé", "eurent sursemé" ],
+  "futurAnterieur": [ "aurai sursemé", "auras sursemé", "aura sursemé", "aurons sursemé", "aurez sursemé", "auront sursemé" ],
+  "subjonctifPresent": [ "sursème", "sursèmes", "sursème", "sursemions", "sursemiez", "sursèment" ],
+  "subjonctifImparfait": [ "sursemasse", "sursemasses", "sursemât", "sursemassions", "sursemassiez", "sursemassent" ],
+  "subjonctifPasse": [ "aie sursemé", "aies sursemé", "ait sursemé", "ayons sursemé", "ayez sursemé", "aient sursemé" ],
+  "subjonctifPlusQueParfait": [ "eusse sursemé", "eusses sursemé", "eût sursemé", "eussions sursemé", "eussiez sursemé", "eussent sursemé" ],
+  "conditionnelPresent": [ "sursèmerais", "sursèmerais", "sursèmerait", "sursèmerions", "sursèmeriez", "sursèmeraient" ],
+  "conditionnelPasse": [ "aurais sursemé", "aurais sursemé", "aurait sursemé", "aurions sursemé", "auriez sursemé", "auraient sursemé" ],
+  "conditionnelPasseII": [ "eusse sursemé", "eusses sursemé", "eût sursemé", "eussions sursemé", "eussiez sursemé", "eussent sursemé" ],
+  "imperatif": [ "–", "sursème !", "–", "sursemons !", "sursemez !", "–" ],
+  "imperatifPasse": [ "–", "aie sursemé !", "–", "ayons sursemé !", "ayez sursemé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "renaître",
+  "participePresent": "renaissant",
+  "participePasse": "rené",
+  "present": [ "renais", "renais", "renaît", "renaissons", "renaissez", "renaissent" ],
+  "imparfait": [ "renaissais", "renaissais", "renaissait", "renaissions", "renaissiez", "renaissaient" ],
+  "passeSimple": [ "renaquis", "renaquis", "renaquit", "renaquîmes", "renaquîtes", "renaquirent" ],
+  "futurSimple": [ "renaîtrai", "renaîtras", "renaîtra", "renaîtrons", "renaîtrez", "renaîtront" ],
+  "passeCompose": [ "suis rené(e)", "es rené(e)", "est rené(e)", "sommes rené(e)s", "êtes rené(e)(s)", "sont rené(e)s" ],
+  "plusQueParfait": [ "étais rené(e)", "étais rené(e)", "était rené(e)", "étions rené(e)s", "étiez rené(e)(s)", "étaient rené(e)s" ],
+  "passeAnterieur": [ "fus rené(e)", "fus rené(e)", "fut rené(e)", "fûmes rené(e)s", "fûtes rené(e)(s)", "furent rené(e)s" ],
+  "futurAnterieur": [ "serai rené(e)", "seras rené(e)", "sera rené(e)", "serons rené(e)s", "serez rené(e)(s)", "seront rené(e)s" ],
+  "subjonctifPresent": [ "renaisse", "renaisses", "renaisse", "renaissions", "renaissiez", "renaissent" ],
+  "subjonctifImparfait": [ "renaquisse", "renaquisses", "renaquît", "renaquissions", "renaquissiez", "renaquissent" ],
+  "subjonctifPasse": [ "sois rené(e)", "sois rené(e)", "soit rené(e)", "soyons rené(e)s", "soyez rené(e)(s)", "soient rené(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse rené(e)", "fusses rené(e)", "fût rené(e)", "fussions rené(e)s", "fussiez rené(e)(s)", "fussent rené(e)s" ],
+  "conditionnelPresent": [ "renaîtrais", "renaîtrais", "renaîtrait", "renaîtrions", "renaîtriez", "renaîtraient" ],
+  "conditionnelPasse": [ "serais rené(e)", "serais rené(e)", "serait rené(e)", "serions rené(e)s", "seriez rené(e)(s)", "seraient rené(e)s" ],
+  "conditionnelPasseII": [ "fusse rené(e)", "fusses rené(e)", "fût rené(e)", "fussions rené(e)s", "fussiez rené(e)(s)", "fussent rené(e)s" ],
+  "imperatif": [ "–", "renais !", "–", "renaissons !", "renaissez !", "–" ],
+  "imperatifPasse": [ "–", "sois rené(e) !", "–", "soyons rené(e)s !", "soyez rené(e)(s) !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "glisser",
+  "participePresent": "glissant",
+  "participePasse": "glissé",
+  "present": [ "glisse", "glisses", "glisse", "glissons", "glissez", "glissent" ],
+  "imparfait": [ "glissais", "glissais", "glissait", "glissions", "glissiez", "glissaient" ],
+  "passeSimple": [ "glissai", "glissas", "glissa", "glissâmes", "glissâtes", "glissèrent" ],
+  "futurSimple": [ "glisserai", "glisseras", "glissera", "glisserons", "glisserez", "glisseront" ],
+  "passeCompose": [ "ai glissé", "as glissé", "a glissé", "avons glissé", "avez glissé", "ont glissé" ],
+  "plusQueParfait": [ "avais glissé", "avais glissé", "avait glissé", "avions glissé", "aviez glissé", "avaient glissé" ],
+  "passeAnterieur": [ "eus glissé", "eus glissé", "eut glissé", "eûmes glissé", "eûtes glissé", "eurent glissé" ],
+  "futurAnterieur": [ "aurai glissé", "auras glissé", "aura glissé", "aurons glissé", "aurez glissé", "auront glissé" ],
+  "subjonctifPresent": [ "glisse", "glisses", "glisse", "glissions", "glissiez", "glissent" ],
+  "subjonctifImparfait": [ "glissasse", "glissasses", "glissât", "glissassions", "glissassiez", "glissassent" ],
+  "subjonctifPasse": [ "aie glissé", "aies glissé", "ait glissé", "ayons glissé", "ayez glissé", "aient glissé" ],
+  "subjonctifPlusQueParfait": [ "eusse glissé", "eusses glissé", "eût glissé", "eussions glissé", "eussiez glissé", "eussent glissé" ],
+  "conditionnelPresent": [ "glisserais", "glisserais", "glisserait", "glisserions", "glisseriez", "glisseraient" ],
+  "conditionnelPasse": [ "aurais glissé", "aurais glissé", "aurait glissé", "aurions glissé", "auriez glissé", "auraient glissé" ],
+  "conditionnelPasseII": [ "eusse glissé", "eusses glissé", "eût glissé", "eussions glissé", "eussiez glissé", "eussent glissé" ],
+  "imperatif": [ "–", "glisse !", "–", "glissons !", "glissez !", "–" ],
+  "imperatifPasse": [ "–", "aie glissé !", "–", "ayons glissé !", "ayez glissé !", "–" ]
+}

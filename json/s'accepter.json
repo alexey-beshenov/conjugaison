@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'accepter",
+  "participePresent": "s'acceptant",
+  "participePasse": "accepté",
+  "present": [ "m'accepte", "t'acceptes", "s'accepte", "nous acceptons", "vous acceptez", "s'acceptent" ],
+  "imparfait": [ "m'acceptais", "t'acceptais", "s'acceptait", "nous acceptions", "vous acceptiez", "s'acceptaient" ],
+  "passeSimple": [ "m'acceptai", "t'acceptas", "s'accepta", "nous acceptâmes", "vous acceptâtes", "s'acceptèrent" ],
+  "futurSimple": [ "m'accepterai", "t'accepteras", "s'acceptera", "nous accepterons", "vous accepterez", "s'accepteront" ],
+  "passeCompose": [ "me suis accepté(e)", "t'es accepté(e)", "s'est accepté(e)", "nous sommes accepté(e)s", "vous êtes accepté(e)(s)", "se sont accepté(e)s" ],
+  "plusQueParfait": [ "m'étais accepté(e)", "t'étais accepté(e)", "s'était accepté(e)", "nous étions accepté(e)s", "vous étiez accepté(e)(s)", "s'étaient accepté(e)s" ],
+  "passeAnterieur": [ "me fus accepté(e)", "te fus accepté(e)", "se fut accepté(e)", "nous fûmes accepté(e)s", "vous fûtes accepté(e)(s)", "se furent accepté(e)s" ],
+  "futurAnterieur": [ "me serai accepté(e)", "te seras accepté(e)", "se sera accepté(e)", "nous serons accepté(e)s", "vous serez accepté(e)(s)", "se seront accepté(e)s" ],
+  "subjonctifPresent": [ "m'accepte", "t'acceptes", "s'accepte", "nous acceptions", "vous acceptiez", "s'acceptent" ],
+  "subjonctifImparfait": [ "m'acceptasse", "t'acceptasses", "s'acceptât", "nous acceptassions", "vous acceptassiez", "s'acceptassent" ],
+  "subjonctifPasse": [ "me sois accepté(e)", "te sois accepté(e)", "se soit accepté(e)", "nous soyons accepté(e)s", "vous soyez accepté(e)(s)", "se soient accepté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse accepté(e)", "te fusses accepté(e)", "se fût accepté(e)", "nous fussions accepté(e)s", "vous fussiez accepté(e)(s)", "se fussent accepté(e)s" ],
+  "conditionnelPresent": [ "m'accepterais", "t'accepterais", "s'accepterait", "nous accepterions", "vous accepteriez", "s'accepteraient" ],
+  "conditionnelPasse": [ "me serais accepté(e)", "te serais accepté(e)", "se serait accepté(e)", "nous serions accepté(e)s", "vous seriez accepté(e)(s)", "se seraient accepté(e)s" ],
+  "conditionnelPasseII": [ "me fusse accepté(e)", "te fusses accepté(e)", "se fût accepté(e)", "nous fussions accepté(e)s", "vous fussiez accepté(e)(s)", "se fussent accepté(e)s" ],
+  "imperatif": [ "–", "accepte-toi !", "–", "acceptons-nous !", "acceptez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

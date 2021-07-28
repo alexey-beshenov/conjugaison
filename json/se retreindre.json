@@ -1,0 +1,22 @@
+{
+  "infinitif": "se retreindre",
+  "participePresent": "se retreignant",
+  "participePasse": "retreint",
+  "present": [ "me retreins", "te retreins", "se retreint", "nous retreignons", "vous retreignez", "se retreignent" ],
+  "imparfait": [ "me retreignais", "te retreignais", "se retreignait", "nous retreignions", "vous retreigniez", "se retreignaient" ],
+  "passeSimple": [ "me retreignis", "te retreignis", "se retreignit", "nous retreignîmes", "vous retreignîtes", "se retreignirent" ],
+  "futurSimple": [ "me retreindrai", "te retreindras", "se retreindra", "nous retreindrons", "vous retreindrez", "se retreindront" ],
+  "passeCompose": [ "me suis retreint(e)", "t'es retreint(e)", "s'est retreint(e)", "nous sommes retreint(e)s", "vous êtes retreint(e)(s)", "se sont retreint(e)s" ],
+  "plusQueParfait": [ "m'étais retreint(e)", "t'étais retreint(e)", "s'était retreint(e)", "nous étions retreint(e)s", "vous étiez retreint(e)(s)", "s'étaient retreint(e)s" ],
+  "passeAnterieur": [ "me fus retreint(e)", "te fus retreint(e)", "se fut retreint(e)", "nous fûmes retreint(e)s", "vous fûtes retreint(e)(s)", "se furent retreint(e)s" ],
+  "futurAnterieur": [ "me serai retreint(e)", "te seras retreint(e)", "se sera retreint(e)", "nous serons retreint(e)s", "vous serez retreint(e)(s)", "se seront retreint(e)s" ],
+  "subjonctifPresent": [ "me retreigne", "te retreignes", "se retreigne", "nous retreignions", "vous retreigniez", "se retreignent" ],
+  "subjonctifImparfait": [ "me retreignisse", "te retreignisses", "se retreignît", "nous retreignissions", "vous retreignissiez", "se retreignissent" ],
+  "subjonctifPasse": [ "me sois retreint(e)", "te sois retreint(e)", "se soit retreint(e)", "nous soyons retreint(e)s", "vous soyez retreint(e)(s)", "se soient retreint(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse retreint(e)", "te fusses retreint(e)", "se fût retreint(e)", "nous fussions retreint(e)s", "vous fussiez retreint(e)(s)", "se fussent retreint(e)s" ],
+  "conditionnelPresent": [ "me retreindrais", "te retreindrais", "se retreindrait", "nous retreindrions", "vous retreindriez", "se retreindraient" ],
+  "conditionnelPasse": [ "me serais retreint(e)", "te serais retreint(e)", "se serait retreint(e)", "nous serions retreint(e)s", "vous seriez retreint(e)(s)", "se seraient retreint(e)s" ],
+  "conditionnelPasseII": [ "me fusse retreint(e)", "te fusses retreint(e)", "se fût retreint(e)", "nous fussions retreint(e)s", "vous fussiez retreint(e)(s)", "se fussent retreint(e)s" ],
+  "imperatif": [ "–", "retreins-toi !", "–", "retreignons-nous !", "retreignez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

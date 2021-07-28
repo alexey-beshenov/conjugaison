@@ -1,0 +1,22 @@
+{
+  "infinitif": "satisfaire",
+  "participePresent": "satisfaisant",
+  "participePasse": "satisfait",
+  "present": [ "satisfais", "satisfais", "satisfait", "satisfaisons", "satisfaites", "satisfont" ],
+  "imparfait": [ "satisfaisais", "satisfaisais", "satisfaisait", "satisfaisions", "satisfaisiez", "satisfaisaient" ],
+  "passeSimple": [ "satisfis", "satisfis", "satisfit", "satisfîmes", "satisfîtes", "satisfirent" ],
+  "futurSimple": [ "satisferai", "satisferas", "satisfera", "satisferons", "satisferez", "satisferont" ],
+  "passeCompose": [ "ai satisfait", "as satisfait", "a satisfait", "avons satisfait", "avez satisfait", "ont satisfait" ],
+  "plusQueParfait": [ "avais satisfait", "avais satisfait", "avait satisfait", "avions satisfait", "aviez satisfait", "avaient satisfait" ],
+  "passeAnterieur": [ "eus satisfait", "eus satisfait", "eut satisfait", "eûmes satisfait", "eûtes satisfait", "eurent satisfait" ],
+  "futurAnterieur": [ "aurai satisfait", "auras satisfait", "aura satisfait", "aurons satisfait", "aurez satisfait", "auront satisfait" ],
+  "subjonctifPresent": [ "satisfasse", "satisfasses", "satisfasse", "satisfassions", "satisfassiez", "satisfassent" ],
+  "subjonctifImparfait": [ "satisfisse", "satisfisses", "satisfît", "satisfissions", "satisfissiez", "satisfissent" ],
+  "subjonctifPasse": [ "aie satisfait", "aies satisfait", "ait satisfait", "ayons satisfait", "ayez satisfait", "aient satisfait" ],
+  "subjonctifPlusQueParfait": [ "eusse satisfait", "eusses satisfait", "eût satisfait", "eussions satisfait", "eussiez satisfait", "eussent satisfait" ],
+  "conditionnelPresent": [ "satisferais", "satisferais", "satisferait", "satisferions", "satisferiez", "satisferaient" ],
+  "conditionnelPasse": [ "aurais satisfait", "aurais satisfait", "aurait satisfait", "aurions satisfait", "auriez satisfait", "auraient satisfait" ],
+  "conditionnelPasseII": [ "eusse satisfait", "eusses satisfait", "eût satisfait", "eussions satisfait", "eussiez satisfait", "eussent satisfait" ],
+  "imperatif": [ "–", "satisfais !", "–", "satisfaisons !", "satisfaites !", "–" ],
+  "imperatifPasse": [ "–", "aie satisfait !", "–", "ayons satisfait !", "ayez satisfait !", "–" ]
+}

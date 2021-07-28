@@ -1,0 +1,22 @@
+{
+  "infinitif": "réfléchir",
+  "participePresent": "réfléchissant",
+  "participePasse": "réfléchi",
+  "present": [ "réfléchis", "réfléchis", "réfléchit", "réfléchissons", "réfléchissez", "réfléchissent" ],
+  "imparfait": [ "réfléchissais", "réfléchissais", "réfléchissait", "réfléchissions", "réfléchissiez", "réfléchissaient" ],
+  "passeSimple": [ "réfléchis", "réfléchis", "réfléchit", "réfléchîmes", "réfléchîtes", "réfléchirent" ],
+  "futurSimple": [ "réfléchirai", "réfléchiras", "réfléchira", "réfléchirons", "réfléchirez", "réfléchiront" ],
+  "passeCompose": [ "ai réfléchi", "as réfléchi", "a réfléchi", "avons réfléchi", "avez réfléchi", "ont réfléchi" ],
+  "plusQueParfait": [ "avais réfléchi", "avais réfléchi", "avait réfléchi", "avions réfléchi", "aviez réfléchi", "avaient réfléchi" ],
+  "passeAnterieur": [ "eus réfléchi", "eus réfléchi", "eut réfléchi", "eûmes réfléchi", "eûtes réfléchi", "eurent réfléchi" ],
+  "futurAnterieur": [ "aurai réfléchi", "auras réfléchi", "aura réfléchi", "aurons réfléchi", "aurez réfléchi", "auront réfléchi" ],
+  "subjonctifPresent": [ "réfléchisse", "réfléchisses", "réfléchisse", "réfléchissions", "réfléchissiez", "réfléchissent" ],
+  "subjonctifImparfait": [ "réfléchisse", "réfléchisses", "réfléchît", "réfléchissions", "réfléchissiez", "réfléchissent" ],
+  "subjonctifPasse": [ "aie réfléchi", "aies réfléchi", "ait réfléchi", "ayons réfléchi", "ayez réfléchi", "aient réfléchi" ],
+  "subjonctifPlusQueParfait": [ "eusse réfléchi", "eusses réfléchi", "eût réfléchi", "eussions réfléchi", "eussiez réfléchi", "eussent réfléchi" ],
+  "conditionnelPresent": [ "réfléchirais", "réfléchirais", "réfléchirait", "réfléchirions", "réfléchiriez", "réfléchiraient" ],
+  "conditionnelPasse": [ "aurais réfléchi", "aurais réfléchi", "aurait réfléchi", "aurions réfléchi", "auriez réfléchi", "auraient réfléchi" ],
+  "conditionnelPasseII": [ "eusse réfléchi", "eusses réfléchi", "eût réfléchi", "eussions réfléchi", "eussiez réfléchi", "eussent réfléchi" ],
+  "imperatif": [ "–", "réfléchis !", "–", "réfléchissons !", "réfléchissez !", "–" ],
+  "imperatifPasse": [ "–", "aie réfléchi !", "–", "ayons réfléchi !", "ayez réfléchi !", "–" ]
+}

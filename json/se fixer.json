@@ -1,0 +1,22 @@
+{
+  "infinitif": "se fixer",
+  "participePresent": "se fixant",
+  "participePasse": "fixé",
+  "present": [ "me fixe", "te fixes", "se fixe", "nous fixons", "vous fixez", "se fixent" ],
+  "imparfait": [ "me fixais", "te fixais", "se fixait", "nous fixions", "vous fixiez", "se fixaient" ],
+  "passeSimple": [ "me fixai", "te fixas", "se fixa", "nous fixâmes", "vous fixâtes", "se fixèrent" ],
+  "futurSimple": [ "me fixerai", "te fixeras", "se fixera", "nous fixerons", "vous fixerez", "se fixeront" ],
+  "passeCompose": [ "me suis fixé(e)", "t'es fixé(e)", "s'est fixé(e)", "nous sommes fixé(e)s", "vous êtes fixé(e)(s)", "se sont fixé(e)s" ],
+  "plusQueParfait": [ "m'étais fixé(e)", "t'étais fixé(e)", "s'était fixé(e)", "nous étions fixé(e)s", "vous étiez fixé(e)(s)", "s'étaient fixé(e)s" ],
+  "passeAnterieur": [ "me fus fixé(e)", "te fus fixé(e)", "se fut fixé(e)", "nous fûmes fixé(e)s", "vous fûtes fixé(e)(s)", "se furent fixé(e)s" ],
+  "futurAnterieur": [ "me serai fixé(e)", "te seras fixé(e)", "se sera fixé(e)", "nous serons fixé(e)s", "vous serez fixé(e)(s)", "se seront fixé(e)s" ],
+  "subjonctifPresent": [ "me fixe", "te fixes", "se fixe", "nous fixions", "vous fixiez", "se fixent" ],
+  "subjonctifImparfait": [ "me fixasse", "te fixasses", "se fixât", "nous fixassions", "vous fixassiez", "se fixassent" ],
+  "subjonctifPasse": [ "me sois fixé(e)", "te sois fixé(e)", "se soit fixé(e)", "nous soyons fixé(e)s", "vous soyez fixé(e)(s)", "se soient fixé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse fixé(e)", "te fusses fixé(e)", "se fût fixé(e)", "nous fussions fixé(e)s", "vous fussiez fixé(e)(s)", "se fussent fixé(e)s" ],
+  "conditionnelPresent": [ "me fixerais", "te fixerais", "se fixerait", "nous fixerions", "vous fixeriez", "se fixeraient" ],
+  "conditionnelPasse": [ "me serais fixé(e)", "te serais fixé(e)", "se serait fixé(e)", "nous serions fixé(e)s", "vous seriez fixé(e)(s)", "se seraient fixé(e)s" ],
+  "conditionnelPasseII": [ "me fusse fixé(e)", "te fusses fixé(e)", "se fût fixé(e)", "nous fussions fixé(e)s", "vous fussiez fixé(e)(s)", "se fussent fixé(e)s" ],
+  "imperatif": [ "–", "fixe-toi !", "–", "fixons-nous !", "fixez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "produire",
+  "participePresent": "produisant",
+  "participePasse": "produit",
+  "present": [ "produis", "produis", "produit", "produisons", "produisez", "produisent" ],
+  "imparfait": [ "produisais", "produisais", "produisait", "produisions", "produisiez", "produisaient" ],
+  "passeSimple": [ "produisis", "produisis", "produisit", "produisîmes", "produisîtes", "produisirent" ],
+  "futurSimple": [ "produirai", "produiras", "produira", "produirons", "produirez", "produiront" ],
+  "passeCompose": [ "ai produit", "as produit", "a produit", "avons produit", "avez produit", "ont produit" ],
+  "plusQueParfait": [ "avais produit", "avais produit", "avait produit", "avions produit", "aviez produit", "avaient produit" ],
+  "passeAnterieur": [ "eus produit", "eus produit", "eut produit", "eûmes produit", "eûtes produit", "eurent produit" ],
+  "futurAnterieur": [ "aurai produit", "auras produit", "aura produit", "aurons produit", "aurez produit", "auront produit" ],
+  "subjonctifPresent": [ "produise", "produises", "produise", "produisions", "produisiez", "produisent" ],
+  "subjonctifImparfait": [ "produisisse", "produisisses", "produisît", "produisissions", "produisissiez", "produisissent" ],
+  "subjonctifPasse": [ "aie produit", "aies produit", "ait produit", "ayons produit", "ayez produit", "aient produit" ],
+  "subjonctifPlusQueParfait": [ "eusse produit", "eusses produit", "eût produit", "eussions produit", "eussiez produit", "eussent produit" ],
+  "conditionnelPresent": [ "produirais", "produirais", "produirait", "produirions", "produiriez", "produiraient" ],
+  "conditionnelPasse": [ "aurais produit", "aurais produit", "aurait produit", "aurions produit", "auriez produit", "auraient produit" ],
+  "conditionnelPasseII": [ "eusse produit", "eusses produit", "eût produit", "eussions produit", "eussiez produit", "eussent produit" ],
+  "imperatif": [ "–", "produis !", "–", "produisons !", "produisez !", "–" ],
+  "imperatifPasse": [ "–", "aie produit !", "–", "ayons produit !", "ayez produit !", "–" ]
+}

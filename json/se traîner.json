@@ -1,0 +1,22 @@
+{
+  "infinitif": "se traîner",
+  "participePresent": "se traînant",
+  "participePasse": "traîné",
+  "present": [ "me traîne", "te traînes", "se traîne", "nous traînons", "vous traînez", "se traînent" ],
+  "imparfait": [ "me traînais", "te traînais", "se traînait", "nous traînions", "vous traîniez", "se traînaient" ],
+  "passeSimple": [ "me traînai", "te traînas", "se traîna", "nous traînâmes", "vous traînâtes", "se traînèrent" ],
+  "futurSimple": [ "me traînerai", "te traîneras", "se traînera", "nous traînerons", "vous traînerez", "se traîneront" ],
+  "passeCompose": [ "me suis traîné(e)", "t'es traîné(e)", "s'est traîné(e)", "nous sommes traîné(e)s", "vous êtes traîné(e)(s)", "se sont traîné(e)s" ],
+  "plusQueParfait": [ "m'étais traîné(e)", "t'étais traîné(e)", "s'était traîné(e)", "nous étions traîné(e)s", "vous étiez traîné(e)(s)", "s'étaient traîné(e)s" ],
+  "passeAnterieur": [ "me fus traîné(e)", "te fus traîné(e)", "se fut traîné(e)", "nous fûmes traîné(e)s", "vous fûtes traîné(e)(s)", "se furent traîné(e)s" ],
+  "futurAnterieur": [ "me serai traîné(e)", "te seras traîné(e)", "se sera traîné(e)", "nous serons traîné(e)s", "vous serez traîné(e)(s)", "se seront traîné(e)s" ],
+  "subjonctifPresent": [ "me traîne", "te traînes", "se traîne", "nous traînions", "vous traîniez", "se traînent" ],
+  "subjonctifImparfait": [ "me traînasse", "te traînasses", "se traînât", "nous traînassions", "vous traînassiez", "se traînassent" ],
+  "subjonctifPasse": [ "me sois traîné(e)", "te sois traîné(e)", "se soit traîné(e)", "nous soyons traîné(e)s", "vous soyez traîné(e)(s)", "se soient traîné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse traîné(e)", "te fusses traîné(e)", "se fût traîné(e)", "nous fussions traîné(e)s", "vous fussiez traîné(e)(s)", "se fussent traîné(e)s" ],
+  "conditionnelPresent": [ "me traînerais", "te traînerais", "se traînerait", "nous traînerions", "vous traîneriez", "se traîneraient" ],
+  "conditionnelPasse": [ "me serais traîné(e)", "te serais traîné(e)", "se serait traîné(e)", "nous serions traîné(e)s", "vous seriez traîné(e)(s)", "se seraient traîné(e)s" ],
+  "conditionnelPasseII": [ "me fusse traîné(e)", "te fusses traîné(e)", "se fût traîné(e)", "nous fussions traîné(e)s", "vous fussiez traîné(e)(s)", "se fussent traîné(e)s" ],
+  "imperatif": [ "–", "traîne-toi !", "–", "traînons-nous !", "traînez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "éloigner",
+  "participePresent": "éloignant",
+  "participePasse": "éloigné",
+  "present": [ "éloigne", "éloignes", "éloigne", "éloignons", "éloignez", "éloignent" ],
+  "imparfait": [ "éloignais", "éloignais", "éloignait", "éloignions", "éloigniez", "éloignaient" ],
+  "passeSimple": [ "éloignai", "éloignas", "éloigna", "éloignâmes", "éloignâtes", "éloignèrent" ],
+  "futurSimple": [ "éloignerai", "éloigneras", "éloignera", "éloignerons", "éloignerez", "éloigneront" ],
+  "passeCompose": [ "ai éloigné", "as éloigné", "a éloigné", "avons éloigné", "avez éloigné", "ont éloigné" ],
+  "plusQueParfait": [ "avais éloigné", "avais éloigné", "avait éloigné", "avions éloigné", "aviez éloigné", "avaient éloigné" ],
+  "passeAnterieur": [ "eus éloigné", "eus éloigné", "eut éloigné", "eûmes éloigné", "eûtes éloigné", "eurent éloigné" ],
+  "futurAnterieur": [ "aurai éloigné", "auras éloigné", "aura éloigné", "aurons éloigné", "aurez éloigné", "auront éloigné" ],
+  "subjonctifPresent": [ "éloigne", "éloignes", "éloigne", "éloignions", "éloigniez", "éloignent" ],
+  "subjonctifImparfait": [ "éloignasse", "éloignasses", "éloignât", "éloignassions", "éloignassiez", "éloignassent" ],
+  "subjonctifPasse": [ "aie éloigné", "aies éloigné", "ait éloigné", "ayons éloigné", "ayez éloigné", "aient éloigné" ],
+  "subjonctifPlusQueParfait": [ "eusse éloigné", "eusses éloigné", "eût éloigné", "eussions éloigné", "eussiez éloigné", "eussent éloigné" ],
+  "conditionnelPresent": [ "éloignerais", "éloignerais", "éloignerait", "éloignerions", "éloigneriez", "éloigneraient" ],
+  "conditionnelPasse": [ "aurais éloigné", "aurais éloigné", "aurait éloigné", "aurions éloigné", "auriez éloigné", "auraient éloigné" ],
+  "conditionnelPasseII": [ "eusse éloigné", "eusses éloigné", "eût éloigné", "eussions éloigné", "eussiez éloigné", "eussent éloigné" ],
+  "imperatif": [ "–", "éloigne !", "–", "éloignons !", "éloignez !", "–" ],
+  "imperatifPasse": [ "–", "aie éloigné !", "–", "ayons éloigné !", "ayez éloigné !", "–" ]
+}

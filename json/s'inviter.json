@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'inviter",
+  "participePresent": "s'invitant",
+  "participePasse": "invité",
+  "present": [ "m'invite", "t'invites", "s'invite", "nous invitons", "vous invitez", "s'invitent" ],
+  "imparfait": [ "m'invitais", "t'invitais", "s'invitait", "nous invitions", "vous invitiez", "s'invitaient" ],
+  "passeSimple": [ "m'invitai", "t'invitas", "s'invita", "nous invitâmes", "vous invitâtes", "s'invitèrent" ],
+  "futurSimple": [ "m'inviterai", "t'inviteras", "s'invitera", "nous inviterons", "vous inviterez", "s'inviteront" ],
+  "passeCompose": [ "me suis invité(e)", "t'es invité(e)", "s'est invité(e)", "nous sommes invité(e)s", "vous êtes invité(e)(s)", "se sont invité(e)s" ],
+  "plusQueParfait": [ "m'étais invité(e)", "t'étais invité(e)", "s'était invité(e)", "nous étions invité(e)s", "vous étiez invité(e)(s)", "s'étaient invité(e)s" ],
+  "passeAnterieur": [ "me fus invité(e)", "te fus invité(e)", "se fut invité(e)", "nous fûmes invité(e)s", "vous fûtes invité(e)(s)", "se furent invité(e)s" ],
+  "futurAnterieur": [ "me serai invité(e)", "te seras invité(e)", "se sera invité(e)", "nous serons invité(e)s", "vous serez invité(e)(s)", "se seront invité(e)s" ],
+  "subjonctifPresent": [ "m'invite", "t'invites", "s'invite", "nous invitions", "vous invitiez", "s'invitent" ],
+  "subjonctifImparfait": [ "m'invitasse", "t'invitasses", "s'invitât", "nous invitassions", "vous invitassiez", "s'invitassent" ],
+  "subjonctifPasse": [ "me sois invité(e)", "te sois invité(e)", "se soit invité(e)", "nous soyons invité(e)s", "vous soyez invité(e)(s)", "se soient invité(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse invité(e)", "te fusses invité(e)", "se fût invité(e)", "nous fussions invité(e)s", "vous fussiez invité(e)(s)", "se fussent invité(e)s" ],
+  "conditionnelPresent": [ "m'inviterais", "t'inviterais", "s'inviterait", "nous inviterions", "vous inviteriez", "s'inviteraient" ],
+  "conditionnelPasse": [ "me serais invité(e)", "te serais invité(e)", "se serait invité(e)", "nous serions invité(e)s", "vous seriez invité(e)(s)", "se seraient invité(e)s" ],
+  "conditionnelPasseII": [ "me fusse invité(e)", "te fusses invité(e)", "se fût invité(e)", "nous fussions invité(e)s", "vous fussiez invité(e)(s)", "se fussent invité(e)s" ],
+  "imperatif": [ "–", "invite-toi !", "–", "invitons-nous !", "invitez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

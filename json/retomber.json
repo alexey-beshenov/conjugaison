@@ -1,0 +1,22 @@
+{
+  "infinitif": "retomber",
+  "participePresent": "retombant",
+  "participePasse": "retombé",
+  "present": [ "retombe", "retombes", "retombe", "retombons", "retombez", "retombent" ],
+  "imparfait": [ "retombais", "retombais", "retombait", "retombions", "retombiez", "retombaient" ],
+  "passeSimple": [ "retombai", "retombas", "retomba", "retombâmes", "retombâtes", "retombèrent" ],
+  "futurSimple": [ "retomberai", "retomberas", "retombera", "retomberons", "retomberez", "retomberont" ],
+  "passeCompose": [ "suis retombé(e)", "es retombé(e)", "est retombé(e)", "sommes retombé(e)s", "êtes retombé(e)(s)", "sont retombé(e)s" ],
+  "plusQueParfait": [ "étais retombé(e)", "étais retombé(e)", "était retombé(e)", "étions retombé(e)s", "étiez retombé(e)(s)", "étaient retombé(e)s" ],
+  "passeAnterieur": [ "fus retombé(e)", "fus retombé(e)", "fut retombé(e)", "fûmes retombé(e)s", "fûtes retombé(e)(s)", "furent retombé(e)s" ],
+  "futurAnterieur": [ "serai retombé(e)", "seras retombé(e)", "sera retombé(e)", "serons retombé(e)s", "serez retombé(e)(s)", "seront retombé(e)s" ],
+  "subjonctifPresent": [ "retombe", "retombes", "retombe", "retombions", "retombiez", "retombent" ],
+  "subjonctifImparfait": [ "retombasse", "retombasses", "retombât", "retombassions", "retombassiez", "retombassent" ],
+  "subjonctifPasse": [ "sois retombé(e)", "sois retombé(e)", "soit retombé(e)", "soyons retombé(e)s", "soyez retombé(e)(s)", "soient retombé(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse retombé(e)", "fusses retombé(e)", "fût retombé(e)", "fussions retombé(e)s", "fussiez retombé(e)(s)", "fussent retombé(e)s" ],
+  "conditionnelPresent": [ "retomberais", "retomberais", "retomberait", "retomberions", "retomberiez", "retomberaient" ],
+  "conditionnelPasse": [ "serais retombé(e)", "serais retombé(e)", "serait retombé(e)", "serions retombé(e)s", "seriez retombé(e)(s)", "seraient retombé(e)s" ],
+  "conditionnelPasseII": [ "fusse retombé(e)", "fusses retombé(e)", "fût retombé(e)", "fussions retombé(e)s", "fussiez retombé(e)(s)", "fussent retombé(e)s" ],
+  "imperatif": [ "–", "retombe !", "–", "retombons !", "retombez !", "–" ],
+  "imperatifPasse": [ "–", "sois retombé(e) !", "–", "soyons retombé(e)s !", "soyez retombé(e)(s) !", "–" ]
+}

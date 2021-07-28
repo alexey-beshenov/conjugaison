@@ -1,0 +1,22 @@
+{
+  "infinitif": "se tendre",
+  "participePresent": "se tendant",
+  "participePasse": "tendu",
+  "present": [ "me tends", "te tends", "se tend", "nous tendons", "vous tendez", "se tendent" ],
+  "imparfait": [ "me tendais", "te tendais", "se tendait", "nous tendions", "vous tendiez", "se tendaient" ],
+  "passeSimple": [ "me tendis", "te tendis", "se tendit", "nous tendîmes", "vous tendîtes", "se tendirent" ],
+  "futurSimple": [ "me tendrai", "te tendras", "se tendra", "nous tendrons", "vous tendrez", "se tendront" ],
+  "passeCompose": [ "me suis tendu(e)", "t'es tendu(e)", "s'est tendu(e)", "nous sommes tendu(e)s", "vous êtes tendu(e)(s)", "se sont tendu(e)s" ],
+  "plusQueParfait": [ "m'étais tendu(e)", "t'étais tendu(e)", "s'était tendu(e)", "nous étions tendu(e)s", "vous étiez tendu(e)(s)", "s'étaient tendu(e)s" ],
+  "passeAnterieur": [ "me fus tendu(e)", "te fus tendu(e)", "se fut tendu(e)", "nous fûmes tendu(e)s", "vous fûtes tendu(e)(s)", "se furent tendu(e)s" ],
+  "futurAnterieur": [ "me serai tendu(e)", "te seras tendu(e)", "se sera tendu(e)", "nous serons tendu(e)s", "vous serez tendu(e)(s)", "se seront tendu(e)s" ],
+  "subjonctifPresent": [ "me tende", "te tendes", "se tende", "nous tendions", "vous tendiez", "se tendent" ],
+  "subjonctifImparfait": [ "me tendisse", "te tendisses", "se tendît", "nous tendissions", "vous tendissiez", "se tendissent" ],
+  "subjonctifPasse": [ "me sois tendu(e)", "te sois tendu(e)", "se soit tendu(e)", "nous soyons tendu(e)s", "vous soyez tendu(e)(s)", "se soient tendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse tendu(e)", "te fusses tendu(e)", "se fût tendu(e)", "nous fussions tendu(e)s", "vous fussiez tendu(e)(s)", "se fussent tendu(e)s" ],
+  "conditionnelPresent": [ "me tendrais", "te tendrais", "se tendrait", "nous tendrions", "vous tendriez", "se tendraient" ],
+  "conditionnelPasse": [ "me serais tendu(e)", "te serais tendu(e)", "se serait tendu(e)", "nous serions tendu(e)s", "vous seriez tendu(e)(s)", "se seraient tendu(e)s" ],
+  "conditionnelPasseII": [ "me fusse tendu(e)", "te fusses tendu(e)", "se fût tendu(e)", "nous fussions tendu(e)s", "vous fussiez tendu(e)(s)", "se fussent tendu(e)s" ],
+  "imperatif": [ "–", "tends-toi !", "–", "tendons-nous !", "tendez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

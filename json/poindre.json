@@ -1,0 +1,22 @@
+{
+  "infinitif": "poindre",
+  "participePresent": "poignant",
+  "participePasse": "point",
+  "present": [ "–", "–", "point", "–", "–", "poignent" ],
+  "imparfait": [ "–", "–", "poignait", "–", "–", "poignaient" ],
+  "passeSimple": [ "–", "–", "poignit", "–", "–", "poignirent" ],
+  "futurSimple": [ "–", "–", "poindra", "–", "–", "poindront" ],
+  "passeCompose": [ "–", "–", "a point", "–", "–", "ont point" ],
+  "plusQueParfait": [ "–", "–", "avait point", "–", "–", "avaient point" ],
+  "passeAnterieur": [ "–", "–", "eut point", "–", "–", "eurent point" ],
+  "futurAnterieur": [ "–", "–", "aura point", "–", "–", "auront point" ],
+  "subjonctifPresent": [ "–", "–", "poigne", "–", "–", "poignent" ],
+  "subjonctifImparfait": [ "–", "–", "poignît", "–", "–", "poignissent" ],
+  "subjonctifPasse": [ "–", "–", "ait point", "–", "–", "aient point" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "eût point", "–", "–", "eussent point" ],
+  "conditionnelPresent": [ "–", "–", "poindrait", "–", "–", "poindraient" ],
+  "conditionnelPasse": [ "–", "–", "aurait point", "–", "–", "auraient point" ],
+  "conditionnelPasseII": [ "–", "–", "eût point", "–", "–", "eussent point" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

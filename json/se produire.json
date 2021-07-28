@@ -1,0 +1,22 @@
+{
+  "infinitif": "se produire",
+  "participePresent": "se produisant",
+  "participePasse": "produit",
+  "present": [ "me produis", "te produis", "se produit", "nous produisons", "vous produisez", "se produisent" ],
+  "imparfait": [ "me produisais", "te produisais", "se produisait", "nous produisions", "vous produisiez", "se produisaient" ],
+  "passeSimple": [ "me produisis", "te produisis", "se produisit", "nous produisîmes", "vous produisîtes", "se produisirent" ],
+  "futurSimple": [ "me produirai", "te produiras", "se produira", "nous produirons", "vous produirez", "se produiront" ],
+  "passeCompose": [ "me suis produit(e)", "t'es produit(e)", "s'est produit(e)", "nous sommes produit(e)s", "vous êtes produit(e)(s)", "se sont produit(e)s" ],
+  "plusQueParfait": [ "m'étais produit(e)", "t'étais produit(e)", "s'était produit(e)", "nous étions produit(e)s", "vous étiez produit(e)(s)", "s'étaient produit(e)s" ],
+  "passeAnterieur": [ "me fus produit(e)", "te fus produit(e)", "se fut produit(e)", "nous fûmes produit(e)s", "vous fûtes produit(e)(s)", "se furent produit(e)s" ],
+  "futurAnterieur": [ "me serai produit(e)", "te seras produit(e)", "se sera produit(e)", "nous serons produit(e)s", "vous serez produit(e)(s)", "se seront produit(e)s" ],
+  "subjonctifPresent": [ "me produise", "te produises", "se produise", "nous produisions", "vous produisiez", "se produisent" ],
+  "subjonctifImparfait": [ "me produisisse", "te produisisses", "se produisît", "nous produisissions", "vous produisissiez", "se produisissent" ],
+  "subjonctifPasse": [ "me sois produit(e)", "te sois produit(e)", "se soit produit(e)", "nous soyons produit(e)s", "vous soyez produit(e)(s)", "se soient produit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse produit(e)", "te fusses produit(e)", "se fût produit(e)", "nous fussions produit(e)s", "vous fussiez produit(e)(s)", "se fussent produit(e)s" ],
+  "conditionnelPresent": [ "me produirais", "te produirais", "se produirait", "nous produirions", "vous produiriez", "se produiraient" ],
+  "conditionnelPasse": [ "me serais produit(e)", "te serais produit(e)", "se serait produit(e)", "nous serions produit(e)s", "vous seriez produit(e)(s)", "se seraient produit(e)s" ],
+  "conditionnelPasseII": [ "me fusse produit(e)", "te fusses produit(e)", "se fût produit(e)", "nous fussions produit(e)s", "vous fussiez produit(e)(s)", "se fussent produit(e)s" ],
+  "imperatif": [ "–", "produis-toi !", "–", "produisons-nous !", "produisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

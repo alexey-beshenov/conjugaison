@@ -1,0 +1,22 @@
+{
+  "infinitif": "affirmer",
+  "participePresent": "affirmant",
+  "participePasse": "affirmé",
+  "present": [ "affirme", "affirmes", "affirme", "affirmons", "affirmez", "affirment" ],
+  "imparfait": [ "affirmais", "affirmais", "affirmait", "affirmions", "affirmiez", "affirmaient" ],
+  "passeSimple": [ "affirmai", "affirmas", "affirma", "affirmâmes", "affirmâtes", "affirmèrent" ],
+  "futurSimple": [ "affirmerai", "affirmeras", "affirmera", "affirmerons", "affirmerez", "affirmeront" ],
+  "passeCompose": [ "ai affirmé", "as affirmé", "a affirmé", "avons affirmé", "avez affirmé", "ont affirmé" ],
+  "plusQueParfait": [ "avais affirmé", "avais affirmé", "avait affirmé", "avions affirmé", "aviez affirmé", "avaient affirmé" ],
+  "passeAnterieur": [ "eus affirmé", "eus affirmé", "eut affirmé", "eûmes affirmé", "eûtes affirmé", "eurent affirmé" ],
+  "futurAnterieur": [ "aurai affirmé", "auras affirmé", "aura affirmé", "aurons affirmé", "aurez affirmé", "auront affirmé" ],
+  "subjonctifPresent": [ "affirme", "affirmes", "affirme", "affirmions", "affirmiez", "affirment" ],
+  "subjonctifImparfait": [ "affirmasse", "affirmasses", "affirmât", "affirmassions", "affirmassiez", "affirmassent" ],
+  "subjonctifPasse": [ "aie affirmé", "aies affirmé", "ait affirmé", "ayons affirmé", "ayez affirmé", "aient affirmé" ],
+  "subjonctifPlusQueParfait": [ "eusse affirmé", "eusses affirmé", "eût affirmé", "eussions affirmé", "eussiez affirmé", "eussent affirmé" ],
+  "conditionnelPresent": [ "affirmerais", "affirmerais", "affirmerait", "affirmerions", "affirmeriez", "affirmeraient" ],
+  "conditionnelPasse": [ "aurais affirmé", "aurais affirmé", "aurait affirmé", "aurions affirmé", "auriez affirmé", "auraient affirmé" ],
+  "conditionnelPasseII": [ "eusse affirmé", "eusses affirmé", "eût affirmé", "eussions affirmé", "eussiez affirmé", "eussent affirmé" ],
+  "imperatif": [ "–", "affirme !", "–", "affirmons !", "affirmez !", "–" ],
+  "imperatifPasse": [ "–", "aie affirmé !", "–", "ayons affirmé !", "ayez affirmé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "précipiter",
+  "participePresent": "précipitant",
+  "participePasse": "précipité",
+  "present": [ "précipite", "précipites", "précipite", "précipitons", "précipitez", "précipitent" ],
+  "imparfait": [ "précipitais", "précipitais", "précipitait", "précipitions", "précipitiez", "précipitaient" ],
+  "passeSimple": [ "précipitai", "précipitas", "précipita", "précipitâmes", "précipitâtes", "précipitèrent" ],
+  "futurSimple": [ "précipiterai", "précipiteras", "précipitera", "précipiterons", "précipiterez", "précipiteront" ],
+  "passeCompose": [ "ai précipité", "as précipité", "a précipité", "avons précipité", "avez précipité", "ont précipité" ],
+  "plusQueParfait": [ "avais précipité", "avais précipité", "avait précipité", "avions précipité", "aviez précipité", "avaient précipité" ],
+  "passeAnterieur": [ "eus précipité", "eus précipité", "eut précipité", "eûmes précipité", "eûtes précipité", "eurent précipité" ],
+  "futurAnterieur": [ "aurai précipité", "auras précipité", "aura précipité", "aurons précipité", "aurez précipité", "auront précipité" ],
+  "subjonctifPresent": [ "précipite", "précipites", "précipite", "précipitions", "précipitiez", "précipitent" ],
+  "subjonctifImparfait": [ "précipitasse", "précipitasses", "précipitât", "précipitassions", "précipitassiez", "précipitassent" ],
+  "subjonctifPasse": [ "aie précipité", "aies précipité", "ait précipité", "ayons précipité", "ayez précipité", "aient précipité" ],
+  "subjonctifPlusQueParfait": [ "eusse précipité", "eusses précipité", "eût précipité", "eussions précipité", "eussiez précipité", "eussent précipité" ],
+  "conditionnelPresent": [ "précipiterais", "précipiterais", "précipiterait", "précipiterions", "précipiteriez", "précipiteraient" ],
+  "conditionnelPasse": [ "aurais précipité", "aurais précipité", "aurait précipité", "aurions précipité", "auriez précipité", "auraient précipité" ],
+  "conditionnelPasseII": [ "eusse précipité", "eusses précipité", "eût précipité", "eussions précipité", "eussiez précipité", "eussent précipité" ],
+  "imperatif": [ "–", "précipite !", "–", "précipitons !", "précipitez !", "–" ],
+  "imperatifPasse": [ "–", "aie précipité !", "–", "ayons précipité !", "ayez précipité !", "–" ]
+}

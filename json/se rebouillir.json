@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rebouillir",
+  "participePresent": "se rebouillant",
+  "participePasse": "rebouilli",
+  "present": [ "me rebous", "te rebous", "se rebout", "nous rebouillons", "vous rebouillez", "se rebouillent" ],
+  "imparfait": [ "me rebouillais", "te rebouillais", "se rebouillait", "nous rebouillions", "vous rebouilliez", "se rebouillaient" ],
+  "passeSimple": [ "me rebouillis", "te rebouillis", "se rebouillit", "nous rebouillîmes", "vous rebouillîtes", "se rebouillirent" ],
+  "futurSimple": [ "me rebouillirai", "te rebouilliras", "se rebouillira", "nous rebouillirons", "vous rebouillirez", "se rebouilliront" ],
+  "passeCompose": [ "me suis rebouilli(e)", "t'es rebouilli(e)", "s'est rebouilli(e)", "nous sommes rebouilli(e)s", "vous êtes rebouilli(e)(s)", "se sont rebouilli(e)s" ],
+  "plusQueParfait": [ "m'étais rebouilli(e)", "t'étais rebouilli(e)", "s'était rebouilli(e)", "nous étions rebouilli(e)s", "vous étiez rebouilli(e)(s)", "s'étaient rebouilli(e)s" ],
+  "passeAnterieur": [ "me fus rebouilli(e)", "te fus rebouilli(e)", "se fut rebouilli(e)", "nous fûmes rebouilli(e)s", "vous fûtes rebouilli(e)(s)", "se furent rebouilli(e)s" ],
+  "futurAnterieur": [ "me serai rebouilli(e)", "te seras rebouilli(e)", "se sera rebouilli(e)", "nous serons rebouilli(e)s", "vous serez rebouilli(e)(s)", "se seront rebouilli(e)s" ],
+  "subjonctifPresent": [ "me rebouille", "te rebouilles", "se rebouille", "nous rebouillions", "vous rebouilliez", "se rebouillent" ],
+  "subjonctifImparfait": [ "me rebouillisse", "te rebouillisses", "se rebouillît", "nous rebouillissions", "vous rebouillissiez", "se rebouillissent" ],
+  "subjonctifPasse": [ "me sois rebouilli(e)", "te sois rebouilli(e)", "se soit rebouilli(e)", "nous soyons rebouilli(e)s", "vous soyez rebouilli(e)(s)", "se soient rebouilli(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rebouilli(e)", "te fusses rebouilli(e)", "se fût rebouilli(e)", "nous fussions rebouilli(e)s", "vous fussiez rebouilli(e)(s)", "se fussent rebouilli(e)s" ],
+  "conditionnelPresent": [ "me rebouillirais", "te rebouillirais", "se rebouillirait", "nous rebouillirions", "vous rebouilliriez", "se rebouilliraient" ],
+  "conditionnelPasse": [ "me serais rebouilli(e)", "te serais rebouilli(e)", "se serait rebouilli(e)", "nous serions rebouilli(e)s", "vous seriez rebouilli(e)(s)", "se seraient rebouilli(e)s" ],
+  "conditionnelPasseII": [ "me fusse rebouilli(e)", "te fusses rebouilli(e)", "se fût rebouilli(e)", "nous fussions rebouilli(e)s", "vous fussiez rebouilli(e)(s)", "se fussent rebouilli(e)s" ],
+  "imperatif": [ "–", "rebous-toi !", "–", "rebouillons-nous !", "rebouillez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

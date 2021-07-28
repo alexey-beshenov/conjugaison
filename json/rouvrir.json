@@ -1,0 +1,22 @@
+{
+  "infinitif": "rouvrir",
+  "participePresent": "rouvrant",
+  "participePasse": "rouvert",
+  "present": [ "rouvre", "rouvres", "rouvre", "rouvrons", "rouvrez", "rouvrent" ],
+  "imparfait": [ "rouvrais", "rouvrais", "rouvrait", "rouvrions", "rouvriez", "rouvraient" ],
+  "passeSimple": [ "rouvris", "rouvris", "rouvrit", "rouvrîmes", "rouvrîtes", "rouvrirent" ],
+  "futurSimple": [ "rouvrirai", "rouvriras", "rouvrira", "rouvrirons", "rouvrirez", "rouvriront" ],
+  "passeCompose": [ "ai rouvert", "as rouvert", "a rouvert", "avons rouvert", "avez rouvert", "ont rouvert" ],
+  "plusQueParfait": [ "avais rouvert", "avais rouvert", "avait rouvert", "avions rouvert", "aviez rouvert", "avaient rouvert" ],
+  "passeAnterieur": [ "eus rouvert", "eus rouvert", "eut rouvert", "eûmes rouvert", "eûtes rouvert", "eurent rouvert" ],
+  "futurAnterieur": [ "aurai rouvert", "auras rouvert", "aura rouvert", "aurons rouvert", "aurez rouvert", "auront rouvert" ],
+  "subjonctifPresent": [ "rouvre", "rouvres", "rouvre", "rouvrions", "rouvriez", "rouvrent" ],
+  "subjonctifImparfait": [ "rouvrisse", "rouvrisses", "rouvrît", "rouvrissions", "rouvrissiez", "rouvrissent" ],
+  "subjonctifPasse": [ "aie rouvert", "aies rouvert", "ait rouvert", "ayons rouvert", "ayez rouvert", "aient rouvert" ],
+  "subjonctifPlusQueParfait": [ "eusse rouvert", "eusses rouvert", "eût rouvert", "eussions rouvert", "eussiez rouvert", "eussent rouvert" ],
+  "conditionnelPresent": [ "rouvrirais", "rouvrirais", "rouvrirait", "rouvririons", "rouvririez", "rouvriraient" ],
+  "conditionnelPasse": [ "aurais rouvert", "aurais rouvert", "aurait rouvert", "aurions rouvert", "auriez rouvert", "auraient rouvert" ],
+  "conditionnelPasseII": [ "eusse rouvert", "eusses rouvert", "eût rouvert", "eussions rouvert", "eussiez rouvert", "eussent rouvert" ],
+  "imperatif": [ "–", "rouvre !", "–", "rouvrons !", "rouvrez !", "–" ],
+  "imperatifPasse": [ "–", "aie rouvert !", "–", "ayons rouvert !", "ayez rouvert !", "–" ]
+}

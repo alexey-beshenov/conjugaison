@@ -1,0 +1,22 @@
+{
+  "infinitif": "se joindre",
+  "participePresent": "se joignant",
+  "participePasse": "joint",
+  "present": [ "me joins", "te joins", "se joint", "nous joignons", "vous joignez", "se joignent" ],
+  "imparfait": [ "me joignais", "te joignais", "se joignait", "nous joignions", "vous joigniez", "se joignaient" ],
+  "passeSimple": [ "me joignis", "te joignis", "se joignit", "nous joignîmes", "vous joignîtes", "se joignirent" ],
+  "futurSimple": [ "me joindrai", "te joindras", "se joindra", "nous joindrons", "vous joindrez", "se joindront" ],
+  "passeCompose": [ "me suis joint(e)", "t'es joint(e)", "s'est joint(e)", "nous sommes joint(e)s", "vous êtes joint(e)(s)", "se sont joint(e)s" ],
+  "plusQueParfait": [ "m'étais joint(e)", "t'étais joint(e)", "s'était joint(e)", "nous étions joint(e)s", "vous étiez joint(e)(s)", "s'étaient joint(e)s" ],
+  "passeAnterieur": [ "me fus joint(e)", "te fus joint(e)", "se fut joint(e)", "nous fûmes joint(e)s", "vous fûtes joint(e)(s)", "se furent joint(e)s" ],
+  "futurAnterieur": [ "me serai joint(e)", "te seras joint(e)", "se sera joint(e)", "nous serons joint(e)s", "vous serez joint(e)(s)", "se seront joint(e)s" ],
+  "subjonctifPresent": [ "me joigne", "te joignes", "se joigne", "nous joignions", "vous joigniez", "se joignent" ],
+  "subjonctifImparfait": [ "me joignisse", "te joignisses", "se joignît", "nous joignissions", "vous joignissiez", "se joignissent" ],
+  "subjonctifPasse": [ "me sois joint(e)", "te sois joint(e)", "se soit joint(e)", "nous soyons joint(e)s", "vous soyez joint(e)(s)", "se soient joint(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse joint(e)", "te fusses joint(e)", "se fût joint(e)", "nous fussions joint(e)s", "vous fussiez joint(e)(s)", "se fussent joint(e)s" ],
+  "conditionnelPresent": [ "me joindrais", "te joindrais", "se joindrait", "nous joindrions", "vous joindriez", "se joindraient" ],
+  "conditionnelPasse": [ "me serais joint(e)", "te serais joint(e)", "se serait joint(e)", "nous serions joint(e)s", "vous seriez joint(e)(s)", "se seraient joint(e)s" ],
+  "conditionnelPasseII": [ "me fusse joint(e)", "te fusses joint(e)", "se fût joint(e)", "nous fussions joint(e)s", "vous fussiez joint(e)(s)", "se fussent joint(e)s" ],
+  "imperatif": [ "–", "joins-toi !", "–", "joignons-nous !", "joignez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

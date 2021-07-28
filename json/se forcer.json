@@ -1,0 +1,22 @@
+{
+  "infinitif": "se forcer",
+  "participePresent": "se forçant",
+  "participePasse": "forcé",
+  "present": [ "me force", "te forces", "se force", "nous forçons", "vous forcez", "se forcent" ],
+  "imparfait": [ "me forçais", "te forçais", "se forçait", "nous forcions", "vous forciez", "se forçaient" ],
+  "passeSimple": [ "me forçai", "te forças", "se força", "nous forçâmes", "vous forçâtes", "se forcèrent" ],
+  "futurSimple": [ "me forcerai", "te forceras", "se forcera", "nous forcerons", "vous forcerez", "se forceront" ],
+  "passeCompose": [ "me suis forcé(e)", "t'es forcé(e)", "s'est forcé(e)", "nous sommes forcé(e)s", "vous êtes forcé(e)(s)", "se sont forcé(e)s" ],
+  "plusQueParfait": [ "m'étais forcé(e)", "t'étais forcé(e)", "s'était forcé(e)", "nous étions forcé(e)s", "vous étiez forcé(e)(s)", "s'étaient forcé(e)s" ],
+  "passeAnterieur": [ "me fus forcé(e)", "te fus forcé(e)", "se fut forcé(e)", "nous fûmes forcé(e)s", "vous fûtes forcé(e)(s)", "se furent forcé(e)s" ],
+  "futurAnterieur": [ "me serai forcé(e)", "te seras forcé(e)", "se sera forcé(e)", "nous serons forcé(e)s", "vous serez forcé(e)(s)", "se seront forcé(e)s" ],
+  "subjonctifPresent": [ "me force", "te forces", "se force", "nous forcions", "vous forciez", "se forcent" ],
+  "subjonctifImparfait": [ "me forçasse", "te forçasses", "se forçât", "nous forçassions", "vous forçassiez", "se forçassent" ],
+  "subjonctifPasse": [ "me sois forcé(e)", "te sois forcé(e)", "se soit forcé(e)", "nous soyons forcé(e)s", "vous soyez forcé(e)(s)", "se soient forcé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse forcé(e)", "te fusses forcé(e)", "se fût forcé(e)", "nous fussions forcé(e)s", "vous fussiez forcé(e)(s)", "se fussent forcé(e)s" ],
+  "conditionnelPresent": [ "me forcerais", "te forcerais", "se forcerait", "nous forcerions", "vous forceriez", "se forceraient" ],
+  "conditionnelPasse": [ "me serais forcé(e)", "te serais forcé(e)", "se serait forcé(e)", "nous serions forcé(e)s", "vous seriez forcé(e)(s)", "se seraient forcé(e)s" ],
+  "conditionnelPasseII": [ "me fusse forcé(e)", "te fusses forcé(e)", "se fût forcé(e)", "nous fussions forcé(e)s", "vous fussiez forcé(e)(s)", "se fussent forcé(e)s" ],
+  "imperatif": [ "–", "force-toi !", "–", "forçons-nous !", "forcez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

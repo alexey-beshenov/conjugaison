@@ -1,0 +1,22 @@
+{
+  "infinitif": "couler",
+  "participePresent": "coulant",
+  "participePasse": "coulé",
+  "present": [ "coule", "coules", "coule", "coulons", "coulez", "coulent" ],
+  "imparfait": [ "coulais", "coulais", "coulait", "coulions", "couliez", "coulaient" ],
+  "passeSimple": [ "coulai", "coulas", "coula", "coulâmes", "coulâtes", "coulèrent" ],
+  "futurSimple": [ "coulerai", "couleras", "coulera", "coulerons", "coulerez", "couleront" ],
+  "passeCompose": [ "ai coulé", "as coulé", "a coulé", "avons coulé", "avez coulé", "ont coulé" ],
+  "plusQueParfait": [ "avais coulé", "avais coulé", "avait coulé", "avions coulé", "aviez coulé", "avaient coulé" ],
+  "passeAnterieur": [ "eus coulé", "eus coulé", "eut coulé", "eûmes coulé", "eûtes coulé", "eurent coulé" ],
+  "futurAnterieur": [ "aurai coulé", "auras coulé", "aura coulé", "aurons coulé", "aurez coulé", "auront coulé" ],
+  "subjonctifPresent": [ "coule", "coules", "coule", "coulions", "couliez", "coulent" ],
+  "subjonctifImparfait": [ "coulasse", "coulasses", "coulât", "coulassions", "coulassiez", "coulassent" ],
+  "subjonctifPasse": [ "aie coulé", "aies coulé", "ait coulé", "ayons coulé", "ayez coulé", "aient coulé" ],
+  "subjonctifPlusQueParfait": [ "eusse coulé", "eusses coulé", "eût coulé", "eussions coulé", "eussiez coulé", "eussent coulé" ],
+  "conditionnelPresent": [ "coulerais", "coulerais", "coulerait", "coulerions", "couleriez", "couleraient" ],
+  "conditionnelPasse": [ "aurais coulé", "aurais coulé", "aurait coulé", "aurions coulé", "auriez coulé", "auraient coulé" ],
+  "conditionnelPasseII": [ "eusse coulé", "eusses coulé", "eût coulé", "eussions coulé", "eussiez coulé", "eussent coulé" ],
+  "imperatif": [ "–", "coule !", "–", "coulons !", "coulez !", "–" ],
+  "imperatifPasse": [ "–", "aie coulé !", "–", "ayons coulé !", "ayez coulé !", "–" ]
+}

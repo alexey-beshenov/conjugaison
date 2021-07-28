@@ -1,0 +1,22 @@
+{
+  "infinitif": "parvenir",
+  "participePresent": "parvenant",
+  "participePasse": "parvenu",
+  "present": [ "parviens", "parviens", "parvient", "parvenons", "parvenez", "parviennent" ],
+  "imparfait": [ "parvenais", "parvenais", "parvenait", "parvenions", "parveniez", "parvenaient" ],
+  "passeSimple": [ "parvins", "parvins", "parvint", "parvînmes", "parvîntes", "parvinrent" ],
+  "futurSimple": [ "parviendrai", "parviendras", "parviendra", "parviendrons", "parviendrez", "parviendront" ],
+  "passeCompose": [ "suis parvenu(e)", "es parvenu(e)", "est parvenu(e)", "sommes parvenu(e)s", "êtes parvenu(e)(s)", "sont parvenu(e)s" ],
+  "plusQueParfait": [ "étais parvenu(e)", "étais parvenu(e)", "était parvenu(e)", "étions parvenu(e)s", "étiez parvenu(e)(s)", "étaient parvenu(e)s" ],
+  "passeAnterieur": [ "fus parvenu(e)", "fus parvenu(e)", "fut parvenu(e)", "fûmes parvenu(e)s", "fûtes parvenu(e)(s)", "furent parvenu(e)s" ],
+  "futurAnterieur": [ "serai parvenu(e)", "seras parvenu(e)", "sera parvenu(e)", "serons parvenu(e)s", "serez parvenu(e)(s)", "seront parvenu(e)s" ],
+  "subjonctifPresent": [ "parvienne", "parviennes", "parvienne", "parvenions", "parveniez", "parviennent" ],
+  "subjonctifImparfait": [ "parvinsse", "parvinsses", "parvînt", "parvinssions", "parvinssiez", "parvinssent" ],
+  "subjonctifPasse": [ "sois parvenu(e)", "sois parvenu(e)", "soit parvenu(e)", "soyons parvenu(e)s", "soyez parvenu(e)(s)", "soient parvenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse parvenu(e)", "fusses parvenu(e)", "fût parvenu(e)", "fussions parvenu(e)s", "fussiez parvenu(e)(s)", "fussent parvenu(e)s" ],
+  "conditionnelPresent": [ "parviendrais", "parviendrais", "parviendrait", "parviendrions", "parviendriez", "parviendraient" ],
+  "conditionnelPasse": [ "serais parvenu(e)", "serais parvenu(e)", "serait parvenu(e)", "serions parvenu(e)s", "seriez parvenu(e)(s)", "seraient parvenu(e)s" ],
+  "conditionnelPasseII": [ "fusse parvenu(e)", "fusses parvenu(e)", "fût parvenu(e)", "fussions parvenu(e)s", "fussiez parvenu(e)(s)", "fussent parvenu(e)s" ],
+  "imperatif": [ "–", "parviens !", "–", "parvenons !", "parvenez !", "–" ],
+  "imperatifPasse": [ "–", "sois parvenu(e) !", "–", "soyons parvenu(e)s !", "soyez parvenu(e)(s) !", "–" ]
+}

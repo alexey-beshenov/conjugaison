@@ -1,0 +1,22 @@
+{
+  "infinitif": "expliquer",
+  "participePresent": "expliquant",
+  "participePasse": "expliqué",
+  "present": [ "explique", "expliques", "explique", "expliquons", "expliquez", "expliquent" ],
+  "imparfait": [ "expliquais", "expliquais", "expliquait", "expliquions", "expliquiez", "expliquaient" ],
+  "passeSimple": [ "expliquai", "expliquas", "expliqua", "expliquâmes", "expliquâtes", "expliquèrent" ],
+  "futurSimple": [ "expliquerai", "expliqueras", "expliquera", "expliquerons", "expliquerez", "expliqueront" ],
+  "passeCompose": [ "ai expliqué", "as expliqué", "a expliqué", "avons expliqué", "avez expliqué", "ont expliqué" ],
+  "plusQueParfait": [ "avais expliqué", "avais expliqué", "avait expliqué", "avions expliqué", "aviez expliqué", "avaient expliqué" ],
+  "passeAnterieur": [ "eus expliqué", "eus expliqué", "eut expliqué", "eûmes expliqué", "eûtes expliqué", "eurent expliqué" ],
+  "futurAnterieur": [ "aurai expliqué", "auras expliqué", "aura expliqué", "aurons expliqué", "aurez expliqué", "auront expliqué" ],
+  "subjonctifPresent": [ "explique", "expliques", "explique", "expliquions", "expliquiez", "expliquent" ],
+  "subjonctifImparfait": [ "expliquasse", "expliquasses", "expliquât", "expliquassions", "expliquassiez", "expliquassent" ],
+  "subjonctifPasse": [ "aie expliqué", "aies expliqué", "ait expliqué", "ayons expliqué", "ayez expliqué", "aient expliqué" ],
+  "subjonctifPlusQueParfait": [ "eusse expliqué", "eusses expliqué", "eût expliqué", "eussions expliqué", "eussiez expliqué", "eussent expliqué" ],
+  "conditionnelPresent": [ "expliquerais", "expliquerais", "expliquerait", "expliquerions", "expliqueriez", "expliqueraient" ],
+  "conditionnelPasse": [ "aurais expliqué", "aurais expliqué", "aurait expliqué", "aurions expliqué", "auriez expliqué", "auraient expliqué" ],
+  "conditionnelPasseII": [ "eusse expliqué", "eusses expliqué", "eût expliqué", "eussions expliqué", "eussiez expliqué", "eussent expliqué" ],
+  "imperatif": [ "–", "explique !", "–", "expliquons !", "expliquez !", "–" ],
+  "imperatifPasse": [ "–", "aie expliqué !", "–", "ayons expliqué !", "ayez expliqué !", "–" ]
+}

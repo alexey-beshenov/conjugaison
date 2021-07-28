@@ -1,0 +1,22 @@
+{
+  "infinitif": "pleurer",
+  "participePresent": "pleurant",
+  "participePasse": "pleuré",
+  "present": [ "pleure", "pleures", "pleure", "pleurons", "pleurez", "pleurent" ],
+  "imparfait": [ "pleurais", "pleurais", "pleurait", "pleurions", "pleuriez", "pleuraient" ],
+  "passeSimple": [ "pleurai", "pleuras", "pleura", "pleurâmes", "pleurâtes", "pleurèrent" ],
+  "futurSimple": [ "pleurerai", "pleureras", "pleurera", "pleurerons", "pleurerez", "pleureront" ],
+  "passeCompose": [ "ai pleuré", "as pleuré", "a pleuré", "avons pleuré", "avez pleuré", "ont pleuré" ],
+  "plusQueParfait": [ "avais pleuré", "avais pleuré", "avait pleuré", "avions pleuré", "aviez pleuré", "avaient pleuré" ],
+  "passeAnterieur": [ "eus pleuré", "eus pleuré", "eut pleuré", "eûmes pleuré", "eûtes pleuré", "eurent pleuré" ],
+  "futurAnterieur": [ "aurai pleuré", "auras pleuré", "aura pleuré", "aurons pleuré", "aurez pleuré", "auront pleuré" ],
+  "subjonctifPresent": [ "pleure", "pleures", "pleure", "pleurions", "pleuriez", "pleurent" ],
+  "subjonctifImparfait": [ "pleurasse", "pleurasses", "pleurât", "pleurassions", "pleurassiez", "pleurassent" ],
+  "subjonctifPasse": [ "aie pleuré", "aies pleuré", "ait pleuré", "ayons pleuré", "ayez pleuré", "aient pleuré" ],
+  "subjonctifPlusQueParfait": [ "eusse pleuré", "eusses pleuré", "eût pleuré", "eussions pleuré", "eussiez pleuré", "eussent pleuré" ],
+  "conditionnelPresent": [ "pleurerais", "pleurerais", "pleurerait", "pleurerions", "pleureriez", "pleureraient" ],
+  "conditionnelPasse": [ "aurais pleuré", "aurais pleuré", "aurait pleuré", "aurions pleuré", "auriez pleuré", "auraient pleuré" ],
+  "conditionnelPasseII": [ "eusse pleuré", "eusses pleuré", "eût pleuré", "eussions pleuré", "eussiez pleuré", "eussent pleuré" ],
+  "imperatif": [ "–", "pleure !", "–", "pleurons !", "pleurez !", "–" ],
+  "imperatifPasse": [ "–", "aie pleuré !", "–", "ayons pleuré !", "ayez pleuré !", "–" ]
+}

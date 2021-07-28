@@ -1,0 +1,22 @@
+{
+  "infinitif": "pousser",
+  "participePresent": "poussant",
+  "participePasse": "poussé",
+  "present": [ "pousse", "pousses", "pousse", "poussons", "poussez", "poussent" ],
+  "imparfait": [ "poussais", "poussais", "poussait", "poussions", "poussiez", "poussaient" ],
+  "passeSimple": [ "poussai", "poussas", "poussa", "poussâmes", "poussâtes", "poussèrent" ],
+  "futurSimple": [ "pousserai", "pousseras", "poussera", "pousserons", "pousserez", "pousseront" ],
+  "passeCompose": [ "ai poussé", "as poussé", "a poussé", "avons poussé", "avez poussé", "ont poussé" ],
+  "plusQueParfait": [ "avais poussé", "avais poussé", "avait poussé", "avions poussé", "aviez poussé", "avaient poussé" ],
+  "passeAnterieur": [ "eus poussé", "eus poussé", "eut poussé", "eûmes poussé", "eûtes poussé", "eurent poussé" ],
+  "futurAnterieur": [ "aurai poussé", "auras poussé", "aura poussé", "aurons poussé", "aurez poussé", "auront poussé" ],
+  "subjonctifPresent": [ "pousse", "pousses", "pousse", "poussions", "poussiez", "poussent" ],
+  "subjonctifImparfait": [ "poussasse", "poussasses", "poussât", "poussassions", "poussassiez", "poussassent" ],
+  "subjonctifPasse": [ "aie poussé", "aies poussé", "ait poussé", "ayons poussé", "ayez poussé", "aient poussé" ],
+  "subjonctifPlusQueParfait": [ "eusse poussé", "eusses poussé", "eût poussé", "eussions poussé", "eussiez poussé", "eussent poussé" ],
+  "conditionnelPresent": [ "pousserais", "pousserais", "pousserait", "pousserions", "pousseriez", "pousseraient" ],
+  "conditionnelPasse": [ "aurais poussé", "aurais poussé", "aurait poussé", "aurions poussé", "auriez poussé", "auraient poussé" ],
+  "conditionnelPasseII": [ "eusse poussé", "eusses poussé", "eût poussé", "eussions poussé", "eussiez poussé", "eussent poussé" ],
+  "imperatif": [ "–", "pousse !", "–", "poussons !", "poussez !", "–" ],
+  "imperatifPasse": [ "–", "aie poussé !", "–", "ayons poussé !", "ayez poussé !", "–" ]
+}

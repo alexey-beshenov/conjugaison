@@ -1,0 +1,22 @@
+{
+  "infinitif": "renvoyer",
+  "participePresent": "renvoyant",
+  "participePasse": "renvoyé",
+  "present": [ "renvoie", "renvoies", "renvoie", "renvoyons", "renvoyez", "renvoient" ],
+  "imparfait": [ "renvoyais", "renvoyais", "renvoyait", "renvoyions", "renvoyiez", "renvoyaient" ],
+  "passeSimple": [ "renvoyai", "renvoyas", "renvoya", "renvoyâmes", "renvoyâtes", "renvoyèrent" ],
+  "futurSimple": [ "renverrai", "renverras", "renverra", "renverrons", "renverrez", "renverront" ],
+  "passeCompose": [ "ai renvoyé", "as renvoyé", "a renvoyé", "avons renvoyé", "avez renvoyé", "ont renvoyé" ],
+  "plusQueParfait": [ "avais renvoyé", "avais renvoyé", "avait renvoyé", "avions renvoyé", "aviez renvoyé", "avaient renvoyé" ],
+  "passeAnterieur": [ "eus renvoyé", "eus renvoyé", "eut renvoyé", "eûmes renvoyé", "eûtes renvoyé", "eurent renvoyé" ],
+  "futurAnterieur": [ "aurai renvoyé", "auras renvoyé", "aura renvoyé", "aurons renvoyé", "aurez renvoyé", "auront renvoyé" ],
+  "subjonctifPresent": [ "renvoie", "renvoies", "renvoie", "renvoyions", "renvoyiez", "renvoient" ],
+  "subjonctifImparfait": [ "renvoyasse", "renvoyasses", "renvoyât", "renvoyassions", "renvoyassiez", "renvoyassent" ],
+  "subjonctifPasse": [ "aie renvoyé", "aies renvoyé", "ait renvoyé", "ayons renvoyé", "ayez renvoyé", "aient renvoyé" ],
+  "subjonctifPlusQueParfait": [ "eusse renvoyé", "eusses renvoyé", "eût renvoyé", "eussions renvoyé", "eussiez renvoyé", "eussent renvoyé" ],
+  "conditionnelPresent": [ "renverrais", "renverrais", "renverrait", "renverrions", "renverriez", "renverraient" ],
+  "conditionnelPasse": [ "aurais renvoyé", "aurais renvoyé", "aurait renvoyé", "aurions renvoyé", "auriez renvoyé", "auraient renvoyé" ],
+  "conditionnelPasseII": [ "eusse renvoyé", "eusses renvoyé", "eût renvoyé", "eussions renvoyé", "eussiez renvoyé", "eussent renvoyé" ],
+  "imperatif": [ "–", "renvoie !", "–", "renvoyons !", "renvoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie renvoyé !", "–", "ayons renvoyé !", "ayez renvoyé !", "–" ]
+}

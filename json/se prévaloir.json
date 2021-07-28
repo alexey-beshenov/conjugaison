@@ -1,0 +1,22 @@
+{
+  "infinitif": "se prévaloir",
+  "participePresent": "se prévalant",
+  "participePasse": "prévalu",
+  "present": [ "me prévaux", "te prévaux", "se prévaut", "nous prévalons", "vous prévalez", "se prévalent" ],
+  "imparfait": [ "me prévalais", "te prévalais", "se prévalait", "nous prévalions", "vous prévaliez", "se prévalaient" ],
+  "passeSimple": [ "me prévalus", "te prévalus", "se prévalut", "nous prévalûmes", "vous prévalûtes", "se prévalurent" ],
+  "futurSimple": [ "me prévaudrai", "te prévaudras", "se prévaudra", "nous prévaudrons", "vous prévaudrez", "se prévaudront" ],
+  "passeCompose": [ "me suis prévalu(e)", "t'es prévalu(e)", "s'est prévalu(e)", "nous sommes prévalu(e)s", "vous êtes prévalu(e)(s)", "se sont prévalu(e)s" ],
+  "plusQueParfait": [ "m'étais prévalu(e)", "t'étais prévalu(e)", "s'était prévalu(e)", "nous étions prévalu(e)s", "vous étiez prévalu(e)(s)", "s'étaient prévalu(e)s" ],
+  "passeAnterieur": [ "me fus prévalu(e)", "te fus prévalu(e)", "se fut prévalu(e)", "nous fûmes prévalu(e)s", "vous fûtes prévalu(e)(s)", "se furent prévalu(e)s" ],
+  "futurAnterieur": [ "me serai prévalu(e)", "te seras prévalu(e)", "se sera prévalu(e)", "nous serons prévalu(e)s", "vous serez prévalu(e)(s)", "se seront prévalu(e)s" ],
+  "subjonctifPresent": [ "me prévale", "te prévales", "se prévale", "nous prévalions", "vous prévaliez", "se prévalent" ],
+  "subjonctifImparfait": [ "me prévalusse", "te prévalusses", "se prévalût", "nous prévalussions", "vous prévalussiez", "se prévalussent" ],
+  "subjonctifPasse": [ "me sois prévalu(e)", "te sois prévalu(e)", "se soit prévalu(e)", "nous soyons prévalu(e)s", "vous soyez prévalu(e)(s)", "se soient prévalu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse prévalu(e)", "te fusses prévalu(e)", "se fût prévalu(e)", "nous fussions prévalu(e)s", "vous fussiez prévalu(e)(s)", "se fussent prévalu(e)s" ],
+  "conditionnelPresent": [ "me prévaudrais", "te prévaudrais", "se prévaudrait", "nous prévaudrions", "vous prévaudriez", "se prévaudraient" ],
+  "conditionnelPasse": [ "me serais prévalu(e)", "te serais prévalu(e)", "se serait prévalu(e)", "nous serions prévalu(e)s", "vous seriez prévalu(e)(s)", "se seraient prévalu(e)s" ],
+  "conditionnelPasseII": [ "me fusse prévalu(e)", "te fusses prévalu(e)", "se fût prévalu(e)", "nous fussions prévalu(e)s", "vous fussiez prévalu(e)(s)", "se fussent prévalu(e)s" ],
+  "imperatif": [ "–", "prévaux-toi !", "–", "prévalons-nous !", "prévalez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'apercevoir",
+  "participePresent": "s'apercevant",
+  "participePasse": "aperçu",
+  "present": [ "m'aperçois", "t'aperçois", "s'aperçoit", "nous apercevons", "vous apercevez", "s'aperçoivent" ],
+  "imparfait": [ "m'apercevais", "t'apercevais", "s'apercevait", "nous apercevions", "vous aperceviez", "s'apercevaient" ],
+  "passeSimple": [ "m'aperçus", "t'aperçus", "s'aperçut", "nous aperçûmes", "vous aperçûtes", "s'aperçurent" ],
+  "futurSimple": [ "m'apercevrai", "t'apercevras", "s'apercevra", "nous apercevrons", "vous apercevrez", "s'apercevront" ],
+  "passeCompose": [ "me suis aperçu(e)", "t'es aperçu(e)", "s'est aperçu(e)", "nous sommes aperçu(e)s", "vous êtes aperçu(e)(s)", "se sont aperçu(e)s" ],
+  "plusQueParfait": [ "m'étais aperçu(e)", "t'étais aperçu(e)", "s'était aperçu(e)", "nous étions aperçu(e)s", "vous étiez aperçu(e)(s)", "s'étaient aperçu(e)s" ],
+  "passeAnterieur": [ "me fus aperçu(e)", "te fus aperçu(e)", "se fut aperçu(e)", "nous fûmes aperçu(e)s", "vous fûtes aperçu(e)(s)", "se furent aperçu(e)s" ],
+  "futurAnterieur": [ "me serai aperçu(e)", "te seras aperçu(e)", "se sera aperçu(e)", "nous serons aperçu(e)s", "vous serez aperçu(e)(s)", "se seront aperçu(e)s" ],
+  "subjonctifPresent": [ "m'aperçoive", "t'aperçoives", "s'aperçoive", "nous apercevions", "vous aperceviez", "s'aperçoivent" ],
+  "subjonctifImparfait": [ "m'aperçusse", "t'aperçusses", "s'aperçût", "nous aperçussions", "vous aperçussiez", "s'aperçussent" ],
+  "subjonctifPasse": [ "me sois aperçu(e)", "te sois aperçu(e)", "se soit aperçu(e)", "nous soyons aperçu(e)s", "vous soyez aperçu(e)(s)", "se soient aperçu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse aperçu(e)", "te fusses aperçu(e)", "se fût aperçu(e)", "nous fussions aperçu(e)s", "vous fussiez aperçu(e)(s)", "se fussent aperçu(e)s" ],
+  "conditionnelPresent": [ "m'apercevrais", "t'apercevrais", "s'apercevrait", "nous apercevrions", "vous apercevriez", "s'apercevraient" ],
+  "conditionnelPasse": [ "me serais aperçu(e)", "te serais aperçu(e)", "se serait aperçu(e)", "nous serions aperçu(e)s", "vous seriez aperçu(e)(s)", "se seraient aperçu(e)s" ],
+  "conditionnelPasseII": [ "me fusse aperçu(e)", "te fusses aperçu(e)", "se fût aperçu(e)", "nous fussions aperçu(e)s", "vous fussiez aperçu(e)(s)", "se fussent aperçu(e)s" ],
+  "imperatif": [ "–", "aperçois-toi !", "–", "apercevons-nous !", "apercevez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

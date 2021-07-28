@@ -1,0 +1,22 @@
+{
+  "infinitif": "suppléer",
+  "participePresent": "suppléant",
+  "participePasse": "suppléé",
+  "present": [ "supplée", "supplées", "supplée", "suppléons", "suppléez", "suppléent" ],
+  "imparfait": [ "suppléais", "suppléais", "suppléait", "suppléions", "suppléiez", "suppléaient" ],
+  "passeSimple": [ "suppléai", "suppléas", "suppléa", "suppléâmes", "suppléâtes", "suppléèrent" ],
+  "futurSimple": [ "suppléerai", "suppléeras", "suppléera", "suppléerons", "suppléerez", "suppléeront" ],
+  "passeCompose": [ "ai suppléé", "as suppléé", "a suppléé", "avons suppléé", "avez suppléé", "ont suppléé" ],
+  "plusQueParfait": [ "avais suppléé", "avais suppléé", "avait suppléé", "avions suppléé", "aviez suppléé", "avaient suppléé" ],
+  "passeAnterieur": [ "eus suppléé", "eus suppléé", "eut suppléé", "eûmes suppléé", "eûtes suppléé", "eurent suppléé" ],
+  "futurAnterieur": [ "aurai suppléé", "auras suppléé", "aura suppléé", "aurons suppléé", "aurez suppléé", "auront suppléé" ],
+  "subjonctifPresent": [ "supplée", "supplées", "supplée", "suppléions", "suppléiez", "suppléent" ],
+  "subjonctifImparfait": [ "suppléasse", "suppléasses", "suppléât", "suppléassions", "suppléassiez", "suppléassent" ],
+  "subjonctifPasse": [ "aie suppléé", "aies suppléé", "ait suppléé", "ayons suppléé", "ayez suppléé", "aient suppléé" ],
+  "subjonctifPlusQueParfait": [ "eusse suppléé", "eusses suppléé", "eût suppléé", "eussions suppléé", "eussiez suppléé", "eussent suppléé" ],
+  "conditionnelPresent": [ "suppléerais", "suppléerais", "suppléerait", "suppléerions", "suppléeriez", "suppléeraient" ],
+  "conditionnelPasse": [ "aurais suppléé", "aurais suppléé", "aurait suppléé", "aurions suppléé", "auriez suppléé", "auraient suppléé" ],
+  "conditionnelPasseII": [ "eusse suppléé", "eusses suppléé", "eût suppléé", "eussions suppléé", "eussiez suppléé", "eussent suppléé" ],
+  "imperatif": [ "–", "supplée !", "–", "suppléons !", "suppléez !", "–" ],
+  "imperatifPasse": [ "–", "aie suppléé !", "–", "ayons suppléé !", "ayez suppléé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se couler",
+  "participePresent": "se coulant",
+  "participePasse": "coulé",
+  "present": [ "me coule", "te coules", "se coule", "nous coulons", "vous coulez", "se coulent" ],
+  "imparfait": [ "me coulais", "te coulais", "se coulait", "nous coulions", "vous couliez", "se coulaient" ],
+  "passeSimple": [ "me coulai", "te coulas", "se coula", "nous coulâmes", "vous coulâtes", "se coulèrent" ],
+  "futurSimple": [ "me coulerai", "te couleras", "se coulera", "nous coulerons", "vous coulerez", "se couleront" ],
+  "passeCompose": [ "me suis coulé(e)", "t'es coulé(e)", "s'est coulé(e)", "nous sommes coulé(e)s", "vous êtes coulé(e)(s)", "se sont coulé(e)s" ],
+  "plusQueParfait": [ "m'étais coulé(e)", "t'étais coulé(e)", "s'était coulé(e)", "nous étions coulé(e)s", "vous étiez coulé(e)(s)", "s'étaient coulé(e)s" ],
+  "passeAnterieur": [ "me fus coulé(e)", "te fus coulé(e)", "se fut coulé(e)", "nous fûmes coulé(e)s", "vous fûtes coulé(e)(s)", "se furent coulé(e)s" ],
+  "futurAnterieur": [ "me serai coulé(e)", "te seras coulé(e)", "se sera coulé(e)", "nous serons coulé(e)s", "vous serez coulé(e)(s)", "se seront coulé(e)s" ],
+  "subjonctifPresent": [ "me coule", "te coules", "se coule", "nous coulions", "vous couliez", "se coulent" ],
+  "subjonctifImparfait": [ "me coulasse", "te coulasses", "se coulât", "nous coulassions", "vous coulassiez", "se coulassent" ],
+  "subjonctifPasse": [ "me sois coulé(e)", "te sois coulé(e)", "se soit coulé(e)", "nous soyons coulé(e)s", "vous soyez coulé(e)(s)", "se soient coulé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse coulé(e)", "te fusses coulé(e)", "se fût coulé(e)", "nous fussions coulé(e)s", "vous fussiez coulé(e)(s)", "se fussent coulé(e)s" ],
+  "conditionnelPresent": [ "me coulerais", "te coulerais", "se coulerait", "nous coulerions", "vous couleriez", "se couleraient" ],
+  "conditionnelPasse": [ "me serais coulé(e)", "te serais coulé(e)", "se serait coulé(e)", "nous serions coulé(e)s", "vous seriez coulé(e)(s)", "se seraient coulé(e)s" ],
+  "conditionnelPasseII": [ "me fusse coulé(e)", "te fusses coulé(e)", "se fût coulé(e)", "nous fussions coulé(e)s", "vous fussiez coulé(e)(s)", "se fussent coulé(e)s" ],
+  "imperatif": [ "–", "coule-toi !", "–", "coulons-nous !", "coulez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

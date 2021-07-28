@@ -1,0 +1,22 @@
+{
+  "infinitif": "se douter",
+  "participePresent": "se doutant",
+  "participePasse": "douté",
+  "present": [ "me doute", "te doutes", "se doute", "nous doutons", "vous doutez", "se doutent" ],
+  "imparfait": [ "me doutais", "te doutais", "se doutait", "nous doutions", "vous doutiez", "se doutaient" ],
+  "passeSimple": [ "me doutai", "te doutas", "se douta", "nous doutâmes", "vous doutâtes", "se doutèrent" ],
+  "futurSimple": [ "me douterai", "te douteras", "se doutera", "nous douterons", "vous douterez", "se douteront" ],
+  "passeCompose": [ "me suis douté(e)", "t'es douté(e)", "s'est douté(e)", "nous sommes douté(e)s", "vous êtes douté(e)(s)", "se sont douté(e)s" ],
+  "plusQueParfait": [ "m'étais douté(e)", "t'étais douté(e)", "s'était douté(e)", "nous étions douté(e)s", "vous étiez douté(e)(s)", "s'étaient douté(e)s" ],
+  "passeAnterieur": [ "me fus douté(e)", "te fus douté(e)", "se fut douté(e)", "nous fûmes douté(e)s", "vous fûtes douté(e)(s)", "se furent douté(e)s" ],
+  "futurAnterieur": [ "me serai douté(e)", "te seras douté(e)", "se sera douté(e)", "nous serons douté(e)s", "vous serez douté(e)(s)", "se seront douté(e)s" ],
+  "subjonctifPresent": [ "me doute", "te doutes", "se doute", "nous doutions", "vous doutiez", "se doutent" ],
+  "subjonctifImparfait": [ "me doutasse", "te doutasses", "se doutât", "nous doutassions", "vous doutassiez", "se doutassent" ],
+  "subjonctifPasse": [ "me sois douté(e)", "te sois douté(e)", "se soit douté(e)", "nous soyons douté(e)s", "vous soyez douté(e)(s)", "se soient douté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse douté(e)", "te fusses douté(e)", "se fût douté(e)", "nous fussions douté(e)s", "vous fussiez douté(e)(s)", "se fussent douté(e)s" ],
+  "conditionnelPresent": [ "me douterais", "te douterais", "se douterait", "nous douterions", "vous douteriez", "se douteraient" ],
+  "conditionnelPasse": [ "me serais douté(e)", "te serais douté(e)", "se serait douté(e)", "nous serions douté(e)s", "vous seriez douté(e)(s)", "se seraient douté(e)s" ],
+  "conditionnelPasseII": [ "me fusse douté(e)", "te fusses douté(e)", "se fût douté(e)", "nous fussions douté(e)s", "vous fussiez douté(e)(s)", "se fussent douté(e)s" ],
+  "imperatif": [ "–", "doute-toi !", "–", "doutons-nous !", "doutez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

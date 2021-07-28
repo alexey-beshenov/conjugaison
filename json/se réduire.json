@@ -1,0 +1,22 @@
+{
+  "infinitif": "se réduire",
+  "participePresent": "se réduisant",
+  "participePasse": "réduit",
+  "present": [ "me réduis", "te réduis", "se réduit", "nous réduisons", "vous réduisez", "se réduisent" ],
+  "imparfait": [ "me réduisais", "te réduisais", "se réduisait", "nous réduisions", "vous réduisiez", "se réduisaient" ],
+  "passeSimple": [ "me réduisis", "te réduisis", "se réduisit", "nous réduisîmes", "vous réduisîtes", "se réduisirent" ],
+  "futurSimple": [ "me réduirai", "te réduiras", "se réduira", "nous réduirons", "vous réduirez", "se réduiront" ],
+  "passeCompose": [ "me suis réduit(e)", "t'es réduit(e)", "s'est réduit(e)", "nous sommes réduit(e)s", "vous êtes réduit(e)(s)", "se sont réduit(e)s" ],
+  "plusQueParfait": [ "m'étais réduit(e)", "t'étais réduit(e)", "s'était réduit(e)", "nous étions réduit(e)s", "vous étiez réduit(e)(s)", "s'étaient réduit(e)s" ],
+  "passeAnterieur": [ "me fus réduit(e)", "te fus réduit(e)", "se fut réduit(e)", "nous fûmes réduit(e)s", "vous fûtes réduit(e)(s)", "se furent réduit(e)s" ],
+  "futurAnterieur": [ "me serai réduit(e)", "te seras réduit(e)", "se sera réduit(e)", "nous serons réduit(e)s", "vous serez réduit(e)(s)", "se seront réduit(e)s" ],
+  "subjonctifPresent": [ "me réduise", "te réduises", "se réduise", "nous réduisions", "vous réduisiez", "se réduisent" ],
+  "subjonctifImparfait": [ "me réduisisse", "te réduisisses", "se réduisît", "nous réduisissions", "vous réduisissiez", "se réduisissent" ],
+  "subjonctifPasse": [ "me sois réduit(e)", "te sois réduit(e)", "se soit réduit(e)", "nous soyons réduit(e)s", "vous soyez réduit(e)(s)", "se soient réduit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse réduit(e)", "te fusses réduit(e)", "se fût réduit(e)", "nous fussions réduit(e)s", "vous fussiez réduit(e)(s)", "se fussent réduit(e)s" ],
+  "conditionnelPresent": [ "me réduirais", "te réduirais", "se réduirait", "nous réduirions", "vous réduiriez", "se réduiraient" ],
+  "conditionnelPasse": [ "me serais réduit(e)", "te serais réduit(e)", "se serait réduit(e)", "nous serions réduit(e)s", "vous seriez réduit(e)(s)", "se seraient réduit(e)s" ],
+  "conditionnelPasseII": [ "me fusse réduit(e)", "te fusses réduit(e)", "se fût réduit(e)", "nous fussions réduit(e)s", "vous fussiez réduit(e)(s)", "se fussent réduit(e)s" ],
+  "imperatif": [ "–", "réduis-toi !", "–", "réduisons-nous !", "réduisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

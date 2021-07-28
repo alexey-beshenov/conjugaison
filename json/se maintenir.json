@@ -1,0 +1,22 @@
+{
+  "infinitif": "se maintenir",
+  "participePresent": "se maintenant",
+  "participePasse": "maintenu",
+  "present": [ "me maintiens", "te maintiens", "se maintient", "nous maintenons", "vous maintenez", "se maintiennent" ],
+  "imparfait": [ "me maintenais", "te maintenais", "se maintenait", "nous maintenions", "vous mainteniez", "se maintenaient" ],
+  "passeSimple": [ "me maintins", "te maintins", "se maintint", "nous maintînmes", "vous maintîntes", "se maintinrent" ],
+  "futurSimple": [ "me maintiendrai", "te maintiendras", "se maintiendra", "nous maintiendrons", "vous maintiendrez", "se maintiendront" ],
+  "passeCompose": [ "me suis maintenu(e)", "t'es maintenu(e)", "s'est maintenu(e)", "nous sommes maintenu(e)s", "vous êtes maintenu(e)(s)", "se sont maintenu(e)s" ],
+  "plusQueParfait": [ "m'étais maintenu(e)", "t'étais maintenu(e)", "s'était maintenu(e)", "nous étions maintenu(e)s", "vous étiez maintenu(e)(s)", "s'étaient maintenu(e)s" ],
+  "passeAnterieur": [ "me fus maintenu(e)", "te fus maintenu(e)", "se fut maintenu(e)", "nous fûmes maintenu(e)s", "vous fûtes maintenu(e)(s)", "se furent maintenu(e)s" ],
+  "futurAnterieur": [ "me serai maintenu(e)", "te seras maintenu(e)", "se sera maintenu(e)", "nous serons maintenu(e)s", "vous serez maintenu(e)(s)", "se seront maintenu(e)s" ],
+  "subjonctifPresent": [ "me maintienne", "te maintiennes", "se maintienne", "nous maintenions", "vous mainteniez", "se maintiennent" ],
+  "subjonctifImparfait": [ "me maintinsse", "te maintinsses", "se maintînt", "nous maintinssions", "vous maintinssiez", "se maintinssent" ],
+  "subjonctifPasse": [ "me sois maintenu(e)", "te sois maintenu(e)", "se soit maintenu(e)", "nous soyons maintenu(e)s", "vous soyez maintenu(e)(s)", "se soient maintenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse maintenu(e)", "te fusses maintenu(e)", "se fût maintenu(e)", "nous fussions maintenu(e)s", "vous fussiez maintenu(e)(s)", "se fussent maintenu(e)s" ],
+  "conditionnelPresent": [ "me maintiendrais", "te maintiendrais", "se maintiendrait", "nous maintiendrions", "vous maintiendriez", "se maintiendraient" ],
+  "conditionnelPasse": [ "me serais maintenu(e)", "te serais maintenu(e)", "se serait maintenu(e)", "nous serions maintenu(e)s", "vous seriez maintenu(e)(s)", "se seraient maintenu(e)s" ],
+  "conditionnelPasseII": [ "me fusse maintenu(e)", "te fusses maintenu(e)", "se fût maintenu(e)", "nous fussions maintenu(e)s", "vous fussiez maintenu(e)(s)", "se fussent maintenu(e)s" ],
+  "imperatif": [ "–", "maintiens-toi !", "–", "maintenons-nous !", "maintenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

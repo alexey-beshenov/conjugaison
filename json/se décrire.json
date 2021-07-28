@@ -1,0 +1,22 @@
+{
+  "infinitif": "se décrire",
+  "participePresent": "se décrivant",
+  "participePasse": "décrit",
+  "present": [ "me décris", "te décris", "se décrit", "nous décrivons", "vous décrivez", "se décrivent" ],
+  "imparfait": [ "me décrivais", "te décrivais", "se décrivait", "nous décrivions", "vous décriviez", "se décrivaient" ],
+  "passeSimple": [ "me décrivis", "te décrivis", "se décrivit", "nous décrivîmes", "vous décrivîtes", "se décrivirent" ],
+  "futurSimple": [ "me décrirai", "te décriras", "se décrira", "nous décrirons", "vous décrirez", "se décriront" ],
+  "passeCompose": [ "me suis décrit(e)", "t'es décrit(e)", "s'est décrit(e)", "nous sommes décrit(e)s", "vous êtes décrit(e)(s)", "se sont décrit(e)s" ],
+  "plusQueParfait": [ "m'étais décrit(e)", "t'étais décrit(e)", "s'était décrit(e)", "nous étions décrit(e)s", "vous étiez décrit(e)(s)", "s'étaient décrit(e)s" ],
+  "passeAnterieur": [ "me fus décrit(e)", "te fus décrit(e)", "se fut décrit(e)", "nous fûmes décrit(e)s", "vous fûtes décrit(e)(s)", "se furent décrit(e)s" ],
+  "futurAnterieur": [ "me serai décrit(e)", "te seras décrit(e)", "se sera décrit(e)", "nous serons décrit(e)s", "vous serez décrit(e)(s)", "se seront décrit(e)s" ],
+  "subjonctifPresent": [ "me décrive", "te décrives", "se décrive", "nous décrivions", "vous décriviez", "se décrivent" ],
+  "subjonctifImparfait": [ "me décrivisse", "te décrivisses", "se décrivît", "nous décrivissions", "vous décrivissiez", "se décrivissent" ],
+  "subjonctifPasse": [ "me sois décrit(e)", "te sois décrit(e)", "se soit décrit(e)", "nous soyons décrit(e)s", "vous soyez décrit(e)(s)", "se soient décrit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse décrit(e)", "te fusses décrit(e)", "se fût décrit(e)", "nous fussions décrit(e)s", "vous fussiez décrit(e)(s)", "se fussent décrit(e)s" ],
+  "conditionnelPresent": [ "me décrirais", "te décrirais", "se décrirait", "nous décririons", "vous décririez", "se décriraient" ],
+  "conditionnelPasse": [ "me serais décrit(e)", "te serais décrit(e)", "se serait décrit(e)", "nous serions décrit(e)s", "vous seriez décrit(e)(s)", "se seraient décrit(e)s" ],
+  "conditionnelPasseII": [ "me fusse décrit(e)", "te fusses décrit(e)", "se fût décrit(e)", "nous fussions décrit(e)s", "vous fussiez décrit(e)(s)", "se fussent décrit(e)s" ],
+  "imperatif": [ "–", "décris-toi !", "–", "décrivons-nous !", "décrivez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

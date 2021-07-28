@@ -1,0 +1,22 @@
+{
+  "infinitif": "repousser",
+  "participePresent": "repoussant",
+  "participePasse": "repoussé",
+  "present": [ "repousse", "repousses", "repousse", "repoussons", "repoussez", "repoussent" ],
+  "imparfait": [ "repoussais", "repoussais", "repoussait", "repoussions", "repoussiez", "repoussaient" ],
+  "passeSimple": [ "repoussai", "repoussas", "repoussa", "repoussâmes", "repoussâtes", "repoussèrent" ],
+  "futurSimple": [ "repousserai", "repousseras", "repoussera", "repousserons", "repousserez", "repousseront" ],
+  "passeCompose": [ "ai repoussé", "as repoussé", "a repoussé", "avons repoussé", "avez repoussé", "ont repoussé" ],
+  "plusQueParfait": [ "avais repoussé", "avais repoussé", "avait repoussé", "avions repoussé", "aviez repoussé", "avaient repoussé" ],
+  "passeAnterieur": [ "eus repoussé", "eus repoussé", "eut repoussé", "eûmes repoussé", "eûtes repoussé", "eurent repoussé" ],
+  "futurAnterieur": [ "aurai repoussé", "auras repoussé", "aura repoussé", "aurons repoussé", "aurez repoussé", "auront repoussé" ],
+  "subjonctifPresent": [ "repousse", "repousses", "repousse", "repoussions", "repoussiez", "repoussent" ],
+  "subjonctifImparfait": [ "repoussasse", "repoussasses", "repoussât", "repoussassions", "repoussassiez", "repoussassent" ],
+  "subjonctifPasse": [ "aie repoussé", "aies repoussé", "ait repoussé", "ayons repoussé", "ayez repoussé", "aient repoussé" ],
+  "subjonctifPlusQueParfait": [ "eusse repoussé", "eusses repoussé", "eût repoussé", "eussions repoussé", "eussiez repoussé", "eussent repoussé" ],
+  "conditionnelPresent": [ "repousserais", "repousserais", "repousserait", "repousserions", "repousseriez", "repousseraient" ],
+  "conditionnelPasse": [ "aurais repoussé", "aurais repoussé", "aurait repoussé", "aurions repoussé", "auriez repoussé", "auraient repoussé" ],
+  "conditionnelPasseII": [ "eusse repoussé", "eusses repoussé", "eût repoussé", "eussions repoussé", "eussiez repoussé", "eussent repoussé" ],
+  "imperatif": [ "–", "repousse !", "–", "repoussons !", "repoussez !", "–" ],
+  "imperatifPasse": [ "–", "aie repoussé !", "–", "ayons repoussé !", "ayez repoussé !", "–" ]
+}

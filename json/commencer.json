@@ -1,0 +1,22 @@
+{
+  "infinitif": "commencer",
+  "participePresent": "commençant",
+  "participePasse": "commencé",
+  "present": [ "commence", "commences", "commence", "commençons", "commencez", "commencent" ],
+  "imparfait": [ "commençais", "commençais", "commençait", "commencions", "commenciez", "commençaient" ],
+  "passeSimple": [ "commençai", "commenças", "commença", "commençâmes", "commençâtes", "commencèrent" ],
+  "futurSimple": [ "commencerai", "commenceras", "commencera", "commencerons", "commencerez", "commenceront" ],
+  "passeCompose": [ "ai commencé", "as commencé", "a commencé", "avons commencé", "avez commencé", "ont commencé" ],
+  "plusQueParfait": [ "avais commencé", "avais commencé", "avait commencé", "avions commencé", "aviez commencé", "avaient commencé" ],
+  "passeAnterieur": [ "eus commencé", "eus commencé", "eut commencé", "eûmes commencé", "eûtes commencé", "eurent commencé" ],
+  "futurAnterieur": [ "aurai commencé", "auras commencé", "aura commencé", "aurons commencé", "aurez commencé", "auront commencé" ],
+  "subjonctifPresent": [ "commence", "commences", "commence", "commencions", "commenciez", "commencent" ],
+  "subjonctifImparfait": [ "commençasse", "commençasses", "commençât", "commençassions", "commençassiez", "commençassent" ],
+  "subjonctifPasse": [ "aie commencé", "aies commencé", "ait commencé", "ayons commencé", "ayez commencé", "aient commencé" ],
+  "subjonctifPlusQueParfait": [ "eusse commencé", "eusses commencé", "eût commencé", "eussions commencé", "eussiez commencé", "eussent commencé" ],
+  "conditionnelPresent": [ "commencerais", "commencerais", "commencerait", "commencerions", "commenceriez", "commenceraient" ],
+  "conditionnelPasse": [ "aurais commencé", "aurais commencé", "aurait commencé", "aurions commencé", "auriez commencé", "auraient commencé" ],
+  "conditionnelPasseII": [ "eusse commencé", "eusses commencé", "eût commencé", "eussions commencé", "eussiez commencé", "eussent commencé" ],
+  "imperatif": [ "–", "commence !", "–", "commençons !", "commencez !", "–" ],
+  "imperatifPasse": [ "–", "aie commencé !", "–", "ayons commencé !", "ayez commencé !", "–" ]
+}

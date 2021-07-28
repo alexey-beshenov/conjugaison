@@ -1,0 +1,22 @@
+{
+  "infinitif": "réunir",
+  "participePresent": "réunissant",
+  "participePasse": "réuni",
+  "present": [ "réunis", "réunis", "réunit", "réunissons", "réunissez", "réunissent" ],
+  "imparfait": [ "réunissais", "réunissais", "réunissait", "réunissions", "réunissiez", "réunissaient" ],
+  "passeSimple": [ "réunis", "réunis", "réunit", "réunîmes", "réunîtes", "réunirent" ],
+  "futurSimple": [ "réunirai", "réuniras", "réunira", "réunirons", "réunirez", "réuniront" ],
+  "passeCompose": [ "ai réuni", "as réuni", "a réuni", "avons réuni", "avez réuni", "ont réuni" ],
+  "plusQueParfait": [ "avais réuni", "avais réuni", "avait réuni", "avions réuni", "aviez réuni", "avaient réuni" ],
+  "passeAnterieur": [ "eus réuni", "eus réuni", "eut réuni", "eûmes réuni", "eûtes réuni", "eurent réuni" ],
+  "futurAnterieur": [ "aurai réuni", "auras réuni", "aura réuni", "aurons réuni", "aurez réuni", "auront réuni" ],
+  "subjonctifPresent": [ "réunisse", "réunisses", "réunisse", "réunissions", "réunissiez", "réunissent" ],
+  "subjonctifImparfait": [ "réunisse", "réunisses", "réunît", "réunissions", "réunissiez", "réunissent" ],
+  "subjonctifPasse": [ "aie réuni", "aies réuni", "ait réuni", "ayons réuni", "ayez réuni", "aient réuni" ],
+  "subjonctifPlusQueParfait": [ "eusse réuni", "eusses réuni", "eût réuni", "eussions réuni", "eussiez réuni", "eussent réuni" ],
+  "conditionnelPresent": [ "réunirais", "réunirais", "réunirait", "réunirions", "réuniriez", "réuniraient" ],
+  "conditionnelPasse": [ "aurais réuni", "aurais réuni", "aurait réuni", "aurions réuni", "auriez réuni", "auraient réuni" ],
+  "conditionnelPasseII": [ "eusse réuni", "eusses réuni", "eût réuni", "eussions réuni", "eussiez réuni", "eussent réuni" ],
+  "imperatif": [ "–", "réunis !", "–", "réunissons !", "réunissez !", "–" ],
+  "imperatifPasse": [ "–", "aie réuni !", "–", "ayons réuni !", "ayez réuni !", "–" ]
+}

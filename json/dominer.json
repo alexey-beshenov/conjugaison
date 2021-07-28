@@ -1,0 +1,22 @@
+{
+  "infinitif": "dominer",
+  "participePresent": "dominant",
+  "participePasse": "dominé",
+  "present": [ "domine", "domines", "domine", "dominons", "dominez", "dominent" ],
+  "imparfait": [ "dominais", "dominais", "dominait", "dominions", "dominiez", "dominaient" ],
+  "passeSimple": [ "dominai", "dominas", "domina", "dominâmes", "dominâtes", "dominèrent" ],
+  "futurSimple": [ "dominerai", "domineras", "dominera", "dominerons", "dominerez", "domineront" ],
+  "passeCompose": [ "ai dominé", "as dominé", "a dominé", "avons dominé", "avez dominé", "ont dominé" ],
+  "plusQueParfait": [ "avais dominé", "avais dominé", "avait dominé", "avions dominé", "aviez dominé", "avaient dominé" ],
+  "passeAnterieur": [ "eus dominé", "eus dominé", "eut dominé", "eûmes dominé", "eûtes dominé", "eurent dominé" ],
+  "futurAnterieur": [ "aurai dominé", "auras dominé", "aura dominé", "aurons dominé", "aurez dominé", "auront dominé" ],
+  "subjonctifPresent": [ "domine", "domines", "domine", "dominions", "dominiez", "dominent" ],
+  "subjonctifImparfait": [ "dominasse", "dominasses", "dominât", "dominassions", "dominassiez", "dominassent" ],
+  "subjonctifPasse": [ "aie dominé", "aies dominé", "ait dominé", "ayons dominé", "ayez dominé", "aient dominé" ],
+  "subjonctifPlusQueParfait": [ "eusse dominé", "eusses dominé", "eût dominé", "eussions dominé", "eussiez dominé", "eussent dominé" ],
+  "conditionnelPresent": [ "dominerais", "dominerais", "dominerait", "dominerions", "domineriez", "domineraient" ],
+  "conditionnelPasse": [ "aurais dominé", "aurais dominé", "aurait dominé", "aurions dominé", "auriez dominé", "auraient dominé" ],
+  "conditionnelPasseII": [ "eusse dominé", "eusses dominé", "eût dominé", "eussions dominé", "eussiez dominé", "eussent dominé" ],
+  "imperatif": [ "–", "domine !", "–", "dominons !", "dominez !", "–" ],
+  "imperatifPasse": [ "–", "aie dominé !", "–", "ayons dominé !", "ayez dominé !", "–" ]
+}

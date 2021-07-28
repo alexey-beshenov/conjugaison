@@ -1,0 +1,22 @@
+{
+  "infinitif": "allumer",
+  "participePresent": "allumant",
+  "participePasse": "allumé",
+  "present": [ "allume", "allumes", "allume", "allumons", "allumez", "allument" ],
+  "imparfait": [ "allumais", "allumais", "allumait", "allumions", "allumiez", "allumaient" ],
+  "passeSimple": [ "allumai", "allumas", "alluma", "allumâmes", "allumâtes", "allumèrent" ],
+  "futurSimple": [ "allumerai", "allumeras", "allumera", "allumerons", "allumerez", "allumeront" ],
+  "passeCompose": [ "ai allumé", "as allumé", "a allumé", "avons allumé", "avez allumé", "ont allumé" ],
+  "plusQueParfait": [ "avais allumé", "avais allumé", "avait allumé", "avions allumé", "aviez allumé", "avaient allumé" ],
+  "passeAnterieur": [ "eus allumé", "eus allumé", "eut allumé", "eûmes allumé", "eûtes allumé", "eurent allumé" ],
+  "futurAnterieur": [ "aurai allumé", "auras allumé", "aura allumé", "aurons allumé", "aurez allumé", "auront allumé" ],
+  "subjonctifPresent": [ "allume", "allumes", "allume", "allumions", "allumiez", "allument" ],
+  "subjonctifImparfait": [ "allumasse", "allumasses", "allumât", "allumassions", "allumassiez", "allumassent" ],
+  "subjonctifPasse": [ "aie allumé", "aies allumé", "ait allumé", "ayons allumé", "ayez allumé", "aient allumé" ],
+  "subjonctifPlusQueParfait": [ "eusse allumé", "eusses allumé", "eût allumé", "eussions allumé", "eussiez allumé", "eussent allumé" ],
+  "conditionnelPresent": [ "allumerais", "allumerais", "allumerait", "allumerions", "allumeriez", "allumeraient" ],
+  "conditionnelPasse": [ "aurais allumé", "aurais allumé", "aurait allumé", "aurions allumé", "auriez allumé", "auraient allumé" ],
+  "conditionnelPasseII": [ "eusse allumé", "eusses allumé", "eût allumé", "eussions allumé", "eussiez allumé", "eussent allumé" ],
+  "imperatif": [ "–", "allume !", "–", "allumons !", "allumez !", "–" ],
+  "imperatifPasse": [ "–", "aie allumé !", "–", "ayons allumé !", "ayez allumé !", "–" ]
+}

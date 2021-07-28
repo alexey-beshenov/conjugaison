@@ -1,0 +1,22 @@
+{
+  "infinitif": "se courir",
+  "participePresent": "se courant",
+  "participePasse": "couru",
+  "present": [ "me cours", "te cours", "se court", "nous courons", "vous courez", "se courent" ],
+  "imparfait": [ "me courais", "te courais", "se courait", "nous courions", "vous couriez", "se couraient" ],
+  "passeSimple": [ "me courus", "te courus", "se courut", "nous courûmes", "vous courûtes", "se coururent" ],
+  "futurSimple": [ "me courrai", "te courras", "se courra", "nous courrons", "vous courrez", "se courront" ],
+  "passeCompose": [ "me suis couru(e)", "t'es couru(e)", "s'est couru(e)", "nous sommes couru(e)s", "vous êtes couru(e)(s)", "se sont couru(e)s" ],
+  "plusQueParfait": [ "m'étais couru(e)", "t'étais couru(e)", "s'était couru(e)", "nous étions couru(e)s", "vous étiez couru(e)(s)", "s'étaient couru(e)s" ],
+  "passeAnterieur": [ "me fus couru(e)", "te fus couru(e)", "se fut couru(e)", "nous fûmes couru(e)s", "vous fûtes couru(e)(s)", "se furent couru(e)s" ],
+  "futurAnterieur": [ "me serai couru(e)", "te seras couru(e)", "se sera couru(e)", "nous serons couru(e)s", "vous serez couru(e)(s)", "se seront couru(e)s" ],
+  "subjonctifPresent": [ "me coure", "te coures", "se coure", "nous courions", "vous couriez", "se courent" ],
+  "subjonctifImparfait": [ "me courusse", "te courusses", "se courût", "nous courussions", "vous courussiez", "se courussent" ],
+  "subjonctifPasse": [ "me sois couru(e)", "te sois couru(e)", "se soit couru(e)", "nous soyons couru(e)s", "vous soyez couru(e)(s)", "se soient couru(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse couru(e)", "te fusses couru(e)", "se fût couru(e)", "nous fussions couru(e)s", "vous fussiez couru(e)(s)", "se fussent couru(e)s" ],
+  "conditionnelPresent": [ "me courrais", "te courrais", "se courrait", "nous courrions", "vous courriez", "se courraient" ],
+  "conditionnelPasse": [ "me serais couru(e)", "te serais couru(e)", "se serait couru(e)", "nous serions couru(e)s", "vous seriez couru(e)(s)", "se seraient couru(e)s" ],
+  "conditionnelPasseII": [ "me fusse couru(e)", "te fusses couru(e)", "se fût couru(e)", "nous fussions couru(e)s", "vous fussiez couru(e)(s)", "se fussent couru(e)s" ],
+  "imperatif": [ "–", "cours-toi !", "–", "courons-nous !", "courez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

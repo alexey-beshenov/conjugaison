@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'accroître",
+  "participePresent": "s'accroissant",
+  "participePasse": "accru",
+  "present": [ "m'accrois", "t'accrois", "s'accroît", "nous accroissons", "vous accroissez", "s'accroissent" ],
+  "imparfait": [ "m'accroissais", "t'accroissais", "s'accroissait", "nous accroissions", "vous accroissiez", "s'accroissaient" ],
+  "passeSimple": [ "m'accrus", "t'accrus", "s'accrut", "nous accrûmes", "vous accrûtes", "s'accrurent" ],
+  "futurSimple": [ "m'accroîtrai", "t'accroîtras", "s'accroîtra", "nous accroîtrons", "vous accroîtrez", "s'accroîtront" ],
+  "passeCompose": [ "me suis accru(e)", "t'es accru(e)", "s'est accru(e)", "nous sommes accru(e)s", "vous êtes accru(e)(s)", "se sont accru(e)s" ],
+  "plusQueParfait": [ "m'étais accru(e)", "t'étais accru(e)", "s'était accru(e)", "nous étions accru(e)s", "vous étiez accru(e)(s)", "s'étaient accru(e)s" ],
+  "passeAnterieur": [ "me fus accru(e)", "te fus accru(e)", "se fut accru(e)", "nous fûmes accru(e)s", "vous fûtes accru(e)(s)", "se furent accru(e)s" ],
+  "futurAnterieur": [ "me serai accru(e)", "te seras accru(e)", "se sera accru(e)", "nous serons accru(e)s", "vous serez accru(e)(s)", "se seront accru(e)s" ],
+  "subjonctifPresent": [ "m'accroisse", "t'accroisses", "s'accroisse", "nous accroissions", "vous accroissiez", "s'accroissent" ],
+  "subjonctifImparfait": [ "m'accrusse", "t'accrusses", "s'accrût", "nous accrussions", "vous accrussiez", "s'accrussent" ],
+  "subjonctifPasse": [ "me sois accru(e)", "te sois accru(e)", "se soit accru(e)", "nous soyons accru(e)s", "vous soyez accru(e)(s)", "se soient accru(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse accru(e)", "te fusses accru(e)", "se fût accru(e)", "nous fussions accru(e)s", "vous fussiez accru(e)(s)", "se fussent accru(e)s" ],
+  "conditionnelPresent": [ "m'accroîtrais", "t'accroîtrais", "s'accroîtrait", "nous accroîtrions", "vous accroîtriez", "s'accroîtraient" ],
+  "conditionnelPasse": [ "me serais accru(e)", "te serais accru(e)", "se serait accru(e)", "nous serions accru(e)s", "vous seriez accru(e)(s)", "se seraient accru(e)s" ],
+  "conditionnelPasseII": [ "me fusse accru(e)", "te fusses accru(e)", "se fût accru(e)", "nous fussions accru(e)s", "vous fussiez accru(e)(s)", "se fussent accru(e)s" ],
+  "imperatif": [ "–", "accrois-toi !", "–", "accroissons-nous !", "accroissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

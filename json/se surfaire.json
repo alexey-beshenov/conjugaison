@@ -1,0 +1,22 @@
+{
+  "infinitif": "se surfaire",
+  "participePresent": "se surfaisant",
+  "participePasse": "surfait",
+  "present": [ "me surfais", "te surfais", "se surfait", "nous surfaisons", "vous surfaites", "se surfont" ],
+  "imparfait": [ "me surfaisais", "te surfaisais", "se surfaisait", "nous surfaisions", "vous surfaisiez", "se surfaisaient" ],
+  "passeSimple": [ "me surfis", "te surfis", "se surfit", "nous surfîmes", "vous surfîtes", "se surfirent" ],
+  "futurSimple": [ "me surferai", "te surferas", "se surfera", "nous surferons", "vous surferez", "se surferont" ],
+  "passeCompose": [ "me suis surfait(e)", "t'es surfait(e)", "s'est surfait(e)", "nous sommes surfait(e)s", "vous êtes surfait(e)(s)", "se sont surfait(e)s" ],
+  "plusQueParfait": [ "m'étais surfait(e)", "t'étais surfait(e)", "s'était surfait(e)", "nous étions surfait(e)s", "vous étiez surfait(e)(s)", "s'étaient surfait(e)s" ],
+  "passeAnterieur": [ "me fus surfait(e)", "te fus surfait(e)", "se fut surfait(e)", "nous fûmes surfait(e)s", "vous fûtes surfait(e)(s)", "se furent surfait(e)s" ],
+  "futurAnterieur": [ "me serai surfait(e)", "te seras surfait(e)", "se sera surfait(e)", "nous serons surfait(e)s", "vous serez surfait(e)(s)", "se seront surfait(e)s" ],
+  "subjonctifPresent": [ "me surfasse", "te surfasses", "se surfasse", "nous surfassions", "vous surfassiez", "se surfassent" ],
+  "subjonctifImparfait": [ "me surfisse", "te surfisses", "se surfît", "nous surfissions", "vous surfissiez", "se surfissent" ],
+  "subjonctifPasse": [ "me sois surfait(e)", "te sois surfait(e)", "se soit surfait(e)", "nous soyons surfait(e)s", "vous soyez surfait(e)(s)", "se soient surfait(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse surfait(e)", "te fusses surfait(e)", "se fût surfait(e)", "nous fussions surfait(e)s", "vous fussiez surfait(e)(s)", "se fussent surfait(e)s" ],
+  "conditionnelPresent": [ "me surferais", "te surferais", "se surferait", "nous surferions", "vous surferiez", "se surferaient" ],
+  "conditionnelPasse": [ "me serais surfait(e)", "te serais surfait(e)", "se serait surfait(e)", "nous serions surfait(e)s", "vous seriez surfait(e)(s)", "se seraient surfait(e)s" ],
+  "conditionnelPasseII": [ "me fusse surfait(e)", "te fusses surfait(e)", "se fût surfait(e)", "nous fussions surfait(e)s", "vous fussiez surfait(e)(s)", "se fussent surfait(e)s" ],
+  "imperatif": [ "–", "surfais-toi !", "–", "surfaisons-nous !", "surfaites-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

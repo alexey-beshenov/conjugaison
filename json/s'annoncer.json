@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'annoncer",
+  "participePresent": "s'annonçant",
+  "participePasse": "annoncé",
+  "present": [ "m'annonce", "t'annonces", "s'annonce", "nous annonçons", "vous annoncez", "s'annoncent" ],
+  "imparfait": [ "m'annonçais", "t'annonçais", "s'annonçait", "nous annoncions", "vous annonciez", "s'annonçaient" ],
+  "passeSimple": [ "m'annonçai", "t'annonças", "s'annonça", "nous annonçâmes", "vous annonçâtes", "s'annoncèrent" ],
+  "futurSimple": [ "m'annoncerai", "t'annonceras", "s'annoncera", "nous annoncerons", "vous annoncerez", "s'annonceront" ],
+  "passeCompose": [ "me suis annoncé(e)", "t'es annoncé(e)", "s'est annoncé(e)", "nous sommes annoncé(e)s", "vous êtes annoncé(e)(s)", "se sont annoncé(e)s" ],
+  "plusQueParfait": [ "m'étais annoncé(e)", "t'étais annoncé(e)", "s'était annoncé(e)", "nous étions annoncé(e)s", "vous étiez annoncé(e)(s)", "s'étaient annoncé(e)s" ],
+  "passeAnterieur": [ "me fus annoncé(e)", "te fus annoncé(e)", "se fut annoncé(e)", "nous fûmes annoncé(e)s", "vous fûtes annoncé(e)(s)", "se furent annoncé(e)s" ],
+  "futurAnterieur": [ "me serai annoncé(e)", "te seras annoncé(e)", "se sera annoncé(e)", "nous serons annoncé(e)s", "vous serez annoncé(e)(s)", "se seront annoncé(e)s" ],
+  "subjonctifPresent": [ "m'annonce", "t'annonces", "s'annonce", "nous annoncions", "vous annonciez", "s'annoncent" ],
+  "subjonctifImparfait": [ "m'annonçasse", "t'annonçasses", "s'annonçât", "nous annonçassions", "vous annonçassiez", "s'annonçassent" ],
+  "subjonctifPasse": [ "me sois annoncé(e)", "te sois annoncé(e)", "se soit annoncé(e)", "nous soyons annoncé(e)s", "vous soyez annoncé(e)(s)", "se soient annoncé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse annoncé(e)", "te fusses annoncé(e)", "se fût annoncé(e)", "nous fussions annoncé(e)s", "vous fussiez annoncé(e)(s)", "se fussent annoncé(e)s" ],
+  "conditionnelPresent": [ "m'annoncerais", "t'annoncerais", "s'annoncerait", "nous annoncerions", "vous annonceriez", "s'annonceraient" ],
+  "conditionnelPasse": [ "me serais annoncé(e)", "te serais annoncé(e)", "se serait annoncé(e)", "nous serions annoncé(e)s", "vous seriez annoncé(e)(s)", "se seraient annoncé(e)s" ],
+  "conditionnelPasseII": [ "me fusse annoncé(e)", "te fusses annoncé(e)", "se fût annoncé(e)", "nous fussions annoncé(e)s", "vous fussiez annoncé(e)(s)", "se fussent annoncé(e)s" ],
+  "imperatif": [ "–", "annonce-toi !", "–", "annonçons-nous !", "annoncez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'acquérir",
+  "participePresent": "s'acquérant",
+  "participePasse": "acquis",
+  "present": [ "m'acquiers", "t'acquiers", "s'acquiert", "nous acquérons", "vous acquérez", "s'acquièrent" ],
+  "imparfait": [ "m'acquérais", "t'acquérais", "s'acquérait", "nous acquérions", "vous acquériez", "s'acquéraient" ],
+  "passeSimple": [ "m'acquis", "t'acquis", "s'acquit", "nous acquîmes", "vous acquîtes", "s'acquirent" ],
+  "futurSimple": [ "m'acquerrai", "t'acquerras", "s'acquerra", "nous acquerrons", "vous acquerrez", "s'acquerront" ],
+  "passeCompose": [ "me suis acquis(e)", "t'es acquis(e)", "s'est acquis(e)", "nous sommes acquis(es)", "vous êtes acquis(e(s))", "se sont acquis(es)" ],
+  "plusQueParfait": [ "m'étais acquis(e)", "t'étais acquis(e)", "s'était acquis(e)", "nous étions acquis(es)", "vous étiez acquis(e(s))", "s'étaient acquis(es)" ],
+  "passeAnterieur": [ "me fus acquis(e)", "te fus acquis(e)", "se fut acquis(e)", "nous fûmes acquis(es)", "vous fûtes acquis(e(s))", "se furent acquis(es)" ],
+  "futurAnterieur": [ "me serai acquis(e)", "te seras acquis(e)", "se sera acquis(e)", "nous serons acquis(es)", "vous serez acquis(e(s))", "se seront acquis(es)" ],
+  "subjonctifPresent": [ "m'acquière", "t'acquières", "s'acquière", "nous acquérions", "vous acquériez", "s'acquièrent" ],
+  "subjonctifImparfait": [ "m'acquisse", "t'acquisses", "s'acquît", "nous acquissions", "vous acquissiez", "s'acquissent" ],
+  "subjonctifPasse": [ "me sois acquis(e)", "te sois acquis(e)", "se soit acquis(e)", "nous soyons acquis(es)", "vous soyez acquis(e(s))", "se soient acquis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse acquis(e)", "te fusses acquis(e)", "se fût acquis(e)", "nous fussions acquis(es)", "vous fussiez acquis(e(s))", "se fussent acquis(es)" ],
+  "conditionnelPresent": [ "m'acquerrais", "t'acquerrais", "s'acquerrait", "nous acquerrions", "vous acquerriez", "s'acquerraient" ],
+  "conditionnelPasse": [ "me serais acquis(e)", "te serais acquis(e)", "se serait acquis(e)", "nous serions acquis(es)", "vous seriez acquis(e(s))", "se seraient acquis(es)" ],
+  "conditionnelPasseII": [ "me fusse acquis(e)", "te fusses acquis(e)", "se fût acquis(e)", "nous fussions acquis(es)", "vous fussiez acquis(e(s))", "se fussent acquis(es)" ],
+  "imperatif": [ "–", "acquiers-toi !", "–", "acquérons-nous !", "acquérez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

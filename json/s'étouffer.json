@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'étouffer",
+  "participePresent": "s'étouffant",
+  "participePasse": "étouffé",
+  "present": [ "m'étouffe", "t'étouffes", "s'étouffe", "nous étouffons", "vous étouffez", "s'étouffent" ],
+  "imparfait": [ "m'étouffais", "t'étouffais", "s'étouffait", "nous étouffions", "vous étouffiez", "s'étouffaient" ],
+  "passeSimple": [ "m'étouffai", "t'étouffas", "s'étouffa", "nous étouffâmes", "vous étouffâtes", "s'étouffèrent" ],
+  "futurSimple": [ "m'étoufferai", "t'étoufferas", "s'étouffera", "nous étoufferons", "vous étoufferez", "s'étoufferont" ],
+  "passeCompose": [ "me suis étouffé(e)", "t'es étouffé(e)", "s'est étouffé(e)", "nous sommes étouffé(e)s", "vous êtes étouffé(e)(s)", "se sont étouffé(e)s" ],
+  "plusQueParfait": [ "m'étais étouffé(e)", "t'étais étouffé(e)", "s'était étouffé(e)", "nous étions étouffé(e)s", "vous étiez étouffé(e)(s)", "s'étaient étouffé(e)s" ],
+  "passeAnterieur": [ "me fus étouffé(e)", "te fus étouffé(e)", "se fut étouffé(e)", "nous fûmes étouffé(e)s", "vous fûtes étouffé(e)(s)", "se furent étouffé(e)s" ],
+  "futurAnterieur": [ "me serai étouffé(e)", "te seras étouffé(e)", "se sera étouffé(e)", "nous serons étouffé(e)s", "vous serez étouffé(e)(s)", "se seront étouffé(e)s" ],
+  "subjonctifPresent": [ "m'étouffe", "t'étouffes", "s'étouffe", "nous étouffions", "vous étouffiez", "s'étouffent" ],
+  "subjonctifImparfait": [ "m'étouffasse", "t'étouffasses", "s'étouffât", "nous étouffassions", "vous étouffassiez", "s'étouffassent" ],
+  "subjonctifPasse": [ "me sois étouffé(e)", "te sois étouffé(e)", "se soit étouffé(e)", "nous soyons étouffé(e)s", "vous soyez étouffé(e)(s)", "se soient étouffé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse étouffé(e)", "te fusses étouffé(e)", "se fût étouffé(e)", "nous fussions étouffé(e)s", "vous fussiez étouffé(e)(s)", "se fussent étouffé(e)s" ],
+  "conditionnelPresent": [ "m'étoufferais", "t'étoufferais", "s'étoufferait", "nous étoufferions", "vous étoufferiez", "s'étoufferaient" ],
+  "conditionnelPasse": [ "me serais étouffé(e)", "te serais étouffé(e)", "se serait étouffé(e)", "nous serions étouffé(e)s", "vous seriez étouffé(e)(s)", "se seraient étouffé(e)s" ],
+  "conditionnelPasseII": [ "me fusse étouffé(e)", "te fusses étouffé(e)", "se fût étouffé(e)", "nous fussions étouffé(e)s", "vous fussiez étouffé(e)(s)", "se fussent étouffé(e)s" ],
+  "imperatif": [ "–", "étouffe-toi !", "–", "étouffons-nous !", "étouffez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se reculer",
+  "participePresent": "se reculant",
+  "participePasse": "reculé",
+  "present": [ "me recule", "te recules", "se recule", "nous reculons", "vous reculez", "se reculent" ],
+  "imparfait": [ "me reculais", "te reculais", "se reculait", "nous reculions", "vous reculiez", "se reculaient" ],
+  "passeSimple": [ "me reculai", "te reculas", "se recula", "nous reculâmes", "vous reculâtes", "se reculèrent" ],
+  "futurSimple": [ "me reculerai", "te reculeras", "se reculera", "nous reculerons", "vous reculerez", "se reculeront" ],
+  "passeCompose": [ "me suis reculé(e)", "t'es reculé(e)", "s'est reculé(e)", "nous sommes reculé(e)s", "vous êtes reculé(e)(s)", "se sont reculé(e)s" ],
+  "plusQueParfait": [ "m'étais reculé(e)", "t'étais reculé(e)", "s'était reculé(e)", "nous étions reculé(e)s", "vous étiez reculé(e)(s)", "s'étaient reculé(e)s" ],
+  "passeAnterieur": [ "me fus reculé(e)", "te fus reculé(e)", "se fut reculé(e)", "nous fûmes reculé(e)s", "vous fûtes reculé(e)(s)", "se furent reculé(e)s" ],
+  "futurAnterieur": [ "me serai reculé(e)", "te seras reculé(e)", "se sera reculé(e)", "nous serons reculé(e)s", "vous serez reculé(e)(s)", "se seront reculé(e)s" ],
+  "subjonctifPresent": [ "me recule", "te recules", "se recule", "nous reculions", "vous reculiez", "se reculent" ],
+  "subjonctifImparfait": [ "me reculasse", "te reculasses", "se reculât", "nous reculassions", "vous reculassiez", "se reculassent" ],
+  "subjonctifPasse": [ "me sois reculé(e)", "te sois reculé(e)", "se soit reculé(e)", "nous soyons reculé(e)s", "vous soyez reculé(e)(s)", "se soient reculé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse reculé(e)", "te fusses reculé(e)", "se fût reculé(e)", "nous fussions reculé(e)s", "vous fussiez reculé(e)(s)", "se fussent reculé(e)s" ],
+  "conditionnelPresent": [ "me reculerais", "te reculerais", "se reculerait", "nous reculerions", "vous reculeriez", "se reculeraient" ],
+  "conditionnelPasse": [ "me serais reculé(e)", "te serais reculé(e)", "se serait reculé(e)", "nous serions reculé(e)s", "vous seriez reculé(e)(s)", "se seraient reculé(e)s" ],
+  "conditionnelPasseII": [ "me fusse reculé(e)", "te fusses reculé(e)", "se fût reculé(e)", "nous fussions reculé(e)s", "vous fussiez reculé(e)(s)", "se fussent reculé(e)s" ],
+  "imperatif": [ "–", "recule-toi !", "–", "reculons-nous !", "reculez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

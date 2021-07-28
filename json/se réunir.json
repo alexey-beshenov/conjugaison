@@ -1,0 +1,22 @@
+{
+  "infinitif": "se réunir",
+  "participePresent": "se réunissant",
+  "participePasse": "réuni",
+  "present": [ "me réunis", "te réunis", "se réunit", "nous réunissons", "vous réunissez", "se réunissent" ],
+  "imparfait": [ "me réunissais", "te réunissais", "se réunissait", "nous réunissions", "vous réunissiez", "se réunissaient" ],
+  "passeSimple": [ "me réunis", "te réunis", "se réunit", "nous réunîmes", "vous réunîtes", "se réunirent" ],
+  "futurSimple": [ "me réunirai", "te réuniras", "se réunira", "nous réunirons", "vous réunirez", "se réuniront" ],
+  "passeCompose": [ "me suis réuni(e)", "t'es réuni(e)", "s'est réuni(e)", "nous sommes réuni(e)s", "vous êtes réuni(e)(s)", "se sont réuni(e)s" ],
+  "plusQueParfait": [ "m'étais réuni(e)", "t'étais réuni(e)", "s'était réuni(e)", "nous étions réuni(e)s", "vous étiez réuni(e)(s)", "s'étaient réuni(e)s" ],
+  "passeAnterieur": [ "me fus réuni(e)", "te fus réuni(e)", "se fut réuni(e)", "nous fûmes réuni(e)s", "vous fûtes réuni(e)(s)", "se furent réuni(e)s" ],
+  "futurAnterieur": [ "me serai réuni(e)", "te seras réuni(e)", "se sera réuni(e)", "nous serons réuni(e)s", "vous serez réuni(e)(s)", "se seront réuni(e)s" ],
+  "subjonctifPresent": [ "me réunisse", "te réunisses", "se réunisse", "nous réunissions", "vous réunissiez", "se réunissent" ],
+  "subjonctifImparfait": [ "me réunisse", "te réunisses", "se réunît", "nous réunissions", "vous réunissiez", "se réunissent" ],
+  "subjonctifPasse": [ "me sois réuni(e)", "te sois réuni(e)", "se soit réuni(e)", "nous soyons réuni(e)s", "vous soyez réuni(e)(s)", "se soient réuni(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse réuni(e)", "te fusses réuni(e)", "se fût réuni(e)", "nous fussions réuni(e)s", "vous fussiez réuni(e)(s)", "se fussent réuni(e)s" ],
+  "conditionnelPresent": [ "me réunirais", "te réunirais", "se réunirait", "nous réunirions", "vous réuniriez", "se réuniraient" ],
+  "conditionnelPasse": [ "me serais réuni(e)", "te serais réuni(e)", "se serait réuni(e)", "nous serions réuni(e)s", "vous seriez réuni(e)(s)", "se seraient réuni(e)s" ],
+  "conditionnelPasseII": [ "me fusse réuni(e)", "te fusses réuni(e)", "se fût réuni(e)", "nous fussions réuni(e)s", "vous fussiez réuni(e)(s)", "se fussent réuni(e)s" ],
+  "imperatif": [ "–", "réunis-toi !", "–", "réunissons-nous !", "réunissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

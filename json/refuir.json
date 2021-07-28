@@ -1,0 +1,22 @@
+{
+  "infinitif": "refuir",
+  "participePresent": "refuyant",
+  "participePasse": "refui",
+  "present": [ "refuis", "refuis", "refuit", "refuyons", "refuyez", "refuient" ],
+  "imparfait": [ "refuyais", "refuyais", "refuyait", "refuyions", "refuyiez", "refuyaient" ],
+  "passeSimple": [ "refuis", "refuis", "refuit", "refuîmes", "refuîtes", "refuirent" ],
+  "futurSimple": [ "refuirai", "refuiras", "refuira", "refuirons", "refuirez", "refuiront" ],
+  "passeCompose": [ "ai refui", "as refui", "a refui", "avons refui", "avez refui", "ont refui" ],
+  "plusQueParfait": [ "avais refui", "avais refui", "avait refui", "avions refui", "aviez refui", "avaient refui" ],
+  "passeAnterieur": [ "eus refui", "eus refui", "eut refui", "eûmes refui", "eûtes refui", "eurent refui" ],
+  "futurAnterieur": [ "aurai refui", "auras refui", "aura refui", "aurons refui", "aurez refui", "auront refui" ],
+  "subjonctifPresent": [ "refuie", "refuies", "refuie", "refuyions", "refuyiez", "refuient" ],
+  "subjonctifImparfait": [ "refuisse", "refuisses", "refuît", "refuissions", "refuissiez", "refuissent" ],
+  "subjonctifPasse": [ "aie refui", "aies refui", "ait refui", "ayons refui", "ayez refui", "aient refui" ],
+  "subjonctifPlusQueParfait": [ "eusse refui", "eusses refui", "eût refui", "eussions refui", "eussiez refui", "eussent refui" ],
+  "conditionnelPresent": [ "refuirais", "refuirais", "refuirait", "refuirions", "refuiriez", "refuiraient" ],
+  "conditionnelPasse": [ "aurais refui", "aurais refui", "aurait refui", "aurions refui", "auriez refui", "auraient refui" ],
+  "conditionnelPasseII": [ "eusse refui", "eusses refui", "eût refui", "eussions refui", "eussiez refui", "eussent refui" ],
+  "imperatif": [ "–", "refuis !", "–", "refuyons !", "refuyez !", "–" ],
+  "imperatifPasse": [ "–", "aie refui !", "–", "ayons refui !", "ayez refui !", "–" ]
+}

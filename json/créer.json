@@ -1,0 +1,22 @@
+{
+  "infinitif": "créer",
+  "participePresent": "créant",
+  "participePasse": "créé",
+  "present": [ "crée", "crées", "crée", "créons", "créez", "créent" ],
+  "imparfait": [ "créais", "créais", "créait", "créions", "créiez", "créaient" ],
+  "passeSimple": [ "créai", "créas", "créa", "créâmes", "créâtes", "créèrent" ],
+  "futurSimple": [ "créerai", "créeras", "créera", "créerons", "créerez", "créeront" ],
+  "passeCompose": [ "ai créé", "as créé", "a créé", "avons créé", "avez créé", "ont créé" ],
+  "plusQueParfait": [ "avais créé", "avais créé", "avait créé", "avions créé", "aviez créé", "avaient créé" ],
+  "passeAnterieur": [ "eus créé", "eus créé", "eut créé", "eûmes créé", "eûtes créé", "eurent créé" ],
+  "futurAnterieur": [ "aurai créé", "auras créé", "aura créé", "aurons créé", "aurez créé", "auront créé" ],
+  "subjonctifPresent": [ "crée", "crées", "crée", "créions", "créiez", "créent" ],
+  "subjonctifImparfait": [ "créasse", "créasses", "créât", "créassions", "créassiez", "créassent" ],
+  "subjonctifPasse": [ "aie créé", "aies créé", "ait créé", "ayons créé", "ayez créé", "aient créé" ],
+  "subjonctifPlusQueParfait": [ "eusse créé", "eusses créé", "eût créé", "eussions créé", "eussiez créé", "eussent créé" ],
+  "conditionnelPresent": [ "créerais", "créerais", "créerait", "créerions", "créeriez", "créeraient" ],
+  "conditionnelPasse": [ "aurais créé", "aurais créé", "aurait créé", "aurions créé", "auriez créé", "auraient créé" ],
+  "conditionnelPasseII": [ "eusse créé", "eusses créé", "eût créé", "eussions créé", "eussiez créé", "eussent créé" ],
+  "imperatif": [ "–", "crée !", "–", "créons !", "créez !", "–" ],
+  "imperatifPasse": [ "–", "aie créé !", "–", "ayons créé !", "ayez créé !", "–" ]
+}

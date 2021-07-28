@@ -1,0 +1,22 @@
+{
+  "infinitif": "desservir",
+  "participePresent": "desservant",
+  "participePasse": "desservi",
+  "present": [ "dessers", "dessers", "dessert", "desservons", "desservez", "desservent" ],
+  "imparfait": [ "desservais", "desservais", "desservait", "desservions", "desserviez", "desservaient" ],
+  "passeSimple": [ "desservis", "desservis", "desservit", "desservîmes", "desservîtes", "desservirent" ],
+  "futurSimple": [ "desservirai", "desserviras", "desservira", "desservirons", "desservirez", "desserviront" ],
+  "passeCompose": [ "ai desservi", "as desservi", "a desservi", "avons desservi", "avez desservi", "ont desservi" ],
+  "plusQueParfait": [ "avais desservi", "avais desservi", "avait desservi", "avions desservi", "aviez desservi", "avaient desservi" ],
+  "passeAnterieur": [ "eus desservi", "eus desservi", "eut desservi", "eûmes desservi", "eûtes desservi", "eurent desservi" ],
+  "futurAnterieur": [ "aurai desservi", "auras desservi", "aura desservi", "aurons desservi", "aurez desservi", "auront desservi" ],
+  "subjonctifPresent": [ "desserve", "desserves", "desserve", "desservions", "desserviez", "desservent" ],
+  "subjonctifImparfait": [ "desservisse", "desservisses", "desservît", "desservissions", "desservissiez", "desservissent" ],
+  "subjonctifPasse": [ "aie desservi", "aies desservi", "ait desservi", "ayons desservi", "ayez desservi", "aient desservi" ],
+  "subjonctifPlusQueParfait": [ "eusse desservi", "eusses desservi", "eût desservi", "eussions desservi", "eussiez desservi", "eussent desservi" ],
+  "conditionnelPresent": [ "desservirais", "desservirais", "desservirait", "desservirions", "desserviriez", "desserviraient" ],
+  "conditionnelPasse": [ "aurais desservi", "aurais desservi", "aurait desservi", "aurions desservi", "auriez desservi", "auraient desservi" ],
+  "conditionnelPasseII": [ "eusse desservi", "eusses desservi", "eût desservi", "eussions desservi", "eussiez desservi", "eussent desservi" ],
+  "imperatif": [ "–", "dessers !", "–", "desservons !", "desservez !", "–" ],
+  "imperatifPasse": [ "–", "aie desservi !", "–", "ayons desservi !", "ayez desservi !", "–" ]
+}

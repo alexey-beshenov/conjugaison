@@ -1,0 +1,22 @@
+{
+  "infinitif": "aller",
+  "participePresent": "allant",
+  "participePasse": "allé",
+  "present": [ "vais", "vas", "va", "allons", "allez", "vont" ],
+  "imparfait": [ "allais", "allais", "allait", "allions", "alliez", "allaient" ],
+  "passeSimple": [ "allai", "allas", "alla", "allâmes", "allâtes", "allèrent" ],
+  "futurSimple": [ "irai", "iras", "ira", "irons", "irez", "iront" ],
+  "passeCompose": [ "suis allé(e)", "es allé(e)", "est allé(e)", "sommes allé(e)s", "êtes allé(e)(s)", "sont allé(e)s" ],
+  "plusQueParfait": [ "étais allé(e)", "étais allé(e)", "était allé(e)", "étions allé(e)s", "étiez allé(e)(s)", "étaient allé(e)s" ],
+  "passeAnterieur": [ "fus allé(e)", "fus allé(e)", "fut allé(e)", "fûmes allé(e)s", "fûtes allé(e)(s)", "furent allé(e)s" ],
+  "futurAnterieur": [ "serai allé(e)", "seras allé(e)", "sera allé(e)", "serons allé(e)s", "serez allé(e)(s)", "seront allé(e)s" ],
+  "subjonctifPresent": [ "aille", "ailles", "aille", "allions", "alliez", "aillent" ],
+  "subjonctifImparfait": [ "allasse", "allasses", "allât", "allassions", "allassiez", "allassent" ],
+  "subjonctifPasse": [ "sois allé(e)", "sois allé(e)", "soit allé(e)", "soyons allé(e)s", "soyez allé(e)(s)", "soient allé(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse allé(e)", "fusses allé(e)", "fût allé(e)", "fussions allé(e)s", "fussiez allé(e)(s)", "fussent allé(e)s" ],
+  "conditionnelPresent": [ "irais", "irais", "irait", "irions", "iriez", "iraient" ],
+  "conditionnelPasse": [ "serais allé(e)", "serais allé(e)", "serait allé(e)", "serions allé(e)s", "seriez allé(e)(s)", "seraient allé(e)s" ],
+  "conditionnelPasseII": [ "fusse allé(e)", "fusses allé(e)", "fût allé(e)", "fussions allé(e)s", "fussiez allé(e)(s)", "fussent allé(e)s" ],
+  "imperatif": [ "–", "va !", "–", "allons !", "allez !", "–" ],
+  "imperatifPasse": [ "–", "sois allé(e) !", "–", "soyons allé(e)s !", "soyez allé(e)(s) !", "–" ]
+}

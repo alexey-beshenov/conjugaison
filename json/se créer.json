@@ -1,0 +1,22 @@
+{
+  "infinitif": "se créer",
+  "participePresent": "se créant",
+  "participePasse": "créé",
+  "present": [ "me crée", "te crées", "se crée", "nous créons", "vous créez", "se créent" ],
+  "imparfait": [ "me créais", "te créais", "se créait", "nous créions", "vous créiez", "se créaient" ],
+  "passeSimple": [ "me créai", "te créas", "se créa", "nous créâmes", "vous créâtes", "se créèrent" ],
+  "futurSimple": [ "me créerai", "te créeras", "se créera", "nous créerons", "vous créerez", "se créeront" ],
+  "passeCompose": [ "me suis créé(e)", "t'es créé(e)", "s'est créé(e)", "nous sommes créé(e)s", "vous êtes créé(e)(s)", "se sont créé(e)s" ],
+  "plusQueParfait": [ "m'étais créé(e)", "t'étais créé(e)", "s'était créé(e)", "nous étions créé(e)s", "vous étiez créé(e)(s)", "s'étaient créé(e)s" ],
+  "passeAnterieur": [ "me fus créé(e)", "te fus créé(e)", "se fut créé(e)", "nous fûmes créé(e)s", "vous fûtes créé(e)(s)", "se furent créé(e)s" ],
+  "futurAnterieur": [ "me serai créé(e)", "te seras créé(e)", "se sera créé(e)", "nous serons créé(e)s", "vous serez créé(e)(s)", "se seront créé(e)s" ],
+  "subjonctifPresent": [ "me crée", "te crées", "se crée", "nous créions", "vous créiez", "se créent" ],
+  "subjonctifImparfait": [ "me créasse", "te créasses", "se créât", "nous créassions", "vous créassiez", "se créassent" ],
+  "subjonctifPasse": [ "me sois créé(e)", "te sois créé(e)", "se soit créé(e)", "nous soyons créé(e)s", "vous soyez créé(e)(s)", "se soient créé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse créé(e)", "te fusses créé(e)", "se fût créé(e)", "nous fussions créé(e)s", "vous fussiez créé(e)(s)", "se fussent créé(e)s" ],
+  "conditionnelPresent": [ "me créerais", "te créerais", "se créerait", "nous créerions", "vous créeriez", "se créeraient" ],
+  "conditionnelPasse": [ "me serais créé(e)", "te serais créé(e)", "se serait créé(e)", "nous serions créé(e)s", "vous seriez créé(e)(s)", "se seraient créé(e)s" ],
+  "conditionnelPasseII": [ "me fusse créé(e)", "te fusses créé(e)", "se fût créé(e)", "nous fussions créé(e)s", "vous fussiez créé(e)(s)", "se fussent créé(e)s" ],
+  "imperatif": [ "–", "crée-toi !", "–", "créons-nous !", "créez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

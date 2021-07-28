@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'offrir",
+  "participePresent": "s'offrant",
+  "participePasse": "offert",
+  "present": [ "m'offre", "t'offres", "s'offre", "nous offrons", "vous offrez", "s'offrent" ],
+  "imparfait": [ "m'offrais", "t'offrais", "s'offrait", "nous offrions", "vous offriez", "s'offraient" ],
+  "passeSimple": [ "m'offris", "t'offris", "s'offrit", "nous offrîmes", "vous offrîtes", "s'offrirent" ],
+  "futurSimple": [ "m'offrirai", "t'offriras", "s'offrira", "nous offrirons", "vous offrirez", "s'offriront" ],
+  "passeCompose": [ "me suis offert(e)", "t'es offert(e)", "s'est offert(e)", "nous sommes offert(e)s", "vous êtes offert(e)(s)", "se sont offert(e)s" ],
+  "plusQueParfait": [ "m'étais offert(e)", "t'étais offert(e)", "s'était offert(e)", "nous étions offert(e)s", "vous étiez offert(e)(s)", "s'étaient offert(e)s" ],
+  "passeAnterieur": [ "me fus offert(e)", "te fus offert(e)", "se fut offert(e)", "nous fûmes offert(e)s", "vous fûtes offert(e)(s)", "se furent offert(e)s" ],
+  "futurAnterieur": [ "me serai offert(e)", "te seras offert(e)", "se sera offert(e)", "nous serons offert(e)s", "vous serez offert(e)(s)", "se seront offert(e)s" ],
+  "subjonctifPresent": [ "m'offre", "t'offres", "s'offre", "nous offrions", "vous offriez", "s'offrent" ],
+  "subjonctifImparfait": [ "m'offrisse", "t'offrisses", "s'offrît", "nous offrissions", "vous offrissiez", "s'offrissent" ],
+  "subjonctifPasse": [ "me sois offert(e)", "te sois offert(e)", "se soit offert(e)", "nous soyons offert(e)s", "vous soyez offert(e)(s)", "se soient offert(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse offert(e)", "te fusses offert(e)", "se fût offert(e)", "nous fussions offert(e)s", "vous fussiez offert(e)(s)", "se fussent offert(e)s" ],
+  "conditionnelPresent": [ "m'offrirais", "t'offrirais", "s'offrirait", "nous offririons", "vous offririez", "s'offriraient" ],
+  "conditionnelPasse": [ "me serais offert(e)", "te serais offert(e)", "se serait offert(e)", "nous serions offert(e)s", "vous seriez offert(e)(s)", "se seraient offert(e)s" ],
+  "conditionnelPasseII": [ "me fusse offert(e)", "te fusses offert(e)", "se fût offert(e)", "nous fussions offert(e)s", "vous fussiez offert(e)(s)", "se fussent offert(e)s" ],
+  "imperatif": [ "–", "offre-toi !", "–", "offrons-nous !", "offrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

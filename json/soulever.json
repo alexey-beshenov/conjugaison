@@ -1,0 +1,22 @@
+{
+  "infinitif": "soulever",
+  "participePresent": "soulevant",
+  "participePasse": "soulevé",
+  "present": [ "soulève", "soulèves", "soulève", "soulevons", "soulevez", "soulèvent" ],
+  "imparfait": [ "soulevais", "soulevais", "soulevait", "soulevions", "souleviez", "soulevaient" ],
+  "passeSimple": [ "soulevai", "soulevas", "souleva", "soulevâmes", "soulevâtes", "soulevèrent" ],
+  "futurSimple": [ "soulèverai", "soulèveras", "soulèvera", "soulèverons", "soulèverez", "soulèveront" ],
+  "passeCompose": [ "ai soulevé", "as soulevé", "a soulevé", "avons soulevé", "avez soulevé", "ont soulevé" ],
+  "plusQueParfait": [ "avais soulevé", "avais soulevé", "avait soulevé", "avions soulevé", "aviez soulevé", "avaient soulevé" ],
+  "passeAnterieur": [ "eus soulevé", "eus soulevé", "eut soulevé", "eûmes soulevé", "eûtes soulevé", "eurent soulevé" ],
+  "futurAnterieur": [ "aurai soulevé", "auras soulevé", "aura soulevé", "aurons soulevé", "aurez soulevé", "auront soulevé" ],
+  "subjonctifPresent": [ "soulève", "soulèves", "soulève", "soulevions", "souleviez", "soulèvent" ],
+  "subjonctifImparfait": [ "soulevasse", "soulevasses", "soulevât", "soulevassions", "soulevassiez", "soulevassent" ],
+  "subjonctifPasse": [ "aie soulevé", "aies soulevé", "ait soulevé", "ayons soulevé", "ayez soulevé", "aient soulevé" ],
+  "subjonctifPlusQueParfait": [ "eusse soulevé", "eusses soulevé", "eût soulevé", "eussions soulevé", "eussiez soulevé", "eussent soulevé" ],
+  "conditionnelPresent": [ "soulèverais", "soulèverais", "soulèverait", "soulèverions", "soulèveriez", "soulèveraient" ],
+  "conditionnelPasse": [ "aurais soulevé", "aurais soulevé", "aurait soulevé", "aurions soulevé", "auriez soulevé", "auraient soulevé" ],
+  "conditionnelPasseII": [ "eusse soulevé", "eusses soulevé", "eût soulevé", "eussions soulevé", "eussiez soulevé", "eussent soulevé" ],
+  "imperatif": [ "–", "soulève !", "–", "soulevons !", "soulevez !", "–" ],
+  "imperatifPasse": [ "–", "aie soulevé !", "–", "ayons soulevé !", "ayez soulevé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se tenir",
+  "participePresent": "se tenant",
+  "participePasse": "tenu",
+  "present": [ "me tiens", "te tiens", "se tient", "nous tenons", "vous tenez", "se tiennent" ],
+  "imparfait": [ "me tenais", "te tenais", "se tenait", "nous tenions", "vous teniez", "se tenaient" ],
+  "passeSimple": [ "me tins", "te tins", "se tint", "nous tînmes", "vous tîntes", "se tinrent" ],
+  "futurSimple": [ "me tiendrai", "te tiendras", "se tiendra", "nous tiendrons", "vous tiendrez", "se tiendront" ],
+  "passeCompose": [ "me suis tenu(e)", "t'es tenu(e)", "s'est tenu(e)", "nous sommes tenu(e)s", "vous êtes tenu(e)(s)", "se sont tenu(e)s" ],
+  "plusQueParfait": [ "m'étais tenu(e)", "t'étais tenu(e)", "s'était tenu(e)", "nous étions tenu(e)s", "vous étiez tenu(e)(s)", "s'étaient tenu(e)s" ],
+  "passeAnterieur": [ "me fus tenu(e)", "te fus tenu(e)", "se fut tenu(e)", "nous fûmes tenu(e)s", "vous fûtes tenu(e)(s)", "se furent tenu(e)s" ],
+  "futurAnterieur": [ "me serai tenu(e)", "te seras tenu(e)", "se sera tenu(e)", "nous serons tenu(e)s", "vous serez tenu(e)(s)", "se seront tenu(e)s" ],
+  "subjonctifPresent": [ "me tienne", "te tiennes", "se tienne", "nous tenions", "vous teniez", "se tiennent" ],
+  "subjonctifImparfait": [ "me tinsse", "te tinsses", "se tînt", "nous tinssions", "vous tinssiez", "se tinssent" ],
+  "subjonctifPasse": [ "me sois tenu(e)", "te sois tenu(e)", "se soit tenu(e)", "nous soyons tenu(e)s", "vous soyez tenu(e)(s)", "se soient tenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse tenu(e)", "te fusses tenu(e)", "se fût tenu(e)", "nous fussions tenu(e)s", "vous fussiez tenu(e)(s)", "se fussent tenu(e)s" ],
+  "conditionnelPresent": [ "me tiendrais", "te tiendrais", "se tiendrait", "nous tiendrions", "vous tiendriez", "se tiendraient" ],
+  "conditionnelPasse": [ "me serais tenu(e)", "te serais tenu(e)", "se serait tenu(e)", "nous serions tenu(e)s", "vous seriez tenu(e)(s)", "se seraient tenu(e)s" ],
+  "conditionnelPasseII": [ "me fusse tenu(e)", "te fusses tenu(e)", "se fût tenu(e)", "nous fussions tenu(e)s", "vous fussiez tenu(e)(s)", "se fussent tenu(e)s" ],
+  "imperatif": [ "–", "tiens-toi !", "–", "tenons-nous !", "tenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

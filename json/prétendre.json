@@ -1,0 +1,22 @@
+{
+  "infinitif": "prétendre",
+  "participePresent": "prétendant",
+  "participePasse": "prétendu",
+  "present": [ "prétends", "prétends", "prétend", "prétendons", "prétendez", "prétendent" ],
+  "imparfait": [ "prétendais", "prétendais", "prétendait", "prétendions", "prétendiez", "prétendaient" ],
+  "passeSimple": [ "prétendis", "prétendis", "prétendit", "prétendîmes", "prétendîtes", "prétendirent" ],
+  "futurSimple": [ "prétendrai", "prétendras", "prétendra", "prétendrons", "prétendrez", "prétendront" ],
+  "passeCompose": [ "ai prétendu", "as prétendu", "a prétendu", "avons prétendu", "avez prétendu", "ont prétendu" ],
+  "plusQueParfait": [ "avais prétendu", "avais prétendu", "avait prétendu", "avions prétendu", "aviez prétendu", "avaient prétendu" ],
+  "passeAnterieur": [ "eus prétendu", "eus prétendu", "eut prétendu", "eûmes prétendu", "eûtes prétendu", "eurent prétendu" ],
+  "futurAnterieur": [ "aurai prétendu", "auras prétendu", "aura prétendu", "aurons prétendu", "aurez prétendu", "auront prétendu" ],
+  "subjonctifPresent": [ "prétende", "prétendes", "prétende", "prétendions", "prétendiez", "prétendent" ],
+  "subjonctifImparfait": [ "prétendisse", "prétendisses", "prétendît", "prétendissions", "prétendissiez", "prétendissent" ],
+  "subjonctifPasse": [ "aie prétendu", "aies prétendu", "ait prétendu", "ayons prétendu", "ayez prétendu", "aient prétendu" ],
+  "subjonctifPlusQueParfait": [ "eusse prétendu", "eusses prétendu", "eût prétendu", "eussions prétendu", "eussiez prétendu", "eussent prétendu" ],
+  "conditionnelPresent": [ "prétendrais", "prétendrais", "prétendrait", "prétendrions", "prétendriez", "prétendraient" ],
+  "conditionnelPasse": [ "aurais prétendu", "aurais prétendu", "aurait prétendu", "aurions prétendu", "auriez prétendu", "auraient prétendu" ],
+  "conditionnelPasseII": [ "eusse prétendu", "eusses prétendu", "eût prétendu", "eussions prétendu", "eussiez prétendu", "eussent prétendu" ],
+  "imperatif": [ "–", "prétends !", "–", "prétendons !", "prétendez !", "–" ],
+  "imperatifPasse": [ "–", "aie prétendu !", "–", "ayons prétendu !", "ayez prétendu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'intéresser",
+  "participePresent": "s'intéressant",
+  "participePasse": "intéressé",
+  "present": [ "m'intéresse", "t'intéresses", "s'intéresse", "nous intéressons", "vous intéressez", "s'intéressent" ],
+  "imparfait": [ "m'intéressais", "t'intéressais", "s'intéressait", "nous intéressions", "vous intéressiez", "s'intéressaient" ],
+  "passeSimple": [ "m'intéressai", "t'intéressas", "s'intéressa", "nous intéressâmes", "vous intéressâtes", "s'intéressèrent" ],
+  "futurSimple": [ "m'intéresserai", "t'intéresseras", "s'intéressera", "nous intéresserons", "vous intéresserez", "s'intéresseront" ],
+  "passeCompose": [ "me suis intéressé(e)", "t'es intéressé(e)", "s'est intéressé(e)", "nous sommes intéressé(e)s", "vous êtes intéressé(e)(s)", "se sont intéressé(e)s" ],
+  "plusQueParfait": [ "m'étais intéressé(e)", "t'étais intéressé(e)", "s'était intéressé(e)", "nous étions intéressé(e)s", "vous étiez intéressé(e)(s)", "s'étaient intéressé(e)s" ],
+  "passeAnterieur": [ "me fus intéressé(e)", "te fus intéressé(e)", "se fut intéressé(e)", "nous fûmes intéressé(e)s", "vous fûtes intéressé(e)(s)", "se furent intéressé(e)s" ],
+  "futurAnterieur": [ "me serai intéressé(e)", "te seras intéressé(e)", "se sera intéressé(e)", "nous serons intéressé(e)s", "vous serez intéressé(e)(s)", "se seront intéressé(e)s" ],
+  "subjonctifPresent": [ "m'intéresse", "t'intéresses", "s'intéresse", "nous intéressions", "vous intéressiez", "s'intéressent" ],
+  "subjonctifImparfait": [ "m'intéressasse", "t'intéressasses", "s'intéressât", "nous intéressassions", "vous intéressassiez", "s'intéressassent" ],
+  "subjonctifPasse": [ "me sois intéressé(e)", "te sois intéressé(e)", "se soit intéressé(e)", "nous soyons intéressé(e)s", "vous soyez intéressé(e)(s)", "se soient intéressé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse intéressé(e)", "te fusses intéressé(e)", "se fût intéressé(e)", "nous fussions intéressé(e)s", "vous fussiez intéressé(e)(s)", "se fussent intéressé(e)s" ],
+  "conditionnelPresent": [ "m'intéresserais", "t'intéresserais", "s'intéresserait", "nous intéresserions", "vous intéresseriez", "s'intéresseraient" ],
+  "conditionnelPasse": [ "me serais intéressé(e)", "te serais intéressé(e)", "se serait intéressé(e)", "nous serions intéressé(e)s", "vous seriez intéressé(e)(s)", "se seraient intéressé(e)s" ],
+  "conditionnelPasseII": [ "me fusse intéressé(e)", "te fusses intéressé(e)", "se fût intéressé(e)", "nous fussions intéressé(e)s", "vous fussiez intéressé(e)(s)", "se fussent intéressé(e)s" ],
+  "imperatif": [ "–", "intéresse-toi !", "–", "intéressons-nous !", "intéressez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

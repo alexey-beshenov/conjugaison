@@ -1,0 +1,22 @@
+{
+  "infinitif": "se penser",
+  "participePresent": "se pensant",
+  "participePasse": "pensé",
+  "present": [ "me pense", "te penses", "se pense", "nous pensons", "vous pensez", "se pensent" ],
+  "imparfait": [ "me pensais", "te pensais", "se pensait", "nous pensions", "vous pensiez", "se pensaient" ],
+  "passeSimple": [ "me pensai", "te pensas", "se pensa", "nous pensâmes", "vous pensâtes", "se pensèrent" ],
+  "futurSimple": [ "me penserai", "te penseras", "se pensera", "nous penserons", "vous penserez", "se penseront" ],
+  "passeCompose": [ "me suis pensé(e)", "t'es pensé(e)", "s'est pensé(e)", "nous sommes pensé(e)s", "vous êtes pensé(e)(s)", "se sont pensé(e)s" ],
+  "plusQueParfait": [ "m'étais pensé(e)", "t'étais pensé(e)", "s'était pensé(e)", "nous étions pensé(e)s", "vous étiez pensé(e)(s)", "s'étaient pensé(e)s" ],
+  "passeAnterieur": [ "me fus pensé(e)", "te fus pensé(e)", "se fut pensé(e)", "nous fûmes pensé(e)s", "vous fûtes pensé(e)(s)", "se furent pensé(e)s" ],
+  "futurAnterieur": [ "me serai pensé(e)", "te seras pensé(e)", "se sera pensé(e)", "nous serons pensé(e)s", "vous serez pensé(e)(s)", "se seront pensé(e)s" ],
+  "subjonctifPresent": [ "me pense", "te penses", "se pense", "nous pensions", "vous pensiez", "se pensent" ],
+  "subjonctifImparfait": [ "me pensasse", "te pensasses", "se pensât", "nous pensassions", "vous pensassiez", "se pensassent" ],
+  "subjonctifPasse": [ "me sois pensé(e)", "te sois pensé(e)", "se soit pensé(e)", "nous soyons pensé(e)s", "vous soyez pensé(e)(s)", "se soient pensé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse pensé(e)", "te fusses pensé(e)", "se fût pensé(e)", "nous fussions pensé(e)s", "vous fussiez pensé(e)(s)", "se fussent pensé(e)s" ],
+  "conditionnelPresent": [ "me penserais", "te penserais", "se penserait", "nous penserions", "vous penseriez", "se penseraient" ],
+  "conditionnelPasse": [ "me serais pensé(e)", "te serais pensé(e)", "se serait pensé(e)", "nous serions pensé(e)s", "vous seriez pensé(e)(s)", "se seraient pensé(e)s" ],
+  "conditionnelPasseII": [ "me fusse pensé(e)", "te fusses pensé(e)", "se fût pensé(e)", "nous fussions pensé(e)s", "vous fussiez pensé(e)(s)", "se fussent pensé(e)s" ],
+  "imperatif": [ "–", "pense-toi !", "–", "pensons-nous !", "pensez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

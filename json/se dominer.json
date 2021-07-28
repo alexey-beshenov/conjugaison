@@ -1,0 +1,22 @@
+{
+  "infinitif": "se dominer",
+  "participePresent": "se dominant",
+  "participePasse": "dominé",
+  "present": [ "me domine", "te domines", "se domine", "nous dominons", "vous dominez", "se dominent" ],
+  "imparfait": [ "me dominais", "te dominais", "se dominait", "nous dominions", "vous dominiez", "se dominaient" ],
+  "passeSimple": [ "me dominai", "te dominas", "se domina", "nous dominâmes", "vous dominâtes", "se dominèrent" ],
+  "futurSimple": [ "me dominerai", "te domineras", "se dominera", "nous dominerons", "vous dominerez", "se domineront" ],
+  "passeCompose": [ "me suis dominé(e)", "t'es dominé(e)", "s'est dominé(e)", "nous sommes dominé(e)s", "vous êtes dominé(e)(s)", "se sont dominé(e)s" ],
+  "plusQueParfait": [ "m'étais dominé(e)", "t'étais dominé(e)", "s'était dominé(e)", "nous étions dominé(e)s", "vous étiez dominé(e)(s)", "s'étaient dominé(e)s" ],
+  "passeAnterieur": [ "me fus dominé(e)", "te fus dominé(e)", "se fut dominé(e)", "nous fûmes dominé(e)s", "vous fûtes dominé(e)(s)", "se furent dominé(e)s" ],
+  "futurAnterieur": [ "me serai dominé(e)", "te seras dominé(e)", "se sera dominé(e)", "nous serons dominé(e)s", "vous serez dominé(e)(s)", "se seront dominé(e)s" ],
+  "subjonctifPresent": [ "me domine", "te domines", "se domine", "nous dominions", "vous dominiez", "se dominent" ],
+  "subjonctifImparfait": [ "me dominasse", "te dominasses", "se dominât", "nous dominassions", "vous dominassiez", "se dominassent" ],
+  "subjonctifPasse": [ "me sois dominé(e)", "te sois dominé(e)", "se soit dominé(e)", "nous soyons dominé(e)s", "vous soyez dominé(e)(s)", "se soient dominé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse dominé(e)", "te fusses dominé(e)", "se fût dominé(e)", "nous fussions dominé(e)s", "vous fussiez dominé(e)(s)", "se fussent dominé(e)s" ],
+  "conditionnelPresent": [ "me dominerais", "te dominerais", "se dominerait", "nous dominerions", "vous domineriez", "se domineraient" ],
+  "conditionnelPasse": [ "me serais dominé(e)", "te serais dominé(e)", "se serait dominé(e)", "nous serions dominé(e)s", "vous seriez dominé(e)(s)", "se seraient dominé(e)s" ],
+  "conditionnelPasseII": [ "me fusse dominé(e)", "te fusses dominé(e)", "se fût dominé(e)", "nous fussions dominé(e)s", "vous fussiez dominé(e)(s)", "se fussent dominé(e)s" ],
+  "imperatif": [ "–", "domine-toi !", "–", "dominons-nous !", "dominez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

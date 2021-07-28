@@ -1,0 +1,22 @@
+{
+  "infinitif": "réduire",
+  "participePresent": "réduisant",
+  "participePasse": "réduit",
+  "present": [ "réduis", "réduis", "réduit", "réduisons", "réduisez", "réduisent" ],
+  "imparfait": [ "réduisais", "réduisais", "réduisait", "réduisions", "réduisiez", "réduisaient" ],
+  "passeSimple": [ "réduisis", "réduisis", "réduisit", "réduisîmes", "réduisîtes", "réduisirent" ],
+  "futurSimple": [ "réduirai", "réduiras", "réduira", "réduirons", "réduirez", "réduiront" ],
+  "passeCompose": [ "ai réduit", "as réduit", "a réduit", "avons réduit", "avez réduit", "ont réduit" ],
+  "plusQueParfait": [ "avais réduit", "avais réduit", "avait réduit", "avions réduit", "aviez réduit", "avaient réduit" ],
+  "passeAnterieur": [ "eus réduit", "eus réduit", "eut réduit", "eûmes réduit", "eûtes réduit", "eurent réduit" ],
+  "futurAnterieur": [ "aurai réduit", "auras réduit", "aura réduit", "aurons réduit", "aurez réduit", "auront réduit" ],
+  "subjonctifPresent": [ "réduise", "réduises", "réduise", "réduisions", "réduisiez", "réduisent" ],
+  "subjonctifImparfait": [ "réduisisse", "réduisisses", "réduisît", "réduisissions", "réduisissiez", "réduisissent" ],
+  "subjonctifPasse": [ "aie réduit", "aies réduit", "ait réduit", "ayons réduit", "ayez réduit", "aient réduit" ],
+  "subjonctifPlusQueParfait": [ "eusse réduit", "eusses réduit", "eût réduit", "eussions réduit", "eussiez réduit", "eussent réduit" ],
+  "conditionnelPresent": [ "réduirais", "réduirais", "réduirait", "réduirions", "réduiriez", "réduiraient" ],
+  "conditionnelPasse": [ "aurais réduit", "aurais réduit", "aurait réduit", "aurions réduit", "auriez réduit", "auraient réduit" ],
+  "conditionnelPasseII": [ "eusse réduit", "eusses réduit", "eût réduit", "eussions réduit", "eussiez réduit", "eussent réduit" ],
+  "imperatif": [ "–", "réduis !", "–", "réduisons !", "réduisez !", "–" ],
+  "imperatifPasse": [ "–", "aie réduit !", "–", "ayons réduit !", "ayez réduit !", "–" ]
+}

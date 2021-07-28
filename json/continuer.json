@@ -1,0 +1,22 @@
+{
+  "infinitif": "continuer",
+  "participePresent": "continuant",
+  "participePasse": "continué",
+  "present": [ "continue", "continues", "continue", "continuons", "continuez", "continuent" ],
+  "imparfait": [ "continuais", "continuais", "continuait", "continuions", "continuiez", "continuaient" ],
+  "passeSimple": [ "continuai", "continuas", "continua", "continuâmes", "continuâtes", "continuèrent" ],
+  "futurSimple": [ "continuerai", "continueras", "continuera", "continuerons", "continuerez", "continueront" ],
+  "passeCompose": [ "ai continué", "as continué", "a continué", "avons continué", "avez continué", "ont continué" ],
+  "plusQueParfait": [ "avais continué", "avais continué", "avait continué", "avions continué", "aviez continué", "avaient continué" ],
+  "passeAnterieur": [ "eus continué", "eus continué", "eut continué", "eûmes continué", "eûtes continué", "eurent continué" ],
+  "futurAnterieur": [ "aurai continué", "auras continué", "aura continué", "aurons continué", "aurez continué", "auront continué" ],
+  "subjonctifPresent": [ "continue", "continues", "continue", "continuions", "continuiez", "continuent" ],
+  "subjonctifImparfait": [ "continuasse", "continuasses", "continuât", "continuassions", "continuassiez", "continuassent" ],
+  "subjonctifPasse": [ "aie continué", "aies continué", "ait continué", "ayons continué", "ayez continué", "aient continué" ],
+  "subjonctifPlusQueParfait": [ "eusse continué", "eusses continué", "eût continué", "eussions continué", "eussiez continué", "eussent continué" ],
+  "conditionnelPresent": [ "continuerais", "continuerais", "continuerait", "continuerions", "continueriez", "continueraient" ],
+  "conditionnelPasse": [ "aurais continué", "aurais continué", "aurait continué", "aurions continué", "auriez continué", "auraient continué" ],
+  "conditionnelPasseII": [ "eusse continué", "eusses continué", "eût continué", "eussions continué", "eussiez continué", "eussent continué" ],
+  "imperatif": [ "–", "continue !", "–", "continuons !", "continuez !", "–" ],
+  "imperatifPasse": [ "–", "aie continué !", "–", "ayons continué !", "ayez continué !", "–" ]
+}

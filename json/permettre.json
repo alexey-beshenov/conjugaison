@@ -1,0 +1,22 @@
+{
+  "infinitif": "permettre",
+  "participePresent": "permettant",
+  "participePasse": "permis",
+  "present": [ "permets", "permets", "permet", "permettons", "permettez", "permettent" ],
+  "imparfait": [ "permettais", "permettais", "permettait", "permettions", "permettiez", "permettaient" ],
+  "passeSimple": [ "permis", "permis", "permit", "permîmes", "permîtes", "permirent" ],
+  "futurSimple": [ "permettrai", "permettras", "permettra", "permettrons", "permettrez", "permettront" ],
+  "passeCompose": [ "ai permis", "as permis", "a permis", "avons permis", "avez permis", "ont permis" ],
+  "plusQueParfait": [ "avais permis", "avais permis", "avait permis", "avions permis", "aviez permis", "avaient permis" ],
+  "passeAnterieur": [ "eus permis", "eus permis", "eut permis", "eûmes permis", "eûtes permis", "eurent permis" ],
+  "futurAnterieur": [ "aurai permis", "auras permis", "aura permis", "aurons permis", "aurez permis", "auront permis" ],
+  "subjonctifPresent": [ "permette", "permettes", "permette", "permettions", "permettiez", "permettent" ],
+  "subjonctifImparfait": [ "permisse", "permisses", "permît", "permissions", "permissiez", "permissent" ],
+  "subjonctifPasse": [ "aie permis", "aies permis", "ait permis", "ayons permis", "ayez permis", "aient permis" ],
+  "subjonctifPlusQueParfait": [ "eusse permis", "eusses permis", "eût permis", "eussions permis", "eussiez permis", "eussent permis" ],
+  "conditionnelPresent": [ "permettrais", "permettrais", "permettrait", "permettrions", "permettriez", "permettraient" ],
+  "conditionnelPasse": [ "aurais permis", "aurais permis", "aurait permis", "aurions permis", "auriez permis", "auraient permis" ],
+  "conditionnelPasseII": [ "eusse permis", "eusses permis", "eût permis", "eussions permis", "eussiez permis", "eussent permis" ],
+  "imperatif": [ "–", "permets !", "–", "permettons !", "permettez !", "–" ],
+  "imperatifPasse": [ "–", "aie permis !", "–", "ayons permis !", "ayez permis !", "–" ]
+}

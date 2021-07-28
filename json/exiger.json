@@ -1,0 +1,22 @@
+{
+  "infinitif": "exiger",
+  "participePresent": "exigeant",
+  "participePasse": "exigé",
+  "present": [ "exige", "exiges", "exige", "exigeons", "exigez", "exigent" ],
+  "imparfait": [ "exigeais", "exigeais", "exigeait", "exigions", "exigiez", "exigeaient" ],
+  "passeSimple": [ "exigeai", "exigeas", "exigea", "exigeâmes", "exigeâtes", "exigèrent" ],
+  "futurSimple": [ "exigerai", "exigeras", "exigera", "exigerons", "exigerez", "exigeront" ],
+  "passeCompose": [ "ai exigé", "as exigé", "a exigé", "avons exigé", "avez exigé", "ont exigé" ],
+  "plusQueParfait": [ "avais exigé", "avais exigé", "avait exigé", "avions exigé", "aviez exigé", "avaient exigé" ],
+  "passeAnterieur": [ "eus exigé", "eus exigé", "eut exigé", "eûmes exigé", "eûtes exigé", "eurent exigé" ],
+  "futurAnterieur": [ "aurai exigé", "auras exigé", "aura exigé", "aurons exigé", "aurez exigé", "auront exigé" ],
+  "subjonctifPresent": [ "exige", "exiges", "exige", "exigions", "exigiez", "exigent" ],
+  "subjonctifImparfait": [ "exigeasse", "exigeasses", "exigeât", "exigeassions", "exigeassiez", "exigeassent" ],
+  "subjonctifPasse": [ "aie exigé", "aies exigé", "ait exigé", "ayons exigé", "ayez exigé", "aient exigé" ],
+  "subjonctifPlusQueParfait": [ "eusse exigé", "eusses exigé", "eût exigé", "eussions exigé", "eussiez exigé", "eussent exigé" ],
+  "conditionnelPresent": [ "exigerais", "exigerais", "exigerait", "exigerions", "exigeriez", "exigeraient" ],
+  "conditionnelPasse": [ "aurais exigé", "aurais exigé", "aurait exigé", "aurions exigé", "auriez exigé", "auraient exigé" ],
+  "conditionnelPasseII": [ "eusse exigé", "eusses exigé", "eût exigé", "eussions exigé", "eussiez exigé", "eussent exigé" ],
+  "imperatif": [ "–", "exige !", "–", "exigeons !", "exigez !", "–" ],
+  "imperatifPasse": [ "–", "aie exigé !", "–", "ayons exigé !", "ayez exigé !", "–" ]
+}

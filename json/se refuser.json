@@ -1,0 +1,22 @@
+{
+  "infinitif": "se refuser",
+  "participePresent": "se refusant",
+  "participePasse": "refusé",
+  "present": [ "me refuse", "te refuses", "se refuse", "nous refusons", "vous refusez", "se refusent" ],
+  "imparfait": [ "me refusais", "te refusais", "se refusait", "nous refusions", "vous refusiez", "se refusaient" ],
+  "passeSimple": [ "me refusai", "te refusas", "se refusa", "nous refusâmes", "vous refusâtes", "se refusèrent" ],
+  "futurSimple": [ "me refuserai", "te refuseras", "se refusera", "nous refuserons", "vous refuserez", "se refuseront" ],
+  "passeCompose": [ "me suis refusé(e)", "t'es refusé(e)", "s'est refusé(e)", "nous sommes refusé(e)s", "vous êtes refusé(e)(s)", "se sont refusé(e)s" ],
+  "plusQueParfait": [ "m'étais refusé(e)", "t'étais refusé(e)", "s'était refusé(e)", "nous étions refusé(e)s", "vous étiez refusé(e)(s)", "s'étaient refusé(e)s" ],
+  "passeAnterieur": [ "me fus refusé(e)", "te fus refusé(e)", "se fut refusé(e)", "nous fûmes refusé(e)s", "vous fûtes refusé(e)(s)", "se furent refusé(e)s" ],
+  "futurAnterieur": [ "me serai refusé(e)", "te seras refusé(e)", "se sera refusé(e)", "nous serons refusé(e)s", "vous serez refusé(e)(s)", "se seront refusé(e)s" ],
+  "subjonctifPresent": [ "me refuse", "te refuses", "se refuse", "nous refusions", "vous refusiez", "se refusent" ],
+  "subjonctifImparfait": [ "me refusasse", "te refusasses", "se refusât", "nous refusassions", "vous refusassiez", "se refusassent" ],
+  "subjonctifPasse": [ "me sois refusé(e)", "te sois refusé(e)", "se soit refusé(e)", "nous soyons refusé(e)s", "vous soyez refusé(e)(s)", "se soient refusé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse refusé(e)", "te fusses refusé(e)", "se fût refusé(e)", "nous fussions refusé(e)s", "vous fussiez refusé(e)(s)", "se fussent refusé(e)s" ],
+  "conditionnelPresent": [ "me refuserais", "te refuserais", "se refuserait", "nous refuserions", "vous refuseriez", "se refuseraient" ],
+  "conditionnelPasse": [ "me serais refusé(e)", "te serais refusé(e)", "se serait refusé(e)", "nous serions refusé(e)s", "vous seriez refusé(e)(s)", "se seraient refusé(e)s" ],
+  "conditionnelPasseII": [ "me fusse refusé(e)", "te fusses refusé(e)", "se fût refusé(e)", "nous fussions refusé(e)s", "vous fussiez refusé(e)(s)", "se fussent refusé(e)s" ],
+  "imperatif": [ "–", "refuse-toi !", "–", "refusons-nous !", "refusez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "inspirer",
+  "participePresent": "inspirant",
+  "participePasse": "inspiré",
+  "present": [ "inspire", "inspires", "inspire", "inspirons", "inspirez", "inspirent" ],
+  "imparfait": [ "inspirais", "inspirais", "inspirait", "inspirions", "inspiriez", "inspiraient" ],
+  "passeSimple": [ "inspirai", "inspiras", "inspira", "inspirâmes", "inspirâtes", "inspirèrent" ],
+  "futurSimple": [ "inspirerai", "inspireras", "inspirera", "inspirerons", "inspirerez", "inspireront" ],
+  "passeCompose": [ "ai inspiré", "as inspiré", "a inspiré", "avons inspiré", "avez inspiré", "ont inspiré" ],
+  "plusQueParfait": [ "avais inspiré", "avais inspiré", "avait inspiré", "avions inspiré", "aviez inspiré", "avaient inspiré" ],
+  "passeAnterieur": [ "eus inspiré", "eus inspiré", "eut inspiré", "eûmes inspiré", "eûtes inspiré", "eurent inspiré" ],
+  "futurAnterieur": [ "aurai inspiré", "auras inspiré", "aura inspiré", "aurons inspiré", "aurez inspiré", "auront inspiré" ],
+  "subjonctifPresent": [ "inspire", "inspires", "inspire", "inspirions", "inspiriez", "inspirent" ],
+  "subjonctifImparfait": [ "inspirasse", "inspirasses", "inspirât", "inspirassions", "inspirassiez", "inspirassent" ],
+  "subjonctifPasse": [ "aie inspiré", "aies inspiré", "ait inspiré", "ayons inspiré", "ayez inspiré", "aient inspiré" ],
+  "subjonctifPlusQueParfait": [ "eusse inspiré", "eusses inspiré", "eût inspiré", "eussions inspiré", "eussiez inspiré", "eussent inspiré" ],
+  "conditionnelPresent": [ "inspirerais", "inspirerais", "inspirerait", "inspirerions", "inspireriez", "inspireraient" ],
+  "conditionnelPasse": [ "aurais inspiré", "aurais inspiré", "aurait inspiré", "aurions inspiré", "auriez inspiré", "auraient inspiré" ],
+  "conditionnelPasseII": [ "eusse inspiré", "eusses inspiré", "eût inspiré", "eussions inspiré", "eussiez inspiré", "eussent inspiré" ],
+  "imperatif": [ "–", "inspire !", "–", "inspirons !", "inspirez !", "–" ],
+  "imperatifPasse": [ "–", "aie inspiré !", "–", "ayons inspiré !", "ayez inspiré !", "–" ]
+}

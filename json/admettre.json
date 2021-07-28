@@ -1,0 +1,22 @@
+{
+  "infinitif": "admettre",
+  "participePresent": "admettant",
+  "participePasse": "admis",
+  "present": [ "admets", "admets", "admet", "admettons", "admettez", "admettent" ],
+  "imparfait": [ "admettais", "admettais", "admettait", "admettions", "admettiez", "admettaient" ],
+  "passeSimple": [ "admis", "admis", "admit", "admîmes", "admîtes", "admirent" ],
+  "futurSimple": [ "admettrai", "admettras", "admettra", "admettrons", "admettrez", "admettront" ],
+  "passeCompose": [ "ai admis", "as admis", "a admis", "avons admis", "avez admis", "ont admis" ],
+  "plusQueParfait": [ "avais admis", "avais admis", "avait admis", "avions admis", "aviez admis", "avaient admis" ],
+  "passeAnterieur": [ "eus admis", "eus admis", "eut admis", "eûmes admis", "eûtes admis", "eurent admis" ],
+  "futurAnterieur": [ "aurai admis", "auras admis", "aura admis", "aurons admis", "aurez admis", "auront admis" ],
+  "subjonctifPresent": [ "admette", "admettes", "admette", "admettions", "admettiez", "admettent" ],
+  "subjonctifImparfait": [ "admisse", "admisses", "admît", "admissions", "admissiez", "admissent" ],
+  "subjonctifPasse": [ "aie admis", "aies admis", "ait admis", "ayons admis", "ayez admis", "aient admis" ],
+  "subjonctifPlusQueParfait": [ "eusse admis", "eusses admis", "eût admis", "eussions admis", "eussiez admis", "eussent admis" ],
+  "conditionnelPresent": [ "admettrais", "admettrais", "admettrait", "admettrions", "admettriez", "admettraient" ],
+  "conditionnelPasse": [ "aurais admis", "aurais admis", "aurait admis", "aurions admis", "auriez admis", "auraient admis" ],
+  "conditionnelPasseII": [ "eusse admis", "eusses admis", "eût admis", "eussions admis", "eussiez admis", "eussent admis" ],
+  "imperatif": [ "–", "admets !", "–", "admettons !", "admettez !", "–" ],
+  "imperatifPasse": [ "–", "aie admis !", "–", "ayons admis !", "ayez admis !", "–" ]
+}

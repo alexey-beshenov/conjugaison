@@ -1,0 +1,22 @@
+{
+  "infinitif": "se payer",
+  "participePresent": "se payant",
+  "participePasse": "payé",
+  "present": [ "me paie, paye", "te paies, payes", "se paie, paye", "nous payons", "vous payez", "se paient, payent" ],
+  "imparfait": [ "me payais", "te payais", "se payait", "nous payions", "vous payiez", "se payaient" ],
+  "passeSimple": [ "me payai", "te payas", "se paya", "nous payâmes", "vous payâtes", "se payèrent" ],
+  "futurSimple": [ "me paierai, payerai", "te paieras, payeras", "se paiera, payera", "nous paierons, payerons", "vous paierez, payerez", "se paieront, payeront" ],
+  "passeCompose": [ "me suis payé(e)", "t'es payé(e)", "s'est payé(e)", "nous sommes payé(e)s", "vous êtes payé(e)(s)", "se sont payé(e)s" ],
+  "plusQueParfait": [ "m'étais payé(e)", "t'étais payé(e)", "s'était payé(e)", "nous étions payé(e)s", "vous étiez payé(e)(s)", "s'étaient payé(e)s" ],
+  "passeAnterieur": [ "me fus payé(e)", "te fus payé(e)", "se fut payé(e)", "nous fûmes payé(e)s", "vous fûtes payé(e)(s)", "se furent payé(e)s" ],
+  "futurAnterieur": [ "me serai payé(e)", "te seras payé(e)", "se sera payé(e)", "nous serons payé(e)s", "vous serez payé(e)(s)", "se seront payé(e)s" ],
+  "subjonctifPresent": [ "me paie, paye", "te paies, payes", "se paie, paye", "nous payions", "vous payiez", "se paient, payent" ],
+  "subjonctifImparfait": [ "me payasse", "te payasses", "se payât", "nous payassions", "vous payassiez", "se payassent" ],
+  "subjonctifPasse": [ "me sois payé(e)", "te sois payé(e)", "se soit payé(e)", "nous soyons payé(e)s", "vous soyez payé(e)(s)", "se soient payé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse payé(e)", "te fusses payé(e)", "se fût payé(e)", "nous fussions payé(e)s", "vous fussiez payé(e)(s)", "se fussent payé(e)s" ],
+  "conditionnelPresent": [ "me paierais, payerais", "te paierais, payerais", "se paierait, payerait", "nous paierions, payerions", "vous paieriez, payeriez", "se paieraient, payeraient" ],
+  "conditionnelPasse": [ "me serais payé(e)", "te serais payé(e)", "se serait payé(e)", "nous serions payé(e)s", "vous seriez payé(e)(s)", "se seraient payé(e)s" ],
+  "conditionnelPasseII": [ "me fusse payé(e)", "te fusses payé(e)", "se fût payé(e)", "nous fussions payé(e)s", "vous fussiez payé(e)(s)", "se fussent payé(e)s" ],
+  "imperatif": [ "–", "paie-toi, paye-toi !", "–", "payons-nous !", "payez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

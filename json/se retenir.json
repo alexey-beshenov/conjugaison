@@ -1,0 +1,22 @@
+{
+  "infinitif": "se retenir",
+  "participePresent": "se retenant",
+  "participePasse": "retenu",
+  "present": [ "me retiens", "te retiens", "se retient", "nous retenons", "vous retenez", "se retiennent" ],
+  "imparfait": [ "me retenais", "te retenais", "se retenait", "nous retenions", "vous reteniez", "se retenaient" ],
+  "passeSimple": [ "me retins", "te retins", "se retint", "nous retînmes", "vous retîntes", "se retinrent" ],
+  "futurSimple": [ "me retiendrai", "te retiendras", "se retiendra", "nous retiendrons", "vous retiendrez", "se retiendront" ],
+  "passeCompose": [ "me suis retenu(e)", "t'es retenu(e)", "s'est retenu(e)", "nous sommes retenu(e)s", "vous êtes retenu(e)(s)", "se sont retenu(e)s" ],
+  "plusQueParfait": [ "m'étais retenu(e)", "t'étais retenu(e)", "s'était retenu(e)", "nous étions retenu(e)s", "vous étiez retenu(e)(s)", "s'étaient retenu(e)s" ],
+  "passeAnterieur": [ "me fus retenu(e)", "te fus retenu(e)", "se fut retenu(e)", "nous fûmes retenu(e)s", "vous fûtes retenu(e)(s)", "se furent retenu(e)s" ],
+  "futurAnterieur": [ "me serai retenu(e)", "te seras retenu(e)", "se sera retenu(e)", "nous serons retenu(e)s", "vous serez retenu(e)(s)", "se seront retenu(e)s" ],
+  "subjonctifPresent": [ "me retienne", "te retiennes", "se retienne", "nous retenions", "vous reteniez", "se retiennent" ],
+  "subjonctifImparfait": [ "me retinsse", "te retinsses", "se retînt", "nous retinssions", "vous retinssiez", "se retinssent" ],
+  "subjonctifPasse": [ "me sois retenu(e)", "te sois retenu(e)", "se soit retenu(e)", "nous soyons retenu(e)s", "vous soyez retenu(e)(s)", "se soient retenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse retenu(e)", "te fusses retenu(e)", "se fût retenu(e)", "nous fussions retenu(e)s", "vous fussiez retenu(e)(s)", "se fussent retenu(e)s" ],
+  "conditionnelPresent": [ "me retiendrais", "te retiendrais", "se retiendrait", "nous retiendrions", "vous retiendriez", "se retiendraient" ],
+  "conditionnelPasse": [ "me serais retenu(e)", "te serais retenu(e)", "se serait retenu(e)", "nous serions retenu(e)s", "vous seriez retenu(e)(s)", "se seraient retenu(e)s" ],
+  "conditionnelPasseII": [ "me fusse retenu(e)", "te fusses retenu(e)", "se fût retenu(e)", "nous fussions retenu(e)s", "vous fussiez retenu(e)(s)", "se fussent retenu(e)s" ],
+  "imperatif": [ "–", "retiens-toi !", "–", "retenons-nous !", "retenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

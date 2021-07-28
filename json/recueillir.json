@@ -1,0 +1,22 @@
+{
+  "infinitif": "recueillir",
+  "participePresent": "recueillant",
+  "participePasse": "recueilli",
+  "present": [ "recueille", "recueilles", "recueille", "recueillons", "recueillez", "recueillent" ],
+  "imparfait": [ "recueillais", "recueillais", "recueillait", "recueillions", "recueilliez", "recueillaient" ],
+  "passeSimple": [ "recueillis", "recueillis", "recueillit", "recueillîmes", "recueillîtes", "recueillirent" ],
+  "futurSimple": [ "recueillerai", "recueilleras", "recueillera", "recueillerons", "recueillerez", "recueilleront" ],
+  "passeCompose": [ "ai recueilli", "as recueilli", "a recueilli", "avons recueilli", "avez recueilli", "ont recueilli" ],
+  "plusQueParfait": [ "avais recueilli", "avais recueilli", "avait recueilli", "avions recueilli", "aviez recueilli", "avaient recueilli" ],
+  "passeAnterieur": [ "eus recueilli", "eus recueilli", "eut recueilli", "eûmes recueilli", "eûtes recueilli", "eurent recueilli" ],
+  "futurAnterieur": [ "aurai recueilli", "auras recueilli", "aura recueilli", "aurons recueilli", "aurez recueilli", "auront recueilli" ],
+  "subjonctifPresent": [ "recueille", "recueilles", "recueille", "recueillions", "recueilliez", "recueillent" ],
+  "subjonctifImparfait": [ "recueillisse", "recueillisses", "recueillît", "recueillissions", "recueillissiez", "recueillissent" ],
+  "subjonctifPasse": [ "aie recueilli", "aies recueilli", "ait recueilli", "ayons recueilli", "ayez recueilli", "aient recueilli" ],
+  "subjonctifPlusQueParfait": [ "eusse recueilli", "eusses recueilli", "eût recueilli", "eussions recueilli", "eussiez recueilli", "eussent recueilli" ],
+  "conditionnelPresent": [ "recueillerais", "recueillerais", "recueillerait", "recueillerions", "recueilleriez", "recueilleraient" ],
+  "conditionnelPasse": [ "aurais recueilli", "aurais recueilli", "aurait recueilli", "aurions recueilli", "auriez recueilli", "auraient recueilli" ],
+  "conditionnelPasseII": [ "eusse recueilli", "eusses recueilli", "eût recueilli", "eussions recueilli", "eussiez recueilli", "eussent recueilli" ],
+  "imperatif": [ "–", "recueille !", "–", "recueillons !", "recueillez !", "–" ],
+  "imperatifPasse": [ "–", "aie recueilli !", "–", "ayons recueilli !", "ayez recueilli !", "–" ]
+}

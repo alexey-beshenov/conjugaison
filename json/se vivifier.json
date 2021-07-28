@@ -1,0 +1,22 @@
+{
+  "infinitif": "se vivifier",
+  "participePresent": "se vivifiant",
+  "participePasse": "vivifié",
+  "present": [ "me vivifie", "te vivifies", "se vivifie", "nous vivifions", "vous vivifiez", "se vivifient" ],
+  "imparfait": [ "me vivifiais", "te vivifiais", "se vivifiait", "nous vivifiions", "vous vivifiiez", "se vivifiaient" ],
+  "passeSimple": [ "me vivifiai", "te vivifias", "se vivifia", "nous vivifiâmes", "vous vivifiâtes", "se vivifièrent" ],
+  "futurSimple": [ "me vivifierai", "te vivifieras", "se vivifiera", "nous vivifierons", "vous vivifierez", "se vivifieront" ],
+  "passeCompose": [ "me suis vivifié(e)", "t'es vivifié(e)", "s'est vivifié(e)", "nous sommes vivifié(e)s", "vous êtes vivifié(e)(s)", "se sont vivifié(e)s" ],
+  "plusQueParfait": [ "m'étais vivifié(e)", "t'étais vivifié(e)", "s'était vivifié(e)", "nous étions vivifié(e)s", "vous étiez vivifié(e)(s)", "s'étaient vivifié(e)s" ],
+  "passeAnterieur": [ "me fus vivifié(e)", "te fus vivifié(e)", "se fut vivifié(e)", "nous fûmes vivifié(e)s", "vous fûtes vivifié(e)(s)", "se furent vivifié(e)s" ],
+  "futurAnterieur": [ "me serai vivifié(e)", "te seras vivifié(e)", "se sera vivifié(e)", "nous serons vivifié(e)s", "vous serez vivifié(e)(s)", "se seront vivifié(e)s" ],
+  "subjonctifPresent": [ "me vivifie", "te vivifies", "se vivifie", "nous vivifiions", "vous vivifiiez", "se vivifient" ],
+  "subjonctifImparfait": [ "me vivifiasse", "te vivifiasses", "se vivifiât", "nous vivifiassions", "vous vivifiassiez", "se vivifiassent" ],
+  "subjonctifPasse": [ "me sois vivifié(e)", "te sois vivifié(e)", "se soit vivifié(e)", "nous soyons vivifié(e)s", "vous soyez vivifié(e)(s)", "se soient vivifié(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse vivifié(e)", "te fusses vivifié(e)", "se fût vivifié(e)", "nous fussions vivifié(e)s", "vous fussiez vivifié(e)(s)", "se fussent vivifié(e)s" ],
+  "conditionnelPresent": [ "me vivifierais", "te vivifierais", "se vivifierait", "nous vivifierions", "vous vivifieriez", "se vivifieraient" ],
+  "conditionnelPasse": [ "me serais vivifié(e)", "te serais vivifié(e)", "se serait vivifié(e)", "nous serions vivifié(e)s", "vous seriez vivifié(e)(s)", "se seraient vivifié(e)s" ],
+  "conditionnelPasseII": [ "me fusse vivifié(e)", "te fusses vivifié(e)", "se fût vivifié(e)", "nous fussions vivifié(e)s", "vous fussiez vivifié(e)(s)", "se fussent vivifié(e)s" ],
+  "imperatif": [ "–", "vivifie-toi !", "–", "vivifions-nous !", "vivifiez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

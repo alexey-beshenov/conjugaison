@@ -1,0 +1,22 @@
+{
+  "infinitif": "conclure",
+  "participePresent": "concluant",
+  "participePasse": "conclu",
+  "present": [ "conclus", "conclus", "conclut", "concluons", "concluez", "concluent" ],
+  "imparfait": [ "concluais", "concluais", "concluait", "concluions", "concluiez", "concluaient" ],
+  "passeSimple": [ "conclus", "conclus", "conclut", "conclûmes", "conclûtes", "conclurent" ],
+  "futurSimple": [ "conclurai", "concluras", "conclura", "conclurons", "conclurez", "concluront" ],
+  "passeCompose": [ "ai conclu", "as conclu", "a conclu", "avons conclu", "avez conclu", "ont conclu" ],
+  "plusQueParfait": [ "avais conclu", "avais conclu", "avait conclu", "avions conclu", "aviez conclu", "avaient conclu" ],
+  "passeAnterieur": [ "eus conclu", "eus conclu", "eut conclu", "eûmes conclu", "eûtes conclu", "eurent conclu" ],
+  "futurAnterieur": [ "aurai conclu", "auras conclu", "aura conclu", "aurons conclu", "aurez conclu", "auront conclu" ],
+  "subjonctifPresent": [ "conclue", "conclues", "conclue", "concluions", "concluiez", "concluent" ],
+  "subjonctifImparfait": [ "conclusse", "conclusses", "conclût", "conclussions", "conclussiez", "conclussent" ],
+  "subjonctifPasse": [ "aie conclu", "aies conclu", "ait conclu", "ayons conclu", "ayez conclu", "aient conclu" ],
+  "subjonctifPlusQueParfait": [ "eusse conclu", "eusses conclu", "eût conclu", "eussions conclu", "eussiez conclu", "eussent conclu" ],
+  "conditionnelPresent": [ "conclurais", "conclurais", "conclurait", "conclurions", "concluriez", "concluraient" ],
+  "conditionnelPasse": [ "aurais conclu", "aurais conclu", "aurait conclu", "aurions conclu", "auriez conclu", "auraient conclu" ],
+  "conditionnelPasseII": [ "eusse conclu", "eusses conclu", "eût conclu", "eussions conclu", "eussiez conclu", "eussent conclu" ],
+  "imperatif": [ "–", "conclus !", "–", "concluons !", "concluez !", "–" ],
+  "imperatifPasse": [ "–", "aie conclu !", "–", "ayons conclu !", "ayez conclu !", "–" ]
+}

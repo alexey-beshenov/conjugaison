@@ -1,0 +1,22 @@
+{
+  "infinitif": "employer",
+  "participePresent": "employant",
+  "participePasse": "employé",
+  "present": [ "emploie", "emploies", "emploie", "employons", "employez", "emploient" ],
+  "imparfait": [ "employais", "employais", "employait", "employions", "employiez", "employaient" ],
+  "passeSimple": [ "employai", "employas", "employa", "employâmes", "employâtes", "employèrent" ],
+  "futurSimple": [ "emploierai", "emploieras", "emploiera", "emploierons", "emploierez", "emploieront" ],
+  "passeCompose": [ "ai employé", "as employé", "a employé", "avons employé", "avez employé", "ont employé" ],
+  "plusQueParfait": [ "avais employé", "avais employé", "avait employé", "avions employé", "aviez employé", "avaient employé" ],
+  "passeAnterieur": [ "eus employé", "eus employé", "eut employé", "eûmes employé", "eûtes employé", "eurent employé" ],
+  "futurAnterieur": [ "aurai employé", "auras employé", "aura employé", "aurons employé", "aurez employé", "auront employé" ],
+  "subjonctifPresent": [ "emploie", "emploies", "emploie", "employions", "employiez", "emploient" ],
+  "subjonctifImparfait": [ "employasse", "employasses", "employât", "employassions", "employassiez", "employassent" ],
+  "subjonctifPasse": [ "aie employé", "aies employé", "ait employé", "ayons employé", "ayez employé", "aient employé" ],
+  "subjonctifPlusQueParfait": [ "eusse employé", "eusses employé", "eût employé", "eussions employé", "eussiez employé", "eussent employé" ],
+  "conditionnelPresent": [ "emploierais", "emploierais", "emploierait", "emploierions", "emploieriez", "emploieraient" ],
+  "conditionnelPasse": [ "aurais employé", "aurais employé", "aurait employé", "aurions employé", "auriez employé", "auraient employé" ],
+  "conditionnelPasseII": [ "eusse employé", "eusses employé", "eût employé", "eussions employé", "eussiez employé", "eussent employé" ],
+  "imperatif": [ "–", "emploie !", "–", "employons !", "employez !", "–" ],
+  "imperatifPasse": [ "–", "aie employé !", "–", "ayons employé !", "ayez employé !", "–" ]
+}

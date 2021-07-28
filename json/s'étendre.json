@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'étendre",
+  "participePresent": "s'étendant",
+  "participePasse": "étendu",
+  "present": [ "m'étends", "t'étends", "s'étend", "nous étendons", "vous étendez", "s'étendent" ],
+  "imparfait": [ "m'étendais", "t'étendais", "s'étendait", "nous étendions", "vous étendiez", "s'étendaient" ],
+  "passeSimple": [ "m'étendis", "t'étendis", "s'étendit", "nous étendîmes", "vous étendîtes", "s'étendirent" ],
+  "futurSimple": [ "m'étendrai", "t'étendras", "s'étendra", "nous étendrons", "vous étendrez", "s'étendront" ],
+  "passeCompose": [ "me suis étendu(e)", "t'es étendu(e)", "s'est étendu(e)", "nous sommes étendu(e)s", "vous êtes étendu(e)(s)", "se sont étendu(e)s" ],
+  "plusQueParfait": [ "m'étais étendu(e)", "t'étais étendu(e)", "s'était étendu(e)", "nous étions étendu(e)s", "vous étiez étendu(e)(s)", "s'étaient étendu(e)s" ],
+  "passeAnterieur": [ "me fus étendu(e)", "te fus étendu(e)", "se fut étendu(e)", "nous fûmes étendu(e)s", "vous fûtes étendu(e)(s)", "se furent étendu(e)s" ],
+  "futurAnterieur": [ "me serai étendu(e)", "te seras étendu(e)", "se sera étendu(e)", "nous serons étendu(e)s", "vous serez étendu(e)(s)", "se seront étendu(e)s" ],
+  "subjonctifPresent": [ "m'étende", "t'étendes", "s'étende", "nous étendions", "vous étendiez", "s'étendent" ],
+  "subjonctifImparfait": [ "m'étendisse", "t'étendisses", "s'étendît", "nous étendissions", "vous étendissiez", "s'étendissent" ],
+  "subjonctifPasse": [ "me sois étendu(e)", "te sois étendu(e)", "se soit étendu(e)", "nous soyons étendu(e)s", "vous soyez étendu(e)(s)", "se soient étendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse étendu(e)", "te fusses étendu(e)", "se fût étendu(e)", "nous fussions étendu(e)s", "vous fussiez étendu(e)(s)", "se fussent étendu(e)s" ],
+  "conditionnelPresent": [ "m'étendrais", "t'étendrais", "s'étendrait", "nous étendrions", "vous étendriez", "s'étendraient" ],
+  "conditionnelPasse": [ "me serais étendu(e)", "te serais étendu(e)", "se serait étendu(e)", "nous serions étendu(e)s", "vous seriez étendu(e)(s)", "se seraient étendu(e)s" ],
+  "conditionnelPasseII": [ "me fusse étendu(e)", "te fusses étendu(e)", "se fût étendu(e)", "nous fussions étendu(e)s", "vous fussiez étendu(e)(s)", "se fussent étendu(e)s" ],
+  "imperatif": [ "–", "étends-toi !", "–", "étendons-nous !", "étendez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

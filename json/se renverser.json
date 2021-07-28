@@ -1,0 +1,22 @@
+{
+  "infinitif": "se renverser",
+  "participePresent": "se renversant",
+  "participePasse": "renversé",
+  "present": [ "me renverse", "te renverses", "se renverse", "nous renversons", "vous renversez", "se renversent" ],
+  "imparfait": [ "me renversais", "te renversais", "se renversait", "nous renversions", "vous renversiez", "se renversaient" ],
+  "passeSimple": [ "me renversai", "te renversas", "se renversa", "nous renversâmes", "vous renversâtes", "se renversèrent" ],
+  "futurSimple": [ "me renverserai", "te renverseras", "se renversera", "nous renverserons", "vous renverserez", "se renverseront" ],
+  "passeCompose": [ "me suis renversé(e)", "t'es renversé(e)", "s'est renversé(e)", "nous sommes renversé(e)s", "vous êtes renversé(e)(s)", "se sont renversé(e)s" ],
+  "plusQueParfait": [ "m'étais renversé(e)", "t'étais renversé(e)", "s'était renversé(e)", "nous étions renversé(e)s", "vous étiez renversé(e)(s)", "s'étaient renversé(e)s" ],
+  "passeAnterieur": [ "me fus renversé(e)", "te fus renversé(e)", "se fut renversé(e)", "nous fûmes renversé(e)s", "vous fûtes renversé(e)(s)", "se furent renversé(e)s" ],
+  "futurAnterieur": [ "me serai renversé(e)", "te seras renversé(e)", "se sera renversé(e)", "nous serons renversé(e)s", "vous serez renversé(e)(s)", "se seront renversé(e)s" ],
+  "subjonctifPresent": [ "me renverse", "te renverses", "se renverse", "nous renversions", "vous renversiez", "se renversent" ],
+  "subjonctifImparfait": [ "me renversasse", "te renversasses", "se renversât", "nous renversassions", "vous renversassiez", "se renversassent" ],
+  "subjonctifPasse": [ "me sois renversé(e)", "te sois renversé(e)", "se soit renversé(e)", "nous soyons renversé(e)s", "vous soyez renversé(e)(s)", "se soient renversé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse renversé(e)", "te fusses renversé(e)", "se fût renversé(e)", "nous fussions renversé(e)s", "vous fussiez renversé(e)(s)", "se fussent renversé(e)s" ],
+  "conditionnelPresent": [ "me renverserais", "te renverserais", "se renverserait", "nous renverserions", "vous renverseriez", "se renverseraient" ],
+  "conditionnelPasse": [ "me serais renversé(e)", "te serais renversé(e)", "se serait renversé(e)", "nous serions renversé(e)s", "vous seriez renversé(e)(s)", "se seraient renversé(e)s" ],
+  "conditionnelPasseII": [ "me fusse renversé(e)", "te fusses renversé(e)", "se fût renversé(e)", "nous fussions renversé(e)s", "vous fussiez renversé(e)(s)", "se fussent renversé(e)s" ],
+  "imperatif": [ "–", "renverse-toi !", "–", "renversons-nous !", "renversez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

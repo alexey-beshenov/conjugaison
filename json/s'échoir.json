@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'échoir",
+  "participePresent": "s'échéant",
+  "participePasse": "échu",
+  "present": [ "–", "–", "s'échoit, échet", "–", "–", "s'échoient, échéent" ],
+  "imparfait": [ "–", "–", "s'échoyait", "–", "–", "s'échoyaient" ],
+  "passeSimple": [ "–", "–", "s'échut", "–", "–", "s'échurent" ],
+  "futurSimple": [ "–", "–", "s'échoira, écherra", "–", "–", "s'échoiront, écherront" ],
+  "passeCompose": [ "–", "–", "s'est échu(e)", "–", "–", "se sont échu(e)s" ],
+  "plusQueParfait": [ "–", "–", "s'était échu(e)", "–", "–", "s'étaient échu(e)s" ],
+  "passeAnterieur": [ "–", "–", "se fut échu(e)", "–", "–", "se furent échu(e)s" ],
+  "futurAnterieur": [ "–", "–", "se sera échu(e)", "–", "–", "se seront échu(e)s" ],
+  "subjonctifPresent": [ "–", "–", "s'échoie", "–", "–", "s'échoient" ],
+  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPasse": [ "–", "–", "se soit échu(e)", "–", "–", "se soient échu(e)s" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "se fût échu(e)", "–", "–", "se fussent échu(e)s" ],
+  "conditionnelPresent": [ "–", "–", "s'échoirait, écherrait", "–", "–", "s'échoiraient, écherraient" ],
+  "conditionnelPasse": [ "–", "–", "se serait échu(e)", "–", "–", "se seraient échu(e)s" ],
+  "conditionnelPasseII": [ "–", "–", "se fût échu(e)", "–", "–", "se fussent échu(e)s" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

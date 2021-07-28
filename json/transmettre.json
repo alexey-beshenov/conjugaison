@@ -1,0 +1,22 @@
+{
+  "infinitif": "transmettre",
+  "participePresent": "transmettant",
+  "participePasse": "transmis",
+  "present": [ "transmets", "transmets", "transmet", "transmettons", "transmettez", "transmettent" ],
+  "imparfait": [ "transmettais", "transmettais", "transmettait", "transmettions", "transmettiez", "transmettaient" ],
+  "passeSimple": [ "transmis", "transmis", "transmit", "transmîmes", "transmîtes", "transmirent" ],
+  "futurSimple": [ "transmettrai", "transmettras", "transmettra", "transmettrons", "transmettrez", "transmettront" ],
+  "passeCompose": [ "ai transmis", "as transmis", "a transmis", "avons transmis", "avez transmis", "ont transmis" ],
+  "plusQueParfait": [ "avais transmis", "avais transmis", "avait transmis", "avions transmis", "aviez transmis", "avaient transmis" ],
+  "passeAnterieur": [ "eus transmis", "eus transmis", "eut transmis", "eûmes transmis", "eûtes transmis", "eurent transmis" ],
+  "futurAnterieur": [ "aurai transmis", "auras transmis", "aura transmis", "aurons transmis", "aurez transmis", "auront transmis" ],
+  "subjonctifPresent": [ "transmette", "transmettes", "transmette", "transmettions", "transmettiez", "transmettent" ],
+  "subjonctifImparfait": [ "transmisse", "transmisses", "transmît", "transmissions", "transmissiez", "transmissent" ],
+  "subjonctifPasse": [ "aie transmis", "aies transmis", "ait transmis", "ayons transmis", "ayez transmis", "aient transmis" ],
+  "subjonctifPlusQueParfait": [ "eusse transmis", "eusses transmis", "eût transmis", "eussions transmis", "eussiez transmis", "eussent transmis" ],
+  "conditionnelPresent": [ "transmettrais", "transmettrais", "transmettrait", "transmettrions", "transmettriez", "transmettraient" ],
+  "conditionnelPasse": [ "aurais transmis", "aurais transmis", "aurait transmis", "aurions transmis", "auriez transmis", "auraient transmis" ],
+  "conditionnelPasseII": [ "eusse transmis", "eusses transmis", "eût transmis", "eussions transmis", "eussiez transmis", "eussent transmis" ],
+  "imperatif": [ "–", "transmets !", "–", "transmettons !", "transmettez !", "–" ],
+  "imperatifPasse": [ "–", "aie transmis !", "–", "ayons transmis !", "ayez transmis !", "–" ]
+}

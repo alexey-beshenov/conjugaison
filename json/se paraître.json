@@ -1,0 +1,22 @@
+{
+  "infinitif": "se paraître",
+  "participePresent": "se paraissant",
+  "participePasse": "paru",
+  "present": [ "me parais", "te parais", "se paraît", "nous paraissons", "vous paraissez", "se paraissent" ],
+  "imparfait": [ "me paraissais", "te paraissais", "se paraissait", "nous paraissions", "vous paraissiez", "se paraissaient" ],
+  "passeSimple": [ "me parus", "te parus", "se parut", "nous parûmes", "vous parûtes", "se parurent" ],
+  "futurSimple": [ "me paraîtrai", "te paraîtras", "se paraîtra", "nous paraîtrons", "vous paraîtrez", "se paraîtront" ],
+  "passeCompose": [ "me suis paru(e)", "t'es paru(e)", "s'est paru(e)", "nous sommes paru(e)s", "vous êtes paru(e)(s)", "se sont paru(e)s" ],
+  "plusQueParfait": [ "m'étais paru(e)", "t'étais paru(e)", "s'était paru(e)", "nous étions paru(e)s", "vous étiez paru(e)(s)", "s'étaient paru(e)s" ],
+  "passeAnterieur": [ "me fus paru(e)", "te fus paru(e)", "se fut paru(e)", "nous fûmes paru(e)s", "vous fûtes paru(e)(s)", "se furent paru(e)s" ],
+  "futurAnterieur": [ "me serai paru(e)", "te seras paru(e)", "se sera paru(e)", "nous serons paru(e)s", "vous serez paru(e)(s)", "se seront paru(e)s" ],
+  "subjonctifPresent": [ "me paraisse", "te paraisses", "se paraisse", "nous paraissions", "vous paraissiez", "se paraissent" ],
+  "subjonctifImparfait": [ "me parusse", "te parusses", "se parût", "nous parussions", "vous parussiez", "se parussent" ],
+  "subjonctifPasse": [ "me sois paru(e)", "te sois paru(e)", "se soit paru(e)", "nous soyons paru(e)s", "vous soyez paru(e)(s)", "se soient paru(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse paru(e)", "te fusses paru(e)", "se fût paru(e)", "nous fussions paru(e)s", "vous fussiez paru(e)(s)", "se fussent paru(e)s" ],
+  "conditionnelPresent": [ "me paraîtrais", "te paraîtrais", "se paraîtrait", "nous paraîtrions", "vous paraîtriez", "se paraîtraient" ],
+  "conditionnelPasse": [ "me serais paru(e)", "te serais paru(e)", "se serait paru(e)", "nous serions paru(e)s", "vous seriez paru(e)(s)", "se seraient paru(e)s" ],
+  "conditionnelPasseII": [ "me fusse paru(e)", "te fusses paru(e)", "se fût paru(e)", "nous fussions paru(e)s", "vous fussiez paru(e)(s)", "se fussent paru(e)s" ],
+  "imperatif": [ "–", "parais-toi !", "–", "paraissons-nous !", "paraissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

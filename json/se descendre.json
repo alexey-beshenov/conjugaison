@@ -1,0 +1,22 @@
+{
+  "infinitif": "se descendre",
+  "participePresent": "se descendant",
+  "participePasse": "descendu",
+  "present": [ "me descends", "te descends", "se descend", "nous descendons", "vous descendez", "se descendent" ],
+  "imparfait": [ "me descendais", "te descendais", "se descendait", "nous descendions", "vous descendiez", "se descendaient" ],
+  "passeSimple": [ "me descendis", "te descendis", "se descendit", "nous descendîmes", "vous descendîtes", "se descendirent" ],
+  "futurSimple": [ "me descendrai", "te descendras", "se descendra", "nous descendrons", "vous descendrez", "se descendront" ],
+  "passeCompose": [ "me suis descendu(e)", "t'es descendu(e)", "s'est descendu(e)", "nous sommes descendu(e)s", "vous êtes descendu(e)(s)", "se sont descendu(e)s" ],
+  "plusQueParfait": [ "m'étais descendu(e)", "t'étais descendu(e)", "s'était descendu(e)", "nous étions descendu(e)s", "vous étiez descendu(e)(s)", "s'étaient descendu(e)s" ],
+  "passeAnterieur": [ "me fus descendu(e)", "te fus descendu(e)", "se fut descendu(e)", "nous fûmes descendu(e)s", "vous fûtes descendu(e)(s)", "se furent descendu(e)s" ],
+  "futurAnterieur": [ "me serai descendu(e)", "te seras descendu(e)", "se sera descendu(e)", "nous serons descendu(e)s", "vous serez descendu(e)(s)", "se seront descendu(e)s" ],
+  "subjonctifPresent": [ "me descende", "te descendes", "se descende", "nous descendions", "vous descendiez", "se descendent" ],
+  "subjonctifImparfait": [ "me descendisse", "te descendisses", "se descendît", "nous descendissions", "vous descendissiez", "se descendissent" ],
+  "subjonctifPasse": [ "me sois descendu(e)", "te sois descendu(e)", "se soit descendu(e)", "nous soyons descendu(e)s", "vous soyez descendu(e)(s)", "se soient descendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse descendu(e)", "te fusses descendu(e)", "se fût descendu(e)", "nous fussions descendu(e)s", "vous fussiez descendu(e)(s)", "se fussent descendu(e)s" ],
+  "conditionnelPresent": [ "me descendrais", "te descendrais", "se descendrait", "nous descendrions", "vous descendriez", "se descendraient" ],
+  "conditionnelPasse": [ "me serais descendu(e)", "te serais descendu(e)", "se serait descendu(e)", "nous serions descendu(e)s", "vous seriez descendu(e)(s)", "se seraient descendu(e)s" ],
+  "conditionnelPasseII": [ "me fusse descendu(e)", "te fusses descendu(e)", "se fût descendu(e)", "nous fussions descendu(e)s", "vous fussiez descendu(e)(s)", "se fussent descendu(e)s" ],
+  "imperatif": [ "–", "descends-toi !", "–", "descendons-nous !", "descendez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se revaloir",
+  "participePresent": "se revalant",
+  "participePasse": "revalu",
+  "present": [ "me revaux", "te revaux", "se revaut", "nous revalons", "vous revalez", "se revalent" ],
+  "imparfait": [ "me revalais", "te revalais", "se revalait", "nous revalions", "vous revaliez", "se revalaient" ],
+  "passeSimple": [ "me revalus", "te revalus", "se revalut", "nous revalûmes", "vous revalûtes", "se revalurent" ],
+  "futurSimple": [ "me revaudrai", "te revaudras", "se revaudra", "nous revaudrons", "vous revaudrez", "se revaudront" ],
+  "passeCompose": [ "me suis revalu(e)", "t'es revalu(e)", "s'est revalu(e)", "nous sommes revalu(e)s", "vous êtes revalu(e)(s)", "se sont revalu(e)s" ],
+  "plusQueParfait": [ "m'étais revalu(e)", "t'étais revalu(e)", "s'était revalu(e)", "nous étions revalu(e)s", "vous étiez revalu(e)(s)", "s'étaient revalu(e)s" ],
+  "passeAnterieur": [ "me fus revalu(e)", "te fus revalu(e)", "se fut revalu(e)", "nous fûmes revalu(e)s", "vous fûtes revalu(e)(s)", "se furent revalu(e)s" ],
+  "futurAnterieur": [ "me serai revalu(e)", "te seras revalu(e)", "se sera revalu(e)", "nous serons revalu(e)s", "vous serez revalu(e)(s)", "se seront revalu(e)s" ],
+  "subjonctifPresent": [ "me revaille", "te revailles", "se revaille", "nous revalions", "vous revaliez", "se revaillent" ],
+  "subjonctifImparfait": [ "me revalusse", "te revalusses", "se revalût", "nous revalussions", "vous revalussiez", "se revalussent" ],
+  "subjonctifPasse": [ "me sois revalu(e)", "te sois revalu(e)", "se soit revalu(e)", "nous soyons revalu(e)s", "vous soyez revalu(e)(s)", "se soient revalu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse revalu(e)", "te fusses revalu(e)", "se fût revalu(e)", "nous fussions revalu(e)s", "vous fussiez revalu(e)(s)", "se fussent revalu(e)s" ],
+  "conditionnelPresent": [ "me revaudrais", "te revaudrais", "se revaudrait", "nous revaudrions", "vous revaudriez", "se revaudraient" ],
+  "conditionnelPasse": [ "me serais revalu(e)", "te serais revalu(e)", "se serait revalu(e)", "nous serions revalu(e)s", "vous seriez revalu(e)(s)", "se seraient revalu(e)s" ],
+  "conditionnelPasseII": [ "me fusse revalu(e)", "te fusses revalu(e)", "se fût revalu(e)", "nous fussions revalu(e)s", "vous fussiez revalu(e)(s)", "se fussent revalu(e)s" ],
+  "imperatif": [ "–", "revaux-toi !", "–", "revalons-nous !", "revalez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

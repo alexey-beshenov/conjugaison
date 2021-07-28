@@ -1,0 +1,22 @@
+{
+  "infinitif": "poursuivre",
+  "participePresent": "poursuivant",
+  "participePasse": "poursuivi",
+  "present": [ "poursuis", "poursuis", "poursuit", "poursuivons", "poursuivez", "poursuivent" ],
+  "imparfait": [ "poursuivais", "poursuivais", "poursuivait", "poursuivions", "poursuiviez", "poursuivaient" ],
+  "passeSimple": [ "poursuivis", "poursuivis", "poursuivit", "poursuivîmes", "poursuivîtes", "poursuivirent" ],
+  "futurSimple": [ "poursuivrai", "poursuivras", "poursuivra", "poursuivrons", "poursuivrez", "poursuivront" ],
+  "passeCompose": [ "ai poursuivi", "as poursuivi", "a poursuivi", "avons poursuivi", "avez poursuivi", "ont poursuivi" ],
+  "plusQueParfait": [ "avais poursuivi", "avais poursuivi", "avait poursuivi", "avions poursuivi", "aviez poursuivi", "avaient poursuivi" ],
+  "passeAnterieur": [ "eus poursuivi", "eus poursuivi", "eut poursuivi", "eûmes poursuivi", "eûtes poursuivi", "eurent poursuivi" ],
+  "futurAnterieur": [ "aurai poursuivi", "auras poursuivi", "aura poursuivi", "aurons poursuivi", "aurez poursuivi", "auront poursuivi" ],
+  "subjonctifPresent": [ "poursuive", "poursuives", "poursuive", "poursuivions", "poursuiviez", "poursuivent" ],
+  "subjonctifImparfait": [ "poursuivisse", "poursuivisses", "poursuivît", "poursuivissions", "poursuivissiez", "poursuivissent" ],
+  "subjonctifPasse": [ "aie poursuivi", "aies poursuivi", "ait poursuivi", "ayons poursuivi", "ayez poursuivi", "aient poursuivi" ],
+  "subjonctifPlusQueParfait": [ "eusse poursuivi", "eusses poursuivi", "eût poursuivi", "eussions poursuivi", "eussiez poursuivi", "eussent poursuivi" ],
+  "conditionnelPresent": [ "poursuivrais", "poursuivrais", "poursuivrait", "poursuivrions", "poursuivriez", "poursuivraient" ],
+  "conditionnelPasse": [ "aurais poursuivi", "aurais poursuivi", "aurait poursuivi", "aurions poursuivi", "auriez poursuivi", "auraient poursuivi" ],
+  "conditionnelPasseII": [ "eusse poursuivi", "eusses poursuivi", "eût poursuivi", "eussions poursuivi", "eussiez poursuivi", "eussent poursuivi" ],
+  "imperatif": [ "–", "poursuis !", "–", "poursuivons !", "poursuivez !", "–" ],
+  "imperatifPasse": [ "–", "aie poursuivi !", "–", "ayons poursuivi !", "ayez poursuivi !", "–" ]
+}

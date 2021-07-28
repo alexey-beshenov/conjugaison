@@ -1,0 +1,22 @@
+{
+  "infinitif": "brûler",
+  "participePresent": "brûlant",
+  "participePasse": "brûlé",
+  "present": [ "brûle", "brûles", "brûle", "brûlons", "brûlez", "brûlent" ],
+  "imparfait": [ "brûlais", "brûlais", "brûlait", "brûlions", "brûliez", "brûlaient" ],
+  "passeSimple": [ "brûlai", "brûlas", "brûla", "brûlâmes", "brûlâtes", "brûlèrent" ],
+  "futurSimple": [ "brûlerai", "brûleras", "brûlera", "brûlerons", "brûlerez", "brûleront" ],
+  "passeCompose": [ "ai brûlé", "as brûlé", "a brûlé", "avons brûlé", "avez brûlé", "ont brûlé" ],
+  "plusQueParfait": [ "avais brûlé", "avais brûlé", "avait brûlé", "avions brûlé", "aviez brûlé", "avaient brûlé" ],
+  "passeAnterieur": [ "eus brûlé", "eus brûlé", "eut brûlé", "eûmes brûlé", "eûtes brûlé", "eurent brûlé" ],
+  "futurAnterieur": [ "aurai brûlé", "auras brûlé", "aura brûlé", "aurons brûlé", "aurez brûlé", "auront brûlé" ],
+  "subjonctifPresent": [ "brûle", "brûles", "brûle", "brûlions", "brûliez", "brûlent" ],
+  "subjonctifImparfait": [ "brûlasse", "brûlasses", "brûlât", "brûlassions", "brûlassiez", "brûlassent" ],
+  "subjonctifPasse": [ "aie brûlé", "aies brûlé", "ait brûlé", "ayons brûlé", "ayez brûlé", "aient brûlé" ],
+  "subjonctifPlusQueParfait": [ "eusse brûlé", "eusses brûlé", "eût brûlé", "eussions brûlé", "eussiez brûlé", "eussent brûlé" ],
+  "conditionnelPresent": [ "brûlerais", "brûlerais", "brûlerait", "brûlerions", "brûleriez", "brûleraient" ],
+  "conditionnelPasse": [ "aurais brûlé", "aurais brûlé", "aurait brûlé", "aurions brûlé", "auriez brûlé", "auraient brûlé" ],
+  "conditionnelPasseII": [ "eusse brûlé", "eusses brûlé", "eût brûlé", "eussions brûlé", "eussiez brûlé", "eussent brûlé" ],
+  "imperatif": [ "–", "brûle !", "–", "brûlons !", "brûlez !", "–" ],
+  "imperatifPasse": [ "–", "aie brûlé !", "–", "ayons brûlé !", "ayez brûlé !", "–" ]
+}

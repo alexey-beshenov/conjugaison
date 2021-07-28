@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'appartenir",
+  "participePresent": "s'appartenant",
+  "participePasse": "appartenu",
+  "present": [ "m'appartiens", "t'appartiens", "s'appartient", "nous appartenons", "vous appartenez", "s'appartiennent" ],
+  "imparfait": [ "m'appartenais", "t'appartenais", "s'appartenait", "nous appartenions", "vous apparteniez", "s'appartenaient" ],
+  "passeSimple": [ "m'appartins", "t'appartins", "s'appartint", "nous appartînmes", "vous appartîntes", "s'appartinrent" ],
+  "futurSimple": [ "m'appartiendrai", "t'appartiendras", "s'appartiendra", "nous appartiendrons", "vous appartiendrez", "s'appartiendront" ],
+  "passeCompose": [ "me suis appartenu", "t'es appartenu", "s'est appartenu", "nous sommes appartenu", "vous êtes appartenu", "se sont appartenu" ],
+  "plusQueParfait": [ "m'étais appartenu", "t'étais appartenu", "s'était appartenu", "nous étions appartenu", "vous étiez appartenu", "s'étaient appartenu" ],
+  "passeAnterieur": [ "me fus appartenu", "te fus appartenu", "se fut appartenu", "nous fûmes appartenu", "vous fûtes appartenu", "se furent appartenu" ],
+  "futurAnterieur": [ "me serai appartenu", "te seras appartenu", "se sera appartenu", "nous serons appartenu", "vous serez appartenu", "se seront appartenu" ],
+  "subjonctifPresent": [ "m'appartienne", "t'appartiennes", "s'appartienne", "nous appartenions", "vous apparteniez", "s'appartiennent" ],
+  "subjonctifImparfait": [ "m'appartinsse", "t'appartinsses", "s'appartînt", "nous appartinssions", "vous appartinssiez", "s'appartinssent" ],
+  "subjonctifPasse": [ "me sois appartenu", "te sois appartenu", "se soit appartenu", "nous soyons appartenu", "vous soyez appartenu", "se soient appartenu" ],
+  "subjonctifPlusQueParfait": [ "me fusse appartenu", "te fusses appartenu", "se fût appartenu", "nous fussions appartenu", "vous fussiez appartenu", "se fussent appartenu" ],
+  "conditionnelPresent": [ "m'appartiendrais", "t'appartiendrais", "s'appartiendrait", "nous appartiendrions", "vous appartiendriez", "s'appartiendraient" ],
+  "conditionnelPasse": [ "me serais appartenu", "te serais appartenu", "se serait appartenu", "nous serions appartenu", "vous seriez appartenu", "se seraient appartenu" ],
+  "conditionnelPasseII": [ "me fusse appartenu", "te fusses appartenu", "se fût appartenu", "nous fussions appartenu", "vous fussiez appartenu", "se fussent appartenu" ],
+  "imperatif": [ "–", "appartiens-toi !", "–", "appartenons-nous !", "appartenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

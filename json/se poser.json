@@ -1,0 +1,22 @@
+{
+  "infinitif": "se poser",
+  "participePresent": "se posant",
+  "participePasse": "posé",
+  "present": [ "me pose", "te poses", "se pose", "nous posons", "vous posez", "se posent" ],
+  "imparfait": [ "me posais", "te posais", "se posait", "nous posions", "vous posiez", "se posaient" ],
+  "passeSimple": [ "me posai", "te posas", "se posa", "nous posâmes", "vous posâtes", "se posèrent" ],
+  "futurSimple": [ "me poserai", "te poseras", "se posera", "nous poserons", "vous poserez", "se poseront" ],
+  "passeCompose": [ "me suis posé(e)", "t'es posé(e)", "s'est posé(e)", "nous sommes posé(e)s", "vous êtes posé(e)(s)", "se sont posé(e)s" ],
+  "plusQueParfait": [ "m'étais posé(e)", "t'étais posé(e)", "s'était posé(e)", "nous étions posé(e)s", "vous étiez posé(e)(s)", "s'étaient posé(e)s" ],
+  "passeAnterieur": [ "me fus posé(e)", "te fus posé(e)", "se fut posé(e)", "nous fûmes posé(e)s", "vous fûtes posé(e)(s)", "se furent posé(e)s" ],
+  "futurAnterieur": [ "me serai posé(e)", "te seras posé(e)", "se sera posé(e)", "nous serons posé(e)s", "vous serez posé(e)(s)", "se seront posé(e)s" ],
+  "subjonctifPresent": [ "me pose", "te poses", "se pose", "nous posions", "vous posiez", "se posent" ],
+  "subjonctifImparfait": [ "me posasse", "te posasses", "se posât", "nous posassions", "vous posassiez", "se posassent" ],
+  "subjonctifPasse": [ "me sois posé(e)", "te sois posé(e)", "se soit posé(e)", "nous soyons posé(e)s", "vous soyez posé(e)(s)", "se soient posé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse posé(e)", "te fusses posé(e)", "se fût posé(e)", "nous fussions posé(e)s", "vous fussiez posé(e)(s)", "se fussent posé(e)s" ],
+  "conditionnelPresent": [ "me poserais", "te poserais", "se poserait", "nous poserions", "vous poseriez", "se poseraient" ],
+  "conditionnelPasse": [ "me serais posé(e)", "te serais posé(e)", "se serait posé(e)", "nous serions posé(e)s", "vous seriez posé(e)(s)", "se seraient posé(e)s" ],
+  "conditionnelPasseII": [ "me fusse posé(e)", "te fusses posé(e)", "se fût posé(e)", "nous fussions posé(e)s", "vous fussiez posé(e)(s)", "se fussent posé(e)s" ],
+  "imperatif": [ "–", "pose-toi !", "–", "posons-nous !", "posez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

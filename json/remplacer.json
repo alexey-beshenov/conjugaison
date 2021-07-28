@@ -1,0 +1,22 @@
+{
+  "infinitif": "remplacer",
+  "participePresent": "remplaçant",
+  "participePasse": "remplacé",
+  "present": [ "remplace", "remplaces", "remplace", "remplaçons", "remplacez", "remplacent" ],
+  "imparfait": [ "remplaçais", "remplaçais", "remplaçait", "remplacions", "remplaciez", "remplaçaient" ],
+  "passeSimple": [ "remplaçai", "remplaças", "remplaça", "remplaçâmes", "remplaçâtes", "remplacèrent" ],
+  "futurSimple": [ "remplacerai", "remplaceras", "remplacera", "remplacerons", "remplacerez", "remplaceront" ],
+  "passeCompose": [ "ai remplacé", "as remplacé", "a remplacé", "avons remplacé", "avez remplacé", "ont remplacé" ],
+  "plusQueParfait": [ "avais remplacé", "avais remplacé", "avait remplacé", "avions remplacé", "aviez remplacé", "avaient remplacé" ],
+  "passeAnterieur": [ "eus remplacé", "eus remplacé", "eut remplacé", "eûmes remplacé", "eûtes remplacé", "eurent remplacé" ],
+  "futurAnterieur": [ "aurai remplacé", "auras remplacé", "aura remplacé", "aurons remplacé", "aurez remplacé", "auront remplacé" ],
+  "subjonctifPresent": [ "remplace", "remplaces", "remplace", "remplacions", "remplaciez", "remplacent" ],
+  "subjonctifImparfait": [ "remplaçasse", "remplaçasses", "remplaçât", "remplaçassions", "remplaçassiez", "remplaçassent" ],
+  "subjonctifPasse": [ "aie remplacé", "aies remplacé", "ait remplacé", "ayons remplacé", "ayez remplacé", "aient remplacé" ],
+  "subjonctifPlusQueParfait": [ "eusse remplacé", "eusses remplacé", "eût remplacé", "eussions remplacé", "eussiez remplacé", "eussent remplacé" ],
+  "conditionnelPresent": [ "remplacerais", "remplacerais", "remplacerait", "remplacerions", "remplaceriez", "remplaceraient" ],
+  "conditionnelPasse": [ "aurais remplacé", "aurais remplacé", "aurait remplacé", "aurions remplacé", "auriez remplacé", "auraient remplacé" ],
+  "conditionnelPasseII": [ "eusse remplacé", "eusses remplacé", "eût remplacé", "eussions remplacé", "eussiez remplacé", "eussent remplacé" ],
+  "imperatif": [ "–", "remplace !", "–", "remplaçons !", "remplacez !", "–" ],
+  "imperatifPasse": [ "–", "aie remplacé !", "–", "ayons remplacé !", "ayez remplacé !", "–" ]
+}

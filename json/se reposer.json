@@ -1,0 +1,22 @@
+{
+  "infinitif": "se reposer",
+  "participePresent": "se reposant",
+  "participePasse": "reposé",
+  "present": [ "me repose", "te reposes", "se repose", "nous reposons", "vous reposez", "se reposent" ],
+  "imparfait": [ "me reposais", "te reposais", "se reposait", "nous reposions", "vous reposiez", "se reposaient" ],
+  "passeSimple": [ "me reposai", "te reposas", "se reposa", "nous reposâmes", "vous reposâtes", "se reposèrent" ],
+  "futurSimple": [ "me reposerai", "te reposeras", "se reposera", "nous reposerons", "vous reposerez", "se reposeront" ],
+  "passeCompose": [ "me suis reposé(e)", "t'es reposé(e)", "s'est reposé(e)", "nous sommes reposé(e)s", "vous êtes reposé(e)(s)", "se sont reposé(e)s" ],
+  "plusQueParfait": [ "m'étais reposé(e)", "t'étais reposé(e)", "s'était reposé(e)", "nous étions reposé(e)s", "vous étiez reposé(e)(s)", "s'étaient reposé(e)s" ],
+  "passeAnterieur": [ "me fus reposé(e)", "te fus reposé(e)", "se fut reposé(e)", "nous fûmes reposé(e)s", "vous fûtes reposé(e)(s)", "se furent reposé(e)s" ],
+  "futurAnterieur": [ "me serai reposé(e)", "te seras reposé(e)", "se sera reposé(e)", "nous serons reposé(e)s", "vous serez reposé(e)(s)", "se seront reposé(e)s" ],
+  "subjonctifPresent": [ "me repose", "te reposes", "se repose", "nous reposions", "vous reposiez", "se reposent" ],
+  "subjonctifImparfait": [ "me reposasse", "te reposasses", "se reposât", "nous reposassions", "vous reposassiez", "se reposassent" ],
+  "subjonctifPasse": [ "me sois reposé(e)", "te sois reposé(e)", "se soit reposé(e)", "nous soyons reposé(e)s", "vous soyez reposé(e)(s)", "se soient reposé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse reposé(e)", "te fusses reposé(e)", "se fût reposé(e)", "nous fussions reposé(e)s", "vous fussiez reposé(e)(s)", "se fussent reposé(e)s" ],
+  "conditionnelPresent": [ "me reposerais", "te reposerais", "se reposerait", "nous reposerions", "vous reposeriez", "se reposeraient" ],
+  "conditionnelPasse": [ "me serais reposé(e)", "te serais reposé(e)", "se serait reposé(e)", "nous serions reposé(e)s", "vous seriez reposé(e)(s)", "se seraient reposé(e)s" ],
+  "conditionnelPasseII": [ "me fusse reposé(e)", "te fusses reposé(e)", "se fût reposé(e)", "nous fussions reposé(e)s", "vous fussiez reposé(e)(s)", "se fussent reposé(e)s" ],
+  "imperatif": [ "–", "repose-toi !", "–", "reposons-nous !", "reposez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

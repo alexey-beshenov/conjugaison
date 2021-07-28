@@ -1,0 +1,22 @@
+{
+  "infinitif": "se jeter",
+  "participePresent": "se jetant",
+  "participePasse": "jeté",
+  "present": [ "me jette", "te jettes", "se jette", "nous jetons", "vous jetez", "se jettent" ],
+  "imparfait": [ "me jetais", "te jetais", "se jetait", "nous jetions", "vous jetiez", "se jetaient" ],
+  "passeSimple": [ "me jetai", "te jetas", "se jeta", "nous jetâmes", "vous jetâtes", "se jetèrent" ],
+  "futurSimple": [ "me jetterai", "te jetteras", "se jettera", "nous jetterons", "vous jetterez", "se jetteront" ],
+  "passeCompose": [ "me suis jeté(e)", "t'es jeté(e)", "s'est jeté(e)", "nous sommes jeté(e)s", "vous êtes jeté(e)(s)", "se sont jeté(e)s" ],
+  "plusQueParfait": [ "m'étais jeté(e)", "t'étais jeté(e)", "s'était jeté(e)", "nous étions jeté(e)s", "vous étiez jeté(e)(s)", "s'étaient jeté(e)s" ],
+  "passeAnterieur": [ "me fus jeté(e)", "te fus jeté(e)", "se fut jeté(e)", "nous fûmes jeté(e)s", "vous fûtes jeté(e)(s)", "se furent jeté(e)s" ],
+  "futurAnterieur": [ "me serai jeté(e)", "te seras jeté(e)", "se sera jeté(e)", "nous serons jeté(e)s", "vous serez jeté(e)(s)", "se seront jeté(e)s" ],
+  "subjonctifPresent": [ "me jette", "te jettes", "se jette", "nous jetions", "vous jetiez", "se jettent" ],
+  "subjonctifImparfait": [ "me jetasse", "te jetasses", "se jetât", "nous jetassions", "vous jetassiez", "se jetassent" ],
+  "subjonctifPasse": [ "me sois jeté(e)", "te sois jeté(e)", "se soit jeté(e)", "nous soyons jeté(e)s", "vous soyez jeté(e)(s)", "se soient jeté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse jeté(e)", "te fusses jeté(e)", "se fût jeté(e)", "nous fussions jeté(e)s", "vous fussiez jeté(e)(s)", "se fussent jeté(e)s" ],
+  "conditionnelPresent": [ "me jetterais", "te jetterais", "se jetterait", "nous jetterions", "vous jetteriez", "se jetteraient" ],
+  "conditionnelPasse": [ "me serais jeté(e)", "te serais jeté(e)", "se serait jeté(e)", "nous serions jeté(e)s", "vous seriez jeté(e)(s)", "se seraient jeté(e)s" ],
+  "conditionnelPasseII": [ "me fusse jeté(e)", "te fusses jeté(e)", "se fût jeté(e)", "nous fussions jeté(e)s", "vous fussiez jeté(e)(s)", "se fussent jeté(e)s" ],
+  "imperatif": [ "–", "jette-toi !", "–", "jetons-nous !", "jetez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

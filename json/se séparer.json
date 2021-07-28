@@ -1,0 +1,22 @@
+{
+  "infinitif": "se séparer",
+  "participePresent": "se séparant",
+  "participePasse": "séparé",
+  "present": [ "me sépare", "te sépares", "se sépare", "nous séparons", "vous séparez", "se séparent" ],
+  "imparfait": [ "me séparais", "te séparais", "se séparait", "nous séparions", "vous sépariez", "se séparaient" ],
+  "passeSimple": [ "me séparai", "te séparas", "se sépara", "nous séparâmes", "vous séparâtes", "se séparèrent" ],
+  "futurSimple": [ "me séparerai", "te sépareras", "se séparera", "nous séparerons", "vous séparerez", "se sépareront" ],
+  "passeCompose": [ "me suis séparé(e)", "t'es séparé(e)", "s'est séparé(e)", "nous sommes séparé(e)s", "vous êtes séparé(e)(s)", "se sont séparé(e)s" ],
+  "plusQueParfait": [ "m'étais séparé(e)", "t'étais séparé(e)", "s'était séparé(e)", "nous étions séparé(e)s", "vous étiez séparé(e)(s)", "s'étaient séparé(e)s" ],
+  "passeAnterieur": [ "me fus séparé(e)", "te fus séparé(e)", "se fut séparé(e)", "nous fûmes séparé(e)s", "vous fûtes séparé(e)(s)", "se furent séparé(e)s" ],
+  "futurAnterieur": [ "me serai séparé(e)", "te seras séparé(e)", "se sera séparé(e)", "nous serons séparé(e)s", "vous serez séparé(e)(s)", "se seront séparé(e)s" ],
+  "subjonctifPresent": [ "me sépare", "te sépares", "se sépare", "nous séparions", "vous sépariez", "se séparent" ],
+  "subjonctifImparfait": [ "me séparasse", "te séparasses", "se séparât", "nous séparassions", "vous séparassiez", "se séparassent" ],
+  "subjonctifPasse": [ "me sois séparé(e)", "te sois séparé(e)", "se soit séparé(e)", "nous soyons séparé(e)s", "vous soyez séparé(e)(s)", "se soient séparé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse séparé(e)", "te fusses séparé(e)", "se fût séparé(e)", "nous fussions séparé(e)s", "vous fussiez séparé(e)(s)", "se fussent séparé(e)s" ],
+  "conditionnelPresent": [ "me séparerais", "te séparerais", "se séparerait", "nous séparerions", "vous sépareriez", "se sépareraient" ],
+  "conditionnelPasse": [ "me serais séparé(e)", "te serais séparé(e)", "se serait séparé(e)", "nous serions séparé(e)s", "vous seriez séparé(e)(s)", "se seraient séparé(e)s" ],
+  "conditionnelPasseII": [ "me fusse séparé(e)", "te fusses séparé(e)", "se fût séparé(e)", "nous fussions séparé(e)s", "vous fussiez séparé(e)(s)", "se fussent séparé(e)s" ],
+  "imperatif": [ "–", "sépare-toi !", "–", "séparons-nous !", "séparez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

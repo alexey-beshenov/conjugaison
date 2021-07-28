@@ -1,0 +1,22 @@
+{
+  "infinitif": "se retrouver",
+  "participePresent": "se retrouvant",
+  "participePasse": "retrouvé",
+  "present": [ "me retrouve", "te retrouves", "se retrouve", "nous retrouvons", "vous retrouvez", "se retrouvent" ],
+  "imparfait": [ "me retrouvais", "te retrouvais", "se retrouvait", "nous retrouvions", "vous retrouviez", "se retrouvaient" ],
+  "passeSimple": [ "me retrouvai", "te retrouvas", "se retrouva", "nous retrouvâmes", "vous retrouvâtes", "se retrouvèrent" ],
+  "futurSimple": [ "me retrouverai", "te retrouveras", "se retrouvera", "nous retrouverons", "vous retrouverez", "se retrouveront" ],
+  "passeCompose": [ "me suis retrouvé(e)", "t'es retrouvé(e)", "s'est retrouvé(e)", "nous sommes retrouvé(e)s", "vous êtes retrouvé(e)(s)", "se sont retrouvé(e)s" ],
+  "plusQueParfait": [ "m'étais retrouvé(e)", "t'étais retrouvé(e)", "s'était retrouvé(e)", "nous étions retrouvé(e)s", "vous étiez retrouvé(e)(s)", "s'étaient retrouvé(e)s" ],
+  "passeAnterieur": [ "me fus retrouvé(e)", "te fus retrouvé(e)", "se fut retrouvé(e)", "nous fûmes retrouvé(e)s", "vous fûtes retrouvé(e)(s)", "se furent retrouvé(e)s" ],
+  "futurAnterieur": [ "me serai retrouvé(e)", "te seras retrouvé(e)", "se sera retrouvé(e)", "nous serons retrouvé(e)s", "vous serez retrouvé(e)(s)", "se seront retrouvé(e)s" ],
+  "subjonctifPresent": [ "me retrouve", "te retrouves", "se retrouve", "nous retrouvions", "vous retrouviez", "se retrouvent" ],
+  "subjonctifImparfait": [ "me retrouvasse", "te retrouvasses", "se retrouvât", "nous retrouvassions", "vous retrouvassiez", "se retrouvassent" ],
+  "subjonctifPasse": [ "me sois retrouvé(e)", "te sois retrouvé(e)", "se soit retrouvé(e)", "nous soyons retrouvé(e)s", "vous soyez retrouvé(e)(s)", "se soient retrouvé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse retrouvé(e)", "te fusses retrouvé(e)", "se fût retrouvé(e)", "nous fussions retrouvé(e)s", "vous fussiez retrouvé(e)(s)", "se fussent retrouvé(e)s" ],
+  "conditionnelPresent": [ "me retrouverais", "te retrouverais", "se retrouverait", "nous retrouverions", "vous retrouveriez", "se retrouveraient" ],
+  "conditionnelPasse": [ "me serais retrouvé(e)", "te serais retrouvé(e)", "se serait retrouvé(e)", "nous serions retrouvé(e)s", "vous seriez retrouvé(e)(s)", "se seraient retrouvé(e)s" ],
+  "conditionnelPasseII": [ "me fusse retrouvé(e)", "te fusses retrouvé(e)", "se fût retrouvé(e)", "nous fussions retrouvé(e)s", "vous fussiez retrouvé(e)(s)", "se fussent retrouvé(e)s" ],
+  "imperatif": [ "–", "retrouve-toi !", "–", "retrouvons-nous !", "retrouvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

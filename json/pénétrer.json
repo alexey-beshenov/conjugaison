@@ -1,0 +1,22 @@
+{
+  "infinitif": "pénétrer",
+  "participePresent": "pénétrant",
+  "participePasse": "pénétré",
+  "present": [ "pénètre", "pénètres", "pénètre", "pénétrons", "pénétrez", "pénètrent" ],
+  "imparfait": [ "pénétrais", "pénétrais", "pénétrait", "pénétrions", "pénétriez", "pénétraient" ],
+  "passeSimple": [ "pénétrai", "pénétras", "pénétra", "pénétrâmes", "pénétrâtes", "pénétrèrent" ],
+  "futurSimple": [ "pénétrerai", "pénétreras", "pénétrera", "pénétrerons", "pénétrerez", "pénétreront" ],
+  "passeCompose": [ "ai pénétré", "as pénétré", "a pénétré", "avons pénétré", "avez pénétré", "ont pénétré" ],
+  "plusQueParfait": [ "avais pénétré", "avais pénétré", "avait pénétré", "avions pénétré", "aviez pénétré", "avaient pénétré" ],
+  "passeAnterieur": [ "eus pénétré", "eus pénétré", "eut pénétré", "eûmes pénétré", "eûtes pénétré", "eurent pénétré" ],
+  "futurAnterieur": [ "aurai pénétré", "auras pénétré", "aura pénétré", "aurons pénétré", "aurez pénétré", "auront pénétré" ],
+  "subjonctifPresent": [ "pénètre", "pénètres", "pénètre", "pénétrions", "pénétriez", "pénètrent" ],
+  "subjonctifImparfait": [ "pénétrasse", "pénétrasses", "pénétrât", "pénétrassions", "pénétrassiez", "pénétrassent" ],
+  "subjonctifPasse": [ "aie pénétré", "aies pénétré", "ait pénétré", "ayons pénétré", "ayez pénétré", "aient pénétré" ],
+  "subjonctifPlusQueParfait": [ "eusse pénétré", "eusses pénétré", "eût pénétré", "eussions pénétré", "eussiez pénétré", "eussent pénétré" ],
+  "conditionnelPresent": [ "pénétrerais", "pénétrerais", "pénétrerait", "pénétrerions", "pénétreriez", "pénétreraient" ],
+  "conditionnelPasse": [ "aurais pénétré", "aurais pénétré", "aurait pénétré", "aurions pénétré", "auriez pénétré", "auraient pénétré" ],
+  "conditionnelPasseII": [ "eusse pénétré", "eusses pénétré", "eût pénétré", "eussions pénétré", "eussiez pénétré", "eussent pénétré" ],
+  "imperatif": [ "–", "pénètre !", "–", "pénétrons !", "pénétrez !", "–" ],
+  "imperatifPasse": [ "–", "aie pénétré !", "–", "ayons pénétré !", "ayez pénétré !", "–" ]
+}

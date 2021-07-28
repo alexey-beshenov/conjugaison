@@ -1,0 +1,22 @@
+{
+  "infinitif": "rassurer",
+  "participePresent": "rassurant",
+  "participePasse": "rassuré",
+  "present": [ "rassure", "rassures", "rassure", "rassurons", "rassurez", "rassurent" ],
+  "imparfait": [ "rassurais", "rassurais", "rassurait", "rassurions", "rassuriez", "rassuraient" ],
+  "passeSimple": [ "rassurai", "rassuras", "rassura", "rassurâmes", "rassurâtes", "rassurèrent" ],
+  "futurSimple": [ "rassurerai", "rassureras", "rassurera", "rassurerons", "rassurerez", "rassureront" ],
+  "passeCompose": [ "ai rassuré", "as rassuré", "a rassuré", "avons rassuré", "avez rassuré", "ont rassuré" ],
+  "plusQueParfait": [ "avais rassuré", "avais rassuré", "avait rassuré", "avions rassuré", "aviez rassuré", "avaient rassuré" ],
+  "passeAnterieur": [ "eus rassuré", "eus rassuré", "eut rassuré", "eûmes rassuré", "eûtes rassuré", "eurent rassuré" ],
+  "futurAnterieur": [ "aurai rassuré", "auras rassuré", "aura rassuré", "aurons rassuré", "aurez rassuré", "auront rassuré" ],
+  "subjonctifPresent": [ "rassure", "rassures", "rassure", "rassurions", "rassuriez", "rassurent" ],
+  "subjonctifImparfait": [ "rassurasse", "rassurasses", "rassurât", "rassurassions", "rassurassiez", "rassurassent" ],
+  "subjonctifPasse": [ "aie rassuré", "aies rassuré", "ait rassuré", "ayons rassuré", "ayez rassuré", "aient rassuré" ],
+  "subjonctifPlusQueParfait": [ "eusse rassuré", "eusses rassuré", "eût rassuré", "eussions rassuré", "eussiez rassuré", "eussent rassuré" ],
+  "conditionnelPresent": [ "rassurerais", "rassurerais", "rassurerait", "rassurerions", "rassureriez", "rassureraient" ],
+  "conditionnelPasse": [ "aurais rassuré", "aurais rassuré", "aurait rassuré", "aurions rassuré", "auriez rassuré", "auraient rassuré" ],
+  "conditionnelPasseII": [ "eusse rassuré", "eusses rassuré", "eût rassuré", "eussions rassuré", "eussiez rassuré", "eussent rassuré" ],
+  "imperatif": [ "–", "rassure !", "–", "rassurons !", "rassurez !", "–" ],
+  "imperatifPasse": [ "–", "aie rassuré !", "–", "ayons rassuré !", "ayez rassuré !", "–" ]
+}

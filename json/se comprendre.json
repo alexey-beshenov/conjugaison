@@ -1,0 +1,22 @@
+{
+  "infinitif": "se comprendre",
+  "participePresent": "se comprenant",
+  "participePasse": "compris",
+  "present": [ "me comprends", "te comprends", "se comprend", "nous comprenons", "vous comprenez", "se comprennent" ],
+  "imparfait": [ "me comprenais", "te comprenais", "se comprenait", "nous comprenions", "vous compreniez", "se comprenaient" ],
+  "passeSimple": [ "me compris", "te compris", "se comprit", "nous comprîmes", "vous comprîtes", "se comprirent" ],
+  "futurSimple": [ "me comprendrai", "te comprendras", "se comprendra", "nous comprendrons", "vous comprendrez", "se comprendront" ],
+  "passeCompose": [ "me suis compris(e)", "t'es compris(e)", "s'est compris(e)", "nous sommes compris(es)", "vous êtes compris(e(s))", "se sont compris(es)" ],
+  "plusQueParfait": [ "m'étais compris(e)", "t'étais compris(e)", "s'était compris(e)", "nous étions compris(es)", "vous étiez compris(e(s))", "s'étaient compris(es)" ],
+  "passeAnterieur": [ "me fus compris(e)", "te fus compris(e)", "se fut compris(e)", "nous fûmes compris(es)", "vous fûtes compris(e(s))", "se furent compris(es)" ],
+  "futurAnterieur": [ "me serai compris(e)", "te seras compris(e)", "se sera compris(e)", "nous serons compris(es)", "vous serez compris(e(s))", "se seront compris(es)" ],
+  "subjonctifPresent": [ "me comprenne", "te comprennes", "se comprenne", "nous comprenions", "vous compreniez", "se comprennent" ],
+  "subjonctifImparfait": [ "me comprisse", "te comprisses", "se comprît", "nous comprissions", "vous comprissiez", "se comprissent" ],
+  "subjonctifPasse": [ "me sois compris(e)", "te sois compris(e)", "se soit compris(e)", "nous soyons compris(es)", "vous soyez compris(e(s))", "se soient compris(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse compris(e)", "te fusses compris(e)", "se fût compris(e)", "nous fussions compris(es)", "vous fussiez compris(e(s))", "se fussent compris(es)" ],
+  "conditionnelPresent": [ "me comprendrais", "te comprendrais", "se comprendrait", "nous comprendrions", "vous comprendriez", "se comprendraient" ],
+  "conditionnelPasse": [ "me serais compris(e)", "te serais compris(e)", "se serait compris(e)", "nous serions compris(es)", "vous seriez compris(e(s))", "se seraient compris(es)" ],
+  "conditionnelPasseII": [ "me fusse compris(e)", "te fusses compris(e)", "se fût compris(e)", "nous fussions compris(es)", "vous fussiez compris(e(s))", "se fussent compris(es)" ],
+  "imperatif": [ "–", "comprends-toi !", "–", "comprenons-nous !", "comprenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

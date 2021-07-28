@@ -1,0 +1,22 @@
+{
+  "infinitif": "espérer",
+  "participePresent": "espérant",
+  "participePasse": "espéré",
+  "present": [ "espère", "espères", "espère", "espérons", "espérez", "espèrent" ],
+  "imparfait": [ "espérais", "espérais", "espérait", "espérions", "espériez", "espéraient" ],
+  "passeSimple": [ "espérai", "espéras", "espéra", "espérâmes", "espérâtes", "espérèrent" ],
+  "futurSimple": [ "espérerai", "espéreras", "espérera", "espérerons", "espérerez", "espéreront" ],
+  "passeCompose": [ "ai espéré", "as espéré", "a espéré", "avons espéré", "avez espéré", "ont espéré" ],
+  "plusQueParfait": [ "avais espéré", "avais espéré", "avait espéré", "avions espéré", "aviez espéré", "avaient espéré" ],
+  "passeAnterieur": [ "eus espéré", "eus espéré", "eut espéré", "eûmes espéré", "eûtes espéré", "eurent espéré" ],
+  "futurAnterieur": [ "aurai espéré", "auras espéré", "aura espéré", "aurons espéré", "aurez espéré", "auront espéré" ],
+  "subjonctifPresent": [ "espère", "espères", "espère", "espérions", "espériez", "espèrent" ],
+  "subjonctifImparfait": [ "espérasse", "espérasses", "espérât", "espérassions", "espérassiez", "espérassent" ],
+  "subjonctifPasse": [ "aie espéré", "aies espéré", "ait espéré", "ayons espéré", "ayez espéré", "aient espéré" ],
+  "subjonctifPlusQueParfait": [ "eusse espéré", "eusses espéré", "eût espéré", "eussions espéré", "eussiez espéré", "eussent espéré" ],
+  "conditionnelPresent": [ "espérerais", "espérerais", "espérerait", "espérerions", "espéreriez", "espéreraient" ],
+  "conditionnelPasse": [ "aurais espéré", "aurais espéré", "aurait espéré", "aurions espéré", "auriez espéré", "auraient espéré" ],
+  "conditionnelPasseII": [ "eusse espéré", "eusses espéré", "eût espéré", "eussions espéré", "eussiez espéré", "eussent espéré" ],
+  "imperatif": [ "–", "espère !", "–", "espérons !", "espérez !", "–" ],
+  "imperatifPasse": [ "–", "aie espéré !", "–", "ayons espéré !", "ayez espéré !", "–" ]
+}

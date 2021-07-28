@@ -1,0 +1,22 @@
+{
+  "infinitif": "se nourrir",
+  "participePresent": "se nourrissant",
+  "participePasse": "nourri",
+  "present": [ "me nourris", "te nourris", "se nourrit", "nous nourrissons", "vous nourrissez", "se nourrissent" ],
+  "imparfait": [ "me nourrissais", "te nourrissais", "se nourrissait", "nous nourrissions", "vous nourrissiez", "se nourrissaient" ],
+  "passeSimple": [ "me nourris", "te nourris", "se nourrit", "nous nourrîmes", "vous nourrîtes", "se nourrirent" ],
+  "futurSimple": [ "me nourrirai", "te nourriras", "se nourrira", "nous nourrirons", "vous nourrirez", "se nourriront" ],
+  "passeCompose": [ "me suis nourri(e)", "t'es nourri(e)", "s'est nourri(e)", "nous sommes nourri(e)s", "vous êtes nourri(e)(s)", "se sont nourri(e)s" ],
+  "plusQueParfait": [ "m'étais nourri(e)", "t'étais nourri(e)", "s'était nourri(e)", "nous étions nourri(e)s", "vous étiez nourri(e)(s)", "s'étaient nourri(e)s" ],
+  "passeAnterieur": [ "me fus nourri(e)", "te fus nourri(e)", "se fut nourri(e)", "nous fûmes nourri(e)s", "vous fûtes nourri(e)(s)", "se furent nourri(e)s" ],
+  "futurAnterieur": [ "me serai nourri(e)", "te seras nourri(e)", "se sera nourri(e)", "nous serons nourri(e)s", "vous serez nourri(e)(s)", "se seront nourri(e)s" ],
+  "subjonctifPresent": [ "me nourrisse", "te nourrisses", "se nourrisse", "nous nourrissions", "vous nourrissiez", "se nourrissent" ],
+  "subjonctifImparfait": [ "me nourrisse", "te nourrisses", "se nourrît", "nous nourrissions", "vous nourrissiez", "se nourrissent" ],
+  "subjonctifPasse": [ "me sois nourri(e)", "te sois nourri(e)", "se soit nourri(e)", "nous soyons nourri(e)s", "vous soyez nourri(e)(s)", "se soient nourri(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse nourri(e)", "te fusses nourri(e)", "se fût nourri(e)", "nous fussions nourri(e)s", "vous fussiez nourri(e)(s)", "se fussent nourri(e)s" ],
+  "conditionnelPresent": [ "me nourrirais", "te nourrirais", "se nourrirait", "nous nourririons", "vous nourririez", "se nourriraient" ],
+  "conditionnelPasse": [ "me serais nourri(e)", "te serais nourri(e)", "se serait nourri(e)", "nous serions nourri(e)s", "vous seriez nourri(e)(s)", "se seraient nourri(e)s" ],
+  "conditionnelPasseII": [ "me fusse nourri(e)", "te fusses nourri(e)", "se fût nourri(e)", "nous fussions nourri(e)s", "vous fussiez nourri(e)(s)", "se fussent nourri(e)s" ],
+  "imperatif": [ "–", "nourris-toi !", "–", "nourrissons-nous !", "nourrissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

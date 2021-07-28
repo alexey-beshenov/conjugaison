@@ -1,0 +1,22 @@
+{
+  "infinitif": "valoir",
+  "participePresent": "valant",
+  "participePasse": "valu",
+  "present": [ "vaux", "vaux", "vaut", "valons", "valez", "valent" ],
+  "imparfait": [ "valais", "valais", "valait", "valions", "valiez", "valaient" ],
+  "passeSimple": [ "valus", "valus", "valut", "valûmes", "valûtes", "valurent" ],
+  "futurSimple": [ "vaudrai", "vaudras", "vaudra", "vaudrons", "vaudrez", "vaudront" ],
+  "passeCompose": [ "ai valu", "as valu", "a valu", "avons valu", "avez valu", "ont valu" ],
+  "plusQueParfait": [ "avais valu", "avais valu", "avait valu", "avions valu", "aviez valu", "avaient valu" ],
+  "passeAnterieur": [ "eus valu", "eus valu", "eut valu", "eûmes valu", "eûtes valu", "eurent valu" ],
+  "futurAnterieur": [ "aurai valu", "auras valu", "aura valu", "aurons valu", "aurez valu", "auront valu" ],
+  "subjonctifPresent": [ "vaille", "vailles", "vaille", "valions", "valiez", "vaillent" ],
+  "subjonctifImparfait": [ "valusse", "valusses", "valût", "valussions", "valussiez", "valussent" ],
+  "subjonctifPasse": [ "aie valu", "aies valu", "ait valu", "ayons valu", "ayez valu", "aient valu" ],
+  "subjonctifPlusQueParfait": [ "eusse valu", "eusses valu", "eût valu", "eussions valu", "eussiez valu", "eussent valu" ],
+  "conditionnelPresent": [ "vaudrais", "vaudrais", "vaudrait", "vaudrions", "vaudriez", "vaudraient" ],
+  "conditionnelPasse": [ "aurais valu", "aurais valu", "aurait valu", "aurions valu", "auriez valu", "auraient valu" ],
+  "conditionnelPasseII": [ "eusse valu", "eusses valu", "eût valu", "eussions valu", "eussiez valu", "eussent valu" ],
+  "imperatif": [ "–", "vaux !", "–", "valons !", "valez !", "–" ],
+  "imperatifPasse": [ "–", "aie valu !", "–", "ayons valu !", "ayez valu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'accomplir",
+  "participePresent": "s'accomplissant",
+  "participePasse": "accompli",
+  "present": [ "m'accomplis", "t'accomplis", "s'accomplit", "nous accomplissons", "vous accomplissez", "s'accomplissent" ],
+  "imparfait": [ "m'accomplissais", "t'accomplissais", "s'accomplissait", "nous accomplissions", "vous accomplissiez", "s'accomplissaient" ],
+  "passeSimple": [ "m'accomplis", "t'accomplis", "s'accomplit", "nous accomplîmes", "vous accomplîtes", "s'accomplirent" ],
+  "futurSimple": [ "m'accomplirai", "t'accompliras", "s'accomplira", "nous accomplirons", "vous accomplirez", "s'accompliront" ],
+  "passeCompose": [ "me suis accompli(e)", "t'es accompli(e)", "s'est accompli(e)", "nous sommes accompli(e)s", "vous êtes accompli(e)(s)", "se sont accompli(e)s" ],
+  "plusQueParfait": [ "m'étais accompli(e)", "t'étais accompli(e)", "s'était accompli(e)", "nous étions accompli(e)s", "vous étiez accompli(e)(s)", "s'étaient accompli(e)s" ],
+  "passeAnterieur": [ "me fus accompli(e)", "te fus accompli(e)", "se fut accompli(e)", "nous fûmes accompli(e)s", "vous fûtes accompli(e)(s)", "se furent accompli(e)s" ],
+  "futurAnterieur": [ "me serai accompli(e)", "te seras accompli(e)", "se sera accompli(e)", "nous serons accompli(e)s", "vous serez accompli(e)(s)", "se seront accompli(e)s" ],
+  "subjonctifPresent": [ "m'accomplisse", "t'accomplisses", "s'accomplisse", "nous accomplissions", "vous accomplissiez", "s'accomplissent" ],
+  "subjonctifImparfait": [ "m'accomplisse", "t'accomplisses", "s'accomplît", "nous accomplissions", "vous accomplissiez", "s'accomplissent" ],
+  "subjonctifPasse": [ "me sois accompli(e)", "te sois accompli(e)", "se soit accompli(e)", "nous soyons accompli(e)s", "vous soyez accompli(e)(s)", "se soient accompli(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse accompli(e)", "te fusses accompli(e)", "se fût accompli(e)", "nous fussions accompli(e)s", "vous fussiez accompli(e)(s)", "se fussent accompli(e)s" ],
+  "conditionnelPresent": [ "m'accomplirais", "t'accomplirais", "s'accomplirait", "nous accomplirions", "vous accompliriez", "s'accompliraient" ],
+  "conditionnelPasse": [ "me serais accompli(e)", "te serais accompli(e)", "se serait accompli(e)", "nous serions accompli(e)s", "vous seriez accompli(e)(s)", "se seraient accompli(e)s" ],
+  "conditionnelPasseII": [ "me fusse accompli(e)", "te fusses accompli(e)", "se fût accompli(e)", "nous fussions accompli(e)s", "vous fussiez accompli(e)(s)", "se fussent accompli(e)s" ],
+  "imperatif": [ "–", "accomplis-toi !", "–", "accomplissons-nous !", "accomplissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

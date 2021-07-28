@@ -1,0 +1,22 @@
+{
+  "infinitif": "se faire",
+  "participePresent": "se faisant",
+  "participePasse": "fait",
+  "present": [ "me fais", "te fais", "se fait", "nous faisons", "vous faites", "se font" ],
+  "imparfait": [ "me faisais", "te faisais", "se faisait", "nous faisions", "vous faisiez", "se faisaient" ],
+  "passeSimple": [ "me fis", "te fis", "se fit", "nous fîmes", "vous fîtes", "se firent" ],
+  "futurSimple": [ "me ferai", "te feras", "se fera", "nous ferons", "vous ferez", "se feront" ],
+  "passeCompose": [ "me suis fait(e)", "t'es fait(e)", "s'est fait(e)", "nous sommes fait(e)s", "vous êtes fait(e)(s)", "se sont fait(e)s" ],
+  "plusQueParfait": [ "m'étais fait(e)", "t'étais fait(e)", "s'était fait(e)", "nous étions fait(e)s", "vous étiez fait(e)(s)", "s'étaient fait(e)s" ],
+  "passeAnterieur": [ "me fus fait(e)", "te fus fait(e)", "se fut fait(e)", "nous fûmes fait(e)s", "vous fûtes fait(e)(s)", "se furent fait(e)s" ],
+  "futurAnterieur": [ "me serai fait(e)", "te seras fait(e)", "se sera fait(e)", "nous serons fait(e)s", "vous serez fait(e)(s)", "se seront fait(e)s" ],
+  "subjonctifPresent": [ "me fasse", "te fasses", "se fasse", "nous fassions", "vous fassiez", "se fassent" ],
+  "subjonctifImparfait": [ "me fisse", "te fisses", "se fît", "nous fissions", "vous fissiez", "se fissent" ],
+  "subjonctifPasse": [ "me sois fait(e)", "te sois fait(e)", "se soit fait(e)", "nous soyons fait(e)s", "vous soyez fait(e)(s)", "se soient fait(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse fait(e)", "te fusses fait(e)", "se fût fait(e)", "nous fussions fait(e)s", "vous fussiez fait(e)(s)", "se fussent fait(e)s" ],
+  "conditionnelPresent": [ "me ferais", "te ferais", "se ferait", "nous ferions", "vous feriez", "se feraient" ],
+  "conditionnelPasse": [ "me serais fait(e)", "te serais fait(e)", "se serait fait(e)", "nous serions fait(e)s", "vous seriez fait(e)(s)", "se seraient fait(e)s" ],
+  "conditionnelPasseII": [ "me fusse fait(e)", "te fusses fait(e)", "se fût fait(e)", "nous fussions fait(e)s", "vous fussiez fait(e)(s)", "se fussent fait(e)s" ],
+  "imperatif": [ "–", "fais-toi !", "–", "faisons-nous !", "faites-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

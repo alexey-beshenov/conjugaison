@@ -1,0 +1,22 @@
+{
+  "infinitif": "chasser",
+  "participePresent": "chassant",
+  "participePasse": "chassé",
+  "present": [ "chasse", "chasses", "chasse", "chassons", "chassez", "chassent" ],
+  "imparfait": [ "chassais", "chassais", "chassait", "chassions", "chassiez", "chassaient" ],
+  "passeSimple": [ "chassai", "chassas", "chassa", "chassâmes", "chassâtes", "chassèrent" ],
+  "futurSimple": [ "chasserai", "chasseras", "chassera", "chasserons", "chasserez", "chasseront" ],
+  "passeCompose": [ "ai chassé", "as chassé", "a chassé", "avons chassé", "avez chassé", "ont chassé" ],
+  "plusQueParfait": [ "avais chassé", "avais chassé", "avait chassé", "avions chassé", "aviez chassé", "avaient chassé" ],
+  "passeAnterieur": [ "eus chassé", "eus chassé", "eut chassé", "eûmes chassé", "eûtes chassé", "eurent chassé" ],
+  "futurAnterieur": [ "aurai chassé", "auras chassé", "aura chassé", "aurons chassé", "aurez chassé", "auront chassé" ],
+  "subjonctifPresent": [ "chasse", "chasses", "chasse", "chassions", "chassiez", "chassent" ],
+  "subjonctifImparfait": [ "chassasse", "chassasses", "chassât", "chassassions", "chassassiez", "chassassent" ],
+  "subjonctifPasse": [ "aie chassé", "aies chassé", "ait chassé", "ayons chassé", "ayez chassé", "aient chassé" ],
+  "subjonctifPlusQueParfait": [ "eusse chassé", "eusses chassé", "eût chassé", "eussions chassé", "eussiez chassé", "eussent chassé" ],
+  "conditionnelPresent": [ "chasserais", "chasserais", "chasserait", "chasserions", "chasseriez", "chasseraient" ],
+  "conditionnelPasse": [ "aurais chassé", "aurais chassé", "aurait chassé", "aurions chassé", "auriez chassé", "auraient chassé" ],
+  "conditionnelPasseII": [ "eusse chassé", "eusses chassé", "eût chassé", "eussions chassé", "eussiez chassé", "eussent chassé" ],
+  "imperatif": [ "–", "chasse !", "–", "chassons !", "chassez !", "–" ],
+  "imperatifPasse": [ "–", "aie chassé !", "–", "ayons chassé !", "ayez chassé !", "–" ]
+}

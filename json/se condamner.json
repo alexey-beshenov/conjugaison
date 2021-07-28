@@ -1,0 +1,22 @@
+{
+  "infinitif": "se condamner",
+  "participePresent": "se condamnant",
+  "participePasse": "condamné",
+  "present": [ "me condamne", "te condamnes", "se condamne", "nous condamnons", "vous condamnez", "se condamnent" ],
+  "imparfait": [ "me condamnais", "te condamnais", "se condamnait", "nous condamnions", "vous condamniez", "se condamnaient" ],
+  "passeSimple": [ "me condamnai", "te condamnas", "se condamna", "nous condamnâmes", "vous condamnâtes", "se condamnèrent" ],
+  "futurSimple": [ "me condamnerai", "te condamneras", "se condamnera", "nous condamnerons", "vous condamnerez", "se condamneront" ],
+  "passeCompose": [ "me suis condamné(e)", "t'es condamné(e)", "s'est condamné(e)", "nous sommes condamné(e)s", "vous êtes condamné(e)(s)", "se sont condamné(e)s" ],
+  "plusQueParfait": [ "m'étais condamné(e)", "t'étais condamné(e)", "s'était condamné(e)", "nous étions condamné(e)s", "vous étiez condamné(e)(s)", "s'étaient condamné(e)s" ],
+  "passeAnterieur": [ "me fus condamné(e)", "te fus condamné(e)", "se fut condamné(e)", "nous fûmes condamné(e)s", "vous fûtes condamné(e)(s)", "se furent condamné(e)s" ],
+  "futurAnterieur": [ "me serai condamné(e)", "te seras condamné(e)", "se sera condamné(e)", "nous serons condamné(e)s", "vous serez condamné(e)(s)", "se seront condamné(e)s" ],
+  "subjonctifPresent": [ "me condamne", "te condamnes", "se condamne", "nous condamnions", "vous condamniez", "se condamnent" ],
+  "subjonctifImparfait": [ "me condamnasse", "te condamnasses", "se condamnât", "nous condamnassions", "vous condamnassiez", "se condamnassent" ],
+  "subjonctifPasse": [ "me sois condamné(e)", "te sois condamné(e)", "se soit condamné(e)", "nous soyons condamné(e)s", "vous soyez condamné(e)(s)", "se soient condamné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse condamné(e)", "te fusses condamné(e)", "se fût condamné(e)", "nous fussions condamné(e)s", "vous fussiez condamné(e)(s)", "se fussent condamné(e)s" ],
+  "conditionnelPresent": [ "me condamnerais", "te condamnerais", "se condamnerait", "nous condamnerions", "vous condamneriez", "se condamneraient" ],
+  "conditionnelPasse": [ "me serais condamné(e)", "te serais condamné(e)", "se serait condamné(e)", "nous serions condamné(e)s", "vous seriez condamné(e)(s)", "se seraient condamné(e)s" ],
+  "conditionnelPasseII": [ "me fusse condamné(e)", "te fusses condamné(e)", "se fût condamné(e)", "nous fussions condamné(e)s", "vous fussiez condamné(e)(s)", "se fussent condamné(e)s" ],
+  "imperatif": [ "–", "condamne-toi !", "–", "condamnons-nous !", "condamnez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

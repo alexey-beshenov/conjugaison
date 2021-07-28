@@ -1,0 +1,22 @@
+{
+  "infinitif": "se changer",
+  "participePresent": "se changeant",
+  "participePasse": "changé",
+  "present": [ "me change", "te changes", "se change", "nous changeons", "vous changez", "se changent" ],
+  "imparfait": [ "me changeais", "te changeais", "se changeait", "nous changions", "vous changiez", "se changeaient" ],
+  "passeSimple": [ "me changeai", "te changeas", "se changea", "nous changeâmes", "vous changeâtes", "se changèrent" ],
+  "futurSimple": [ "me changerai", "te changeras", "se changera", "nous changerons", "vous changerez", "se changeront" ],
+  "passeCompose": [ "me suis changé(e)", "t'es changé(e)", "s'est changé(e)", "nous sommes changé(e)s", "vous êtes changé(e)(s)", "se sont changé(e)s" ],
+  "plusQueParfait": [ "m'étais changé(e)", "t'étais changé(e)", "s'était changé(e)", "nous étions changé(e)s", "vous étiez changé(e)(s)", "s'étaient changé(e)s" ],
+  "passeAnterieur": [ "me fus changé(e)", "te fus changé(e)", "se fut changé(e)", "nous fûmes changé(e)s", "vous fûtes changé(e)(s)", "se furent changé(e)s" ],
+  "futurAnterieur": [ "me serai changé(e)", "te seras changé(e)", "se sera changé(e)", "nous serons changé(e)s", "vous serez changé(e)(s)", "se seront changé(e)s" ],
+  "subjonctifPresent": [ "me change", "te changes", "se change", "nous changions", "vous changiez", "se changent" ],
+  "subjonctifImparfait": [ "me changeasse", "te changeasses", "se changeât", "nous changeassions", "vous changeassiez", "se changeassent" ],
+  "subjonctifPasse": [ "me sois changé(e)", "te sois changé(e)", "se soit changé(e)", "nous soyons changé(e)s", "vous soyez changé(e)(s)", "se soient changé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse changé(e)", "te fusses changé(e)", "se fût changé(e)", "nous fussions changé(e)s", "vous fussiez changé(e)(s)", "se fussent changé(e)s" ],
+  "conditionnelPresent": [ "me changerais", "te changerais", "se changerait", "nous changerions", "vous changeriez", "se changeraient" ],
+  "conditionnelPasse": [ "me serais changé(e)", "te serais changé(e)", "se serait changé(e)", "nous serions changé(e)s", "vous seriez changé(e)(s)", "se seraient changé(e)s" ],
+  "conditionnelPasseII": [ "me fusse changé(e)", "te fusses changé(e)", "se fût changé(e)", "nous fussions changé(e)s", "vous fussiez changé(e)(s)", "se fussent changé(e)s" ],
+  "imperatif": [ "–", "change-toi !", "–", "changeons-nous !", "changez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

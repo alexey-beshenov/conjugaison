@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'établir",
+  "participePresent": "s'établissant",
+  "participePasse": "établi",
+  "present": [ "m'établis", "t'établis", "s'établit", "nous établissons", "vous établissez", "s'établissent" ],
+  "imparfait": [ "m'établissais", "t'établissais", "s'établissait", "nous établissions", "vous établissiez", "s'établissaient" ],
+  "passeSimple": [ "m'établis", "t'établis", "s'établit", "nous établîmes", "vous établîtes", "s'établirent" ],
+  "futurSimple": [ "m'établirai", "t'établiras", "s'établira", "nous établirons", "vous établirez", "s'établiront" ],
+  "passeCompose": [ "me suis établi(e)", "t'es établi(e)", "s'est établi(e)", "nous sommes établi(e)s", "vous êtes établi(e)(s)", "se sont établi(e)s" ],
+  "plusQueParfait": [ "m'étais établi(e)", "t'étais établi(e)", "s'était établi(e)", "nous étions établi(e)s", "vous étiez établi(e)(s)", "s'étaient établi(e)s" ],
+  "passeAnterieur": [ "me fus établi(e)", "te fus établi(e)", "se fut établi(e)", "nous fûmes établi(e)s", "vous fûtes établi(e)(s)", "se furent établi(e)s" ],
+  "futurAnterieur": [ "me serai établi(e)", "te seras établi(e)", "se sera établi(e)", "nous serons établi(e)s", "vous serez établi(e)(s)", "se seront établi(e)s" ],
+  "subjonctifPresent": [ "m'établisse", "t'établisses", "s'établisse", "nous établissions", "vous établissiez", "s'établissent" ],
+  "subjonctifImparfait": [ "m'établisse", "t'établisses", "s'établît", "nous établissions", "vous établissiez", "s'établissent" ],
+  "subjonctifPasse": [ "me sois établi(e)", "te sois établi(e)", "se soit établi(e)", "nous soyons établi(e)s", "vous soyez établi(e)(s)", "se soient établi(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse établi(e)", "te fusses établi(e)", "se fût établi(e)", "nous fussions établi(e)s", "vous fussiez établi(e)(s)", "se fussent établi(e)s" ],
+  "conditionnelPresent": [ "m'établirais", "t'établirais", "s'établirait", "nous établirions", "vous établiriez", "s'établiraient" ],
+  "conditionnelPasse": [ "me serais établi(e)", "te serais établi(e)", "se serait établi(e)", "nous serions établi(e)s", "vous seriez établi(e)(s)", "se seraient établi(e)s" ],
+  "conditionnelPasseII": [ "me fusse établi(e)", "te fusses établi(e)", "se fût établi(e)", "nous fussions établi(e)s", "vous fussiez établi(e)(s)", "se fussent établi(e)s" ],
+  "imperatif": [ "–", "établis-toi !", "–", "établissons-nous !", "établissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

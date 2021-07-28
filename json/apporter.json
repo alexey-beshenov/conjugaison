@@ -1,0 +1,22 @@
+{
+  "infinitif": "apporter",
+  "participePresent": "apportant",
+  "participePasse": "apporté",
+  "present": [ "apporte", "apportes", "apporte", "apportons", "apportez", "apportent" ],
+  "imparfait": [ "apportais", "apportais", "apportait", "apportions", "apportiez", "apportaient" ],
+  "passeSimple": [ "apportai", "apportas", "apporta", "apportâmes", "apportâtes", "apportèrent" ],
+  "futurSimple": [ "apporterai", "apporteras", "apportera", "apporterons", "apporterez", "apporteront" ],
+  "passeCompose": [ "ai apporté", "as apporté", "a apporté", "avons apporté", "avez apporté", "ont apporté" ],
+  "plusQueParfait": [ "avais apporté", "avais apporté", "avait apporté", "avions apporté", "aviez apporté", "avaient apporté" ],
+  "passeAnterieur": [ "eus apporté", "eus apporté", "eut apporté", "eûmes apporté", "eûtes apporté", "eurent apporté" ],
+  "futurAnterieur": [ "aurai apporté", "auras apporté", "aura apporté", "aurons apporté", "aurez apporté", "auront apporté" ],
+  "subjonctifPresent": [ "apporte", "apportes", "apporte", "apportions", "apportiez", "apportent" ],
+  "subjonctifImparfait": [ "apportasse", "apportasses", "apportât", "apportassions", "apportassiez", "apportassent" ],
+  "subjonctifPasse": [ "aie apporté", "aies apporté", "ait apporté", "ayons apporté", "ayez apporté", "aient apporté" ],
+  "subjonctifPlusQueParfait": [ "eusse apporté", "eusses apporté", "eût apporté", "eussions apporté", "eussiez apporté", "eussent apporté" ],
+  "conditionnelPresent": [ "apporterais", "apporterais", "apporterait", "apporterions", "apporteriez", "apporteraient" ],
+  "conditionnelPasse": [ "aurais apporté", "aurais apporté", "aurait apporté", "aurions apporté", "auriez apporté", "auraient apporté" ],
+  "conditionnelPasseII": [ "eusse apporté", "eusses apporté", "eût apporté", "eussions apporté", "eussiez apporté", "eussent apporté" ],
+  "imperatif": [ "–", "apporte !", "–", "apportons !", "apportez !", "–" ],
+  "imperatifPasse": [ "–", "aie apporté !", "–", "ayons apporté !", "ayez apporté !", "–" ]
+}

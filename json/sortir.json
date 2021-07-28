@@ -1,0 +1,22 @@
+{
+  "infinitif": "sortir",
+  "participePresent": "sortant",
+  "participePasse": "sorti",
+  "present": [ "sors", "sors", "sort", "sortons", "sortez", "sortent" ],
+  "imparfait": [ "sortais", "sortais", "sortait", "sortions", "sortiez", "sortaient" ],
+  "passeSimple": [ "sortis", "sortis", "sortit", "sortîmes", "sortîtes", "sortirent" ],
+  "futurSimple": [ "sortirai", "sortiras", "sortira", "sortirons", "sortirez", "sortiront" ],
+  "passeCompose": [ "suis sorti(e)", "es sorti(e)", "est sorti(e)", "sommes sorti(e)s", "êtes sorti(e)(s)", "sont sorti(e)s" ],
+  "plusQueParfait": [ "étais sorti(e)", "étais sorti(e)", "était sorti(e)", "étions sorti(e)s", "étiez sorti(e)(s)", "étaient sorti(e)s" ],
+  "passeAnterieur": [ "fus sorti(e)", "fus sorti(e)", "fut sorti(e)", "fûmes sorti(e)s", "fûtes sorti(e)(s)", "furent sorti(e)s" ],
+  "futurAnterieur": [ "serai sorti(e)", "seras sorti(e)", "sera sorti(e)", "serons sorti(e)s", "serez sorti(e)(s)", "seront sorti(e)s" ],
+  "subjonctifPresent": [ "sorte", "sortes", "sorte", "sortions", "sortiez", "sortent" ],
+  "subjonctifImparfait": [ "sortisse", "sortisses", "sortît", "sortissions", "sortissiez", "sortissent" ],
+  "subjonctifPasse": [ "sois sorti(e)", "sois sorti(e)", "soit sorti(e)", "soyons sorti(e)s", "soyez sorti(e)(s)", "soient sorti(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse sorti(e)", "fusses sorti(e)", "fût sorti(e)", "fussions sorti(e)s", "fussiez sorti(e)(s)", "fussent sorti(e)s" ],
+  "conditionnelPresent": [ "sortirais", "sortirais", "sortirait", "sortirions", "sortiriez", "sortiraient" ],
+  "conditionnelPasse": [ "serais sorti(e)", "serais sorti(e)", "serait sorti(e)", "serions sorti(e)s", "seriez sorti(e)(s)", "seraient sorti(e)s" ],
+  "conditionnelPasseII": [ "fusse sorti(e)", "fusses sorti(e)", "fût sorti(e)", "fussions sorti(e)s", "fussiez sorti(e)(s)", "fussent sorti(e)s" ],
+  "imperatif": [ "–", "sors !", "–", "sortons !", "sortez !", "–" ],
+  "imperatifPasse": [ "–", "sois sorti(e) !", "–", "soyons sorti(e)s !", "soyez sorti(e)(s) !", "–" ]
+}

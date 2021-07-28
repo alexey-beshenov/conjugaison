@@ -1,0 +1,22 @@
+{
+  "infinitif": "tirer",
+  "participePresent": "tirant",
+  "participePasse": "tiré",
+  "present": [ "tire", "tires", "tire", "tirons", "tirez", "tirent" ],
+  "imparfait": [ "tirais", "tirais", "tirait", "tirions", "tiriez", "tiraient" ],
+  "passeSimple": [ "tirai", "tiras", "tira", "tirâmes", "tirâtes", "tirèrent" ],
+  "futurSimple": [ "tirerai", "tireras", "tirera", "tirerons", "tirerez", "tireront" ],
+  "passeCompose": [ "ai tiré", "as tiré", "a tiré", "avons tiré", "avez tiré", "ont tiré" ],
+  "plusQueParfait": [ "avais tiré", "avais tiré", "avait tiré", "avions tiré", "aviez tiré", "avaient tiré" ],
+  "passeAnterieur": [ "eus tiré", "eus tiré", "eut tiré", "eûmes tiré", "eûtes tiré", "eurent tiré" ],
+  "futurAnterieur": [ "aurai tiré", "auras tiré", "aura tiré", "aurons tiré", "aurez tiré", "auront tiré" ],
+  "subjonctifPresent": [ "tire", "tires", "tire", "tirions", "tiriez", "tirent" ],
+  "subjonctifImparfait": [ "tirasse", "tirasses", "tirât", "tirassions", "tirassiez", "tirassent" ],
+  "subjonctifPasse": [ "aie tiré", "aies tiré", "ait tiré", "ayons tiré", "ayez tiré", "aient tiré" ],
+  "subjonctifPlusQueParfait": [ "eusse tiré", "eusses tiré", "eût tiré", "eussions tiré", "eussiez tiré", "eussent tiré" ],
+  "conditionnelPresent": [ "tirerais", "tirerais", "tirerait", "tirerions", "tireriez", "tireraient" ],
+  "conditionnelPasse": [ "aurais tiré", "aurais tiré", "aurait tiré", "aurions tiré", "auriez tiré", "auraient tiré" ],
+  "conditionnelPasseII": [ "eusse tiré", "eusses tiré", "eût tiré", "eussions tiré", "eussiez tiré", "eussent tiré" ],
+  "imperatif": [ "–", "tire !", "–", "tirons !", "tirez !", "–" ],
+  "imperatifPasse": [ "–", "aie tiré !", "–", "ayons tiré !", "ayez tiré !", "–" ]
+}

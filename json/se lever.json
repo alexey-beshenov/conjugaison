@@ -1,0 +1,22 @@
+{
+  "infinitif": "se lever",
+  "participePresent": "se levant",
+  "participePasse": "levé",
+  "present": [ "me lève", "te lèves", "se lève", "nous levons", "vous levez", "se lèvent" ],
+  "imparfait": [ "me levais", "te levais", "se levait", "nous levions", "vous leviez", "se levaient" ],
+  "passeSimple": [ "me levai", "te levas", "se leva", "nous levâmes", "vous levâtes", "se levèrent" ],
+  "futurSimple": [ "me lèverai", "te lèveras", "se lèvera", "nous lèverons", "vous lèverez", "se lèveront" ],
+  "passeCompose": [ "me suis levé(e)", "t'es levé(e)", "s'est levé(e)", "nous sommes levé(e)s", "vous êtes levé(e)(s)", "se sont levé(e)s" ],
+  "plusQueParfait": [ "m'étais levé(e)", "t'étais levé(e)", "s'était levé(e)", "nous étions levé(e)s", "vous étiez levé(e)(s)", "s'étaient levé(e)s" ],
+  "passeAnterieur": [ "me fus levé(e)", "te fus levé(e)", "se fut levé(e)", "nous fûmes levé(e)s", "vous fûtes levé(e)(s)", "se furent levé(e)s" ],
+  "futurAnterieur": [ "me serai levé(e)", "te seras levé(e)", "se sera levé(e)", "nous serons levé(e)s", "vous serez levé(e)(s)", "se seront levé(e)s" ],
+  "subjonctifPresent": [ "me lève", "te lèves", "se lève", "nous levions", "vous leviez", "se lèvent" ],
+  "subjonctifImparfait": [ "me levasse", "te levasses", "se levât", "nous levassions", "vous levassiez", "se levassent" ],
+  "subjonctifPasse": [ "me sois levé(e)", "te sois levé(e)", "se soit levé(e)", "nous soyons levé(e)s", "vous soyez levé(e)(s)", "se soient levé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse levé(e)", "te fusses levé(e)", "se fût levé(e)", "nous fussions levé(e)s", "vous fussiez levé(e)(s)", "se fussent levé(e)s" ],
+  "conditionnelPresent": [ "me lèverais", "te lèverais", "se lèverait", "nous lèverions", "vous lèveriez", "se lèveraient" ],
+  "conditionnelPasse": [ "me serais levé(e)", "te serais levé(e)", "se serait levé(e)", "nous serions levé(e)s", "vous seriez levé(e)(s)", "se seraient levé(e)s" ],
+  "conditionnelPasseII": [ "me fusse levé(e)", "te fusses levé(e)", "se fût levé(e)", "nous fussions levé(e)s", "vous fussiez levé(e)(s)", "se fussent levé(e)s" ],
+  "imperatif": [ "–", "lève-toi !", "–", "levons-nous !", "levez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

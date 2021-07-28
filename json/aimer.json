@@ -1,0 +1,22 @@
+{
+  "infinitif": "aimer",
+  "participePresent": "aimant",
+  "participePasse": "aimé",
+  "present": [ "aime", "aimes", "aime", "aimons", "aimez", "aiment" ],
+  "imparfait": [ "aimais", "aimais", "aimait", "aimions", "aimiez", "aimaient" ],
+  "passeSimple": [ "aimai", "aimas", "aima", "aimâmes", "aimâtes", "aimèrent" ],
+  "futurSimple": [ "aimerai", "aimeras", "aimera", "aimerons", "aimerez", "aimeront" ],
+  "passeCompose": [ "ai aimé", "as aimé", "a aimé", "avons aimé", "avez aimé", "ont aimé" ],
+  "plusQueParfait": [ "avais aimé", "avais aimé", "avait aimé", "avions aimé", "aviez aimé", "avaient aimé" ],
+  "passeAnterieur": [ "eus aimé", "eus aimé", "eut aimé", "eûmes aimé", "eûtes aimé", "eurent aimé" ],
+  "futurAnterieur": [ "aurai aimé", "auras aimé", "aura aimé", "aurons aimé", "aurez aimé", "auront aimé" ],
+  "subjonctifPresent": [ "aime", "aimes", "aime", "aimions", "aimiez", "aiment" ],
+  "subjonctifImparfait": [ "aimasse", "aimasses", "aimât", "aimassions", "aimassiez", "aimassent" ],
+  "subjonctifPasse": [ "aie aimé", "aies aimé", "ait aimé", "ayons aimé", "ayez aimé", "aient aimé" ],
+  "subjonctifPlusQueParfait": [ "eusse aimé", "eusses aimé", "eût aimé", "eussions aimé", "eussiez aimé", "eussent aimé" ],
+  "conditionnelPresent": [ "aimerais", "aimerais", "aimerait", "aimerions", "aimeriez", "aimeraient" ],
+  "conditionnelPasse": [ "aurais aimé", "aurais aimé", "aurait aimé", "aurions aimé", "auriez aimé", "auraient aimé" ],
+  "conditionnelPasseII": [ "eusse aimé", "eusses aimé", "eût aimé", "eussions aimé", "eussiez aimé", "eussent aimé" ],
+  "imperatif": [ "–", "aime !", "–", "aimons !", "aimez !", "–" ],
+  "imperatifPasse": [ "–", "aie aimé !", "–", "ayons aimé !", "ayez aimé !", "–" ]
+}

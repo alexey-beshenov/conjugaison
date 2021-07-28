@@ -1,0 +1,22 @@
+{
+  "infinitif": "se désigner",
+  "participePresent": "se désignant",
+  "participePasse": "désigné",
+  "present": [ "me désigne", "te désignes", "se désigne", "nous désignons", "vous désignez", "se désignent" ],
+  "imparfait": [ "me désignais", "te désignais", "se désignait", "nous désignions", "vous désigniez", "se désignaient" ],
+  "passeSimple": [ "me désignai", "te désignas", "se désigna", "nous désignâmes", "vous désignâtes", "se désignèrent" ],
+  "futurSimple": [ "me désignerai", "te désigneras", "se désignera", "nous désignerons", "vous désignerez", "se désigneront" ],
+  "passeCompose": [ "me suis désigné(e)", "t'es désigné(e)", "s'est désigné(e)", "nous sommes désigné(e)s", "vous êtes désigné(e)(s)", "se sont désigné(e)s" ],
+  "plusQueParfait": [ "m'étais désigné(e)", "t'étais désigné(e)", "s'était désigné(e)", "nous étions désigné(e)s", "vous étiez désigné(e)(s)", "s'étaient désigné(e)s" ],
+  "passeAnterieur": [ "me fus désigné(e)", "te fus désigné(e)", "se fut désigné(e)", "nous fûmes désigné(e)s", "vous fûtes désigné(e)(s)", "se furent désigné(e)s" ],
+  "futurAnterieur": [ "me serai désigné(e)", "te seras désigné(e)", "se sera désigné(e)", "nous serons désigné(e)s", "vous serez désigné(e)(s)", "se seront désigné(e)s" ],
+  "subjonctifPresent": [ "me désigne", "te désignes", "se désigne", "nous désignions", "vous désigniez", "se désignent" ],
+  "subjonctifImparfait": [ "me désignasse", "te désignasses", "se désignât", "nous désignassions", "vous désignassiez", "se désignassent" ],
+  "subjonctifPasse": [ "me sois désigné(e)", "te sois désigné(e)", "se soit désigné(e)", "nous soyons désigné(e)s", "vous soyez désigné(e)(s)", "se soient désigné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse désigné(e)", "te fusses désigné(e)", "se fût désigné(e)", "nous fussions désigné(e)s", "vous fussiez désigné(e)(s)", "se fussent désigné(e)s" ],
+  "conditionnelPresent": [ "me désignerais", "te désignerais", "se désignerait", "nous désignerions", "vous désigneriez", "se désigneraient" ],
+  "conditionnelPasse": [ "me serais désigné(e)", "te serais désigné(e)", "se serait désigné(e)", "nous serions désigné(e)s", "vous seriez désigné(e)(s)", "se seraient désigné(e)s" ],
+  "conditionnelPasseII": [ "me fusse désigné(e)", "te fusses désigné(e)", "se fût désigné(e)", "nous fussions désigné(e)s", "vous fussiez désigné(e)(s)", "se fussent désigné(e)s" ],
+  "imperatif": [ "–", "désigne-toi !", "–", "désignons-nous !", "désignez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

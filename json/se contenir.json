@@ -1,0 +1,22 @@
+{
+  "infinitif": "se contenir",
+  "participePresent": "se contenant",
+  "participePasse": "contenu",
+  "present": [ "me contiens", "te contiens", "se contient", "nous contenons", "vous contenez", "se contiennent" ],
+  "imparfait": [ "me contenais", "te contenais", "se contenait", "nous contenions", "vous conteniez", "se contenaient" ],
+  "passeSimple": [ "me contins", "te contins", "se contint", "nous contînmes", "vous contîntes", "se continrent" ],
+  "futurSimple": [ "me contiendrai", "te contiendras", "se contiendra", "nous contiendrons", "vous contiendrez", "se contiendront" ],
+  "passeCompose": [ "me suis contenu(e)", "t'es contenu(e)", "s'est contenu(e)", "nous sommes contenu(e)s", "vous êtes contenu(e)(s)", "se sont contenu(e)s" ],
+  "plusQueParfait": [ "m'étais contenu(e)", "t'étais contenu(e)", "s'était contenu(e)", "nous étions contenu(e)s", "vous étiez contenu(e)(s)", "s'étaient contenu(e)s" ],
+  "passeAnterieur": [ "me fus contenu(e)", "te fus contenu(e)", "se fut contenu(e)", "nous fûmes contenu(e)s", "vous fûtes contenu(e)(s)", "se furent contenu(e)s" ],
+  "futurAnterieur": [ "me serai contenu(e)", "te seras contenu(e)", "se sera contenu(e)", "nous serons contenu(e)s", "vous serez contenu(e)(s)", "se seront contenu(e)s" ],
+  "subjonctifPresent": [ "me contienne", "te contiennes", "se contienne", "nous contenions", "vous conteniez", "se contiennent" ],
+  "subjonctifImparfait": [ "me continsse", "te continsses", "se contînt", "nous continssions", "vous continssiez", "se continssent" ],
+  "subjonctifPasse": [ "me sois contenu(e)", "te sois contenu(e)", "se soit contenu(e)", "nous soyons contenu(e)s", "vous soyez contenu(e)(s)", "se soient contenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse contenu(e)", "te fusses contenu(e)", "se fût contenu(e)", "nous fussions contenu(e)s", "vous fussiez contenu(e)(s)", "se fussent contenu(e)s" ],
+  "conditionnelPresent": [ "me contiendrais", "te contiendrais", "se contiendrait", "nous contiendrions", "vous contiendriez", "se contiendraient" ],
+  "conditionnelPasse": [ "me serais contenu(e)", "te serais contenu(e)", "se serait contenu(e)", "nous serions contenu(e)s", "vous seriez contenu(e)(s)", "se seraient contenu(e)s" ],
+  "conditionnelPasseII": [ "me fusse contenu(e)", "te fusses contenu(e)", "se fût contenu(e)", "nous fussions contenu(e)s", "vous fussiez contenu(e)(s)", "se fussent contenu(e)s" ],
+  "imperatif": [ "–", "contiens-toi !", "–", "contenons-nous !", "contenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

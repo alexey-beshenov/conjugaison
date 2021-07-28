@@ -1,0 +1,22 @@
+{
+  "infinitif": "se valoir",
+  "participePresent": "se valant",
+  "participePasse": "valu",
+  "present": [ "me vaux", "te vaux", "se vaut", "nous valons", "vous valez", "se valent" ],
+  "imparfait": [ "me valais", "te valais", "se valait", "nous valions", "vous valiez", "se valaient" ],
+  "passeSimple": [ "me valus", "te valus", "se valut", "nous valûmes", "vous valûtes", "se valurent" ],
+  "futurSimple": [ "me vaudrai", "te vaudras", "se vaudra", "nous vaudrons", "vous vaudrez", "se vaudront" ],
+  "passeCompose": [ "me suis valu(e)", "t'es valu(e)", "s'est valu(e)", "nous sommes valu(e)s", "vous êtes valu(e)(s)", "se sont valu(e)s" ],
+  "plusQueParfait": [ "m'étais valu(e)", "t'étais valu(e)", "s'était valu(e)", "nous étions valu(e)s", "vous étiez valu(e)(s)", "s'étaient valu(e)s" ],
+  "passeAnterieur": [ "me fus valu(e)", "te fus valu(e)", "se fut valu(e)", "nous fûmes valu(e)s", "vous fûtes valu(e)(s)", "se furent valu(e)s" ],
+  "futurAnterieur": [ "me serai valu(e)", "te seras valu(e)", "se sera valu(e)", "nous serons valu(e)s", "vous serez valu(e)(s)", "se seront valu(e)s" ],
+  "subjonctifPresent": [ "me vaille", "te vailles", "se vaille", "nous valions", "vous valiez", "se vaillent" ],
+  "subjonctifImparfait": [ "me valusse", "te valusses", "se valût", "nous valussions", "vous valussiez", "se valussent" ],
+  "subjonctifPasse": [ "me sois valu(e)", "te sois valu(e)", "se soit valu(e)", "nous soyons valu(e)s", "vous soyez valu(e)(s)", "se soient valu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse valu(e)", "te fusses valu(e)", "se fût valu(e)", "nous fussions valu(e)s", "vous fussiez valu(e)(s)", "se fussent valu(e)s" ],
+  "conditionnelPresent": [ "me vaudrais", "te vaudrais", "se vaudrait", "nous vaudrions", "vous vaudriez", "se vaudraient" ],
+  "conditionnelPasse": [ "me serais valu(e)", "te serais valu(e)", "se serait valu(e)", "nous serions valu(e)s", "vous seriez valu(e)(s)", "se seraient valu(e)s" ],
+  "conditionnelPasseII": [ "me fusse valu(e)", "te fusses valu(e)", "se fût valu(e)", "nous fussions valu(e)s", "vous fussiez valu(e)(s)", "se fussent valu(e)s" ],
+  "imperatif": [ "–", "vaux-toi !", "–", "valons-nous !", "valez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

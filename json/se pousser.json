@@ -1,0 +1,22 @@
+{
+  "infinitif": "se pousser",
+  "participePresent": "se poussant",
+  "participePasse": "poussé",
+  "present": [ "–", "–", "se pousse", "nous poussons", "vous poussez", "se poussent" ],
+  "imparfait": [ "–", "–", "se poussait", "nous poussions", "vous poussiez", "se poussaient" ],
+  "passeSimple": [ "–", "–", "se poussa", "nous poussâmes", "vous poussâtes", "se poussèrent" ],
+  "futurSimple": [ "–", "–", "se poussera", "nous pousserons", "vous pousserez", "se pousseront" ],
+  "passeCompose": [ "–", "–", "s'est poussé(e)s", "nous sommes poussé(e)s", "vous êtes poussé(e)(s)", "se sont poussé(e)s" ],
+  "plusQueParfait": [ "–", "–", "s'était poussé(e)s", "nous étions poussé(e)s", "vous étiez poussé(e)(s)", "s'étaient poussé(e)s" ],
+  "passeAnterieur": [ "–", "–", "se fut poussé(e)s", "nous fûmes poussé(e)s", "vous fûtes poussé(e)(s)", "se furent poussé(e)s" ],
+  "futurAnterieur": [ "–", "–", "se sera poussé(e)s", "nous serons poussé(e)s", "vous serez poussé(e)(s)", "se seront poussé(e)s" ],
+  "subjonctifPresent": [ "–", "–", "se pousse", "nous poussions", "vous poussiez", "se poussent" ],
+  "subjonctifImparfait": [ "–", "–", "se poussât", "nous poussassions", "vous poussassiez", "se poussassent" ],
+  "subjonctifPasse": [ "–", "–", "se soit poussé(e)s", "nous soyons poussé(e)s", "vous soyez poussé(e)(s)", "se soient poussé(e)s" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "se fût poussé(e)s", "nous fussions poussé(e)s", "vous fussiez poussé(e)(s)", "se fussent poussé(e)s" ],
+  "conditionnelPresent": [ "–", "–", "se pousserait", "nous pousserions", "vous pousseriez", "se pousseraient" ],
+  "conditionnelPasse": [ "–", "–", "se serait poussé(e)s", "nous serions poussé(e)s", "vous seriez poussé(e)(s)", "se seraient poussé(e)s" ],
+  "conditionnelPasseII": [ "–", "–", "se fût poussé(e)s", "nous fussions poussé(e)s", "vous fussiez poussé(e)(s)", "se fussent poussé(e)s" ],
+  "imperatif": [ "–", "–", "–", "poussons-nous !", "poussez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

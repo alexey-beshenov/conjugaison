@@ -1,0 +1,22 @@
+{
+  "infinitif": "abandonner",
+  "participePresent": "abandonnant",
+  "participePasse": "abandonné",
+  "present": [ "abandonne", "abandonnes", "abandonne", "abandonnons", "abandonnez", "abandonnent" ],
+  "imparfait": [ "abandonnais", "abandonnais", "abandonnait", "abandonnions", "abandonniez", "abandonnaient" ],
+  "passeSimple": [ "abandonnai", "abandonnas", "abandonna", "abandonnâmes", "abandonnâtes", "abandonnèrent" ],
+  "futurSimple": [ "abandonnerai", "abandonneras", "abandonnera", "abandonnerons", "abandonnerez", "abandonneront" ],
+  "passeCompose": [ "ai abandonné", "as abandonné", "a abandonné", "avons abandonné", "avez abandonné", "ont abandonné" ],
+  "plusQueParfait": [ "avais abandonné", "avais abandonné", "avait abandonné", "avions abandonné", "aviez abandonné", "avaient abandonné" ],
+  "passeAnterieur": [ "eus abandonné", "eus abandonné", "eut abandonné", "eûmes abandonné", "eûtes abandonné", "eurent abandonné" ],
+  "futurAnterieur": [ "aurai abandonné", "auras abandonné", "aura abandonné", "aurons abandonné", "aurez abandonné", "auront abandonné" ],
+  "subjonctifPresent": [ "abandonne", "abandonnes", "abandonne", "abandonnions", "abandonniez", "abandonnent" ],
+  "subjonctifImparfait": [ "abandonnasse", "abandonnasses", "abandonnât", "abandonnassions", "abandonnassiez", "abandonnassent" ],
+  "subjonctifPasse": [ "aie abandonné", "aies abandonné", "ait abandonné", "ayons abandonné", "ayez abandonné", "aient abandonné" ],
+  "subjonctifPlusQueParfait": [ "eusse abandonné", "eusses abandonné", "eût abandonné", "eussions abandonné", "eussiez abandonné", "eussent abandonné" ],
+  "conditionnelPresent": [ "abandonnerais", "abandonnerais", "abandonnerait", "abandonnerions", "abandonneriez", "abandonneraient" ],
+  "conditionnelPasse": [ "aurais abandonné", "aurais abandonné", "aurait abandonné", "aurions abandonné", "auriez abandonné", "auraient abandonné" ],
+  "conditionnelPasseII": [ "eusse abandonné", "eusses abandonné", "eût abandonné", "eussions abandonné", "eussiez abandonné", "eussent abandonné" ],
+  "imperatif": [ "–", "abandonne !", "–", "abandonnons !", "abandonnez !", "–" ],
+  "imperatifPasse": [ "–", "aie abandonné !", "–", "ayons abandonné !", "ayez abandonné !", "–" ]
+}

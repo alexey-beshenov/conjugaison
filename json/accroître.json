@@ -1,0 +1,22 @@
+{
+  "infinitif": "accroître",
+  "participePresent": "accroissant",
+  "participePasse": "accru",
+  "present": [ "accrois", "accrois", "accroît", "accroissons", "accroissez", "accroissent" ],
+  "imparfait": [ "accroissais", "accroissais", "accroissait", "accroissions", "accroissiez", "accroissaient" ],
+  "passeSimple": [ "accrus", "accrus", "accrut", "accrûmes", "accrûtes", "accrurent" ],
+  "futurSimple": [ "accroîtrai", "accroîtras", "accroîtra", "accroîtrons", "accroîtrez", "accroîtront" ],
+  "passeCompose": [ "ai accru", "as accru", "a accru", "avons accru", "avez accru", "ont accru" ],
+  "plusQueParfait": [ "avais accru", "avais accru", "avait accru", "avions accru", "aviez accru", "avaient accru" ],
+  "passeAnterieur": [ "eus accru", "eus accru", "eut accru", "eûmes accru", "eûtes accru", "eurent accru" ],
+  "futurAnterieur": [ "aurai accru", "auras accru", "aura accru", "aurons accru", "aurez accru", "auront accru" ],
+  "subjonctifPresent": [ "accroisse", "accroisses", "accroisse", "accroissions", "accroissiez", "accroissent" ],
+  "subjonctifImparfait": [ "accrusse", "accrusses", "accrût", "accrussions", "accrussiez", "accrussent" ],
+  "subjonctifPasse": [ "aie accru", "aies accru", "ait accru", "ayons accru", "ayez accru", "aient accru" ],
+  "subjonctifPlusQueParfait": [ "eusse accru", "eusses accru", "eût accru", "eussions accru", "eussiez accru", "eussent accru" ],
+  "conditionnelPresent": [ "accroîtrais", "accroîtrais", "accroîtrait", "accroîtrions", "accroîtriez", "accroîtraient" ],
+  "conditionnelPasse": [ "aurais accru", "aurais accru", "aurait accru", "aurions accru", "auriez accru", "auraient accru" ],
+  "conditionnelPasseII": [ "eusse accru", "eusses accru", "eût accru", "eussions accru", "eussiez accru", "eussent accru" ],
+  "imperatif": [ "–", "accrois !", "–", "accroissons !", "accroissez !", "–" ],
+  "imperatifPasse": [ "–", "aie accru !", "–", "ayons accru !", "ayez accru !", "–" ]
+}

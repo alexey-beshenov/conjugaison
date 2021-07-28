@@ -1,0 +1,22 @@
+{
+  "infinitif": "rebouillir",
+  "participePresent": "rebouillant",
+  "participePasse": "rebouilli",
+  "present": [ "rebous", "rebous", "rebout", "rebouillons", "rebouillez", "rebouillent" ],
+  "imparfait": [ "rebouillais", "rebouillais", "rebouillait", "rebouillions", "rebouilliez", "rebouillaient" ],
+  "passeSimple": [ "rebouillis", "rebouillis", "rebouillit", "rebouillîmes", "rebouillîtes", "rebouillirent" ],
+  "futurSimple": [ "rebouillirai", "rebouilliras", "rebouillira", "rebouillirons", "rebouillirez", "rebouilliront" ],
+  "passeCompose": [ "ai rebouilli", "as rebouilli", "a rebouilli", "avons rebouilli", "avez rebouilli", "ont rebouilli" ],
+  "plusQueParfait": [ "avais rebouilli", "avais rebouilli", "avait rebouilli", "avions rebouilli", "aviez rebouilli", "avaient rebouilli" ],
+  "passeAnterieur": [ "eus rebouilli", "eus rebouilli", "eut rebouilli", "eûmes rebouilli", "eûtes rebouilli", "eurent rebouilli" ],
+  "futurAnterieur": [ "aurai rebouilli", "auras rebouilli", "aura rebouilli", "aurons rebouilli", "aurez rebouilli", "auront rebouilli" ],
+  "subjonctifPresent": [ "rebouille", "rebouilles", "rebouille", "rebouillions", "rebouilliez", "rebouillent" ],
+  "subjonctifImparfait": [ "rebouillisse", "rebouillisses", "rebouillît", "rebouillissions", "rebouillissiez", "rebouillissent" ],
+  "subjonctifPasse": [ "aie rebouilli", "aies rebouilli", "ait rebouilli", "ayons rebouilli", "ayez rebouilli", "aient rebouilli" ],
+  "subjonctifPlusQueParfait": [ "eusse rebouilli", "eusses rebouilli", "eût rebouilli", "eussions rebouilli", "eussiez rebouilli", "eussent rebouilli" ],
+  "conditionnelPresent": [ "rebouillirais", "rebouillirais", "rebouillirait", "rebouillirions", "rebouilliriez", "rebouilliraient" ],
+  "conditionnelPasse": [ "aurais rebouilli", "aurais rebouilli", "aurait rebouilli", "aurions rebouilli", "auriez rebouilli", "auraient rebouilli" ],
+  "conditionnelPasseII": [ "eusse rebouilli", "eusses rebouilli", "eût rebouilli", "eussions rebouilli", "eussiez rebouilli", "eussent rebouilli" ],
+  "imperatif": [ "–", "rebous !", "–", "rebouillons !", "rebouillez !", "–" ],
+  "imperatifPasse": [ "–", "aie rebouilli !", "–", "ayons rebouilli !", "ayez rebouilli !", "–" ]
+}

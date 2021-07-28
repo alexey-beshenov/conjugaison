@@ -1,0 +1,22 @@
+{
+  "infinitif": "livrer",
+  "participePresent": "livrant",
+  "participePasse": "livré",
+  "present": [ "livre", "livres", "livre", "livrons", "livrez", "livrent" ],
+  "imparfait": [ "livrais", "livrais", "livrait", "livrions", "livriez", "livraient" ],
+  "passeSimple": [ "livrai", "livras", "livra", "livrâmes", "livrâtes", "livrèrent" ],
+  "futurSimple": [ "livrerai", "livreras", "livrera", "livrerons", "livrerez", "livreront" ],
+  "passeCompose": [ "ai livré", "as livré", "a livré", "avons livré", "avez livré", "ont livré" ],
+  "plusQueParfait": [ "avais livré", "avais livré", "avait livré", "avions livré", "aviez livré", "avaient livré" ],
+  "passeAnterieur": [ "eus livré", "eus livré", "eut livré", "eûmes livré", "eûtes livré", "eurent livré" ],
+  "futurAnterieur": [ "aurai livré", "auras livré", "aura livré", "aurons livré", "aurez livré", "auront livré" ],
+  "subjonctifPresent": [ "livre", "livres", "livre", "livrions", "livriez", "livrent" ],
+  "subjonctifImparfait": [ "livrasse", "livrasses", "livrât", "livrassions", "livrassiez", "livrassent" ],
+  "subjonctifPasse": [ "aie livré", "aies livré", "ait livré", "ayons livré", "ayez livré", "aient livré" ],
+  "subjonctifPlusQueParfait": [ "eusse livré", "eusses livré", "eût livré", "eussions livré", "eussiez livré", "eussent livré" ],
+  "conditionnelPresent": [ "livrerais", "livrerais", "livrerait", "livrerions", "livreriez", "livreraient" ],
+  "conditionnelPasse": [ "aurais livré", "aurais livré", "aurait livré", "aurions livré", "auriez livré", "auraient livré" ],
+  "conditionnelPasseII": [ "eusse livré", "eusses livré", "eût livré", "eussions livré", "eussiez livré", "eussent livré" ],
+  "imperatif": [ "–", "livre !", "–", "livrons !", "livrez !", "–" ],
+  "imperatifPasse": [ "–", "aie livré !", "–", "ayons livré !", "ayez livré !", "–" ]
+}

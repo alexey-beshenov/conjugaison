@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'essayer",
+  "participePresent": "s'essayant",
+  "participePasse": "essayé",
+  "present": [ "m'essaie, essaye", "t'essaies, essayes", "s'essaie, essaye", "nous essayons", "vous essayez", "s'essaient, essayent" ],
+  "imparfait": [ "m'essayais", "t'essayais", "s'essayait", "nous essayions", "vous essayiez", "s'essayaient" ],
+  "passeSimple": [ "m'essayai", "t'essayas", "s'essaya", "nous essayâmes", "vous essayâtes", "s'essayèrent" ],
+  "futurSimple": [ "m'essaierai, essayerai", "t'essaieras, essayeras", "s'essaiera, essayera", "nous essaierons, essayerons", "vous essaierez, essayerez", "s'essaieront, essayeront" ],
+  "passeCompose": [ "me suis essayé(e)", "t'es essayé(e)", "s'est essayé(e)", "nous sommes essayé(e)s", "vous êtes essayé(e)(s)", "se sont essayé(e)s" ],
+  "plusQueParfait": [ "m'étais essayé(e)", "t'étais essayé(e)", "s'était essayé(e)", "nous étions essayé(e)s", "vous étiez essayé(e)(s)", "s'étaient essayé(e)s" ],
+  "passeAnterieur": [ "me fus essayé(e)", "te fus essayé(e)", "se fut essayé(e)", "nous fûmes essayé(e)s", "vous fûtes essayé(e)(s)", "se furent essayé(e)s" ],
+  "futurAnterieur": [ "me serai essayé(e)", "te seras essayé(e)", "se sera essayé(e)", "nous serons essayé(e)s", "vous serez essayé(e)(s)", "se seront essayé(e)s" ],
+  "subjonctifPresent": [ "m'essaie, essaye", "t'essaies, essayes", "s'essaie, essaye", "nous essayions", "vous essayiez", "s'essaient, essayent" ],
+  "subjonctifImparfait": [ "m'essayasse", "t'essayasses", "s'essayât", "nous essayassions", "vous essayassiez", "s'essayassent" ],
+  "subjonctifPasse": [ "me sois essayé(e)", "te sois essayé(e)", "se soit essayé(e)", "nous soyons essayé(e)s", "vous soyez essayé(e)(s)", "se soient essayé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse essayé(e)", "te fusses essayé(e)", "se fût essayé(e)", "nous fussions essayé(e)s", "vous fussiez essayé(e)(s)", "se fussent essayé(e)s" ],
+  "conditionnelPresent": [ "m'essaierais, essayerais", "t'essaierais, essayerais", "s'essaierait, essayerait", "nous essaierions, essayerions", "vous essaieriez, essayeriez", "s'essaieraient, essayeraient" ],
+  "conditionnelPasse": [ "me serais essayé(e)", "te serais essayé(e)", "se serait essayé(e)", "nous serions essayé(e)s", "vous seriez essayé(e)(s)", "se seraient essayé(e)s" ],
+  "conditionnelPasseII": [ "me fusse essayé(e)", "te fusses essayé(e)", "se fût essayé(e)", "nous fussions essayé(e)s", "vous fussiez essayé(e)(s)", "se fussent essayé(e)s" ],
+  "imperatif": [ "–", "essaie-toi, essaye-toi !", "–", "essayons-nous !", "essayez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

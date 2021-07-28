@@ -1,0 +1,22 @@
+{
+  "infinitif": "asseoir",
+  "participePresent": "asseyant,",
+  "participePasse": "assoyant",
+  "present": [ "assieds, assois", "assieds, assois", "assied, assoit", "asseyons, assoyons", "asseyez, assoyez", "asseyent, assoient" ],
+  "imparfait": [ "asseyais, assoyais", "asseyais, assoyais", "asseyait, assoyait", "asseyions, assoyions", "asseyiez, assoyiez", "asseyaient, assoyaient" ],
+  "passeSimple": [ "assis", "assis", "assit", "assîmes", "assîtes", "assirent" ],
+  "futurSimple": [ "assiérai, assoirai, asseyerai", "assiéras, assoiras, asseyeras", "assiéra, assoira, asseyera", "assiérons, assoirons, asseyerons", "assiérez, assoirez, asseyerez", "assiéront, assoiront, asseyeront" ],
+  "passeCompose": [ "ai assis", "as assis", "a assis", "avons assis", "avez assis", "ont assis" ],
+  "plusQueParfait": [ "avais assis", "avais assis", "avait assis", "avions assis", "aviez assis", "avaient assis" ],
+  "passeAnterieur": [ "eus assis", "eus assis", "eut assis", "eûmes assis", "eûtes assis", "eurent assis" ],
+  "futurAnterieur": [ "aurai assis", "auras assis", "aura assis", "aurons assis", "aurez assis", "auront assis" ],
+  "subjonctifPresent": [ "asseye, assoie", "asseyes, assoies", "asseye, assoie", "asseyions, assoyions", "asseyiez, assoyiez", "asseyent, assoient" ],
+  "subjonctifImparfait": [ "assisse", "assisses", "assît", "assissions", "assissiez", "assissent" ],
+  "subjonctifPasse": [ "aie assis", "aies assis", "ait assis", "ayons assis", "ayez assis", "aient assis" ],
+  "subjonctifPlusQueParfait": [ "eusse assis", "eusses assis", "eût assis", "eussions assis", "eussiez assis", "eussent assis" ],
+  "conditionnelPresent": [ "assiérais, assoirais, asseyerais", "assiérais, assoirais, asseyerais", "assiérait, assoirait, asseyerait", "assiérions, assoirions, asseyerions", "assiériez, assoiriez, asseyeriez", "assiéraient, assoiraient, asseyeraient" ],
+  "conditionnelPasse": [ "aurais assis", "aurais assis", "aurait assis", "aurions assis", "auriez assis", "auraient assis" ],
+  "conditionnelPasseII": [ "eusse assis", "eusses assis", "eût assis", "eussions assis", "eussiez assis", "eussent assis" ],
+  "imperatif": [ "–", "assieds, assois !", "–", "asseyons, assoyons !", "asseyez, assoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie assis !", "–", "ayons assis !", "ayez assis !", "–" ]
+}

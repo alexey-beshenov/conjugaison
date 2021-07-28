@@ -1,0 +1,22 @@
+{
+  "infinitif": "se clore",
+  "participePresent": "se closant",
+  "participePasse": "clos",
+  "present": [ "me clos", "te clos", "se clôt", "nous closons", "vous closez", "se closent" ],
+  "imparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
+  "futurSimple": [ "me clorai", "te cloras", "se clora", "nous clorons", "vous clorez", "se cloront" ],
+  "passeCompose": [ "me suis clos(e)", "t'es clos(e)", "s'est clos(e)", "nous sommes clos(es)", "vous êtes clos(e(s))", "se sont clos(es)" ],
+  "plusQueParfait": [ "m'étais clos(e)", "t'étais clos(e)", "s'était clos(e)", "nous étions clos(es)", "vous étiez clos(e(s))", "s'étaient clos(es)" ],
+  "passeAnterieur": [ "me fus clos(e)", "te fus clos(e)", "se fut clos(e)", "nous fûmes clos(es)", "vous fûtes clos(e(s))", "se furent clos(es)" ],
+  "futurAnterieur": [ "me serai clos(e)", "te seras clos(e)", "se sera clos(e)", "nous serons clos(es)", "vous serez clos(e(s))", "se seront clos(es)" ],
+  "subjonctifPresent": [ "me close", "te closes", "se close", "nous closions", "vous closiez", "se closent" ],
+  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPasse": [ "me sois clos(e)", "te sois clos(e)", "se soit clos(e)", "nous soyons clos(es)", "vous soyez clos(e(s))", "se soient clos(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse clos(e)", "te fusses clos(e)", "se fût clos(e)", "nous fussions clos(es)", "vous fussiez clos(e(s))", "se fussent clos(es)" ],
+  "conditionnelPresent": [ "me clorais", "te clorais", "se clorait", "nous clorions", "vous cloriez", "se cloraient" ],
+  "conditionnelPasse": [ "me serais clos(e)", "te serais clos(e)", "se serait clos(e)", "nous serions clos(es)", "vous seriez clos(e(s))", "se seraient clos(es)" ],
+  "conditionnelPasseII": [ "me fusse clos(e)", "te fusses clos(e)", "se fût clos(e)", "nous fussions clos(es)", "vous fussiez clos(e(s))", "se fussent clos(es)" ],
+  "imperatif": [ "–", "clos-toi !", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

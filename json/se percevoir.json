@@ -1,0 +1,22 @@
+{
+  "infinitif": "se percevoir",
+  "participePresent": "se percevant",
+  "participePasse": "perçu",
+  "present": [ "me perçois", "te perçois", "se perçoit", "nous percevons", "vous percevez", "se perçoivent" ],
+  "imparfait": [ "me percevais", "te percevais", "se percevait", "nous percevions", "vous perceviez", "se percevaient" ],
+  "passeSimple": [ "me perçus", "te perçus", "se perçut", "nous perçûmes", "vous perçûtes", "se perçurent" ],
+  "futurSimple": [ "me percevrai", "te percevras", "se percevra", "nous percevrons", "vous percevrez", "se percevront" ],
+  "passeCompose": [ "me suis perçu(e)", "t'es perçu(e)", "s'est perçu(e)", "nous sommes perçu(e)s", "vous êtes perçu(e)(s)", "se sont perçu(e)s" ],
+  "plusQueParfait": [ "m'étais perçu(e)", "t'étais perçu(e)", "s'était perçu(e)", "nous étions perçu(e)s", "vous étiez perçu(e)(s)", "s'étaient perçu(e)s" ],
+  "passeAnterieur": [ "me fus perçu(e)", "te fus perçu(e)", "se fut perçu(e)", "nous fûmes perçu(e)s", "vous fûtes perçu(e)(s)", "se furent perçu(e)s" ],
+  "futurAnterieur": [ "me serai perçu(e)", "te seras perçu(e)", "se sera perçu(e)", "nous serons perçu(e)s", "vous serez perçu(e)(s)", "se seront perçu(e)s" ],
+  "subjonctifPresent": [ "me perçoive", "te perçoives", "se perçoive", "nous percevions", "vous perceviez", "se perçoivent" ],
+  "subjonctifImparfait": [ "me perçusse", "te perçusses", "se perçût", "nous perçussions", "vous perçussiez", "se perçussent" ],
+  "subjonctifPasse": [ "me sois perçu(e)", "te sois perçu(e)", "se soit perçu(e)", "nous soyons perçu(e)s", "vous soyez perçu(e)(s)", "se soient perçu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse perçu(e)", "te fusses perçu(e)", "se fût perçu(e)", "nous fussions perçu(e)s", "vous fussiez perçu(e)(s)", "se fussent perçu(e)s" ],
+  "conditionnelPresent": [ "me percevrais", "te percevrais", "se percevrait", "nous percevrions", "vous percevriez", "se percevraient" ],
+  "conditionnelPasse": [ "me serais perçu(e)", "te serais perçu(e)", "se serait perçu(e)", "nous serions perçu(e)s", "vous seriez perçu(e)(s)", "se seraient perçu(e)s" ],
+  "conditionnelPasseII": [ "me fusse perçu(e)", "te fusses perçu(e)", "se fût perçu(e)", "nous fussions perçu(e)s", "vous fussiez perçu(e)(s)", "se fussent perçu(e)s" ],
+  "imperatif": [ "–", "perçois-toi !", "–", "percevons-nous !", "percevez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

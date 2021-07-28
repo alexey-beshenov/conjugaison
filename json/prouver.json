@@ -1,0 +1,22 @@
+{
+  "infinitif": "prouver",
+  "participePresent": "prouvant",
+  "participePasse": "prouvé",
+  "present": [ "prouve", "prouves", "prouve", "prouvons", "prouvez", "prouvent" ],
+  "imparfait": [ "prouvais", "prouvais", "prouvait", "prouvions", "prouviez", "prouvaient" ],
+  "passeSimple": [ "prouvai", "prouvas", "prouva", "prouvâmes", "prouvâtes", "prouvèrent" ],
+  "futurSimple": [ "prouverai", "prouveras", "prouvera", "prouverons", "prouverez", "prouveront" ],
+  "passeCompose": [ "ai prouvé", "as prouvé", "a prouvé", "avons prouvé", "avez prouvé", "ont prouvé" ],
+  "plusQueParfait": [ "avais prouvé", "avais prouvé", "avait prouvé", "avions prouvé", "aviez prouvé", "avaient prouvé" ],
+  "passeAnterieur": [ "eus prouvé", "eus prouvé", "eut prouvé", "eûmes prouvé", "eûtes prouvé", "eurent prouvé" ],
+  "futurAnterieur": [ "aurai prouvé", "auras prouvé", "aura prouvé", "aurons prouvé", "aurez prouvé", "auront prouvé" ],
+  "subjonctifPresent": [ "prouve", "prouves", "prouve", "prouvions", "prouviez", "prouvent" ],
+  "subjonctifImparfait": [ "prouvasse", "prouvasses", "prouvât", "prouvassions", "prouvassiez", "prouvassent" ],
+  "subjonctifPasse": [ "aie prouvé", "aies prouvé", "ait prouvé", "ayons prouvé", "ayez prouvé", "aient prouvé" ],
+  "subjonctifPlusQueParfait": [ "eusse prouvé", "eusses prouvé", "eût prouvé", "eussions prouvé", "eussiez prouvé", "eussent prouvé" ],
+  "conditionnelPresent": [ "prouverais", "prouverais", "prouverait", "prouverions", "prouveriez", "prouveraient" ],
+  "conditionnelPasse": [ "aurais prouvé", "aurais prouvé", "aurait prouvé", "aurions prouvé", "auriez prouvé", "auraient prouvé" ],
+  "conditionnelPasseII": [ "eusse prouvé", "eusses prouvé", "eût prouvé", "eussions prouvé", "eussiez prouvé", "eussent prouvé" ],
+  "imperatif": [ "–", "prouve !", "–", "prouvons !", "prouvez !", "–" ],
+  "imperatifPasse": [ "–", "aie prouvé !", "–", "ayons prouvé !", "ayez prouvé !", "–" ]
+}

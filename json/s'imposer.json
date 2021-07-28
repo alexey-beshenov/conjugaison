@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'imposer",
+  "participePresent": "s'imposant",
+  "participePasse": "imposé",
+  "present": [ "m'impose", "t'imposes", "s'impose", "nous imposons", "vous imposez", "s'imposent" ],
+  "imparfait": [ "m'imposais", "t'imposais", "s'imposait", "nous imposions", "vous imposiez", "s'imposaient" ],
+  "passeSimple": [ "m'imposai", "t'imposas", "s'imposa", "nous imposâmes", "vous imposâtes", "s'imposèrent" ],
+  "futurSimple": [ "m'imposerai", "t'imposeras", "s'imposera", "nous imposerons", "vous imposerez", "s'imposeront" ],
+  "passeCompose": [ "me suis imposé(e)", "t'es imposé(e)", "s'est imposé(e)", "nous sommes imposé(e)s", "vous êtes imposé(e)(s)", "se sont imposé(e)s" ],
+  "plusQueParfait": [ "m'étais imposé(e)", "t'étais imposé(e)", "s'était imposé(e)", "nous étions imposé(e)s", "vous étiez imposé(e)(s)", "s'étaient imposé(e)s" ],
+  "passeAnterieur": [ "me fus imposé(e)", "te fus imposé(e)", "se fut imposé(e)", "nous fûmes imposé(e)s", "vous fûtes imposé(e)(s)", "se furent imposé(e)s" ],
+  "futurAnterieur": [ "me serai imposé(e)", "te seras imposé(e)", "se sera imposé(e)", "nous serons imposé(e)s", "vous serez imposé(e)(s)", "se seront imposé(e)s" ],
+  "subjonctifPresent": [ "m'impose", "t'imposes", "s'impose", "nous imposions", "vous imposiez", "s'imposent" ],
+  "subjonctifImparfait": [ "m'imposasse", "t'imposasses", "s'imposât", "nous imposassions", "vous imposassiez", "s'imposassent" ],
+  "subjonctifPasse": [ "me sois imposé(e)", "te sois imposé(e)", "se soit imposé(e)", "nous soyons imposé(e)s", "vous soyez imposé(e)(s)", "se soient imposé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse imposé(e)", "te fusses imposé(e)", "se fût imposé(e)", "nous fussions imposé(e)s", "vous fussiez imposé(e)(s)", "se fussent imposé(e)s" ],
+  "conditionnelPresent": [ "m'imposerais", "t'imposerais", "s'imposerait", "nous imposerions", "vous imposeriez", "s'imposeraient" ],
+  "conditionnelPasse": [ "me serais imposé(e)", "te serais imposé(e)", "se serait imposé(e)", "nous serions imposé(e)s", "vous seriez imposé(e)(s)", "se seraient imposé(e)s" ],
+  "conditionnelPasseII": [ "me fusse imposé(e)", "te fusses imposé(e)", "se fût imposé(e)", "nous fussions imposé(e)s", "vous fussiez imposé(e)(s)", "se fussent imposé(e)s" ],
+  "imperatif": [ "–", "impose-toi !", "–", "imposons-nous !", "imposez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

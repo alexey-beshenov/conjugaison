@@ -1,0 +1,22 @@
+{
+  "infinitif": "survenir",
+  "participePresent": "survenant",
+  "participePasse": "survenu",
+  "present": [ "surviens", "surviens", "survient", "survenons", "survenez", "surviennent" ],
+  "imparfait": [ "survenais", "survenais", "survenait", "survenions", "surveniez", "survenaient" ],
+  "passeSimple": [ "survins", "survins", "survint", "survînmes", "survîntes", "survinrent" ],
+  "futurSimple": [ "surviendrai", "surviendras", "surviendra", "surviendrons", "surviendrez", "surviendront" ],
+  "passeCompose": [ "suis survenu(e)", "es survenu(e)", "est survenu(e)", "sommes survenu(e)s", "êtes survenu(e)(s)", "sont survenu(e)s" ],
+  "plusQueParfait": [ "étais survenu(e)", "étais survenu(e)", "était survenu(e)", "étions survenu(e)s", "étiez survenu(e)(s)", "étaient survenu(e)s" ],
+  "passeAnterieur": [ "fus survenu(e)", "fus survenu(e)", "fut survenu(e)", "fûmes survenu(e)s", "fûtes survenu(e)(s)", "furent survenu(e)s" ],
+  "futurAnterieur": [ "serai survenu(e)", "seras survenu(e)", "sera survenu(e)", "serons survenu(e)s", "serez survenu(e)(s)", "seront survenu(e)s" ],
+  "subjonctifPresent": [ "survienne", "surviennes", "survienne", "survenions", "surveniez", "surviennent" ],
+  "subjonctifImparfait": [ "survinsse", "survinsses", "survînt", "survinssions", "survinssiez", "survinssent" ],
+  "subjonctifPasse": [ "sois survenu(e)", "sois survenu(e)", "soit survenu(e)", "soyons survenu(e)s", "soyez survenu(e)(s)", "soient survenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse survenu(e)", "fusses survenu(e)", "fût survenu(e)", "fussions survenu(e)s", "fussiez survenu(e)(s)", "fussent survenu(e)s" ],
+  "conditionnelPresent": [ "surviendrais", "surviendrais", "surviendrait", "surviendrions", "surviendriez", "surviendraient" ],
+  "conditionnelPasse": [ "serais survenu(e)", "serais survenu(e)", "serait survenu(e)", "serions survenu(e)s", "seriez survenu(e)(s)", "seraient survenu(e)s" ],
+  "conditionnelPasseII": [ "fusse survenu(e)", "fusses survenu(e)", "fût survenu(e)", "fussions survenu(e)s", "fussiez survenu(e)(s)", "fussent survenu(e)s" ],
+  "imperatif": [ "–", "surviens !", "–", "survenons !", "survenez !", "–" ],
+  "imperatifPasse": [ "–", "sois survenu(e) !", "–", "soyons survenu(e)s !", "soyez survenu(e)(s) !", "–" ]
+}

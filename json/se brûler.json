@@ -1,0 +1,22 @@
+{
+  "infinitif": "se brûler",
+  "participePresent": "se brûlant",
+  "participePasse": "brûlé",
+  "present": [ "me brûle", "te brûles", "se brûle", "nous brûlons", "vous brûlez", "se brûlent" ],
+  "imparfait": [ "me brûlais", "te brûlais", "se brûlait", "nous brûlions", "vous brûliez", "se brûlaient" ],
+  "passeSimple": [ "me brûlai", "te brûlas", "se brûla", "nous brûlâmes", "vous brûlâtes", "se brûlèrent" ],
+  "futurSimple": [ "me brûlerai", "te brûleras", "se brûlera", "nous brûlerons", "vous brûlerez", "se brûleront" ],
+  "passeCompose": [ "me suis brûlé(e)", "t'es brûlé(e)", "s'est brûlé(e)", "nous sommes brûlé(e)s", "vous êtes brûlé(e)(s)", "se sont brûlé(e)s" ],
+  "plusQueParfait": [ "m'étais brûlé(e)", "t'étais brûlé(e)", "s'était brûlé(e)", "nous étions brûlé(e)s", "vous étiez brûlé(e)(s)", "s'étaient brûlé(e)s" ],
+  "passeAnterieur": [ "me fus brûlé(e)", "te fus brûlé(e)", "se fut brûlé(e)", "nous fûmes brûlé(e)s", "vous fûtes brûlé(e)(s)", "se furent brûlé(e)s" ],
+  "futurAnterieur": [ "me serai brûlé(e)", "te seras brûlé(e)", "se sera brûlé(e)", "nous serons brûlé(e)s", "vous serez brûlé(e)(s)", "se seront brûlé(e)s" ],
+  "subjonctifPresent": [ "me brûle", "te brûles", "se brûle", "nous brûlions", "vous brûliez", "se brûlent" ],
+  "subjonctifImparfait": [ "me brûlasse", "te brûlasses", "se brûlât", "nous brûlassions", "vous brûlassiez", "se brûlassent" ],
+  "subjonctifPasse": [ "me sois brûlé(e)", "te sois brûlé(e)", "se soit brûlé(e)", "nous soyons brûlé(e)s", "vous soyez brûlé(e)(s)", "se soient brûlé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse brûlé(e)", "te fusses brûlé(e)", "se fût brûlé(e)", "nous fussions brûlé(e)s", "vous fussiez brûlé(e)(s)", "se fussent brûlé(e)s" ],
+  "conditionnelPresent": [ "me brûlerais", "te brûlerais", "se brûlerait", "nous brûlerions", "vous brûleriez", "se brûleraient" ],
+  "conditionnelPasse": [ "me serais brûlé(e)", "te serais brûlé(e)", "se serait brûlé(e)", "nous serions brûlé(e)s", "vous seriez brûlé(e)(s)", "se seraient brûlé(e)s" ],
+  "conditionnelPasseII": [ "me fusse brûlé(e)", "te fusses brûlé(e)", "se fût brûlé(e)", "nous fussions brûlé(e)s", "vous fussiez brûlé(e)(s)", "se fussent brûlé(e)s" ],
+  "imperatif": [ "–", "brûle-toi !", "–", "brûlons-nous !", "brûlez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

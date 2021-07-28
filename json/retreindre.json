@@ -1,0 +1,22 @@
+{
+  "infinitif": "retreindre",
+  "participePresent": "retreignant",
+  "participePasse": "retreint",
+  "present": [ "retreins", "retreins", "retreint", "retreignons", "retreignez", "retreignent" ],
+  "imparfait": [ "retreignais", "retreignais", "retreignait", "retreignions", "retreigniez", "retreignaient" ],
+  "passeSimple": [ "retreignis", "retreignis", "retreignit", "retreignîmes", "retreignîtes", "retreignirent" ],
+  "futurSimple": [ "retreindrai", "retreindras", "retreindra", "retreindrons", "retreindrez", "retreindront" ],
+  "passeCompose": [ "ai retreint", "as retreint", "a retreint", "avons retreint", "avez retreint", "ont retreint" ],
+  "plusQueParfait": [ "avais retreint", "avais retreint", "avait retreint", "avions retreint", "aviez retreint", "avaient retreint" ],
+  "passeAnterieur": [ "eus retreint", "eus retreint", "eut retreint", "eûmes retreint", "eûtes retreint", "eurent retreint" ],
+  "futurAnterieur": [ "aurai retreint", "auras retreint", "aura retreint", "aurons retreint", "aurez retreint", "auront retreint" ],
+  "subjonctifPresent": [ "retreigne", "retreignes", "retreigne", "retreignions", "retreigniez", "retreignent" ],
+  "subjonctifImparfait": [ "retreignisse", "retreignisses", "retreignît", "retreignissions", "retreignissiez", "retreignissent" ],
+  "subjonctifPasse": [ "aie retreint", "aies retreint", "ait retreint", "ayons retreint", "ayez retreint", "aient retreint" ],
+  "subjonctifPlusQueParfait": [ "eusse retreint", "eusses retreint", "eût retreint", "eussions retreint", "eussiez retreint", "eussent retreint" ],
+  "conditionnelPresent": [ "retreindrais", "retreindrais", "retreindrait", "retreindrions", "retreindriez", "retreindraient" ],
+  "conditionnelPasse": [ "aurais retreint", "aurais retreint", "aurait retreint", "aurions retreint", "auriez retreint", "auraient retreint" ],
+  "conditionnelPasseII": [ "eusse retreint", "eusses retreint", "eût retreint", "eussions retreint", "eussiez retreint", "eussent retreint" ],
+  "imperatif": [ "–", "retreins !", "–", "retreignons !", "retreignez !", "–" ],
+  "imperatifPasse": [ "–", "aie retreint !", "–", "ayons retreint !", "ayez retreint !", "–" ]
+}

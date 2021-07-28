@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'observer",
+  "participePresent": "s'observant",
+  "participePasse": "observé",
+  "present": [ "m'observe", "t'observes", "s'observe", "nous observons", "vous observez", "s'observent" ],
+  "imparfait": [ "m'observais", "t'observais", "s'observait", "nous observions", "vous observiez", "s'observaient" ],
+  "passeSimple": [ "m'observai", "t'observas", "s'observa", "nous observâmes", "vous observâtes", "s'observèrent" ],
+  "futurSimple": [ "m'observerai", "t'observeras", "s'observera", "nous observerons", "vous observerez", "s'observeront" ],
+  "passeCompose": [ "me suis observé(e)", "t'es observé(e)", "s'est observé(e)", "nous sommes observé(e)s", "vous êtes observé(e)(s)", "se sont observé(e)s" ],
+  "plusQueParfait": [ "m'étais observé(e)", "t'étais observé(e)", "s'était observé(e)", "nous étions observé(e)s", "vous étiez observé(e)(s)", "s'étaient observé(e)s" ],
+  "passeAnterieur": [ "me fus observé(e)", "te fus observé(e)", "se fut observé(e)", "nous fûmes observé(e)s", "vous fûtes observé(e)(s)", "se furent observé(e)s" ],
+  "futurAnterieur": [ "me serai observé(e)", "te seras observé(e)", "se sera observé(e)", "nous serons observé(e)s", "vous serez observé(e)(s)", "se seront observé(e)s" ],
+  "subjonctifPresent": [ "m'observe", "t'observes", "s'observe", "nous observions", "vous observiez", "s'observent" ],
+  "subjonctifImparfait": [ "m'observasse", "t'observasses", "s'observât", "nous observassions", "vous observassiez", "s'observassent" ],
+  "subjonctifPasse": [ "me sois observé(e)", "te sois observé(e)", "se soit observé(e)", "nous soyons observé(e)s", "vous soyez observé(e)(s)", "se soient observé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse observé(e)", "te fusses observé(e)", "se fût observé(e)", "nous fussions observé(e)s", "vous fussiez observé(e)(s)", "se fussent observé(e)s" ],
+  "conditionnelPresent": [ "m'observerais", "t'observerais", "s'observerait", "nous observerions", "vous observeriez", "s'observeraient" ],
+  "conditionnelPasse": [ "me serais observé(e)", "te serais observé(e)", "se serait observé(e)", "nous serions observé(e)s", "vous seriez observé(e)(s)", "se seraient observé(e)s" ],
+  "conditionnelPasseII": [ "me fusse observé(e)", "te fusses observé(e)", "se fût observé(e)", "nous fussions observé(e)s", "vous fussiez observé(e)(s)", "se fussent observé(e)s" ],
+  "imperatif": [ "–", "observe-toi !", "–", "observons-nous !", "observez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

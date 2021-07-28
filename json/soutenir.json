@@ -1,0 +1,22 @@
+{
+  "infinitif": "soutenir",
+  "participePresent": "soutenant",
+  "participePasse": "soutenu",
+  "present": [ "soutiens", "soutiens", "soutient", "soutenons", "soutenez", "soutiennent" ],
+  "imparfait": [ "soutenais", "soutenais", "soutenait", "soutenions", "souteniez", "soutenaient" ],
+  "passeSimple": [ "soutins", "soutins", "soutint", "soutînmes", "soutîntes", "soutinrent" ],
+  "futurSimple": [ "soutiendrai", "soutiendras", "soutiendra", "soutiendrons", "soutiendrez", "soutiendront" ],
+  "passeCompose": [ "ai soutenu", "as soutenu", "a soutenu", "avons soutenu", "avez soutenu", "ont soutenu" ],
+  "plusQueParfait": [ "avais soutenu", "avais soutenu", "avait soutenu", "avions soutenu", "aviez soutenu", "avaient soutenu" ],
+  "passeAnterieur": [ "eus soutenu", "eus soutenu", "eut soutenu", "eûmes soutenu", "eûtes soutenu", "eurent soutenu" ],
+  "futurAnterieur": [ "aurai soutenu", "auras soutenu", "aura soutenu", "aurons soutenu", "aurez soutenu", "auront soutenu" ],
+  "subjonctifPresent": [ "soutienne", "soutiennes", "soutienne", "soutenions", "souteniez", "soutiennent" ],
+  "subjonctifImparfait": [ "soutinsse", "soutinsses", "soutînt", "soutinssions", "soutinssiez", "soutinssent" ],
+  "subjonctifPasse": [ "aie soutenu", "aies soutenu", "ait soutenu", "ayons soutenu", "ayez soutenu", "aient soutenu" ],
+  "subjonctifPlusQueParfait": [ "eusse soutenu", "eusses soutenu", "eût soutenu", "eussions soutenu", "eussiez soutenu", "eussent soutenu" ],
+  "conditionnelPresent": [ "soutiendrais", "soutiendrais", "soutiendrait", "soutiendrions", "soutiendriez", "soutiendraient" ],
+  "conditionnelPasse": [ "aurais soutenu", "aurais soutenu", "aurait soutenu", "aurions soutenu", "auriez soutenu", "auraient soutenu" ],
+  "conditionnelPasseII": [ "eusse soutenu", "eusses soutenu", "eût soutenu", "eussions soutenu", "eussiez soutenu", "eussent soutenu" ],
+  "imperatif": [ "–", "soutiens !", "–", "soutenons !", "soutenez !", "–" ],
+  "imperatifPasse": [ "–", "aie soutenu !", "–", "ayons soutenu !", "ayez soutenu !", "–" ]
+}

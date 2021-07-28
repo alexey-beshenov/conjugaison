@@ -1,0 +1,22 @@
+{
+  "infinitif": "prévenir",
+  "participePresent": "prévenant",
+  "participePasse": "prévenu",
+  "present": [ "préviens", "préviens", "prévient", "prévenons", "prévenez", "préviennent" ],
+  "imparfait": [ "prévenais", "prévenais", "prévenait", "prévenions", "préveniez", "prévenaient" ],
+  "passeSimple": [ "prévins", "prévins", "prévint", "prévînmes", "prévîntes", "prévinrent" ],
+  "futurSimple": [ "préviendrai", "préviendras", "préviendra", "préviendrons", "préviendrez", "préviendront" ],
+  "passeCompose": [ "ai prévenu", "as prévenu", "a prévenu", "avons prévenu", "avez prévenu", "ont prévenu" ],
+  "plusQueParfait": [ "avais prévenu", "avais prévenu", "avait prévenu", "avions prévenu", "aviez prévenu", "avaient prévenu" ],
+  "passeAnterieur": [ "eus prévenu", "eus prévenu", "eut prévenu", "eûmes prévenu", "eûtes prévenu", "eurent prévenu" ],
+  "futurAnterieur": [ "aurai prévenu", "auras prévenu", "aura prévenu", "aurons prévenu", "aurez prévenu", "auront prévenu" ],
+  "subjonctifPresent": [ "prévienne", "préviennes", "prévienne", "prévenions", "préveniez", "préviennent" ],
+  "subjonctifImparfait": [ "prévinsse", "prévinsses", "prévînt", "prévinssions", "prévinssiez", "prévinssent" ],
+  "subjonctifPasse": [ "aie prévenu", "aies prévenu", "ait prévenu", "ayons prévenu", "ayez prévenu", "aient prévenu" ],
+  "subjonctifPlusQueParfait": [ "eusse prévenu", "eusses prévenu", "eût prévenu", "eussions prévenu", "eussiez prévenu", "eussent prévenu" ],
+  "conditionnelPresent": [ "préviendrais", "préviendrais", "préviendrait", "préviendrions", "préviendriez", "préviendraient" ],
+  "conditionnelPasse": [ "aurais prévenu", "aurais prévenu", "aurait prévenu", "aurions prévenu", "auriez prévenu", "auraient prévenu" ],
+  "conditionnelPasseII": [ "eusse prévenu", "eusses prévenu", "eût prévenu", "eussions prévenu", "eussiez prévenu", "eussent prévenu" ],
+  "imperatif": [ "–", "préviens !", "–", "prévenons !", "prévenez !", "–" ],
+  "imperatifPasse": [ "–", "aie prévenu !", "–", "ayons prévenu !", "ayez prévenu !", "–" ]
+}

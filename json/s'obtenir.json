@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'obtenir",
+  "participePresent": "s'obtenant",
+  "participePasse": "obtenu",
+  "present": [ "m'obtiens", "t'obtiens", "s'obtient", "nous obtenons", "vous obtenez", "s'obtiennent" ],
+  "imparfait": [ "m'obtenais", "t'obtenais", "s'obtenait", "nous obtenions", "vous obteniez", "s'obtenaient" ],
+  "passeSimple": [ "m'obtins", "t'obtins", "s'obtint", "nous obtînmes", "vous obtîntes", "s'obtinrent" ],
+  "futurSimple": [ "m'obtiendrai", "t'obtiendras", "s'obtiendra", "nous obtiendrons", "vous obtiendrez", "s'obtiendront" ],
+  "passeCompose": [ "me suis obtenu(e)", "t'es obtenu(e)", "s'est obtenu(e)", "nous sommes obtenu(e)s", "vous êtes obtenu(e)(s)", "se sont obtenu(e)s" ],
+  "plusQueParfait": [ "m'étais obtenu(e)", "t'étais obtenu(e)", "s'était obtenu(e)", "nous étions obtenu(e)s", "vous étiez obtenu(e)(s)", "s'étaient obtenu(e)s" ],
+  "passeAnterieur": [ "me fus obtenu(e)", "te fus obtenu(e)", "se fut obtenu(e)", "nous fûmes obtenu(e)s", "vous fûtes obtenu(e)(s)", "se furent obtenu(e)s" ],
+  "futurAnterieur": [ "me serai obtenu(e)", "te seras obtenu(e)", "se sera obtenu(e)", "nous serons obtenu(e)s", "vous serez obtenu(e)(s)", "se seront obtenu(e)s" ],
+  "subjonctifPresent": [ "m'obtienne", "t'obtiennes", "s'obtienne", "nous obtenions", "vous obteniez", "s'obtiennent" ],
+  "subjonctifImparfait": [ "m'obtinsse", "t'obtinsses", "s'obtînt", "nous obtinssions", "vous obtinssiez", "s'obtinssent" ],
+  "subjonctifPasse": [ "me sois obtenu(e)", "te sois obtenu(e)", "se soit obtenu(e)", "nous soyons obtenu(e)s", "vous soyez obtenu(e)(s)", "se soient obtenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse obtenu(e)", "te fusses obtenu(e)", "se fût obtenu(e)", "nous fussions obtenu(e)s", "vous fussiez obtenu(e)(s)", "se fussent obtenu(e)s" ],
+  "conditionnelPresent": [ "m'obtiendrais", "t'obtiendrais", "s'obtiendrait", "nous obtiendrions", "vous obtiendriez", "s'obtiendraient" ],
+  "conditionnelPasse": [ "me serais obtenu(e)", "te serais obtenu(e)", "se serait obtenu(e)", "nous serions obtenu(e)s", "vous seriez obtenu(e)(s)", "se seraient obtenu(e)s" ],
+  "conditionnelPasseII": [ "me fusse obtenu(e)", "te fusses obtenu(e)", "se fût obtenu(e)", "nous fussions obtenu(e)s", "vous fussiez obtenu(e)(s)", "se fussent obtenu(e)s" ],
+  "imperatif": [ "–", "obtiens-toi !", "–", "obtenons-nous !", "obtenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

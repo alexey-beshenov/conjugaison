@@ -1,0 +1,22 @@
+{
+  "infinitif": "sauver",
+  "participePresent": "sauvant",
+  "participePasse": "sauvé",
+  "present": [ "sauve", "sauves", "sauve", "sauvons", "sauvez", "sauvent" ],
+  "imparfait": [ "sauvais", "sauvais", "sauvait", "sauvions", "sauviez", "sauvaient" ],
+  "passeSimple": [ "sauvai", "sauvas", "sauva", "sauvâmes", "sauvâtes", "sauvèrent" ],
+  "futurSimple": [ "sauverai", "sauveras", "sauvera", "sauverons", "sauverez", "sauveront" ],
+  "passeCompose": [ "ai sauvé", "as sauvé", "a sauvé", "avons sauvé", "avez sauvé", "ont sauvé" ],
+  "plusQueParfait": [ "avais sauvé", "avais sauvé", "avait sauvé", "avions sauvé", "aviez sauvé", "avaient sauvé" ],
+  "passeAnterieur": [ "eus sauvé", "eus sauvé", "eut sauvé", "eûmes sauvé", "eûtes sauvé", "eurent sauvé" ],
+  "futurAnterieur": [ "aurai sauvé", "auras sauvé", "aura sauvé", "aurons sauvé", "aurez sauvé", "auront sauvé" ],
+  "subjonctifPresent": [ "sauve", "sauves", "sauve", "sauvions", "sauviez", "sauvent" ],
+  "subjonctifImparfait": [ "sauvasse", "sauvasses", "sauvât", "sauvassions", "sauvassiez", "sauvassent" ],
+  "subjonctifPasse": [ "aie sauvé", "aies sauvé", "ait sauvé", "ayons sauvé", "ayez sauvé", "aient sauvé" ],
+  "subjonctifPlusQueParfait": [ "eusse sauvé", "eusses sauvé", "eût sauvé", "eussions sauvé", "eussiez sauvé", "eussent sauvé" ],
+  "conditionnelPresent": [ "sauverais", "sauverais", "sauverait", "sauverions", "sauveriez", "sauveraient" ],
+  "conditionnelPasse": [ "aurais sauvé", "aurais sauvé", "aurait sauvé", "aurions sauvé", "auriez sauvé", "auraient sauvé" ],
+  "conditionnelPasseII": [ "eusse sauvé", "eusses sauvé", "eût sauvé", "eussions sauvé", "eussiez sauvé", "eussent sauvé" ],
+  "imperatif": [ "–", "sauve !", "–", "sauvons !", "sauvez !", "–" ],
+  "imperatifPasse": [ "–", "aie sauvé !", "–", "ayons sauvé !", "ayez sauvé !", "–" ]
+}

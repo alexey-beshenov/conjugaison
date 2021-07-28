@@ -1,0 +1,22 @@
+{
+  "infinitif": "tracer",
+  "participePresent": "traçant",
+  "participePasse": "tracé",
+  "present": [ "trace", "traces", "trace", "traçons", "tracez", "tracent" ],
+  "imparfait": [ "traçais", "traçais", "traçait", "tracions", "traciez", "traçaient" ],
+  "passeSimple": [ "traçai", "traças", "traça", "traçâmes", "traçâtes", "tracèrent" ],
+  "futurSimple": [ "tracerai", "traceras", "tracera", "tracerons", "tracerez", "traceront" ],
+  "passeCompose": [ "ai tracé", "as tracé", "a tracé", "avons tracé", "avez tracé", "ont tracé" ],
+  "plusQueParfait": [ "avais tracé", "avais tracé", "avait tracé", "avions tracé", "aviez tracé", "avaient tracé" ],
+  "passeAnterieur": [ "eus tracé", "eus tracé", "eut tracé", "eûmes tracé", "eûtes tracé", "eurent tracé" ],
+  "futurAnterieur": [ "aurai tracé", "auras tracé", "aura tracé", "aurons tracé", "aurez tracé", "auront tracé" ],
+  "subjonctifPresent": [ "trace", "traces", "trace", "tracions", "traciez", "tracent" ],
+  "subjonctifImparfait": [ "traçasse", "traçasses", "traçât", "traçassions", "traçassiez", "traçassent" ],
+  "subjonctifPasse": [ "aie tracé", "aies tracé", "ait tracé", "ayons tracé", "ayez tracé", "aient tracé" ],
+  "subjonctifPlusQueParfait": [ "eusse tracé", "eusses tracé", "eût tracé", "eussions tracé", "eussiez tracé", "eussent tracé" ],
+  "conditionnelPresent": [ "tracerais", "tracerais", "tracerait", "tracerions", "traceriez", "traceraient" ],
+  "conditionnelPasse": [ "aurais tracé", "aurais tracé", "aurait tracé", "aurions tracé", "auriez tracé", "auraient tracé" ],
+  "conditionnelPasseII": [ "eusse tracé", "eusses tracé", "eût tracé", "eussions tracé", "eussiez tracé", "eussent tracé" ],
+  "imperatif": [ "–", "trace !", "–", "traçons !", "tracez !", "–" ],
+  "imperatifPasse": [ "–", "aie tracé !", "–", "ayons tracé !", "ayez tracé !", "–" ]
+}

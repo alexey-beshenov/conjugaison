@@ -1,0 +1,22 @@
+{
+  "infinitif": "se soulever",
+  "participePresent": "se soulevant",
+  "participePasse": "soulevé",
+  "present": [ "me soulève", "te soulèves", "se soulève", "nous soulevons", "vous soulevez", "se soulèvent" ],
+  "imparfait": [ "me soulevais", "te soulevais", "se soulevait", "nous soulevions", "vous souleviez", "se soulevaient" ],
+  "passeSimple": [ "me soulevai", "te soulevas", "se souleva", "nous soulevâmes", "vous soulevâtes", "se soulevèrent" ],
+  "futurSimple": [ "me soulèverai", "te soulèveras", "se soulèvera", "nous soulèverons", "vous soulèverez", "se soulèveront" ],
+  "passeCompose": [ "me suis soulevé(e)", "t'es soulevé(e)", "s'est soulevé(e)", "nous sommes soulevé(e)s", "vous êtes soulevé(e)(s)", "se sont soulevé(e)s" ],
+  "plusQueParfait": [ "m'étais soulevé(e)", "t'étais soulevé(e)", "s'était soulevé(e)", "nous étions soulevé(e)s", "vous étiez soulevé(e)(s)", "s'étaient soulevé(e)s" ],
+  "passeAnterieur": [ "me fus soulevé(e)", "te fus soulevé(e)", "se fut soulevé(e)", "nous fûmes soulevé(e)s", "vous fûtes soulevé(e)(s)", "se furent soulevé(e)s" ],
+  "futurAnterieur": [ "me serai soulevé(e)", "te seras soulevé(e)", "se sera soulevé(e)", "nous serons soulevé(e)s", "vous serez soulevé(e)(s)", "se seront soulevé(e)s" ],
+  "subjonctifPresent": [ "me soulève", "te soulèves", "se soulève", "nous soulevions", "vous souleviez", "se soulèvent" ],
+  "subjonctifImparfait": [ "me soulevasse", "te soulevasses", "se soulevât", "nous soulevassions", "vous soulevassiez", "se soulevassent" ],
+  "subjonctifPasse": [ "me sois soulevé(e)", "te sois soulevé(e)", "se soit soulevé(e)", "nous soyons soulevé(e)s", "vous soyez soulevé(e)(s)", "se soient soulevé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse soulevé(e)", "te fusses soulevé(e)", "se fût soulevé(e)", "nous fussions soulevé(e)s", "vous fussiez soulevé(e)(s)", "se fussent soulevé(e)s" ],
+  "conditionnelPresent": [ "me soulèverais", "te soulèverais", "se soulèverait", "nous soulèverions", "vous soulèveriez", "se soulèveraient" ],
+  "conditionnelPasse": [ "me serais soulevé(e)", "te serais soulevé(e)", "se serait soulevé(e)", "nous serions soulevé(e)s", "vous seriez soulevé(e)(s)", "se seraient soulevé(e)s" ],
+  "conditionnelPasseII": [ "me fusse soulevé(e)", "te fusses soulevé(e)", "se fût soulevé(e)", "nous fussions soulevé(e)s", "vous fussiez soulevé(e)(s)", "se fussent soulevé(e)s" ],
+  "imperatif": [ "–", "soulève-toi !", "–", "soulevons-nous !", "soulevez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

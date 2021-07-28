@@ -1,0 +1,22 @@
+{
+  "infinitif": "chercher",
+  "participePresent": "cherchant",
+  "participePasse": "cherché",
+  "present": [ "cherche", "cherches", "cherche", "cherchons", "cherchez", "cherchent" ],
+  "imparfait": [ "cherchais", "cherchais", "cherchait", "cherchions", "cherchiez", "cherchaient" ],
+  "passeSimple": [ "cherchai", "cherchas", "chercha", "cherchâmes", "cherchâtes", "cherchèrent" ],
+  "futurSimple": [ "chercherai", "chercheras", "cherchera", "chercherons", "chercherez", "chercheront" ],
+  "passeCompose": [ "ai cherché", "as cherché", "a cherché", "avons cherché", "avez cherché", "ont cherché" ],
+  "plusQueParfait": [ "avais cherché", "avais cherché", "avait cherché", "avions cherché", "aviez cherché", "avaient cherché" ],
+  "passeAnterieur": [ "eus cherché", "eus cherché", "eut cherché", "eûmes cherché", "eûtes cherché", "eurent cherché" ],
+  "futurAnterieur": [ "aurai cherché", "auras cherché", "aura cherché", "aurons cherché", "aurez cherché", "auront cherché" ],
+  "subjonctifPresent": [ "cherche", "cherches", "cherche", "cherchions", "cherchiez", "cherchent" ],
+  "subjonctifImparfait": [ "cherchasse", "cherchasses", "cherchât", "cherchassions", "cherchassiez", "cherchassent" ],
+  "subjonctifPasse": [ "aie cherché", "aies cherché", "ait cherché", "ayons cherché", "ayez cherché", "aient cherché" ],
+  "subjonctifPlusQueParfait": [ "eusse cherché", "eusses cherché", "eût cherché", "eussions cherché", "eussiez cherché", "eussent cherché" ],
+  "conditionnelPresent": [ "chercherais", "chercherais", "chercherait", "chercherions", "chercheriez", "chercheraient" ],
+  "conditionnelPasse": [ "aurais cherché", "aurais cherché", "aurait cherché", "aurions cherché", "auriez cherché", "auraient cherché" ],
+  "conditionnelPasseII": [ "eusse cherché", "eusses cherché", "eût cherché", "eussions cherché", "eussiez cherché", "eussent cherché" ],
+  "imperatif": [ "–", "cherche !", "–", "cherchons !", "cherchez !", "–" ],
+  "imperatifPasse": [ "–", "aie cherché !", "–", "ayons cherché !", "ayez cherché !", "–" ]
+}

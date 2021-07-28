@@ -1,0 +1,22 @@
+{
+  "infinitif": "croiser",
+  "participePresent": "croisant",
+  "participePasse": "croisé",
+  "present": [ "croise", "croises", "croise", "croisons", "croisez", "croisent" ],
+  "imparfait": [ "croisais", "croisais", "croisait", "croisions", "croisiez", "croisaient" ],
+  "passeSimple": [ "croisai", "croisas", "croisa", "croisâmes", "croisâtes", "croisèrent" ],
+  "futurSimple": [ "croiserai", "croiseras", "croisera", "croiserons", "croiserez", "croiseront" ],
+  "passeCompose": [ "ai croisé", "as croisé", "a croisé", "avons croisé", "avez croisé", "ont croisé" ],
+  "plusQueParfait": [ "avais croisé", "avais croisé", "avait croisé", "avions croisé", "aviez croisé", "avaient croisé" ],
+  "passeAnterieur": [ "eus croisé", "eus croisé", "eut croisé", "eûmes croisé", "eûtes croisé", "eurent croisé" ],
+  "futurAnterieur": [ "aurai croisé", "auras croisé", "aura croisé", "aurons croisé", "aurez croisé", "auront croisé" ],
+  "subjonctifPresent": [ "croise", "croises", "croise", "croisions", "croisiez", "croisent" ],
+  "subjonctifImparfait": [ "croisasse", "croisasses", "croisât", "croisassions", "croisassiez", "croisassent" ],
+  "subjonctifPasse": [ "aie croisé", "aies croisé", "ait croisé", "ayons croisé", "ayez croisé", "aient croisé" ],
+  "subjonctifPlusQueParfait": [ "eusse croisé", "eusses croisé", "eût croisé", "eussions croisé", "eussiez croisé", "eussent croisé" ],
+  "conditionnelPresent": [ "croiserais", "croiserais", "croiserait", "croiserions", "croiseriez", "croiseraient" ],
+  "conditionnelPasse": [ "aurais croisé", "aurais croisé", "aurait croisé", "aurions croisé", "auriez croisé", "auraient croisé" ],
+  "conditionnelPasseII": [ "eusse croisé", "eusses croisé", "eût croisé", "eussions croisé", "eussiez croisé", "eussent croisé" ],
+  "imperatif": [ "–", "croise !", "–", "croisons !", "croisez !", "–" ],
+  "imperatifPasse": [ "–", "aie croisé !", "–", "ayons croisé !", "ayez croisé !", "–" ]
+}

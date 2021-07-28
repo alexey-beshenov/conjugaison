@@ -1,0 +1,22 @@
+{
+  "infinitif": "clore",
+  "participePresent": "closant",
+  "participePasse": "clos",
+  "present": [ "clos", "clos", "clôt", "closons", "closez", "closent" ],
+  "imparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
+  "futurSimple": [ "clorai", "cloras", "clora", "clorons", "clorez", "cloront" ],
+  "passeCompose": [ "ai clos", "as clos", "a clos", "avons clos", "avez clos", "ont clos" ],
+  "plusQueParfait": [ "avais clos", "avais clos", "avait clos", "avions clos", "aviez clos", "avaient clos" ],
+  "passeAnterieur": [ "eus clos", "eus clos", "eut clos", "eûmes clos", "eûtes clos", "eurent clos" ],
+  "futurAnterieur": [ "aurai clos", "auras clos", "aura clos", "aurons clos", "aurez clos", "auront clos" ],
+  "subjonctifPresent": [ "close", "closes", "close", "closions", "closiez", "closent" ],
+  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPasse": [ "aie clos", "aies clos", "ait clos", "ayons clos", "ayez clos", "aient clos" ],
+  "subjonctifPlusQueParfait": [ "eusse clos", "eusses clos", "eût clos", "eussions clos", "eussiez clos", "eussent clos" ],
+  "conditionnelPresent": [ "clorais", "clorais", "clorait", "clorions", "cloriez", "cloraient" ],
+  "conditionnelPasse": [ "aurais clos", "aurais clos", "aurait clos", "aurions clos", "auriez clos", "auraient clos" ],
+  "conditionnelPasseII": [ "eusse clos", "eusses clos", "eût clos", "eussions clos", "eussiez clos", "eussent clos" ],
+  "imperatif": [ "–", "clos !", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "aie clos !", "–", "–", "–", "–" ]
+}

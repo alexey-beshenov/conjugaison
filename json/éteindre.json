@@ -1,0 +1,22 @@
+{
+  "infinitif": "éteindre",
+  "participePresent": "éteignant",
+  "participePasse": "éteint",
+  "present": [ "éteins", "éteins", "éteint", "éteignons", "éteignez", "éteignent" ],
+  "imparfait": [ "éteignais", "éteignais", "éteignait", "éteignions", "éteigniez", "éteignaient" ],
+  "passeSimple": [ "éteignis", "éteignis", "éteignit", "éteignîmes", "éteignîtes", "éteignirent" ],
+  "futurSimple": [ "éteindrai", "éteindras", "éteindra", "éteindrons", "éteindrez", "éteindront" ],
+  "passeCompose": [ "ai éteint", "as éteint", "a éteint", "avons éteint", "avez éteint", "ont éteint" ],
+  "plusQueParfait": [ "avais éteint", "avais éteint", "avait éteint", "avions éteint", "aviez éteint", "avaient éteint" ],
+  "passeAnterieur": [ "eus éteint", "eus éteint", "eut éteint", "eûmes éteint", "eûtes éteint", "eurent éteint" ],
+  "futurAnterieur": [ "aurai éteint", "auras éteint", "aura éteint", "aurons éteint", "aurez éteint", "auront éteint" ],
+  "subjonctifPresent": [ "éteigne", "éteignes", "éteigne", "éteignions", "éteigniez", "éteignent" ],
+  "subjonctifImparfait": [ "éteignisse", "éteignisses", "éteignît", "éteignissions", "éteignissiez", "éteignissent" ],
+  "subjonctifPasse": [ "aie éteint", "aies éteint", "ait éteint", "ayons éteint", "ayez éteint", "aient éteint" ],
+  "subjonctifPlusQueParfait": [ "eusse éteint", "eusses éteint", "eût éteint", "eussions éteint", "eussiez éteint", "eussent éteint" ],
+  "conditionnelPresent": [ "éteindrais", "éteindrais", "éteindrait", "éteindrions", "éteindriez", "éteindraient" ],
+  "conditionnelPasse": [ "aurais éteint", "aurais éteint", "aurait éteint", "aurions éteint", "auriez éteint", "auraient éteint" ],
+  "conditionnelPasseII": [ "eusse éteint", "eusses éteint", "eût éteint", "eussions éteint", "eussiez éteint", "eussent éteint" ],
+  "imperatif": [ "–", "éteins !", "–", "éteignons !", "éteignez !", "–" ],
+  "imperatifPasse": [ "–", "aie éteint !", "–", "ayons éteint !", "ayez éteint !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se fatiguer",
+  "participePresent": "se fatiguant",
+  "participePasse": "fatigué",
+  "present": [ "me fatigue", "te fatigues", "se fatigue", "nous fatiguons", "vous fatiguez", "se fatiguent" ],
+  "imparfait": [ "me fatiguais", "te fatiguais", "se fatiguait", "nous fatiguions", "vous fatiguiez", "se fatiguaient" ],
+  "passeSimple": [ "me fatiguai", "te fatiguas", "se fatigua", "nous fatiguâmes", "vous fatiguâtes", "se fatiguèrent" ],
+  "futurSimple": [ "me fatiguerai", "te fatigueras", "se fatiguera", "nous fatiguerons", "vous fatiguerez", "se fatigueront" ],
+  "passeCompose": [ "me suis fatigué(e)", "t'es fatigué(e)", "s'est fatigué(e)", "nous sommes fatigué(e)s", "vous êtes fatigué(e)(s)", "se sont fatigué(e)s" ],
+  "plusQueParfait": [ "m'étais fatigué(e)", "t'étais fatigué(e)", "s'était fatigué(e)", "nous étions fatigué(e)s", "vous étiez fatigué(e)(s)", "s'étaient fatigué(e)s" ],
+  "passeAnterieur": [ "me fus fatigué(e)", "te fus fatigué(e)", "se fut fatigué(e)", "nous fûmes fatigué(e)s", "vous fûtes fatigué(e)(s)", "se furent fatigué(e)s" ],
+  "futurAnterieur": [ "me serai fatigué(e)", "te seras fatigué(e)", "se sera fatigué(e)", "nous serons fatigué(e)s", "vous serez fatigué(e)(s)", "se seront fatigué(e)s" ],
+  "subjonctifPresent": [ "me fatigue", "te fatigues", "se fatigue", "nous fatiguions", "vous fatiguiez", "se fatiguent" ],
+  "subjonctifImparfait": [ "me fatiguasse", "te fatiguasses", "se fatiguât", "nous fatiguassions", "vous fatiguassiez", "se fatiguassent" ],
+  "subjonctifPasse": [ "me sois fatigué(e)", "te sois fatigué(e)", "se soit fatigué(e)", "nous soyons fatigué(e)s", "vous soyez fatigué(e)(s)", "se soient fatigué(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse fatigué(e)", "te fusses fatigué(e)", "se fût fatigué(e)", "nous fussions fatigué(e)s", "vous fussiez fatigué(e)(s)", "se fussent fatigué(e)s" ],
+  "conditionnelPresent": [ "me fatiguerais", "te fatiguerais", "se fatiguerait", "nous fatiguerions", "vous fatigueriez", "se fatigueraient" ],
+  "conditionnelPasse": [ "me serais fatigué(e)", "te serais fatigué(e)", "se serait fatigué(e)", "nous serions fatigué(e)s", "vous seriez fatigué(e)(s)", "se seraient fatigué(e)s" ],
+  "conditionnelPasseII": [ "me fusse fatigué(e)", "te fusses fatigué(e)", "se fût fatigué(e)", "nous fussions fatigué(e)s", "vous fussiez fatigué(e)(s)", "se fussent fatigué(e)s" ],
+  "imperatif": [ "–", "fatigue-toi !", "–", "fatiguons-nous !", "fatiguez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

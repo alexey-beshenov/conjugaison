@@ -1,0 +1,22 @@
+{
+  "infinitif": "voir",
+  "participePresent": "voyant",
+  "participePasse": "vu",
+  "present": [ "vois", "vois", "voit", "voyons", "voyez", "voient" ],
+  "imparfait": [ "voyais", "voyais", "voyait", "voyions", "voyiez", "voyaient" ],
+  "passeSimple": [ "vis", "vis", "vit", "vîmes", "vîtes", "virent" ],
+  "futurSimple": [ "verrai", "verras", "verra", "verrons", "verrez", "verront" ],
+  "passeCompose": [ "ai vu", "as vu", "a vu", "avons vu", "avez vu", "ont vu" ],
+  "plusQueParfait": [ "avais vu", "avais vu", "avait vu", "avions vu", "aviez vu", "avaient vu" ],
+  "passeAnterieur": [ "eus vu", "eus vu", "eut vu", "eûmes vu", "eûtes vu", "eurent vu" ],
+  "futurAnterieur": [ "aurai vu", "auras vu", "aura vu", "aurons vu", "aurez vu", "auront vu" ],
+  "subjonctifPresent": [ "voie", "voies", "voie", "voyions", "voyiez", "voient" ],
+  "subjonctifImparfait": [ "visse", "visses", "vît", "vissions", "vissiez", "vissent" ],
+  "subjonctifPasse": [ "aie vu", "aies vu", "ait vu", "ayons vu", "ayez vu", "aient vu" ],
+  "subjonctifPlusQueParfait": [ "eusse vu", "eusses vu", "eût vu", "eussions vu", "eussiez vu", "eussent vu" ],
+  "conditionnelPresent": [ "verrais", "verrais", "verrait", "verrions", "verriez", "verraient" ],
+  "conditionnelPasse": [ "aurais vu", "aurais vu", "aurait vu", "aurions vu", "auriez vu", "auraient vu" ],
+  "conditionnelPasseII": [ "eusse vu", "eusses vu", "eût vu", "eussions vu", "eussiez vu", "eussent vu" ],
+  "imperatif": [ "–", "vois !", "–", "voyons !", "voyez !", "–" ],
+  "imperatifPasse": [ "–", "aie vu !", "–", "ayons vu !", "ayez vu !", "–" ]
+}

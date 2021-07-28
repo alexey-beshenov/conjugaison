@@ -1,0 +1,22 @@
+{
+  "infinitif": "se résister",
+  "participePresent": "se résistant",
+  "participePasse": "résisté",
+  "present": [ "me résiste", "te résistes", "se résiste", "nous résistons", "vous résistez", "se résistent" ],
+  "imparfait": [ "me résistais", "te résistais", "se résistait", "nous résistions", "vous résistiez", "se résistaient" ],
+  "passeSimple": [ "me résistai", "te résistas", "se résista", "nous résistâmes", "vous résistâtes", "se résistèrent" ],
+  "futurSimple": [ "me résisterai", "te résisteras", "se résistera", "nous résisterons", "vous résisterez", "se résisteront" ],
+  "passeCompose": [ "me suis résisté(e)", "t'es résisté(e)", "s'est résisté(e)", "nous sommes résisté(e)s", "vous êtes résisté(e)(s)", "se sont résisté(e)s" ],
+  "plusQueParfait": [ "m'étais résisté(e)", "t'étais résisté(e)", "s'était résisté(e)", "nous étions résisté(e)s", "vous étiez résisté(e)(s)", "s'étaient résisté(e)s" ],
+  "passeAnterieur": [ "me fus résisté(e)", "te fus résisté(e)", "se fut résisté(e)", "nous fûmes résisté(e)s", "vous fûtes résisté(e)(s)", "se furent résisté(e)s" ],
+  "futurAnterieur": [ "me serai résisté(e)", "te seras résisté(e)", "se sera résisté(e)", "nous serons résisté(e)s", "vous serez résisté(e)(s)", "se seront résisté(e)s" ],
+  "subjonctifPresent": [ "me résiste", "te résistes", "se résiste", "nous résistions", "vous résistiez", "se résistent" ],
+  "subjonctifImparfait": [ "me résistasse", "te résistasses", "se résistât", "nous résistassions", "vous résistassiez", "se résistassent" ],
+  "subjonctifPasse": [ "me sois résisté(e)", "te sois résisté(e)", "se soit résisté(e)", "nous soyons résisté(e)s", "vous soyez résisté(e)(s)", "se soient résisté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse résisté(e)", "te fusses résisté(e)", "se fût résisté(e)", "nous fussions résisté(e)s", "vous fussiez résisté(e)(s)", "se fussent résisté(e)s" ],
+  "conditionnelPresent": [ "me résisterais", "te résisterais", "se résisterait", "nous résisterions", "vous résisteriez", "se résisteraient" ],
+  "conditionnelPasse": [ "me serais résisté(e)", "te serais résisté(e)", "se serait résisté(e)", "nous serions résisté(e)s", "vous seriez résisté(e)(s)", "se seraient résisté(e)s" ],
+  "conditionnelPasseII": [ "me fusse résisté(e)", "te fusses résisté(e)", "se fût résisté(e)", "nous fussions résisté(e)s", "vous fussiez résisté(e)(s)", "se fussent résisté(e)s" ],
+  "imperatif": [ "–", "résiste-toi !", "–", "résistons-nous !", "résistez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

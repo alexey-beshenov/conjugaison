@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'assurer",
+  "participePresent": "s'assurant",
+  "participePasse": "assuré",
+  "present": [ "m'assure", "t'assures", "s'assure", "nous assurons", "vous assurez", "s'assurent" ],
+  "imparfait": [ "m'assurais", "t'assurais", "s'assurait", "nous assurions", "vous assuriez", "s'assuraient" ],
+  "passeSimple": [ "m'assurai", "t'assuras", "s'assura", "nous assurâmes", "vous assurâtes", "s'assurèrent" ],
+  "futurSimple": [ "m'assurerai", "t'assureras", "s'assurera", "nous assurerons", "vous assurerez", "s'assureront" ],
+  "passeCompose": [ "me suis assuré(e)", "t'es assuré(e)", "s'est assuré(e)", "nous sommes assuré(e)s", "vous êtes assuré(e)(s)", "se sont assuré(e)s" ],
+  "plusQueParfait": [ "m'étais assuré(e)", "t'étais assuré(e)", "s'était assuré(e)", "nous étions assuré(e)s", "vous étiez assuré(e)(s)", "s'étaient assuré(e)s" ],
+  "passeAnterieur": [ "me fus assuré(e)", "te fus assuré(e)", "se fut assuré(e)", "nous fûmes assuré(e)s", "vous fûtes assuré(e)(s)", "se furent assuré(e)s" ],
+  "futurAnterieur": [ "me serai assuré(e)", "te seras assuré(e)", "se sera assuré(e)", "nous serons assuré(e)s", "vous serez assuré(e)(s)", "se seront assuré(e)s" ],
+  "subjonctifPresent": [ "m'assure", "t'assures", "s'assure", "nous assurions", "vous assuriez", "s'assurent" ],
+  "subjonctifImparfait": [ "m'assurasse", "t'assurasses", "s'assurât", "nous assurassions", "vous assurassiez", "s'assurassent" ],
+  "subjonctifPasse": [ "me sois assuré(e)", "te sois assuré(e)", "se soit assuré(e)", "nous soyons assuré(e)s", "vous soyez assuré(e)(s)", "se soient assuré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse assuré(e)", "te fusses assuré(e)", "se fût assuré(e)", "nous fussions assuré(e)s", "vous fussiez assuré(e)(s)", "se fussent assuré(e)s" ],
+  "conditionnelPresent": [ "m'assurerais", "t'assurerais", "s'assurerait", "nous assurerions", "vous assureriez", "s'assureraient" ],
+  "conditionnelPasse": [ "me serais assuré(e)", "te serais assuré(e)", "se serait assuré(e)", "nous serions assuré(e)s", "vous seriez assuré(e)(s)", "se seraient assuré(e)s" ],
+  "conditionnelPasseII": [ "me fusse assuré(e)", "te fusses assuré(e)", "se fût assuré(e)", "nous fussions assuré(e)s", "vous fussiez assuré(e)(s)", "se fussent assuré(e)s" ],
+  "imperatif": [ "–", "assure-toi !", "–", "assurons-nous !", "assurez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

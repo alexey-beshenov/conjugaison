@@ -1,0 +1,22 @@
+{
+  "infinitif": "se reconcevoir",
+  "participePresent": "se reconcevant",
+  "participePasse": "reconçu",
+  "present": [ "me reconçois", "te reconçois", "se reconçoit", "nous reconcevons", "vous reconcevez", "se reconçoivent" ],
+  "imparfait": [ "me reconcevais", "te reconcevais", "se reconcevait", "nous reconcevions", "vous reconceviez", "se reconcevaient" ],
+  "passeSimple": [ "me reconçus", "te reconçus", "se reconçut", "nous reconçûmes", "vous reconçûtes", "se reconçurent" ],
+  "futurSimple": [ "me reconcevrai", "te reconcevras", "se reconcevra", "nous reconcevrons", "vous reconcevrez", "se reconcevront" ],
+  "passeCompose": [ "me suis reconçu(e)", "t'es reconçu(e)", "s'est reconçu(e)", "nous sommes reconçu(e)s", "vous êtes reconçu(e)(s)", "se sont reconçu(e)s" ],
+  "plusQueParfait": [ "m'étais reconçu(e)", "t'étais reconçu(e)", "s'était reconçu(e)", "nous étions reconçu(e)s", "vous étiez reconçu(e)(s)", "s'étaient reconçu(e)s" ],
+  "passeAnterieur": [ "me fus reconçu(e)", "te fus reconçu(e)", "se fut reconçu(e)", "nous fûmes reconçu(e)s", "vous fûtes reconçu(e)(s)", "se furent reconçu(e)s" ],
+  "futurAnterieur": [ "me serai reconçu(e)", "te seras reconçu(e)", "se sera reconçu(e)", "nous serons reconçu(e)s", "vous serez reconçu(e)(s)", "se seront reconçu(e)s" ],
+  "subjonctifPresent": [ "me reconçoive", "te reconçoives", "se reconçoive", "nous reconcevions", "vous reconceviez", "se reconçoivent" ],
+  "subjonctifImparfait": [ "me reconçusse", "te reconçusses", "se reconçût", "nous reconçussions", "vous reconçussiez", "se reconçussent" ],
+  "subjonctifPasse": [ "me sois reconçu(e)", "te sois reconçu(e)", "se soit reconçu(e)", "nous soyons reconçu(e)s", "vous soyez reconçu(e)(s)", "se soient reconçu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse reconçu(e)", "te fusses reconçu(e)", "se fût reconçu(e)", "nous fussions reconçu(e)s", "vous fussiez reconçu(e)(s)", "se fussent reconçu(e)s" ],
+  "conditionnelPresent": [ "me reconcevrais", "te reconcevrais", "se reconcevrait", "nous reconcevrions", "vous reconcevriez", "se reconcevraient" ],
+  "conditionnelPasse": [ "me serais reconçu(e)", "te serais reconçu(e)", "se serait reconçu(e)", "nous serions reconçu(e)s", "vous seriez reconçu(e)(s)", "se seraient reconçu(e)s" ],
+  "conditionnelPasseII": [ "me fusse reconçu(e)", "te fusses reconçu(e)", "se fût reconçu(e)", "nous fussions reconçu(e)s", "vous fussiez reconçu(e)(s)", "se fussent reconçu(e)s" ],
+  "imperatif": [ "–", "reconçois-toi !", "–", "reconcevons-nous !", "reconcevez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

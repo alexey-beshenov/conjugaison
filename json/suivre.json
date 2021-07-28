@@ -1,0 +1,22 @@
+{
+  "infinitif": "suivre",
+  "participePresent": "suivant",
+  "participePasse": "suivi",
+  "present": [ "suis", "suis", "suit", "suivons", "suivez", "suivent" ],
+  "imparfait": [ "suivais", "suivais", "suivait", "suivions", "suiviez", "suivaient" ],
+  "passeSimple": [ "suivis", "suivis", "suivit", "suivîmes", "suivîtes", "suivirent" ],
+  "futurSimple": [ "suivrai", "suivras", "suivra", "suivrons", "suivrez", "suivront" ],
+  "passeCompose": [ "ai suivi", "as suivi", "a suivi", "avons suivi", "avez suivi", "ont suivi" ],
+  "plusQueParfait": [ "avais suivi", "avais suivi", "avait suivi", "avions suivi", "aviez suivi", "avaient suivi" ],
+  "passeAnterieur": [ "eus suivi", "eus suivi", "eut suivi", "eûmes suivi", "eûtes suivi", "eurent suivi" ],
+  "futurAnterieur": [ "aurai suivi", "auras suivi", "aura suivi", "aurons suivi", "aurez suivi", "auront suivi" ],
+  "subjonctifPresent": [ "suive", "suives", "suive", "suivions", "suiviez", "suivent" ],
+  "subjonctifImparfait": [ "suivisse", "suivisses", "suivît", "suivissions", "suivissiez", "suivissent" ],
+  "subjonctifPasse": [ "aie suivi", "aies suivi", "ait suivi", "ayons suivi", "ayez suivi", "aient suivi" ],
+  "subjonctifPlusQueParfait": [ "eusse suivi", "eusses suivi", "eût suivi", "eussions suivi", "eussiez suivi", "eussent suivi" ],
+  "conditionnelPresent": [ "suivrais", "suivrais", "suivrait", "suivrions", "suivriez", "suivraient" ],
+  "conditionnelPasse": [ "aurais suivi", "aurais suivi", "aurait suivi", "aurions suivi", "auriez suivi", "auraient suivi" ],
+  "conditionnelPasseII": [ "eusse suivi", "eusses suivi", "eût suivi", "eussions suivi", "eussiez suivi", "eussent suivi" ],
+  "imperatif": [ "–", "suis !", "–", "suivons !", "suivez !", "–" ],
+  "imperatifPasse": [ "–", "aie suivi !", "–", "ayons suivi !", "ayez suivi !", "–" ]
+}

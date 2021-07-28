@@ -1,0 +1,22 @@
+{
+  "infinitif": "perdre",
+  "participePresent": "perdant",
+  "participePasse": "perdu",
+  "present": [ "perds", "perds", "perd", "perdons", "perdez", "perdent" ],
+  "imparfait": [ "perdais", "perdais", "perdait", "perdions", "perdiez", "perdaient" ],
+  "passeSimple": [ "perdis", "perdis", "perdit", "perdîmes", "perdîtes", "perdirent" ],
+  "futurSimple": [ "perdrai", "perdras", "perdra", "perdrons", "perdrez", "perdront" ],
+  "passeCompose": [ "ai perdu", "as perdu", "a perdu", "avons perdu", "avez perdu", "ont perdu" ],
+  "plusQueParfait": [ "avais perdu", "avais perdu", "avait perdu", "avions perdu", "aviez perdu", "avaient perdu" ],
+  "passeAnterieur": [ "eus perdu", "eus perdu", "eut perdu", "eûmes perdu", "eûtes perdu", "eurent perdu" ],
+  "futurAnterieur": [ "aurai perdu", "auras perdu", "aura perdu", "aurons perdu", "aurez perdu", "auront perdu" ],
+  "subjonctifPresent": [ "perde", "perdes", "perde", "perdions", "perdiez", "perdent" ],
+  "subjonctifImparfait": [ "perdisse", "perdisses", "perdît", "perdissions", "perdissiez", "perdissent" ],
+  "subjonctifPasse": [ "aie perdu", "aies perdu", "ait perdu", "ayons perdu", "ayez perdu", "aient perdu" ],
+  "subjonctifPlusQueParfait": [ "eusse perdu", "eusses perdu", "eût perdu", "eussions perdu", "eussiez perdu", "eussent perdu" ],
+  "conditionnelPresent": [ "perdrais", "perdrais", "perdrait", "perdrions", "perdriez", "perdraient" ],
+  "conditionnelPasse": [ "aurais perdu", "aurais perdu", "aurait perdu", "aurions perdu", "auriez perdu", "auraient perdu" ],
+  "conditionnelPasseII": [ "eusse perdu", "eusses perdu", "eût perdu", "eussions perdu", "eussiez perdu", "eussent perdu" ],
+  "imperatif": [ "–", "perds !", "–", "perdons !", "perdez !", "–" ],
+  "imperatifPasse": [ "–", "aie perdu !", "–", "ayons perdu !", "ayez perdu !", "–" ]
+}

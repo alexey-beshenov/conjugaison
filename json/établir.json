@@ -1,0 +1,22 @@
+{
+  "infinitif": "établir",
+  "participePresent": "établissant",
+  "participePasse": "établi",
+  "present": [ "établis", "établis", "établit", "établissons", "établissez", "établissent" ],
+  "imparfait": [ "établissais", "établissais", "établissait", "établissions", "établissiez", "établissaient" ],
+  "passeSimple": [ "établis", "établis", "établit", "établîmes", "établîtes", "établirent" ],
+  "futurSimple": [ "établirai", "établiras", "établira", "établirons", "établirez", "établiront" ],
+  "passeCompose": [ "ai établi", "as établi", "a établi", "avons établi", "avez établi", "ont établi" ],
+  "plusQueParfait": [ "avais établi", "avais établi", "avait établi", "avions établi", "aviez établi", "avaient établi" ],
+  "passeAnterieur": [ "eus établi", "eus établi", "eut établi", "eûmes établi", "eûtes établi", "eurent établi" ],
+  "futurAnterieur": [ "aurai établi", "auras établi", "aura établi", "aurons établi", "aurez établi", "auront établi" ],
+  "subjonctifPresent": [ "établisse", "établisses", "établisse", "établissions", "établissiez", "établissent" ],
+  "subjonctifImparfait": [ "établisse", "établisses", "établît", "établissions", "établissiez", "établissent" ],
+  "subjonctifPasse": [ "aie établi", "aies établi", "ait établi", "ayons établi", "ayez établi", "aient établi" ],
+  "subjonctifPlusQueParfait": [ "eusse établi", "eusses établi", "eût établi", "eussions établi", "eussiez établi", "eussent établi" ],
+  "conditionnelPresent": [ "établirais", "établirais", "établirait", "établirions", "établiriez", "établiraient" ],
+  "conditionnelPasse": [ "aurais établi", "aurais établi", "aurait établi", "aurions établi", "auriez établi", "auraient établi" ],
+  "conditionnelPasseII": [ "eusse établi", "eusses établi", "eût établi", "eussions établi", "eussiez établi", "eussent établi" ],
+  "imperatif": [ "–", "établis !", "–", "établissons !", "établissez !", "–" ],
+  "imperatifPasse": [ "–", "aie établi !", "–", "ayons établi !", "ayez établi !", "–" ]
+}

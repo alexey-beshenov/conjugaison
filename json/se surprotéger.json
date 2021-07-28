@@ -1,0 +1,22 @@
+{
+  "infinitif": "se surprotéger",
+  "participePresent": "se surprotégeant",
+  "participePasse": "surprotégé",
+  "present": [ "me surprotège", "te surprotèges", "se surprotège", "nous surprotégeons", "vous surprotégez", "se surprotègent" ],
+  "imparfait": [ "me surprotégeais", "te surprotégeais", "se surprotégeait", "nous surprotégions", "vous surprotégiez", "se surprotégeaient" ],
+  "passeSimple": [ "me surprotégeai", "te surprotégeas", "se surprotégea", "nous surprotégeâmes", "vous surprotégeâtes", "se surprotégèrent" ],
+  "futurSimple": [ "me surprotégerai", "te surprotégeras", "se surprotégera", "nous surprotégerons", "vous surprotégerez", "se surprotégeront" ],
+  "passeCompose": [ "me suis surprotégé(e)", "t'es surprotégé(e)", "s'est surprotégé(e)", "nous sommes surprotégé(e)s", "vous êtes surprotégé(e)(s)", "se sont surprotégé(e)s" ],
+  "plusQueParfait": [ "m'étais surprotégé(e)", "t'étais surprotégé(e)", "s'était surprotégé(e)", "nous étions surprotégé(e)s", "vous étiez surprotégé(e)(s)", "s'étaient surprotégé(e)s" ],
+  "passeAnterieur": [ "me fus surprotégé(e)", "te fus surprotégé(e)", "se fut surprotégé(e)", "nous fûmes surprotégé(e)s", "vous fûtes surprotégé(e)(s)", "se furent surprotégé(e)s" ],
+  "futurAnterieur": [ "me serai surprotégé(e)", "te seras surprotégé(e)", "se sera surprotégé(e)", "nous serons surprotégé(e)s", "vous serez surprotégé(e)(s)", "se seront surprotégé(e)s" ],
+  "subjonctifPresent": [ "me surprotège", "te surprotèges", "se surprotège", "nous surprotégions", "vous surprotégiez", "se surprotègent" ],
+  "subjonctifImparfait": [ "me surprotégeasse", "te surprotégeasses", "se surprotégeât", "nous surprotégeassions", "vous surprotégeassiez", "se surprotégeassent" ],
+  "subjonctifPasse": [ "me sois surprotégé(e)", "te sois surprotégé(e)", "se soit surprotégé(e)", "nous soyons surprotégé(e)s", "vous soyez surprotégé(e)(s)", "se soient surprotégé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse surprotégé(e)", "te fusses surprotégé(e)", "se fût surprotégé(e)", "nous fussions surprotégé(e)s", "vous fussiez surprotégé(e)(s)", "se fussent surprotégé(e)s" ],
+  "conditionnelPresent": [ "me surprotégerais", "te surprotégerais", "se surprotégerait", "nous surprotégerions", "vous surprotégeriez", "se surprotégeraient" ],
+  "conditionnelPasse": [ "me serais surprotégé(e)", "te serais surprotégé(e)", "se serait surprotégé(e)", "nous serions surprotégé(e)s", "vous seriez surprotégé(e)(s)", "se seraient surprotégé(e)s" ],
+  "conditionnelPasseII": [ "me fusse surprotégé(e)", "te fusses surprotégé(e)", "se fût surprotégé(e)", "nous fussions surprotégé(e)s", "vous fussiez surprotégé(e)(s)", "se fussent surprotégé(e)s" ],
+  "imperatif": [ "–", "surprotège-toi !", "–", "surprotégeons-nous !", "surprotégez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

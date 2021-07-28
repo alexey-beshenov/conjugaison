@@ -1,0 +1,22 @@
+{
+  "infinitif": "se surprendre",
+  "participePresent": "se surprenant",
+  "participePasse": "surpris",
+  "present": [ "me surprends", "te surprends", "se surprend", "nous surprenons", "vous surprenez", "se surprennent" ],
+  "imparfait": [ "me surprenais", "te surprenais", "se surprenait", "nous surprenions", "vous surpreniez", "se surprenaient" ],
+  "passeSimple": [ "me surpris", "te surpris", "se surprit", "nous surprîmes", "vous surprîtes", "se surprirent" ],
+  "futurSimple": [ "me surprendrai", "te surprendras", "se surprendra", "nous surprendrons", "vous surprendrez", "se surprendront" ],
+  "passeCompose": [ "me suis surpris(e)", "t'es surpris(e)", "s'est surpris(e)", "nous sommes surpris(es)", "vous êtes surpris(e(s))", "se sont surpris(es)" ],
+  "plusQueParfait": [ "m'étais surpris(e)", "t'étais surpris(e)", "s'était surpris(e)", "nous étions surpris(es)", "vous étiez surpris(e(s))", "s'étaient surpris(es)" ],
+  "passeAnterieur": [ "me fus surpris(e)", "te fus surpris(e)", "se fut surpris(e)", "nous fûmes surpris(es)", "vous fûtes surpris(e(s))", "se furent surpris(es)" ],
+  "futurAnterieur": [ "me serai surpris(e)", "te seras surpris(e)", "se sera surpris(e)", "nous serons surpris(es)", "vous serez surpris(e(s))", "se seront surpris(es)" ],
+  "subjonctifPresent": [ "me surprenne", "te surprennes", "se surprenne", "nous surprenions", "vous surpreniez", "se surprennent" ],
+  "subjonctifImparfait": [ "me surprisse", "te surprisses", "se surprît", "nous surprissions", "vous surprissiez", "se surprissent" ],
+  "subjonctifPasse": [ "me sois surpris(e)", "te sois surpris(e)", "se soit surpris(e)", "nous soyons surpris(es)", "vous soyez surpris(e(s))", "se soient surpris(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse surpris(e)", "te fusses surpris(e)", "se fût surpris(e)", "nous fussions surpris(es)", "vous fussiez surpris(e(s))", "se fussent surpris(es)" ],
+  "conditionnelPresent": [ "me surprendrais", "te surprendrais", "se surprendrait", "nous surprendrions", "vous surprendriez", "se surprendraient" ],
+  "conditionnelPasse": [ "me serais surpris(e)", "te serais surpris(e)", "se serait surpris(e)", "nous serions surpris(es)", "vous seriez surpris(e(s))", "se seraient surpris(es)" ],
+  "conditionnelPasseII": [ "me fusse surpris(e)", "te fusses surpris(e)", "se fût surpris(e)", "nous fussions surpris(es)", "vous fussiez surpris(e(s))", "se fussent surpris(es)" ],
+  "imperatif": [ "–", "surprends-toi !", "–", "surprenons-nous !", "surprenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

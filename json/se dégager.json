@@ -1,0 +1,22 @@
+{
+  "infinitif": "se dégager",
+  "participePresent": "se dégageant",
+  "participePasse": "dégagé",
+  "present": [ "me dégage", "te dégages", "se dégage", "nous dégageons", "vous dégagez", "se dégagent" ],
+  "imparfait": [ "me dégageais", "te dégageais", "se dégageait", "nous dégagions", "vous dégagiez", "se dégageaient" ],
+  "passeSimple": [ "me dégageai", "te dégageas", "se dégagea", "nous dégageâmes", "vous dégageâtes", "se dégagèrent" ],
+  "futurSimple": [ "me dégagerai", "te dégageras", "se dégagera", "nous dégagerons", "vous dégagerez", "se dégageront" ],
+  "passeCompose": [ "me suis dégagé(e)", "t'es dégagé(e)", "s'est dégagé(e)", "nous sommes dégagé(e)s", "vous êtes dégagé(e)(s)", "se sont dégagé(e)s" ],
+  "plusQueParfait": [ "m'étais dégagé(e)", "t'étais dégagé(e)", "s'était dégagé(e)", "nous étions dégagé(e)s", "vous étiez dégagé(e)(s)", "s'étaient dégagé(e)s" ],
+  "passeAnterieur": [ "me fus dégagé(e)", "te fus dégagé(e)", "se fut dégagé(e)", "nous fûmes dégagé(e)s", "vous fûtes dégagé(e)(s)", "se furent dégagé(e)s" ],
+  "futurAnterieur": [ "me serai dégagé(e)", "te seras dégagé(e)", "se sera dégagé(e)", "nous serons dégagé(e)s", "vous serez dégagé(e)(s)", "se seront dégagé(e)s" ],
+  "subjonctifPresent": [ "me dégage", "te dégages", "se dégage", "nous dégagions", "vous dégagiez", "se dégagent" ],
+  "subjonctifImparfait": [ "me dégageasse", "te dégageasses", "se dégageât", "nous dégageassions", "vous dégageassiez", "se dégageassent" ],
+  "subjonctifPasse": [ "me sois dégagé(e)", "te sois dégagé(e)", "se soit dégagé(e)", "nous soyons dégagé(e)s", "vous soyez dégagé(e)(s)", "se soient dégagé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse dégagé(e)", "te fusses dégagé(e)", "se fût dégagé(e)", "nous fussions dégagé(e)s", "vous fussiez dégagé(e)(s)", "se fussent dégagé(e)s" ],
+  "conditionnelPresent": [ "me dégagerais", "te dégagerais", "se dégagerait", "nous dégagerions", "vous dégageriez", "se dégageraient" ],
+  "conditionnelPasse": [ "me serais dégagé(e)", "te serais dégagé(e)", "se serait dégagé(e)", "nous serions dégagé(e)s", "vous seriez dégagé(e)(s)", "se seraient dégagé(e)s" ],
+  "conditionnelPasseII": [ "me fusse dégagé(e)", "te fusses dégagé(e)", "se fût dégagé(e)", "nous fussions dégagé(e)s", "vous fussiez dégagé(e)(s)", "se fussent dégagé(e)s" ],
+  "imperatif": [ "–", "dégage-toi !", "–", "dégageons-nous !", "dégagez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

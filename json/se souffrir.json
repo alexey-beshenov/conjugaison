@@ -1,0 +1,22 @@
+{
+  "infinitif": "se souffrir",
+  "participePresent": "se souffrant",
+  "participePasse": "souffert",
+  "present": [ "me souffre", "te souffres", "se souffre", "nous souffrons", "vous souffrez", "se souffrent" ],
+  "imparfait": [ "me souffrais", "te souffrais", "se souffrait", "nous souffrions", "vous souffriez", "se souffraient" ],
+  "passeSimple": [ "me souffris", "te souffris", "se souffrit", "nous souffrîmes", "vous souffrîtes", "se souffrirent" ],
+  "futurSimple": [ "me souffrirai", "te souffriras", "se souffrira", "nous souffrirons", "vous souffrirez", "se souffriront" ],
+  "passeCompose": [ "me suis souffert(e)", "t'es souffert(e)", "s'est souffert(e)", "nous sommes souffert(e)s", "vous êtes souffert(e)(s)", "se sont souffert(e)s" ],
+  "plusQueParfait": [ "m'étais souffert(e)", "t'étais souffert(e)", "s'était souffert(e)", "nous étions souffert(e)s", "vous étiez souffert(e)(s)", "s'étaient souffert(e)s" ],
+  "passeAnterieur": [ "me fus souffert(e)", "te fus souffert(e)", "se fut souffert(e)", "nous fûmes souffert(e)s", "vous fûtes souffert(e)(s)", "se furent souffert(e)s" ],
+  "futurAnterieur": [ "me serai souffert(e)", "te seras souffert(e)", "se sera souffert(e)", "nous serons souffert(e)s", "vous serez souffert(e)(s)", "se seront souffert(e)s" ],
+  "subjonctifPresent": [ "me souffre", "te souffres", "se souffre", "nous souffrions", "vous souffriez", "se souffrent" ],
+  "subjonctifImparfait": [ "me souffrisse", "te souffrisses", "se souffrît", "nous souffrissions", "vous souffrissiez", "se souffrissent" ],
+  "subjonctifPasse": [ "me sois souffert(e)", "te sois souffert(e)", "se soit souffert(e)", "nous soyons souffert(e)s", "vous soyez souffert(e)(s)", "se soient souffert(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse souffert(e)", "te fusses souffert(e)", "se fût souffert(e)", "nous fussions souffert(e)s", "vous fussiez souffert(e)(s)", "se fussent souffert(e)s" ],
+  "conditionnelPresent": [ "me souffrirais", "te souffrirais", "se souffrirait", "nous souffririons", "vous souffririez", "se souffriraient" ],
+  "conditionnelPasse": [ "me serais souffert(e)", "te serais souffert(e)", "se serait souffert(e)", "nous serions souffert(e)s", "vous seriez souffert(e)(s)", "se seraient souffert(e)s" ],
+  "conditionnelPasseII": [ "me fusse souffert(e)", "te fusses souffert(e)", "se fût souffert(e)", "nous fussions souffert(e)s", "vous fussiez souffert(e)(s)", "se fussent souffert(e)s" ],
+  "imperatif": [ "–", "souffre-toi !", "–", "souffrons-nous !", "souffrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

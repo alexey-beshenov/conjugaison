@@ -1,0 +1,22 @@
+{
+  "infinitif": "importer",
+  "participePresent": "important",
+  "participePasse": "importé",
+  "present": [ "importe", "importes", "importe", "importons", "importez", "importent" ],
+  "imparfait": [ "importais", "importais", "importait", "importions", "importiez", "importaient" ],
+  "passeSimple": [ "importai", "importas", "importa", "importâmes", "importâtes", "importèrent" ],
+  "futurSimple": [ "importerai", "importeras", "importera", "importerons", "importerez", "importeront" ],
+  "passeCompose": [ "ai importé", "as importé", "a importé", "avons importé", "avez importé", "ont importé" ],
+  "plusQueParfait": [ "avais importé", "avais importé", "avait importé", "avions importé", "aviez importé", "avaient importé" ],
+  "passeAnterieur": [ "eus importé", "eus importé", "eut importé", "eûmes importé", "eûtes importé", "eurent importé" ],
+  "futurAnterieur": [ "aurai importé", "auras importé", "aura importé", "aurons importé", "aurez importé", "auront importé" ],
+  "subjonctifPresent": [ "importe", "importes", "importe", "importions", "importiez", "importent" ],
+  "subjonctifImparfait": [ "importasse", "importasses", "importât", "importassions", "importassiez", "importassent" ],
+  "subjonctifPasse": [ "aie importé", "aies importé", "ait importé", "ayons importé", "ayez importé", "aient importé" ],
+  "subjonctifPlusQueParfait": [ "eusse importé", "eusses importé", "eût importé", "eussions importé", "eussiez importé", "eussent importé" ],
+  "conditionnelPresent": [ "importerais", "importerais", "importerait", "importerions", "importeriez", "importeraient" ],
+  "conditionnelPasse": [ "aurais importé", "aurais importé", "aurait importé", "aurions importé", "auriez importé", "auraient importé" ],
+  "conditionnelPasseII": [ "eusse importé", "eusses importé", "eût importé", "eussions importé", "eussiez importé", "eussent importé" ],
+  "imperatif": [ "–", "importe !", "–", "importons !", "importez !", "–" ],
+  "imperatifPasse": [ "–", "aie importé !", "–", "ayons importé !", "ayez importé !", "–" ]
+}

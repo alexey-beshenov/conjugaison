@@ -1,0 +1,22 @@
+{
+  "infinitif": "se troubler",
+  "participePresent": "se troublant",
+  "participePasse": "troublé",
+  "present": [ "me trouble", "te troubles", "se trouble", "nous troublons", "vous troublez", "se troublent" ],
+  "imparfait": [ "me troublais", "te troublais", "se troublait", "nous troublions", "vous troubliez", "se troublaient" ],
+  "passeSimple": [ "me troublai", "te troublas", "se troubla", "nous troublâmes", "vous troublâtes", "se troublèrent" ],
+  "futurSimple": [ "me troublerai", "te troubleras", "se troublera", "nous troublerons", "vous troublerez", "se troubleront" ],
+  "passeCompose": [ "me suis troublé(e)", "t'es troublé(e)", "s'est troublé(e)", "nous sommes troublé(e)s", "vous êtes troublé(e)(s)", "se sont troublé(e)s" ],
+  "plusQueParfait": [ "m'étais troublé(e)", "t'étais troublé(e)", "s'était troublé(e)", "nous étions troublé(e)s", "vous étiez troublé(e)(s)", "s'étaient troublé(e)s" ],
+  "passeAnterieur": [ "me fus troublé(e)", "te fus troublé(e)", "se fut troublé(e)", "nous fûmes troublé(e)s", "vous fûtes troublé(e)(s)", "se furent troublé(e)s" ],
+  "futurAnterieur": [ "me serai troublé(e)", "te seras troublé(e)", "se sera troublé(e)", "nous serons troublé(e)s", "vous serez troublé(e)(s)", "se seront troublé(e)s" ],
+  "subjonctifPresent": [ "me trouble", "te troubles", "se trouble", "nous troublions", "vous troubliez", "se troublent" ],
+  "subjonctifImparfait": [ "me troublasse", "te troublasses", "se troublât", "nous troublassions", "vous troublassiez", "se troublassent" ],
+  "subjonctifPasse": [ "me sois troublé(e)", "te sois troublé(e)", "se soit troublé(e)", "nous soyons troublé(e)s", "vous soyez troublé(e)(s)", "se soient troublé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse troublé(e)", "te fusses troublé(e)", "se fût troublé(e)", "nous fussions troublé(e)s", "vous fussiez troublé(e)(s)", "se fussent troublé(e)s" ],
+  "conditionnelPresent": [ "me troublerais", "te troublerais", "se troublerait", "nous troublerions", "vous troubleriez", "se troubleraient" ],
+  "conditionnelPasse": [ "me serais troublé(e)", "te serais troublé(e)", "se serait troublé(e)", "nous serions troublé(e)s", "vous seriez troublé(e)(s)", "se seraient troublé(e)s" ],
+  "conditionnelPasseII": [ "me fusse troublé(e)", "te fusses troublé(e)", "se fût troublé(e)", "nous fussions troublé(e)s", "vous fussiez troublé(e)(s)", "se fussent troublé(e)s" ],
+  "imperatif": [ "–", "trouble-toi !", "–", "troublons-nous !", "troublez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "lire",
+  "participePresent": "lisant",
+  "participePasse": "lu",
+  "present": [ "lis", "lis", "lit", "lisons", "lisez", "lisent" ],
+  "imparfait": [ "lisais", "lisais", "lisait", "lisions", "lisiez", "lisaient" ],
+  "passeSimple": [ "lus", "lus", "lut", "lûmes", "lûtes", "lurent" ],
+  "futurSimple": [ "lirai", "liras", "lira", "lirons", "lirez", "liront" ],
+  "passeCompose": [ "ai lu", "as lu", "a lu", "avons lu", "avez lu", "ont lu" ],
+  "plusQueParfait": [ "avais lu", "avais lu", "avait lu", "avions lu", "aviez lu", "avaient lu" ],
+  "passeAnterieur": [ "eus lu", "eus lu", "eut lu", "eûmes lu", "eûtes lu", "eurent lu" ],
+  "futurAnterieur": [ "aurai lu", "auras lu", "aura lu", "aurons lu", "aurez lu", "auront lu" ],
+  "subjonctifPresent": [ "lise", "lises", "lise", "lisions", "lisiez", "lisent" ],
+  "subjonctifImparfait": [ "lusse", "lusses", "lût", "lussions", "lussiez", "lussent" ],
+  "subjonctifPasse": [ "aie lu", "aies lu", "ait lu", "ayons lu", "ayez lu", "aient lu" ],
+  "subjonctifPlusQueParfait": [ "eusse lu", "eusses lu", "eût lu", "eussions lu", "eussiez lu", "eussent lu" ],
+  "conditionnelPresent": [ "lirais", "lirais", "lirait", "lirions", "liriez", "liraient" ],
+  "conditionnelPasse": [ "aurais lu", "aurais lu", "aurait lu", "aurions lu", "auriez lu", "auraient lu" ],
+  "conditionnelPasseII": [ "eusse lu", "eusses lu", "eût lu", "eussions lu", "eussiez lu", "eussent lu" ],
+  "imperatif": [ "–", "lis !", "–", "lisons !", "lisez !", "–" ],
+  "imperatifPasse": [ "–", "aie lu !", "–", "ayons lu !", "ayez lu !", "–" ]
+}

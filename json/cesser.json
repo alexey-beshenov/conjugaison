@@ -1,0 +1,22 @@
+{
+  "infinitif": "cesser",
+  "participePresent": "cessant",
+  "participePasse": "cessé",
+  "present": [ "cesse", "cesses", "cesse", "cessons", "cessez", "cessent" ],
+  "imparfait": [ "cessais", "cessais", "cessait", "cessions", "cessiez", "cessaient" ],
+  "passeSimple": [ "cessai", "cessas", "cessa", "cessâmes", "cessâtes", "cessèrent" ],
+  "futurSimple": [ "cesserai", "cesseras", "cessera", "cesserons", "cesserez", "cesseront" ],
+  "passeCompose": [ "ai cessé", "as cessé", "a cessé", "avons cessé", "avez cessé", "ont cessé" ],
+  "plusQueParfait": [ "avais cessé", "avais cessé", "avait cessé", "avions cessé", "aviez cessé", "avaient cessé" ],
+  "passeAnterieur": [ "eus cessé", "eus cessé", "eut cessé", "eûmes cessé", "eûtes cessé", "eurent cessé" ],
+  "futurAnterieur": [ "aurai cessé", "auras cessé", "aura cessé", "aurons cessé", "aurez cessé", "auront cessé" ],
+  "subjonctifPresent": [ "cesse", "cesses", "cesse", "cessions", "cessiez", "cessent" ],
+  "subjonctifImparfait": [ "cessasse", "cessasses", "cessât", "cessassions", "cessassiez", "cessassent" ],
+  "subjonctifPasse": [ "aie cessé", "aies cessé", "ait cessé", "ayons cessé", "ayez cessé", "aient cessé" ],
+  "subjonctifPlusQueParfait": [ "eusse cessé", "eusses cessé", "eût cessé", "eussions cessé", "eussiez cessé", "eussent cessé" ],
+  "conditionnelPresent": [ "cesserais", "cesserais", "cesserait", "cesserions", "cesseriez", "cesseraient" ],
+  "conditionnelPasse": [ "aurais cessé", "aurais cessé", "aurait cessé", "aurions cessé", "auriez cessé", "auraient cessé" ],
+  "conditionnelPasseII": [ "eusse cessé", "eusses cessé", "eût cessé", "eussions cessé", "eussiez cessé", "eussent cessé" ],
+  "imperatif": [ "–", "cesse !", "–", "cessons !", "cessez !", "–" ],
+  "imperatifPasse": [ "–", "aie cessé !", "–", "ayons cessé !", "ayez cessé !", "–" ]
+}

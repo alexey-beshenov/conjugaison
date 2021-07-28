@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'abattre",
+  "participePresent": "s'abattant",
+  "participePasse": "abattu",
+  "present": [ "m'abats", "t'abats", "s'abat", "nous abattons", "vous abattez", "s'abattent" ],
+  "imparfait": [ "m'abattais", "t'abattais", "s'abattait", "nous abattions", "vous abattiez", "s'abattaient" ],
+  "passeSimple": [ "m'abattis", "t'abattis", "s'abattit", "nous abattîmes", "vous abattîtes", "s'abattirent" ],
+  "futurSimple": [ "m'abattrai", "t'abattras", "s'abattra", "nous abattrons", "vous abattrez", "s'abattront" ],
+  "passeCompose": [ "me suis abattu(e)", "t'es abattu(e)", "s'est abattu(e)", "nous sommes abattu(e)s", "vous êtes abattu(e)(s)", "se sont abattu(e)s" ],
+  "plusQueParfait": [ "m'étais abattu(e)", "t'étais abattu(e)", "s'était abattu(e)", "nous étions abattu(e)s", "vous étiez abattu(e)(s)", "s'étaient abattu(e)s" ],
+  "passeAnterieur": [ "me fus abattu(e)", "te fus abattu(e)", "se fut abattu(e)", "nous fûmes abattu(e)s", "vous fûtes abattu(e)(s)", "se furent abattu(e)s" ],
+  "futurAnterieur": [ "me serai abattu(e)", "te seras abattu(e)", "se sera abattu(e)", "nous serons abattu(e)s", "vous serez abattu(e)(s)", "se seront abattu(e)s" ],
+  "subjonctifPresent": [ "m'abatte", "t'abattes", "s'abatte", "nous abattions", "vous abattiez", "s'abattent" ],
+  "subjonctifImparfait": [ "m'abattisse", "t'abattisses", "s'abattît", "nous abattissions", "vous abattissiez", "s'abattissent" ],
+  "subjonctifPasse": [ "me sois abattu(e)", "te sois abattu(e)", "se soit abattu(e)", "nous soyons abattu(e)s", "vous soyez abattu(e)(s)", "se soient abattu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse abattu(e)", "te fusses abattu(e)", "se fût abattu(e)", "nous fussions abattu(e)s", "vous fussiez abattu(e)(s)", "se fussent abattu(e)s" ],
+  "conditionnelPresent": [ "m'abattrais", "t'abattrais", "s'abattrait", "nous abattrions", "vous abattriez", "s'abattraient" ],
+  "conditionnelPasse": [ "me serais abattu(e)", "te serais abattu(e)", "se serait abattu(e)", "nous serions abattu(e)s", "vous seriez abattu(e)(s)", "se seraient abattu(e)s" ],
+  "conditionnelPasseII": [ "me fusse abattu(e)", "te fusses abattu(e)", "se fût abattu(e)", "nous fussions abattu(e)s", "vous fussiez abattu(e)(s)", "se fussent abattu(e)s" ],
+  "imperatif": [ "–", "abats-toi !", "–", "abattons-nous !", "abattez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

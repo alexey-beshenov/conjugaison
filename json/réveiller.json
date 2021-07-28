@@ -1,0 +1,22 @@
+{
+  "infinitif": "réveiller",
+  "participePresent": "réveillant",
+  "participePasse": "réveillé",
+  "present": [ "réveille", "réveilles", "réveille", "réveillons", "réveillez", "réveillent" ],
+  "imparfait": [ "réveillais", "réveillais", "réveillait", "réveillions", "réveilliez", "réveillaient" ],
+  "passeSimple": [ "réveillai", "réveillas", "réveilla", "réveillâmes", "réveillâtes", "réveillèrent" ],
+  "futurSimple": [ "réveillerai", "réveilleras", "réveillera", "réveillerons", "réveillerez", "réveilleront" ],
+  "passeCompose": [ "ai réveillé", "as réveillé", "a réveillé", "avons réveillé", "avez réveillé", "ont réveillé" ],
+  "plusQueParfait": [ "avais réveillé", "avais réveillé", "avait réveillé", "avions réveillé", "aviez réveillé", "avaient réveillé" ],
+  "passeAnterieur": [ "eus réveillé", "eus réveillé", "eut réveillé", "eûmes réveillé", "eûtes réveillé", "eurent réveillé" ],
+  "futurAnterieur": [ "aurai réveillé", "auras réveillé", "aura réveillé", "aurons réveillé", "aurez réveillé", "auront réveillé" ],
+  "subjonctifPresent": [ "réveille", "réveilles", "réveille", "réveillions", "réveilliez", "réveillent" ],
+  "subjonctifImparfait": [ "réveillasse", "réveillasses", "réveillât", "réveillassions", "réveillassiez", "réveillassent" ],
+  "subjonctifPasse": [ "aie réveillé", "aies réveillé", "ait réveillé", "ayons réveillé", "ayez réveillé", "aient réveillé" ],
+  "subjonctifPlusQueParfait": [ "eusse réveillé", "eusses réveillé", "eût réveillé", "eussions réveillé", "eussiez réveillé", "eussent réveillé" ],
+  "conditionnelPresent": [ "réveillerais", "réveillerais", "réveillerait", "réveillerions", "réveilleriez", "réveilleraient" ],
+  "conditionnelPasse": [ "aurais réveillé", "aurais réveillé", "aurait réveillé", "aurions réveillé", "auriez réveillé", "auraient réveillé" ],
+  "conditionnelPasseII": [ "eusse réveillé", "eusses réveillé", "eût réveillé", "eussions réveillé", "eussiez réveillé", "eussent réveillé" ],
+  "imperatif": [ "–", "réveille !", "–", "réveillons !", "réveillez !", "–" ],
+  "imperatifPasse": [ "–", "aie réveillé !", "–", "ayons réveillé !", "ayez réveillé !", "–" ]
+}

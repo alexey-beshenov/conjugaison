@@ -1,0 +1,22 @@
+{
+  "infinitif": "se recueillir",
+  "participePresent": "se recueillant",
+  "participePasse": "recueilli",
+  "present": [ "me recueille", "te recueilles", "se recueille", "nous recueillons", "vous recueillez", "se recueillent" ],
+  "imparfait": [ "me recueillais", "te recueillais", "se recueillait", "nous recueillions", "vous recueilliez", "se recueillaient" ],
+  "passeSimple": [ "me recueillis", "te recueillis", "se recueillit", "nous recueillîmes", "vous recueillîtes", "se recueillirent" ],
+  "futurSimple": [ "me recueillerai", "te recueilleras", "se recueillera", "nous recueillerons", "vous recueillerez", "se recueilleront" ],
+  "passeCompose": [ "me suis recueilli(e)", "t'es recueilli(e)", "s'est recueilli(e)", "nous sommes recueilli(e)s", "vous êtes recueilli(e)(s)", "se sont recueilli(e)s" ],
+  "plusQueParfait": [ "m'étais recueilli(e)", "t'étais recueilli(e)", "s'était recueilli(e)", "nous étions recueilli(e)s", "vous étiez recueilli(e)(s)", "s'étaient recueilli(e)s" ],
+  "passeAnterieur": [ "me fus recueilli(e)", "te fus recueilli(e)", "se fut recueilli(e)", "nous fûmes recueilli(e)s", "vous fûtes recueilli(e)(s)", "se furent recueilli(e)s" ],
+  "futurAnterieur": [ "me serai recueilli(e)", "te seras recueilli(e)", "se sera recueilli(e)", "nous serons recueilli(e)s", "vous serez recueilli(e)(s)", "se seront recueilli(e)s" ],
+  "subjonctifPresent": [ "me recueille", "te recueilles", "se recueille", "nous recueillions", "vous recueilliez", "se recueillent" ],
+  "subjonctifImparfait": [ "me recueillisse", "te recueillisses", "se recueillît", "nous recueillissions", "vous recueillissiez", "se recueillissent" ],
+  "subjonctifPasse": [ "me sois recueilli(e)", "te sois recueilli(e)", "se soit recueilli(e)", "nous soyons recueilli(e)s", "vous soyez recueilli(e)(s)", "se soient recueilli(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse recueilli(e)", "te fusses recueilli(e)", "se fût recueilli(e)", "nous fussions recueilli(e)s", "vous fussiez recueilli(e)(s)", "se fussent recueilli(e)s" ],
+  "conditionnelPresent": [ "me recueillerais", "te recueillerais", "se recueillerait", "nous recueillerions", "vous recueilleriez", "se recueilleraient" ],
+  "conditionnelPasse": [ "me serais recueilli(e)", "te serais recueilli(e)", "se serait recueilli(e)", "nous serions recueilli(e)s", "vous seriez recueilli(e)(s)", "se seraient recueilli(e)s" ],
+  "conditionnelPasseII": [ "me fusse recueilli(e)", "te fusses recueilli(e)", "se fût recueilli(e)", "nous fussions recueilli(e)s", "vous fussiez recueilli(e)(s)", "se fussent recueilli(e)s" ],
+  "imperatif": [ "–", "recueille-toi !", "–", "recueillons-nous !", "recueillez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

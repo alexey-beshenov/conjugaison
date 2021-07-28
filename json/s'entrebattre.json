@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'entrebattre",
+  "participePresent": "s'entrebattant",
+  "participePasse": "entrebattu",
+  "present": [ "–", "–", "s'entrebat", "nous entrebattons", "vous entrebattez", "s'entrebattent" ],
+  "imparfait": [ "–", "–", "s'entrebattait", "nous entrebattions", "vous entrebattiez", "s'entrebattaient" ],
+  "passeSimple": [ "–", "–", "s'entrebattit", "nous entrebattîmes", "vous entrebattîtes", "s'entrebattirent" ],
+  "futurSimple": [ "–", "–", "s'entrebattra", "nous entrebattrons", "vous entrebattrez", "s'entrebattront" ],
+  "passeCompose": [ "–", "–", "s'est entrebattu(e)s", "nous sommes entrebattu(e)s", "vous êtes entrebattu(e)(s)", "se sont entrebattu(e)s" ],
+  "plusQueParfait": [ "–", "–", "s'était entrebattu(e)s", "nous étions entrebattu(e)s", "vous étiez entrebattu(e)(s)", "s'étaient entrebattu(e)s" ],
+  "passeAnterieur": [ "–", "–", "se fut entrebattu(e)s", "nous fûmes entrebattu(e)s", "vous fûtes entrebattu(e)(s)", "se furent entrebattu(e)s" ],
+  "futurAnterieur": [ "–", "–", "se sera entrebattu(e)s", "nous serons entrebattu(e)s", "vous serez entrebattu(e)(s)", "se seront entrebattu(e)s" ],
+  "subjonctifPresent": [ "–", "–", "s'entrebatte", "nous entrebattions", "vous entrebattiez", "s'entrebattent" ],
+  "subjonctifImparfait": [ "–", "–", "s'entrebattît", "nous entrebattissions", "vous entrebattissiez", "s'entrebattissent" ],
+  "subjonctifPasse": [ "–", "–", "se soit entrebattu(e)s", "nous soyons entrebattu(e)s", "vous soyez entrebattu(e)(s)", "se soient entrebattu(e)s" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "se fût entrebattu(e)s", "nous fussions entrebattu(e)s", "vous fussiez entrebattu(e)(s)", "se fussent entrebattu(e)s" ],
+  "conditionnelPresent": [ "–", "–", "s'entrebattrait", "nous entrebattrions", "vous entrebattriez", "s'entrebattraient" ],
+  "conditionnelPasse": [ "–", "–", "se serait entrebattu(e)s", "nous serions entrebattu(e)s", "vous seriez entrebattu(e)(s)", "se seraient entrebattu(e)s" ],
+  "conditionnelPasseII": [ "–", "–", "se fût entrebattu(e)s", "nous fussions entrebattu(e)s", "vous fussiez entrebattu(e)(s)", "se fussent entrebattu(e)s" ],
+  "imperatif": [ "–", "–", "–", "entrebattons-nous !", "entrebattez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

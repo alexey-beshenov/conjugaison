@@ -1,0 +1,22 @@
+{
+  "infinitif": "détacher",
+  "participePresent": "détachant",
+  "participePasse": "détaché",
+  "present": [ "détache", "détaches", "détache", "détachons", "détachez", "détachent" ],
+  "imparfait": [ "détachais", "détachais", "détachait", "détachions", "détachiez", "détachaient" ],
+  "passeSimple": [ "détachai", "détachas", "détacha", "détachâmes", "détachâtes", "détachèrent" ],
+  "futurSimple": [ "détacherai", "détacheras", "détachera", "détacherons", "détacherez", "détacheront" ],
+  "passeCompose": [ "ai détaché", "as détaché", "a détaché", "avons détaché", "avez détaché", "ont détaché" ],
+  "plusQueParfait": [ "avais détaché", "avais détaché", "avait détaché", "avions détaché", "aviez détaché", "avaient détaché" ],
+  "passeAnterieur": [ "eus détaché", "eus détaché", "eut détaché", "eûmes détaché", "eûtes détaché", "eurent détaché" ],
+  "futurAnterieur": [ "aurai détaché", "auras détaché", "aura détaché", "aurons détaché", "aurez détaché", "auront détaché" ],
+  "subjonctifPresent": [ "détache", "détaches", "détache", "détachions", "détachiez", "détachent" ],
+  "subjonctifImparfait": [ "détachasse", "détachasses", "détachât", "détachassions", "détachassiez", "détachassent" ],
+  "subjonctifPasse": [ "aie détaché", "aies détaché", "ait détaché", "ayons détaché", "ayez détaché", "aient détaché" ],
+  "subjonctifPlusQueParfait": [ "eusse détaché", "eusses détaché", "eût détaché", "eussions détaché", "eussiez détaché", "eussent détaché" ],
+  "conditionnelPresent": [ "détacherais", "détacherais", "détacherait", "détacherions", "détacheriez", "détacheraient" ],
+  "conditionnelPasse": [ "aurais détaché", "aurais détaché", "aurait détaché", "aurions détaché", "auriez détaché", "auraient détaché" ],
+  "conditionnelPasseII": [ "eusse détaché", "eusses détaché", "eût détaché", "eussions détaché", "eussiez détaché", "eussent détaché" ],
+  "imperatif": [ "–", "détache !", "–", "détachons !", "détachez !", "–" ],
+  "imperatifPasse": [ "–", "aie détaché !", "–", "ayons détaché !", "ayez détaché !", "–" ]
+}

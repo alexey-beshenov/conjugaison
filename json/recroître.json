@@ -1,0 +1,22 @@
+{
+  "infinitif": "recroître",
+  "participePresent": "recroissant",
+  "participePasse": "recrû",
+  "present": [ "recrois", "recrois", "recroît", "recroissons", "recroissez", "recroissent" ],
+  "imparfait": [ "recroissais", "recroissais", "recroissait", "recroissions", "recroissiez", "recroissaient" ],
+  "passeSimple": [ "recrus", "recrus", "recrut", "recrûmes", "recrûtes", "recrurent" ],
+  "futurSimple": [ "recroîtrai", "recroîtras", "recroîtra", "recroîtrons", "recroîtrez", "recroîtront" ],
+  "passeCompose": [ "ai recrû", "as recrû", "a recrû", "avons recrû", "avez recrû", "ont recrû" ],
+  "plusQueParfait": [ "avais recrû", "avais recrû", "avait recrû", "avions recrû", "aviez recrû", "avaient recrû" ],
+  "passeAnterieur": [ "eus recrû", "eus recrû", "eut recrû", "eûmes recrû", "eûtes recrû", "eurent recrû" ],
+  "futurAnterieur": [ "aurai recrû", "auras recrû", "aura recrû", "aurons recrû", "aurez recrû", "auront recrû" ],
+  "subjonctifPresent": [ "recroisse", "recroisses", "recroisse", "recroissions", "recroissiez", "recroissent" ],
+  "subjonctifImparfait": [ "recrusse", "recrusses", "recrût", "recrussions", "recrussiez", "recrussent" ],
+  "subjonctifPasse": [ "aie recrû", "aies recrû", "ait recrû", "ayons recrû", "ayez recrû", "aient recrû" ],
+  "subjonctifPlusQueParfait": [ "eusse recrû", "eusses recrû", "eût recrû", "eussions recrû", "eussiez recrû", "eussent recrû" ],
+  "conditionnelPresent": [ "recroîtrais", "recroîtrais", "recroîtrait", "recroîtrions", "recroîtriez", "recroîtraient" ],
+  "conditionnelPasse": [ "aurais recrû", "aurais recrû", "aurait recrû", "aurions recrû", "auriez recrû", "auraient recrû" ],
+  "conditionnelPasseII": [ "eusse recrû", "eusses recrû", "eût recrû", "eussions recrû", "eussiez recrû", "eussent recrû" ],
+  "imperatif": [ "–", "recrois !", "–", "recroissons !", "recroissez !", "–" ],
+  "imperatifPasse": [ "–", "aie recrû !", "–", "ayons recrû !", "ayez recrû !", "–" ]
+}

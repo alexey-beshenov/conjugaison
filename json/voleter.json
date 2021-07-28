@@ -1,0 +1,22 @@
+{
+  "infinitif": "voleter",
+  "participePresent": "voletant",
+  "participePasse": "voleté",
+  "present": [ "volette", "volettes", "volette", "voletons", "voletez", "volettent" ],
+  "imparfait": [ "voletais", "voletais", "voletait", "voletions", "voletiez", "voletaient" ],
+  "passeSimple": [ "voletai", "voletas", "voleta", "voletâmes", "voletâtes", "voletèrent" ],
+  "futurSimple": [ "voletterai", "voletteras", "volettera", "voletterons", "voletterez", "voletteront" ],
+  "passeCompose": [ "ai voleté", "as voleté", "a voleté", "avons voleté", "avez voleté", "ont voleté" ],
+  "plusQueParfait": [ "avais voleté", "avais voleté", "avait voleté", "avions voleté", "aviez voleté", "avaient voleté" ],
+  "passeAnterieur": [ "eus voleté", "eus voleté", "eut voleté", "eûmes voleté", "eûtes voleté", "eurent voleté" ],
+  "futurAnterieur": [ "aurai voleté", "auras voleté", "aura voleté", "aurons voleté", "aurez voleté", "auront voleté" ],
+  "subjonctifPresent": [ "volette", "volettes", "volette", "voletions", "voletiez", "volettent" ],
+  "subjonctifImparfait": [ "voletasse", "voletasses", "voletât", "voletassions", "voletassiez", "voletassent" ],
+  "subjonctifPasse": [ "aie voleté", "aies voleté", "ait voleté", "ayons voleté", "ayez voleté", "aient voleté" ],
+  "subjonctifPlusQueParfait": [ "eusse voleté", "eusses voleté", "eût voleté", "eussions voleté", "eussiez voleté", "eussent voleté" ],
+  "conditionnelPresent": [ "voletterais", "voletterais", "voletterait", "voletterions", "voletteriez", "voletteraient" ],
+  "conditionnelPasse": [ "aurais voleté", "aurais voleté", "aurait voleté", "aurions voleté", "auriez voleté", "auraient voleté" ],
+  "conditionnelPasseII": [ "eusse voleté", "eusses voleté", "eût voleté", "eussions voleté", "eussiez voleté", "eussent voleté" ],
+  "imperatif": [ "–", "volette !", "–", "voletons !", "voletez !", "–" ],
+  "imperatifPasse": [ "–", "aie voleté !", "–", "ayons voleté !", "ayez voleté !", "–" ]
+}

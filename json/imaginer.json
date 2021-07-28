@@ -1,0 +1,22 @@
+{
+  "infinitif": "imaginer",
+  "participePresent": "imaginant",
+  "participePasse": "imaginé",
+  "present": [ "imagine", "imagines", "imagine", "imaginons", "imaginez", "imaginent" ],
+  "imparfait": [ "imaginais", "imaginais", "imaginait", "imaginions", "imaginiez", "imaginaient" ],
+  "passeSimple": [ "imaginai", "imaginas", "imagina", "imaginâmes", "imaginâtes", "imaginèrent" ],
+  "futurSimple": [ "imaginerai", "imagineras", "imaginera", "imaginerons", "imaginerez", "imagineront" ],
+  "passeCompose": [ "ai imaginé", "as imaginé", "a imaginé", "avons imaginé", "avez imaginé", "ont imaginé" ],
+  "plusQueParfait": [ "avais imaginé", "avais imaginé", "avait imaginé", "avions imaginé", "aviez imaginé", "avaient imaginé" ],
+  "passeAnterieur": [ "eus imaginé", "eus imaginé", "eut imaginé", "eûmes imaginé", "eûtes imaginé", "eurent imaginé" ],
+  "futurAnterieur": [ "aurai imaginé", "auras imaginé", "aura imaginé", "aurons imaginé", "aurez imaginé", "auront imaginé" ],
+  "subjonctifPresent": [ "imagine", "imagines", "imagine", "imaginions", "imaginiez", "imaginent" ],
+  "subjonctifImparfait": [ "imaginasse", "imaginasses", "imaginât", "imaginassions", "imaginassiez", "imaginassent" ],
+  "subjonctifPasse": [ "aie imaginé", "aies imaginé", "ait imaginé", "ayons imaginé", "ayez imaginé", "aient imaginé" ],
+  "subjonctifPlusQueParfait": [ "eusse imaginé", "eusses imaginé", "eût imaginé", "eussions imaginé", "eussiez imaginé", "eussent imaginé" ],
+  "conditionnelPresent": [ "imaginerais", "imaginerais", "imaginerait", "imaginerions", "imagineriez", "imagineraient" ],
+  "conditionnelPasse": [ "aurais imaginé", "aurais imaginé", "aurait imaginé", "aurions imaginé", "auriez imaginé", "auraient imaginé" ],
+  "conditionnelPasseII": [ "eusse imaginé", "eusses imaginé", "eût imaginé", "eussions imaginé", "eussiez imaginé", "eussent imaginé" ],
+  "imperatif": [ "–", "imagine !", "–", "imaginons !", "imaginez !", "–" ],
+  "imperatifPasse": [ "–", "aie imaginé !", "–", "ayons imaginé !", "ayez imaginé !", "–" ]
+}

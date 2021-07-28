@@ -1,0 +1,22 @@
+{
+  "infinitif": "se relever",
+  "participePresent": "se relevant",
+  "participePasse": "relevé",
+  "present": [ "me relève", "te relèves", "se relève", "nous relevons", "vous relevez", "se relèvent" ],
+  "imparfait": [ "me relevais", "te relevais", "se relevait", "nous relevions", "vous releviez", "se relevaient" ],
+  "passeSimple": [ "me relevai", "te relevas", "se releva", "nous relevâmes", "vous relevâtes", "se relevèrent" ],
+  "futurSimple": [ "me relèverai", "te relèveras", "se relèvera", "nous relèverons", "vous relèverez", "se relèveront" ],
+  "passeCompose": [ "me suis relevé(e)", "t'es relevé(e)", "s'est relevé(e)", "nous sommes relevé(e)s", "vous êtes relevé(e)(s)", "se sont relevé(e)s" ],
+  "plusQueParfait": [ "m'étais relevé(e)", "t'étais relevé(e)", "s'était relevé(e)", "nous étions relevé(e)s", "vous étiez relevé(e)(s)", "s'étaient relevé(e)s" ],
+  "passeAnterieur": [ "me fus relevé(e)", "te fus relevé(e)", "se fut relevé(e)", "nous fûmes relevé(e)s", "vous fûtes relevé(e)(s)", "se furent relevé(e)s" ],
+  "futurAnterieur": [ "me serai relevé(e)", "te seras relevé(e)", "se sera relevé(e)", "nous serons relevé(e)s", "vous serez relevé(e)(s)", "se seront relevé(e)s" ],
+  "subjonctifPresent": [ "me relève", "te relèves", "se relève", "nous relevions", "vous releviez", "se relèvent" ],
+  "subjonctifImparfait": [ "me relevasse", "te relevasses", "se relevât", "nous relevassions", "vous relevassiez", "se relevassent" ],
+  "subjonctifPasse": [ "me sois relevé(e)", "te sois relevé(e)", "se soit relevé(e)", "nous soyons relevé(e)s", "vous soyez relevé(e)(s)", "se soient relevé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse relevé(e)", "te fusses relevé(e)", "se fût relevé(e)", "nous fussions relevé(e)s", "vous fussiez relevé(e)(s)", "se fussent relevé(e)s" ],
+  "conditionnelPresent": [ "me relèverais", "te relèverais", "se relèverait", "nous relèverions", "vous relèveriez", "se relèveraient" ],
+  "conditionnelPasse": [ "me serais relevé(e)", "te serais relevé(e)", "se serait relevé(e)", "nous serions relevé(e)s", "vous seriez relevé(e)(s)", "se seraient relevé(e)s" ],
+  "conditionnelPasseII": [ "me fusse relevé(e)", "te fusses relevé(e)", "se fût relevé(e)", "nous fussions relevé(e)s", "vous fussiez relevé(e)(s)", "se fussent relevé(e)s" ],
+  "imperatif": [ "–", "relève-toi !", "–", "relevons-nous !", "relevez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

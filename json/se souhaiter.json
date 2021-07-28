@@ -1,0 +1,22 @@
+{
+  "infinitif": "se souhaiter",
+  "participePresent": "se souhaitant",
+  "participePasse": "souhaité",
+  "present": [ "me souhaite", "te souhaites", "se souhaite", "nous souhaitons", "vous souhaitez", "se souhaitent" ],
+  "imparfait": [ "me souhaitais", "te souhaitais", "se souhaitait", "nous souhaitions", "vous souhaitiez", "se souhaitaient" ],
+  "passeSimple": [ "me souhaitai", "te souhaitas", "se souhaita", "nous souhaitâmes", "vous souhaitâtes", "se souhaitèrent" ],
+  "futurSimple": [ "me souhaiterai", "te souhaiteras", "se souhaitera", "nous souhaiterons", "vous souhaiterez", "se souhaiteront" ],
+  "passeCompose": [ "me suis souhaité(e)", "t'es souhaité(e)", "s'est souhaité(e)", "nous sommes souhaité(e)s", "vous êtes souhaité(e)(s)", "se sont souhaité(e)s" ],
+  "plusQueParfait": [ "m'étais souhaité(e)", "t'étais souhaité(e)", "s'était souhaité(e)", "nous étions souhaité(e)s", "vous étiez souhaité(e)(s)", "s'étaient souhaité(e)s" ],
+  "passeAnterieur": [ "me fus souhaité(e)", "te fus souhaité(e)", "se fut souhaité(e)", "nous fûmes souhaité(e)s", "vous fûtes souhaité(e)(s)", "se furent souhaité(e)s" ],
+  "futurAnterieur": [ "me serai souhaité(e)", "te seras souhaité(e)", "se sera souhaité(e)", "nous serons souhaité(e)s", "vous serez souhaité(e)(s)", "se seront souhaité(e)s" ],
+  "subjonctifPresent": [ "me souhaite", "te souhaites", "se souhaite", "nous souhaitions", "vous souhaitiez", "se souhaitent" ],
+  "subjonctifImparfait": [ "me souhaitasse", "te souhaitasses", "se souhaitât", "nous souhaitassions", "vous souhaitassiez", "se souhaitassent" ],
+  "subjonctifPasse": [ "me sois souhaité(e)", "te sois souhaité(e)", "se soit souhaité(e)", "nous soyons souhaité(e)s", "vous soyez souhaité(e)(s)", "se soient souhaité(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse souhaité(e)", "te fusses souhaité(e)", "se fût souhaité(e)", "nous fussions souhaité(e)s", "vous fussiez souhaité(e)(s)", "se fussent souhaité(e)s" ],
+  "conditionnelPresent": [ "me souhaiterais", "te souhaiterais", "se souhaiterait", "nous souhaiterions", "vous souhaiteriez", "se souhaiteraient" ],
+  "conditionnelPasse": [ "me serais souhaité(e)", "te serais souhaité(e)", "se serait souhaité(e)", "nous serions souhaité(e)s", "vous seriez souhaité(e)(s)", "se seraient souhaité(e)s" ],
+  "conditionnelPasseII": [ "me fusse souhaité(e)", "te fusses souhaité(e)", "se fût souhaité(e)", "nous fussions souhaité(e)s", "vous fussiez souhaité(e)(s)", "se fussent souhaité(e)s" ],
+  "imperatif": [ "–", "souhaite-toi !", "–", "souhaitons-nous !", "souhaitez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

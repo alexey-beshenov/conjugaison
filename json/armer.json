@@ -1,0 +1,22 @@
+{
+  "infinitif": "armer",
+  "participePresent": "armant",
+  "participePasse": "armé",
+  "present": [ "arme", "armes", "arme", "armons", "armez", "arment" ],
+  "imparfait": [ "armais", "armais", "armait", "armions", "armiez", "armaient" ],
+  "passeSimple": [ "armai", "armas", "arma", "armâmes", "armâtes", "armèrent" ],
+  "futurSimple": [ "armerai", "armeras", "armera", "armerons", "armerez", "armeront" ],
+  "passeCompose": [ "ai armé", "as armé", "a armé", "avons armé", "avez armé", "ont armé" ],
+  "plusQueParfait": [ "avais armé", "avais armé", "avait armé", "avions armé", "aviez armé", "avaient armé" ],
+  "passeAnterieur": [ "eus armé", "eus armé", "eut armé", "eûmes armé", "eûtes armé", "eurent armé" ],
+  "futurAnterieur": [ "aurai armé", "auras armé", "aura armé", "aurons armé", "aurez armé", "auront armé" ],
+  "subjonctifPresent": [ "arme", "armes", "arme", "armions", "armiez", "arment" ],
+  "subjonctifImparfait": [ "armasse", "armasses", "armât", "armassions", "armassiez", "armassent" ],
+  "subjonctifPasse": [ "aie armé", "aies armé", "ait armé", "ayons armé", "ayez armé", "aient armé" ],
+  "subjonctifPlusQueParfait": [ "eusse armé", "eusses armé", "eût armé", "eussions armé", "eussiez armé", "eussent armé" ],
+  "conditionnelPresent": [ "armerais", "armerais", "armerait", "armerions", "armeriez", "armeraient" ],
+  "conditionnelPasse": [ "aurais armé", "aurais armé", "aurait armé", "aurions armé", "auriez armé", "auraient armé" ],
+  "conditionnelPasseII": [ "eusse armé", "eusses armé", "eût armé", "eussions armé", "eussiez armé", "eussent armé" ],
+  "imperatif": [ "–", "arme !", "–", "armons !", "armez !", "–" ],
+  "imperatifPasse": [ "–", "aie armé !", "–", "ayons armé !", "ayez armé !", "–" ]
+}

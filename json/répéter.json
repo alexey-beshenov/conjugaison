@@ -1,0 +1,22 @@
+{
+  "infinitif": "répéter",
+  "participePresent": "répétant",
+  "participePasse": "répété",
+  "present": [ "répète", "répètes", "répète", "répétons", "répétez", "répètent" ],
+  "imparfait": [ "répétais", "répétais", "répétait", "répétions", "répétiez", "répétaient" ],
+  "passeSimple": [ "répétai", "répétas", "répéta", "répétâmes", "répétâtes", "répétèrent" ],
+  "futurSimple": [ "répéterai", "répéteras", "répétera", "répéterons", "répéterez", "répéteront" ],
+  "passeCompose": [ "ai répété", "as répété", "a répété", "avons répété", "avez répété", "ont répété" ],
+  "plusQueParfait": [ "avais répété", "avais répété", "avait répété", "avions répété", "aviez répété", "avaient répété" ],
+  "passeAnterieur": [ "eus répété", "eus répété", "eut répété", "eûmes répété", "eûtes répété", "eurent répété" ],
+  "futurAnterieur": [ "aurai répété", "auras répété", "aura répété", "aurons répété", "aurez répété", "auront répété" ],
+  "subjonctifPresent": [ "répète", "répètes", "répète", "répétions", "répétiez", "répètent" ],
+  "subjonctifImparfait": [ "répétasse", "répétasses", "répétât", "répétassions", "répétassiez", "répétassent" ],
+  "subjonctifPasse": [ "aie répété", "aies répété", "ait répété", "ayons répété", "ayez répété", "aient répété" ],
+  "subjonctifPlusQueParfait": [ "eusse répété", "eusses répété", "eût répété", "eussions répété", "eussiez répété", "eussent répété" ],
+  "conditionnelPresent": [ "répéterais", "répéterais", "répéterait", "répéterions", "répéteriez", "répéteraient" ],
+  "conditionnelPasse": [ "aurais répété", "aurais répété", "aurait répété", "aurions répété", "auriez répété", "auraient répété" ],
+  "conditionnelPasseII": [ "eusse répété", "eusses répété", "eût répété", "eussions répété", "eussiez répété", "eussent répété" ],
+  "imperatif": [ "–", "répète !", "–", "répétons !", "répétez !", "–" ],
+  "imperatifPasse": [ "–", "aie répété !", "–", "ayons répété !", "ayez répété !", "–" ]
+}

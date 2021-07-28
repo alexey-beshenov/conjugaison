@@ -1,0 +1,22 @@
+{
+  "infinitif": "endormir",
+  "participePresent": "endormant",
+  "participePasse": "endormi",
+  "present": [ "endors", "endors", "endort", "endormons", "endormez", "endorment" ],
+  "imparfait": [ "endormais", "endormais", "endormait", "endormions", "endormiez", "endormaient" ],
+  "passeSimple": [ "endormis", "endormis", "endormit", "endormîmes", "endormîtes", "endormirent" ],
+  "futurSimple": [ "endormirai", "endormiras", "endormira", "endormirons", "endormirez", "endormiront" ],
+  "passeCompose": [ "ai endormi", "as endormi", "a endormi", "avons endormi", "avez endormi", "ont endormi" ],
+  "plusQueParfait": [ "avais endormi", "avais endormi", "avait endormi", "avions endormi", "aviez endormi", "avaient endormi" ],
+  "passeAnterieur": [ "eus endormi", "eus endormi", "eut endormi", "eûmes endormi", "eûtes endormi", "eurent endormi" ],
+  "futurAnterieur": [ "aurai endormi", "auras endormi", "aura endormi", "aurons endormi", "aurez endormi", "auront endormi" ],
+  "subjonctifPresent": [ "endorme", "endormes", "endorme", "endormions", "endormiez", "endorment" ],
+  "subjonctifImparfait": [ "endormisse", "endormisses", "endormît", "endormissions", "endormissiez", "endormissent" ],
+  "subjonctifPasse": [ "aie endormi", "aies endormi", "ait endormi", "ayons endormi", "ayez endormi", "aient endormi" ],
+  "subjonctifPlusQueParfait": [ "eusse endormi", "eusses endormi", "eût endormi", "eussions endormi", "eussiez endormi", "eussent endormi" ],
+  "conditionnelPresent": [ "endormirais", "endormirais", "endormirait", "endormirions", "endormiriez", "endormiraient" ],
+  "conditionnelPasse": [ "aurais endormi", "aurais endormi", "aurait endormi", "aurions endormi", "auriez endormi", "auraient endormi" ],
+  "conditionnelPasseII": [ "eusse endormi", "eusses endormi", "eût endormi", "eussions endormi", "eussiez endormi", "eussent endormi" ],
+  "imperatif": [ "–", "endors !", "–", "endormons !", "endormez !", "–" ],
+  "imperatifPasse": [ "–", "aie endormi !", "–", "ayons endormi !", "ayez endormi !", "–" ]
+}

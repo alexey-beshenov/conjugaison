@@ -1,0 +1,22 @@
+{
+  "infinitif": "se sembler",
+  "participePresent": "se semblant",
+  "participePasse": "semblé",
+  "present": [ "me semble", "te sembles", "se semble", "nous semblons", "vous semblez", "se semblent" ],
+  "imparfait": [ "me semblais", "te semblais", "se semblait", "nous semblions", "vous sembliez", "se semblaient" ],
+  "passeSimple": [ "me semblai", "te semblas", "se sembla", "nous semblâmes", "vous semblâtes", "se semblèrent" ],
+  "futurSimple": [ "me semblerai", "te sembleras", "se semblera", "nous semblerons", "vous semblerez", "se sembleront" ],
+  "passeCompose": [ "me suis semblé(e)", "t'es semblé(e)", "s'est semblé(e)", "nous sommes semblé(e)s", "vous êtes semblé(e)(s)", "se sont semblé(e)s" ],
+  "plusQueParfait": [ "m'étais semblé(e)", "t'étais semblé(e)", "s'était semblé(e)", "nous étions semblé(e)s", "vous étiez semblé(e)(s)", "s'étaient semblé(e)s" ],
+  "passeAnterieur": [ "me fus semblé(e)", "te fus semblé(e)", "se fut semblé(e)", "nous fûmes semblé(e)s", "vous fûtes semblé(e)(s)", "se furent semblé(e)s" ],
+  "futurAnterieur": [ "me serai semblé(e)", "te seras semblé(e)", "se sera semblé(e)", "nous serons semblé(e)s", "vous serez semblé(e)(s)", "se seront semblé(e)s" ],
+  "subjonctifPresent": [ "me semble", "te sembles", "se semble", "nous semblions", "vous sembliez", "se semblent" ],
+  "subjonctifImparfait": [ "me semblasse", "te semblasses", "se semblât", "nous semblassions", "vous semblassiez", "se semblassent" ],
+  "subjonctifPasse": [ "me sois semblé(e)", "te sois semblé(e)", "se soit semblé(e)", "nous soyons semblé(e)s", "vous soyez semblé(e)(s)", "se soient semblé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse semblé(e)", "te fusses semblé(e)", "se fût semblé(e)", "nous fussions semblé(e)s", "vous fussiez semblé(e)(s)", "se fussent semblé(e)s" ],
+  "conditionnelPresent": [ "me semblerais", "te semblerais", "se semblerait", "nous semblerions", "vous sembleriez", "se sembleraient" ],
+  "conditionnelPasse": [ "me serais semblé(e)", "te serais semblé(e)", "se serait semblé(e)", "nous serions semblé(e)s", "vous seriez semblé(e)(s)", "se seraient semblé(e)s" ],
+  "conditionnelPasseII": [ "me fusse semblé(e)", "te fusses semblé(e)", "se fût semblé(e)", "nous fussions semblé(e)s", "vous fussiez semblé(e)(s)", "se fussent semblé(e)s" ],
+  "imperatif": [ "–", "semble-toi !", "–", "semblons-nous !", "semblez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'enfermer",
+  "participePresent": "s'enfermant",
+  "participePasse": "enfermé",
+  "present": [ "m'enferme", "t'enfermes", "s'enferme", "nous enfermons", "vous enfermez", "s'enferment" ],
+  "imparfait": [ "m'enfermais", "t'enfermais", "s'enfermait", "nous enfermions", "vous enfermiez", "s'enfermaient" ],
+  "passeSimple": [ "m'enfermai", "t'enfermas", "s'enferma", "nous enfermâmes", "vous enfermâtes", "s'enfermèrent" ],
+  "futurSimple": [ "m'enfermerai", "t'enfermeras", "s'enfermera", "nous enfermerons", "vous enfermerez", "s'enfermeront" ],
+  "passeCompose": [ "me suis enfermé(e)", "t'es enfermé(e)", "s'est enfermé(e)", "nous sommes enfermé(e)s", "vous êtes enfermé(e)(s)", "se sont enfermé(e)s" ],
+  "plusQueParfait": [ "m'étais enfermé(e)", "t'étais enfermé(e)", "s'était enfermé(e)", "nous étions enfermé(e)s", "vous étiez enfermé(e)(s)", "s'étaient enfermé(e)s" ],
+  "passeAnterieur": [ "me fus enfermé(e)", "te fus enfermé(e)", "se fut enfermé(e)", "nous fûmes enfermé(e)s", "vous fûtes enfermé(e)(s)", "se furent enfermé(e)s" ],
+  "futurAnterieur": [ "me serai enfermé(e)", "te seras enfermé(e)", "se sera enfermé(e)", "nous serons enfermé(e)s", "vous serez enfermé(e)(s)", "se seront enfermé(e)s" ],
+  "subjonctifPresent": [ "m'enferme", "t'enfermes", "s'enferme", "nous enfermions", "vous enfermiez", "s'enferment" ],
+  "subjonctifImparfait": [ "m'enfermasse", "t'enfermasses", "s'enfermât", "nous enfermassions", "vous enfermassiez", "s'enfermassent" ],
+  "subjonctifPasse": [ "me sois enfermé(e)", "te sois enfermé(e)", "se soit enfermé(e)", "nous soyons enfermé(e)s", "vous soyez enfermé(e)(s)", "se soient enfermé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse enfermé(e)", "te fusses enfermé(e)", "se fût enfermé(e)", "nous fussions enfermé(e)s", "vous fussiez enfermé(e)(s)", "se fussent enfermé(e)s" ],
+  "conditionnelPresent": [ "m'enfermerais", "t'enfermerais", "s'enfermerait", "nous enfermerions", "vous enfermeriez", "s'enfermeraient" ],
+  "conditionnelPasse": [ "me serais enfermé(e)", "te serais enfermé(e)", "se serait enfermé(e)", "nous serions enfermé(e)s", "vous seriez enfermé(e)(s)", "se seraient enfermé(e)s" ],
+  "conditionnelPasseII": [ "me fusse enfermé(e)", "te fusses enfermé(e)", "se fût enfermé(e)", "nous fussions enfermé(e)s", "vous fussiez enfermé(e)(s)", "se fussent enfermé(e)s" ],
+  "imperatif": [ "–", "enferme-toi !", "–", "enfermons-nous !", "enfermez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

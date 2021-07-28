@@ -1,0 +1,22 @@
+{
+  "infinitif": "choisir",
+  "participePresent": "choisissant",
+  "participePasse": "choisi",
+  "present": [ "choisis", "choisis", "choisit", "choisissons", "choisissez", "choisissent" ],
+  "imparfait": [ "choisissais", "choisissais", "choisissait", "choisissions", "choisissiez", "choisissaient" ],
+  "passeSimple": [ "choisis", "choisis", "choisit", "choisîmes", "choisîtes", "choisirent" ],
+  "futurSimple": [ "choisirai", "choisiras", "choisira", "choisirons", "choisirez", "choisiront" ],
+  "passeCompose": [ "ai choisi", "as choisi", "a choisi", "avons choisi", "avez choisi", "ont choisi" ],
+  "plusQueParfait": [ "avais choisi", "avais choisi", "avait choisi", "avions choisi", "aviez choisi", "avaient choisi" ],
+  "passeAnterieur": [ "eus choisi", "eus choisi", "eut choisi", "eûmes choisi", "eûtes choisi", "eurent choisi" ],
+  "futurAnterieur": [ "aurai choisi", "auras choisi", "aura choisi", "aurons choisi", "aurez choisi", "auront choisi" ],
+  "subjonctifPresent": [ "choisisse", "choisisses", "choisisse", "choisissions", "choisissiez", "choisissent" ],
+  "subjonctifImparfait": [ "choisisse", "choisisses", "choisît", "choisissions", "choisissiez", "choisissent" ],
+  "subjonctifPasse": [ "aie choisi", "aies choisi", "ait choisi", "ayons choisi", "ayez choisi", "aient choisi" ],
+  "subjonctifPlusQueParfait": [ "eusse choisi", "eusses choisi", "eût choisi", "eussions choisi", "eussiez choisi", "eussent choisi" ],
+  "conditionnelPresent": [ "choisirais", "choisirais", "choisirait", "choisirions", "choisiriez", "choisiraient" ],
+  "conditionnelPasse": [ "aurais choisi", "aurais choisi", "aurait choisi", "aurions choisi", "auriez choisi", "auraient choisi" ],
+  "conditionnelPasseII": [ "eusse choisi", "eusses choisi", "eût choisi", "eussions choisi", "eussiez choisi", "eussent choisi" ],
+  "imperatif": [ "–", "choisis !", "–", "choisissons !", "choisissez !", "–" ],
+  "imperatifPasse": [ "–", "aie choisi !", "–", "ayons choisi !", "ayez choisi !", "–" ]
+}

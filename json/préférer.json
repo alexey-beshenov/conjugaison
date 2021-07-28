@@ -1,0 +1,22 @@
+{
+  "infinitif": "préférer",
+  "participePresent": "préférant",
+  "participePasse": "préféré",
+  "present": [ "préfère", "préfères", "préfère", "préférons", "préférez", "préfèrent" ],
+  "imparfait": [ "préférais", "préférais", "préférait", "préférions", "préfériez", "préféraient" ],
+  "passeSimple": [ "préférai", "préféras", "préféra", "préférâmes", "préférâtes", "préférèrent" ],
+  "futurSimple": [ "préférerai", "préféreras", "préférera", "préférerons", "préférerez", "préféreront" ],
+  "passeCompose": [ "ai préféré", "as préféré", "a préféré", "avons préféré", "avez préféré", "ont préféré" ],
+  "plusQueParfait": [ "avais préféré", "avais préféré", "avait préféré", "avions préféré", "aviez préféré", "avaient préféré" ],
+  "passeAnterieur": [ "eus préféré", "eus préféré", "eut préféré", "eûmes préféré", "eûtes préféré", "eurent préféré" ],
+  "futurAnterieur": [ "aurai préféré", "auras préféré", "aura préféré", "aurons préféré", "aurez préféré", "auront préféré" ],
+  "subjonctifPresent": [ "préfère", "préfères", "préfère", "préférions", "préfériez", "préfèrent" ],
+  "subjonctifImparfait": [ "préférasse", "préférasses", "préférât", "préférassions", "préférassiez", "préférassent" ],
+  "subjonctifPasse": [ "aie préféré", "aies préféré", "ait préféré", "ayons préféré", "ayez préféré", "aient préféré" ],
+  "subjonctifPlusQueParfait": [ "eusse préféré", "eusses préféré", "eût préféré", "eussions préféré", "eussiez préféré", "eussent préféré" ],
+  "conditionnelPresent": [ "préférerais", "préférerais", "préférerait", "préférerions", "préféreriez", "préféreraient" ],
+  "conditionnelPasse": [ "aurais préféré", "aurais préféré", "aurait préféré", "aurions préféré", "auriez préféré", "auraient préféré" ],
+  "conditionnelPasseII": [ "eusse préféré", "eusses préféré", "eût préféré", "eussions préféré", "eussiez préféré", "eussent préféré" ],
+  "imperatif": [ "–", "préfère !", "–", "préférons !", "préférez !", "–" ],
+  "imperatifPasse": [ "–", "aie préféré !", "–", "ayons préféré !", "ayez préféré !", "–" ]
+}

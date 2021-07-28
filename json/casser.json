@@ -1,0 +1,22 @@
+{
+  "infinitif": "casser",
+  "participePresent": "cassant",
+  "participePasse": "cassé",
+  "present": [ "casse", "casses", "casse", "cassons", "cassez", "cassent" ],
+  "imparfait": [ "cassais", "cassais", "cassait", "cassions", "cassiez", "cassaient" ],
+  "passeSimple": [ "cassai", "cassas", "cassa", "cassâmes", "cassâtes", "cassèrent" ],
+  "futurSimple": [ "casserai", "casseras", "cassera", "casserons", "casserez", "casseront" ],
+  "passeCompose": [ "ai cassé", "as cassé", "a cassé", "avons cassé", "avez cassé", "ont cassé" ],
+  "plusQueParfait": [ "avais cassé", "avais cassé", "avait cassé", "avions cassé", "aviez cassé", "avaient cassé" ],
+  "passeAnterieur": [ "eus cassé", "eus cassé", "eut cassé", "eûmes cassé", "eûtes cassé", "eurent cassé" ],
+  "futurAnterieur": [ "aurai cassé", "auras cassé", "aura cassé", "aurons cassé", "aurez cassé", "auront cassé" ],
+  "subjonctifPresent": [ "casse", "casses", "casse", "cassions", "cassiez", "cassent" ],
+  "subjonctifImparfait": [ "cassasse", "cassasses", "cassât", "cassassions", "cassassiez", "cassassent" ],
+  "subjonctifPasse": [ "aie cassé", "aies cassé", "ait cassé", "ayons cassé", "ayez cassé", "aient cassé" ],
+  "subjonctifPlusQueParfait": [ "eusse cassé", "eusses cassé", "eût cassé", "eussions cassé", "eussiez cassé", "eussent cassé" ],
+  "conditionnelPresent": [ "casserais", "casserais", "casserait", "casserions", "casseriez", "casseraient" ],
+  "conditionnelPasse": [ "aurais cassé", "aurais cassé", "aurait cassé", "aurions cassé", "auriez cassé", "auraient cassé" ],
+  "conditionnelPasseII": [ "eusse cassé", "eusses cassé", "eût cassé", "eussions cassé", "eussiez cassé", "eussent cassé" ],
+  "imperatif": [ "–", "casse !", "–", "cassons !", "cassez !", "–" ],
+  "imperatifPasse": [ "–", "aie cassé !", "–", "ayons cassé !", "ayez cassé !", "–" ]
+}

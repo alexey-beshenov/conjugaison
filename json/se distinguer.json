@@ -1,0 +1,22 @@
+{
+  "infinitif": "se distinguer",
+  "participePresent": "se distinguant",
+  "participePasse": "distingué",
+  "present": [ "me distingue", "te distingues", "se distingue", "nous distinguons", "vous distinguez", "se distinguent" ],
+  "imparfait": [ "me distinguais", "te distinguais", "se distinguait", "nous distinguions", "vous distinguiez", "se distinguaient" ],
+  "passeSimple": [ "me distinguai", "te distinguas", "se distingua", "nous distinguâmes", "vous distinguâtes", "se distinguèrent" ],
+  "futurSimple": [ "me distinguerai", "te distingueras", "se distinguera", "nous distinguerons", "vous distinguerez", "se distingueront" ],
+  "passeCompose": [ "me suis distingué(e)", "t'es distingué(e)", "s'est distingué(e)", "nous sommes distingué(e)s", "vous êtes distingué(e)(s)", "se sont distingué(e)s" ],
+  "plusQueParfait": [ "m'étais distingué(e)", "t'étais distingué(e)", "s'était distingué(e)", "nous étions distingué(e)s", "vous étiez distingué(e)(s)", "s'étaient distingué(e)s" ],
+  "passeAnterieur": [ "me fus distingué(e)", "te fus distingué(e)", "se fut distingué(e)", "nous fûmes distingué(e)s", "vous fûtes distingué(e)(s)", "se furent distingué(e)s" ],
+  "futurAnterieur": [ "me serai distingué(e)", "te seras distingué(e)", "se sera distingué(e)", "nous serons distingué(e)s", "vous serez distingué(e)(s)", "se seront distingué(e)s" ],
+  "subjonctifPresent": [ "me distingue", "te distingues", "se distingue", "nous distinguions", "vous distinguiez", "se distinguent" ],
+  "subjonctifImparfait": [ "me distinguasse", "te distinguasses", "se distinguât", "nous distinguassions", "vous distinguassiez", "se distinguassent" ],
+  "subjonctifPasse": [ "me sois distingué(e)", "te sois distingué(e)", "se soit distingué(e)", "nous soyons distingué(e)s", "vous soyez distingué(e)(s)", "se soient distingué(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse distingué(e)", "te fusses distingué(e)", "se fût distingué(e)", "nous fussions distingué(e)s", "vous fussiez distingué(e)(s)", "se fussent distingué(e)s" ],
+  "conditionnelPresent": [ "me distinguerais", "te distinguerais", "se distinguerait", "nous distinguerions", "vous distingueriez", "se distingueraient" ],
+  "conditionnelPasse": [ "me serais distingué(e)", "te serais distingué(e)", "se serait distingué(e)", "nous serions distingué(e)s", "vous seriez distingué(e)(s)", "se seraient distingué(e)s" ],
+  "conditionnelPasseII": [ "me fusse distingué(e)", "te fusses distingué(e)", "se fût distingué(e)", "nous fussions distingué(e)s", "vous fussiez distingué(e)(s)", "se fussent distingué(e)s" ],
+  "imperatif": [ "–", "distingue-toi !", "–", "distinguons-nous !", "distinguez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

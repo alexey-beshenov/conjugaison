@@ -1,0 +1,22 @@
+{
+  "infinitif": "défendre",
+  "participePresent": "défendant",
+  "participePasse": "défendu",
+  "present": [ "défends", "défends", "défend", "défendons", "défendez", "défendent" ],
+  "imparfait": [ "défendais", "défendais", "défendait", "défendions", "défendiez", "défendaient" ],
+  "passeSimple": [ "défendis", "défendis", "défendit", "défendîmes", "défendîtes", "défendirent" ],
+  "futurSimple": [ "défendrai", "défendras", "défendra", "défendrons", "défendrez", "défendront" ],
+  "passeCompose": [ "ai défendu", "as défendu", "a défendu", "avons défendu", "avez défendu", "ont défendu" ],
+  "plusQueParfait": [ "avais défendu", "avais défendu", "avait défendu", "avions défendu", "aviez défendu", "avaient défendu" ],
+  "passeAnterieur": [ "eus défendu", "eus défendu", "eut défendu", "eûmes défendu", "eûtes défendu", "eurent défendu" ],
+  "futurAnterieur": [ "aurai défendu", "auras défendu", "aura défendu", "aurons défendu", "aurez défendu", "auront défendu" ],
+  "subjonctifPresent": [ "défende", "défendes", "défende", "défendions", "défendiez", "défendent" ],
+  "subjonctifImparfait": [ "défendisse", "défendisses", "défendît", "défendissions", "défendissiez", "défendissent" ],
+  "subjonctifPasse": [ "aie défendu", "aies défendu", "ait défendu", "ayons défendu", "ayez défendu", "aient défendu" ],
+  "subjonctifPlusQueParfait": [ "eusse défendu", "eusses défendu", "eût défendu", "eussions défendu", "eussiez défendu", "eussent défendu" ],
+  "conditionnelPresent": [ "défendrais", "défendrais", "défendrait", "défendrions", "défendriez", "défendraient" ],
+  "conditionnelPasse": [ "aurais défendu", "aurais défendu", "aurait défendu", "aurions défendu", "auriez défendu", "auraient défendu" ],
+  "conditionnelPasseII": [ "eusse défendu", "eusses défendu", "eût défendu", "eussions défendu", "eussiez défendu", "eussent défendu" ],
+  "imperatif": [ "–", "défends !", "–", "défendons !", "défendez !", "–" ],
+  "imperatifPasse": [ "–", "aie défendu !", "–", "ayons défendu !", "ayez défendu !", "–" ]
+}

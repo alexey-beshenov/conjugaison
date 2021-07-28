@@ -1,0 +1,22 @@
+{
+  "infinitif": "marquer",
+  "participePresent": "marquant",
+  "participePasse": "marqué",
+  "present": [ "marque", "marques", "marque", "marquons", "marquez", "marquent" ],
+  "imparfait": [ "marquais", "marquais", "marquait", "marquions", "marquiez", "marquaient" ],
+  "passeSimple": [ "marquai", "marquas", "marqua", "marquâmes", "marquâtes", "marquèrent" ],
+  "futurSimple": [ "marquerai", "marqueras", "marquera", "marquerons", "marquerez", "marqueront" ],
+  "passeCompose": [ "ai marqué", "as marqué", "a marqué", "avons marqué", "avez marqué", "ont marqué" ],
+  "plusQueParfait": [ "avais marqué", "avais marqué", "avait marqué", "avions marqué", "aviez marqué", "avaient marqué" ],
+  "passeAnterieur": [ "eus marqué", "eus marqué", "eut marqué", "eûmes marqué", "eûtes marqué", "eurent marqué" ],
+  "futurAnterieur": [ "aurai marqué", "auras marqué", "aura marqué", "aurons marqué", "aurez marqué", "auront marqué" ],
+  "subjonctifPresent": [ "marque", "marques", "marque", "marquions", "marquiez", "marquent" ],
+  "subjonctifImparfait": [ "marquasse", "marquasses", "marquât", "marquassions", "marquassiez", "marquassent" ],
+  "subjonctifPasse": [ "aie marqué", "aies marqué", "ait marqué", "ayons marqué", "ayez marqué", "aient marqué" ],
+  "subjonctifPlusQueParfait": [ "eusse marqué", "eusses marqué", "eût marqué", "eussions marqué", "eussiez marqué", "eussent marqué" ],
+  "conditionnelPresent": [ "marquerais", "marquerais", "marquerait", "marquerions", "marqueriez", "marqueraient" ],
+  "conditionnelPasse": [ "aurais marqué", "aurais marqué", "aurait marqué", "aurions marqué", "auriez marqué", "auraient marqué" ],
+  "conditionnelPasseII": [ "eusse marqué", "eusses marqué", "eût marqué", "eussions marqué", "eussiez marqué", "eussent marqué" ],
+  "imperatif": [ "–", "marque !", "–", "marquons !", "marquez !", "–" ],
+  "imperatifPasse": [ "–", "aie marqué !", "–", "ayons marqué !", "ayez marqué !", "–" ]
+}

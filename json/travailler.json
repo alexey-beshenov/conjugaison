@@ -1,0 +1,22 @@
+{
+  "infinitif": "travailler",
+  "participePresent": "travaillant",
+  "participePasse": "travaillé",
+  "present": [ "travaille", "travailles", "travaille", "travaillons", "travaillez", "travaillent" ],
+  "imparfait": [ "travaillais", "travaillais", "travaillait", "travaillions", "travailliez", "travaillaient" ],
+  "passeSimple": [ "travaillai", "travaillas", "travailla", "travaillâmes", "travaillâtes", "travaillèrent" ],
+  "futurSimple": [ "travaillerai", "travailleras", "travaillera", "travaillerons", "travaillerez", "travailleront" ],
+  "passeCompose": [ "ai travaillé", "as travaillé", "a travaillé", "avons travaillé", "avez travaillé", "ont travaillé" ],
+  "plusQueParfait": [ "avais travaillé", "avais travaillé", "avait travaillé", "avions travaillé", "aviez travaillé", "avaient travaillé" ],
+  "passeAnterieur": [ "eus travaillé", "eus travaillé", "eut travaillé", "eûmes travaillé", "eûtes travaillé", "eurent travaillé" ],
+  "futurAnterieur": [ "aurai travaillé", "auras travaillé", "aura travaillé", "aurons travaillé", "aurez travaillé", "auront travaillé" ],
+  "subjonctifPresent": [ "travaille", "travailles", "travaille", "travaillions", "travailliez", "travaillent" ],
+  "subjonctifImparfait": [ "travaillasse", "travaillasses", "travaillât", "travaillassions", "travaillassiez", "travaillassent" ],
+  "subjonctifPasse": [ "aie travaillé", "aies travaillé", "ait travaillé", "ayons travaillé", "ayez travaillé", "aient travaillé" ],
+  "subjonctifPlusQueParfait": [ "eusse travaillé", "eusses travaillé", "eût travaillé", "eussions travaillé", "eussiez travaillé", "eussent travaillé" ],
+  "conditionnelPresent": [ "travaillerais", "travaillerais", "travaillerait", "travaillerions", "travailleriez", "travailleraient" ],
+  "conditionnelPasse": [ "aurais travaillé", "aurais travaillé", "aurait travaillé", "aurions travaillé", "auriez travaillé", "auraient travaillé" ],
+  "conditionnelPasseII": [ "eusse travaillé", "eusses travaillé", "eût travaillé", "eussions travaillé", "eussiez travaillé", "eussent travaillé" ],
+  "imperatif": [ "–", "travaille !", "–", "travaillons !", "travaillez !", "–" ],
+  "imperatifPasse": [ "–", "aie travaillé !", "–", "ayons travaillé !", "ayez travaillé !", "–" ]
+}

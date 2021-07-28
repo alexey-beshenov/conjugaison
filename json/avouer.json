@@ -1,0 +1,22 @@
+{
+  "infinitif": "avouer",
+  "participePresent": "avouant",
+  "participePasse": "avoué",
+  "present": [ "avoue", "avoues", "avoue", "avouons", "avouez", "avouent" ],
+  "imparfait": [ "avouais", "avouais", "avouait", "avouions", "avouiez", "avouaient" ],
+  "passeSimple": [ "avouai", "avouas", "avoua", "avouâmes", "avouâtes", "avouèrent" ],
+  "futurSimple": [ "avouerai", "avoueras", "avouera", "avouerons", "avouerez", "avoueront" ],
+  "passeCompose": [ "ai avoué", "as avoué", "a avoué", "avons avoué", "avez avoué", "ont avoué" ],
+  "plusQueParfait": [ "avais avoué", "avais avoué", "avait avoué", "avions avoué", "aviez avoué", "avaient avoué" ],
+  "passeAnterieur": [ "eus avoué", "eus avoué", "eut avoué", "eûmes avoué", "eûtes avoué", "eurent avoué" ],
+  "futurAnterieur": [ "aurai avoué", "auras avoué", "aura avoué", "aurons avoué", "aurez avoué", "auront avoué" ],
+  "subjonctifPresent": [ "avoue", "avoues", "avoue", "avouions", "avouiez", "avouent" ],
+  "subjonctifImparfait": [ "avouasse", "avouasses", "avouât", "avouassions", "avouassiez", "avouassent" ],
+  "subjonctifPasse": [ "aie avoué", "aies avoué", "ait avoué", "ayons avoué", "ayez avoué", "aient avoué" ],
+  "subjonctifPlusQueParfait": [ "eusse avoué", "eusses avoué", "eût avoué", "eussions avoué", "eussiez avoué", "eussent avoué" ],
+  "conditionnelPresent": [ "avouerais", "avouerais", "avouerait", "avouerions", "avoueriez", "avoueraient" ],
+  "conditionnelPasse": [ "aurais avoué", "aurais avoué", "aurait avoué", "aurions avoué", "auriez avoué", "auraient avoué" ],
+  "conditionnelPasseII": [ "eusse avoué", "eusses avoué", "eût avoué", "eussions avoué", "eussiez avoué", "eussent avoué" ],
+  "imperatif": [ "–", "avoue !", "–", "avouons !", "avouez !", "–" ],
+  "imperatifPasse": [ "–", "aie avoué !", "–", "ayons avoué !", "ayez avoué !", "–" ]
+}

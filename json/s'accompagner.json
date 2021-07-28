@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'accompagner",
+  "participePresent": "s'accompagnant",
+  "participePasse": "accompagné",
+  "present": [ "m'accompagne", "t'accompagnes", "s'accompagne", "nous accompagnons", "vous accompagnez", "s'accompagnent" ],
+  "imparfait": [ "m'accompagnais", "t'accompagnais", "s'accompagnait", "nous accompagnions", "vous accompagniez", "s'accompagnaient" ],
+  "passeSimple": [ "m'accompagnai", "t'accompagnas", "s'accompagna", "nous accompagnâmes", "vous accompagnâtes", "s'accompagnèrent" ],
+  "futurSimple": [ "m'accompagnerai", "t'accompagneras", "s'accompagnera", "nous accompagnerons", "vous accompagnerez", "s'accompagneront" ],
+  "passeCompose": [ "me suis accompagné(e)", "t'es accompagné(e)", "s'est accompagné(e)", "nous sommes accompagné(e)s", "vous êtes accompagné(e)(s)", "se sont accompagné(e)s" ],
+  "plusQueParfait": [ "m'étais accompagné(e)", "t'étais accompagné(e)", "s'était accompagné(e)", "nous étions accompagné(e)s", "vous étiez accompagné(e)(s)", "s'étaient accompagné(e)s" ],
+  "passeAnterieur": [ "me fus accompagné(e)", "te fus accompagné(e)", "se fut accompagné(e)", "nous fûmes accompagné(e)s", "vous fûtes accompagné(e)(s)", "se furent accompagné(e)s" ],
+  "futurAnterieur": [ "me serai accompagné(e)", "te seras accompagné(e)", "se sera accompagné(e)", "nous serons accompagné(e)s", "vous serez accompagné(e)(s)", "se seront accompagné(e)s" ],
+  "subjonctifPresent": [ "m'accompagne", "t'accompagnes", "s'accompagne", "nous accompagnions", "vous accompagniez", "s'accompagnent" ],
+  "subjonctifImparfait": [ "m'accompagnasse", "t'accompagnasses", "s'accompagnât", "nous accompagnassions", "vous accompagnassiez", "s'accompagnassent" ],
+  "subjonctifPasse": [ "me sois accompagné(e)", "te sois accompagné(e)", "se soit accompagné(e)", "nous soyons accompagné(e)s", "vous soyez accompagné(e)(s)", "se soient accompagné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse accompagné(e)", "te fusses accompagné(e)", "se fût accompagné(e)", "nous fussions accompagné(e)s", "vous fussiez accompagné(e)(s)", "se fussent accompagné(e)s" ],
+  "conditionnelPresent": [ "m'accompagnerais", "t'accompagnerais", "s'accompagnerait", "nous accompagnerions", "vous accompagneriez", "s'accompagneraient" ],
+  "conditionnelPasse": [ "me serais accompagné(e)", "te serais accompagné(e)", "se serait accompagné(e)", "nous serions accompagné(e)s", "vous seriez accompagné(e)(s)", "se seraient accompagné(e)s" ],
+  "conditionnelPasseII": [ "me fusse accompagné(e)", "te fusses accompagné(e)", "se fût accompagné(e)", "nous fussions accompagné(e)s", "vous fussiez accompagné(e)(s)", "se fussent accompagné(e)s" ],
+  "imperatif": [ "–", "accompagne-toi !", "–", "accompagnons-nous !", "accompagnez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

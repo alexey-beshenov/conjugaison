@@ -1,0 +1,22 @@
+{
+  "infinitif": "se recommencer",
+  "participePresent": "se recommençant",
+  "participePasse": "recommencé",
+  "present": [ "me recommence", "te recommences", "se recommence", "nous recommençons", "vous recommencez", "se recommencent" ],
+  "imparfait": [ "me recommençais", "te recommençais", "se recommençait", "nous recommencions", "vous recommenciez", "se recommençaient" ],
+  "passeSimple": [ "me recommençai", "te recommenças", "se recommença", "nous recommençâmes", "vous recommençâtes", "se recommencèrent" ],
+  "futurSimple": [ "me recommencerai", "te recommenceras", "se recommencera", "nous recommencerons", "vous recommencerez", "se recommenceront" ],
+  "passeCompose": [ "me suis recommencé(e)", "t'es recommencé(e)", "s'est recommencé(e)", "nous sommes recommencé(e)s", "vous êtes recommencé(e)(s)", "se sont recommencé(e)s" ],
+  "plusQueParfait": [ "m'étais recommencé(e)", "t'étais recommencé(e)", "s'était recommencé(e)", "nous étions recommencé(e)s", "vous étiez recommencé(e)(s)", "s'étaient recommencé(e)s" ],
+  "passeAnterieur": [ "me fus recommencé(e)", "te fus recommencé(e)", "se fut recommencé(e)", "nous fûmes recommencé(e)s", "vous fûtes recommencé(e)(s)", "se furent recommencé(e)s" ],
+  "futurAnterieur": [ "me serai recommencé(e)", "te seras recommencé(e)", "se sera recommencé(e)", "nous serons recommencé(e)s", "vous serez recommencé(e)(s)", "se seront recommencé(e)s" ],
+  "subjonctifPresent": [ "me recommence", "te recommences", "se recommence", "nous recommencions", "vous recommenciez", "se recommencent" ],
+  "subjonctifImparfait": [ "me recommençasse", "te recommençasses", "se recommençât", "nous recommençassions", "vous recommençassiez", "se recommençassent" ],
+  "subjonctifPasse": [ "me sois recommencé(e)", "te sois recommencé(e)", "se soit recommencé(e)", "nous soyons recommencé(e)s", "vous soyez recommencé(e)(s)", "se soient recommencé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse recommencé(e)", "te fusses recommencé(e)", "se fût recommencé(e)", "nous fussions recommencé(e)s", "vous fussiez recommencé(e)(s)", "se fussent recommencé(e)s" ],
+  "conditionnelPresent": [ "me recommencerais", "te recommencerais", "se recommencerait", "nous recommencerions", "vous recommenceriez", "se recommenceraient" ],
+  "conditionnelPasse": [ "me serais recommencé(e)", "te serais recommencé(e)", "se serait recommencé(e)", "nous serions recommencé(e)s", "vous seriez recommencé(e)(s)", "se seraient recommencé(e)s" ],
+  "conditionnelPasseII": [ "me fusse recommencé(e)", "te fusses recommencé(e)", "se fût recommencé(e)", "nous fussions recommencé(e)s", "vous fussiez recommencé(e)(s)", "se fussent recommencé(e)s" ],
+  "imperatif": [ "–", "recommence-toi !", "–", "recommençons-nous !", "recommencez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

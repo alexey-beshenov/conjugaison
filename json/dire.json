@@ -1,0 +1,22 @@
+{
+  "infinitif": "dire",
+  "participePresent": "disant",
+  "participePasse": "dit",
+  "present": [ "dis", "dis", "dit", "disons", "dites", "disent" ],
+  "imparfait": [ "disais", "disais", "disait", "disions", "disiez", "disaient" ],
+  "passeSimple": [ "dis", "dis", "dit", "dîmes", "dîtes", "dirent" ],
+  "futurSimple": [ "dirai", "diras", "dira", "dirons", "direz", "diront" ],
+  "passeCompose": [ "ai dit", "as dit", "a dit", "avons dit", "avez dit", "ont dit" ],
+  "plusQueParfait": [ "avais dit", "avais dit", "avait dit", "avions dit", "aviez dit", "avaient dit" ],
+  "passeAnterieur": [ "eus dit", "eus dit", "eut dit", "eûmes dit", "eûtes dit", "eurent dit" ],
+  "futurAnterieur": [ "aurai dit", "auras dit", "aura dit", "aurons dit", "aurez dit", "auront dit" ],
+  "subjonctifPresent": [ "dise", "dises", "dise", "disions", "disiez", "disent" ],
+  "subjonctifImparfait": [ "disse", "disses", "dît", "dissions", "dissiez", "dissent" ],
+  "subjonctifPasse": [ "aie dit", "aies dit", "ait dit", "ayons dit", "ayez dit", "aient dit" ],
+  "subjonctifPlusQueParfait": [ "eusse dit", "eusses dit", "eût dit", "eussions dit", "eussiez dit", "eussent dit" ],
+  "conditionnelPresent": [ "dirais", "dirais", "dirait", "dirions", "diriez", "diraient" ],
+  "conditionnelPasse": [ "aurais dit", "aurais dit", "aurait dit", "aurions dit", "auriez dit", "auraient dit" ],
+  "conditionnelPasseII": [ "eusse dit", "eusses dit", "eût dit", "eussions dit", "eussiez dit", "eussent dit" ],
+  "imperatif": [ "–", "dis !", "–", "disons !", "dites !", "–" ],
+  "imperatifPasse": [ "–", "aie dit !", "–", "ayons dit !", "ayez dit !", "–" ]
+}

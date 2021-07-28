@@ -1,0 +1,22 @@
+{
+  "infinitif": "inquiéter",
+  "participePresent": "inquiétant",
+  "participePasse": "inquiété",
+  "present": [ "inquiète", "inquiètes", "inquiète", "inquiétons", "inquiétez", "inquiètent" ],
+  "imparfait": [ "inquiétais", "inquiétais", "inquiétait", "inquiétions", "inquiétiez", "inquiétaient" ],
+  "passeSimple": [ "inquiétai", "inquiétas", "inquiéta", "inquiétâmes", "inquiétâtes", "inquiétèrent" ],
+  "futurSimple": [ "inquiéterai", "inquiéteras", "inquiétera", "inquiéterons", "inquiéterez", "inquiéteront" ],
+  "passeCompose": [ "ai inquiété", "as inquiété", "a inquiété", "avons inquiété", "avez inquiété", "ont inquiété" ],
+  "plusQueParfait": [ "avais inquiété", "avais inquiété", "avait inquiété", "avions inquiété", "aviez inquiété", "avaient inquiété" ],
+  "passeAnterieur": [ "eus inquiété", "eus inquiété", "eut inquiété", "eûmes inquiété", "eûtes inquiété", "eurent inquiété" ],
+  "futurAnterieur": [ "aurai inquiété", "auras inquiété", "aura inquiété", "aurons inquiété", "aurez inquiété", "auront inquiété" ],
+  "subjonctifPresent": [ "inquiète", "inquiètes", "inquiète", "inquiétions", "inquiétiez", "inquiètent" ],
+  "subjonctifImparfait": [ "inquiétasse", "inquiétasses", "inquiétât", "inquiétassions", "inquiétassiez", "inquiétassent" ],
+  "subjonctifPasse": [ "aie inquiété", "aies inquiété", "ait inquiété", "ayons inquiété", "ayez inquiété", "aient inquiété" ],
+  "subjonctifPlusQueParfait": [ "eusse inquiété", "eusses inquiété", "eût inquiété", "eussions inquiété", "eussiez inquiété", "eussent inquiété" ],
+  "conditionnelPresent": [ "inquiéterais", "inquiéterais", "inquiéterait", "inquiéterions", "inquiéteriez", "inquiéteraient" ],
+  "conditionnelPasse": [ "aurais inquiété", "aurais inquiété", "aurait inquiété", "aurions inquiété", "auriez inquiété", "auraient inquiété" ],
+  "conditionnelPasseII": [ "eusse inquiété", "eusses inquiété", "eût inquiété", "eussions inquiété", "eussiez inquiété", "eussent inquiété" ],
+  "imperatif": [ "–", "inquiète !", "–", "inquiétons !", "inquiétez !", "–" ],
+  "imperatifPasse": [ "–", "aie inquiété !", "–", "ayons inquiété !", "ayez inquiété !", "–" ]
+}

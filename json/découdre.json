@@ -1,0 +1,22 @@
+{
+  "infinitif": "découdre",
+  "participePresent": "décousant",
+  "participePasse": "décousu",
+  "present": [ "découds", "découds", "découd", "décousons", "décousez", "décousent" ],
+  "imparfait": [ "décousais", "décousais", "décousait", "décousions", "décousiez", "décousaient" ],
+  "passeSimple": [ "décousis", "décousis", "décousit", "décousîmes", "décousîtes", "décousirent" ],
+  "futurSimple": [ "découdrai", "découdras", "découdra", "découdrons", "découdrez", "découdront" ],
+  "passeCompose": [ "ai décousu", "as décousu", "a décousu", "avons décousu", "avez décousu", "ont décousu" ],
+  "plusQueParfait": [ "avais décousu", "avais décousu", "avait décousu", "avions décousu", "aviez décousu", "avaient décousu" ],
+  "passeAnterieur": [ "eus décousu", "eus décousu", "eut décousu", "eûmes décousu", "eûtes décousu", "eurent décousu" ],
+  "futurAnterieur": [ "aurai décousu", "auras décousu", "aura décousu", "aurons décousu", "aurez décousu", "auront décousu" ],
+  "subjonctifPresent": [ "découse", "découses", "découse", "décousions", "décousiez", "décousent" ],
+  "subjonctifImparfait": [ "décousisse", "décousisses", "décousît", "décousissions", "décousissiez", "décousissent" ],
+  "subjonctifPasse": [ "aie décousu", "aies décousu", "ait décousu", "ayons décousu", "ayez décousu", "aient décousu" ],
+  "subjonctifPlusQueParfait": [ "eusse décousu", "eusses décousu", "eût décousu", "eussions décousu", "eussiez décousu", "eussent décousu" ],
+  "conditionnelPresent": [ "découdrais", "découdrais", "découdrait", "découdrions", "découdriez", "découdraient" ],
+  "conditionnelPasse": [ "aurais décousu", "aurais décousu", "aurait décousu", "aurions décousu", "auriez décousu", "auraient décousu" ],
+  "conditionnelPasseII": [ "eusse décousu", "eusses décousu", "eût décousu", "eussions décousu", "eussiez décousu", "eussent décousu" ],
+  "imperatif": [ "–", "découds !", "–", "décousons !", "décousez !", "–" ],
+  "imperatifPasse": [ "–", "aie décousu !", "–", "ayons décousu !", "ayez décousu !", "–" ]
+}

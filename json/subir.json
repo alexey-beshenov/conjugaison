@@ -1,0 +1,22 @@
+{
+  "infinitif": "subir",
+  "participePresent": "subissant",
+  "participePasse": "subi",
+  "present": [ "subis", "subis", "subit", "subissons", "subissez", "subissent" ],
+  "imparfait": [ "subissais", "subissais", "subissait", "subissions", "subissiez", "subissaient" ],
+  "passeSimple": [ "subis", "subis", "subit", "subîmes", "subîtes", "subirent" ],
+  "futurSimple": [ "subirai", "subiras", "subira", "subirons", "subirez", "subiront" ],
+  "passeCompose": [ "ai subi", "as subi", "a subi", "avons subi", "avez subi", "ont subi" ],
+  "plusQueParfait": [ "avais subi", "avais subi", "avait subi", "avions subi", "aviez subi", "avaient subi" ],
+  "passeAnterieur": [ "eus subi", "eus subi", "eut subi", "eûmes subi", "eûtes subi", "eurent subi" ],
+  "futurAnterieur": [ "aurai subi", "auras subi", "aura subi", "aurons subi", "aurez subi", "auront subi" ],
+  "subjonctifPresent": [ "subisse", "subisses", "subisse", "subissions", "subissiez", "subissent" ],
+  "subjonctifImparfait": [ "subisse", "subisses", "subît", "subissions", "subissiez", "subissent" ],
+  "subjonctifPasse": [ "aie subi", "aies subi", "ait subi", "ayons subi", "ayez subi", "aient subi" ],
+  "subjonctifPlusQueParfait": [ "eusse subi", "eusses subi", "eût subi", "eussions subi", "eussiez subi", "eussent subi" ],
+  "conditionnelPresent": [ "subirais", "subirais", "subirait", "subirions", "subiriez", "subiraient" ],
+  "conditionnelPasse": [ "aurais subi", "aurais subi", "aurait subi", "aurions subi", "auriez subi", "auraient subi" ],
+  "conditionnelPasseII": [ "eusse subi", "eusses subi", "eût subi", "eussions subi", "eussiez subi", "eussent subi" ],
+  "imperatif": [ "–", "subis !", "–", "subissons !", "subissez !", "–" ],
+  "imperatifPasse": [ "–", "aie subi !", "–", "ayons subi !", "ayez subi !", "–" ]
+}

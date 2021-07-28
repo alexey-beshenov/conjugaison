@@ -1,0 +1,22 @@
+{
+  "infinitif": "se défendre",
+  "participePresent": "se défendant",
+  "participePasse": "défendu",
+  "present": [ "me défends", "te défends", "se défend", "nous défendons", "vous défendez", "se défendent" ],
+  "imparfait": [ "me défendais", "te défendais", "se défendait", "nous défendions", "vous défendiez", "se défendaient" ],
+  "passeSimple": [ "me défendis", "te défendis", "se défendit", "nous défendîmes", "vous défendîtes", "se défendirent" ],
+  "futurSimple": [ "me défendrai", "te défendras", "se défendra", "nous défendrons", "vous défendrez", "se défendront" ],
+  "passeCompose": [ "me suis défendu(e)", "t'es défendu(e)", "s'est défendu(e)", "nous sommes défendu(e)s", "vous êtes défendu(e)(s)", "se sont défendu(e)s" ],
+  "plusQueParfait": [ "m'étais défendu(e)", "t'étais défendu(e)", "s'était défendu(e)", "nous étions défendu(e)s", "vous étiez défendu(e)(s)", "s'étaient défendu(e)s" ],
+  "passeAnterieur": [ "me fus défendu(e)", "te fus défendu(e)", "se fut défendu(e)", "nous fûmes défendu(e)s", "vous fûtes défendu(e)(s)", "se furent défendu(e)s" ],
+  "futurAnterieur": [ "me serai défendu(e)", "te seras défendu(e)", "se sera défendu(e)", "nous serons défendu(e)s", "vous serez défendu(e)(s)", "se seront défendu(e)s" ],
+  "subjonctifPresent": [ "me défende", "te défendes", "se défende", "nous défendions", "vous défendiez", "se défendent" ],
+  "subjonctifImparfait": [ "me défendisse", "te défendisses", "se défendît", "nous défendissions", "vous défendissiez", "se défendissent" ],
+  "subjonctifPasse": [ "me sois défendu(e)", "te sois défendu(e)", "se soit défendu(e)", "nous soyons défendu(e)s", "vous soyez défendu(e)(s)", "se soient défendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse défendu(e)", "te fusses défendu(e)", "se fût défendu(e)", "nous fussions défendu(e)s", "vous fussiez défendu(e)(s)", "se fussent défendu(e)s" ],
+  "conditionnelPresent": [ "me défendrais", "te défendrais", "se défendrait", "nous défendrions", "vous défendriez", "se défendraient" ],
+  "conditionnelPasse": [ "me serais défendu(e)", "te serais défendu(e)", "se serait défendu(e)", "nous serions défendu(e)s", "vous seriez défendu(e)(s)", "se seraient défendu(e)s" ],
+  "conditionnelPasseII": [ "me fusse défendu(e)", "te fusses défendu(e)", "se fût défendu(e)", "nous fussions défendu(e)s", "vous fussiez défendu(e)(s)", "se fussent défendu(e)s" ],
+  "imperatif": [ "–", "défends-toi !", "–", "défendons-nous !", "défendez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

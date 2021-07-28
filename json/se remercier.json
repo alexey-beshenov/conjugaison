@@ -1,0 +1,22 @@
+{
+  "infinitif": "se remercier",
+  "participePresent": "se remerciant",
+  "participePasse": "remercié",
+  "present": [ "me remercie", "te remercies", "se remercie", "nous remercions", "vous remerciez", "se remercient" ],
+  "imparfait": [ "me remerciais", "te remerciais", "se remerciait", "nous remerciions", "vous remerciiez", "se remerciaient" ],
+  "passeSimple": [ "me remerciai", "te remercias", "se remercia", "nous remerciâmes", "vous remerciâtes", "se remercièrent" ],
+  "futurSimple": [ "me remercierai", "te remercieras", "se remerciera", "nous remercierons", "vous remercierez", "se remercieront" ],
+  "passeCompose": [ "me suis remercié(e)", "t'es remercié(e)", "s'est remercié(e)", "nous sommes remercié(e)s", "vous êtes remercié(e)(s)", "se sont remercié(e)s" ],
+  "plusQueParfait": [ "m'étais remercié(e)", "t'étais remercié(e)", "s'était remercié(e)", "nous étions remercié(e)s", "vous étiez remercié(e)(s)", "s'étaient remercié(e)s" ],
+  "passeAnterieur": [ "me fus remercié(e)", "te fus remercié(e)", "se fut remercié(e)", "nous fûmes remercié(e)s", "vous fûtes remercié(e)(s)", "se furent remercié(e)s" ],
+  "futurAnterieur": [ "me serai remercié(e)", "te seras remercié(e)", "se sera remercié(e)", "nous serons remercié(e)s", "vous serez remercié(e)(s)", "se seront remercié(e)s" ],
+  "subjonctifPresent": [ "me remercie", "te remercies", "se remercie", "nous remerciions", "vous remerciiez", "se remercient" ],
+  "subjonctifImparfait": [ "me remerciasse", "te remerciasses", "se remerciât", "nous remerciassions", "vous remerciassiez", "se remerciassent" ],
+  "subjonctifPasse": [ "me sois remercié(e)", "te sois remercié(e)", "se soit remercié(e)", "nous soyons remercié(e)s", "vous soyez remercié(e)(s)", "se soient remercié(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse remercié(e)", "te fusses remercié(e)", "se fût remercié(e)", "nous fussions remercié(e)s", "vous fussiez remercié(e)(s)", "se fussent remercié(e)s" ],
+  "conditionnelPresent": [ "me remercierais", "te remercierais", "se remercierait", "nous remercierions", "vous remercieriez", "se remercieraient" ],
+  "conditionnelPasse": [ "me serais remercié(e)", "te serais remercié(e)", "se serait remercié(e)", "nous serions remercié(e)s", "vous seriez remercié(e)(s)", "se seraient remercié(e)s" ],
+  "conditionnelPasseII": [ "me fusse remercié(e)", "te fusses remercié(e)", "se fût remercié(e)", "nous fussions remercié(e)s", "vous fussiez remercié(e)(s)", "se fussent remercié(e)s" ],
+  "imperatif": [ "–", "remercie-toi !", "–", "remercions-nous !", "remerciez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

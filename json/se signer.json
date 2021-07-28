@@ -1,0 +1,22 @@
+{
+  "infinitif": "se signer",
+  "participePresent": "se signant",
+  "participePasse": "signé",
+  "present": [ "me signe", "te signes", "se signe", "nous signons", "vous signez", "se signent" ],
+  "imparfait": [ "me signais", "te signais", "se signait", "nous signions", "vous signiez", "se signaient" ],
+  "passeSimple": [ "me signai", "te signas", "se signa", "nous signâmes", "vous signâtes", "se signèrent" ],
+  "futurSimple": [ "me signerai", "te signeras", "se signera", "nous signerons", "vous signerez", "se signeront" ],
+  "passeCompose": [ "me suis signé(e)", "t'es signé(e)", "s'est signé(e)", "nous sommes signé(e)s", "vous êtes signé(e)(s)", "se sont signé(e)s" ],
+  "plusQueParfait": [ "m'étais signé(e)", "t'étais signé(e)", "s'était signé(e)", "nous étions signé(e)s", "vous étiez signé(e)(s)", "s'étaient signé(e)s" ],
+  "passeAnterieur": [ "me fus signé(e)", "te fus signé(e)", "se fut signé(e)", "nous fûmes signé(e)s", "vous fûtes signé(e)(s)", "se furent signé(e)s" ],
+  "futurAnterieur": [ "me serai signé(e)", "te seras signé(e)", "se sera signé(e)", "nous serons signé(e)s", "vous serez signé(e)(s)", "se seront signé(e)s" ],
+  "subjonctifPresent": [ "me signe", "te signes", "se signe", "nous signions", "vous signiez", "se signent" ],
+  "subjonctifImparfait": [ "me signasse", "te signasses", "se signât", "nous signassions", "vous signassiez", "se signassent" ],
+  "subjonctifPasse": [ "me sois signé(e)", "te sois signé(e)", "se soit signé(e)", "nous soyons signé(e)s", "vous soyez signé(e)(s)", "se soient signé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse signé(e)", "te fusses signé(e)", "se fût signé(e)", "nous fussions signé(e)s", "vous fussiez signé(e)(s)", "se fussent signé(e)s" ],
+  "conditionnelPresent": [ "me signerais", "te signerais", "se signerait", "nous signerions", "vous signeriez", "se signeraient" ],
+  "conditionnelPasse": [ "me serais signé(e)", "te serais signé(e)", "se serait signé(e)", "nous serions signé(e)s", "vous seriez signé(e)(s)", "se seraient signé(e)s" ],
+  "conditionnelPasseII": [ "me fusse signé(e)", "te fusses signé(e)", "se fût signé(e)", "nous fussions signé(e)s", "vous fussiez signé(e)(s)", "se fussent signé(e)s" ],
+  "imperatif": [ "–", "signe-toi !", "–", "signons-nous !", "signez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

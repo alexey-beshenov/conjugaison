@@ -1,0 +1,22 @@
+{
+  "infinitif": "tuer",
+  "participePresent": "tuant",
+  "participePasse": "tué",
+  "present": [ "tue", "tues", "tue", "tuons", "tuez", "tuent" ],
+  "imparfait": [ "tuais", "tuais", "tuait", "tuions", "tuiez", "tuaient" ],
+  "passeSimple": [ "tuai", "tuas", "tua", "tuâmes", "tuâtes", "tuèrent" ],
+  "futurSimple": [ "tuerai", "tueras", "tuera", "tuerons", "tuerez", "tueront" ],
+  "passeCompose": [ "ai tué", "as tué", "a tué", "avons tué", "avez tué", "ont tué" ],
+  "plusQueParfait": [ "avais tué", "avais tué", "avait tué", "avions tué", "aviez tué", "avaient tué" ],
+  "passeAnterieur": [ "eus tué", "eus tué", "eut tué", "eûmes tué", "eûtes tué", "eurent tué" ],
+  "futurAnterieur": [ "aurai tué", "auras tué", "aura tué", "aurons tué", "aurez tué", "auront tué" ],
+  "subjonctifPresent": [ "tue", "tues", "tue", "tuions", "tuiez", "tuent" ],
+  "subjonctifImparfait": [ "tuasse", "tuasses", "tuât", "tuassions", "tuassiez", "tuassent" ],
+  "subjonctifPasse": [ "aie tué", "aies tué", "ait tué", "ayons tué", "ayez tué", "aient tué" ],
+  "subjonctifPlusQueParfait": [ "eusse tué", "eusses tué", "eût tué", "eussions tué", "eussiez tué", "eussent tué" ],
+  "conditionnelPresent": [ "tuerais", "tuerais", "tuerait", "tuerions", "tueriez", "tueraient" ],
+  "conditionnelPasse": [ "aurais tué", "aurais tué", "aurait tué", "aurions tué", "auriez tué", "auraient tué" ],
+  "conditionnelPasseII": [ "eusse tué", "eusses tué", "eût tué", "eussions tué", "eussiez tué", "eussent tué" ],
+  "imperatif": [ "–", "tue !", "–", "tuons !", "tuez !", "–" ],
+  "imperatifPasse": [ "–", "aie tué !", "–", "ayons tué !", "ayez tué !", "–" ]
+}

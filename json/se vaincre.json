@@ -1,0 +1,22 @@
+{
+  "infinitif": "se vaincre",
+  "participePresent": "se vainquant",
+  "participePasse": "vaincu",
+  "present": [ "me vaincs", "te vaincs", "se vainc", "nous vainquons", "vous vainquez", "se vainquent" ],
+  "imparfait": [ "me vainquais", "te vainquais", "se vainquait", "nous vainquions", "vous vainquiez", "se vainquaient" ],
+  "passeSimple": [ "me vainquis", "te vainquis", "se vainquit", "nous vainquîmes", "vous vainquîtes", "se vainquirent" ],
+  "futurSimple": [ "me vaincrai", "te vaincras", "se vaincra", "nous vaincrons", "vous vaincrez", "se vaincront" ],
+  "passeCompose": [ "me suis vaincu(e)", "t'es vaincu(e)", "s'est vaincu(e)", "nous sommes vaincu(e)s", "vous êtes vaincu(e)(s)", "se sont vaincu(e)s" ],
+  "plusQueParfait": [ "m'étais vaincu(e)", "t'étais vaincu(e)", "s'était vaincu(e)", "nous étions vaincu(e)s", "vous étiez vaincu(e)(s)", "s'étaient vaincu(e)s" ],
+  "passeAnterieur": [ "me fus vaincu(e)", "te fus vaincu(e)", "se fut vaincu(e)", "nous fûmes vaincu(e)s", "vous fûtes vaincu(e)(s)", "se furent vaincu(e)s" ],
+  "futurAnterieur": [ "me serai vaincu(e)", "te seras vaincu(e)", "se sera vaincu(e)", "nous serons vaincu(e)s", "vous serez vaincu(e)(s)", "se seront vaincu(e)s" ],
+  "subjonctifPresent": [ "me vainque", "te vainques", "se vainque", "nous vainquions", "vous vainquiez", "se vainquent" ],
+  "subjonctifImparfait": [ "me vainquisse", "te vainquisses", "se vainquît", "nous vainquissions", "vous vainquissiez", "se vainquissent" ],
+  "subjonctifPasse": [ "me sois vaincu(e)", "te sois vaincu(e)", "se soit vaincu(e)", "nous soyons vaincu(e)s", "vous soyez vaincu(e)(s)", "se soient vaincu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse vaincu(e)", "te fusses vaincu(e)", "se fût vaincu(e)", "nous fussions vaincu(e)s", "vous fussiez vaincu(e)(s)", "se fussent vaincu(e)s" ],
+  "conditionnelPresent": [ "me vaincrais", "te vaincrais", "se vaincrait", "nous vaincrions", "vous vaincriez", "se vaincraient" ],
+  "conditionnelPasse": [ "me serais vaincu(e)", "te serais vaincu(e)", "se serait vaincu(e)", "nous serions vaincu(e)s", "vous seriez vaincu(e)(s)", "se seraient vaincu(e)s" ],
+  "conditionnelPasseII": [ "me fusse vaincu(e)", "te fusses vaincu(e)", "se fût vaincu(e)", "nous fussions vaincu(e)s", "vous fussiez vaincu(e)(s)", "se fussent vaincu(e)s" ],
+  "imperatif": [ "–", "vaincs-toi !", "–", "vainquons-nous !", "vainquez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

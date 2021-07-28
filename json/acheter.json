@@ -1,0 +1,22 @@
+{
+  "infinitif": "acheter",
+  "participePresent": "achetant",
+  "participePasse": "acheté",
+  "present": [ "achète", "achètes", "achète", "achetons", "achetez", "achètent" ],
+  "imparfait": [ "achetais", "achetais", "achetait", "achetions", "achetiez", "achetaient" ],
+  "passeSimple": [ "achetai", "achetas", "acheta", "achetâmes", "achetâtes", "achetèrent" ],
+  "futurSimple": [ "achèterai", "achèteras", "achètera", "achèterons", "achèterez", "achèteront" ],
+  "passeCompose": [ "ai acheté", "as acheté", "a acheté", "avons acheté", "avez acheté", "ont acheté" ],
+  "plusQueParfait": [ "avais acheté", "avais acheté", "avait acheté", "avions acheté", "aviez acheté", "avaient acheté" ],
+  "passeAnterieur": [ "eus acheté", "eus acheté", "eut acheté", "eûmes acheté", "eûtes acheté", "eurent acheté" ],
+  "futurAnterieur": [ "aurai acheté", "auras acheté", "aura acheté", "aurons acheté", "aurez acheté", "auront acheté" ],
+  "subjonctifPresent": [ "achète", "achètes", "achète", "achetions", "achetiez", "achètent" ],
+  "subjonctifImparfait": [ "achetasse", "achetasses", "achetât", "achetassions", "achetassiez", "achetassent" ],
+  "subjonctifPasse": [ "aie acheté", "aies acheté", "ait acheté", "ayons acheté", "ayez acheté", "aient acheté" ],
+  "subjonctifPlusQueParfait": [ "eusse acheté", "eusses acheté", "eût acheté", "eussions acheté", "eussiez acheté", "eussent acheté" ],
+  "conditionnelPresent": [ "achèterais", "achèterais", "achèterait", "achèterions", "achèteriez", "achèteraient" ],
+  "conditionnelPasse": [ "aurais acheté", "aurais acheté", "aurait acheté", "aurions acheté", "auriez acheté", "auraient acheté" ],
+  "conditionnelPasseII": [ "eusse acheté", "eusses acheté", "eût acheté", "eussions acheté", "eussiez acheté", "eussent acheté" ],
+  "imperatif": [ "–", "achète !", "–", "achetons !", "achetez !", "–" ],
+  "imperatifPasse": [ "–", "aie acheté !", "–", "ayons acheté !", "ayez acheté !", "–" ]
+}

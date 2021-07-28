@@ -1,0 +1,22 @@
+{
+  "infinitif": "calmer",
+  "participePresent": "calmant",
+  "participePasse": "calmé",
+  "present": [ "calme", "calmes", "calme", "calmons", "calmez", "calment" ],
+  "imparfait": [ "calmais", "calmais", "calmait", "calmions", "calmiez", "calmaient" ],
+  "passeSimple": [ "calmai", "calmas", "calma", "calmâmes", "calmâtes", "calmèrent" ],
+  "futurSimple": [ "calmerai", "calmeras", "calmera", "calmerons", "calmerez", "calmeront" ],
+  "passeCompose": [ "ai calmé", "as calmé", "a calmé", "avons calmé", "avez calmé", "ont calmé" ],
+  "plusQueParfait": [ "avais calmé", "avais calmé", "avait calmé", "avions calmé", "aviez calmé", "avaient calmé" ],
+  "passeAnterieur": [ "eus calmé", "eus calmé", "eut calmé", "eûmes calmé", "eûtes calmé", "eurent calmé" ],
+  "futurAnterieur": [ "aurai calmé", "auras calmé", "aura calmé", "aurons calmé", "aurez calmé", "auront calmé" ],
+  "subjonctifPresent": [ "calme", "calmes", "calme", "calmions", "calmiez", "calment" ],
+  "subjonctifImparfait": [ "calmasse", "calmasses", "calmât", "calmassions", "calmassiez", "calmassent" ],
+  "subjonctifPasse": [ "aie calmé", "aies calmé", "ait calmé", "ayons calmé", "ayez calmé", "aient calmé" ],
+  "subjonctifPlusQueParfait": [ "eusse calmé", "eusses calmé", "eût calmé", "eussions calmé", "eussiez calmé", "eussent calmé" ],
+  "conditionnelPresent": [ "calmerais", "calmerais", "calmerait", "calmerions", "calmeriez", "calmeraient" ],
+  "conditionnelPasse": [ "aurais calmé", "aurais calmé", "aurait calmé", "aurions calmé", "auriez calmé", "auraient calmé" ],
+  "conditionnelPasseII": [ "eusse calmé", "eusses calmé", "eût calmé", "eussions calmé", "eussiez calmé", "eussent calmé" ],
+  "imperatif": [ "–", "calme !", "–", "calmons !", "calmez !", "–" ],
+  "imperatifPasse": [ "–", "aie calmé !", "–", "ayons calmé !", "ayez calmé !", "–" ]
+}

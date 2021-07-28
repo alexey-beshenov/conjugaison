@@ -1,0 +1,22 @@
+{
+  "infinitif": "demander",
+  "participePresent": "demandant",
+  "participePasse": "demandé",
+  "present": [ "demande", "demandes", "demande", "demandons", "demandez", "demandent" ],
+  "imparfait": [ "demandais", "demandais", "demandait", "demandions", "demandiez", "demandaient" ],
+  "passeSimple": [ "demandai", "demandas", "demanda", "demandâmes", "demandâtes", "demandèrent" ],
+  "futurSimple": [ "demanderai", "demanderas", "demandera", "demanderons", "demanderez", "demanderont" ],
+  "passeCompose": [ "ai demandé", "as demandé", "a demandé", "avons demandé", "avez demandé", "ont demandé" ],
+  "plusQueParfait": [ "avais demandé", "avais demandé", "avait demandé", "avions demandé", "aviez demandé", "avaient demandé" ],
+  "passeAnterieur": [ "eus demandé", "eus demandé", "eut demandé", "eûmes demandé", "eûtes demandé", "eurent demandé" ],
+  "futurAnterieur": [ "aurai demandé", "auras demandé", "aura demandé", "aurons demandé", "aurez demandé", "auront demandé" ],
+  "subjonctifPresent": [ "demande", "demandes", "demande", "demandions", "demandiez", "demandent" ],
+  "subjonctifImparfait": [ "demandasse", "demandasses", "demandât", "demandassions", "demandassiez", "demandassent" ],
+  "subjonctifPasse": [ "aie demandé", "aies demandé", "ait demandé", "ayons demandé", "ayez demandé", "aient demandé" ],
+  "subjonctifPlusQueParfait": [ "eusse demandé", "eusses demandé", "eût demandé", "eussions demandé", "eussiez demandé", "eussent demandé" ],
+  "conditionnelPresent": [ "demanderais", "demanderais", "demanderait", "demanderions", "demanderiez", "demanderaient" ],
+  "conditionnelPasse": [ "aurais demandé", "aurais demandé", "aurait demandé", "aurions demandé", "auriez demandé", "auraient demandé" ],
+  "conditionnelPasseII": [ "eusse demandé", "eusses demandé", "eût demandé", "eussions demandé", "eussiez demandé", "eussent demandé" ],
+  "imperatif": [ "–", "demande !", "–", "demandons !", "demandez !", "–" ],
+  "imperatifPasse": [ "–", "aie demandé !", "–", "ayons demandé !", "ayez demandé !", "–" ]
+}

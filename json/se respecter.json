@@ -1,0 +1,22 @@
+{
+  "infinitif": "se respecter",
+  "participePresent": "se respectant",
+  "participePasse": "respecté",
+  "present": [ "me respecte", "te respectes", "se respecte", "nous respectons", "vous respectez", "se respectent" ],
+  "imparfait": [ "me respectais", "te respectais", "se respectait", "nous respections", "vous respectiez", "se respectaient" ],
+  "passeSimple": [ "me respectai", "te respectas", "se respecta", "nous respectâmes", "vous respectâtes", "se respectèrent" ],
+  "futurSimple": [ "me respecterai", "te respecteras", "se respectera", "nous respecterons", "vous respecterez", "se respecteront" ],
+  "passeCompose": [ "me suis respecté(e)", "t'es respecté(e)", "s'est respecté(e)", "nous sommes respecté(e)s", "vous êtes respecté(e)(s)", "se sont respecté(e)s" ],
+  "plusQueParfait": [ "m'étais respecté(e)", "t'étais respecté(e)", "s'était respecté(e)", "nous étions respecté(e)s", "vous étiez respecté(e)(s)", "s'étaient respecté(e)s" ],
+  "passeAnterieur": [ "me fus respecté(e)", "te fus respecté(e)", "se fut respecté(e)", "nous fûmes respecté(e)s", "vous fûtes respecté(e)(s)", "se furent respecté(e)s" ],
+  "futurAnterieur": [ "me serai respecté(e)", "te seras respecté(e)", "se sera respecté(e)", "nous serons respecté(e)s", "vous serez respecté(e)(s)", "se seront respecté(e)s" ],
+  "subjonctifPresent": [ "me respecte", "te respectes", "se respecte", "nous respections", "vous respectiez", "se respectent" ],
+  "subjonctifImparfait": [ "me respectasse", "te respectasses", "se respectât", "nous respectassions", "vous respectassiez", "se respectassent" ],
+  "subjonctifPasse": [ "me sois respecté(e)", "te sois respecté(e)", "se soit respecté(e)", "nous soyons respecté(e)s", "vous soyez respecté(e)(s)", "se soient respecté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse respecté(e)", "te fusses respecté(e)", "se fût respecté(e)", "nous fussions respecté(e)s", "vous fussiez respecté(e)(s)", "se fussent respecté(e)s" ],
+  "conditionnelPresent": [ "me respecterais", "te respecterais", "se respecterait", "nous respecterions", "vous respecteriez", "se respecteraient" ],
+  "conditionnelPasse": [ "me serais respecté(e)", "te serais respecté(e)", "se serait respecté(e)", "nous serions respecté(e)s", "vous seriez respecté(e)(s)", "se seraient respecté(e)s" ],
+  "conditionnelPasseII": [ "me fusse respecté(e)", "te fusses respecté(e)", "se fût respecté(e)", "nous fussions respecté(e)s", "vous fussiez respecté(e)(s)", "se fussent respecté(e)s" ],
+  "imperatif": [ "–", "respecte-toi !", "–", "respectons-nous !", "respectez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

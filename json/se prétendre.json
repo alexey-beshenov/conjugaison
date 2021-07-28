@@ -1,0 +1,22 @@
+{
+  "infinitif": "se prétendre",
+  "participePresent": "se prétendant",
+  "participePasse": "prétendu",
+  "present": [ "me prétends", "te prétends", "se prétend", "nous prétendons", "vous prétendez", "se prétendent" ],
+  "imparfait": [ "me prétendais", "te prétendais", "se prétendait", "nous prétendions", "vous prétendiez", "se prétendaient" ],
+  "passeSimple": [ "me prétendis", "te prétendis", "se prétendit", "nous prétendîmes", "vous prétendîtes", "se prétendirent" ],
+  "futurSimple": [ "me prétendrai", "te prétendras", "se prétendra", "nous prétendrons", "vous prétendrez", "se prétendront" ],
+  "passeCompose": [ "me suis prétendu(e)", "t'es prétendu(e)", "s'est prétendu(e)", "nous sommes prétendu(e)s", "vous êtes prétendu(e)(s)", "se sont prétendu(e)s" ],
+  "plusQueParfait": [ "m'étais prétendu(e)", "t'étais prétendu(e)", "s'était prétendu(e)", "nous étions prétendu(e)s", "vous étiez prétendu(e)(s)", "s'étaient prétendu(e)s" ],
+  "passeAnterieur": [ "me fus prétendu(e)", "te fus prétendu(e)", "se fut prétendu(e)", "nous fûmes prétendu(e)s", "vous fûtes prétendu(e)(s)", "se furent prétendu(e)s" ],
+  "futurAnterieur": [ "me serai prétendu(e)", "te seras prétendu(e)", "se sera prétendu(e)", "nous serons prétendu(e)s", "vous serez prétendu(e)(s)", "se seront prétendu(e)s" ],
+  "subjonctifPresent": [ "me prétende", "te prétendes", "se prétende", "nous prétendions", "vous prétendiez", "se prétendent" ],
+  "subjonctifImparfait": [ "me prétendisse", "te prétendisses", "se prétendît", "nous prétendissions", "vous prétendissiez", "se prétendissent" ],
+  "subjonctifPasse": [ "me sois prétendu(e)", "te sois prétendu(e)", "se soit prétendu(e)", "nous soyons prétendu(e)s", "vous soyez prétendu(e)(s)", "se soient prétendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse prétendu(e)", "te fusses prétendu(e)", "se fût prétendu(e)", "nous fussions prétendu(e)s", "vous fussiez prétendu(e)(s)", "se fussent prétendu(e)s" ],
+  "conditionnelPresent": [ "me prétendrais", "te prétendrais", "se prétendrait", "nous prétendrions", "vous prétendriez", "se prétendraient" ],
+  "conditionnelPasse": [ "me serais prétendu(e)", "te serais prétendu(e)", "se serait prétendu(e)", "nous serions prétendu(e)s", "vous seriez prétendu(e)(s)", "se seraient prétendu(e)s" ],
+  "conditionnelPasseII": [ "me fusse prétendu(e)", "te fusses prétendu(e)", "se fût prétendu(e)", "nous fussions prétendu(e)s", "vous fussiez prétendu(e)(s)", "se fussent prétendu(e)s" ],
+  "imperatif": [ "–", "prétends-toi !", "–", "prétendons-nous !", "prétendez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

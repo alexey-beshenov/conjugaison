@@ -1,0 +1,22 @@
+{
+  "infinitif": "accueillir",
+  "participePresent": "accueillant",
+  "participePasse": "accueilli",
+  "present": [ "accueille", "accueilles", "accueille", "accueillons", "accueillez", "accueillent" ],
+  "imparfait": [ "accueillais", "accueillais", "accueillait", "accueillions", "accueilliez", "accueillaient" ],
+  "passeSimple": [ "accueillis", "accueillis", "accueillit", "accueillîmes", "accueillîtes", "accueillirent" ],
+  "futurSimple": [ "accueillerai", "accueilleras", "accueillera", "accueillerons", "accueillerez", "accueilleront" ],
+  "passeCompose": [ "ai accueilli", "as accueilli", "a accueilli", "avons accueilli", "avez accueilli", "ont accueilli" ],
+  "plusQueParfait": [ "avais accueilli", "avais accueilli", "avait accueilli", "avions accueilli", "aviez accueilli", "avaient accueilli" ],
+  "passeAnterieur": [ "eus accueilli", "eus accueilli", "eut accueilli", "eûmes accueilli", "eûtes accueilli", "eurent accueilli" ],
+  "futurAnterieur": [ "aurai accueilli", "auras accueilli", "aura accueilli", "aurons accueilli", "aurez accueilli", "auront accueilli" ],
+  "subjonctifPresent": [ "accueille", "accueilles", "accueille", "accueillions", "accueilliez", "accueillent" ],
+  "subjonctifImparfait": [ "accueillisse", "accueillisses", "accueillît", "accueillissions", "accueillissiez", "accueillissent" ],
+  "subjonctifPasse": [ "aie accueilli", "aies accueilli", "ait accueilli", "ayons accueilli", "ayez accueilli", "aient accueilli" ],
+  "subjonctifPlusQueParfait": [ "eusse accueilli", "eusses accueilli", "eût accueilli", "eussions accueilli", "eussiez accueilli", "eussent accueilli" ],
+  "conditionnelPresent": [ "accueillerais", "accueillerais", "accueillerait", "accueillerions", "accueilleriez", "accueilleraient" ],
+  "conditionnelPasse": [ "aurais accueilli", "aurais accueilli", "aurait accueilli", "aurions accueilli", "auriez accueilli", "auraient accueilli" ],
+  "conditionnelPasseII": [ "eusse accueilli", "eusses accueilli", "eût accueilli", "eussions accueilli", "eussiez accueilli", "eussent accueilli" ],
+  "imperatif": [ "–", "accueille !", "–", "accueillons !", "accueillez !", "–" ],
+  "imperatifPasse": [ "–", "aie accueilli !", "–", "ayons accueilli !", "ayez accueilli !", "–" ]
+}

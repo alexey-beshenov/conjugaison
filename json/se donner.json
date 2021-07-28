@@ -1,0 +1,22 @@
+{
+  "infinitif": "se donner",
+  "participePresent": "se donnant",
+  "participePasse": "donné",
+  "present": [ "me donne", "te donnes", "se donne", "nous donnons", "vous donnez", "se donnent" ],
+  "imparfait": [ "me donnais", "te donnais", "se donnait", "nous donnions", "vous donniez", "se donnaient" ],
+  "passeSimple": [ "me donnai", "te donnas", "se donna", "nous donnâmes", "vous donnâtes", "se donnèrent" ],
+  "futurSimple": [ "me donnerai", "te donneras", "se donnera", "nous donnerons", "vous donnerez", "se donneront" ],
+  "passeCompose": [ "me suis donné(e)", "t'es donné(e)", "s'est donné(e)", "nous sommes donné(e)s", "vous êtes donné(e)(s)", "se sont donné(e)s" ],
+  "plusQueParfait": [ "m'étais donné(e)", "t'étais donné(e)", "s'était donné(e)", "nous étions donné(e)s", "vous étiez donné(e)(s)", "s'étaient donné(e)s" ],
+  "passeAnterieur": [ "me fus donné(e)", "te fus donné(e)", "se fut donné(e)", "nous fûmes donné(e)s", "vous fûtes donné(e)(s)", "se furent donné(e)s" ],
+  "futurAnterieur": [ "me serai donné(e)", "te seras donné(e)", "se sera donné(e)", "nous serons donné(e)s", "vous serez donné(e)(s)", "se seront donné(e)s" ],
+  "subjonctifPresent": [ "me donne", "te donnes", "se donne", "nous donnions", "vous donniez", "se donnent" ],
+  "subjonctifImparfait": [ "me donnasse", "te donnasses", "se donnât", "nous donnassions", "vous donnassiez", "se donnassent" ],
+  "subjonctifPasse": [ "me sois donné(e)", "te sois donné(e)", "se soit donné(e)", "nous soyons donné(e)s", "vous soyez donné(e)(s)", "se soient donné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse donné(e)", "te fusses donné(e)", "se fût donné(e)", "nous fussions donné(e)s", "vous fussiez donné(e)(s)", "se fussent donné(e)s" ],
+  "conditionnelPresent": [ "me donnerais", "te donnerais", "se donnerait", "nous donnerions", "vous donneriez", "se donneraient" ],
+  "conditionnelPasse": [ "me serais donné(e)", "te serais donné(e)", "se serait donné(e)", "nous serions donné(e)s", "vous seriez donné(e)(s)", "se seraient donné(e)s" ],
+  "conditionnelPasseII": [ "me fusse donné(e)", "te fusses donné(e)", "se fût donné(e)", "nous fussions donné(e)s", "vous fussiez donné(e)(s)", "se fussent donné(e)s" ],
+  "imperatif": [ "–", "donne-toi !", "–", "donnons-nous !", "donnez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

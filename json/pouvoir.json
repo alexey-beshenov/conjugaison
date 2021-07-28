@@ -1,0 +1,22 @@
+{
+  "infinitif": "pouvoir",
+  "participePresent": "pouvant",
+  "participePasse": "pu",
+  "present": [ "peux, puis", "peux", "peut", "pouvons", "pouvez", "peuvent" ],
+  "imparfait": [ "pouvais", "pouvais", "pouvait", "pouvions", "pouviez", "pouvaient" ],
+  "passeSimple": [ "pus", "pus", "put", "pûmes", "pûtes", "purent" ],
+  "futurSimple": [ "pourrai", "pourras", "pourra", "pourrons", "pourrez", "pourront" ],
+  "passeCompose": [ "ai pu", "as pu", "a pu", "avons pu", "avez pu", "ont pu" ],
+  "plusQueParfait": [ "avais pu", "avais pu", "avait pu", "avions pu", "aviez pu", "avaient pu" ],
+  "passeAnterieur": [ "eus pu", "eus pu", "eut pu", "eûmes pu", "eûtes pu", "eurent pu" ],
+  "futurAnterieur": [ "aurai pu", "auras pu", "aura pu", "aurons pu", "aurez pu", "auront pu" ],
+  "subjonctifPresent": [ "puisse", "puisses", "puisse", "puissions", "puissiez", "puissent" ],
+  "subjonctifImparfait": [ "pusse", "pusses", "pût", "pussions", "pussiez", "pussent" ],
+  "subjonctifPasse": [ "aie pu", "aies pu", "ait pu", "ayons pu", "ayez pu", "aient pu" ],
+  "subjonctifPlusQueParfait": [ "eusse pu", "eusses pu", "eût pu", "eussions pu", "eussiez pu", "eussent pu" ],
+  "conditionnelPresent": [ "pourrais", "pourrais", "pourrait", "pourrions", "pourriez", "pourraient" ],
+  "conditionnelPasse": [ "aurais pu", "aurais pu", "aurait pu", "aurions pu", "auriez pu", "auraient pu" ],
+  "conditionnelPasseII": [ "eusse pu", "eusses pu", "eût pu", "eussions pu", "eussiez pu", "eussent pu" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

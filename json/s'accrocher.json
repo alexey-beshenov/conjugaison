@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'accrocher",
+  "participePresent": "s'accrochant",
+  "participePasse": "accroché",
+  "present": [ "m'accroche", "t'accroches", "s'accroche", "nous accrochons", "vous accrochez", "s'accrochent" ],
+  "imparfait": [ "m'accrochais", "t'accrochais", "s'accrochait", "nous accrochions", "vous accrochiez", "s'accrochaient" ],
+  "passeSimple": [ "m'accrochai", "t'accrochas", "s'accrocha", "nous accrochâmes", "vous accrochâtes", "s'accrochèrent" ],
+  "futurSimple": [ "m'accrocherai", "t'accrocheras", "s'accrochera", "nous accrocherons", "vous accrocherez", "s'accrocheront" ],
+  "passeCompose": [ "me suis accroché(e)", "t'es accroché(e)", "s'est accroché(e)", "nous sommes accroché(e)s", "vous êtes accroché(e)(s)", "se sont accroché(e)s" ],
+  "plusQueParfait": [ "m'étais accroché(e)", "t'étais accroché(e)", "s'était accroché(e)", "nous étions accroché(e)s", "vous étiez accroché(e)(s)", "s'étaient accroché(e)s" ],
+  "passeAnterieur": [ "me fus accroché(e)", "te fus accroché(e)", "se fut accroché(e)", "nous fûmes accroché(e)s", "vous fûtes accroché(e)(s)", "se furent accroché(e)s" ],
+  "futurAnterieur": [ "me serai accroché(e)", "te seras accroché(e)", "se sera accroché(e)", "nous serons accroché(e)s", "vous serez accroché(e)(s)", "se seront accroché(e)s" ],
+  "subjonctifPresent": [ "m'accroche", "t'accroches", "s'accroche", "nous accrochions", "vous accrochiez", "s'accrochent" ],
+  "subjonctifImparfait": [ "m'accrochasse", "t'accrochasses", "s'accrochât", "nous accrochassions", "vous accrochassiez", "s'accrochassent" ],
+  "subjonctifPasse": [ "me sois accroché(e)", "te sois accroché(e)", "se soit accroché(e)", "nous soyons accroché(e)s", "vous soyez accroché(e)(s)", "se soient accroché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse accroché(e)", "te fusses accroché(e)", "se fût accroché(e)", "nous fussions accroché(e)s", "vous fussiez accroché(e)(s)", "se fussent accroché(e)s" ],
+  "conditionnelPresent": [ "m'accrocherais", "t'accrocherais", "s'accrocherait", "nous accrocherions", "vous accrocheriez", "s'accrocheraient" ],
+  "conditionnelPasse": [ "me serais accroché(e)", "te serais accroché(e)", "se serait accroché(e)", "nous serions accroché(e)s", "vous seriez accroché(e)(s)", "se seraient accroché(e)s" ],
+  "conditionnelPasseII": [ "me fusse accroché(e)", "te fusses accroché(e)", "se fût accroché(e)", "nous fussions accroché(e)s", "vous fussiez accroché(e)(s)", "se fussent accroché(e)s" ],
+  "imperatif": [ "–", "accroche-toi !", "–", "accrochons-nous !", "accrochez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

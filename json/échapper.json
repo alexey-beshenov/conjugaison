@@ -1,0 +1,22 @@
+{
+  "infinitif": "échapper",
+  "participePresent": "échappant",
+  "participePasse": "échappé",
+  "present": [ "échappe", "échappes", "échappe", "échappons", "échappez", "échappent" ],
+  "imparfait": [ "échappais", "échappais", "échappait", "échappions", "échappiez", "échappaient" ],
+  "passeSimple": [ "échappai", "échappas", "échappa", "échappâmes", "échappâtes", "échappèrent" ],
+  "futurSimple": [ "échapperai", "échapperas", "échappera", "échapperons", "échapperez", "échapperont" ],
+  "passeCompose": [ "ai échappé", "as échappé", "a échappé", "avons échappé", "avez échappé", "ont échappé" ],
+  "plusQueParfait": [ "avais échappé", "avais échappé", "avait échappé", "avions échappé", "aviez échappé", "avaient échappé" ],
+  "passeAnterieur": [ "eus échappé", "eus échappé", "eut échappé", "eûmes échappé", "eûtes échappé", "eurent échappé" ],
+  "futurAnterieur": [ "aurai échappé", "auras échappé", "aura échappé", "aurons échappé", "aurez échappé", "auront échappé" ],
+  "subjonctifPresent": [ "échappe", "échappes", "échappe", "échappions", "échappiez", "échappent" ],
+  "subjonctifImparfait": [ "échappasse", "échappasses", "échappât", "échappassions", "échappassiez", "échappassent" ],
+  "subjonctifPasse": [ "aie échappé", "aies échappé", "ait échappé", "ayons échappé", "ayez échappé", "aient échappé" ],
+  "subjonctifPlusQueParfait": [ "eusse échappé", "eusses échappé", "eût échappé", "eussions échappé", "eussiez échappé", "eussent échappé" ],
+  "conditionnelPresent": [ "échapperais", "échapperais", "échapperait", "échapperions", "échapperiez", "échapperaient" ],
+  "conditionnelPasse": [ "aurais échappé", "aurais échappé", "aurait échappé", "aurions échappé", "auriez échappé", "auraient échappé" ],
+  "conditionnelPasseII": [ "eusse échappé", "eusses échappé", "eût échappé", "eussions échappé", "eussiez échappé", "eussent échappé" ],
+  "imperatif": [ "–", "échappe !", "–", "échappons !", "échappez !", "–" ],
+  "imperatifPasse": [ "–", "aie échappé !", "–", "ayons échappé !", "ayez échappé !", "–" ]
+}

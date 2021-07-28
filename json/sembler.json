@@ -1,0 +1,22 @@
+{
+  "infinitif": "sembler",
+  "participePresent": "semblant",
+  "participePasse": "semblé",
+  "present": [ "semble", "sembles", "semble", "semblons", "semblez", "semblent" ],
+  "imparfait": [ "semblais", "semblais", "semblait", "semblions", "sembliez", "semblaient" ],
+  "passeSimple": [ "semblai", "semblas", "sembla", "semblâmes", "semblâtes", "semblèrent" ],
+  "futurSimple": [ "semblerai", "sembleras", "semblera", "semblerons", "semblerez", "sembleront" ],
+  "passeCompose": [ "ai semblé", "as semblé", "a semblé", "avons semblé", "avez semblé", "ont semblé" ],
+  "plusQueParfait": [ "avais semblé", "avais semblé", "avait semblé", "avions semblé", "aviez semblé", "avaient semblé" ],
+  "passeAnterieur": [ "eus semblé", "eus semblé", "eut semblé", "eûmes semblé", "eûtes semblé", "eurent semblé" ],
+  "futurAnterieur": [ "aurai semblé", "auras semblé", "aura semblé", "aurons semblé", "aurez semblé", "auront semblé" ],
+  "subjonctifPresent": [ "semble", "sembles", "semble", "semblions", "sembliez", "semblent" ],
+  "subjonctifImparfait": [ "semblasse", "semblasses", "semblât", "semblassions", "semblassiez", "semblassent" ],
+  "subjonctifPasse": [ "aie semblé", "aies semblé", "ait semblé", "ayons semblé", "ayez semblé", "aient semblé" ],
+  "subjonctifPlusQueParfait": [ "eusse semblé", "eusses semblé", "eût semblé", "eussions semblé", "eussiez semblé", "eussent semblé" ],
+  "conditionnelPresent": [ "semblerais", "semblerais", "semblerait", "semblerions", "sembleriez", "sembleraient" ],
+  "conditionnelPasse": [ "aurais semblé", "aurais semblé", "aurait semblé", "aurions semblé", "auriez semblé", "auraient semblé" ],
+  "conditionnelPasseII": [ "eusse semblé", "eusses semblé", "eût semblé", "eussions semblé", "eussiez semblé", "eussent semblé" ],
+  "imperatif": [ "–", "semble !", "–", "semblons !", "semblez !", "–" ],
+  "imperatifPasse": [ "–", "aie semblé !", "–", "ayons semblé !", "ayez semblé !", "–" ]
+}

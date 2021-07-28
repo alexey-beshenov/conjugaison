@@ -1,0 +1,22 @@
+{
+  "infinitif": "se baisser",
+  "participePresent": "se baissant",
+  "participePasse": "baissé",
+  "present": [ "me baisse", "te baisses", "se baisse", "nous baissons", "vous baissez", "se baissent" ],
+  "imparfait": [ "me baissais", "te baissais", "se baissait", "nous baissions", "vous baissiez", "se baissaient" ],
+  "passeSimple": [ "me baissai", "te baissas", "se baissa", "nous baissâmes", "vous baissâtes", "se baissèrent" ],
+  "futurSimple": [ "me baisserai", "te baisseras", "se baissera", "nous baisserons", "vous baisserez", "se baisseront" ],
+  "passeCompose": [ "me suis baissé(e)", "t'es baissé(e)", "s'est baissé(e)", "nous sommes baissé(e)s", "vous êtes baissé(e)(s)", "se sont baissé(e)s" ],
+  "plusQueParfait": [ "m'étais baissé(e)", "t'étais baissé(e)", "s'était baissé(e)", "nous étions baissé(e)s", "vous étiez baissé(e)(s)", "s'étaient baissé(e)s" ],
+  "passeAnterieur": [ "me fus baissé(e)", "te fus baissé(e)", "se fut baissé(e)", "nous fûmes baissé(e)s", "vous fûtes baissé(e)(s)", "se furent baissé(e)s" ],
+  "futurAnterieur": [ "me serai baissé(e)", "te seras baissé(e)", "se sera baissé(e)", "nous serons baissé(e)s", "vous serez baissé(e)(s)", "se seront baissé(e)s" ],
+  "subjonctifPresent": [ "me baisse", "te baisses", "se baisse", "nous baissions", "vous baissiez", "se baissent" ],
+  "subjonctifImparfait": [ "me baissasse", "te baissasses", "se baissât", "nous baissassions", "vous baissassiez", "se baissassent" ],
+  "subjonctifPasse": [ "me sois baissé(e)", "te sois baissé(e)", "se soit baissé(e)", "nous soyons baissé(e)s", "vous soyez baissé(e)(s)", "se soient baissé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse baissé(e)", "te fusses baissé(e)", "se fût baissé(e)", "nous fussions baissé(e)s", "vous fussiez baissé(e)(s)", "se fussent baissé(e)s" ],
+  "conditionnelPresent": [ "me baisserais", "te baisserais", "se baisserait", "nous baisserions", "vous baisseriez", "se baisseraient" ],
+  "conditionnelPasse": [ "me serais baissé(e)", "te serais baissé(e)", "se serait baissé(e)", "nous serions baissé(e)s", "vous seriez baissé(e)(s)", "se seraient baissé(e)s" ],
+  "conditionnelPasseII": [ "me fusse baissé(e)", "te fusses baissé(e)", "se fût baissé(e)", "nous fussions baissé(e)s", "vous fussiez baissé(e)(s)", "se fussent baissé(e)s" ],
+  "imperatif": [ "–", "baisse-toi !", "–", "baissons-nous !", "baissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

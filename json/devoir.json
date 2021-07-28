@@ -1,0 +1,22 @@
+{
+  "infinitif": "devoir",
+  "participePresent": "devant",
+  "participePasse": "dû,",
+  "present": [ "dois", "dois", "doit", "devons", "devez", "doivent" ],
+  "imparfait": [ "devais", "devais", "devait", "devions", "deviez", "devaient" ],
+  "passeSimple": [ "dus", "dus", "dut", "dûmes", "dûtes", "durent" ],
+  "futurSimple": [ "devrai", "devras", "devra", "devrons", "devrez", "devront" ],
+  "passeCompose": [ "ai dû", "as dû", "a dû", "avons dû", "avez dû", "ont dû" ],
+  "plusQueParfait": [ "avais dû", "avais dû", "avait dû", "avions dû", "aviez dû", "avaient dû" ],
+  "passeAnterieur": [ "eus dû", "eus dû", "eut dû", "eûmes dû", "eûtes dû", "eurent dû" ],
+  "futurAnterieur": [ "aurai dû", "auras dû", "aura dû", "aurons dû", "aurez dû", "auront dû" ],
+  "subjonctifPresent": [ "doive", "doives", "doive", "devions", "deviez", "doivent" ],
+  "subjonctifImparfait": [ "dusse", "dusses", "dût", "dussions", "dussiez", "dussent" ],
+  "subjonctifPasse": [ "aie dû", "aies dû", "ait dû", "ayons dû", "ayez dû", "aient dû" ],
+  "subjonctifPlusQueParfait": [ "eusse dû", "eusses dû", "eût dû", "eussions dû", "eussiez dû", "eussent dû" ],
+  "conditionnelPresent": [ "devrais", "devrais", "devrait", "devrions", "devriez", "devraient" ],
+  "conditionnelPasse": [ "aurais dû", "aurais dû", "aurait dû", "aurions dû", "auriez dû", "auraient dû" ],
+  "conditionnelPasseII": [ "eusse dû", "eusses dû", "eût dû", "eussions dû", "eussiez dû", "eussent dû" ],
+  "imperatif": [ "–", "dois !", "–", "devons !", "devez !", "–" ],
+  "imperatifPasse": [ "–", "aie dû !", "–", "ayons dû !", "ayez dû !", "–" ]
+}

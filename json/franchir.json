@@ -1,0 +1,22 @@
+{
+  "infinitif": "franchir",
+  "participePresent": "franchissant",
+  "participePasse": "franchi",
+  "present": [ "franchis", "franchis", "franchit", "franchissons", "franchissez", "franchissent" ],
+  "imparfait": [ "franchissais", "franchissais", "franchissait", "franchissions", "franchissiez", "franchissaient" ],
+  "passeSimple": [ "franchis", "franchis", "franchit", "franchîmes", "franchîtes", "franchirent" ],
+  "futurSimple": [ "franchirai", "franchiras", "franchira", "franchirons", "franchirez", "franchiront" ],
+  "passeCompose": [ "ai franchi", "as franchi", "a franchi", "avons franchi", "avez franchi", "ont franchi" ],
+  "plusQueParfait": [ "avais franchi", "avais franchi", "avait franchi", "avions franchi", "aviez franchi", "avaient franchi" ],
+  "passeAnterieur": [ "eus franchi", "eus franchi", "eut franchi", "eûmes franchi", "eûtes franchi", "eurent franchi" ],
+  "futurAnterieur": [ "aurai franchi", "auras franchi", "aura franchi", "aurons franchi", "aurez franchi", "auront franchi" ],
+  "subjonctifPresent": [ "franchisse", "franchisses", "franchisse", "franchissions", "franchissiez", "franchissent" ],
+  "subjonctifImparfait": [ "franchisse", "franchisses", "franchît", "franchissions", "franchissiez", "franchissent" ],
+  "subjonctifPasse": [ "aie franchi", "aies franchi", "ait franchi", "ayons franchi", "ayez franchi", "aient franchi" ],
+  "subjonctifPlusQueParfait": [ "eusse franchi", "eusses franchi", "eût franchi", "eussions franchi", "eussiez franchi", "eussent franchi" ],
+  "conditionnelPresent": [ "franchirais", "franchirais", "franchirait", "franchirions", "franchiriez", "franchiraient" ],
+  "conditionnelPasse": [ "aurais franchi", "aurais franchi", "aurait franchi", "aurions franchi", "auriez franchi", "auraient franchi" ],
+  "conditionnelPasseII": [ "eusse franchi", "eusses franchi", "eût franchi", "eussions franchi", "eussiez franchi", "eussent franchi" ],
+  "imperatif": [ "–", "franchis !", "–", "franchissons !", "franchissez !", "–" ],
+  "imperatifPasse": [ "–", "aie franchi !", "–", "ayons franchi !", "ayez franchi !", "–" ]
+}

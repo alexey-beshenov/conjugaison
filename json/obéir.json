@@ -1,0 +1,22 @@
+{
+  "infinitif": "obéir",
+  "participePresent": "obéissant",
+  "participePasse": "obéi",
+  "present": [ "obéis", "obéis", "obéit", "obéissons", "obéissez", "obéissent" ],
+  "imparfait": [ "obéissais", "obéissais", "obéissait", "obéissions", "obéissiez", "obéissaient" ],
+  "passeSimple": [ "obéis", "obéis", "obéit", "obéîmes", "obéîtes", "obéirent" ],
+  "futurSimple": [ "obéirai", "obéiras", "obéira", "obéirons", "obéirez", "obéiront" ],
+  "passeCompose": [ "ai obéi", "as obéi", "a obéi", "avons obéi", "avez obéi", "ont obéi" ],
+  "plusQueParfait": [ "avais obéi", "avais obéi", "avait obéi", "avions obéi", "aviez obéi", "avaient obéi" ],
+  "passeAnterieur": [ "eus obéi", "eus obéi", "eut obéi", "eûmes obéi", "eûtes obéi", "eurent obéi" ],
+  "futurAnterieur": [ "aurai obéi", "auras obéi", "aura obéi", "aurons obéi", "aurez obéi", "auront obéi" ],
+  "subjonctifPresent": [ "obéisse", "obéisses", "obéisse", "obéissions", "obéissiez", "obéissent" ],
+  "subjonctifImparfait": [ "obéisse", "obéisses", "obéît", "obéissions", "obéissiez", "obéissent" ],
+  "subjonctifPasse": [ "aie obéi", "aies obéi", "ait obéi", "ayons obéi", "ayez obéi", "aient obéi" ],
+  "subjonctifPlusQueParfait": [ "eusse obéi", "eusses obéi", "eût obéi", "eussions obéi", "eussiez obéi", "eussent obéi" ],
+  "conditionnelPresent": [ "obéirais", "obéirais", "obéirait", "obéirions", "obéiriez", "obéiraient" ],
+  "conditionnelPasse": [ "aurais obéi", "aurais obéi", "aurait obéi", "aurions obéi", "auriez obéi", "auraient obéi" ],
+  "conditionnelPasseII": [ "eusse obéi", "eusses obéi", "eût obéi", "eussions obéi", "eussiez obéi", "eussent obéi" ],
+  "imperatif": [ "–", "obéis !", "–", "obéissons !", "obéissez !", "–" ],
+  "imperatifPasse": [ "–", "aie obéi !", "–", "ayons obéi !", "ayez obéi !", "–" ]
+}

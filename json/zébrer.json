@@ -1,0 +1,22 @@
+{
+  "infinitif": "zébrer",
+  "participePresent": "zébrant",
+  "participePasse": "zébré",
+  "present": [ "zèbre", "zèbres", "zèbre", "zébrons", "zébrez", "zèbrent" ],
+  "imparfait": [ "zébrais", "zébrais", "zébrait", "zébrions", "zébriez", "zébraient" ],
+  "passeSimple": [ "zébrai", "zébras", "zébra", "zébrâmes", "zébrâtes", "zébrèrent" ],
+  "futurSimple": [ "zébrerai", "zébreras", "zébrera", "zébrerons", "zébrerez", "zébreront" ],
+  "passeCompose": [ "ai zébré", "as zébré", "a zébré", "avons zébré", "avez zébré", "ont zébré" ],
+  "plusQueParfait": [ "avais zébré", "avais zébré", "avait zébré", "avions zébré", "aviez zébré", "avaient zébré" ],
+  "passeAnterieur": [ "eus zébré", "eus zébré", "eut zébré", "eûmes zébré", "eûtes zébré", "eurent zébré" ],
+  "futurAnterieur": [ "aurai zébré", "auras zébré", "aura zébré", "aurons zébré", "aurez zébré", "auront zébré" ],
+  "subjonctifPresent": [ "zèbre", "zèbres", "zèbre", "zébrions", "zébriez", "zèbrent" ],
+  "subjonctifImparfait": [ "zébrasse", "zébrasses", "zébrât", "zébrassions", "zébrassiez", "zébrassent" ],
+  "subjonctifPasse": [ "aie zébré", "aies zébré", "ait zébré", "ayons zébré", "ayez zébré", "aient zébré" ],
+  "subjonctifPlusQueParfait": [ "eusse zébré", "eusses zébré", "eût zébré", "eussions zébré", "eussiez zébré", "eussent zébré" ],
+  "conditionnelPresent": [ "zébrerais", "zébrerais", "zébrerait", "zébrerions", "zébreriez", "zébreraient" ],
+  "conditionnelPasse": [ "aurais zébré", "aurais zébré", "aurait zébré", "aurions zébré", "auriez zébré", "auraient zébré" ],
+  "conditionnelPasseII": [ "eusse zébré", "eusses zébré", "eût zébré", "eussions zébré", "eussiez zébré", "eussent zébré" ],
+  "imperatif": [ "–", "zèbre !", "–", "zébrons !", "zébrez !", "–" ],
+  "imperatifPasse": [ "–", "aie zébré !", "–", "ayons zébré !", "ayez zébré !", "–" ]
+}

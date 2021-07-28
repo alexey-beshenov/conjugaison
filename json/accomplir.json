@@ -1,0 +1,22 @@
+{
+  "infinitif": "accomplir",
+  "participePresent": "accomplissant",
+  "participePasse": "accompli",
+  "present": [ "accomplis", "accomplis", "accomplit", "accomplissons", "accomplissez", "accomplissent" ],
+  "imparfait": [ "accomplissais", "accomplissais", "accomplissait", "accomplissions", "accomplissiez", "accomplissaient" ],
+  "passeSimple": [ "accomplis", "accomplis", "accomplit", "accomplîmes", "accomplîtes", "accomplirent" ],
+  "futurSimple": [ "accomplirai", "accompliras", "accomplira", "accomplirons", "accomplirez", "accompliront" ],
+  "passeCompose": [ "ai accompli", "as accompli", "a accompli", "avons accompli", "avez accompli", "ont accompli" ],
+  "plusQueParfait": [ "avais accompli", "avais accompli", "avait accompli", "avions accompli", "aviez accompli", "avaient accompli" ],
+  "passeAnterieur": [ "eus accompli", "eus accompli", "eut accompli", "eûmes accompli", "eûtes accompli", "eurent accompli" ],
+  "futurAnterieur": [ "aurai accompli", "auras accompli", "aura accompli", "aurons accompli", "aurez accompli", "auront accompli" ],
+  "subjonctifPresent": [ "accomplisse", "accomplisses", "accomplisse", "accomplissions", "accomplissiez", "accomplissent" ],
+  "subjonctifImparfait": [ "accomplisse", "accomplisses", "accomplît", "accomplissions", "accomplissiez", "accomplissent" ],
+  "subjonctifPasse": [ "aie accompli", "aies accompli", "ait accompli", "ayons accompli", "ayez accompli", "aient accompli" ],
+  "subjonctifPlusQueParfait": [ "eusse accompli", "eusses accompli", "eût accompli", "eussions accompli", "eussiez accompli", "eussent accompli" ],
+  "conditionnelPresent": [ "accomplirais", "accomplirais", "accomplirait", "accomplirions", "accompliriez", "accompliraient" ],
+  "conditionnelPasse": [ "aurais accompli", "aurais accompli", "aurait accompli", "aurions accompli", "auriez accompli", "auraient accompli" ],
+  "conditionnelPasseII": [ "eusse accompli", "eusses accompli", "eût accompli", "eussions accompli", "eussiez accompli", "eussent accompli" ],
+  "imperatif": [ "–", "accomplis !", "–", "accomplissons !", "accomplissez !", "–" ],
+  "imperatifPasse": [ "–", "aie accompli !", "–", "ayons accompli !", "ayez accompli !", "–" ]
+}

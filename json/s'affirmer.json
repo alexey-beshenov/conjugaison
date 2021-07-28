@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'affirmer",
+  "participePresent": "s'affirmant",
+  "participePasse": "affirmé",
+  "present": [ "m'affirme", "t'affirmes", "s'affirme", "nous affirmons", "vous affirmez", "s'affirment" ],
+  "imparfait": [ "m'affirmais", "t'affirmais", "s'affirmait", "nous affirmions", "vous affirmiez", "s'affirmaient" ],
+  "passeSimple": [ "m'affirmai", "t'affirmas", "s'affirma", "nous affirmâmes", "vous affirmâtes", "s'affirmèrent" ],
+  "futurSimple": [ "m'affirmerai", "t'affirmeras", "s'affirmera", "nous affirmerons", "vous affirmerez", "s'affirmeront" ],
+  "passeCompose": [ "me suis affirmé(e)", "t'es affirmé(e)", "s'est affirmé(e)", "nous sommes affirmé(e)s", "vous êtes affirmé(e)(s)", "se sont affirmé(e)s" ],
+  "plusQueParfait": [ "m'étais affirmé(e)", "t'étais affirmé(e)", "s'était affirmé(e)", "nous étions affirmé(e)s", "vous étiez affirmé(e)(s)", "s'étaient affirmé(e)s" ],
+  "passeAnterieur": [ "me fus affirmé(e)", "te fus affirmé(e)", "se fut affirmé(e)", "nous fûmes affirmé(e)s", "vous fûtes affirmé(e)(s)", "se furent affirmé(e)s" ],
+  "futurAnterieur": [ "me serai affirmé(e)", "te seras affirmé(e)", "se sera affirmé(e)", "nous serons affirmé(e)s", "vous serez affirmé(e)(s)", "se seront affirmé(e)s" ],
+  "subjonctifPresent": [ "m'affirme", "t'affirmes", "s'affirme", "nous affirmions", "vous affirmiez", "s'affirment" ],
+  "subjonctifImparfait": [ "m'affirmasse", "t'affirmasses", "s'affirmât", "nous affirmassions", "vous affirmassiez", "s'affirmassent" ],
+  "subjonctifPasse": [ "me sois affirmé(e)", "te sois affirmé(e)", "se soit affirmé(e)", "nous soyons affirmé(e)s", "vous soyez affirmé(e)(s)", "se soient affirmé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse affirmé(e)", "te fusses affirmé(e)", "se fût affirmé(e)", "nous fussions affirmé(e)s", "vous fussiez affirmé(e)(s)", "se fussent affirmé(e)s" ],
+  "conditionnelPresent": [ "m'affirmerais", "t'affirmerais", "s'affirmerait", "nous affirmerions", "vous affirmeriez", "s'affirmeraient" ],
+  "conditionnelPasse": [ "me serais affirmé(e)", "te serais affirmé(e)", "se serait affirmé(e)", "nous serions affirmé(e)s", "vous seriez affirmé(e)(s)", "se seraient affirmé(e)s" ],
+  "conditionnelPasseII": [ "me fusse affirmé(e)", "te fusses affirmé(e)", "se fût affirmé(e)", "nous fussions affirmé(e)s", "vous fussiez affirmé(e)(s)", "se fussent affirmé(e)s" ],
+  "imperatif": [ "–", "affirme-toi !", "–", "affirmons-nous !", "affirmez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

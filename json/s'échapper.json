@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'échapper",
+  "participePresent": "s'échappant",
+  "participePasse": "échappé",
+  "present": [ "m'échappe", "t'échappes", "s'échappe", "nous échappons", "vous échappez", "s'échappent" ],
+  "imparfait": [ "m'échappais", "t'échappais", "s'échappait", "nous échappions", "vous échappiez", "s'échappaient" ],
+  "passeSimple": [ "m'échappai", "t'échappas", "s'échappa", "nous échappâmes", "vous échappâtes", "s'échappèrent" ],
+  "futurSimple": [ "m'échapperai", "t'échapperas", "s'échappera", "nous échapperons", "vous échapperez", "s'échapperont" ],
+  "passeCompose": [ "me suis échappé(e)", "t'es échappé(e)", "s'est échappé(e)", "nous sommes échappé(e)s", "vous êtes échappé(e)(s)", "se sont échappé(e)s" ],
+  "plusQueParfait": [ "m'étais échappé(e)", "t'étais échappé(e)", "s'était échappé(e)", "nous étions échappé(e)s", "vous étiez échappé(e)(s)", "s'étaient échappé(e)s" ],
+  "passeAnterieur": [ "me fus échappé(e)", "te fus échappé(e)", "se fut échappé(e)", "nous fûmes échappé(e)s", "vous fûtes échappé(e)(s)", "se furent échappé(e)s" ],
+  "futurAnterieur": [ "me serai échappé(e)", "te seras échappé(e)", "se sera échappé(e)", "nous serons échappé(e)s", "vous serez échappé(e)(s)", "se seront échappé(e)s" ],
+  "subjonctifPresent": [ "m'échappe", "t'échappes", "s'échappe", "nous échappions", "vous échappiez", "s'échappent" ],
+  "subjonctifImparfait": [ "m'échappasse", "t'échappasses", "s'échappât", "nous échappassions", "vous échappassiez", "s'échappassent" ],
+  "subjonctifPasse": [ "me sois échappé(e)", "te sois échappé(e)", "se soit échappé(e)", "nous soyons échappé(e)s", "vous soyez échappé(e)(s)", "se soient échappé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse échappé(e)", "te fusses échappé(e)", "se fût échappé(e)", "nous fussions échappé(e)s", "vous fussiez échappé(e)(s)", "se fussent échappé(e)s" ],
+  "conditionnelPresent": [ "m'échapperais", "t'échapperais", "s'échapperait", "nous échapperions", "vous échapperiez", "s'échapperaient" ],
+  "conditionnelPasse": [ "me serais échappé(e)", "te serais échappé(e)", "se serait échappé(e)", "nous serions échappé(e)s", "vous seriez échappé(e)(s)", "se seraient échappé(e)s" ],
+  "conditionnelPasseII": [ "me fusse échappé(e)", "te fusses échappé(e)", "se fût échappé(e)", "nous fussions échappé(e)s", "vous fussiez échappé(e)(s)", "se fussent échappé(e)s" ],
+  "imperatif": [ "–", "échappe-toi !", "–", "échappons-nous !", "échappez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "dessiner",
+  "participePresent": "dessinant",
+  "participePasse": "dessiné",
+  "present": [ "dessine", "dessines", "dessine", "dessinons", "dessinez", "dessinent" ],
+  "imparfait": [ "dessinais", "dessinais", "dessinait", "dessinions", "dessiniez", "dessinaient" ],
+  "passeSimple": [ "dessinai", "dessinas", "dessina", "dessinâmes", "dessinâtes", "dessinèrent" ],
+  "futurSimple": [ "dessinerai", "dessineras", "dessinera", "dessinerons", "dessinerez", "dessineront" ],
+  "passeCompose": [ "ai dessiné", "as dessiné", "a dessiné", "avons dessiné", "avez dessiné", "ont dessiné" ],
+  "plusQueParfait": [ "avais dessiné", "avais dessiné", "avait dessiné", "avions dessiné", "aviez dessiné", "avaient dessiné" ],
+  "passeAnterieur": [ "eus dessiné", "eus dessiné", "eut dessiné", "eûmes dessiné", "eûtes dessiné", "eurent dessiné" ],
+  "futurAnterieur": [ "aurai dessiné", "auras dessiné", "aura dessiné", "aurons dessiné", "aurez dessiné", "auront dessiné" ],
+  "subjonctifPresent": [ "dessine", "dessines", "dessine", "dessinions", "dessiniez", "dessinent" ],
+  "subjonctifImparfait": [ "dessinasse", "dessinasses", "dessinât", "dessinassions", "dessinassiez", "dessinassent" ],
+  "subjonctifPasse": [ "aie dessiné", "aies dessiné", "ait dessiné", "ayons dessiné", "ayez dessiné", "aient dessiné" ],
+  "subjonctifPlusQueParfait": [ "eusse dessiné", "eusses dessiné", "eût dessiné", "eussions dessiné", "eussiez dessiné", "eussent dessiné" ],
+  "conditionnelPresent": [ "dessinerais", "dessinerais", "dessinerait", "dessinerions", "dessineriez", "dessineraient" ],
+  "conditionnelPasse": [ "aurais dessiné", "aurais dessiné", "aurait dessiné", "aurions dessiné", "auriez dessiné", "auraient dessiné" ],
+  "conditionnelPasseII": [ "eusse dessiné", "eusses dessiné", "eût dessiné", "eussions dessiné", "eussiez dessiné", "eussent dessiné" ],
+  "imperatif": [ "–", "dessine !", "–", "dessinons !", "dessinez !", "–" ],
+  "imperatifPasse": [ "–", "aie dessiné !", "–", "ayons dessiné !", "ayez dessiné !", "–" ]
+}

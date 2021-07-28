@@ -1,0 +1,22 @@
+{
+  "infinitif": "se regarder",
+  "participePresent": "se regardant",
+  "participePasse": "regardé",
+  "present": [ "me regarde", "te regardes", "se regarde", "nous regardons", "vous regardez", "se regardent" ],
+  "imparfait": [ "me regardais", "te regardais", "se regardait", "nous regardions", "vous regardiez", "se regardaient" ],
+  "passeSimple": [ "me regardai", "te regardas", "se regarda", "nous regardâmes", "vous regardâtes", "se regardèrent" ],
+  "futurSimple": [ "me regarderai", "te regarderas", "se regardera", "nous regarderons", "vous regarderez", "se regarderont" ],
+  "passeCompose": [ "me suis regardé(e)", "t'es regardé(e)", "s'est regardé(e)", "nous sommes regardé(e)s", "vous êtes regardé(e)(s)", "se sont regardé(e)s" ],
+  "plusQueParfait": [ "m'étais regardé(e)", "t'étais regardé(e)", "s'était regardé(e)", "nous étions regardé(e)s", "vous étiez regardé(e)(s)", "s'étaient regardé(e)s" ],
+  "passeAnterieur": [ "me fus regardé(e)", "te fus regardé(e)", "se fut regardé(e)", "nous fûmes regardé(e)s", "vous fûtes regardé(e)(s)", "se furent regardé(e)s" ],
+  "futurAnterieur": [ "me serai regardé(e)", "te seras regardé(e)", "se sera regardé(e)", "nous serons regardé(e)s", "vous serez regardé(e)(s)", "se seront regardé(e)s" ],
+  "subjonctifPresent": [ "me regarde", "te regardes", "se regarde", "nous regardions", "vous regardiez", "se regardent" ],
+  "subjonctifImparfait": [ "me regardasse", "te regardasses", "se regardât", "nous regardassions", "vous regardassiez", "se regardassent" ],
+  "subjonctifPasse": [ "me sois regardé(e)", "te sois regardé(e)", "se soit regardé(e)", "nous soyons regardé(e)s", "vous soyez regardé(e)(s)", "se soient regardé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse regardé(e)", "te fusses regardé(e)", "se fût regardé(e)", "nous fussions regardé(e)s", "vous fussiez regardé(e)(s)", "se fussent regardé(e)s" ],
+  "conditionnelPresent": [ "me regarderais", "te regarderais", "se regarderait", "nous regarderions", "vous regarderiez", "se regarderaient" ],
+  "conditionnelPasse": [ "me serais regardé(e)", "te serais regardé(e)", "se serait regardé(e)", "nous serions regardé(e)s", "vous seriez regardé(e)(s)", "se seraient regardé(e)s" ],
+  "conditionnelPasseII": [ "me fusse regardé(e)", "te fusses regardé(e)", "se fût regardé(e)", "nous fussions regardé(e)s", "vous fussiez regardé(e)(s)", "se fussent regardé(e)s" ],
+  "imperatif": [ "–", "regarde-toi !", "–", "regardons-nous !", "regardez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "nommer",
+  "participePresent": "nommant",
+  "participePasse": "nommé",
+  "present": [ "nomme", "nommes", "nomme", "nommons", "nommez", "nomment" ],
+  "imparfait": [ "nommais", "nommais", "nommait", "nommions", "nommiez", "nommaient" ],
+  "passeSimple": [ "nommai", "nommas", "nomma", "nommâmes", "nommâtes", "nommèrent" ],
+  "futurSimple": [ "nommerai", "nommeras", "nommera", "nommerons", "nommerez", "nommeront" ],
+  "passeCompose": [ "ai nommé", "as nommé", "a nommé", "avons nommé", "avez nommé", "ont nommé" ],
+  "plusQueParfait": [ "avais nommé", "avais nommé", "avait nommé", "avions nommé", "aviez nommé", "avaient nommé" ],
+  "passeAnterieur": [ "eus nommé", "eus nommé", "eut nommé", "eûmes nommé", "eûtes nommé", "eurent nommé" ],
+  "futurAnterieur": [ "aurai nommé", "auras nommé", "aura nommé", "aurons nommé", "aurez nommé", "auront nommé" ],
+  "subjonctifPresent": [ "nomme", "nommes", "nomme", "nommions", "nommiez", "nomment" ],
+  "subjonctifImparfait": [ "nommasse", "nommasses", "nommât", "nommassions", "nommassiez", "nommassent" ],
+  "subjonctifPasse": [ "aie nommé", "aies nommé", "ait nommé", "ayons nommé", "ayez nommé", "aient nommé" ],
+  "subjonctifPlusQueParfait": [ "eusse nommé", "eusses nommé", "eût nommé", "eussions nommé", "eussiez nommé", "eussent nommé" ],
+  "conditionnelPresent": [ "nommerais", "nommerais", "nommerait", "nommerions", "nommeriez", "nommeraient" ],
+  "conditionnelPasse": [ "aurais nommé", "aurais nommé", "aurait nommé", "aurions nommé", "auriez nommé", "auraient nommé" ],
+  "conditionnelPasseII": [ "eusse nommé", "eusses nommé", "eût nommé", "eussions nommé", "eussiez nommé", "eussent nommé" ],
+  "imperatif": [ "–", "nomme !", "–", "nommons !", "nommez !", "–" ],
+  "imperatifPasse": [ "–", "aie nommé !", "–", "ayons nommé !", "ayez nommé !", "–" ]
+}

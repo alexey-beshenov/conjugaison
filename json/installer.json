@@ -1,0 +1,22 @@
+{
+  "infinitif": "installer",
+  "participePresent": "installant",
+  "participePasse": "installé",
+  "present": [ "installe", "installes", "installe", "installons", "installez", "installent" ],
+  "imparfait": [ "installais", "installais", "installait", "installions", "installiez", "installaient" ],
+  "passeSimple": [ "installai", "installas", "installa", "installâmes", "installâtes", "installèrent" ],
+  "futurSimple": [ "installerai", "installeras", "installera", "installerons", "installerez", "installeront" ],
+  "passeCompose": [ "ai installé", "as installé", "a installé", "avons installé", "avez installé", "ont installé" ],
+  "plusQueParfait": [ "avais installé", "avais installé", "avait installé", "avions installé", "aviez installé", "avaient installé" ],
+  "passeAnterieur": [ "eus installé", "eus installé", "eut installé", "eûmes installé", "eûtes installé", "eurent installé" ],
+  "futurAnterieur": [ "aurai installé", "auras installé", "aura installé", "aurons installé", "aurez installé", "auront installé" ],
+  "subjonctifPresent": [ "installe", "installes", "installe", "installions", "installiez", "installent" ],
+  "subjonctifImparfait": [ "installasse", "installasses", "installât", "installassions", "installassiez", "installassent" ],
+  "subjonctifPasse": [ "aie installé", "aies installé", "ait installé", "ayons installé", "ayez installé", "aient installé" ],
+  "subjonctifPlusQueParfait": [ "eusse installé", "eusses installé", "eût installé", "eussions installé", "eussiez installé", "eussent installé" ],
+  "conditionnelPresent": [ "installerais", "installerais", "installerait", "installerions", "installeriez", "installeraient" ],
+  "conditionnelPasse": [ "aurais installé", "aurais installé", "aurait installé", "aurions installé", "auriez installé", "auraient installé" ],
+  "conditionnelPasseII": [ "eusse installé", "eusses installé", "eût installé", "eussions installé", "eussiez installé", "eussent installé" ],
+  "imperatif": [ "–", "installe !", "–", "installons !", "installez !", "–" ],
+  "imperatifPasse": [ "–", "aie installé !", "–", "ayons installé !", "ayez installé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'assaillir",
+  "participePresent": "s'assaillant",
+  "participePasse": "assailli",
+  "present": [ "m'assaille", "t'assailles", "s'assaille", "nous assaillons", "vous assaillez", "s'assaillent" ],
+  "imparfait": [ "m'assaillais", "t'assaillais", "s'assaillait", "nous assaillions", "vous assailliez", "s'assaillaient" ],
+  "passeSimple": [ "m'assaillis", "t'assaillis", "s'assaillit", "nous assaillîmes", "vous assaillîtes", "s'assaillirent" ],
+  "futurSimple": [ "m'assaillirai", "t'assailliras", "s'assaillira", "nous assaillirons", "vous assaillirez", "s'assailliront" ],
+  "passeCompose": [ "me suis assailli(e)", "t'es assailli(e)", "s'est assailli(e)", "nous sommes assailli(e)s", "vous êtes assailli(e)(s)", "se sont assailli(e)s" ],
+  "plusQueParfait": [ "m'étais assailli(e)", "t'étais assailli(e)", "s'était assailli(e)", "nous étions assailli(e)s", "vous étiez assailli(e)(s)", "s'étaient assailli(e)s" ],
+  "passeAnterieur": [ "me fus assailli(e)", "te fus assailli(e)", "se fut assailli(e)", "nous fûmes assailli(e)s", "vous fûtes assailli(e)(s)", "se furent assailli(e)s" ],
+  "futurAnterieur": [ "me serai assailli(e)", "te seras assailli(e)", "se sera assailli(e)", "nous serons assailli(e)s", "vous serez assailli(e)(s)", "se seront assailli(e)s" ],
+  "subjonctifPresent": [ "m'assaille", "t'assailles", "s'assaille", "nous assaillions", "vous assailliez", "s'assaillent" ],
+  "subjonctifImparfait": [ "m'assaillisse", "t'assaillisses", "s'assaillît", "nous assaillissions", "vous assaillissiez", "s'assaillissent" ],
+  "subjonctifPasse": [ "me sois assailli(e)", "te sois assailli(e)", "se soit assailli(e)", "nous soyons assailli(e)s", "vous soyez assailli(e)(s)", "se soient assailli(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse assailli(e)", "te fusses assailli(e)", "se fût assailli(e)", "nous fussions assailli(e)s", "vous fussiez assailli(e)(s)", "se fussent assailli(e)s" ],
+  "conditionnelPresent": [ "m'assaillirais", "t'assaillirais", "s'assaillirait", "nous assaillirions", "vous assailliriez", "s'assailliraient" ],
+  "conditionnelPasse": [ "me serais assailli(e)", "te serais assailli(e)", "se serait assailli(e)", "nous serions assailli(e)s", "vous seriez assailli(e)(s)", "se seraient assailli(e)s" ],
+  "conditionnelPasseII": [ "me fusse assailli(e)", "te fusses assailli(e)", "se fût assailli(e)", "nous fussions assailli(e)s", "vous fussiez assailli(e)(s)", "se fussent assailli(e)s" ],
+  "imperatif": [ "–", "assaille-toi !", "–", "assaillons-nous !", "assaillez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

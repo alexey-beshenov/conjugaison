@@ -1,0 +1,22 @@
+{
+  "infinitif": "se revivre",
+  "participePresent": "se revivant",
+  "participePasse": "revécu",
+  "present": [ "me revis", "te revis", "se revit", "nous revivons", "vous revivez", "se revivent" ],
+  "imparfait": [ "me revivais", "te revivais", "se revivait", "nous revivions", "vous reviviez", "se revivaient" ],
+  "passeSimple": [ "me revécus", "te revécus", "se revécut", "nous revécûmes", "vous revécûtes", "se revécurent" ],
+  "futurSimple": [ "me revivrai", "te revivras", "se revivra", "nous revivrons", "vous revivrez", "se revivront" ],
+  "passeCompose": [ "me suis revécu(e)", "t'es revécu(e)", "s'est revécu(e)", "nous sommes revécu(e)s", "vous êtes revécu(e)(s)", "se sont revécu(e)s" ],
+  "plusQueParfait": [ "m'étais revécu(e)", "t'étais revécu(e)", "s'était revécu(e)", "nous étions revécu(e)s", "vous étiez revécu(e)(s)", "s'étaient revécu(e)s" ],
+  "passeAnterieur": [ "me fus revécu(e)", "te fus revécu(e)", "se fut revécu(e)", "nous fûmes revécu(e)s", "vous fûtes revécu(e)(s)", "se furent revécu(e)s" ],
+  "futurAnterieur": [ "me serai revécu(e)", "te seras revécu(e)", "se sera revécu(e)", "nous serons revécu(e)s", "vous serez revécu(e)(s)", "se seront revécu(e)s" ],
+  "subjonctifPresent": [ "me revive", "te revives", "se revive", "nous revivions", "vous reviviez", "se revivent" ],
+  "subjonctifImparfait": [ "me revécusse", "te revécusses", "se revécût", "nous revécussions", "vous revécussiez", "se revécussent" ],
+  "subjonctifPasse": [ "me sois revécu(e)", "te sois revécu(e)", "se soit revécu(e)", "nous soyons revécu(e)s", "vous soyez revécu(e)(s)", "se soient revécu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse revécu(e)", "te fusses revécu(e)", "se fût revécu(e)", "nous fussions revécu(e)s", "vous fussiez revécu(e)(s)", "se fussent revécu(e)s" ],
+  "conditionnelPresent": [ "me revivrais", "te revivrais", "se revivrait", "nous revivrions", "vous revivriez", "se revivraient" ],
+  "conditionnelPasse": [ "me serais revécu(e)", "te serais revécu(e)", "se serait revécu(e)", "nous serions revécu(e)s", "vous seriez revécu(e)(s)", "se seraient revécu(e)s" ],
+  "conditionnelPasseII": [ "me fusse revécu(e)", "te fusses revécu(e)", "se fût revécu(e)", "nous fussions revécu(e)s", "vous fussiez revécu(e)(s)", "se fussent revécu(e)s" ],
+  "imperatif": [ "–", "revis-toi !", "–", "revivons-nous !", "revivez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

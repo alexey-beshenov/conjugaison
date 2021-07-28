@@ -1,0 +1,22 @@
+{
+  "infinitif": "se tirer",
+  "participePresent": "se tirant",
+  "participePasse": "tiré",
+  "present": [ "me tire", "te tires", "se tire", "nous tirons", "vous tirez", "se tirent" ],
+  "imparfait": [ "me tirais", "te tirais", "se tirait", "nous tirions", "vous tiriez", "se tiraient" ],
+  "passeSimple": [ "me tirai", "te tiras", "se tira", "nous tirâmes", "vous tirâtes", "se tirèrent" ],
+  "futurSimple": [ "me tirerai", "te tireras", "se tirera", "nous tirerons", "vous tirerez", "se tireront" ],
+  "passeCompose": [ "me suis tiré(e)", "t'es tiré(e)", "s'est tiré(e)", "nous sommes tiré(e)s", "vous êtes tiré(e)(s)", "se sont tiré(e)s" ],
+  "plusQueParfait": [ "m'étais tiré(e)", "t'étais tiré(e)", "s'était tiré(e)", "nous étions tiré(e)s", "vous étiez tiré(e)(s)", "s'étaient tiré(e)s" ],
+  "passeAnterieur": [ "me fus tiré(e)", "te fus tiré(e)", "se fut tiré(e)", "nous fûmes tiré(e)s", "vous fûtes tiré(e)(s)", "se furent tiré(e)s" ],
+  "futurAnterieur": [ "me serai tiré(e)", "te seras tiré(e)", "se sera tiré(e)", "nous serons tiré(e)s", "vous serez tiré(e)(s)", "se seront tiré(e)s" ],
+  "subjonctifPresent": [ "me tire", "te tires", "se tire", "nous tirions", "vous tiriez", "se tirent" ],
+  "subjonctifImparfait": [ "me tirasse", "te tirasses", "se tirât", "nous tirassions", "vous tirassiez", "se tirassent" ],
+  "subjonctifPasse": [ "me sois tiré(e)", "te sois tiré(e)", "se soit tiré(e)", "nous soyons tiré(e)s", "vous soyez tiré(e)(s)", "se soient tiré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse tiré(e)", "te fusses tiré(e)", "se fût tiré(e)", "nous fussions tiré(e)s", "vous fussiez tiré(e)(s)", "se fussent tiré(e)s" ],
+  "conditionnelPresent": [ "me tirerais", "te tirerais", "se tirerait", "nous tirerions", "vous tireriez", "se tireraient" ],
+  "conditionnelPasse": [ "me serais tiré(e)", "te serais tiré(e)", "se serait tiré(e)", "nous serions tiré(e)s", "vous seriez tiré(e)(s)", "se seraient tiré(e)s" ],
+  "conditionnelPasseII": [ "me fusse tiré(e)", "te fusses tiré(e)", "se fût tiré(e)", "nous fussions tiré(e)s", "vous fussiez tiré(e)(s)", "se fussent tiré(e)s" ],
+  "imperatif": [ "–", "tire-toi !", "–", "tirons-nous !", "tirez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

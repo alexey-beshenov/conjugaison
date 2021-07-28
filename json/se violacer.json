@@ -1,0 +1,22 @@
+{
+  "infinitif": "se violacer",
+  "participePresent": "se violaçant",
+  "participePasse": "violacé",
+  "present": [ "me violace", "te violaces", "se violace", "nous violaçons", "vous violacez", "se violacent" ],
+  "imparfait": [ "me violaçais", "te violaçais", "se violaçait", "nous violacions", "vous violaciez", "se violaçaient" ],
+  "passeSimple": [ "me violaçai", "te violaças", "se violaça", "nous violaçâmes", "vous violaçâtes", "se violacèrent" ],
+  "futurSimple": [ "me violacerai", "te violaceras", "se violacera", "nous violacerons", "vous violacerez", "se violaceront" ],
+  "passeCompose": [ "me suis violacé(e)", "t'es violacé(e)", "s'est violacé(e)", "nous sommes violacé(e)s", "vous êtes violacé(e)(s)", "se sont violacé(e)s" ],
+  "plusQueParfait": [ "m'étais violacé(e)", "t'étais violacé(e)", "s'était violacé(e)", "nous étions violacé(e)s", "vous étiez violacé(e)(s)", "s'étaient violacé(e)s" ],
+  "passeAnterieur": [ "me fus violacé(e)", "te fus violacé(e)", "se fut violacé(e)", "nous fûmes violacé(e)s", "vous fûtes violacé(e)(s)", "se furent violacé(e)s" ],
+  "futurAnterieur": [ "me serai violacé(e)", "te seras violacé(e)", "se sera violacé(e)", "nous serons violacé(e)s", "vous serez violacé(e)(s)", "se seront violacé(e)s" ],
+  "subjonctifPresent": [ "me violace", "te violaces", "se violace", "nous violacions", "vous violaciez", "se violacent" ],
+  "subjonctifImparfait": [ "me violaçasse", "te violaçasses", "se violaçât", "nous violaçassions", "vous violaçassiez", "se violaçassent" ],
+  "subjonctifPasse": [ "me sois violacé(e)", "te sois violacé(e)", "se soit violacé(e)", "nous soyons violacé(e)s", "vous soyez violacé(e)(s)", "se soient violacé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse violacé(e)", "te fusses violacé(e)", "se fût violacé(e)", "nous fussions violacé(e)s", "vous fussiez violacé(e)(s)", "se fussent violacé(e)s" ],
+  "conditionnelPresent": [ "me violacerais", "te violacerais", "se violacerait", "nous violacerions", "vous violaceriez", "se violaceraient" ],
+  "conditionnelPasse": [ "me serais violacé(e)", "te serais violacé(e)", "se serait violacé(e)", "nous serions violacé(e)s", "vous seriez violacé(e)(s)", "se seraient violacé(e)s" ],
+  "conditionnelPasseII": [ "me fusse violacé(e)", "te fusses violacé(e)", "se fût violacé(e)", "nous fussions violacé(e)s", "vous fussiez violacé(e)(s)", "se fussent violacé(e)s" ],
+  "imperatif": [ "–", "violace-toi !", "–", "violaçons-nous !", "violacez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

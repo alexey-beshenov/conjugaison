@@ -1,0 +1,22 @@
+{
+  "infinitif": "obtenir",
+  "participePresent": "obtenant",
+  "participePasse": "obtenu",
+  "present": [ "obtiens", "obtiens", "obtient", "obtenons", "obtenez", "obtiennent" ],
+  "imparfait": [ "obtenais", "obtenais", "obtenait", "obtenions", "obteniez", "obtenaient" ],
+  "passeSimple": [ "obtins", "obtins", "obtint", "obtînmes", "obtîntes", "obtinrent" ],
+  "futurSimple": [ "obtiendrai", "obtiendras", "obtiendra", "obtiendrons", "obtiendrez", "obtiendront" ],
+  "passeCompose": [ "ai obtenu", "as obtenu", "a obtenu", "avons obtenu", "avez obtenu", "ont obtenu" ],
+  "plusQueParfait": [ "avais obtenu", "avais obtenu", "avait obtenu", "avions obtenu", "aviez obtenu", "avaient obtenu" ],
+  "passeAnterieur": [ "eus obtenu", "eus obtenu", "eut obtenu", "eûmes obtenu", "eûtes obtenu", "eurent obtenu" ],
+  "futurAnterieur": [ "aurai obtenu", "auras obtenu", "aura obtenu", "aurons obtenu", "aurez obtenu", "auront obtenu" ],
+  "subjonctifPresent": [ "obtienne", "obtiennes", "obtienne", "obtenions", "obteniez", "obtiennent" ],
+  "subjonctifImparfait": [ "obtinsse", "obtinsses", "obtînt", "obtinssions", "obtinssiez", "obtinssent" ],
+  "subjonctifPasse": [ "aie obtenu", "aies obtenu", "ait obtenu", "ayons obtenu", "ayez obtenu", "aient obtenu" ],
+  "subjonctifPlusQueParfait": [ "eusse obtenu", "eusses obtenu", "eût obtenu", "eussions obtenu", "eussiez obtenu", "eussent obtenu" ],
+  "conditionnelPresent": [ "obtiendrais", "obtiendrais", "obtiendrait", "obtiendrions", "obtiendriez", "obtiendraient" ],
+  "conditionnelPasse": [ "aurais obtenu", "aurais obtenu", "aurait obtenu", "aurions obtenu", "auriez obtenu", "auraient obtenu" ],
+  "conditionnelPasseII": [ "eusse obtenu", "eusses obtenu", "eût obtenu", "eussions obtenu", "eussiez obtenu", "eussent obtenu" ],
+  "imperatif": [ "–", "obtiens !", "–", "obtenons !", "obtenez !", "–" ],
+  "imperatifPasse": [ "–", "aie obtenu !", "–", "ayons obtenu !", "ayez obtenu !", "–" ]
+}

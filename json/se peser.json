@@ -1,0 +1,22 @@
+{
+  "infinitif": "se peser",
+  "participePresent": "se pesant",
+  "participePasse": "pesé",
+  "present": [ "me pèse", "te pèses", "se pèse", "nous pesons", "vous pesez", "se pèsent" ],
+  "imparfait": [ "me pesais", "te pesais", "se pesait", "nous pesions", "vous pesiez", "se pesaient" ],
+  "passeSimple": [ "me pesai", "te pesas", "se pesa", "nous pesâmes", "vous pesâtes", "se pesèrent" ],
+  "futurSimple": [ "me pèserai", "te pèseras", "se pèsera", "nous pèserons", "vous pèserez", "se pèseront" ],
+  "passeCompose": [ "me suis pesé(e)", "t'es pesé(e)", "s'est pesé(e)", "nous sommes pesé(e)s", "vous êtes pesé(e)(s)", "se sont pesé(e)s" ],
+  "plusQueParfait": [ "m'étais pesé(e)", "t'étais pesé(e)", "s'était pesé(e)", "nous étions pesé(e)s", "vous étiez pesé(e)(s)", "s'étaient pesé(e)s" ],
+  "passeAnterieur": [ "me fus pesé(e)", "te fus pesé(e)", "se fut pesé(e)", "nous fûmes pesé(e)s", "vous fûtes pesé(e)(s)", "se furent pesé(e)s" ],
+  "futurAnterieur": [ "me serai pesé(e)", "te seras pesé(e)", "se sera pesé(e)", "nous serons pesé(e)s", "vous serez pesé(e)(s)", "se seront pesé(e)s" ],
+  "subjonctifPresent": [ "me pèse", "te pèses", "se pèse", "nous pesions", "vous pesiez", "se pèsent" ],
+  "subjonctifImparfait": [ "me pesasse", "te pesasses", "se pesât", "nous pesassions", "vous pesassiez", "se pesassent" ],
+  "subjonctifPasse": [ "me sois pesé(e)", "te sois pesé(e)", "se soit pesé(e)", "nous soyons pesé(e)s", "vous soyez pesé(e)(s)", "se soient pesé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse pesé(e)", "te fusses pesé(e)", "se fût pesé(e)", "nous fussions pesé(e)s", "vous fussiez pesé(e)(s)", "se fussent pesé(e)s" ],
+  "conditionnelPresent": [ "me pèserais", "te pèserais", "se pèserait", "nous pèserions", "vous pèseriez", "se pèseraient" ],
+  "conditionnelPasse": [ "me serais pesé(e)", "te serais pesé(e)", "se serait pesé(e)", "nous serions pesé(e)s", "vous seriez pesé(e)(s)", "se seraient pesé(e)s" ],
+  "conditionnelPasseII": [ "me fusse pesé(e)", "te fusses pesé(e)", "se fût pesé(e)", "nous fussions pesé(e)s", "vous fussiez pesé(e)(s)", "se fussent pesé(e)s" ],
+  "imperatif": [ "–", "pèse-toi !", "–", "pesons-nous !", "pesez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

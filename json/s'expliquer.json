@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'expliquer",
+  "participePresent": "s'expliquant",
+  "participePasse": "expliqué",
+  "present": [ "m'explique", "t'expliques", "s'explique", "nous expliquons", "vous expliquez", "s'expliquent" ],
+  "imparfait": [ "m'expliquais", "t'expliquais", "s'expliquait", "nous expliquions", "vous expliquiez", "s'expliquaient" ],
+  "passeSimple": [ "m'expliquai", "t'expliquas", "s'expliqua", "nous expliquâmes", "vous expliquâtes", "s'expliquèrent" ],
+  "futurSimple": [ "m'expliquerai", "t'expliqueras", "s'expliquera", "nous expliquerons", "vous expliquerez", "s'expliqueront" ],
+  "passeCompose": [ "me suis expliqué(e)", "t'es expliqué(e)", "s'est expliqué(e)", "nous sommes expliqué(e)s", "vous êtes expliqué(e)(s)", "se sont expliqué(e)s" ],
+  "plusQueParfait": [ "m'étais expliqué(e)", "t'étais expliqué(e)", "s'était expliqué(e)", "nous étions expliqué(e)s", "vous étiez expliqué(e)(s)", "s'étaient expliqué(e)s" ],
+  "passeAnterieur": [ "me fus expliqué(e)", "te fus expliqué(e)", "se fut expliqué(e)", "nous fûmes expliqué(e)s", "vous fûtes expliqué(e)(s)", "se furent expliqué(e)s" ],
+  "futurAnterieur": [ "me serai expliqué(e)", "te seras expliqué(e)", "se sera expliqué(e)", "nous serons expliqué(e)s", "vous serez expliqué(e)(s)", "se seront expliqué(e)s" ],
+  "subjonctifPresent": [ "m'explique", "t'expliques", "s'explique", "nous expliquions", "vous expliquiez", "s'expliquent" ],
+  "subjonctifImparfait": [ "m'expliquasse", "t'expliquasses", "s'expliquât", "nous expliquassions", "vous expliquassiez", "s'expliquassent" ],
+  "subjonctifPasse": [ "me sois expliqué(e)", "te sois expliqué(e)", "se soit expliqué(e)", "nous soyons expliqué(e)s", "vous soyez expliqué(e)(s)", "se soient expliqué(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse expliqué(e)", "te fusses expliqué(e)", "se fût expliqué(e)", "nous fussions expliqué(e)s", "vous fussiez expliqué(e)(s)", "se fussent expliqué(e)s" ],
+  "conditionnelPresent": [ "m'expliquerais", "t'expliquerais", "s'expliquerait", "nous expliquerions", "vous expliqueriez", "s'expliqueraient" ],
+  "conditionnelPasse": [ "me serais expliqué(e)", "te serais expliqué(e)", "se serait expliqué(e)", "nous serions expliqué(e)s", "vous seriez expliqué(e)(s)", "se seraient expliqué(e)s" ],
+  "conditionnelPasseII": [ "me fusse expliqué(e)", "te fusses expliqué(e)", "se fût expliqué(e)", "nous fussions expliqué(e)s", "vous fussiez expliqué(e)(s)", "se fussent expliqué(e)s" ],
+  "imperatif": [ "–", "explique-toi !", "–", "expliquons-nous !", "expliquez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'ouvrir",
+  "participePresent": "s'ouvrant",
+  "participePasse": "ouvert",
+  "present": [ "m'ouvre", "t'ouvres", "s'ouvre", "nous ouvrons", "vous ouvrez", "s'ouvrent" ],
+  "imparfait": [ "m'ouvrais", "t'ouvrais", "s'ouvrait", "nous ouvrions", "vous ouvriez", "s'ouvraient" ],
+  "passeSimple": [ "m'ouvris", "t'ouvris", "s'ouvrit", "nous ouvrîmes", "vous ouvrîtes", "s'ouvrirent" ],
+  "futurSimple": [ "m'ouvrirai", "t'ouvriras", "s'ouvrira", "nous ouvrirons", "vous ouvrirez", "s'ouvriront" ],
+  "passeCompose": [ "me suis ouvert(e)", "t'es ouvert(e)", "s'est ouvert(e)", "nous sommes ouvert(e)s", "vous êtes ouvert(e)(s)", "se sont ouvert(e)s" ],
+  "plusQueParfait": [ "m'étais ouvert(e)", "t'étais ouvert(e)", "s'était ouvert(e)", "nous étions ouvert(e)s", "vous étiez ouvert(e)(s)", "s'étaient ouvert(e)s" ],
+  "passeAnterieur": [ "me fus ouvert(e)", "te fus ouvert(e)", "se fut ouvert(e)", "nous fûmes ouvert(e)s", "vous fûtes ouvert(e)(s)", "se furent ouvert(e)s" ],
+  "futurAnterieur": [ "me serai ouvert(e)", "te seras ouvert(e)", "se sera ouvert(e)", "nous serons ouvert(e)s", "vous serez ouvert(e)(s)", "se seront ouvert(e)s" ],
+  "subjonctifPresent": [ "m'ouvre", "t'ouvres", "s'ouvre", "nous ouvrions", "vous ouvriez", "s'ouvrent" ],
+  "subjonctifImparfait": [ "m'ouvrisse", "t'ouvrisses", "s'ouvrît", "nous ouvrissions", "vous ouvrissiez", "s'ouvrissent" ],
+  "subjonctifPasse": [ "me sois ouvert(e)", "te sois ouvert(e)", "se soit ouvert(e)", "nous soyons ouvert(e)s", "vous soyez ouvert(e)(s)", "se soient ouvert(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse ouvert(e)", "te fusses ouvert(e)", "se fût ouvert(e)", "nous fussions ouvert(e)s", "vous fussiez ouvert(e)(s)", "se fussent ouvert(e)s" ],
+  "conditionnelPresent": [ "m'ouvrirais", "t'ouvrirais", "s'ouvrirait", "nous ouvririons", "vous ouvririez", "s'ouvriraient" ],
+  "conditionnelPasse": [ "me serais ouvert(e)", "te serais ouvert(e)", "se serait ouvert(e)", "nous serions ouvert(e)s", "vous seriez ouvert(e)(s)", "se seraient ouvert(e)s" ],
+  "conditionnelPasseII": [ "me fusse ouvert(e)", "te fusses ouvert(e)", "se fût ouvert(e)", "nous fussions ouvert(e)s", "vous fussiez ouvert(e)(s)", "se fussent ouvert(e)s" ],
+  "imperatif": [ "–", "ouvre-toi !", "–", "ouvrons-nous !", "ouvrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

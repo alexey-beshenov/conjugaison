@@ -1,0 +1,22 @@
+{
+  "infinitif": "supposer",
+  "participePresent": "supposant",
+  "participePasse": "supposé",
+  "present": [ "suppose", "supposes", "suppose", "supposons", "supposez", "supposent" ],
+  "imparfait": [ "supposais", "supposais", "supposait", "supposions", "supposiez", "supposaient" ],
+  "passeSimple": [ "supposai", "supposas", "supposa", "supposâmes", "supposâtes", "supposèrent" ],
+  "futurSimple": [ "supposerai", "supposeras", "supposera", "supposerons", "supposerez", "supposeront" ],
+  "passeCompose": [ "ai supposé", "as supposé", "a supposé", "avons supposé", "avez supposé", "ont supposé" ],
+  "plusQueParfait": [ "avais supposé", "avais supposé", "avait supposé", "avions supposé", "aviez supposé", "avaient supposé" ],
+  "passeAnterieur": [ "eus supposé", "eus supposé", "eut supposé", "eûmes supposé", "eûtes supposé", "eurent supposé" ],
+  "futurAnterieur": [ "aurai supposé", "auras supposé", "aura supposé", "aurons supposé", "aurez supposé", "auront supposé" ],
+  "subjonctifPresent": [ "suppose", "supposes", "suppose", "supposions", "supposiez", "supposent" ],
+  "subjonctifImparfait": [ "supposasse", "supposasses", "supposât", "supposassions", "supposassiez", "supposassent" ],
+  "subjonctifPasse": [ "aie supposé", "aies supposé", "ait supposé", "ayons supposé", "ayez supposé", "aient supposé" ],
+  "subjonctifPlusQueParfait": [ "eusse supposé", "eusses supposé", "eût supposé", "eussions supposé", "eussiez supposé", "eussent supposé" ],
+  "conditionnelPresent": [ "supposerais", "supposerais", "supposerait", "supposerions", "supposeriez", "supposeraient" ],
+  "conditionnelPasse": [ "aurais supposé", "aurais supposé", "aurait supposé", "aurions supposé", "auriez supposé", "auraient supposé" ],
+  "conditionnelPasseII": [ "eusse supposé", "eusses supposé", "eût supposé", "eussions supposé", "eussiez supposé", "eussent supposé" ],
+  "imperatif": [ "–", "suppose !", "–", "supposons !", "supposez !", "–" ],
+  "imperatifPasse": [ "–", "aie supposé !", "–", "ayons supposé !", "ayez supposé !", "–" ]
+}

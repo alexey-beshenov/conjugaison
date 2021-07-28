@@ -1,0 +1,22 @@
+{
+  "infinitif": "prévoir",
+  "participePresent": "prévoyant",
+  "participePasse": "prévu",
+  "present": [ "prévois", "prévois", "prévoit", "prévoyons", "prévoyez", "prévoient" ],
+  "imparfait": [ "prévoyais", "prévoyais", "prévoyait", "prévoyions", "prévoyiez", "prévoyaient" ],
+  "passeSimple": [ "prévis", "prévis", "prévit", "prévîmes", "prévîtes", "prévirent" ],
+  "futurSimple": [ "prévoirai", "prévoiras", "prévoira", "prévoirons", "prévoirez", "prévoiront" ],
+  "passeCompose": [ "ai prévu", "as prévu", "a prévu", "avons prévu", "avez prévu", "ont prévu" ],
+  "plusQueParfait": [ "avais prévu", "avais prévu", "avait prévu", "avions prévu", "aviez prévu", "avaient prévu" ],
+  "passeAnterieur": [ "eus prévu", "eus prévu", "eut prévu", "eûmes prévu", "eûtes prévu", "eurent prévu" ],
+  "futurAnterieur": [ "aurai prévu", "auras prévu", "aura prévu", "aurons prévu", "aurez prévu", "auront prévu" ],
+  "subjonctifPresent": [ "prévoie", "prévoies", "prévoie", "prévoyions", "prévoyiez", "prévoient" ],
+  "subjonctifImparfait": [ "prévisse", "prévisses", "prévît", "prévissions", "prévissiez", "prévissent" ],
+  "subjonctifPasse": [ "aie prévu", "aies prévu", "ait prévu", "ayons prévu", "ayez prévu", "aient prévu" ],
+  "subjonctifPlusQueParfait": [ "eusse prévu", "eusses prévu", "eût prévu", "eussions prévu", "eussiez prévu", "eussent prévu" ],
+  "conditionnelPresent": [ "prévoirais", "prévoirais", "prévoirait", "prévoirions", "prévoiriez", "prévoiraient" ],
+  "conditionnelPasse": [ "aurais prévu", "aurais prévu", "aurait prévu", "aurions prévu", "auriez prévu", "auraient prévu" ],
+  "conditionnelPasseII": [ "eusse prévu", "eusses prévu", "eût prévu", "eussions prévu", "eussiez prévu", "eussent prévu" ],
+  "imperatif": [ "–", "prévois !", "–", "prévoyons !", "prévoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie prévu !", "–", "ayons prévu !", "ayez prévu !", "–" ]
+}

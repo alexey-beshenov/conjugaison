@@ -1,0 +1,22 @@
+{
+  "infinitif": "mourir",
+  "participePresent": "mourant",
+  "participePasse": "mort",
+  "present": [ "meurs", "meurs", "meurt", "mourons", "mourez", "meurent" ],
+  "imparfait": [ "mourais", "mourais", "mourait", "mourions", "mouriez", "mouraient" ],
+  "passeSimple": [ "mourus", "mourus", "mourut", "mourûmes", "mourûtes", "moururent" ],
+  "futurSimple": [ "mourrai", "mourras", "mourra", "mourrons", "mourrez", "mourront" ],
+  "passeCompose": [ "suis mort(e)", "es mort(e)", "est mort(e)", "sommes mort(e)s", "êtes mort(e)(s)", "sont mort(e)s" ],
+  "plusQueParfait": [ "étais mort(e)", "étais mort(e)", "était mort(e)", "étions mort(e)s", "étiez mort(e)(s)", "étaient mort(e)s" ],
+  "passeAnterieur": [ "fus mort(e)", "fus mort(e)", "fut mort(e)", "fûmes mort(e)s", "fûtes mort(e)(s)", "furent mort(e)s" ],
+  "futurAnterieur": [ "serai mort(e)", "seras mort(e)", "sera mort(e)", "serons mort(e)s", "serez mort(e)(s)", "seront mort(e)s" ],
+  "subjonctifPresent": [ "meure", "meures", "meure", "mourions", "mouriez", "meurent" ],
+  "subjonctifImparfait": [ "mourusse", "mourusses", "mourût", "mourussions", "mourussiez", "mourussent" ],
+  "subjonctifPasse": [ "sois mort(e)", "sois mort(e)", "soit mort(e)", "soyons mort(e)s", "soyez mort(e)(s)", "soient mort(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse mort(e)", "fusses mort(e)", "fût mort(e)", "fussions mort(e)s", "fussiez mort(e)(s)", "fussent mort(e)s" ],
+  "conditionnelPresent": [ "mourrais", "mourrais", "mourrait", "mourrions", "mourriez", "mourraient" ],
+  "conditionnelPasse": [ "serais mort(e)", "serais mort(e)", "serait mort(e)", "serions mort(e)s", "seriez mort(e)(s)", "seraient mort(e)s" ],
+  "conditionnelPasseII": [ "fusse mort(e)", "fusses mort(e)", "fût mort(e)", "fussions mort(e)s", "fussiez mort(e)(s)", "fussent mort(e)s" ],
+  "imperatif": [ "–", "meurs !", "–", "mourons !", "mourez !", "–" ],
+  "imperatifPasse": [ "–", "sois mort(e) !", "–", "soyons mort(e)s !", "soyez mort(e)(s) !", "–" ]
+}

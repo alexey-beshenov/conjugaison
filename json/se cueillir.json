@@ -1,0 +1,22 @@
+{
+  "infinitif": "se cueillir",
+  "participePresent": "se cueillant",
+  "participePasse": "cueilli",
+  "present": [ "me cueille", "te cueilles", "se cueille", "nous cueillons", "vous cueillez", "se cueillent" ],
+  "imparfait": [ "me cueillais", "te cueillais", "se cueillait", "nous cueillions", "vous cueilliez", "se cueillaient" ],
+  "passeSimple": [ "me cueillis", "te cueillis", "se cueillit", "nous cueillîmes", "vous cueillîtes", "se cueillirent" ],
+  "futurSimple": [ "me cueillerai", "te cueilleras", "se cueillera", "nous cueillerons", "vous cueillerez", "se cueilleront" ],
+  "passeCompose": [ "me suis cueilli(e)", "t'es cueilli(e)", "s'est cueilli(e)", "nous sommes cueilli(e)s", "vous êtes cueilli(e)(s)", "se sont cueilli(e)s" ],
+  "plusQueParfait": [ "m'étais cueilli(e)", "t'étais cueilli(e)", "s'était cueilli(e)", "nous étions cueilli(e)s", "vous étiez cueilli(e)(s)", "s'étaient cueilli(e)s" ],
+  "passeAnterieur": [ "me fus cueilli(e)", "te fus cueilli(e)", "se fut cueilli(e)", "nous fûmes cueilli(e)s", "vous fûtes cueilli(e)(s)", "se furent cueilli(e)s" ],
+  "futurAnterieur": [ "me serai cueilli(e)", "te seras cueilli(e)", "se sera cueilli(e)", "nous serons cueilli(e)s", "vous serez cueilli(e)(s)", "se seront cueilli(e)s" ],
+  "subjonctifPresent": [ "me cueille", "te cueilles", "se cueille", "nous cueillions", "vous cueilliez", "se cueillent" ],
+  "subjonctifImparfait": [ "me cueillisse", "te cueillisses", "se cueillît", "nous cueillissions", "vous cueillissiez", "se cueillissent" ],
+  "subjonctifPasse": [ "me sois cueilli(e)", "te sois cueilli(e)", "se soit cueilli(e)", "nous soyons cueilli(e)s", "vous soyez cueilli(e)(s)", "se soient cueilli(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse cueilli(e)", "te fusses cueilli(e)", "se fût cueilli(e)", "nous fussions cueilli(e)s", "vous fussiez cueilli(e)(s)", "se fussent cueilli(e)s" ],
+  "conditionnelPresent": [ "me cueillerais", "te cueillerais", "se cueillerait", "nous cueillerions", "vous cueilleriez", "se cueilleraient" ],
+  "conditionnelPasse": [ "me serais cueilli(e)", "te serais cueilli(e)", "se serait cueilli(e)", "nous serions cueilli(e)s", "vous seriez cueilli(e)(s)", "se seraient cueilli(e)s" ],
+  "conditionnelPasseII": [ "me fusse cueilli(e)", "te fusses cueilli(e)", "se fût cueilli(e)", "nous fussions cueilli(e)s", "vous fussiez cueilli(e)(s)", "se fussent cueilli(e)s" ],
+  "imperatif": [ "–", "cueille-toi !", "–", "cueillons-nous !", "cueillez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

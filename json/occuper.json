@@ -1,0 +1,22 @@
+{
+  "infinitif": "occuper",
+  "participePresent": "occupant",
+  "participePasse": "occupé",
+  "present": [ "occupe", "occupes", "occupe", "occupons", "occupez", "occupent" ],
+  "imparfait": [ "occupais", "occupais", "occupait", "occupions", "occupiez", "occupaient" ],
+  "passeSimple": [ "occupai", "occupas", "occupa", "occupâmes", "occupâtes", "occupèrent" ],
+  "futurSimple": [ "occuperai", "occuperas", "occupera", "occuperons", "occuperez", "occuperont" ],
+  "passeCompose": [ "ai occupé", "as occupé", "a occupé", "avons occupé", "avez occupé", "ont occupé" ],
+  "plusQueParfait": [ "avais occupé", "avais occupé", "avait occupé", "avions occupé", "aviez occupé", "avaient occupé" ],
+  "passeAnterieur": [ "eus occupé", "eus occupé", "eut occupé", "eûmes occupé", "eûtes occupé", "eurent occupé" ],
+  "futurAnterieur": [ "aurai occupé", "auras occupé", "aura occupé", "aurons occupé", "aurez occupé", "auront occupé" ],
+  "subjonctifPresent": [ "occupe", "occupes", "occupe", "occupions", "occupiez", "occupent" ],
+  "subjonctifImparfait": [ "occupasse", "occupasses", "occupât", "occupassions", "occupassiez", "occupassent" ],
+  "subjonctifPasse": [ "aie occupé", "aies occupé", "ait occupé", "ayons occupé", "ayez occupé", "aient occupé" ],
+  "subjonctifPlusQueParfait": [ "eusse occupé", "eusses occupé", "eût occupé", "eussions occupé", "eussiez occupé", "eussent occupé" ],
+  "conditionnelPresent": [ "occuperais", "occuperais", "occuperait", "occuperions", "occuperiez", "occuperaient" ],
+  "conditionnelPasse": [ "aurais occupé", "aurais occupé", "aurait occupé", "aurions occupé", "auriez occupé", "auraient occupé" ],
+  "conditionnelPasseII": [ "eusse occupé", "eusses occupé", "eût occupé", "eussions occupé", "eussiez occupé", "eussent occupé" ],
+  "imperatif": [ "–", "occupe !", "–", "occupons !", "occupez !", "–" ],
+  "imperatifPasse": [ "–", "aie occupé !", "–", "ayons occupé !", "ayez occupé !", "–" ]
+}

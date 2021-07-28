@@ -1,0 +1,22 @@
+{
+  "infinitif": "retenir",
+  "participePresent": "retenant",
+  "participePasse": "retenu",
+  "present": [ "retiens", "retiens", "retient", "retenons", "retenez", "retiennent" ],
+  "imparfait": [ "retenais", "retenais", "retenait", "retenions", "reteniez", "retenaient" ],
+  "passeSimple": [ "retins", "retins", "retint", "retînmes", "retîntes", "retinrent" ],
+  "futurSimple": [ "retiendrai", "retiendras", "retiendra", "retiendrons", "retiendrez", "retiendront" ],
+  "passeCompose": [ "ai retenu", "as retenu", "a retenu", "avons retenu", "avez retenu", "ont retenu" ],
+  "plusQueParfait": [ "avais retenu", "avais retenu", "avait retenu", "avions retenu", "aviez retenu", "avaient retenu" ],
+  "passeAnterieur": [ "eus retenu", "eus retenu", "eut retenu", "eûmes retenu", "eûtes retenu", "eurent retenu" ],
+  "futurAnterieur": [ "aurai retenu", "auras retenu", "aura retenu", "aurons retenu", "aurez retenu", "auront retenu" ],
+  "subjonctifPresent": [ "retienne", "retiennes", "retienne", "retenions", "reteniez", "retiennent" ],
+  "subjonctifImparfait": [ "retinsse", "retinsses", "retînt", "retinssions", "retinssiez", "retinssent" ],
+  "subjonctifPasse": [ "aie retenu", "aies retenu", "ait retenu", "ayons retenu", "ayez retenu", "aient retenu" ],
+  "subjonctifPlusQueParfait": [ "eusse retenu", "eusses retenu", "eût retenu", "eussions retenu", "eussiez retenu", "eussent retenu" ],
+  "conditionnelPresent": [ "retiendrais", "retiendrais", "retiendrait", "retiendrions", "retiendriez", "retiendraient" ],
+  "conditionnelPasse": [ "aurais retenu", "aurais retenu", "aurait retenu", "aurions retenu", "auriez retenu", "auraient retenu" ],
+  "conditionnelPasseII": [ "eusse retenu", "eusses retenu", "eût retenu", "eussions retenu", "eussiez retenu", "eussent retenu" ],
+  "imperatif": [ "–", "retiens !", "–", "retenons !", "retenez !", "–" ],
+  "imperatifPasse": [ "–", "aie retenu !", "–", "ayons retenu !", "ayez retenu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "inventer",
+  "participePresent": "inventant",
+  "participePasse": "inventé",
+  "present": [ "invente", "inventes", "invente", "inventons", "inventez", "inventent" ],
+  "imparfait": [ "inventais", "inventais", "inventait", "inventions", "inventiez", "inventaient" ],
+  "passeSimple": [ "inventai", "inventas", "inventa", "inventâmes", "inventâtes", "inventèrent" ],
+  "futurSimple": [ "inventerai", "inventeras", "inventera", "inventerons", "inventerez", "inventeront" ],
+  "passeCompose": [ "ai inventé", "as inventé", "a inventé", "avons inventé", "avez inventé", "ont inventé" ],
+  "plusQueParfait": [ "avais inventé", "avais inventé", "avait inventé", "avions inventé", "aviez inventé", "avaient inventé" ],
+  "passeAnterieur": [ "eus inventé", "eus inventé", "eut inventé", "eûmes inventé", "eûtes inventé", "eurent inventé" ],
+  "futurAnterieur": [ "aurai inventé", "auras inventé", "aura inventé", "aurons inventé", "aurez inventé", "auront inventé" ],
+  "subjonctifPresent": [ "invente", "inventes", "invente", "inventions", "inventiez", "inventent" ],
+  "subjonctifImparfait": [ "inventasse", "inventasses", "inventât", "inventassions", "inventassiez", "inventassent" ],
+  "subjonctifPasse": [ "aie inventé", "aies inventé", "ait inventé", "ayons inventé", "ayez inventé", "aient inventé" ],
+  "subjonctifPlusQueParfait": [ "eusse inventé", "eusses inventé", "eût inventé", "eussions inventé", "eussiez inventé", "eussent inventé" ],
+  "conditionnelPresent": [ "inventerais", "inventerais", "inventerait", "inventerions", "inventeriez", "inventeraient" ],
+  "conditionnelPasse": [ "aurais inventé", "aurais inventé", "aurait inventé", "aurions inventé", "auriez inventé", "auraient inventé" ],
+  "conditionnelPasseII": [ "eusse inventé", "eusses inventé", "eût inventé", "eussions inventé", "eussiez inventé", "eussent inventé" ],
+  "imperatif": [ "–", "invente !", "–", "inventons !", "inventez !", "–" ],
+  "imperatifPasse": [ "–", "aie inventé !", "–", "ayons inventé !", "ayez inventé !", "–" ]
+}

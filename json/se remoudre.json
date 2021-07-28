@@ -1,0 +1,22 @@
+{
+  "infinitif": "se remoudre",
+  "participePresent": "se remoulant",
+  "participePasse": "remoulu",
+  "present": [ "me remouds", "te remouds", "se remoud", "nous remoulons", "vous remoulez", "se remoulent" ],
+  "imparfait": [ "me remoulais", "te remoulais", "se remoulait", "nous remoulions", "vous remouliez", "se remoulaient" ],
+  "passeSimple": [ "me remoulus", "te remoulus", "se remoulut", "nous remoulûmes", "vous remoulûtes", "se remoulurent" ],
+  "futurSimple": [ "me remoudrai", "te remoudras", "se remoudra", "nous remoudrons", "vous remoudrez", "se remoudront" ],
+  "passeCompose": [ "me suis remoulu(e)", "t'es remoulu(e)", "s'est remoulu(e)", "nous sommes remoulu(e)s", "vous êtes remoulu(e)(s)", "se sont remoulu(e)s" ],
+  "plusQueParfait": [ "m'étais remoulu(e)", "t'étais remoulu(e)", "s'était remoulu(e)", "nous étions remoulu(e)s", "vous étiez remoulu(e)(s)", "s'étaient remoulu(e)s" ],
+  "passeAnterieur": [ "me fus remoulu(e)", "te fus remoulu(e)", "se fut remoulu(e)", "nous fûmes remoulu(e)s", "vous fûtes remoulu(e)(s)", "se furent remoulu(e)s" ],
+  "futurAnterieur": [ "me serai remoulu(e)", "te seras remoulu(e)", "se sera remoulu(e)", "nous serons remoulu(e)s", "vous serez remoulu(e)(s)", "se seront remoulu(e)s" ],
+  "subjonctifPresent": [ "me remoule", "te remoules", "se remoule", "nous remoulions", "vous remouliez", "se remoulent" ],
+  "subjonctifImparfait": [ "me remoulusse", "te remoulusses", "se remoulût", "nous remoulussions", "vous remoulussiez", "se remoulussent" ],
+  "subjonctifPasse": [ "me sois remoulu(e)", "te sois remoulu(e)", "se soit remoulu(e)", "nous soyons remoulu(e)s", "vous soyez remoulu(e)(s)", "se soient remoulu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse remoulu(e)", "te fusses remoulu(e)", "se fût remoulu(e)", "nous fussions remoulu(e)s", "vous fussiez remoulu(e)(s)", "se fussent remoulu(e)s" ],
+  "conditionnelPresent": [ "me remoudrais", "te remoudrais", "se remoudrait", "nous remoudrions", "vous remoudriez", "se remoudraient" ],
+  "conditionnelPasse": [ "me serais remoulu(e)", "te serais remoulu(e)", "se serait remoulu(e)", "nous serions remoulu(e)s", "vous seriez remoulu(e)(s)", "se seraient remoulu(e)s" ],
+  "conditionnelPasseII": [ "me fusse remoulu(e)", "te fusses remoulu(e)", "se fût remoulu(e)", "nous fussions remoulu(e)s", "vous fussiez remoulu(e)(s)", "se fussent remoulu(e)s" ],
+  "imperatif": [ "–", "remouds-toi !", "–", "remoulons-nous !", "remoulez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

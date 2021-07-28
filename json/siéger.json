@@ -1,0 +1,22 @@
+{
+  "infinitif": "siéger",
+  "participePresent": "siégeant",
+  "participePasse": "siégé",
+  "present": [ "siège", "sièges", "siège", "siégeons", "siégez", "siègent" ],
+  "imparfait": [ "siégeais", "siégeais", "siégeait", "siégions", "siégiez", "siégeaient" ],
+  "passeSimple": [ "siégeai", "siégeas", "siégea", "siégeâmes", "siégeâtes", "siégèrent" ],
+  "futurSimple": [ "siégerai", "siégeras", "siégera", "siégerons", "siégerez", "siégeront" ],
+  "passeCompose": [ "ai siégé", "as siégé", "a siégé", "avons siégé", "avez siégé", "ont siégé" ],
+  "plusQueParfait": [ "avais siégé", "avais siégé", "avait siégé", "avions siégé", "aviez siégé", "avaient siégé" ],
+  "passeAnterieur": [ "eus siégé", "eus siégé", "eut siégé", "eûmes siégé", "eûtes siégé", "eurent siégé" ],
+  "futurAnterieur": [ "aurai siégé", "auras siégé", "aura siégé", "aurons siégé", "aurez siégé", "auront siégé" ],
+  "subjonctifPresent": [ "siège", "sièges", "siège", "siégions", "siégiez", "siègent" ],
+  "subjonctifImparfait": [ "siégeasse", "siégeasses", "siégeât", "siégeassions", "siégeassiez", "siégeassent" ],
+  "subjonctifPasse": [ "aie siégé", "aies siégé", "ait siégé", "ayons siégé", "ayez siégé", "aient siégé" ],
+  "subjonctifPlusQueParfait": [ "eusse siégé", "eusses siégé", "eût siégé", "eussions siégé", "eussiez siégé", "eussent siégé" ],
+  "conditionnelPresent": [ "siégerais", "siégerais", "siégerait", "siégerions", "siégeriez", "siégeraient" ],
+  "conditionnelPasse": [ "aurais siégé", "aurais siégé", "aurait siégé", "aurions siégé", "auriez siégé", "auraient siégé" ],
+  "conditionnelPasseII": [ "eusse siégé", "eusses siégé", "eût siégé", "eussions siégé", "eussiez siégé", "eussent siégé" ],
+  "imperatif": [ "–", "siège !", "–", "siégeons !", "siégez !", "–" ],
+  "imperatifPasse": [ "–", "aie siégé !", "–", "ayons siégé !", "ayez siégé !", "–" ]
+}

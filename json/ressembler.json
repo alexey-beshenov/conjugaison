@@ -1,0 +1,22 @@
+{
+  "infinitif": "ressembler",
+  "participePresent": "ressemblant",
+  "participePasse": "ressemblé",
+  "present": [ "ressemble", "ressembles", "ressemble", "ressemblons", "ressemblez", "ressemblent" ],
+  "imparfait": [ "ressemblais", "ressemblais", "ressemblait", "ressemblions", "ressembliez", "ressemblaient" ],
+  "passeSimple": [ "ressemblai", "ressemblas", "ressembla", "ressemblâmes", "ressemblâtes", "ressemblèrent" ],
+  "futurSimple": [ "ressemblerai", "ressembleras", "ressemblera", "ressemblerons", "ressemblerez", "ressembleront" ],
+  "passeCompose": [ "ai ressemblé", "as ressemblé", "a ressemblé", "avons ressemblé", "avez ressemblé", "ont ressemblé" ],
+  "plusQueParfait": [ "avais ressemblé", "avais ressemblé", "avait ressemblé", "avions ressemblé", "aviez ressemblé", "avaient ressemblé" ],
+  "passeAnterieur": [ "eus ressemblé", "eus ressemblé", "eut ressemblé", "eûmes ressemblé", "eûtes ressemblé", "eurent ressemblé" ],
+  "futurAnterieur": [ "aurai ressemblé", "auras ressemblé", "aura ressemblé", "aurons ressemblé", "aurez ressemblé", "auront ressemblé" ],
+  "subjonctifPresent": [ "ressemble", "ressembles", "ressemble", "ressemblions", "ressembliez", "ressemblent" ],
+  "subjonctifImparfait": [ "ressemblasse", "ressemblasses", "ressemblât", "ressemblassions", "ressemblassiez", "ressemblassent" ],
+  "subjonctifPasse": [ "aie ressemblé", "aies ressemblé", "ait ressemblé", "ayons ressemblé", "ayez ressemblé", "aient ressemblé" ],
+  "subjonctifPlusQueParfait": [ "eusse ressemblé", "eusses ressemblé", "eût ressemblé", "eussions ressemblé", "eussiez ressemblé", "eussent ressemblé" ],
+  "conditionnelPresent": [ "ressemblerais", "ressemblerais", "ressemblerait", "ressemblerions", "ressembleriez", "ressembleraient" ],
+  "conditionnelPasse": [ "aurais ressemblé", "aurais ressemblé", "aurait ressemblé", "aurions ressemblé", "auriez ressemblé", "auraient ressemblé" ],
+  "conditionnelPasseII": [ "eusse ressemblé", "eusses ressemblé", "eût ressemblé", "eussions ressemblé", "eussiez ressemblé", "eussent ressemblé" ],
+  "imperatif": [ "–", "ressemble !", "–", "ressemblons !", "ressemblez !", "–" ],
+  "imperatifPasse": [ "–", "aie ressemblé !", "–", "ayons ressemblé !", "ayez ressemblé !", "–" ]
+}

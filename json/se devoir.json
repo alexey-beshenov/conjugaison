@@ -1,0 +1,22 @@
+{
+  "infinitif": "se devoir",
+  "participePresent": "se devant",
+  "participePasse": "dû,",
+  "present": [ "me dois", "te dois", "se doit", "nous devons", "vous devez", "se doivent" ],
+  "imparfait": [ "me devais", "te devais", "se devait", "nous devions", "vous deviez", "se devaient" ],
+  "passeSimple": [ "me dus", "te dus", "se dut", "nous dûmes", "vous dûtes", "se durent" ],
+  "futurSimple": [ "me devrai", "te devras", "se devra", "nous devrons", "vous devrez", "se devront" ],
+  "passeCompose": [ "me suis dû, due", "t'es dû, due", "s'est dû, due", "nous sommes du(e)s", "vous êtes dû, du(e)s", "se sont du(e)s" ],
+  "plusQueParfait": [ "m'étais dû, due", "t'étais dû, due", "s'était dû, due", "nous étions du(e)s", "vous étiez dû, du(e)s", "s'étaient du(e)s" ],
+  "passeAnterieur": [ "me fus dû, due", "te fus dû, due", "se fut dû, due", "nous fûmes du(e)s", "vous fûtes dû, du(e)s", "se furent du(e)s" ],
+  "futurAnterieur": [ "me serai dû, due", "te seras dû, due", "se sera dû, due", "nous serons du(e)s", "vous serez dû, du(e)s", "se seront du(e)s" ],
+  "subjonctifPresent": [ "me doive", "te doives", "se doive", "nous devions", "vous deviez", "se doivent" ],
+  "subjonctifImparfait": [ "me dusse", "te dusses", "se dût", "nous dussions", "vous dussiez", "se dussent" ],
+  "subjonctifPasse": [ "me sois dû, due", "te sois dû, due", "se soit dû, due", "nous soyons du(e)s", "vous soyez dû, du(e)s", "se soient du(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse dû, due", "te fusses dû, due", "se fût dû, due", "nous fussions du(e)s", "vous fussiez dû, du(e)s", "se fussent du(e)s" ],
+  "conditionnelPresent": [ "me devrais", "te devrais", "se devrait", "nous devrions", "vous devriez", "se devraient" ],
+  "conditionnelPasse": [ "me serais dû, due", "te serais dû, due", "se serait dû, due", "nous serions du(e)s", "vous seriez dû, du(e)s", "se seraient du(e)s" ],
+  "conditionnelPasseII": [ "me fusse dû, due", "te fusses dû, due", "se fût dû, due", "nous fussions du(e)s", "vous fussiez dû, du(e)s", "se fussent du(e)s" ],
+  "imperatif": [ "–", "dois-toi !", "–", "devons-nous !", "devez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

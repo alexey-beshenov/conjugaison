@@ -1,0 +1,22 @@
+{
+  "infinitif": "se stupéfaire",
+  "participePresent": "–",
+  "participePasse": "stupéfait",
+  "present": [ "–", "–", "se stupéfait", "–", "–", "–" ],
+  "imparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
+  "futurSimple": [ "–", "–", "–", "–", "–", "–" ],
+  "passeCompose": [ "me suis stupéfait(e)", "t'es stupéfait(e)", "s'est stupéfait(e)", "nous sommes stupéfait(e)s", "vous êtes stupéfait(e)(s)", "se sont stupéfait(e)s" ],
+  "plusQueParfait": [ "m'étais stupéfait(e)", "t'étais stupéfait(e)", "s'était stupéfait(e)", "nous étions stupéfait(e)s", "vous étiez stupéfait(e)(s)", "s'étaient stupéfait(e)s" ],
+  "passeAnterieur": [ "me fus stupéfait(e)", "te fus stupéfait(e)", "se fut stupéfait(e)", "nous fûmes stupéfait(e)s", "vous fûtes stupéfait(e)(s)", "se furent stupéfait(e)s" ],
+  "futurAnterieur": [ "me serai stupéfait(e)", "te seras stupéfait(e)", "se sera stupéfait(e)", "nous serons stupéfait(e)s", "vous serez stupéfait(e)(s)", "se seront stupéfait(e)s" ],
+  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPasse": [ "me sois stupéfait(e)", "te sois stupéfait(e)", "se soit stupéfait(e)", "nous soyons stupéfait(e)s", "vous soyez stupéfait(e)(s)", "se soient stupéfait(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse stupéfait(e)", "te fusses stupéfait(e)", "se fût stupéfait(e)", "nous fussions stupéfait(e)s", "vous fussiez stupéfait(e)(s)", "se fussent stupéfait(e)s" ],
+  "conditionnelPresent": [ "–", "–", "–", "–", "–", "–" ],
+  "conditionnelPasse": [ "me serais stupéfait(e)", "te serais stupéfait(e)", "se serait stupéfait(e)", "nous serions stupéfait(e)s", "vous seriez stupéfait(e)(s)", "se seraient stupéfait(e)s" ],
+  "conditionnelPasseII": [ "me fusse stupéfait(e)", "te fusses stupéfait(e)", "se fût stupéfait(e)", "nous fussions stupéfait(e)s", "vous fussiez stupéfait(e)(s)", "se fussent stupéfait(e)s" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

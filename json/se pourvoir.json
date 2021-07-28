@@ -1,0 +1,22 @@
+{
+  "infinitif": "se pourvoir",
+  "participePresent": "se pourvoyant",
+  "participePasse": "pourvu",
+  "present": [ "me pourvois", "te pourvois", "se pourvoit", "nous pourvoyons", "vous pourvoyez", "se pourvoient" ],
+  "imparfait": [ "me pourvoyais", "te pourvoyais", "se pourvoyait", "nous pourvoyions", "vous pourvoyiez", "se pourvoyaient" ],
+  "passeSimple": [ "me pourvus", "te pourvus", "se pourvut", "nous pourvûmes", "vous pourvûtes", "se pourvurent" ],
+  "futurSimple": [ "me pourvoirai", "te pourvoiras", "se pourvoira", "nous pourvoirons", "vous pourvoirez", "se pourvoiront" ],
+  "passeCompose": [ "me suis pourvu(e)", "t'es pourvu(e)", "s'est pourvu(e)", "nous sommes pourvu(e)s", "vous êtes pourvu(e)(s)", "se sont pourvu(e)s" ],
+  "plusQueParfait": [ "m'étais pourvu(e)", "t'étais pourvu(e)", "s'était pourvu(e)", "nous étions pourvu(e)s", "vous étiez pourvu(e)(s)", "s'étaient pourvu(e)s" ],
+  "passeAnterieur": [ "me fus pourvu(e)", "te fus pourvu(e)", "se fut pourvu(e)", "nous fûmes pourvu(e)s", "vous fûtes pourvu(e)(s)", "se furent pourvu(e)s" ],
+  "futurAnterieur": [ "me serai pourvu(e)", "te seras pourvu(e)", "se sera pourvu(e)", "nous serons pourvu(e)s", "vous serez pourvu(e)(s)", "se seront pourvu(e)s" ],
+  "subjonctifPresent": [ "me pourvoie", "te pourvoies", "se pourvoie", "nous pourvoyions", "vous pourvoyiez", "se pourvoient" ],
+  "subjonctifImparfait": [ "me pourvusse", "te pourvusses", "se pourvût", "nous pourvussions", "vous pourvussiez", "se pourvussent" ],
+  "subjonctifPasse": [ "me sois pourvu(e)", "te sois pourvu(e)", "se soit pourvu(e)", "nous soyons pourvu(e)s", "vous soyez pourvu(e)(s)", "se soient pourvu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse pourvu(e)", "te fusses pourvu(e)", "se fût pourvu(e)", "nous fussions pourvu(e)s", "vous fussiez pourvu(e)(s)", "se fussent pourvu(e)s" ],
+  "conditionnelPresent": [ "me pourvoirais", "te pourvoirais", "se pourvoirait", "nous pourvoirions", "vous pourvoiriez", "se pourvoiraient" ],
+  "conditionnelPasse": [ "me serais pourvu(e)", "te serais pourvu(e)", "se serait pourvu(e)", "nous serions pourvu(e)s", "vous seriez pourvu(e)(s)", "se seraient pourvu(e)s" ],
+  "conditionnelPasseII": [ "me fusse pourvu(e)", "te fusses pourvu(e)", "se fût pourvu(e)", "nous fussions pourvu(e)s", "vous fussiez pourvu(e)(s)", "se fussent pourvu(e)s" ],
+  "imperatif": [ "–", "pourvois-toi !", "–", "pourvoyons-nous !", "pourvoyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

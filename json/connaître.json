@@ -1,0 +1,22 @@
+{
+  "infinitif": "connaître",
+  "participePresent": "connaissant",
+  "participePasse": "connu",
+  "present": [ "connais", "connais", "connaît", "connaissons", "connaissez", "connaissent" ],
+  "imparfait": [ "connaissais", "connaissais", "connaissait", "connaissions", "connaissiez", "connaissaient" ],
+  "passeSimple": [ "connus", "connus", "connut", "connûmes", "connûtes", "connurent" ],
+  "futurSimple": [ "connaîtrai", "connaîtras", "connaîtra", "connaîtrons", "connaîtrez", "connaîtront" ],
+  "passeCompose": [ "ai connu", "as connu", "a connu", "avons connu", "avez connu", "ont connu" ],
+  "plusQueParfait": [ "avais connu", "avais connu", "avait connu", "avions connu", "aviez connu", "avaient connu" ],
+  "passeAnterieur": [ "eus connu", "eus connu", "eut connu", "eûmes connu", "eûtes connu", "eurent connu" ],
+  "futurAnterieur": [ "aurai connu", "auras connu", "aura connu", "aurons connu", "aurez connu", "auront connu" ],
+  "subjonctifPresent": [ "connaisse", "connaisses", "connaisse", "connaissions", "connaissiez", "connaissent" ],
+  "subjonctifImparfait": [ "connusse", "connusses", "connût", "connussions", "connussiez", "connussent" ],
+  "subjonctifPasse": [ "aie connu", "aies connu", "ait connu", "ayons connu", "ayez connu", "aient connu" ],
+  "subjonctifPlusQueParfait": [ "eusse connu", "eusses connu", "eût connu", "eussions connu", "eussiez connu", "eussent connu" ],
+  "conditionnelPresent": [ "connaîtrais", "connaîtrais", "connaîtrait", "connaîtrions", "connaîtriez", "connaîtraient" ],
+  "conditionnelPasse": [ "aurais connu", "aurais connu", "aurait connu", "aurions connu", "auriez connu", "auraient connu" ],
+  "conditionnelPasseII": [ "eusse connu", "eusses connu", "eût connu", "eussions connu", "eussiez connu", "eussent connu" ],
+  "imperatif": [ "–", "connais !", "–", "connaissons !", "connaissez !", "–" ],
+  "imperatifPasse": [ "–", "aie connu !", "–", "ayons connu !", "ayez connu !", "–" ]
+}

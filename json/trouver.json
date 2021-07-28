@@ -1,0 +1,22 @@
+{
+  "infinitif": "trouver",
+  "participePresent": "trouvant",
+  "participePasse": "trouvé",
+  "present": [ "trouve", "trouves", "trouve", "trouvons", "trouvez", "trouvent" ],
+  "imparfait": [ "trouvais", "trouvais", "trouvait", "trouvions", "trouviez", "trouvaient" ],
+  "passeSimple": [ "trouvai", "trouvas", "trouva", "trouvâmes", "trouvâtes", "trouvèrent" ],
+  "futurSimple": [ "trouverai", "trouveras", "trouvera", "trouverons", "trouverez", "trouveront" ],
+  "passeCompose": [ "ai trouvé", "as trouvé", "a trouvé", "avons trouvé", "avez trouvé", "ont trouvé" ],
+  "plusQueParfait": [ "avais trouvé", "avais trouvé", "avait trouvé", "avions trouvé", "aviez trouvé", "avaient trouvé" ],
+  "passeAnterieur": [ "eus trouvé", "eus trouvé", "eut trouvé", "eûmes trouvé", "eûtes trouvé", "eurent trouvé" ],
+  "futurAnterieur": [ "aurai trouvé", "auras trouvé", "aura trouvé", "aurons trouvé", "aurez trouvé", "auront trouvé" ],
+  "subjonctifPresent": [ "trouve", "trouves", "trouve", "trouvions", "trouviez", "trouvent" ],
+  "subjonctifImparfait": [ "trouvasse", "trouvasses", "trouvât", "trouvassions", "trouvassiez", "trouvassent" ],
+  "subjonctifPasse": [ "aie trouvé", "aies trouvé", "ait trouvé", "ayons trouvé", "ayez trouvé", "aient trouvé" ],
+  "subjonctifPlusQueParfait": [ "eusse trouvé", "eusses trouvé", "eût trouvé", "eussions trouvé", "eussiez trouvé", "eussent trouvé" ],
+  "conditionnelPresent": [ "trouverais", "trouverais", "trouverait", "trouverions", "trouveriez", "trouveraient" ],
+  "conditionnelPasse": [ "aurais trouvé", "aurais trouvé", "aurait trouvé", "aurions trouvé", "auriez trouvé", "auraient trouvé" ],
+  "conditionnelPasseII": [ "eusse trouvé", "eusses trouvé", "eût trouvé", "eussions trouvé", "eussiez trouvé", "eussent trouvé" ],
+  "imperatif": [ "–", "trouve !", "–", "trouvons !", "trouvez !", "–" ],
+  "imperatifPasse": [ "–", "aie trouvé !", "–", "ayons trouvé !", "ayez trouvé !", "–" ]
+}

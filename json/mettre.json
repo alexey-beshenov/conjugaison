@@ -1,0 +1,22 @@
+{
+  "infinitif": "mettre",
+  "participePresent": "mettant",
+  "participePasse": "mis",
+  "present": [ "mets", "mets", "met", "mettons", "mettez", "mettent" ],
+  "imparfait": [ "mettais", "mettais", "mettait", "mettions", "mettiez", "mettaient" ],
+  "passeSimple": [ "mis", "mis", "mit", "mîmes", "mîtes", "mirent" ],
+  "futurSimple": [ "mettrai", "mettras", "mettra", "mettrons", "mettrez", "mettront" ],
+  "passeCompose": [ "ai mis", "as mis", "a mis", "avons mis", "avez mis", "ont mis" ],
+  "plusQueParfait": [ "avais mis", "avais mis", "avait mis", "avions mis", "aviez mis", "avaient mis" ],
+  "passeAnterieur": [ "eus mis", "eus mis", "eut mis", "eûmes mis", "eûtes mis", "eurent mis" ],
+  "futurAnterieur": [ "aurai mis", "auras mis", "aura mis", "aurons mis", "aurez mis", "auront mis" ],
+  "subjonctifPresent": [ "mette", "mettes", "mette", "mettions", "mettiez", "mettent" ],
+  "subjonctifImparfait": [ "misse", "misses", "mît", "missions", "missiez", "missent" ],
+  "subjonctifPasse": [ "aie mis", "aies mis", "ait mis", "ayons mis", "ayez mis", "aient mis" ],
+  "subjonctifPlusQueParfait": [ "eusse mis", "eusses mis", "eût mis", "eussions mis", "eussiez mis", "eussent mis" ],
+  "conditionnelPresent": [ "mettrais", "mettrais", "mettrait", "mettrions", "mettriez", "mettraient" ],
+  "conditionnelPasse": [ "aurais mis", "aurais mis", "aurait mis", "aurions mis", "auriez mis", "auraient mis" ],
+  "conditionnelPasseII": [ "eusse mis", "eusses mis", "eût mis", "eussions mis", "eussiez mis", "eussent mis" ],
+  "imperatif": [ "–", "mets !", "–", "mettons !", "mettez !", "–" ],
+  "imperatifPasse": [ "–", "aie mis !", "–", "ayons mis !", "ayez mis !", "–" ]
+}

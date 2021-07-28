@@ -1,0 +1,22 @@
+{
+  "infinitif": "revaloir",
+  "participePresent": "revalant",
+  "participePasse": "revalu",
+  "present": [ "revaux", "revaux", "revaut", "revalons", "revalez", "revalent" ],
+  "imparfait": [ "revalais", "revalais", "revalait", "revalions", "revaliez", "revalaient" ],
+  "passeSimple": [ "revalus", "revalus", "revalut", "revalûmes", "revalûtes", "revalurent" ],
+  "futurSimple": [ "revaudrai", "revaudras", "revaudra", "revaudrons", "revaudrez", "revaudront" ],
+  "passeCompose": [ "ai revalu", "as revalu", "a revalu", "avons revalu", "avez revalu", "ont revalu" ],
+  "plusQueParfait": [ "avais revalu", "avais revalu", "avait revalu", "avions revalu", "aviez revalu", "avaient revalu" ],
+  "passeAnterieur": [ "eus revalu", "eus revalu", "eut revalu", "eûmes revalu", "eûtes revalu", "eurent revalu" ],
+  "futurAnterieur": [ "aurai revalu", "auras revalu", "aura revalu", "aurons revalu", "aurez revalu", "auront revalu" ],
+  "subjonctifPresent": [ "revaille", "revailles", "revaille", "revalions", "revaliez", "revaillent" ],
+  "subjonctifImparfait": [ "revalusse", "revalusses", "revalût", "revalussions", "revalussiez", "revalussent" ],
+  "subjonctifPasse": [ "aie revalu", "aies revalu", "ait revalu", "ayons revalu", "ayez revalu", "aient revalu" ],
+  "subjonctifPlusQueParfait": [ "eusse revalu", "eusses revalu", "eût revalu", "eussions revalu", "eussiez revalu", "eussent revalu" ],
+  "conditionnelPresent": [ "revaudrais", "revaudrais", "revaudrait", "revaudrions", "revaudriez", "revaudraient" ],
+  "conditionnelPasse": [ "aurais revalu", "aurais revalu", "aurait revalu", "aurions revalu", "auriez revalu", "auraient revalu" ],
+  "conditionnelPasseII": [ "eusse revalu", "eusses revalu", "eût revalu", "eussions revalu", "eussiez revalu", "eussent revalu" ],
+  "imperatif": [ "–", "revaux !", "–", "revalons !", "revalez !", "–" ],
+  "imperatifPasse": [ "–", "aie revalu !", "–", "ayons revalu !", "ayez revalu !", "–" ]
+}

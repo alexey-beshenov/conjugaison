@@ -1,0 +1,22 @@
+{
+  "infinitif": "se partager",
+  "participePresent": "se partageant",
+  "participePasse": "partagé",
+  "present": [ "me partage", "te partages", "se partage", "nous partageons", "vous partagez", "se partagent" ],
+  "imparfait": [ "me partageais", "te partageais", "se partageait", "nous partagions", "vous partagiez", "se partageaient" ],
+  "passeSimple": [ "me partageai", "te partageas", "se partagea", "nous partageâmes", "vous partageâtes", "se partagèrent" ],
+  "futurSimple": [ "me partagerai", "te partageras", "se partagera", "nous partagerons", "vous partagerez", "se partageront" ],
+  "passeCompose": [ "me suis partagé(e)", "t'es partagé(e)", "s'est partagé(e)", "nous sommes partagé(e)s", "vous êtes partagé(e)(s)", "se sont partagé(e)s" ],
+  "plusQueParfait": [ "m'étais partagé(e)", "t'étais partagé(e)", "s'était partagé(e)", "nous étions partagé(e)s", "vous étiez partagé(e)(s)", "s'étaient partagé(e)s" ],
+  "passeAnterieur": [ "me fus partagé(e)", "te fus partagé(e)", "se fut partagé(e)", "nous fûmes partagé(e)s", "vous fûtes partagé(e)(s)", "se furent partagé(e)s" ],
+  "futurAnterieur": [ "me serai partagé(e)", "te seras partagé(e)", "se sera partagé(e)", "nous serons partagé(e)s", "vous serez partagé(e)(s)", "se seront partagé(e)s" ],
+  "subjonctifPresent": [ "me partage", "te partages", "se partage", "nous partagions", "vous partagiez", "se partagent" ],
+  "subjonctifImparfait": [ "me partageasse", "te partageasses", "se partageât", "nous partageassions", "vous partageassiez", "se partageassent" ],
+  "subjonctifPasse": [ "me sois partagé(e)", "te sois partagé(e)", "se soit partagé(e)", "nous soyons partagé(e)s", "vous soyez partagé(e)(s)", "se soient partagé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse partagé(e)", "te fusses partagé(e)", "se fût partagé(e)", "nous fussions partagé(e)s", "vous fussiez partagé(e)(s)", "se fussent partagé(e)s" ],
+  "conditionnelPresent": [ "me partagerais", "te partagerais", "se partagerait", "nous partagerions", "vous partageriez", "se partageraient" ],
+  "conditionnelPasse": [ "me serais partagé(e)", "te serais partagé(e)", "se serait partagé(e)", "nous serions partagé(e)s", "vous seriez partagé(e)(s)", "se seraient partagé(e)s" ],
+  "conditionnelPasseII": [ "me fusse partagé(e)", "te fusses partagé(e)", "se fût partagé(e)", "nous fussions partagé(e)s", "vous fussiez partagé(e)(s)", "se fussent partagé(e)s" ],
+  "imperatif": [ "–", "partage-toi !", "–", "partageons-nous !", "partagez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

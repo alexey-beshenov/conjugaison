@@ -1,0 +1,22 @@
+{
+  "infinitif": "se boire",
+  "participePresent": "se buvant",
+  "participePasse": "bu",
+  "present": [ "me bois", "te bois", "se boit", "nous buvons", "vous buvez", "se boivent" ],
+  "imparfait": [ "me buvais", "te buvais", "se buvait", "nous buvions", "vous buviez", "se buvaient" ],
+  "passeSimple": [ "me bus", "te bus", "se but", "nous bûmes", "vous bûtes", "se burent" ],
+  "futurSimple": [ "me boirai", "te boiras", "se boira", "nous boirons", "vous boirez", "se boiront" ],
+  "passeCompose": [ "me suis bu(e)", "t'es bu(e)", "s'est bu(e)", "nous sommes bu(e)s", "vous êtes bu(e)(s)", "se sont bu(e)s" ],
+  "plusQueParfait": [ "m'étais bu(e)", "t'étais bu(e)", "s'était bu(e)", "nous étions bu(e)s", "vous étiez bu(e)(s)", "s'étaient bu(e)s" ],
+  "passeAnterieur": [ "me fus bu(e)", "te fus bu(e)", "se fut bu(e)", "nous fûmes bu(e)s", "vous fûtes bu(e)(s)", "se furent bu(e)s" ],
+  "futurAnterieur": [ "me serai bu(e)", "te seras bu(e)", "se sera bu(e)", "nous serons bu(e)s", "vous serez bu(e)(s)", "se seront bu(e)s" ],
+  "subjonctifPresent": [ "me boive", "te boives", "se boive", "nous buvions", "vous buviez", "se boivent" ],
+  "subjonctifImparfait": [ "me busse", "te busses", "se bût", "nous bussions", "vous bussiez", "se bussent" ],
+  "subjonctifPasse": [ "me sois bu(e)", "te sois bu(e)", "se soit bu(e)", "nous soyons bu(e)s", "vous soyez bu(e)(s)", "se soient bu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse bu(e)", "te fusses bu(e)", "se fût bu(e)", "nous fussions bu(e)s", "vous fussiez bu(e)(s)", "se fussent bu(e)s" ],
+  "conditionnelPresent": [ "me boirais", "te boirais", "se boirait", "nous boirions", "vous boiriez", "se boiraient" ],
+  "conditionnelPasse": [ "me serais bu(e)", "te serais bu(e)", "se serait bu(e)", "nous serions bu(e)s", "vous seriez bu(e)(s)", "se seraient bu(e)s" ],
+  "conditionnelPasseII": [ "me fusse bu(e)", "te fusses bu(e)", "se fût bu(e)", "nous fussions bu(e)s", "vous fussiez bu(e)(s)", "se fussent bu(e)s" ],
+  "imperatif": [ "–", "bois-toi !", "–", "buvons-nous !", "buvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

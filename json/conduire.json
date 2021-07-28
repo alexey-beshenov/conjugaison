@@ -1,0 +1,22 @@
+{
+  "infinitif": "conduire",
+  "participePresent": "conduisant",
+  "participePasse": "conduit",
+  "present": [ "conduis", "conduis", "conduit", "conduisons", "conduisez", "conduisent" ],
+  "imparfait": [ "conduisais", "conduisais", "conduisait", "conduisions", "conduisiez", "conduisaient" ],
+  "passeSimple": [ "conduisis", "conduisis", "conduisit", "conduisîmes", "conduisîtes", "conduisirent" ],
+  "futurSimple": [ "conduirai", "conduiras", "conduira", "conduirons", "conduirez", "conduiront" ],
+  "passeCompose": [ "ai conduit", "as conduit", "a conduit", "avons conduit", "avez conduit", "ont conduit" ],
+  "plusQueParfait": [ "avais conduit", "avais conduit", "avait conduit", "avions conduit", "aviez conduit", "avaient conduit" ],
+  "passeAnterieur": [ "eus conduit", "eus conduit", "eut conduit", "eûmes conduit", "eûtes conduit", "eurent conduit" ],
+  "futurAnterieur": [ "aurai conduit", "auras conduit", "aura conduit", "aurons conduit", "aurez conduit", "auront conduit" ],
+  "subjonctifPresent": [ "conduise", "conduises", "conduise", "conduisions", "conduisiez", "conduisent" ],
+  "subjonctifImparfait": [ "conduisisse", "conduisisses", "conduisît", "conduisissions", "conduisissiez", "conduisissent" ],
+  "subjonctifPasse": [ "aie conduit", "aies conduit", "ait conduit", "ayons conduit", "ayez conduit", "aient conduit" ],
+  "subjonctifPlusQueParfait": [ "eusse conduit", "eusses conduit", "eût conduit", "eussions conduit", "eussiez conduit", "eussent conduit" ],
+  "conditionnelPresent": [ "conduirais", "conduirais", "conduirait", "conduirions", "conduiriez", "conduiraient" ],
+  "conditionnelPasse": [ "aurais conduit", "aurais conduit", "aurait conduit", "aurions conduit", "auriez conduit", "auraient conduit" ],
+  "conditionnelPasseII": [ "eusse conduit", "eusses conduit", "eût conduit", "eussions conduit", "eussiez conduit", "eussent conduit" ],
+  "imperatif": [ "–", "conduis !", "–", "conduisons !", "conduisez !", "–" ],
+  "imperatifPasse": [ "–", "aie conduit !", "–", "ayons conduit !", "ayez conduit !", "–" ]
+}

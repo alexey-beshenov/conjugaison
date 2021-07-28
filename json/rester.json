@@ -1,0 +1,22 @@
+{
+  "infinitif": "rester",
+  "participePresent": "restant",
+  "participePasse": "resté",
+  "present": [ "reste", "restes", "reste", "restons", "restez", "restent" ],
+  "imparfait": [ "restais", "restais", "restait", "restions", "restiez", "restaient" ],
+  "passeSimple": [ "restai", "restas", "resta", "restâmes", "restâtes", "restèrent" ],
+  "futurSimple": [ "resterai", "resteras", "restera", "resterons", "resterez", "resteront" ],
+  "passeCompose": [ "suis resté(e)", "es resté(e)", "est resté(e)", "sommes resté(e)s", "êtes resté(e)(s)", "sont resté(e)s" ],
+  "plusQueParfait": [ "étais resté(e)", "étais resté(e)", "était resté(e)", "étions resté(e)s", "étiez resté(e)(s)", "étaient resté(e)s" ],
+  "passeAnterieur": [ "fus resté(e)", "fus resté(e)", "fut resté(e)", "fûmes resté(e)s", "fûtes resté(e)(s)", "furent resté(e)s" ],
+  "futurAnterieur": [ "serai resté(e)", "seras resté(e)", "sera resté(e)", "serons resté(e)s", "serez resté(e)(s)", "seront resté(e)s" ],
+  "subjonctifPresent": [ "reste", "restes", "reste", "restions", "restiez", "restent" ],
+  "subjonctifImparfait": [ "restasse", "restasses", "restât", "restassions", "restassiez", "restassent" ],
+  "subjonctifPasse": [ "sois resté(e)", "sois resté(e)", "soit resté(e)", "soyons resté(e)s", "soyez resté(e)(s)", "soient resté(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse resté(e)", "fusses resté(e)", "fût resté(e)", "fussions resté(e)s", "fussiez resté(e)(s)", "fussent resté(e)s" ],
+  "conditionnelPresent": [ "resterais", "resterais", "resterait", "resterions", "resteriez", "resteraient" ],
+  "conditionnelPasse": [ "serais resté(e)", "serais resté(e)", "serait resté(e)", "serions resté(e)s", "seriez resté(e)(s)", "seraient resté(e)s" ],
+  "conditionnelPasseII": [ "fusse resté(e)", "fusses resté(e)", "fût resté(e)", "fussions resté(e)s", "fussiez resté(e)(s)", "fussent resté(e)s" ],
+  "imperatif": [ "–", "reste !", "–", "restons !", "restez !", "–" ],
+  "imperatifPasse": [ "–", "sois resté(e) !", "–", "soyons resté(e)s !", "soyez resté(e)(s) !", "–" ]
+}

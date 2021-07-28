@@ -1,0 +1,22 @@
+{
+  "infinitif": "se surveiller",
+  "participePresent": "se surveillant",
+  "participePasse": "surveillé",
+  "present": [ "me surveille", "te surveilles", "se surveille", "nous surveillons", "vous surveillez", "se surveillent" ],
+  "imparfait": [ "me surveillais", "te surveillais", "se surveillait", "nous surveillions", "vous surveilliez", "se surveillaient" ],
+  "passeSimple": [ "me surveillai", "te surveillas", "se surveilla", "nous surveillâmes", "vous surveillâtes", "se surveillèrent" ],
+  "futurSimple": [ "me surveillerai", "te surveilleras", "se surveillera", "nous surveillerons", "vous surveillerez", "se surveilleront" ],
+  "passeCompose": [ "me suis surveillé(e)", "t'es surveillé(e)", "s'est surveillé(e)", "nous sommes surveillé(e)s", "vous êtes surveillé(e)(s)", "se sont surveillé(e)s" ],
+  "plusQueParfait": [ "m'étais surveillé(e)", "t'étais surveillé(e)", "s'était surveillé(e)", "nous étions surveillé(e)s", "vous étiez surveillé(e)(s)", "s'étaient surveillé(e)s" ],
+  "passeAnterieur": [ "me fus surveillé(e)", "te fus surveillé(e)", "se fut surveillé(e)", "nous fûmes surveillé(e)s", "vous fûtes surveillé(e)(s)", "se furent surveillé(e)s" ],
+  "futurAnterieur": [ "me serai surveillé(e)", "te seras surveillé(e)", "se sera surveillé(e)", "nous serons surveillé(e)s", "vous serez surveillé(e)(s)", "se seront surveillé(e)s" ],
+  "subjonctifPresent": [ "me surveille", "te surveilles", "se surveille", "nous surveillions", "vous surveilliez", "se surveillent" ],
+  "subjonctifImparfait": [ "me surveillasse", "te surveillasses", "se surveillât", "nous surveillassions", "vous surveillassiez", "se surveillassent" ],
+  "subjonctifPasse": [ "me sois surveillé(e)", "te sois surveillé(e)", "se soit surveillé(e)", "nous soyons surveillé(e)s", "vous soyez surveillé(e)(s)", "se soient surveillé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse surveillé(e)", "te fusses surveillé(e)", "se fût surveillé(e)", "nous fussions surveillé(e)s", "vous fussiez surveillé(e)(s)", "se fussent surveillé(e)s" ],
+  "conditionnelPresent": [ "me surveillerais", "te surveillerais", "se surveillerait", "nous surveillerions", "vous surveilleriez", "se surveilleraient" ],
+  "conditionnelPasse": [ "me serais surveillé(e)", "te serais surveillé(e)", "se serait surveillé(e)", "nous serions surveillé(e)s", "vous seriez surveillé(e)(s)", "se seraient surveillé(e)s" ],
+  "conditionnelPasseII": [ "me fusse surveillé(e)", "te fusses surveillé(e)", "se fût surveillé(e)", "nous fussions surveillé(e)s", "vous fussiez surveillé(e)(s)", "se fussent surveillé(e)s" ],
+  "imperatif": [ "–", "surveille-toi !", "–", "surveillons-nous !", "surveillez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

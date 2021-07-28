@@ -1,0 +1,22 @@
+{
+  "infinitif": "se vêtir",
+  "participePresent": "se vêtant",
+  "participePasse": "vêtu",
+  "present": [ "me vêts", "te vêts", "se vêt", "nous vêtons", "vous vêtez", "se vêtent" ],
+  "imparfait": [ "me vêtais", "te vêtais", "se vêtait", "nous vêtions", "vous vêtiez", "se vêtaient" ],
+  "passeSimple": [ "me vêtis", "te vêtis", "se vêtit", "nous vêtîmes", "vous vêtîtes", "se vêtirent" ],
+  "futurSimple": [ "me vêtirai", "te vêtiras", "se vêtira", "nous vêtirons", "vous vêtirez", "se vêtiront" ],
+  "passeCompose": [ "me suis vêtu(e)", "t'es vêtu(e)", "s'est vêtu(e)", "nous sommes vêtu(e)s", "vous êtes vêtu(e)(s)", "se sont vêtu(e)s" ],
+  "plusQueParfait": [ "m'étais vêtu(e)", "t'étais vêtu(e)", "s'était vêtu(e)", "nous étions vêtu(e)s", "vous étiez vêtu(e)(s)", "s'étaient vêtu(e)s" ],
+  "passeAnterieur": [ "me fus vêtu(e)", "te fus vêtu(e)", "se fut vêtu(e)", "nous fûmes vêtu(e)s", "vous fûtes vêtu(e)(s)", "se furent vêtu(e)s" ],
+  "futurAnterieur": [ "me serai vêtu(e)", "te seras vêtu(e)", "se sera vêtu(e)", "nous serons vêtu(e)s", "vous serez vêtu(e)(s)", "se seront vêtu(e)s" ],
+  "subjonctifPresent": [ "me vête", "te vêtes", "se vête", "nous vêtions", "vous vêtiez", "se vêtent" ],
+  "subjonctifImparfait": [ "me vêtisse", "te vêtisses", "se vêtît", "nous vêtissions", "vous vêtissiez", "se vêtissent" ],
+  "subjonctifPasse": [ "me sois vêtu(e)", "te sois vêtu(e)", "se soit vêtu(e)", "nous soyons vêtu(e)s", "vous soyez vêtu(e)(s)", "se soient vêtu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse vêtu(e)", "te fusses vêtu(e)", "se fût vêtu(e)", "nous fussions vêtu(e)s", "vous fussiez vêtu(e)(s)", "se fussent vêtu(e)s" ],
+  "conditionnelPresent": [ "me vêtirais", "te vêtirais", "se vêtirait", "nous vêtirions", "vous vêtiriez", "se vêtiraient" ],
+  "conditionnelPasse": [ "me serais vêtu(e)", "te serais vêtu(e)", "se serait vêtu(e)", "nous serions vêtu(e)s", "vous seriez vêtu(e)(s)", "se seraient vêtu(e)s" ],
+  "conditionnelPasseII": [ "me fusse vêtu(e)", "te fusses vêtu(e)", "se fût vêtu(e)", "nous fussions vêtu(e)s", "vous fussiez vêtu(e)(s)", "se fussent vêtu(e)s" ],
+  "imperatif": [ "–", "vêts-toi !", "–", "vêtons-nous !", "vêtez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

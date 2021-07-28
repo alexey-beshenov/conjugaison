@@ -1,0 +1,22 @@
+{
+  "infinitif": "être",
+  "participePresent": "étant",
+  "participePasse": "été",
+  "present": [ "suis", "es", "est", "sommes", "êtes", "sont" ],
+  "imparfait": [ "étais", "étais", "était", "étions", "étiez", "étaient" ],
+  "passeSimple": [ "fus", "fus", "fut", "fûmes", "fûtes", "furent" ],
+  "futurSimple": [ "serai", "seras", "sera", "serons", "serez", "seront" ],
+  "passeCompose": [ "ai été", "as été", "a été", "avons été", "avez été", "ont été" ],
+  "plusQueParfait": [ "avais été", "avais été", "avait été", "avions été", "aviez été", "avaient été" ],
+  "passeAnterieur": [ "eus été", "eus été", "eut été", "eûmes été", "eûtes été", "eurent été" ],
+  "futurAnterieur": [ "aurai été", "auras été", "aura été", "aurons été", "aurez été", "auront été" ],
+  "subjonctifPresent": [ "sois", "sois", "soit", "soyons", "soyez", "soient" ],
+  "subjonctifImparfait": [ "fusse", "fusses", "fût", "fussions", "fussiez", "fussent" ],
+  "subjonctifPasse": [ "aie été", "aies été", "ait été", "ayons été", "ayez été", "aient été" ],
+  "subjonctifPlusQueParfait": [ "eusse été", "eusses été", "eût été", "eussions été", "eussiez été", "eussent été" ],
+  "conditionnelPresent": [ "serais", "serais", "serait", "serions", "seriez", "seraient" ],
+  "conditionnelPasse": [ "aurais été", "aurais été", "aurait été", "aurions été", "auriez été", "auraient été" ],
+  "conditionnelPasseII": [ "eusse été", "eusses été", "eût été", "eussions été", "eussiez été", "eussent été" ],
+  "imperatif": [ "–", "sois !", "–", "soyons !", "soyez !", "–" ],
+  "imperatifPasse": [ "–", "aie été !", "–", "ayons été !", "ayez été !", "–" ]
+}

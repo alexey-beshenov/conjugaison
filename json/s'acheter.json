@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'acheter",
+  "participePresent": "s'achetant",
+  "participePasse": "acheté",
+  "present": [ "m'achète", "t'achètes", "s'achète", "nous achetons", "vous achetez", "s'achètent" ],
+  "imparfait": [ "m'achetais", "t'achetais", "s'achetait", "nous achetions", "vous achetiez", "s'achetaient" ],
+  "passeSimple": [ "m'achetai", "t'achetas", "s'acheta", "nous achetâmes", "vous achetâtes", "s'achetèrent" ],
+  "futurSimple": [ "m'achèterai", "t'achèteras", "s'achètera", "nous achèterons", "vous achèterez", "s'achèteront" ],
+  "passeCompose": [ "me suis acheté", "t'es acheté", "s'est acheté", "nous sommes acheté", "vous êtes acheté", "se sont acheté" ],
+  "plusQueParfait": [ "m'étais acheté", "t'étais acheté", "s'était acheté", "nous étions acheté", "vous étiez acheté", "s'étaient acheté" ],
+  "passeAnterieur": [ "me fus acheté", "te fus acheté", "se fut acheté", "nous fûmes acheté", "vous fûtes acheté", "se furent acheté" ],
+  "futurAnterieur": [ "me serai acheté", "te seras acheté", "se sera acheté", "nous serons acheté", "vous serez acheté", "se seront acheté" ],
+  "subjonctifPresent": [ "m'achète", "t'achètes", "s'achète", "nous achetions", "vous achetiez", "s'achètent" ],
+  "subjonctifImparfait": [ "m'achetasse", "t'achetasses", "s'achetât", "nous achetassions", "vous achetassiez", "s'achetassent" ],
+  "subjonctifPasse": [ "me sois acheté", "te sois acheté", "se soit acheté", "nous soyons acheté", "vous soyez acheté", "se soient acheté" ],
+  "subjonctifPlusQueParfait": [ "me fusse acheté", "te fusses acheté", "se fût acheté", "nous fussions acheté", "vous fussiez acheté", "se fussent acheté" ],
+  "conditionnelPresent": [ "m'achèterais", "t'achèterais", "s'achèterait", "nous achèterions", "vous achèteriez", "s'achèteraient" ],
+  "conditionnelPasse": [ "me serais acheté", "te serais acheté", "se serait acheté", "nous serions acheté", "vous seriez acheté", "se seraient acheté" ],
+  "conditionnelPasseII": [ "me fusse acheté", "te fusses acheté", "se fût acheté", "nous fussions acheté", "vous fussiez acheté", "se fussent acheté" ],
+  "imperatif": [ "–", "achète-toi !", "–", "achetons-nous !", "achetez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

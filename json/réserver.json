@@ -1,0 +1,22 @@
+{
+  "infinitif": "réserver",
+  "participePresent": "réservant",
+  "participePasse": "réservé",
+  "present": [ "réserve", "réserves", "réserve", "réservons", "réservez", "réservent" ],
+  "imparfait": [ "réservais", "réservais", "réservait", "réservions", "réserviez", "réservaient" ],
+  "passeSimple": [ "réservai", "réservas", "réserva", "réservâmes", "réservâtes", "réservèrent" ],
+  "futurSimple": [ "réserverai", "réserveras", "réservera", "réserverons", "réserverez", "réserveront" ],
+  "passeCompose": [ "ai réservé", "as réservé", "a réservé", "avons réservé", "avez réservé", "ont réservé" ],
+  "plusQueParfait": [ "avais réservé", "avais réservé", "avait réservé", "avions réservé", "aviez réservé", "avaient réservé" ],
+  "passeAnterieur": [ "eus réservé", "eus réservé", "eut réservé", "eûmes réservé", "eûtes réservé", "eurent réservé" ],
+  "futurAnterieur": [ "aurai réservé", "auras réservé", "aura réservé", "aurons réservé", "aurez réservé", "auront réservé" ],
+  "subjonctifPresent": [ "réserve", "réserves", "réserve", "réservions", "réserviez", "réservent" ],
+  "subjonctifImparfait": [ "réservasse", "réservasses", "réservât", "réservassions", "réservassiez", "réservassent" ],
+  "subjonctifPasse": [ "aie réservé", "aies réservé", "ait réservé", "ayons réservé", "ayez réservé", "aient réservé" ],
+  "subjonctifPlusQueParfait": [ "eusse réservé", "eusses réservé", "eût réservé", "eussions réservé", "eussiez réservé", "eussent réservé" ],
+  "conditionnelPresent": [ "réserverais", "réserverais", "réserverait", "réserverions", "réserveriez", "réserveraient" ],
+  "conditionnelPasse": [ "aurais réservé", "aurais réservé", "aurait réservé", "aurions réservé", "auriez réservé", "auraient réservé" ],
+  "conditionnelPasseII": [ "eusse réservé", "eusses réservé", "eût réservé", "eussions réservé", "eussiez réservé", "eussent réservé" ],
+  "imperatif": [ "–", "réserve !", "–", "réservons !", "réservez !", "–" ],
+  "imperatifPasse": [ "–", "aie réservé !", "–", "ayons réservé !", "ayez réservé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se retourner",
+  "participePresent": "se retournant",
+  "participePasse": "retourné",
+  "present": [ "me retourne", "te retournes", "se retourne", "nous retournons", "vous retournez", "se retournent" ],
+  "imparfait": [ "me retournais", "te retournais", "se retournait", "nous retournions", "vous retourniez", "se retournaient" ],
+  "passeSimple": [ "me retournai", "te retournas", "se retourna", "nous retournâmes", "vous retournâtes", "se retournèrent" ],
+  "futurSimple": [ "me retournerai", "te retourneras", "se retournera", "nous retournerons", "vous retournerez", "se retourneront" ],
+  "passeCompose": [ "me suis retourné(e)", "t'es retourné(e)", "s'est retourné(e)", "nous sommes retourné(e)s", "vous êtes retourné(e)(s)", "se sont retourné(e)s" ],
+  "plusQueParfait": [ "m'étais retourné(e)", "t'étais retourné(e)", "s'était retourné(e)", "nous étions retourné(e)s", "vous étiez retourné(e)(s)", "s'étaient retourné(e)s" ],
+  "passeAnterieur": [ "me fus retourné(e)", "te fus retourné(e)", "se fut retourné(e)", "nous fûmes retourné(e)s", "vous fûtes retourné(e)(s)", "se furent retourné(e)s" ],
+  "futurAnterieur": [ "me serai retourné(e)", "te seras retourné(e)", "se sera retourné(e)", "nous serons retourné(e)s", "vous serez retourné(e)(s)", "se seront retourné(e)s" ],
+  "subjonctifPresent": [ "me retourne", "te retournes", "se retourne", "nous retournions", "vous retourniez", "se retournent" ],
+  "subjonctifImparfait": [ "me retournasse", "te retournasses", "se retournât", "nous retournassions", "vous retournassiez", "se retournassent" ],
+  "subjonctifPasse": [ "me sois retourné(e)", "te sois retourné(e)", "se soit retourné(e)", "nous soyons retourné(e)s", "vous soyez retourné(e)(s)", "se soient retourné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse retourné(e)", "te fusses retourné(e)", "se fût retourné(e)", "nous fussions retourné(e)s", "vous fussiez retourné(e)(s)", "se fussent retourné(e)s" ],
+  "conditionnelPresent": [ "me retournerais", "te retournerais", "se retournerait", "nous retournerions", "vous retourneriez", "se retourneraient" ],
+  "conditionnelPasse": [ "me serais retourné(e)", "te serais retourné(e)", "se serait retourné(e)", "nous serions retourné(e)s", "vous seriez retourné(e)(s)", "se seraient retourné(e)s" ],
+  "conditionnelPasseII": [ "me fusse retourné(e)", "te fusses retourné(e)", "se fût retourné(e)", "nous fussions retourné(e)s", "vous fussiez retourné(e)(s)", "se fussent retourné(e)s" ],
+  "imperatif": [ "–", "retourne-toi !", "–", "retournons-nous !", "retournez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

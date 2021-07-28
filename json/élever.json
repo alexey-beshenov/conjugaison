@@ -1,0 +1,22 @@
+{
+  "infinitif": "élever",
+  "participePresent": "élevant",
+  "participePasse": "élevé",
+  "present": [ "élève", "élèves", "élève", "élevons", "élevez", "élèvent" ],
+  "imparfait": [ "élevais", "élevais", "élevait", "élevions", "éleviez", "élevaient" ],
+  "passeSimple": [ "élevai", "élevas", "éleva", "élevâmes", "élevâtes", "élevèrent" ],
+  "futurSimple": [ "élèverai", "élèveras", "élèvera", "élèverons", "élèverez", "élèveront" ],
+  "passeCompose": [ "ai élevé", "as élevé", "a élevé", "avons élevé", "avez élevé", "ont élevé" ],
+  "plusQueParfait": [ "avais élevé", "avais élevé", "avait élevé", "avions élevé", "aviez élevé", "avaient élevé" ],
+  "passeAnterieur": [ "eus élevé", "eus élevé", "eut élevé", "eûmes élevé", "eûtes élevé", "eurent élevé" ],
+  "futurAnterieur": [ "aurai élevé", "auras élevé", "aura élevé", "aurons élevé", "aurez élevé", "auront élevé" ],
+  "subjonctifPresent": [ "élève", "élèves", "élève", "élevions", "éleviez", "élèvent" ],
+  "subjonctifImparfait": [ "élevasse", "élevasses", "élevât", "élevassions", "élevassiez", "élevassent" ],
+  "subjonctifPasse": [ "aie élevé", "aies élevé", "ait élevé", "ayons élevé", "ayez élevé", "aient élevé" ],
+  "subjonctifPlusQueParfait": [ "eusse élevé", "eusses élevé", "eût élevé", "eussions élevé", "eussiez élevé", "eussent élevé" ],
+  "conditionnelPresent": [ "élèverais", "élèverais", "élèverait", "élèverions", "élèveriez", "élèveraient" ],
+  "conditionnelPasse": [ "aurais élevé", "aurais élevé", "aurait élevé", "aurions élevé", "auriez élevé", "auraient élevé" ],
+  "conditionnelPasseII": [ "eusse élevé", "eusses élevé", "eût élevé", "eussions élevé", "eussiez élevé", "eussent élevé" ],
+  "imperatif": [ "–", "élève !", "–", "élevons !", "élevez !", "–" ],
+  "imperatifPasse": [ "–", "aie élevé !", "–", "ayons élevé !", "ayez élevé !", "–" ]
+}

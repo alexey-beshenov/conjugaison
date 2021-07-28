@@ -1,0 +1,22 @@
+{
+  "infinitif": "souffler",
+  "participePresent": "soufflant",
+  "participePasse": "soufflé",
+  "present": [ "souffle", "souffles", "souffle", "soufflons", "soufflez", "soufflent" ],
+  "imparfait": [ "soufflais", "soufflais", "soufflait", "soufflions", "souffliez", "soufflaient" ],
+  "passeSimple": [ "soufflai", "soufflas", "souffla", "soufflâmes", "soufflâtes", "soufflèrent" ],
+  "futurSimple": [ "soufflerai", "souffleras", "soufflera", "soufflerons", "soufflerez", "souffleront" ],
+  "passeCompose": [ "ai soufflé", "as soufflé", "a soufflé", "avons soufflé", "avez soufflé", "ont soufflé" ],
+  "plusQueParfait": [ "avais soufflé", "avais soufflé", "avait soufflé", "avions soufflé", "aviez soufflé", "avaient soufflé" ],
+  "passeAnterieur": [ "eus soufflé", "eus soufflé", "eut soufflé", "eûmes soufflé", "eûtes soufflé", "eurent soufflé" ],
+  "futurAnterieur": [ "aurai soufflé", "auras soufflé", "aura soufflé", "aurons soufflé", "aurez soufflé", "auront soufflé" ],
+  "subjonctifPresent": [ "souffle", "souffles", "souffle", "soufflions", "souffliez", "soufflent" ],
+  "subjonctifImparfait": [ "soufflasse", "soufflasses", "soufflât", "soufflassions", "soufflassiez", "soufflassent" ],
+  "subjonctifPasse": [ "aie soufflé", "aies soufflé", "ait soufflé", "ayons soufflé", "ayez soufflé", "aient soufflé" ],
+  "subjonctifPlusQueParfait": [ "eusse soufflé", "eusses soufflé", "eût soufflé", "eussions soufflé", "eussiez soufflé", "eussent soufflé" ],
+  "conditionnelPresent": [ "soufflerais", "soufflerais", "soufflerait", "soufflerions", "souffleriez", "souffleraient" ],
+  "conditionnelPasse": [ "aurais soufflé", "aurais soufflé", "aurait soufflé", "aurions soufflé", "auriez soufflé", "auraient soufflé" ],
+  "conditionnelPasseII": [ "eusse soufflé", "eusses soufflé", "eût soufflé", "eussions soufflé", "eussiez soufflé", "eussent soufflé" ],
+  "imperatif": [ "–", "souffle !", "–", "soufflons !", "soufflez !", "–" ],
+  "imperatifPasse": [ "–", "aie soufflé !", "–", "ayons soufflé !", "ayez soufflé !", "–" ]
+}

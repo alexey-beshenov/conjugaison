@@ -1,0 +1,22 @@
+{
+  "infinitif": "envelopper",
+  "participePresent": "enveloppant",
+  "participePasse": "enveloppé",
+  "present": [ "enveloppe", "enveloppes", "enveloppe", "enveloppons", "enveloppez", "enveloppent" ],
+  "imparfait": [ "enveloppais", "enveloppais", "enveloppait", "enveloppions", "enveloppiez", "enveloppaient" ],
+  "passeSimple": [ "enveloppai", "enveloppas", "enveloppa", "enveloppâmes", "enveloppâtes", "enveloppèrent" ],
+  "futurSimple": [ "envelopperai", "envelopperas", "enveloppera", "envelopperons", "envelopperez", "envelopperont" ],
+  "passeCompose": [ "ai enveloppé", "as enveloppé", "a enveloppé", "avons enveloppé", "avez enveloppé", "ont enveloppé" ],
+  "plusQueParfait": [ "avais enveloppé", "avais enveloppé", "avait enveloppé", "avions enveloppé", "aviez enveloppé", "avaient enveloppé" ],
+  "passeAnterieur": [ "eus enveloppé", "eus enveloppé", "eut enveloppé", "eûmes enveloppé", "eûtes enveloppé", "eurent enveloppé" ],
+  "futurAnterieur": [ "aurai enveloppé", "auras enveloppé", "aura enveloppé", "aurons enveloppé", "aurez enveloppé", "auront enveloppé" ],
+  "subjonctifPresent": [ "enveloppe", "enveloppes", "enveloppe", "enveloppions", "enveloppiez", "enveloppent" ],
+  "subjonctifImparfait": [ "enveloppasse", "enveloppasses", "enveloppât", "enveloppassions", "enveloppassiez", "enveloppassent" ],
+  "subjonctifPasse": [ "aie enveloppé", "aies enveloppé", "ait enveloppé", "ayons enveloppé", "ayez enveloppé", "aient enveloppé" ],
+  "subjonctifPlusQueParfait": [ "eusse enveloppé", "eusses enveloppé", "eût enveloppé", "eussions enveloppé", "eussiez enveloppé", "eussent enveloppé" ],
+  "conditionnelPresent": [ "envelopperais", "envelopperais", "envelopperait", "envelopperions", "envelopperiez", "envelopperaient" ],
+  "conditionnelPasse": [ "aurais enveloppé", "aurais enveloppé", "aurait enveloppé", "aurions enveloppé", "auriez enveloppé", "auraient enveloppé" ],
+  "conditionnelPasseII": [ "eusse enveloppé", "eusses enveloppé", "eût enveloppé", "eussions enveloppé", "eussiez enveloppé", "eussent enveloppé" ],
+  "imperatif": [ "–", "enveloppe !", "–", "enveloppons !", "enveloppez !", "–" ],
+  "imperatifPasse": [ "–", "aie enveloppé !", "–", "ayons enveloppé !", "ayez enveloppé !", "–" ]
+}

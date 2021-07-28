@@ -1,0 +1,22 @@
+{
+  "infinitif": "émoudre",
+  "participePresent": "émoulant",
+  "participePasse": "émoulu",
+  "present": [ "émouds", "émouds", "émoud", "émoulons", "émoulez", "émoulent" ],
+  "imparfait": [ "émoulais", "émoulais", "émoulait", "émoulions", "émouliez", "émoulaient" ],
+  "passeSimple": [ "émoulus", "émoulus", "émoulut", "émoulûmes", "émoulûtes", "émoulurent" ],
+  "futurSimple": [ "émoudrai", "émoudras", "émoudra", "émoudrons", "émoudrez", "émoudront" ],
+  "passeCompose": [ "ai émoulu", "as émoulu", "a émoulu", "avons émoulu", "avez émoulu", "ont émoulu" ],
+  "plusQueParfait": [ "avais émoulu", "avais émoulu", "avait émoulu", "avions émoulu", "aviez émoulu", "avaient émoulu" ],
+  "passeAnterieur": [ "eus émoulu", "eus émoulu", "eut émoulu", "eûmes émoulu", "eûtes émoulu", "eurent émoulu" ],
+  "futurAnterieur": [ "aurai émoulu", "auras émoulu", "aura émoulu", "aurons émoulu", "aurez émoulu", "auront émoulu" ],
+  "subjonctifPresent": [ "émoule", "émoules", "émoule", "émoulions", "émouliez", "émoulent" ],
+  "subjonctifImparfait": [ "émoulusse", "émoulusses", "émoulût", "émoulussions", "émoulussiez", "émoulussent" ],
+  "subjonctifPasse": [ "aie émoulu", "aies émoulu", "ait émoulu", "ayons émoulu", "ayez émoulu", "aient émoulu" ],
+  "subjonctifPlusQueParfait": [ "eusse émoulu", "eusses émoulu", "eût émoulu", "eussions émoulu", "eussiez émoulu", "eussent émoulu" ],
+  "conditionnelPresent": [ "émoudrais", "émoudrais", "émoudrait", "émoudrions", "émoudriez", "émoudraient" ],
+  "conditionnelPasse": [ "aurais émoulu", "aurais émoulu", "aurait émoulu", "aurions émoulu", "auriez émoulu", "auraient émoulu" ],
+  "conditionnelPasseII": [ "eusse émoulu", "eusses émoulu", "eût émoulu", "eussions émoulu", "eussiez émoulu", "eussent émoulu" ],
+  "imperatif": [ "–", "émouds !", "–", "émoulons !", "émoulez !", "–" ],
+  "imperatifPasse": [ "–", "aie émoulu !", "–", "ayons émoulu !", "ayez émoulu !", "–" ]
+}

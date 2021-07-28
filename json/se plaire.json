@@ -1,0 +1,22 @@
+{
+  "infinitif": "se plaire",
+  "participePresent": "se plaisant",
+  "participePasse": "plu",
+  "present": [ "me plais", "te plais", "se plaît", "nous plaisons", "vous plaisez", "se plaisent" ],
+  "imparfait": [ "me plaisais", "te plaisais", "se plaisait", "nous plaisions", "vous plaisiez", "se plaisaient" ],
+  "passeSimple": [ "me plus", "te plus", "se plut", "nous plûmes", "vous plûtes", "se plurent" ],
+  "futurSimple": [ "me plairai", "te plairas", "se plaira", "nous plairons", "vous plairez", "se plairont" ],
+  "passeCompose": [ "me suis plu", "t'es plu", "s'est plu", "nous sommes plu", "vous êtes plu", "se sont plu" ],
+  "plusQueParfait": [ "m'étais plu", "t'étais plu", "s'était plu", "nous étions plu", "vous étiez plu", "s'étaient plu" ],
+  "passeAnterieur": [ "me fus plu", "te fus plu", "se fut plu", "nous fûmes plu", "vous fûtes plu", "se furent plu" ],
+  "futurAnterieur": [ "me serai plu", "te seras plu", "se sera plu", "nous serons plu", "vous serez plu", "se seront plu" ],
+  "subjonctifPresent": [ "me plaise", "te plaises", "se plaise", "nous plaisions", "vous plaisiez", "se plaisent" ],
+  "subjonctifImparfait": [ "me plusse", "te plusses", "se plût", "nous plussions", "vous plussiez", "se plussent" ],
+  "subjonctifPasse": [ "me sois plu", "te sois plu", "se soit plu", "nous soyons plu", "vous soyez plu", "se soient plu" ],
+  "subjonctifPlusQueParfait": [ "me fusse plu", "te fusses plu", "se fût plu", "nous fussions plu", "vous fussiez plu", "se fussent plu" ],
+  "conditionnelPresent": [ "me plairais", "te plairais", "se plairait", "nous plairions", "vous plairiez", "se plairaient" ],
+  "conditionnelPasse": [ "me serais plu", "te serais plu", "se serait plu", "nous serions plu", "vous seriez plu", "se seraient plu" ],
+  "conditionnelPasseII": [ "me fusse plu", "te fusses plu", "se fût plu", "nous fussions plu", "vous fussiez plu", "se fussent plu" ],
+  "imperatif": [ "–", "plais-toi !", "–", "plaisons-nous !", "plaisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se convaincre",
+  "participePresent": "se convainquant",
+  "participePasse": "convaincu",
+  "present": [ "me convaincs", "te convaincs", "se convainc", "nous convainquons", "vous convainquez", "se convainquent" ],
+  "imparfait": [ "me convainquais", "te convainquais", "se convainquait", "nous convainquions", "vous convainquiez", "se convainquaient" ],
+  "passeSimple": [ "me convainquis", "te convainquis", "se convainquit", "nous convainquîmes", "vous convainquîtes", "se convainquirent" ],
+  "futurSimple": [ "me convaincrai", "te convaincras", "se convaincra", "nous convaincrons", "vous convaincrez", "se convaincront" ],
+  "passeCompose": [ "me suis convaincu(e)", "t'es convaincu(e)", "s'est convaincu(e)", "nous sommes convaincu(e)s", "vous êtes convaincu(e)(s)", "se sont convaincu(e)s" ],
+  "plusQueParfait": [ "m'étais convaincu(e)", "t'étais convaincu(e)", "s'était convaincu(e)", "nous étions convaincu(e)s", "vous étiez convaincu(e)(s)", "s'étaient convaincu(e)s" ],
+  "passeAnterieur": [ "me fus convaincu(e)", "te fus convaincu(e)", "se fut convaincu(e)", "nous fûmes convaincu(e)s", "vous fûtes convaincu(e)(s)", "se furent convaincu(e)s" ],
+  "futurAnterieur": [ "me serai convaincu(e)", "te seras convaincu(e)", "se sera convaincu(e)", "nous serons convaincu(e)s", "vous serez convaincu(e)(s)", "se seront convaincu(e)s" ],
+  "subjonctifPresent": [ "me convainque", "te convainques", "se convainque", "nous convainquions", "vous convainquiez", "se convainquent" ],
+  "subjonctifImparfait": [ "me convainquisse", "te convainquisses", "se convainquît", "nous convainquissions", "vous convainquissiez", "se convainquissent" ],
+  "subjonctifPasse": [ "me sois convaincu(e)", "te sois convaincu(e)", "se soit convaincu(e)", "nous soyons convaincu(e)s", "vous soyez convaincu(e)(s)", "se soient convaincu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse convaincu(e)", "te fusses convaincu(e)", "se fût convaincu(e)", "nous fussions convaincu(e)s", "vous fussiez convaincu(e)(s)", "se fussent convaincu(e)s" ],
+  "conditionnelPresent": [ "me convaincrais", "te convaincrais", "se convaincrait", "nous convaincrions", "vous convaincriez", "se convaincraient" ],
+  "conditionnelPasse": [ "me serais convaincu(e)", "te serais convaincu(e)", "se serait convaincu(e)", "nous serions convaincu(e)s", "vous seriez convaincu(e)(s)", "se seraient convaincu(e)s" ],
+  "conditionnelPasseII": [ "me fusse convaincu(e)", "te fusses convaincu(e)", "se fût convaincu(e)", "nous fussions convaincu(e)s", "vous fussiez convaincu(e)(s)", "se fussent convaincu(e)s" ],
+  "imperatif": [ "–", "convaincs-toi !", "–", "convainquons-nous !", "convainquez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se copier",
+  "participePresent": "se copiant",
+  "participePasse": "copié",
+  "present": [ "me copie", "te copies", "se copie", "nous copions", "vous copiez", "se copient" ],
+  "imparfait": [ "me copiais", "te copiais", "se copiait", "nous copiions", "vous copiiez", "se copiaient" ],
+  "passeSimple": [ "me copiai", "te copias", "se copia", "nous copiâmes", "vous copiâtes", "se copièrent" ],
+  "futurSimple": [ "me copierai", "te copieras", "se copiera", "nous copierons", "vous copierez", "se copieront" ],
+  "passeCompose": [ "me suis copié(e)", "t'es copié(e)", "s'est copié(e)", "nous sommes copié(e)s", "vous êtes copié(e)(s)", "se sont copié(e)s" ],
+  "plusQueParfait": [ "m'étais copié(e)", "t'étais copié(e)", "s'était copié(e)", "nous étions copié(e)s", "vous étiez copié(e)(s)", "s'étaient copié(e)s" ],
+  "passeAnterieur": [ "me fus copié(e)", "te fus copié(e)", "se fut copié(e)", "nous fûmes copié(e)s", "vous fûtes copié(e)(s)", "se furent copié(e)s" ],
+  "futurAnterieur": [ "me serai copié(e)", "te seras copié(e)", "se sera copié(e)", "nous serons copié(e)s", "vous serez copié(e)(s)", "se seront copié(e)s" ],
+  "subjonctifPresent": [ "me copie", "te copies", "se copie", "nous copiions", "vous copiiez", "se copient" ],
+  "subjonctifImparfait": [ "me copiasse", "te copiasses", "se copiât", "nous copiassions", "vous copiassiez", "se copiassent" ],
+  "subjonctifPasse": [ "me sois copié(e)", "te sois copié(e)", "se soit copié(e)", "nous soyons copié(e)s", "vous soyez copié(e)(s)", "se soient copié(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse copié(e)", "te fusses copié(e)", "se fût copié(e)", "nous fussions copié(e)s", "vous fussiez copié(e)(s)", "se fussent copié(e)s" ],
+  "conditionnelPresent": [ "me copierais", "te copierais", "se copierait", "nous copierions", "vous copieriez", "se copieraient" ],
+  "conditionnelPasse": [ "me serais copié(e)", "te serais copié(e)", "se serait copié(e)", "nous serions copié(e)s", "vous seriez copié(e)(s)", "se seraient copié(e)s" ],
+  "conditionnelPasseII": [ "me fusse copié(e)", "te fusses copié(e)", "se fût copié(e)", "nous fussions copié(e)s", "vous fussiez copié(e)(s)", "se fussent copié(e)s" ],
+  "imperatif": [ "–", "copie-toi !", "–", "copions-nous !", "copiez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

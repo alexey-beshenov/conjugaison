@@ -1,0 +1,22 @@
+{
+  "infinitif": "se détacher",
+  "participePresent": "se détachant",
+  "participePasse": "détaché",
+  "present": [ "me détache", "te détaches", "se détache", "nous détachons", "vous détachez", "se détachent" ],
+  "imparfait": [ "me détachais", "te détachais", "se détachait", "nous détachions", "vous détachiez", "se détachaient" ],
+  "passeSimple": [ "me détachai", "te détachas", "se détacha", "nous détachâmes", "vous détachâtes", "se détachèrent" ],
+  "futurSimple": [ "me détacherai", "te détacheras", "se détachera", "nous détacherons", "vous détacherez", "se détacheront" ],
+  "passeCompose": [ "me suis détaché(e)", "t'es détaché(e)", "s'est détaché(e)", "nous sommes détaché(e)s", "vous êtes détaché(e)(s)", "se sont détaché(e)s" ],
+  "plusQueParfait": [ "m'étais détaché(e)", "t'étais détaché(e)", "s'était détaché(e)", "nous étions détaché(e)s", "vous étiez détaché(e)(s)", "s'étaient détaché(e)s" ],
+  "passeAnterieur": [ "me fus détaché(e)", "te fus détaché(e)", "se fut détaché(e)", "nous fûmes détaché(e)s", "vous fûtes détaché(e)(s)", "se furent détaché(e)s" ],
+  "futurAnterieur": [ "me serai détaché(e)", "te seras détaché(e)", "se sera détaché(e)", "nous serons détaché(e)s", "vous serez détaché(e)(s)", "se seront détaché(e)s" ],
+  "subjonctifPresent": [ "me détache", "te détaches", "se détache", "nous détachions", "vous détachiez", "se détachent" ],
+  "subjonctifImparfait": [ "me détachasse", "te détachasses", "se détachât", "nous détachassions", "vous détachassiez", "se détachassent" ],
+  "subjonctifPasse": [ "me sois détaché(e)", "te sois détaché(e)", "se soit détaché(e)", "nous soyons détaché(e)s", "vous soyez détaché(e)(s)", "se soient détaché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse détaché(e)", "te fusses détaché(e)", "se fût détaché(e)", "nous fussions détaché(e)s", "vous fussiez détaché(e)(s)", "se fussent détaché(e)s" ],
+  "conditionnelPresent": [ "me détacherais", "te détacherais", "se détacherait", "nous détacherions", "vous détacheriez", "se détacheraient" ],
+  "conditionnelPasse": [ "me serais détaché(e)", "te serais détaché(e)", "se serait détaché(e)", "nous serions détaché(e)s", "vous seriez détaché(e)(s)", "se seraient détaché(e)s" ],
+  "conditionnelPasseII": [ "me fusse détaché(e)", "te fusses détaché(e)", "se fût détaché(e)", "nous fussions détaché(e)s", "vous fussiez détaché(e)(s)", "se fussent détaché(e)s" ],
+  "imperatif": [ "–", "détache-toi !", "–", "détachons-nous !", "détachez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

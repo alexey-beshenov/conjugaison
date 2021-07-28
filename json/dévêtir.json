@@ -1,0 +1,22 @@
+{
+  "infinitif": "dévêtir",
+  "participePresent": "dévêtant",
+  "participePasse": "dévêtu",
+  "present": [ "dévêts", "dévêts", "dévêt", "dévêtons", "dévêtez", "dévêtent" ],
+  "imparfait": [ "dévêtais", "dévêtais", "dévêtait", "dévêtions", "dévêtiez", "dévêtaient" ],
+  "passeSimple": [ "dévêtis", "dévêtis", "dévêtit", "dévêtîmes", "dévêtîtes", "dévêtirent" ],
+  "futurSimple": [ "dévêtirai", "dévêtiras", "dévêtira", "dévêtirons", "dévêtirez", "dévêtiront" ],
+  "passeCompose": [ "ai dévêtu", "as dévêtu", "a dévêtu", "avons dévêtu", "avez dévêtu", "ont dévêtu" ],
+  "plusQueParfait": [ "avais dévêtu", "avais dévêtu", "avait dévêtu", "avions dévêtu", "aviez dévêtu", "avaient dévêtu" ],
+  "passeAnterieur": [ "eus dévêtu", "eus dévêtu", "eut dévêtu", "eûmes dévêtu", "eûtes dévêtu", "eurent dévêtu" ],
+  "futurAnterieur": [ "aurai dévêtu", "auras dévêtu", "aura dévêtu", "aurons dévêtu", "aurez dévêtu", "auront dévêtu" ],
+  "subjonctifPresent": [ "dévête", "dévêtes", "dévête", "dévêtions", "dévêtiez", "dévêtent" ],
+  "subjonctifImparfait": [ "dévêtisse", "dévêtisses", "dévêtît", "dévêtissions", "dévêtissiez", "dévêtissent" ],
+  "subjonctifPasse": [ "aie dévêtu", "aies dévêtu", "ait dévêtu", "ayons dévêtu", "ayez dévêtu", "aient dévêtu" ],
+  "subjonctifPlusQueParfait": [ "eusse dévêtu", "eusses dévêtu", "eût dévêtu", "eussions dévêtu", "eussiez dévêtu", "eussent dévêtu" ],
+  "conditionnelPresent": [ "dévêtirais", "dévêtirais", "dévêtirait", "dévêtirions", "dévêtiriez", "dévêtiraient" ],
+  "conditionnelPasse": [ "aurais dévêtu", "aurais dévêtu", "aurait dévêtu", "aurions dévêtu", "auriez dévêtu", "auraient dévêtu" ],
+  "conditionnelPasseII": [ "eusse dévêtu", "eusses dévêtu", "eût dévêtu", "eussions dévêtu", "eussiez dévêtu", "eussent dévêtu" ],
+  "imperatif": [ "–", "dévêts !", "–", "dévêtons !", "dévêtez !", "–" ],
+  "imperatifPasse": [ "–", "aie dévêtu !", "–", "ayons dévêtu !", "ayez dévêtu !", "–" ]
+}

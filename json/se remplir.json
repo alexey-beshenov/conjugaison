@@ -1,0 +1,22 @@
+{
+  "infinitif": "se remplir",
+  "participePresent": "se remplissant",
+  "participePasse": "rempli",
+  "present": [ "me remplis", "te remplis", "se remplit", "nous remplissons", "vous remplissez", "se remplissent" ],
+  "imparfait": [ "me remplissais", "te remplissais", "se remplissait", "nous remplissions", "vous remplissiez", "se remplissaient" ],
+  "passeSimple": [ "me remplis", "te remplis", "se remplit", "nous remplîmes", "vous remplîtes", "se remplirent" ],
+  "futurSimple": [ "me remplirai", "te rempliras", "se remplira", "nous remplirons", "vous remplirez", "se rempliront" ],
+  "passeCompose": [ "me suis rempli(e)", "t'es rempli(e)", "s'est rempli(e)", "nous sommes rempli(e)s", "vous êtes rempli(e)(s)", "se sont rempli(e)s" ],
+  "plusQueParfait": [ "m'étais rempli(e)", "t'étais rempli(e)", "s'était rempli(e)", "nous étions rempli(e)s", "vous étiez rempli(e)(s)", "s'étaient rempli(e)s" ],
+  "passeAnterieur": [ "me fus rempli(e)", "te fus rempli(e)", "se fut rempli(e)", "nous fûmes rempli(e)s", "vous fûtes rempli(e)(s)", "se furent rempli(e)s" ],
+  "futurAnterieur": [ "me serai rempli(e)", "te seras rempli(e)", "se sera rempli(e)", "nous serons rempli(e)s", "vous serez rempli(e)(s)", "se seront rempli(e)s" ],
+  "subjonctifPresent": [ "me remplisse", "te remplisses", "se remplisse", "nous remplissions", "vous remplissiez", "se remplissent" ],
+  "subjonctifImparfait": [ "me remplisse", "te remplisses", "se remplît", "nous remplissions", "vous remplissiez", "se remplissent" ],
+  "subjonctifPasse": [ "me sois rempli(e)", "te sois rempli(e)", "se soit rempli(e)", "nous soyons rempli(e)s", "vous soyez rempli(e)(s)", "se soient rempli(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rempli(e)", "te fusses rempli(e)", "se fût rempli(e)", "nous fussions rempli(e)s", "vous fussiez rempli(e)(s)", "se fussent rempli(e)s" ],
+  "conditionnelPresent": [ "me remplirais", "te remplirais", "se remplirait", "nous remplirions", "vous rempliriez", "se rempliraient" ],
+  "conditionnelPasse": [ "me serais rempli(e)", "te serais rempli(e)", "se serait rempli(e)", "nous serions rempli(e)s", "vous seriez rempli(e)(s)", "se seraient rempli(e)s" ],
+  "conditionnelPasseII": [ "me fusse rempli(e)", "te fusses rempli(e)", "se fût rempli(e)", "nous fussions rempli(e)s", "vous fussiez rempli(e)(s)", "se fussent rempli(e)s" ],
+  "imperatif": [ "–", "remplis-toi !", "–", "remplissons-nous !", "remplissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

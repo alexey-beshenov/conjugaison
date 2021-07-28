@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'absoudre",
+  "participePresent": "s'absolvant",
+  "participePasse": "absous,",
+  "present": [ "m'absous", "t'absous", "s'absout", "nous absolvons", "vous absolvez", "s'absolvent" ],
+  "imparfait": [ "m'absolvais", "t'absolvais", "s'absolvait", "nous absolvions", "vous absolviez", "s'absolvaient" ],
+  "passeSimple": [ "m'absolus", "t'absolus", "s'absolut", "nous absolûmes", "vous absolûtes", "s'absolurent" ],
+  "futurSimple": [ "m'absoudrai", "t'absoudras", "s'absoudra", "nous absoudrons", "vous absoudrez", "s'absoudront" ],
+  "passeCompose": [ "me suis absous, absoute", "t'es absous, absoute", "s'est absous, absoute", "nous sommes absous, absoutes", "vous êtes absous, absoute(s)", "se sont absous, absoutes" ],
+  "plusQueParfait": [ "m'étais absous, absoute", "t'étais absous, absoute", "s'était absous, absoute", "nous étions absous, absoutes", "vous étiez absous, absoute(s)", "s'étaient absous, absoutes" ],
+  "passeAnterieur": [ "me fus absous, absoute", "te fus absous, absoute", "se fut absous, absoute", "nous fûmes absous, absoutes", "vous fûtes absous, absoute(s)", "se furent absous, absoutes" ],
+  "futurAnterieur": [ "me serai absous, absoute", "te seras absous, absoute", "se sera absous, absoute", "nous serons absous, absoutes", "vous serez absous, absoute(s)", "se seront absous, absoutes" ],
+  "subjonctifPresent": [ "m'absolve", "t'absolves", "s'absolve", "nous absolvions", "vous absolviez", "s'absolvent" ],
+  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPasse": [ "me sois absous, absoute", "te sois absous, absoute", "se soit absous, absoute", "nous soyons absous, absoutes", "vous soyez absous, absoute(s)", "se soient absous, absoutes" ],
+  "subjonctifPlusQueParfait": [ "me fusse absous, absoute", "te fusses absous, absoute", "se fût absous, absoute", "nous fussions absous, absoutes", "vous fussiez absous, absoute(s)", "se fussent absous, absoutes" ],
+  "conditionnelPresent": [ "m'absoudrais", "t'absoudrais", "s'absoudrait", "nous absoudrions", "vous absoudriez", "s'absoudraient" ],
+  "conditionnelPasse": [ "me serais absous, absoute", "te serais absous, absoute", "se serait absous, absoute", "nous serions absous, absoutes", "vous seriez absous, absoute(s)", "se seraient absous, absoutes" ],
+  "conditionnelPasseII": [ "me fusse absous, absoute", "te fusses absous, absoute", "se fût absous, absoute", "nous fussions absous, absoutes", "vous fussiez absous, absoute(s)", "se fussent absous, absoutes" ],
+  "imperatif": [ "–", "absous-toi !", "–", "absolvons-nous !", "absolvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

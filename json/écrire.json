@@ -1,0 +1,22 @@
+{
+  "infinitif": "écrire",
+  "participePresent": "écrivant",
+  "participePasse": "écrit",
+  "present": [ "écris", "écris", "écrit", "écrivons", "écrivez", "écrivent" ],
+  "imparfait": [ "écrivais", "écrivais", "écrivait", "écrivions", "écriviez", "écrivaient" ],
+  "passeSimple": [ "écrivis", "écrivis", "écrivit", "écrivîmes", "écrivîtes", "écrivirent" ],
+  "futurSimple": [ "écrirai", "écriras", "écrira", "écrirons", "écrirez", "écriront" ],
+  "passeCompose": [ "ai écrit", "as écrit", "a écrit", "avons écrit", "avez écrit", "ont écrit" ],
+  "plusQueParfait": [ "avais écrit", "avais écrit", "avait écrit", "avions écrit", "aviez écrit", "avaient écrit" ],
+  "passeAnterieur": [ "eus écrit", "eus écrit", "eut écrit", "eûmes écrit", "eûtes écrit", "eurent écrit" ],
+  "futurAnterieur": [ "aurai écrit", "auras écrit", "aura écrit", "aurons écrit", "aurez écrit", "auront écrit" ],
+  "subjonctifPresent": [ "écrive", "écrives", "écrive", "écrivions", "écriviez", "écrivent" ],
+  "subjonctifImparfait": [ "écrivisse", "écrivisses", "écrivît", "écrivissions", "écrivissiez", "écrivissent" ],
+  "subjonctifPasse": [ "aie écrit", "aies écrit", "ait écrit", "ayons écrit", "ayez écrit", "aient écrit" ],
+  "subjonctifPlusQueParfait": [ "eusse écrit", "eusses écrit", "eût écrit", "eussions écrit", "eussiez écrit", "eussent écrit" ],
+  "conditionnelPresent": [ "écrirais", "écrirais", "écrirait", "écririons", "écririez", "écriraient" ],
+  "conditionnelPasse": [ "aurais écrit", "aurais écrit", "aurait écrit", "aurions écrit", "auriez écrit", "auraient écrit" ],
+  "conditionnelPasseII": [ "eusse écrit", "eusses écrit", "eût écrit", "eussions écrit", "eussiez écrit", "eussent écrit" ],
+  "imperatif": [ "–", "écris !", "–", "écrivons !", "écrivez !", "–" ],
+  "imperatifPasse": [ "–", "aie écrit !", "–", "ayons écrit !", "ayez écrit !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se haïr",
+  "participePresent": "se haïssant",
+  "participePasse": "haï",
+  "present": [ "me hais", "te hais", "se hait", "nous haïssons", "vous haïssez", "se haïssent" ],
+  "imparfait": [ "me haïssais", "te haïssais", "se haïssait", "nous haïssions", "vous haïssiez", "se haïssaient" ],
+  "passeSimple": [ "me haïs", "te haïs", "se haït", "nous haïmes", "vous haïtes", "se haïrent" ],
+  "futurSimple": [ "me haïrai", "te haïras", "se haïra", "nous haïrons", "vous haïrez", "se haïront" ],
+  "passeCompose": [ "me suis haï(e)", "t'es haï(e)", "s'est haï(e)", "nous sommes haï(e)s", "vous êtes haï(e)(s)", "se sont haï(e)s" ],
+  "plusQueParfait": [ "m'étais haï(e)", "t'étais haï(e)", "s'était haï(e)", "nous étions haï(e)s", "vous étiez haï(e)(s)", "s'étaient haï(e)s" ],
+  "passeAnterieur": [ "me fus haï(e)", "te fus haï(e)", "se fut haï(e)", "nous fûmes haï(e)s", "vous fûtes haï(e)(s)", "se furent haï(e)s" ],
+  "futurAnterieur": [ "me serai haï(e)", "te seras haï(e)", "se sera haï(e)", "nous serons haï(e)s", "vous serez haï(e)(s)", "se seront haï(e)s" ],
+  "subjonctifPresent": [ "me haïsse", "te haïsses", "se haïsse", "nous haïssions", "vous haïssiez", "se haïssent" ],
+  "subjonctifImparfait": [ "me haïsse", "te haïsses", "se haït", "nous haïssions", "vous haïssiez", "se haïssent" ],
+  "subjonctifPasse": [ "me sois haï(e)", "te sois haï(e)", "se soit haï(e)", "nous soyons haï(e)s", "vous soyez haï(e)(s)", "se soient haï(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse haï(e)", "te fusses haï(e)", "se fût haï(e)", "nous fussions haï(e)s", "vous fussiez haï(e)(s)", "se fussent haï(e)s" ],
+  "conditionnelPresent": [ "me haïrais", "te haïrais", "se haïrait", "nous haïrions", "vous haïriez", "se haïraient" ],
+  "conditionnelPasse": [ "me serais haï(e)", "te serais haï(e)", "se serait haï(e)", "nous serions haï(e)s", "vous seriez haï(e)(s)", "se seraient haï(e)s" ],
+  "conditionnelPasseII": [ "me fusse haï(e)", "te fusses haï(e)", "se fût haï(e)", "nous fussions haï(e)s", "vous fussiez haï(e)(s)", "se fussent haï(e)s" ],
+  "imperatif": [ "–", "hais-toi !", "–", "haïssons-nous !", "haïssez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

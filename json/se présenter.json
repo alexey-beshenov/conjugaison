@@ -1,0 +1,22 @@
+{
+  "infinitif": "se présenter",
+  "participePresent": "se présentant",
+  "participePasse": "présenté",
+  "present": [ "me présente", "te présentes", "se présente", "nous présentons", "vous présentez", "se présentent" ],
+  "imparfait": [ "me présentais", "te présentais", "se présentait", "nous présentions", "vous présentiez", "se présentaient" ],
+  "passeSimple": [ "me présentai", "te présentas", "se présenta", "nous présentâmes", "vous présentâtes", "se présentèrent" ],
+  "futurSimple": [ "me présenterai", "te présenteras", "se présentera", "nous présenterons", "vous présenterez", "se présenteront" ],
+  "passeCompose": [ "me suis présenté(e)", "t'es présenté(e)", "s'est présenté(e)", "nous sommes présenté(e)s", "vous êtes présenté(e)(s)", "se sont présenté(e)s" ],
+  "plusQueParfait": [ "m'étais présenté(e)", "t'étais présenté(e)", "s'était présenté(e)", "nous étions présenté(e)s", "vous étiez présenté(e)(s)", "s'étaient présenté(e)s" ],
+  "passeAnterieur": [ "me fus présenté(e)", "te fus présenté(e)", "se fut présenté(e)", "nous fûmes présenté(e)s", "vous fûtes présenté(e)(s)", "se furent présenté(e)s" ],
+  "futurAnterieur": [ "me serai présenté(e)", "te seras présenté(e)", "se sera présenté(e)", "nous serons présenté(e)s", "vous serez présenté(e)(s)", "se seront présenté(e)s" ],
+  "subjonctifPresent": [ "me présente", "te présentes", "se présente", "nous présentions", "vous présentiez", "se présentent" ],
+  "subjonctifImparfait": [ "me présentasse", "te présentasses", "se présentât", "nous présentassions", "vous présentassiez", "se présentassent" ],
+  "subjonctifPasse": [ "me sois présenté(e)", "te sois présenté(e)", "se soit présenté(e)", "nous soyons présenté(e)s", "vous soyez présenté(e)(s)", "se soient présenté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse présenté(e)", "te fusses présenté(e)", "se fût présenté(e)", "nous fussions présenté(e)s", "vous fussiez présenté(e)(s)", "se fussent présenté(e)s" ],
+  "conditionnelPresent": [ "me présenterais", "te présenterais", "se présenterait", "nous présenterions", "vous présenteriez", "se présenteraient" ],
+  "conditionnelPasse": [ "me serais présenté(e)", "te serais présenté(e)", "se serait présenté(e)", "nous serions présenté(e)s", "vous seriez présenté(e)(s)", "se seraient présenté(e)s" ],
+  "conditionnelPasseII": [ "me fusse présenté(e)", "te fusses présenté(e)", "se fût présenté(e)", "nous fussions présenté(e)s", "vous fussiez présenté(e)(s)", "se fussent présenté(e)s" ],
+  "imperatif": [ "–", "présente-toi !", "–", "présentons-nous !", "présentez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

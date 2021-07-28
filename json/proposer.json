@@ -1,0 +1,22 @@
+{
+  "infinitif": "proposer",
+  "participePresent": "proposant",
+  "participePasse": "proposé",
+  "present": [ "propose", "proposes", "propose", "proposons", "proposez", "proposent" ],
+  "imparfait": [ "proposais", "proposais", "proposait", "proposions", "proposiez", "proposaient" ],
+  "passeSimple": [ "proposai", "proposas", "proposa", "proposâmes", "proposâtes", "proposèrent" ],
+  "futurSimple": [ "proposerai", "proposeras", "proposera", "proposerons", "proposerez", "proposeront" ],
+  "passeCompose": [ "ai proposé", "as proposé", "a proposé", "avons proposé", "avez proposé", "ont proposé" ],
+  "plusQueParfait": [ "avais proposé", "avais proposé", "avait proposé", "avions proposé", "aviez proposé", "avaient proposé" ],
+  "passeAnterieur": [ "eus proposé", "eus proposé", "eut proposé", "eûmes proposé", "eûtes proposé", "eurent proposé" ],
+  "futurAnterieur": [ "aurai proposé", "auras proposé", "aura proposé", "aurons proposé", "aurez proposé", "auront proposé" ],
+  "subjonctifPresent": [ "propose", "proposes", "propose", "proposions", "proposiez", "proposent" ],
+  "subjonctifImparfait": [ "proposasse", "proposasses", "proposât", "proposassions", "proposassiez", "proposassent" ],
+  "subjonctifPasse": [ "aie proposé", "aies proposé", "ait proposé", "ayons proposé", "ayez proposé", "aient proposé" ],
+  "subjonctifPlusQueParfait": [ "eusse proposé", "eusses proposé", "eût proposé", "eussions proposé", "eussiez proposé", "eussent proposé" ],
+  "conditionnelPresent": [ "proposerais", "proposerais", "proposerait", "proposerions", "proposeriez", "proposeraient" ],
+  "conditionnelPasse": [ "aurais proposé", "aurais proposé", "aurait proposé", "aurions proposé", "auriez proposé", "auraient proposé" ],
+  "conditionnelPasseII": [ "eusse proposé", "eusses proposé", "eût proposé", "eussions proposé", "eussiez proposé", "eussent proposé" ],
+  "imperatif": [ "–", "propose !", "–", "proposons !", "proposez !", "–" ],
+  "imperatifPasse": [ "–", "aie proposé !", "–", "ayons proposé !", "ayez proposé !", "–" ]
+}

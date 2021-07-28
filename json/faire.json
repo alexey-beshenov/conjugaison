@@ -1,0 +1,22 @@
+{
+  "infinitif": "faire",
+  "participePresent": "faisant",
+  "participePasse": "fait",
+  "present": [ "fais", "fais", "fait", "faisons", "faites", "font" ],
+  "imparfait": [ "faisais", "faisais", "faisait", "faisions", "faisiez", "faisaient" ],
+  "passeSimple": [ "fis", "fis", "fit", "fîmes", "fîtes", "firent" ],
+  "futurSimple": [ "ferai", "feras", "fera", "ferons", "ferez", "feront" ],
+  "passeCompose": [ "ai fait", "as fait", "a fait", "avons fait", "avez fait", "ont fait" ],
+  "plusQueParfait": [ "avais fait", "avais fait", "avait fait", "avions fait", "aviez fait", "avaient fait" ],
+  "passeAnterieur": [ "eus fait", "eus fait", "eut fait", "eûmes fait", "eûtes fait", "eurent fait" ],
+  "futurAnterieur": [ "aurai fait", "auras fait", "aura fait", "aurons fait", "aurez fait", "auront fait" ],
+  "subjonctifPresent": [ "fasse", "fasses", "fasse", "fassions", "fassiez", "fassent" ],
+  "subjonctifImparfait": [ "fisse", "fisses", "fît", "fissions", "fissiez", "fissent" ],
+  "subjonctifPasse": [ "aie fait", "aies fait", "ait fait", "ayons fait", "ayez fait", "aient fait" ],
+  "subjonctifPlusQueParfait": [ "eusse fait", "eusses fait", "eût fait", "eussions fait", "eussiez fait", "eussent fait" ],
+  "conditionnelPresent": [ "ferais", "ferais", "ferait", "ferions", "feriez", "feraient" ],
+  "conditionnelPasse": [ "aurais fait", "aurais fait", "aurait fait", "aurions fait", "auriez fait", "auraient fait" ],
+  "conditionnelPasseII": [ "eusse fait", "eusses fait", "eût fait", "eussions fait", "eussiez fait", "eussent fait" ],
+  "imperatif": [ "–", "fais !", "–", "faisons !", "faites !", "–" ],
+  "imperatifPasse": [ "–", "aie fait !", "–", "ayons fait !", "ayez fait !", "–" ]
+}

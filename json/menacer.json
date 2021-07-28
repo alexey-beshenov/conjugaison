@@ -1,0 +1,22 @@
+{
+  "infinitif": "menacer",
+  "participePresent": "menaçant",
+  "participePasse": "menacé",
+  "present": [ "menace", "menaces", "menace", "menaçons", "menacez", "menacent" ],
+  "imparfait": [ "menaçais", "menaçais", "menaçait", "menacions", "menaciez", "menaçaient" ],
+  "passeSimple": [ "menaçai", "menaças", "menaça", "menaçâmes", "menaçâtes", "menacèrent" ],
+  "futurSimple": [ "menacerai", "menaceras", "menacera", "menacerons", "menacerez", "menaceront" ],
+  "passeCompose": [ "ai menacé", "as menacé", "a menacé", "avons menacé", "avez menacé", "ont menacé" ],
+  "plusQueParfait": [ "avais menacé", "avais menacé", "avait menacé", "avions menacé", "aviez menacé", "avaient menacé" ],
+  "passeAnterieur": [ "eus menacé", "eus menacé", "eut menacé", "eûmes menacé", "eûtes menacé", "eurent menacé" ],
+  "futurAnterieur": [ "aurai menacé", "auras menacé", "aura menacé", "aurons menacé", "aurez menacé", "auront menacé" ],
+  "subjonctifPresent": [ "menace", "menaces", "menace", "menacions", "menaciez", "menacent" ],
+  "subjonctifImparfait": [ "menaçasse", "menaçasses", "menaçât", "menaçassions", "menaçassiez", "menaçassent" ],
+  "subjonctifPasse": [ "aie menacé", "aies menacé", "ait menacé", "ayons menacé", "ayez menacé", "aient menacé" ],
+  "subjonctifPlusQueParfait": [ "eusse menacé", "eusses menacé", "eût menacé", "eussions menacé", "eussiez menacé", "eussent menacé" ],
+  "conditionnelPresent": [ "menacerais", "menacerais", "menacerait", "menacerions", "menaceriez", "menaceraient" ],
+  "conditionnelPasse": [ "aurais menacé", "aurais menacé", "aurait menacé", "aurions menacé", "auriez menacé", "auraient menacé" ],
+  "conditionnelPasseII": [ "eusse menacé", "eusses menacé", "eût menacé", "eussions menacé", "eussiez menacé", "eussent menacé" ],
+  "imperatif": [ "–", "menace !", "–", "menaçons !", "menacez !", "–" ],
+  "imperatifPasse": [ "–", "aie menacé !", "–", "ayons menacé !", "ayez menacé !", "–" ]
+}

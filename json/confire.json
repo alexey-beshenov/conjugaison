@@ -1,0 +1,22 @@
+{
+  "infinitif": "confire",
+  "participePresent": "confisant",
+  "participePasse": "confit",
+  "present": [ "confis", "confis", "confit", "confisons", "confisez", "confisent" ],
+  "imparfait": [ "confisais", "confisais", "confisait", "confisions", "confisiez", "confisaient" ],
+  "passeSimple": [ "confis", "confis", "confit", "confîmes", "confîtes", "confirent" ],
+  "futurSimple": [ "confirai", "confiras", "confira", "confirons", "confirez", "confiront" ],
+  "passeCompose": [ "ai confit", "as confit", "a confit", "avons confit", "avez confit", "ont confit" ],
+  "plusQueParfait": [ "avais confit", "avais confit", "avait confit", "avions confit", "aviez confit", "avaient confit" ],
+  "passeAnterieur": [ "eus confit", "eus confit", "eut confit", "eûmes confit", "eûtes confit", "eurent confit" ],
+  "futurAnterieur": [ "aurai confit", "auras confit", "aura confit", "aurons confit", "aurez confit", "auront confit" ],
+  "subjonctifPresent": [ "confise", "confises", "confise", "confisions", "confisiez", "confisent" ],
+  "subjonctifImparfait": [ "confisse", "confisses", "confît", "confissions", "confissiez", "confissent" ],
+  "subjonctifPasse": [ "aie confit", "aies confit", "ait confit", "ayons confit", "ayez confit", "aient confit" ],
+  "subjonctifPlusQueParfait": [ "eusse confit", "eusses confit", "eût confit", "eussions confit", "eussiez confit", "eussent confit" ],
+  "conditionnelPresent": [ "confirais", "confirais", "confirait", "confirions", "confiriez", "confiraient" ],
+  "conditionnelPasse": [ "aurais confit", "aurais confit", "aurait confit", "aurions confit", "auriez confit", "auraient confit" ],
+  "conditionnelPasseII": [ "eusse confit", "eusses confit", "eût confit", "eussions confit", "eussiez confit", "eussent confit" ],
+  "imperatif": [ "–", "confis !", "–", "confisons !", "confisez !", "–" ],
+  "imperatifPasse": [ "–", "aie confit !", "–", "ayons confit !", "ayez confit !", "–" ]
+}

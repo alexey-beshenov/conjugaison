@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rassurer",
+  "participePresent": "se rassurant",
+  "participePasse": "rassuré",
+  "present": [ "me rassure", "te rassures", "se rassure", "nous rassurons", "vous rassurez", "se rassurent" ],
+  "imparfait": [ "me rassurais", "te rassurais", "se rassurait", "nous rassurions", "vous rassuriez", "se rassuraient" ],
+  "passeSimple": [ "me rassurai", "te rassuras", "se rassura", "nous rassurâmes", "vous rassurâtes", "se rassurèrent" ],
+  "futurSimple": [ "me rassurerai", "te rassureras", "se rassurera", "nous rassurerons", "vous rassurerez", "se rassureront" ],
+  "passeCompose": [ "me suis rassuré(e)", "t'es rassuré(e)", "s'est rassuré(e)", "nous sommes rassuré(e)s", "vous êtes rassuré(e)(s)", "se sont rassuré(e)s" ],
+  "plusQueParfait": [ "m'étais rassuré(e)", "t'étais rassuré(e)", "s'était rassuré(e)", "nous étions rassuré(e)s", "vous étiez rassuré(e)(s)", "s'étaient rassuré(e)s" ],
+  "passeAnterieur": [ "me fus rassuré(e)", "te fus rassuré(e)", "se fut rassuré(e)", "nous fûmes rassuré(e)s", "vous fûtes rassuré(e)(s)", "se furent rassuré(e)s" ],
+  "futurAnterieur": [ "me serai rassuré(e)", "te seras rassuré(e)", "se sera rassuré(e)", "nous serons rassuré(e)s", "vous serez rassuré(e)(s)", "se seront rassuré(e)s" ],
+  "subjonctifPresent": [ "me rassure", "te rassures", "se rassure", "nous rassurions", "vous rassuriez", "se rassurent" ],
+  "subjonctifImparfait": [ "me rassurasse", "te rassurasses", "se rassurât", "nous rassurassions", "vous rassurassiez", "se rassurassent" ],
+  "subjonctifPasse": [ "me sois rassuré(e)", "te sois rassuré(e)", "se soit rassuré(e)", "nous soyons rassuré(e)s", "vous soyez rassuré(e)(s)", "se soient rassuré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rassuré(e)", "te fusses rassuré(e)", "se fût rassuré(e)", "nous fussions rassuré(e)s", "vous fussiez rassuré(e)(s)", "se fussent rassuré(e)s" ],
+  "conditionnelPresent": [ "me rassurerais", "te rassurerais", "se rassurerait", "nous rassurerions", "vous rassureriez", "se rassureraient" ],
+  "conditionnelPasse": [ "me serais rassuré(e)", "te serais rassuré(e)", "se serait rassuré(e)", "nous serions rassuré(e)s", "vous seriez rassuré(e)(s)", "se seraient rassuré(e)s" ],
+  "conditionnelPasseII": [ "me fusse rassuré(e)", "te fusses rassuré(e)", "se fût rassuré(e)", "nous fussions rassuré(e)s", "vous fussiez rassuré(e)(s)", "se fussent rassuré(e)s" ],
+  "imperatif": [ "–", "rassure-toi !", "–", "rassurons-nous !", "rassurez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

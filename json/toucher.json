@@ -1,0 +1,22 @@
+{
+  "infinitif": "toucher",
+  "participePresent": "touchant",
+  "participePasse": "touché",
+  "present": [ "touche", "touches", "touche", "touchons", "touchez", "touchent" ],
+  "imparfait": [ "touchais", "touchais", "touchait", "touchions", "touchiez", "touchaient" ],
+  "passeSimple": [ "touchai", "touchas", "toucha", "touchâmes", "touchâtes", "touchèrent" ],
+  "futurSimple": [ "toucherai", "toucheras", "touchera", "toucherons", "toucherez", "toucheront" ],
+  "passeCompose": [ "ai touché", "as touché", "a touché", "avons touché", "avez touché", "ont touché" ],
+  "plusQueParfait": [ "avais touché", "avais touché", "avait touché", "avions touché", "aviez touché", "avaient touché" ],
+  "passeAnterieur": [ "eus touché", "eus touché", "eut touché", "eûmes touché", "eûtes touché", "eurent touché" ],
+  "futurAnterieur": [ "aurai touché", "auras touché", "aura touché", "aurons touché", "aurez touché", "auront touché" ],
+  "subjonctifPresent": [ "touche", "touches", "touche", "touchions", "touchiez", "touchent" ],
+  "subjonctifImparfait": [ "touchasse", "touchasses", "touchât", "touchassions", "touchassiez", "touchassent" ],
+  "subjonctifPasse": [ "aie touché", "aies touché", "ait touché", "ayons touché", "ayez touché", "aient touché" ],
+  "subjonctifPlusQueParfait": [ "eusse touché", "eusses touché", "eût touché", "eussions touché", "eussiez touché", "eussent touché" ],
+  "conditionnelPresent": [ "toucherais", "toucherais", "toucherait", "toucherions", "toucheriez", "toucheraient" ],
+  "conditionnelPasse": [ "aurais touché", "aurais touché", "aurait touché", "aurions touché", "auriez touché", "auraient touché" ],
+  "conditionnelPasseII": [ "eusse touché", "eusses touché", "eût touché", "eussions touché", "eussiez touché", "eussent touché" ],
+  "imperatif": [ "–", "touche !", "–", "touchons !", "touchez !", "–" ],
+  "imperatifPasse": [ "–", "aie touché !", "–", "ayons touché !", "ayez touché !", "–" ]
+}

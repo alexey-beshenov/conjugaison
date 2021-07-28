@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rire",
+  "participePresent": "se riant",
+  "participePasse": "ri",
+  "present": [ "me ris", "te ris", "se rit", "nous rions", "vous riez", "se rient" ],
+  "imparfait": [ "me riais", "te riais", "se riait", "nous riions", "vous riiez", "se riaient" ],
+  "passeSimple": [ "me ris", "te ris", "se rit", "nous rîmes", "vous rîtes", "se rirent" ],
+  "futurSimple": [ "me rirai", "te riras", "se rira", "nous rirons", "vous rirez", "se riront" ],
+  "passeCompose": [ "me suis ri", "t'es ri", "s'est ri", "nous sommes ri", "vous êtes ri", "se sont ri" ],
+  "plusQueParfait": [ "m'étais ri", "t'étais ri", "s'était ri", "nous étions ri", "vous étiez ri", "s'étaient ri" ],
+  "passeAnterieur": [ "me fus ri", "te fus ri", "se fut ri", "nous fûmes ri", "vous fûtes ri", "se furent ri" ],
+  "futurAnterieur": [ "me serai ri", "te seras ri", "se sera ri", "nous serons ri", "vous serez ri", "se seront ri" ],
+  "subjonctifPresent": [ "me rie", "te ries", "se rie", "nous riions", "vous riiez", "se rient" ],
+  "subjonctifImparfait": [ "me risse", "te risses", "se rît", "nous rissions", "vous rissiez", "se rissent" ],
+  "subjonctifPasse": [ "me sois ri", "te sois ri", "se soit ri", "nous soyons ri", "vous soyez ri", "se soient ri" ],
+  "subjonctifPlusQueParfait": [ "me fusse ri", "te fusses ri", "se fût ri", "nous fussions ri", "vous fussiez ri", "se fussent ri" ],
+  "conditionnelPresent": [ "me rirais", "te rirais", "se rirait", "nous ririons", "vous ririez", "se riraient" ],
+  "conditionnelPasse": [ "me serais ri", "te serais ri", "se serait ri", "nous serions ri", "vous seriez ri", "se seraient ri" ],
+  "conditionnelPasseII": [ "me fusse ri", "te fusses ri", "se fût ri", "nous fussions ri", "vous fussiez ri", "se fussent ri" ],
+  "imperatif": [ "–", "ris-toi !", "–", "rions-nous !", "riez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

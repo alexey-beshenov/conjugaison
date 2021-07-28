@@ -1,0 +1,22 @@
+{
+  "infinitif": "se fermer",
+  "participePresent": "se fermant",
+  "participePasse": "fermé",
+  "present": [ "me ferme", "te fermes", "se ferme", "nous fermons", "vous fermez", "se ferment" ],
+  "imparfait": [ "me fermais", "te fermais", "se fermait", "nous fermions", "vous fermiez", "se fermaient" ],
+  "passeSimple": [ "me fermai", "te fermas", "se ferma", "nous fermâmes", "vous fermâtes", "se fermèrent" ],
+  "futurSimple": [ "me fermerai", "te fermeras", "se fermera", "nous fermerons", "vous fermerez", "se fermeront" ],
+  "passeCompose": [ "me suis fermé(e)", "t'es fermé(e)", "s'est fermé(e)", "nous sommes fermé(e)s", "vous êtes fermé(e)(s)", "se sont fermé(e)s" ],
+  "plusQueParfait": [ "m'étais fermé(e)", "t'étais fermé(e)", "s'était fermé(e)", "nous étions fermé(e)s", "vous étiez fermé(e)(s)", "s'étaient fermé(e)s" ],
+  "passeAnterieur": [ "me fus fermé(e)", "te fus fermé(e)", "se fut fermé(e)", "nous fûmes fermé(e)s", "vous fûtes fermé(e)(s)", "se furent fermé(e)s" ],
+  "futurAnterieur": [ "me serai fermé(e)", "te seras fermé(e)", "se sera fermé(e)", "nous serons fermé(e)s", "vous serez fermé(e)(s)", "se seront fermé(e)s" ],
+  "subjonctifPresent": [ "me ferme", "te fermes", "se ferme", "nous fermions", "vous fermiez", "se ferment" ],
+  "subjonctifImparfait": [ "me fermasse", "te fermasses", "se fermât", "nous fermassions", "vous fermassiez", "se fermassent" ],
+  "subjonctifPasse": [ "me sois fermé(e)", "te sois fermé(e)", "se soit fermé(e)", "nous soyons fermé(e)s", "vous soyez fermé(e)(s)", "se soient fermé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse fermé(e)", "te fusses fermé(e)", "se fût fermé(e)", "nous fussions fermé(e)s", "vous fussiez fermé(e)(s)", "se fussent fermé(e)s" ],
+  "conditionnelPresent": [ "me fermerais", "te fermerais", "se fermerait", "nous fermerions", "vous fermeriez", "se fermeraient" ],
+  "conditionnelPasse": [ "me serais fermé(e)", "te serais fermé(e)", "se serait fermé(e)", "nous serions fermé(e)s", "vous seriez fermé(e)(s)", "se seraient fermé(e)s" ],
+  "conditionnelPasseII": [ "me fusse fermé(e)", "te fusses fermé(e)", "se fût fermé(e)", "nous fussions fermé(e)s", "vous fussiez fermé(e)(s)", "se fussent fermé(e)s" ],
+  "imperatif": [ "–", "ferme-toi !", "–", "fermons-nous !", "fermez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

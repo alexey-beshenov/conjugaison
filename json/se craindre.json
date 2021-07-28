@@ -1,0 +1,22 @@
+{
+  "infinitif": "se craindre",
+  "participePresent": "se craignant",
+  "participePasse": "craint",
+  "present": [ "me crains", "te crains", "se craint", "nous craignons", "vous craignez", "se craignent" ],
+  "imparfait": [ "me craignais", "te craignais", "se craignait", "nous craignions", "vous craigniez", "se craignaient" ],
+  "passeSimple": [ "me craignis", "te craignis", "se craignit", "nous craignîmes", "vous craignîtes", "se craignirent" ],
+  "futurSimple": [ "me craindrai", "te craindras", "se craindra", "nous craindrons", "vous craindrez", "se craindront" ],
+  "passeCompose": [ "me suis craint(e)", "t'es craint(e)", "s'est craint(e)", "nous sommes craint(e)s", "vous êtes craint(e)(s)", "se sont craint(e)s" ],
+  "plusQueParfait": [ "m'étais craint(e)", "t'étais craint(e)", "s'était craint(e)", "nous étions craint(e)s", "vous étiez craint(e)(s)", "s'étaient craint(e)s" ],
+  "passeAnterieur": [ "me fus craint(e)", "te fus craint(e)", "se fut craint(e)", "nous fûmes craint(e)s", "vous fûtes craint(e)(s)", "se furent craint(e)s" ],
+  "futurAnterieur": [ "me serai craint(e)", "te seras craint(e)", "se sera craint(e)", "nous serons craint(e)s", "vous serez craint(e)(s)", "se seront craint(e)s" ],
+  "subjonctifPresent": [ "me craigne", "te craignes", "se craigne", "nous craignions", "vous craigniez", "se craignent" ],
+  "subjonctifImparfait": [ "me craignisse", "te craignisses", "se craignît", "nous craignissions", "vous craignissiez", "se craignissent" ],
+  "subjonctifPasse": [ "me sois craint(e)", "te sois craint(e)", "se soit craint(e)", "nous soyons craint(e)s", "vous soyez craint(e)(s)", "se soient craint(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse craint(e)", "te fusses craint(e)", "se fût craint(e)", "nous fussions craint(e)s", "vous fussiez craint(e)(s)", "se fussent craint(e)s" ],
+  "conditionnelPresent": [ "me craindrais", "te craindrais", "se craindrait", "nous craindrions", "vous craindriez", "se craindraient" ],
+  "conditionnelPasse": [ "me serais craint(e)", "te serais craint(e)", "se serait craint(e)", "nous serions craint(e)s", "vous seriez craint(e)(s)", "se seraient craint(e)s" ],
+  "conditionnelPasseII": [ "me fusse craint(e)", "te fusses craint(e)", "se fût craint(e)", "nous fussions craint(e)s", "vous fussiez craint(e)(s)", "se fussent craint(e)s" ],
+  "imperatif": [ "–", "crains-toi !", "–", "craignons-nous !", "craignez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "enlever",
+  "participePresent": "enlevant",
+  "participePasse": "enlevé",
+  "present": [ "enlève", "enlèves", "enlève", "enlevons", "enlevez", "enlèvent" ],
+  "imparfait": [ "enlevais", "enlevais", "enlevait", "enlevions", "enleviez", "enlevaient" ],
+  "passeSimple": [ "enlevai", "enlevas", "enleva", "enlevâmes", "enlevâtes", "enlevèrent" ],
+  "futurSimple": [ "enlèverai", "enlèveras", "enlèvera", "enlèverons", "enlèverez", "enlèveront" ],
+  "passeCompose": [ "ai enlevé", "as enlevé", "a enlevé", "avons enlevé", "avez enlevé", "ont enlevé" ],
+  "plusQueParfait": [ "avais enlevé", "avais enlevé", "avait enlevé", "avions enlevé", "aviez enlevé", "avaient enlevé" ],
+  "passeAnterieur": [ "eus enlevé", "eus enlevé", "eut enlevé", "eûmes enlevé", "eûtes enlevé", "eurent enlevé" ],
+  "futurAnterieur": [ "aurai enlevé", "auras enlevé", "aura enlevé", "aurons enlevé", "aurez enlevé", "auront enlevé" ],
+  "subjonctifPresent": [ "enlève", "enlèves", "enlève", "enlevions", "enleviez", "enlèvent" ],
+  "subjonctifImparfait": [ "enlevasse", "enlevasses", "enlevât", "enlevassions", "enlevassiez", "enlevassent" ],
+  "subjonctifPasse": [ "aie enlevé", "aies enlevé", "ait enlevé", "ayons enlevé", "ayez enlevé", "aient enlevé" ],
+  "subjonctifPlusQueParfait": [ "eusse enlevé", "eusses enlevé", "eût enlevé", "eussions enlevé", "eussiez enlevé", "eussent enlevé" ],
+  "conditionnelPresent": [ "enlèverais", "enlèverais", "enlèverait", "enlèverions", "enlèveriez", "enlèveraient" ],
+  "conditionnelPasse": [ "aurais enlevé", "aurais enlevé", "aurait enlevé", "aurions enlevé", "auriez enlevé", "auraient enlevé" ],
+  "conditionnelPasseII": [ "eusse enlevé", "eusses enlevé", "eût enlevé", "eussions enlevé", "eussiez enlevé", "eussent enlevé" ],
+  "imperatif": [ "–", "enlève !", "–", "enlevons !", "enlevez !", "–" ],
+  "imperatifPasse": [ "–", "aie enlevé !", "–", "ayons enlevé !", "ayez enlevé !", "–" ]
+}

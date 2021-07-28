@@ -1,0 +1,22 @@
+{
+  "infinitif": "former",
+  "participePresent": "formant",
+  "participePasse": "formé",
+  "present": [ "forme", "formes", "forme", "formons", "formez", "forment" ],
+  "imparfait": [ "formais", "formais", "formait", "formions", "formiez", "formaient" ],
+  "passeSimple": [ "formai", "formas", "forma", "formâmes", "formâtes", "formèrent" ],
+  "futurSimple": [ "formerai", "formeras", "formera", "formerons", "formerez", "formeront" ],
+  "passeCompose": [ "ai formé", "as formé", "a formé", "avons formé", "avez formé", "ont formé" ],
+  "plusQueParfait": [ "avais formé", "avais formé", "avait formé", "avions formé", "aviez formé", "avaient formé" ],
+  "passeAnterieur": [ "eus formé", "eus formé", "eut formé", "eûmes formé", "eûtes formé", "eurent formé" ],
+  "futurAnterieur": [ "aurai formé", "auras formé", "aura formé", "aurons formé", "aurez formé", "auront formé" ],
+  "subjonctifPresent": [ "forme", "formes", "forme", "formions", "formiez", "forment" ],
+  "subjonctifImparfait": [ "formasse", "formasses", "formât", "formassions", "formassiez", "formassent" ],
+  "subjonctifPasse": [ "aie formé", "aies formé", "ait formé", "ayons formé", "ayez formé", "aient formé" ],
+  "subjonctifPlusQueParfait": [ "eusse formé", "eusses formé", "eût formé", "eussions formé", "eussiez formé", "eussent formé" ],
+  "conditionnelPresent": [ "formerais", "formerais", "formerait", "formerions", "formeriez", "formeraient" ],
+  "conditionnelPasse": [ "aurais formé", "aurais formé", "aurait formé", "aurions formé", "auriez formé", "auraient formé" ],
+  "conditionnelPasseII": [ "eusse formé", "eusses formé", "eût formé", "eussions formé", "eussiez formé", "eussent formé" ],
+  "imperatif": [ "–", "forme !", "–", "formons !", "formez !", "–" ],
+  "imperatifPasse": [ "–", "aie formé !", "–", "ayons formé !", "ayez formé !", "–" ]
+}

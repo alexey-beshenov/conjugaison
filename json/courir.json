@@ -1,0 +1,22 @@
+{
+  "infinitif": "courir",
+  "participePresent": "courant",
+  "participePasse": "couru",
+  "present": [ "cours", "cours", "court", "courons", "courez", "courent" ],
+  "imparfait": [ "courais", "courais", "courait", "courions", "couriez", "couraient" ],
+  "passeSimple": [ "courus", "courus", "courut", "courûmes", "courûtes", "coururent" ],
+  "futurSimple": [ "courrai", "courras", "courra", "courrons", "courrez", "courront" ],
+  "passeCompose": [ "ai couru", "as couru", "a couru", "avons couru", "avez couru", "ont couru" ],
+  "plusQueParfait": [ "avais couru", "avais couru", "avait couru", "avions couru", "aviez couru", "avaient couru" ],
+  "passeAnterieur": [ "eus couru", "eus couru", "eut couru", "eûmes couru", "eûtes couru", "eurent couru" ],
+  "futurAnterieur": [ "aurai couru", "auras couru", "aura couru", "aurons couru", "aurez couru", "auront couru" ],
+  "subjonctifPresent": [ "coure", "coures", "coure", "courions", "couriez", "courent" ],
+  "subjonctifImparfait": [ "courusse", "courusses", "courût", "courussions", "courussiez", "courussent" ],
+  "subjonctifPasse": [ "aie couru", "aies couru", "ait couru", "ayons couru", "ayez couru", "aient couru" ],
+  "subjonctifPlusQueParfait": [ "eusse couru", "eusses couru", "eût couru", "eussions couru", "eussiez couru", "eussent couru" ],
+  "conditionnelPresent": [ "courrais", "courrais", "courrait", "courrions", "courriez", "courraient" ],
+  "conditionnelPasse": [ "aurais couru", "aurais couru", "aurait couru", "aurions couru", "auriez couru", "auraient couru" ],
+  "conditionnelPasseII": [ "eusse couru", "eusses couru", "eût couru", "eussions couru", "eussiez couru", "eussent couru" ],
+  "imperatif": [ "–", "cours !", "–", "courons !", "courez !", "–" ],
+  "imperatifPasse": [ "–", "aie couru !", "–", "ayons couru !", "ayez couru !", "–" ]
+}

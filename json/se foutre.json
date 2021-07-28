@@ -1,0 +1,22 @@
+{
+  "infinitif": "se foutre",
+  "participePresent": "se foutant",
+  "participePasse": "foutu",
+  "present": [ "me fous", "te fous", "se fout", "nous foutons", "vous foutez", "se foutent" ],
+  "imparfait": [ "me foutais", "te foutais", "se foutait", "nous foutions", "vous foutiez", "se foutaient" ],
+  "passeSimple": [ "me foutis", "te foutis", "se foutit", "nous foutîmes", "vous foutîtes", "se foutirent" ],
+  "futurSimple": [ "me foutrai", "te foutras", "se foutra", "nous foutrons", "vous foutrez", "se foutront" ],
+  "passeCompose": [ "me suis foutu(e)", "t'es foutu(e)", "s'est foutu(e)", "nous sommes foutu(e)s", "vous êtes foutu(e)(s)", "se sont foutu(e)s" ],
+  "plusQueParfait": [ "m'étais foutu(e)", "t'étais foutu(e)", "s'était foutu(e)", "nous étions foutu(e)s", "vous étiez foutu(e)(s)", "s'étaient foutu(e)s" ],
+  "passeAnterieur": [ "me fus foutu(e)", "te fus foutu(e)", "se fut foutu(e)", "nous fûmes foutu(e)s", "vous fûtes foutu(e)(s)", "se furent foutu(e)s" ],
+  "futurAnterieur": [ "me serai foutu(e)", "te seras foutu(e)", "se sera foutu(e)", "nous serons foutu(e)s", "vous serez foutu(e)(s)", "se seront foutu(e)s" ],
+  "subjonctifPresent": [ "me foute", "te foutes", "se foute", "nous foutions", "vous foutiez", "se foutent" ],
+  "subjonctifImparfait": [ "me foutisse", "te foutisses", "se foutît", "nous foutissions", "vous foutissiez", "se foutissent" ],
+  "subjonctifPasse": [ "me sois foutu(e)", "te sois foutu(e)", "se soit foutu(e)", "nous soyons foutu(e)s", "vous soyez foutu(e)(s)", "se soient foutu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse foutu(e)", "te fusses foutu(e)", "se fût foutu(e)", "nous fussions foutu(e)s", "vous fussiez foutu(e)(s)", "se fussent foutu(e)s" ],
+  "conditionnelPresent": [ "me foutrais", "te foutrais", "se foutrait", "nous foutrions", "vous foutriez", "se foutraient" ],
+  "conditionnelPasse": [ "me serais foutu(e)", "te serais foutu(e)", "se serait foutu(e)", "nous serions foutu(e)s", "vous seriez foutu(e)(s)", "se seraient foutu(e)s" ],
+  "conditionnelPasseII": [ "me fusse foutu(e)", "te fusses foutu(e)", "se fût foutu(e)", "nous fussions foutu(e)s", "vous fussiez foutu(e)(s)", "se fussent foutu(e)s" ],
+  "imperatif": [ "–", "fous-toi !", "–", "foutons-nous !", "foutez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

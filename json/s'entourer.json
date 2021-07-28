@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'entourer",
+  "participePresent": "s'entourant",
+  "participePasse": "entouré",
+  "present": [ "m'entoure", "t'entoures", "s'entoure", "nous entourons", "vous entourez", "s'entourent" ],
+  "imparfait": [ "m'entourais", "t'entourais", "s'entourait", "nous entourions", "vous entouriez", "s'entouraient" ],
+  "passeSimple": [ "m'entourai", "t'entouras", "s'entoura", "nous entourâmes", "vous entourâtes", "s'entourèrent" ],
+  "futurSimple": [ "m'entourerai", "t'entoureras", "s'entourera", "nous entourerons", "vous entourerez", "s'entoureront" ],
+  "passeCompose": [ "me suis entouré(e)", "t'es entouré(e)", "s'est entouré(e)", "nous sommes entouré(e)s", "vous êtes entouré(e)(s)", "se sont entouré(e)s" ],
+  "plusQueParfait": [ "m'étais entouré(e)", "t'étais entouré(e)", "s'était entouré(e)", "nous étions entouré(e)s", "vous étiez entouré(e)(s)", "s'étaient entouré(e)s" ],
+  "passeAnterieur": [ "me fus entouré(e)", "te fus entouré(e)", "se fut entouré(e)", "nous fûmes entouré(e)s", "vous fûtes entouré(e)(s)", "se furent entouré(e)s" ],
+  "futurAnterieur": [ "me serai entouré(e)", "te seras entouré(e)", "se sera entouré(e)", "nous serons entouré(e)s", "vous serez entouré(e)(s)", "se seront entouré(e)s" ],
+  "subjonctifPresent": [ "m'entoure", "t'entoures", "s'entoure", "nous entourions", "vous entouriez", "s'entourent" ],
+  "subjonctifImparfait": [ "m'entourasse", "t'entourasses", "s'entourât", "nous entourassions", "vous entourassiez", "s'entourassent" ],
+  "subjonctifPasse": [ "me sois entouré(e)", "te sois entouré(e)", "se soit entouré(e)", "nous soyons entouré(e)s", "vous soyez entouré(e)(s)", "se soient entouré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse entouré(e)", "te fusses entouré(e)", "se fût entouré(e)", "nous fussions entouré(e)s", "vous fussiez entouré(e)(s)", "se fussent entouré(e)s" ],
+  "conditionnelPresent": [ "m'entourerais", "t'entourerais", "s'entourerait", "nous entourerions", "vous entoureriez", "s'entoureraient" ],
+  "conditionnelPasse": [ "me serais entouré(e)", "te serais entouré(e)", "se serait entouré(e)", "nous serions entouré(e)s", "vous seriez entouré(e)(s)", "se seraient entouré(e)s" ],
+  "conditionnelPasseII": [ "me fusse entouré(e)", "te fusses entouré(e)", "se fût entouré(e)", "nous fussions entouré(e)s", "vous fussiez entouré(e)(s)", "se fussent entouré(e)s" ],
+  "imperatif": [ "–", "entoure-toi !", "–", "entourons-nous !", "entourez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

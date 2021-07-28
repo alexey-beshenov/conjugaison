@@ -1,0 +1,22 @@
+{
+  "infinitif": "se déclarer",
+  "participePresent": "se déclarant",
+  "participePasse": "déclaré",
+  "present": [ "me déclare", "te déclares", "se déclare", "nous déclarons", "vous déclarez", "se déclarent" ],
+  "imparfait": [ "me déclarais", "te déclarais", "se déclarait", "nous déclarions", "vous déclariez", "se déclaraient" ],
+  "passeSimple": [ "me déclarai", "te déclaras", "se déclara", "nous déclarâmes", "vous déclarâtes", "se déclarèrent" ],
+  "futurSimple": [ "me déclarerai", "te déclareras", "se déclarera", "nous déclarerons", "vous déclarerez", "se déclareront" ],
+  "passeCompose": [ "me suis déclaré(e)", "t'es déclaré(e)", "s'est déclaré(e)", "nous sommes déclaré(e)s", "vous êtes déclaré(e)(s)", "se sont déclaré(e)s" ],
+  "plusQueParfait": [ "m'étais déclaré(e)", "t'étais déclaré(e)", "s'était déclaré(e)", "nous étions déclaré(e)s", "vous étiez déclaré(e)(s)", "s'étaient déclaré(e)s" ],
+  "passeAnterieur": [ "me fus déclaré(e)", "te fus déclaré(e)", "se fut déclaré(e)", "nous fûmes déclaré(e)s", "vous fûtes déclaré(e)(s)", "se furent déclaré(e)s" ],
+  "futurAnterieur": [ "me serai déclaré(e)", "te seras déclaré(e)", "se sera déclaré(e)", "nous serons déclaré(e)s", "vous serez déclaré(e)(s)", "se seront déclaré(e)s" ],
+  "subjonctifPresent": [ "me déclare", "te déclares", "se déclare", "nous déclarions", "vous déclariez", "se déclarent" ],
+  "subjonctifImparfait": [ "me déclarasse", "te déclarasses", "se déclarât", "nous déclarassions", "vous déclarassiez", "se déclarassent" ],
+  "subjonctifPasse": [ "me sois déclaré(e)", "te sois déclaré(e)", "se soit déclaré(e)", "nous soyons déclaré(e)s", "vous soyez déclaré(e)(s)", "se soient déclaré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse déclaré(e)", "te fusses déclaré(e)", "se fût déclaré(e)", "nous fussions déclaré(e)s", "vous fussiez déclaré(e)(s)", "se fussent déclaré(e)s" ],
+  "conditionnelPresent": [ "me déclarerais", "te déclarerais", "se déclarerait", "nous déclarerions", "vous déclareriez", "se déclareraient" ],
+  "conditionnelPasse": [ "me serais déclaré(e)", "te serais déclaré(e)", "se serait déclaré(e)", "nous serions déclaré(e)s", "vous seriez déclaré(e)(s)", "se seraient déclaré(e)s" ],
+  "conditionnelPasseII": [ "me fusse déclaré(e)", "te fusses déclaré(e)", "se fût déclaré(e)", "nous fussions déclaré(e)s", "vous fussiez déclaré(e)(s)", "se fussent déclaré(e)s" ],
+  "imperatif": [ "–", "déclare-toi !", "–", "déclarons-nous !", "déclarez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

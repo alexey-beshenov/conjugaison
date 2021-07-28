@@ -1,0 +1,22 @@
+{
+  "infinitif": "posséder",
+  "participePresent": "possédant",
+  "participePasse": "possédé",
+  "present": [ "possède", "possèdes", "possède", "possédons", "possédez", "possèdent" ],
+  "imparfait": [ "possédais", "possédais", "possédait", "possédions", "possédiez", "possédaient" ],
+  "passeSimple": [ "possédai", "possédas", "posséda", "possédâmes", "possédâtes", "possédèrent" ],
+  "futurSimple": [ "posséderai", "posséderas", "possédera", "posséderons", "posséderez", "posséderont" ],
+  "passeCompose": [ "ai possédé", "as possédé", "a possédé", "avons possédé", "avez possédé", "ont possédé" ],
+  "plusQueParfait": [ "avais possédé", "avais possédé", "avait possédé", "avions possédé", "aviez possédé", "avaient possédé" ],
+  "passeAnterieur": [ "eus possédé", "eus possédé", "eut possédé", "eûmes possédé", "eûtes possédé", "eurent possédé" ],
+  "futurAnterieur": [ "aurai possédé", "auras possédé", "aura possédé", "aurons possédé", "aurez possédé", "auront possédé" ],
+  "subjonctifPresent": [ "possède", "possèdes", "possède", "possédions", "possédiez", "possèdent" ],
+  "subjonctifImparfait": [ "possédasse", "possédasses", "possédât", "possédassions", "possédassiez", "possédassent" ],
+  "subjonctifPasse": [ "aie possédé", "aies possédé", "ait possédé", "ayons possédé", "ayez possédé", "aient possédé" ],
+  "subjonctifPlusQueParfait": [ "eusse possédé", "eusses possédé", "eût possédé", "eussions possédé", "eussiez possédé", "eussent possédé" ],
+  "conditionnelPresent": [ "posséderais", "posséderais", "posséderait", "posséderions", "posséderiez", "posséderaient" ],
+  "conditionnelPasse": [ "aurais possédé", "aurais possédé", "aurait possédé", "aurions possédé", "auriez possédé", "auraient possédé" ],
+  "conditionnelPasseII": [ "eusse possédé", "eusses possédé", "eût possédé", "eussions possédé", "eussiez possédé", "eussent possédé" ],
+  "imperatif": [ "–", "possède !", "–", "possédons !", "possédez !", "–" ],
+  "imperatifPasse": [ "–", "aie possédé !", "–", "ayons possédé !", "ayez possédé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "donner",
+  "participePresent": "donnant",
+  "participePasse": "donné",
+  "present": [ "donne", "donnes", "donne", "donnons", "donnez", "donnent" ],
+  "imparfait": [ "donnais", "donnais", "donnait", "donnions", "donniez", "donnaient" ],
+  "passeSimple": [ "donnai", "donnas", "donna", "donnâmes", "donnâtes", "donnèrent" ],
+  "futurSimple": [ "donnerai", "donneras", "donnera", "donnerons", "donnerez", "donneront" ],
+  "passeCompose": [ "ai donné", "as donné", "a donné", "avons donné", "avez donné", "ont donné" ],
+  "plusQueParfait": [ "avais donné", "avais donné", "avait donné", "avions donné", "aviez donné", "avaient donné" ],
+  "passeAnterieur": [ "eus donné", "eus donné", "eut donné", "eûmes donné", "eûtes donné", "eurent donné" ],
+  "futurAnterieur": [ "aurai donné", "auras donné", "aura donné", "aurons donné", "aurez donné", "auront donné" ],
+  "subjonctifPresent": [ "donne", "donnes", "donne", "donnions", "donniez", "donnent" ],
+  "subjonctifImparfait": [ "donnasse", "donnasses", "donnât", "donnassions", "donnassiez", "donnassent" ],
+  "subjonctifPasse": [ "aie donné", "aies donné", "ait donné", "ayons donné", "ayez donné", "aient donné" ],
+  "subjonctifPlusQueParfait": [ "eusse donné", "eusses donné", "eût donné", "eussions donné", "eussiez donné", "eussent donné" ],
+  "conditionnelPresent": [ "donnerais", "donnerais", "donnerait", "donnerions", "donneriez", "donneraient" ],
+  "conditionnelPasse": [ "aurais donné", "aurais donné", "aurait donné", "aurions donné", "auriez donné", "auraient donné" ],
+  "conditionnelPasseII": [ "eusse donné", "eusses donné", "eût donné", "eussions donné", "eussiez donné", "eussent donné" ],
+  "imperatif": [ "–", "donne !", "–", "donnons !", "donnez !", "–" ],
+  "imperatifPasse": [ "–", "aie donné !", "–", "ayons donné !", "ayez donné !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "redire",
+  "participePresent": "redisant",
+  "participePasse": "redit",
+  "present": [ "redis", "redis", "redit", "redisons", "redites", "redisent" ],
+  "imparfait": [ "redisais", "redisais", "redisait", "redisions", "redisiez", "redisaient" ],
+  "passeSimple": [ "redis", "redis", "redit", "redîmes", "redîtes", "redirent" ],
+  "futurSimple": [ "redirai", "rediras", "redira", "redirons", "redirez", "rediront" ],
+  "passeCompose": [ "ai redit", "as redit", "a redit", "avons redit", "avez redit", "ont redit" ],
+  "plusQueParfait": [ "avais redit", "avais redit", "avait redit", "avions redit", "aviez redit", "avaient redit" ],
+  "passeAnterieur": [ "eus redit", "eus redit", "eut redit", "eûmes redit", "eûtes redit", "eurent redit" ],
+  "futurAnterieur": [ "aurai redit", "auras redit", "aura redit", "aurons redit", "aurez redit", "auront redit" ],
+  "subjonctifPresent": [ "redise", "redises", "redise", "redisions", "redisiez", "redisent" ],
+  "subjonctifImparfait": [ "redisse", "redisses", "redît", "redissions", "redissiez", "redissent" ],
+  "subjonctifPasse": [ "aie redit", "aies redit", "ait redit", "ayons redit", "ayez redit", "aient redit" ],
+  "subjonctifPlusQueParfait": [ "eusse redit", "eusses redit", "eût redit", "eussions redit", "eussiez redit", "eussent redit" ],
+  "conditionnelPresent": [ "redirais", "redirais", "redirait", "redirions", "rediriez", "rediraient" ],
+  "conditionnelPasse": [ "aurais redit", "aurais redit", "aurait redit", "aurions redit", "auriez redit", "auraient redit" ],
+  "conditionnelPasseII": [ "eusse redit", "eusses redit", "eût redit", "eussions redit", "eussiez redit", "eussent redit" ],
+  "imperatif": [ "–", "redis !", "–", "redisons !", "redites !", "–" ],
+  "imperatifPasse": [ "–", "aie redit !", "–", "ayons redit !", "ayez redit !", "–" ]
+}

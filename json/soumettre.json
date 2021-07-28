@@ -1,0 +1,22 @@
+{
+  "infinitif": "soumettre",
+  "participePresent": "soumettant",
+  "participePasse": "soumis",
+  "present": [ "soumets", "soumets", "soumet", "soumettons", "soumettez", "soumettent" ],
+  "imparfait": [ "soumettais", "soumettais", "soumettait", "soumettions", "soumettiez", "soumettaient" ],
+  "passeSimple": [ "soumis", "soumis", "soumit", "soumîmes", "soumîtes", "soumirent" ],
+  "futurSimple": [ "soumettrai", "soumettras", "soumettra", "soumettrons", "soumettrez", "soumettront" ],
+  "passeCompose": [ "ai soumis", "as soumis", "a soumis", "avons soumis", "avez soumis", "ont soumis" ],
+  "plusQueParfait": [ "avais soumis", "avais soumis", "avait soumis", "avions soumis", "aviez soumis", "avaient soumis" ],
+  "passeAnterieur": [ "eus soumis", "eus soumis", "eut soumis", "eûmes soumis", "eûtes soumis", "eurent soumis" ],
+  "futurAnterieur": [ "aurai soumis", "auras soumis", "aura soumis", "aurons soumis", "aurez soumis", "auront soumis" ],
+  "subjonctifPresent": [ "soumette", "soumettes", "soumette", "soumettions", "soumettiez", "soumettent" ],
+  "subjonctifImparfait": [ "soumisse", "soumisses", "soumît", "soumissions", "soumissiez", "soumissent" ],
+  "subjonctifPasse": [ "aie soumis", "aies soumis", "ait soumis", "ayons soumis", "ayez soumis", "aient soumis" ],
+  "subjonctifPlusQueParfait": [ "eusse soumis", "eusses soumis", "eût soumis", "eussions soumis", "eussiez soumis", "eussent soumis" ],
+  "conditionnelPresent": [ "soumettrais", "soumettrais", "soumettrait", "soumettrions", "soumettriez", "soumettraient" ],
+  "conditionnelPasse": [ "aurais soumis", "aurais soumis", "aurait soumis", "aurions soumis", "auriez soumis", "auraient soumis" ],
+  "conditionnelPasseII": [ "eusse soumis", "eusses soumis", "eût soumis", "eussions soumis", "eussiez soumis", "eussent soumis" ],
+  "imperatif": [ "–", "soumets !", "–", "soumettons !", "soumettez !", "–" ],
+  "imperatifPasse": [ "–", "aie soumis !", "–", "ayons soumis !", "ayez soumis !", "–" ]
+}

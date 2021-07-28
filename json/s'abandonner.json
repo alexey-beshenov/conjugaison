@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'abandonner",
+  "participePresent": "s'abandonnant",
+  "participePasse": "abandonné",
+  "present": [ "m'abandonne", "t'abandonnes", "s'abandonne", "nous abandonnons", "vous abandonnez", "s'abandonnent" ],
+  "imparfait": [ "m'abandonnais", "t'abandonnais", "s'abandonnait", "nous abandonnions", "vous abandonniez", "s'abandonnaient" ],
+  "passeSimple": [ "m'abandonnai", "t'abandonnas", "s'abandonna", "nous abandonnâmes", "vous abandonnâtes", "s'abandonnèrent" ],
+  "futurSimple": [ "m'abandonnerai", "t'abandonneras", "s'abandonnera", "nous abandonnerons", "vous abandonnerez", "s'abandonneront" ],
+  "passeCompose": [ "me suis abandonné(e)", "t'es abandonné(e)", "s'est abandonné(e)", "nous sommes abandonné(e)s", "vous êtes abandonné(e)(s)", "se sont abandonné(e)s" ],
+  "plusQueParfait": [ "m'étais abandonné(e)", "t'étais abandonné(e)", "s'était abandonné(e)", "nous étions abandonné(e)s", "vous étiez abandonné(e)(s)", "s'étaient abandonné(e)s" ],
+  "passeAnterieur": [ "me fus abandonné(e)", "te fus abandonné(e)", "se fut abandonné(e)", "nous fûmes abandonné(e)s", "vous fûtes abandonné(e)(s)", "se furent abandonné(e)s" ],
+  "futurAnterieur": [ "me serai abandonné(e)", "te seras abandonné(e)", "se sera abandonné(e)", "nous serons abandonné(e)s", "vous serez abandonné(e)(s)", "se seront abandonné(e)s" ],
+  "subjonctifPresent": [ "m'abandonne", "t'abandonnes", "s'abandonne", "nous abandonnions", "vous abandonniez", "s'abandonnent" ],
+  "subjonctifImparfait": [ "m'abandonnasse", "t'abandonnasses", "s'abandonnât", "nous abandonnassions", "vous abandonnassiez", "s'abandonnassent" ],
+  "subjonctifPasse": [ "me sois abandonné(e)", "te sois abandonné(e)", "se soit abandonné(e)", "nous soyons abandonné(e)s", "vous soyez abandonné(e)(s)", "se soient abandonné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse abandonné(e)", "te fusses abandonné(e)", "se fût abandonné(e)", "nous fussions abandonné(e)s", "vous fussiez abandonné(e)(s)", "se fussent abandonné(e)s" ],
+  "conditionnelPresent": [ "m'abandonnerais", "t'abandonnerais", "s'abandonnerait", "nous abandonnerions", "vous abandonneriez", "s'abandonneraient" ],
+  "conditionnelPasse": [ "me serais abandonné(e)", "te serais abandonné(e)", "se serait abandonné(e)", "nous serions abandonné(e)s", "vous seriez abandonné(e)(s)", "se seraient abandonné(e)s" ],
+  "conditionnelPasseII": [ "me fusse abandonné(e)", "te fusses abandonné(e)", "se fût abandonné(e)", "nous fussions abandonné(e)s", "vous fussiez abandonné(e)(s)", "se fussent abandonné(e)s" ],
+  "imperatif": [ "–", "abandonne-toi !", "–", "abandonnons-nous !", "abandonnez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

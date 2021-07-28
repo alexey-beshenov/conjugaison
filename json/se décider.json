@@ -1,0 +1,22 @@
+{
+  "infinitif": "se décider",
+  "participePresent": "se décidant",
+  "participePasse": "décidé",
+  "present": [ "me décide", "te décides", "se décide", "nous décidons", "vous décidez", "se décident" ],
+  "imparfait": [ "me décidais", "te décidais", "se décidait", "nous décidions", "vous décidiez", "se décidaient" ],
+  "passeSimple": [ "me décidai", "te décidas", "se décida", "nous décidâmes", "vous décidâtes", "se décidèrent" ],
+  "futurSimple": [ "me déciderai", "te décideras", "se décidera", "nous déciderons", "vous déciderez", "se décideront" ],
+  "passeCompose": [ "me suis décidé(e)", "t'es décidé(e)", "s'est décidé(e)", "nous sommes décidé(e)s", "vous êtes décidé(e)(s)", "se sont décidé(e)s" ],
+  "plusQueParfait": [ "m'étais décidé(e)", "t'étais décidé(e)", "s'était décidé(e)", "nous étions décidé(e)s", "vous étiez décidé(e)(s)", "s'étaient décidé(e)s" ],
+  "passeAnterieur": [ "me fus décidé(e)", "te fus décidé(e)", "se fut décidé(e)", "nous fûmes décidé(e)s", "vous fûtes décidé(e)(s)", "se furent décidé(e)s" ],
+  "futurAnterieur": [ "me serai décidé(e)", "te seras décidé(e)", "se sera décidé(e)", "nous serons décidé(e)s", "vous serez décidé(e)(s)", "se seront décidé(e)s" ],
+  "subjonctifPresent": [ "me décide", "te décides", "se décide", "nous décidions", "vous décidiez", "se décident" ],
+  "subjonctifImparfait": [ "me décidasse", "te décidasses", "se décidât", "nous décidassions", "vous décidassiez", "se décidassent" ],
+  "subjonctifPasse": [ "me sois décidé(e)", "te sois décidé(e)", "se soit décidé(e)", "nous soyons décidé(e)s", "vous soyez décidé(e)(s)", "se soient décidé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse décidé(e)", "te fusses décidé(e)", "se fût décidé(e)", "nous fussions décidé(e)s", "vous fussiez décidé(e)(s)", "se fussent décidé(e)s" ],
+  "conditionnelPresent": [ "me déciderais", "te déciderais", "se déciderait", "nous déciderions", "vous décideriez", "se décideraient" ],
+  "conditionnelPasse": [ "me serais décidé(e)", "te serais décidé(e)", "se serait décidé(e)", "nous serions décidé(e)s", "vous seriez décidé(e)(s)", "se seraient décidé(e)s" ],
+  "conditionnelPasseII": [ "me fusse décidé(e)", "te fusses décidé(e)", "se fût décidé(e)", "nous fussions décidé(e)s", "vous fussiez décidé(e)(s)", "se fussent décidé(e)s" ],
+  "imperatif": [ "–", "décide-toi !", "–", "décidons-nous !", "décidez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

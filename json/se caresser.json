@@ -1,0 +1,22 @@
+{
+  "infinitif": "se caresser",
+  "participePresent": "se caressant",
+  "participePasse": "caressé",
+  "present": [ "me caresse", "te caresses", "se caresse", "nous caressons", "vous caressez", "se caressent" ],
+  "imparfait": [ "me caressais", "te caressais", "se caressait", "nous caressions", "vous caressiez", "se caressaient" ],
+  "passeSimple": [ "me caressai", "te caressas", "se caressa", "nous caressâmes", "vous caressâtes", "se caressèrent" ],
+  "futurSimple": [ "me caresserai", "te caresseras", "se caressera", "nous caresserons", "vous caresserez", "se caresseront" ],
+  "passeCompose": [ "me suis caressé(e)", "t'es caressé(e)", "s'est caressé(e)", "nous sommes caressé(e)s", "vous êtes caressé(e)(s)", "se sont caressé(e)s" ],
+  "plusQueParfait": [ "m'étais caressé(e)", "t'étais caressé(e)", "s'était caressé(e)", "nous étions caressé(e)s", "vous étiez caressé(e)(s)", "s'étaient caressé(e)s" ],
+  "passeAnterieur": [ "me fus caressé(e)", "te fus caressé(e)", "se fut caressé(e)", "nous fûmes caressé(e)s", "vous fûtes caressé(e)(s)", "se furent caressé(e)s" ],
+  "futurAnterieur": [ "me serai caressé(e)", "te seras caressé(e)", "se sera caressé(e)", "nous serons caressé(e)s", "vous serez caressé(e)(s)", "se seront caressé(e)s" ],
+  "subjonctifPresent": [ "me caresse", "te caresses", "se caresse", "nous caressions", "vous caressiez", "se caressent" ],
+  "subjonctifImparfait": [ "me caressasse", "te caressasses", "se caressât", "nous caressassions", "vous caressassiez", "se caressassent" ],
+  "subjonctifPasse": [ "me sois caressé(e)", "te sois caressé(e)", "se soit caressé(e)", "nous soyons caressé(e)s", "vous soyez caressé(e)(s)", "se soient caressé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse caressé(e)", "te fusses caressé(e)", "se fût caressé(e)", "nous fussions caressé(e)s", "vous fussiez caressé(e)(s)", "se fussent caressé(e)s" ],
+  "conditionnelPresent": [ "me caresserais", "te caresserais", "se caresserait", "nous caresserions", "vous caresseriez", "se caresseraient" ],
+  "conditionnelPasse": [ "me serais caressé(e)", "te serais caressé(e)", "se serait caressé(e)", "nous serions caressé(e)s", "vous seriez caressé(e)(s)", "se seraient caressé(e)s" ],
+  "conditionnelPasseII": [ "me fusse caressé(e)", "te fusses caressé(e)", "se fût caressé(e)", "nous fussions caressé(e)s", "vous fussiez caressé(e)(s)", "se fussent caressé(e)s" ],
+  "imperatif": [ "–", "caresse-toi !", "–", "caressons-nous !", "caressez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

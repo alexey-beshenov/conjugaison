@@ -1,0 +1,22 @@
+{
+  "infinitif": "se placer",
+  "participePresent": "se plaçant",
+  "participePasse": "placé",
+  "present": [ "me place", "te places", "se place", "nous plaçons", "vous placez", "se placent" ],
+  "imparfait": [ "me plaçais", "te plaçais", "se plaçait", "nous placions", "vous placiez", "se plaçaient" ],
+  "passeSimple": [ "me plaçai", "te plaças", "se plaça", "nous plaçâmes", "vous plaçâtes", "se placèrent" ],
+  "futurSimple": [ "me placerai", "te placeras", "se placera", "nous placerons", "vous placerez", "se placeront" ],
+  "passeCompose": [ "me suis placé(e)", "t'es placé(e)", "s'est placé(e)", "nous sommes placé(e)s", "vous êtes placé(e)(s)", "se sont placé(e)s" ],
+  "plusQueParfait": [ "m'étais placé(e)", "t'étais placé(e)", "s'était placé(e)", "nous étions placé(e)s", "vous étiez placé(e)(s)", "s'étaient placé(e)s" ],
+  "passeAnterieur": [ "me fus placé(e)", "te fus placé(e)", "se fut placé(e)", "nous fûmes placé(e)s", "vous fûtes placé(e)(s)", "se furent placé(e)s" ],
+  "futurAnterieur": [ "me serai placé(e)", "te seras placé(e)", "se sera placé(e)", "nous serons placé(e)s", "vous serez placé(e)(s)", "se seront placé(e)s" ],
+  "subjonctifPresent": [ "me place", "te places", "se place", "nous placions", "vous placiez", "se placent" ],
+  "subjonctifImparfait": [ "me plaçasse", "te plaçasses", "se plaçât", "nous plaçassions", "vous plaçassiez", "se plaçassent" ],
+  "subjonctifPasse": [ "me sois placé(e)", "te sois placé(e)", "se soit placé(e)", "nous soyons placé(e)s", "vous soyez placé(e)(s)", "se soient placé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse placé(e)", "te fusses placé(e)", "se fût placé(e)", "nous fussions placé(e)s", "vous fussiez placé(e)(s)", "se fussent placé(e)s" ],
+  "conditionnelPresent": [ "me placerais", "te placerais", "se placerait", "nous placerions", "vous placeriez", "se placeraient" ],
+  "conditionnelPasse": [ "me serais placé(e)", "te serais placé(e)", "se serait placé(e)", "nous serions placé(e)s", "vous seriez placé(e)(s)", "se seraient placé(e)s" ],
+  "conditionnelPasseII": [ "me fusse placé(e)", "te fusses placé(e)", "se fût placé(e)", "nous fussions placé(e)s", "vous fussiez placé(e)(s)", "se fussent placé(e)s" ],
+  "imperatif": [ "–", "place-toi !", "–", "plaçons-nous !", "placez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

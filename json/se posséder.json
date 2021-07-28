@@ -1,0 +1,22 @@
+{
+  "infinitif": "se posséder",
+  "participePresent": "se possédant",
+  "participePasse": "possédé",
+  "present": [ "me possède", "te possèdes", "se possède", "nous possédons", "vous possédez", "se possèdent" ],
+  "imparfait": [ "me possédais", "te possédais", "se possédait", "nous possédions", "vous possédiez", "se possédaient" ],
+  "passeSimple": [ "me possédai", "te possédas", "se posséda", "nous possédâmes", "vous possédâtes", "se possédèrent" ],
+  "futurSimple": [ "me posséderai", "te posséderas", "se possédera", "nous posséderons", "vous posséderez", "se posséderont" ],
+  "passeCompose": [ "me suis possédé(e)", "t'es possédé(e)", "s'est possédé(e)", "nous sommes possédé(e)s", "vous êtes possédé(e)(s)", "se sont possédé(e)s" ],
+  "plusQueParfait": [ "m'étais possédé(e)", "t'étais possédé(e)", "s'était possédé(e)", "nous étions possédé(e)s", "vous étiez possédé(e)(s)", "s'étaient possédé(e)s" ],
+  "passeAnterieur": [ "me fus possédé(e)", "te fus possédé(e)", "se fut possédé(e)", "nous fûmes possédé(e)s", "vous fûtes possédé(e)(s)", "se furent possédé(e)s" ],
+  "futurAnterieur": [ "me serai possédé(e)", "te seras possédé(e)", "se sera possédé(e)", "nous serons possédé(e)s", "vous serez possédé(e)(s)", "se seront possédé(e)s" ],
+  "subjonctifPresent": [ "me possède", "te possèdes", "se possède", "nous possédions", "vous possédiez", "se possèdent" ],
+  "subjonctifImparfait": [ "me possédasse", "te possédasses", "se possédât", "nous possédassions", "vous possédassiez", "se possédassent" ],
+  "subjonctifPasse": [ "me sois possédé(e)", "te sois possédé(e)", "se soit possédé(e)", "nous soyons possédé(e)s", "vous soyez possédé(e)(s)", "se soient possédé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse possédé(e)", "te fusses possédé(e)", "se fût possédé(e)", "nous fussions possédé(e)s", "vous fussiez possédé(e)(s)", "se fussent possédé(e)s" ],
+  "conditionnelPresent": [ "me posséderais", "te posséderais", "se posséderait", "nous posséderions", "vous posséderiez", "se posséderaient" ],
+  "conditionnelPasse": [ "me serais possédé(e)", "te serais possédé(e)", "se serait possédé(e)", "nous serions possédé(e)s", "vous seriez possédé(e)(s)", "se seraient possédé(e)s" ],
+  "conditionnelPasseII": [ "me fusse possédé(e)", "te fusses possédé(e)", "se fût possédé(e)", "nous fussions possédé(e)s", "vous fussiez possédé(e)(s)", "se fussent possédé(e)s" ],
+  "imperatif": [ "–", "possède-toi !", "–", "possédons-nous !", "possédez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

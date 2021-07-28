@@ -1,0 +1,22 @@
+{
+  "infinitif": "regretter",
+  "participePresent": "regrettant",
+  "participePasse": "regretté",
+  "present": [ "regrette", "regrettes", "regrette", "regrettons", "regrettez", "regrettent" ],
+  "imparfait": [ "regrettais", "regrettais", "regrettait", "regrettions", "regrettiez", "regrettaient" ],
+  "passeSimple": [ "regrettai", "regrettas", "regretta", "regrettâmes", "regrettâtes", "regrettèrent" ],
+  "futurSimple": [ "regretterai", "regretteras", "regrettera", "regretterons", "regretterez", "regretteront" ],
+  "passeCompose": [ "ai regretté", "as regretté", "a regretté", "avons regretté", "avez regretté", "ont regretté" ],
+  "plusQueParfait": [ "avais regretté", "avais regretté", "avait regretté", "avions regretté", "aviez regretté", "avaient regretté" ],
+  "passeAnterieur": [ "eus regretté", "eus regretté", "eut regretté", "eûmes regretté", "eûtes regretté", "eurent regretté" ],
+  "futurAnterieur": [ "aurai regretté", "auras regretté", "aura regretté", "aurons regretté", "aurez regretté", "auront regretté" ],
+  "subjonctifPresent": [ "regrette", "regrettes", "regrette", "regrettions", "regrettiez", "regrettent" ],
+  "subjonctifImparfait": [ "regrettasse", "regrettasses", "regrettât", "regrettassions", "regrettassiez", "regrettassent" ],
+  "subjonctifPasse": [ "aie regretté", "aies regretté", "ait regretté", "ayons regretté", "ayez regretté", "aient regretté" ],
+  "subjonctifPlusQueParfait": [ "eusse regretté", "eusses regretté", "eût regretté", "eussions regretté", "eussiez regretté", "eussent regretté" ],
+  "conditionnelPresent": [ "regretterais", "regretterais", "regretterait", "regretterions", "regretteriez", "regretteraient" ],
+  "conditionnelPasse": [ "aurais regretté", "aurais regretté", "aurait regretté", "aurions regretté", "auriez regretté", "auraient regretté" ],
+  "conditionnelPasseII": [ "eusse regretté", "eusses regretté", "eût regretté", "eussions regretté", "eussiez regretté", "eussent regretté" ],
+  "imperatif": [ "–", "regrette !", "–", "regrettons !", "regrettez !", "–" ],
+  "imperatifPasse": [ "–", "aie regretté !", "–", "ayons regretté !", "ayez regretté !", "–" ]
+}

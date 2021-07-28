@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'assister",
+  "participePresent": "s'assistant",
+  "participePasse": "assisté",
+  "present": [ "m'assiste", "t'assistes", "s'assiste", "nous assistons", "vous assistez", "s'assistent" ],
+  "imparfait": [ "m'assistais", "t'assistais", "s'assistait", "nous assistions", "vous assistiez", "s'assistaient" ],
+  "passeSimple": [ "m'assistai", "t'assistas", "s'assista", "nous assistâmes", "vous assistâtes", "s'assistèrent" ],
+  "futurSimple": [ "m'assisterai", "t'assisteras", "s'assistera", "nous assisterons", "vous assisterez", "s'assisteront" ],
+  "passeCompose": [ "me suis assisté(e)", "t'es assisté(e)", "s'est assisté(e)", "nous sommes assisté(e)s", "vous êtes assisté(e)(s)", "se sont assisté(e)s" ],
+  "plusQueParfait": [ "m'étais assisté(e)", "t'étais assisté(e)", "s'était assisté(e)", "nous étions assisté(e)s", "vous étiez assisté(e)(s)", "s'étaient assisté(e)s" ],
+  "passeAnterieur": [ "me fus assisté(e)", "te fus assisté(e)", "se fut assisté(e)", "nous fûmes assisté(e)s", "vous fûtes assisté(e)(s)", "se furent assisté(e)s" ],
+  "futurAnterieur": [ "me serai assisté(e)", "te seras assisté(e)", "se sera assisté(e)", "nous serons assisté(e)s", "vous serez assisté(e)(s)", "se seront assisté(e)s" ],
+  "subjonctifPresent": [ "m'assiste", "t'assistes", "s'assiste", "nous assistions", "vous assistiez", "s'assistent" ],
+  "subjonctifImparfait": [ "m'assistasse", "t'assistasses", "s'assistât", "nous assistassions", "vous assistassiez", "s'assistassent" ],
+  "subjonctifPasse": [ "me sois assisté(e)", "te sois assisté(e)", "se soit assisté(e)", "nous soyons assisté(e)s", "vous soyez assisté(e)(s)", "se soient assisté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse assisté(e)", "te fusses assisté(e)", "se fût assisté(e)", "nous fussions assisté(e)s", "vous fussiez assisté(e)(s)", "se fussent assisté(e)s" ],
+  "conditionnelPresent": [ "m'assisterais", "t'assisterais", "s'assisterait", "nous assisterions", "vous assisteriez", "s'assisteraient" ],
+  "conditionnelPasse": [ "me serais assisté(e)", "te serais assisté(e)", "se serait assisté(e)", "nous serions assisté(e)s", "vous seriez assisté(e)(s)", "se seraient assisté(e)s" ],
+  "conditionnelPasseII": [ "me fusse assisté(e)", "te fusses assisté(e)", "se fût assisté(e)", "nous fussions assisté(e)s", "vous fussiez assisté(e)(s)", "se fussent assisté(e)s" ],
+  "imperatif": [ "–", "assiste-toi !", "–", "assistons-nous !", "assistez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

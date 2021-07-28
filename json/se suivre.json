@@ -1,0 +1,22 @@
+{
+  "infinitif": "se suivre",
+  "participePresent": "se suivant",
+  "participePasse": "suivi",
+  "present": [ "me suis", "te suis", "se suit", "nous suivons", "vous suivez", "se suivent" ],
+  "imparfait": [ "me suivais", "te suivais", "se suivait", "nous suivions", "vous suiviez", "se suivaient" ],
+  "passeSimple": [ "me suivis", "te suivis", "se suivit", "nous suivîmes", "vous suivîtes", "se suivirent" ],
+  "futurSimple": [ "me suivrai", "te suivras", "se suivra", "nous suivrons", "vous suivrez", "se suivront" ],
+  "passeCompose": [ "me suis suivi(e)", "t'es suivi(e)", "s'est suivi(e)", "nous sommes suivi(e)s", "vous êtes suivi(e)(s)", "se sont suivi(e)s" ],
+  "plusQueParfait": [ "m'étais suivi(e)", "t'étais suivi(e)", "s'était suivi(e)", "nous étions suivi(e)s", "vous étiez suivi(e)(s)", "s'étaient suivi(e)s" ],
+  "passeAnterieur": [ "me fus suivi(e)", "te fus suivi(e)", "se fut suivi(e)", "nous fûmes suivi(e)s", "vous fûtes suivi(e)(s)", "se furent suivi(e)s" ],
+  "futurAnterieur": [ "me serai suivi(e)", "te seras suivi(e)", "se sera suivi(e)", "nous serons suivi(e)s", "vous serez suivi(e)(s)", "se seront suivi(e)s" ],
+  "subjonctifPresent": [ "me suive", "te suives", "se suive", "nous suivions", "vous suiviez", "se suivent" ],
+  "subjonctifImparfait": [ "me suivisse", "te suivisses", "se suivît", "nous suivissions", "vous suivissiez", "se suivissent" ],
+  "subjonctifPasse": [ "me sois suivi(e)", "te sois suivi(e)", "se soit suivi(e)", "nous soyons suivi(e)s", "vous soyez suivi(e)(s)", "se soient suivi(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse suivi(e)", "te fusses suivi(e)", "se fût suivi(e)", "nous fussions suivi(e)s", "vous fussiez suivi(e)(s)", "se fussent suivi(e)s" ],
+  "conditionnelPresent": [ "me suivrais", "te suivrais", "se suivrait", "nous suivrions", "vous suivriez", "se suivraient" ],
+  "conditionnelPasse": [ "me serais suivi(e)", "te serais suivi(e)", "se serait suivi(e)", "nous serions suivi(e)s", "vous seriez suivi(e)(s)", "se seraient suivi(e)s" ],
+  "conditionnelPasseII": [ "me fusse suivi(e)", "te fusses suivi(e)", "se fût suivi(e)", "nous fussions suivi(e)s", "vous fussiez suivi(e)(s)", "se fussent suivi(e)s" ],
+  "imperatif": [ "–", "suis-toi !", "–", "suivons-nous !", "suivez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

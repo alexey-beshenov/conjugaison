@@ -1,0 +1,22 @@
+{
+  "infinitif": "se servir",
+  "participePresent": "se servant",
+  "participePasse": "servi",
+  "present": [ "me sers", "te sers", "se sert", "nous servons", "vous servez", "se servent" ],
+  "imparfait": [ "me servais", "te servais", "se servait", "nous servions", "vous serviez", "se servaient" ],
+  "passeSimple": [ "me servis", "te servis", "se servit", "nous servîmes", "vous servîtes", "se servirent" ],
+  "futurSimple": [ "me servirai", "te serviras", "se servira", "nous servirons", "vous servirez", "se serviront" ],
+  "passeCompose": [ "me suis servi(e)", "t'es servi(e)", "s'est servi(e)", "nous sommes servi(e)s", "vous êtes servi(e)(s)", "se sont servi(e)s" ],
+  "plusQueParfait": [ "m'étais servi(e)", "t'étais servi(e)", "s'était servi(e)", "nous étions servi(e)s", "vous étiez servi(e)(s)", "s'étaient servi(e)s" ],
+  "passeAnterieur": [ "me fus servi(e)", "te fus servi(e)", "se fut servi(e)", "nous fûmes servi(e)s", "vous fûtes servi(e)(s)", "se furent servi(e)s" ],
+  "futurAnterieur": [ "me serai servi(e)", "te seras servi(e)", "se sera servi(e)", "nous serons servi(e)s", "vous serez servi(e)(s)", "se seront servi(e)s" ],
+  "subjonctifPresent": [ "me serve", "te serves", "se serve", "nous servions", "vous serviez", "se servent" ],
+  "subjonctifImparfait": [ "me servisse", "te servisses", "se servît", "nous servissions", "vous servissiez", "se servissent" ],
+  "subjonctifPasse": [ "me sois servi(e)", "te sois servi(e)", "se soit servi(e)", "nous soyons servi(e)s", "vous soyez servi(e)(s)", "se soient servi(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse servi(e)", "te fusses servi(e)", "se fût servi(e)", "nous fussions servi(e)s", "vous fussiez servi(e)(s)", "se fussent servi(e)s" ],
+  "conditionnelPresent": [ "me servirais", "te servirais", "se servirait", "nous servirions", "vous serviriez", "se serviraient" ],
+  "conditionnelPasse": [ "me serais servi(e)", "te serais servi(e)", "se serait servi(e)", "nous serions servi(e)s", "vous seriez servi(e)(s)", "se seraient servi(e)s" ],
+  "conditionnelPasseII": [ "me fusse servi(e)", "te fusses servi(e)", "se fût servi(e)", "nous fussions servi(e)s", "vous fussiez servi(e)(s)", "se fussent servi(e)s" ],
+  "imperatif": [ "–", "sers-toi !", "–", "servons-nous !", "servez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

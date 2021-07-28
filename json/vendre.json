@@ -1,0 +1,22 @@
+{
+  "infinitif": "vendre",
+  "participePresent": "vendant",
+  "participePasse": "vendu",
+  "present": [ "vends", "vends", "vend", "vendons", "vendez", "vendent" ],
+  "imparfait": [ "vendais", "vendais", "vendait", "vendions", "vendiez", "vendaient" ],
+  "passeSimple": [ "vendis", "vendis", "vendit", "vendîmes", "vendîtes", "vendirent" ],
+  "futurSimple": [ "vendrai", "vendras", "vendra", "vendrons", "vendrez", "vendront" ],
+  "passeCompose": [ "ai vendu", "as vendu", "a vendu", "avons vendu", "avez vendu", "ont vendu" ],
+  "plusQueParfait": [ "avais vendu", "avais vendu", "avait vendu", "avions vendu", "aviez vendu", "avaient vendu" ],
+  "passeAnterieur": [ "eus vendu", "eus vendu", "eut vendu", "eûmes vendu", "eûtes vendu", "eurent vendu" ],
+  "futurAnterieur": [ "aurai vendu", "auras vendu", "aura vendu", "aurons vendu", "aurez vendu", "auront vendu" ],
+  "subjonctifPresent": [ "vende", "vendes", "vende", "vendions", "vendiez", "vendent" ],
+  "subjonctifImparfait": [ "vendisse", "vendisses", "vendît", "vendissions", "vendissiez", "vendissent" ],
+  "subjonctifPasse": [ "aie vendu", "aies vendu", "ait vendu", "ayons vendu", "ayez vendu", "aient vendu" ],
+  "subjonctifPlusQueParfait": [ "eusse vendu", "eusses vendu", "eût vendu", "eussions vendu", "eussiez vendu", "eussent vendu" ],
+  "conditionnelPresent": [ "vendrais", "vendrais", "vendrait", "vendrions", "vendriez", "vendraient" ],
+  "conditionnelPasse": [ "aurais vendu", "aurais vendu", "aurait vendu", "aurions vendu", "auriez vendu", "auraient vendu" ],
+  "conditionnelPasseII": [ "eusse vendu", "eusses vendu", "eût vendu", "eussions vendu", "eussiez vendu", "eussent vendu" ],
+  "imperatif": [ "–", "vends !", "–", "vendons !", "vendez !", "–" ],
+  "imperatifPasse": [ "–", "aie vendu !", "–", "ayons vendu !", "ayez vendu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rappeler",
+  "participePresent": "se rappelant",
+  "participePasse": "rappelé",
+  "present": [ "me rappelle", "te rappelles", "se rappelle", "nous rappelons", "vous rappelez", "se rappellent" ],
+  "imparfait": [ "me rappelais", "te rappelais", "se rappelait", "nous rappelions", "vous rappeliez", "se rappelaient" ],
+  "passeSimple": [ "me rappelai", "te rappelas", "se rappela", "nous rappelâmes", "vous rappelâtes", "se rappelèrent" ],
+  "futurSimple": [ "me rappellerai", "te rappelleras", "se rappellera", "nous rappellerons", "vous rappellerez", "se rappelleront" ],
+  "passeCompose": [ "me suis rappelé(e)", "t'es rappelé(e)", "s'est rappelé(e)", "nous sommes rappelé(e)s", "vous êtes rappelé(e)(s)", "se sont rappelé(e)s" ],
+  "plusQueParfait": [ "m'étais rappelé(e)", "t'étais rappelé(e)", "s'était rappelé(e)", "nous étions rappelé(e)s", "vous étiez rappelé(e)(s)", "s'étaient rappelé(e)s" ],
+  "passeAnterieur": [ "me fus rappelé(e)", "te fus rappelé(e)", "se fut rappelé(e)", "nous fûmes rappelé(e)s", "vous fûtes rappelé(e)(s)", "se furent rappelé(e)s" ],
+  "futurAnterieur": [ "me serai rappelé(e)", "te seras rappelé(e)", "se sera rappelé(e)", "nous serons rappelé(e)s", "vous serez rappelé(e)(s)", "se seront rappelé(e)s" ],
+  "subjonctifPresent": [ "me rappelle", "te rappelles", "se rappelle", "nous rappelions", "vous rappeliez", "se rappellent" ],
+  "subjonctifImparfait": [ "me rappelasse", "te rappelasses", "se rappelât", "nous rappelassions", "vous rappelassiez", "se rappelassent" ],
+  "subjonctifPasse": [ "me sois rappelé(e)", "te sois rappelé(e)", "se soit rappelé(e)", "nous soyons rappelé(e)s", "vous soyez rappelé(e)(s)", "se soient rappelé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rappelé(e)", "te fusses rappelé(e)", "se fût rappelé(e)", "nous fussions rappelé(e)s", "vous fussiez rappelé(e)(s)", "se fussent rappelé(e)s" ],
+  "conditionnelPresent": [ "me rappellerais", "te rappellerais", "se rappellerait", "nous rappellerions", "vous rappelleriez", "se rappelleraient" ],
+  "conditionnelPasse": [ "me serais rappelé(e)", "te serais rappelé(e)", "se serait rappelé(e)", "nous serions rappelé(e)s", "vous seriez rappelé(e)(s)", "se seraient rappelé(e)s" ],
+  "conditionnelPasseII": [ "me fusse rappelé(e)", "te fusses rappelé(e)", "se fût rappelé(e)", "nous fussions rappelé(e)s", "vous fussiez rappelé(e)(s)", "se fussent rappelé(e)s" ],
+  "imperatif": [ "–", "rappelle-toi !", "–", "rappelons-nous !", "rappelez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

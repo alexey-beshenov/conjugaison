@@ -1,0 +1,22 @@
+{
+  "infinitif": "exposer",
+  "participePresent": "exposant",
+  "participePasse": "exposé",
+  "present": [ "expose", "exposes", "expose", "exposons", "exposez", "exposent" ],
+  "imparfait": [ "exposais", "exposais", "exposait", "exposions", "exposiez", "exposaient" ],
+  "passeSimple": [ "exposai", "exposas", "exposa", "exposâmes", "exposâtes", "exposèrent" ],
+  "futurSimple": [ "exposerai", "exposeras", "exposera", "exposerons", "exposerez", "exposeront" ],
+  "passeCompose": [ "ai exposé", "as exposé", "a exposé", "avons exposé", "avez exposé", "ont exposé" ],
+  "plusQueParfait": [ "avais exposé", "avais exposé", "avait exposé", "avions exposé", "aviez exposé", "avaient exposé" ],
+  "passeAnterieur": [ "eus exposé", "eus exposé", "eut exposé", "eûmes exposé", "eûtes exposé", "eurent exposé" ],
+  "futurAnterieur": [ "aurai exposé", "auras exposé", "aura exposé", "aurons exposé", "aurez exposé", "auront exposé" ],
+  "subjonctifPresent": [ "expose", "exposes", "expose", "exposions", "exposiez", "exposent" ],
+  "subjonctifImparfait": [ "exposasse", "exposasses", "exposât", "exposassions", "exposassiez", "exposassent" ],
+  "subjonctifPasse": [ "aie exposé", "aies exposé", "ait exposé", "ayons exposé", "ayez exposé", "aient exposé" ],
+  "subjonctifPlusQueParfait": [ "eusse exposé", "eusses exposé", "eût exposé", "eussions exposé", "eussiez exposé", "eussent exposé" ],
+  "conditionnelPresent": [ "exposerais", "exposerais", "exposerait", "exposerions", "exposeriez", "exposeraient" ],
+  "conditionnelPasse": [ "aurais exposé", "aurais exposé", "aurait exposé", "aurions exposé", "auriez exposé", "auraient exposé" ],
+  "conditionnelPasseII": [ "eusse exposé", "eusses exposé", "eût exposé", "eussions exposé", "eussiez exposé", "eussent exposé" ],
+  "imperatif": [ "–", "expose !", "–", "exposons !", "exposez !", "–" ],
+  "imperatifPasse": [ "–", "aie exposé !", "–", "ayons exposé !", "ayez exposé !", "–" ]
+}

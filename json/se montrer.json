@@ -1,0 +1,22 @@
+{
+  "infinitif": "se montrer",
+  "participePresent": "se montrant",
+  "participePasse": "montré",
+  "present": [ "me montre", "te montres", "se montre", "nous montrons", "vous montrez", "se montrent" ],
+  "imparfait": [ "me montrais", "te montrais", "se montrait", "nous montrions", "vous montriez", "se montraient" ],
+  "passeSimple": [ "me montrai", "te montras", "se montra", "nous montrâmes", "vous montrâtes", "se montrèrent" ],
+  "futurSimple": [ "me montrerai", "te montreras", "se montrera", "nous montrerons", "vous montrerez", "se montreront" ],
+  "passeCompose": [ "me suis montré(e)", "t'es montré(e)", "s'est montré(e)", "nous sommes montré(e)s", "vous êtes montré(e)(s)", "se sont montré(e)s" ],
+  "plusQueParfait": [ "m'étais montré(e)", "t'étais montré(e)", "s'était montré(e)", "nous étions montré(e)s", "vous étiez montré(e)(s)", "s'étaient montré(e)s" ],
+  "passeAnterieur": [ "me fus montré(e)", "te fus montré(e)", "se fut montré(e)", "nous fûmes montré(e)s", "vous fûtes montré(e)(s)", "se furent montré(e)s" ],
+  "futurAnterieur": [ "me serai montré(e)", "te seras montré(e)", "se sera montré(e)", "nous serons montré(e)s", "vous serez montré(e)(s)", "se seront montré(e)s" ],
+  "subjonctifPresent": [ "me montre", "te montres", "se montre", "nous montrions", "vous montriez", "se montrent" ],
+  "subjonctifImparfait": [ "me montrasse", "te montrasses", "se montrât", "nous montrassions", "vous montrassiez", "se montrassent" ],
+  "subjonctifPasse": [ "me sois montré(e)", "te sois montré(e)", "se soit montré(e)", "nous soyons montré(e)s", "vous soyez montré(e)(s)", "se soient montré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse montré(e)", "te fusses montré(e)", "se fût montré(e)", "nous fussions montré(e)s", "vous fussiez montré(e)(s)", "se fussent montré(e)s" ],
+  "conditionnelPresent": [ "me montrerais", "te montrerais", "se montrerait", "nous montrerions", "vous montreriez", "se montreraient" ],
+  "conditionnelPasse": [ "me serais montré(e)", "te serais montré(e)", "se serait montré(e)", "nous serions montré(e)s", "vous seriez montré(e)(s)", "se seraient montré(e)s" ],
+  "conditionnelPasseII": [ "me fusse montré(e)", "te fusses montré(e)", "se fût montré(e)", "nous fussions montré(e)s", "vous fussiez montré(e)(s)", "se fussent montré(e)s" ],
+  "imperatif": [ "–", "montre-toi !", "–", "montrons-nous !", "montrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

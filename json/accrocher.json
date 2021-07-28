@@ -1,0 +1,22 @@
+{
+  "infinitif": "accrocher",
+  "participePresent": "accrochant",
+  "participePasse": "accroché",
+  "present": [ "accroche", "accroches", "accroche", "accrochons", "accrochez", "accrochent" ],
+  "imparfait": [ "accrochais", "accrochais", "accrochait", "accrochions", "accrochiez", "accrochaient" ],
+  "passeSimple": [ "accrochai", "accrochas", "accrocha", "accrochâmes", "accrochâtes", "accrochèrent" ],
+  "futurSimple": [ "accrocherai", "accrocheras", "accrochera", "accrocherons", "accrocherez", "accrocheront" ],
+  "passeCompose": [ "ai accroché", "as accroché", "a accroché", "avons accroché", "avez accroché", "ont accroché" ],
+  "plusQueParfait": [ "avais accroché", "avais accroché", "avait accroché", "avions accroché", "aviez accroché", "avaient accroché" ],
+  "passeAnterieur": [ "eus accroché", "eus accroché", "eut accroché", "eûmes accroché", "eûtes accroché", "eurent accroché" ],
+  "futurAnterieur": [ "aurai accroché", "auras accroché", "aura accroché", "aurons accroché", "aurez accroché", "auront accroché" ],
+  "subjonctifPresent": [ "accroche", "accroches", "accroche", "accrochions", "accrochiez", "accrochent" ],
+  "subjonctifImparfait": [ "accrochasse", "accrochasses", "accrochât", "accrochassions", "accrochassiez", "accrochassent" ],
+  "subjonctifPasse": [ "aie accroché", "aies accroché", "ait accroché", "ayons accroché", "ayez accroché", "aient accroché" ],
+  "subjonctifPlusQueParfait": [ "eusse accroché", "eusses accroché", "eût accroché", "eussions accroché", "eussiez accroché", "eussent accroché" ],
+  "conditionnelPresent": [ "accrocherais", "accrocherais", "accrocherait", "accrocherions", "accrocheriez", "accrocheraient" ],
+  "conditionnelPasse": [ "aurais accroché", "aurais accroché", "aurait accroché", "aurions accroché", "auriez accroché", "auraient accroché" ],
+  "conditionnelPasseII": [ "eusse accroché", "eusses accroché", "eût accroché", "eussions accroché", "eussiez accroché", "eussent accroché" ],
+  "imperatif": [ "–", "accroche !", "–", "accrochons !", "accrochez !", "–" ],
+  "imperatifPasse": [ "–", "aie accroché !", "–", "ayons accroché !", "ayez accroché !", "–" ]
+}

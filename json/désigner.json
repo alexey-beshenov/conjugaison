@@ -1,0 +1,22 @@
+{
+  "infinitif": "désigner",
+  "participePresent": "désignant",
+  "participePasse": "désigné",
+  "present": [ "désigne", "désignes", "désigne", "désignons", "désignez", "désignent" ],
+  "imparfait": [ "désignais", "désignais", "désignait", "désignions", "désigniez", "désignaient" ],
+  "passeSimple": [ "désignai", "désignas", "désigna", "désignâmes", "désignâtes", "désignèrent" ],
+  "futurSimple": [ "désignerai", "désigneras", "désignera", "désignerons", "désignerez", "désigneront" ],
+  "passeCompose": [ "ai désigné", "as désigné", "a désigné", "avons désigné", "avez désigné", "ont désigné" ],
+  "plusQueParfait": [ "avais désigné", "avais désigné", "avait désigné", "avions désigné", "aviez désigné", "avaient désigné" ],
+  "passeAnterieur": [ "eus désigné", "eus désigné", "eut désigné", "eûmes désigné", "eûtes désigné", "eurent désigné" ],
+  "futurAnterieur": [ "aurai désigné", "auras désigné", "aura désigné", "aurons désigné", "aurez désigné", "auront désigné" ],
+  "subjonctifPresent": [ "désigne", "désignes", "désigne", "désignions", "désigniez", "désignent" ],
+  "subjonctifImparfait": [ "désignasse", "désignasses", "désignât", "désignassions", "désignassiez", "désignassent" ],
+  "subjonctifPasse": [ "aie désigné", "aies désigné", "ait désigné", "ayons désigné", "ayez désigné", "aient désigné" ],
+  "subjonctifPlusQueParfait": [ "eusse désigné", "eusses désigné", "eût désigné", "eussions désigné", "eussiez désigné", "eussent désigné" ],
+  "conditionnelPresent": [ "désignerais", "désignerais", "désignerait", "désignerions", "désigneriez", "désigneraient" ],
+  "conditionnelPasse": [ "aurais désigné", "aurais désigné", "aurait désigné", "aurions désigné", "auriez désigné", "auraient désigné" ],
+  "conditionnelPasseII": [ "eusse désigné", "eusses désigné", "eût désigné", "eussions désigné", "eussiez désigné", "eussent désigné" ],
+  "imperatif": [ "–", "désigne !", "–", "désignons !", "désignez !", "–" ],
+  "imperatifPasse": [ "–", "aie désigné !", "–", "ayons désigné !", "ayez désigné !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "rire",
+  "participePresent": "riant",
+  "participePasse": "ri",
+  "present": [ "ris", "ris", "rit", "rions", "riez", "rient" ],
+  "imparfait": [ "riais", "riais", "riait", "riions", "riiez", "riaient" ],
+  "passeSimple": [ "ris", "ris", "rit", "rîmes", "rîtes", "rirent" ],
+  "futurSimple": [ "rirai", "riras", "rira", "rirons", "rirez", "riront" ],
+  "passeCompose": [ "ai ri", "as ri", "a ri", "avons ri", "avez ri", "ont ri" ],
+  "plusQueParfait": [ "avais ri", "avais ri", "avait ri", "avions ri", "aviez ri", "avaient ri" ],
+  "passeAnterieur": [ "eus ri", "eus ri", "eut ri", "eûmes ri", "eûtes ri", "eurent ri" ],
+  "futurAnterieur": [ "aurai ri", "auras ri", "aura ri", "aurons ri", "aurez ri", "auront ri" ],
+  "subjonctifPresent": [ "rie", "ries", "rie", "riions", "riiez", "rient" ],
+  "subjonctifImparfait": [ "risse", "risses", "rît", "rissions", "rissiez", "rissent" ],
+  "subjonctifPasse": [ "aie ri", "aies ri", "ait ri", "ayons ri", "ayez ri", "aient ri" ],
+  "subjonctifPlusQueParfait": [ "eusse ri", "eusses ri", "eût ri", "eussions ri", "eussiez ri", "eussent ri" ],
+  "conditionnelPresent": [ "rirais", "rirais", "rirait", "ririons", "ririez", "riraient" ],
+  "conditionnelPasse": [ "aurais ri", "aurais ri", "aurait ri", "aurions ri", "auriez ri", "auraient ri" ],
+  "conditionnelPasseII": [ "eusse ri", "eusses ri", "eût ri", "eussions ri", "eussiez ri", "eussent ri" ],
+  "imperatif": [ "–", "ris !", "–", "rions !", "riez !", "–" ],
+  "imperatifPasse": [ "–", "aie ri !", "–", "ayons ri !", "ayez ri !", "–" ]
+}

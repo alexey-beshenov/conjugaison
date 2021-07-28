@@ -1,0 +1,22 @@
+{
+  "infinitif": "prier",
+  "participePresent": "priant",
+  "participePasse": "prié",
+  "present": [ "prie", "pries", "prie", "prions", "priez", "prient" ],
+  "imparfait": [ "priais", "priais", "priait", "priions", "priiez", "priaient" ],
+  "passeSimple": [ "priai", "prias", "pria", "priâmes", "priâtes", "prièrent" ],
+  "futurSimple": [ "prierai", "prieras", "priera", "prierons", "prierez", "prieront" ],
+  "passeCompose": [ "ai prié", "as prié", "a prié", "avons prié", "avez prié", "ont prié" ],
+  "plusQueParfait": [ "avais prié", "avais prié", "avait prié", "avions prié", "aviez prié", "avaient prié" ],
+  "passeAnterieur": [ "eus prié", "eus prié", "eut prié", "eûmes prié", "eûtes prié", "eurent prié" ],
+  "futurAnterieur": [ "aurai prié", "auras prié", "aura prié", "aurons prié", "aurez prié", "auront prié" ],
+  "subjonctifPresent": [ "prie", "pries", "prie", "priions", "priiez", "prient" ],
+  "subjonctifImparfait": [ "priasse", "priasses", "priât", "priassions", "priassiez", "priassent" ],
+  "subjonctifPasse": [ "aie prié", "aies prié", "ait prié", "ayons prié", "ayez prié", "aient prié" ],
+  "subjonctifPlusQueParfait": [ "eusse prié", "eusses prié", "eût prié", "eussions prié", "eussiez prié", "eussent prié" ],
+  "conditionnelPresent": [ "prierais", "prierais", "prierait", "prierions", "prieriez", "prieraient" ],
+  "conditionnelPasse": [ "aurais prié", "aurais prié", "aurait prié", "aurions prié", "auriez prié", "auraient prié" ],
+  "conditionnelPasseII": [ "eusse prié", "eusses prié", "eût prié", "eussions prié", "eussiez prié", "eussent prié" ],
+  "imperatif": [ "–", "prie !", "–", "prions !", "priez !", "–" ],
+  "imperatifPasse": [ "–", "aie prié !", "–", "ayons prié !", "ayez prié !", "–" ]
+}

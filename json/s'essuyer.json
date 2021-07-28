@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'essuyer",
+  "participePresent": "s'essuyant",
+  "participePasse": "essuyé",
+  "present": [ "m'essuie", "t'essuies", "s'essuie", "nous essuyons", "vous essuyez", "s'essuient" ],
+  "imparfait": [ "m'essuyais", "t'essuyais", "s'essuyait", "nous essuyions", "vous essuyiez", "s'essuyaient" ],
+  "passeSimple": [ "m'essuyai", "t'essuyas", "s'essuya", "nous essuyâmes", "vous essuyâtes", "s'essuyèrent" ],
+  "futurSimple": [ "m'essuierai", "t'essuieras", "s'essuiera", "nous essuierons", "vous essuierez", "s'essuieront" ],
+  "passeCompose": [ "me suis essuyé(e)", "t'es essuyé(e)", "s'est essuyé(e)", "nous sommes essuyé(e)s", "vous êtes essuyé(e)(s)", "se sont essuyé(e)s" ],
+  "plusQueParfait": [ "m'étais essuyé(e)", "t'étais essuyé(e)", "s'était essuyé(e)", "nous étions essuyé(e)s", "vous étiez essuyé(e)(s)", "s'étaient essuyé(e)s" ],
+  "passeAnterieur": [ "me fus essuyé(e)", "te fus essuyé(e)", "se fut essuyé(e)", "nous fûmes essuyé(e)s", "vous fûtes essuyé(e)(s)", "se furent essuyé(e)s" ],
+  "futurAnterieur": [ "me serai essuyé(e)", "te seras essuyé(e)", "se sera essuyé(e)", "nous serons essuyé(e)s", "vous serez essuyé(e)(s)", "se seront essuyé(e)s" ],
+  "subjonctifPresent": [ "m'essuie", "t'essuies", "s'essuie", "nous essuyions", "vous essuyiez", "s'essuient" ],
+  "subjonctifImparfait": [ "m'essuyasse", "t'essuyasses", "s'essuyât", "nous essuyassions", "vous essuyassiez", "s'essuyassent" ],
+  "subjonctifPasse": [ "me sois essuyé(e)", "te sois essuyé(e)", "se soit essuyé(e)", "nous soyons essuyé(e)s", "vous soyez essuyé(e)(s)", "se soient essuyé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse essuyé(e)", "te fusses essuyé(e)", "se fût essuyé(e)", "nous fussions essuyé(e)s", "vous fussiez essuyé(e)(s)", "se fussent essuyé(e)s" ],
+  "conditionnelPresent": [ "m'essuierais", "t'essuierais", "s'essuierait", "nous essuierions", "vous essuieriez", "s'essuieraient" ],
+  "conditionnelPasse": [ "me serais essuyé(e)", "te serais essuyé(e)", "se serait essuyé(e)", "nous serions essuyé(e)s", "vous seriez essuyé(e)(s)", "se seraient essuyé(e)s" ],
+  "conditionnelPasseII": [ "me fusse essuyé(e)", "te fusses essuyé(e)", "se fût essuyé(e)", "nous fussions essuyé(e)s", "vous fussiez essuyé(e)(s)", "se fussent essuyé(e)s" ],
+  "imperatif": [ "–", "essuie-toi !", "–", "essuyons-nous !", "essuyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "tressaillir",
+  "participePresent": "tressaillant",
+  "participePasse": "tressailli",
+  "present": [ "tressaille", "tressailles", "tressaille", "tressaillons", "tressaillez", "tressaillent" ],
+  "imparfait": [ "tressaillais", "tressaillais", "tressaillait", "tressaillions", "tressailliez", "tressaillaient" ],
+  "passeSimple": [ "tressaillis", "tressaillis", "tressaillit", "tressaillîmes", "tressaillîtes", "tressaillirent" ],
+  "futurSimple": [ "tressaillirai", "tressailliras", "tressaillira", "tressaillirons", "tressaillirez", "tressailliront" ],
+  "passeCompose": [ "ai tressailli", "as tressailli", "a tressailli", "avons tressailli", "avez tressailli", "ont tressailli" ],
+  "plusQueParfait": [ "avais tressailli", "avais tressailli", "avait tressailli", "avions tressailli", "aviez tressailli", "avaient tressailli" ],
+  "passeAnterieur": [ "eus tressailli", "eus tressailli", "eut tressailli", "eûmes tressailli", "eûtes tressailli", "eurent tressailli" ],
+  "futurAnterieur": [ "aurai tressailli", "auras tressailli", "aura tressailli", "aurons tressailli", "aurez tressailli", "auront tressailli" ],
+  "subjonctifPresent": [ "tressaille", "tressailles", "tressaille", "tressaillions", "tressailliez", "tressaillent" ],
+  "subjonctifImparfait": [ "tressaillisse", "tressaillisses", "tressaillît", "tressaillissions", "tressaillissiez", "tressaillissent" ],
+  "subjonctifPasse": [ "aie tressailli", "aies tressailli", "ait tressailli", "ayons tressailli", "ayez tressailli", "aient tressailli" ],
+  "subjonctifPlusQueParfait": [ "eusse tressailli", "eusses tressailli", "eût tressailli", "eussions tressailli", "eussiez tressailli", "eussent tressailli" ],
+  "conditionnelPresent": [ "tressaillirais", "tressaillirais", "tressaillirait", "tressaillirions", "tressailliriez", "tressailliraient" ],
+  "conditionnelPasse": [ "aurais tressailli", "aurais tressailli", "aurait tressailli", "aurions tressailli", "auriez tressailli", "auraient tressailli" ],
+  "conditionnelPasseII": [ "eusse tressailli", "eusses tressailli", "eût tressailli", "eussions tressailli", "eussiez tressailli", "eussent tressailli" ],
+  "imperatif": [ "–", "tressaille !", "–", "tressaillons !", "tressaillez !", "–" ],
+  "imperatifPasse": [ "–", "aie tressailli !", "–", "ayons tressailli !", "ayez tressailli !", "–" ]
+}

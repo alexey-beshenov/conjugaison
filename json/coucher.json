@@ -1,0 +1,22 @@
+{
+  "infinitif": "coucher",
+  "participePresent": "couchant",
+  "participePasse": "couché",
+  "present": [ "couche", "couches", "couche", "couchons", "couchez", "couchent" ],
+  "imparfait": [ "couchais", "couchais", "couchait", "couchions", "couchiez", "couchaient" ],
+  "passeSimple": [ "couchai", "couchas", "coucha", "couchâmes", "couchâtes", "couchèrent" ],
+  "futurSimple": [ "coucherai", "coucheras", "couchera", "coucherons", "coucherez", "coucheront" ],
+  "passeCompose": [ "ai couché", "as couché", "a couché", "avons couché", "avez couché", "ont couché" ],
+  "plusQueParfait": [ "avais couché", "avais couché", "avait couché", "avions couché", "aviez couché", "avaient couché" ],
+  "passeAnterieur": [ "eus couché", "eus couché", "eut couché", "eûmes couché", "eûtes couché", "eurent couché" ],
+  "futurAnterieur": [ "aurai couché", "auras couché", "aura couché", "aurons couché", "aurez couché", "auront couché" ],
+  "subjonctifPresent": [ "couche", "couches", "couche", "couchions", "couchiez", "couchent" ],
+  "subjonctifImparfait": [ "couchasse", "couchasses", "couchât", "couchassions", "couchassiez", "couchassent" ],
+  "subjonctifPasse": [ "aie couché", "aies couché", "ait couché", "ayons couché", "ayez couché", "aient couché" ],
+  "subjonctifPlusQueParfait": [ "eusse couché", "eusses couché", "eût couché", "eussions couché", "eussiez couché", "eussent couché" ],
+  "conditionnelPresent": [ "coucherais", "coucherais", "coucherait", "coucherions", "coucheriez", "coucheraient" ],
+  "conditionnelPasse": [ "aurais couché", "aurais couché", "aurait couché", "aurions couché", "auriez couché", "auraient couché" ],
+  "conditionnelPasseII": [ "eusse couché", "eusses couché", "eût couché", "eussions couché", "eussiez couché", "eussent couché" ],
+  "imperatif": [ "–", "couche !", "–", "couchons !", "couchez !", "–" ],
+  "imperatifPasse": [ "–", "aie couché !", "–", "ayons couché !", "ayez couché !", "–" ]
+}

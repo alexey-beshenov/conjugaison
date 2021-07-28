@@ -1,0 +1,22 @@
+{
+  "infinitif": "se recevoir",
+  "participePresent": "se recevant",
+  "participePasse": "reçu",
+  "present": [ "me reçois", "te reçois", "se reçoit", "nous recevons", "vous recevez", "se reçoivent" ],
+  "imparfait": [ "me recevais", "te recevais", "se recevait", "nous recevions", "vous receviez", "se recevaient" ],
+  "passeSimple": [ "me reçus", "te reçus", "se reçut", "nous reçûmes", "vous reçûtes", "se reçurent" ],
+  "futurSimple": [ "me recevrai", "te recevras", "se recevra", "nous recevrons", "vous recevrez", "se recevront" ],
+  "passeCompose": [ "me suis reçu(e)", "t'es reçu(e)", "s'est reçu(e)", "nous sommes reçu(e)s", "vous êtes reçu(e)(s)", "se sont reçu(e)s" ],
+  "plusQueParfait": [ "m'étais reçu(e)", "t'étais reçu(e)", "s'était reçu(e)", "nous étions reçu(e)s", "vous étiez reçu(e)(s)", "s'étaient reçu(e)s" ],
+  "passeAnterieur": [ "me fus reçu(e)", "te fus reçu(e)", "se fut reçu(e)", "nous fûmes reçu(e)s", "vous fûtes reçu(e)(s)", "se furent reçu(e)s" ],
+  "futurAnterieur": [ "me serai reçu(e)", "te seras reçu(e)", "se sera reçu(e)", "nous serons reçu(e)s", "vous serez reçu(e)(s)", "se seront reçu(e)s" ],
+  "subjonctifPresent": [ "me reçoive", "te reçoives", "se reçoive", "nous recevions", "vous receviez", "se reçoivent" ],
+  "subjonctifImparfait": [ "me reçusse", "te reçusses", "se reçût", "nous reçussions", "vous reçussiez", "se reçussent" ],
+  "subjonctifPasse": [ "me sois reçu(e)", "te sois reçu(e)", "se soit reçu(e)", "nous soyons reçu(e)s", "vous soyez reçu(e)(s)", "se soient reçu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse reçu(e)", "te fusses reçu(e)", "se fût reçu(e)", "nous fussions reçu(e)s", "vous fussiez reçu(e)(s)", "se fussent reçu(e)s" ],
+  "conditionnelPresent": [ "me recevrais", "te recevrais", "se recevrait", "nous recevrions", "vous recevriez", "se recevraient" ],
+  "conditionnelPasse": [ "me serais reçu(e)", "te serais reçu(e)", "se serait reçu(e)", "nous serions reçu(e)s", "vous seriez reçu(e)(s)", "se seraient reçu(e)s" ],
+  "conditionnelPasseII": [ "me fusse reçu(e)", "te fusses reçu(e)", "se fût reçu(e)", "nous fussions reçu(e)s", "vous fussiez reçu(e)(s)", "se fussent reçu(e)s" ],
+  "imperatif": [ "–", "reçois-toi !", "–", "recevons-nous !", "recevez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

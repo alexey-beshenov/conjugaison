@@ -1,0 +1,22 @@
+{
+  "infinitif": "acquérir",
+  "participePresent": "acquérant",
+  "participePasse": "acquis",
+  "present": [ "acquiers", "acquiers", "acquiert", "acquérons", "acquérez", "acquièrent" ],
+  "imparfait": [ "acquérais", "acquérais", "acquérait", "acquérions", "acquériez", "acquéraient" ],
+  "passeSimple": [ "acquis", "acquis", "acquit", "acquîmes", "acquîtes", "acquirent" ],
+  "futurSimple": [ "acquerrai", "acquerras", "acquerra", "acquerrons", "acquerrez", "acquerront" ],
+  "passeCompose": [ "ai acquis", "as acquis", "a acquis", "avons acquis", "avez acquis", "ont acquis" ],
+  "plusQueParfait": [ "avais acquis", "avais acquis", "avait acquis", "avions acquis", "aviez acquis", "avaient acquis" ],
+  "passeAnterieur": [ "eus acquis", "eus acquis", "eut acquis", "eûmes acquis", "eûtes acquis", "eurent acquis" ],
+  "futurAnterieur": [ "aurai acquis", "auras acquis", "aura acquis", "aurons acquis", "aurez acquis", "auront acquis" ],
+  "subjonctifPresent": [ "acquière", "acquières", "acquière", "acquérions", "acquériez", "acquièrent" ],
+  "subjonctifImparfait": [ "acquisse", "acquisses", "acquît", "acquissions", "acquissiez", "acquissent" ],
+  "subjonctifPasse": [ "aie acquis", "aies acquis", "ait acquis", "ayons acquis", "ayez acquis", "aient acquis" ],
+  "subjonctifPlusQueParfait": [ "eusse acquis", "eusses acquis", "eût acquis", "eussions acquis", "eussiez acquis", "eussent acquis" ],
+  "conditionnelPresent": [ "acquerrais", "acquerrais", "acquerrait", "acquerrions", "acquerriez", "acquerraient" ],
+  "conditionnelPasse": [ "aurais acquis", "aurais acquis", "aurait acquis", "aurions acquis", "auriez acquis", "auraient acquis" ],
+  "conditionnelPasseII": [ "eusse acquis", "eusses acquis", "eût acquis", "eussions acquis", "eussiez acquis", "eussent acquis" ],
+  "imperatif": [ "–", "acquiers !", "–", "acquérons !", "acquérez !", "–" ],
+  "imperatifPasse": [ "–", "aie acquis !", "–", "ayons acquis !", "ayez acquis !", "–" ]
+}

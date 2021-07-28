@@ -1,0 +1,22 @@
+{
+  "infinitif": "entraîner",
+  "participePresent": "entraînant",
+  "participePasse": "entraîné",
+  "present": [ "entraîne", "entraînes", "entraîne", "entraînons", "entraînez", "entraînent" ],
+  "imparfait": [ "entraînais", "entraînais", "entraînait", "entraînions", "entraîniez", "entraînaient" ],
+  "passeSimple": [ "entraînai", "entraînas", "entraîna", "entraînâmes", "entraînâtes", "entraînèrent" ],
+  "futurSimple": [ "entraînerai", "entraîneras", "entraînera", "entraînerons", "entraînerez", "entraîneront" ],
+  "passeCompose": [ "ai entraîné", "as entraîné", "a entraîné", "avons entraîné", "avez entraîné", "ont entraîné" ],
+  "plusQueParfait": [ "avais entraîné", "avais entraîné", "avait entraîné", "avions entraîné", "aviez entraîné", "avaient entraîné" ],
+  "passeAnterieur": [ "eus entraîné", "eus entraîné", "eut entraîné", "eûmes entraîné", "eûtes entraîné", "eurent entraîné" ],
+  "futurAnterieur": [ "aurai entraîné", "auras entraîné", "aura entraîné", "aurons entraîné", "aurez entraîné", "auront entraîné" ],
+  "subjonctifPresent": [ "entraîne", "entraînes", "entraîne", "entraînions", "entraîniez", "entraînent" ],
+  "subjonctifImparfait": [ "entraînasse", "entraînasses", "entraînât", "entraînassions", "entraînassiez", "entraînassent" ],
+  "subjonctifPasse": [ "aie entraîné", "aies entraîné", "ait entraîné", "ayons entraîné", "ayez entraîné", "aient entraîné" ],
+  "subjonctifPlusQueParfait": [ "eusse entraîné", "eusses entraîné", "eût entraîné", "eussions entraîné", "eussiez entraîné", "eussent entraîné" ],
+  "conditionnelPresent": [ "entraînerais", "entraînerais", "entraînerait", "entraînerions", "entraîneriez", "entraîneraient" ],
+  "conditionnelPasse": [ "aurais entraîné", "aurais entraîné", "aurait entraîné", "aurions entraîné", "auriez entraîné", "auraient entraîné" ],
+  "conditionnelPasseII": [ "eusse entraîné", "eusses entraîné", "eût entraîné", "eussions entraîné", "eussiez entraîné", "eussent entraîné" ],
+  "imperatif": [ "–", "entraîne !", "–", "entraînons !", "entraînez !", "–" ],
+  "imperatifPasse": [ "–", "aie entraîné !", "–", "ayons entraîné !", "ayez entraîné !", "–" ]
+}

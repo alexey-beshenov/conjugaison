@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'emporter",
+  "participePresent": "s'emportant",
+  "participePasse": "emporté",
+  "present": [ "m'emporte", "t'emportes", "s'emporte", "nous emportons", "vous emportez", "s'emportent" ],
+  "imparfait": [ "m'emportais", "t'emportais", "s'emportait", "nous emportions", "vous emportiez", "s'emportaient" ],
+  "passeSimple": [ "m'emportai", "t'emportas", "s'emporta", "nous emportâmes", "vous emportâtes", "s'emportèrent" ],
+  "futurSimple": [ "m'emporterai", "t'emporteras", "s'emportera", "nous emporterons", "vous emporterez", "s'emporteront" ],
+  "passeCompose": [ "me suis emporté(e)", "t'es emporté(e)", "s'est emporté(e)", "nous sommes emporté(e)s", "vous êtes emporté(e)(s)", "se sont emporté(e)s" ],
+  "plusQueParfait": [ "m'étais emporté(e)", "t'étais emporté(e)", "s'était emporté(e)", "nous étions emporté(e)s", "vous étiez emporté(e)(s)", "s'étaient emporté(e)s" ],
+  "passeAnterieur": [ "me fus emporté(e)", "te fus emporté(e)", "se fut emporté(e)", "nous fûmes emporté(e)s", "vous fûtes emporté(e)(s)", "se furent emporté(e)s" ],
+  "futurAnterieur": [ "me serai emporté(e)", "te seras emporté(e)", "se sera emporté(e)", "nous serons emporté(e)s", "vous serez emporté(e)(s)", "se seront emporté(e)s" ],
+  "subjonctifPresent": [ "m'emporte", "t'emportes", "s'emporte", "nous emportions", "vous emportiez", "s'emportent" ],
+  "subjonctifImparfait": [ "m'emportasse", "t'emportasses", "s'emportât", "nous emportassions", "vous emportassiez", "s'emportassent" ],
+  "subjonctifPasse": [ "me sois emporté(e)", "te sois emporté(e)", "se soit emporté(e)", "nous soyons emporté(e)s", "vous soyez emporté(e)(s)", "se soient emporté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse emporté(e)", "te fusses emporté(e)", "se fût emporté(e)", "nous fussions emporté(e)s", "vous fussiez emporté(e)(s)", "se fussent emporté(e)s" ],
+  "conditionnelPresent": [ "m'emporterais", "t'emporterais", "s'emporterait", "nous emporterions", "vous emporteriez", "s'emporteraient" ],
+  "conditionnelPasse": [ "me serais emporté(e)", "te serais emporté(e)", "se serait emporté(e)", "nous serions emporté(e)s", "vous seriez emporté(e)(s)", "se seraient emporté(e)s" ],
+  "conditionnelPasseII": [ "me fusse emporté(e)", "te fusses emporté(e)", "se fût emporté(e)", "nous fussions emporté(e)s", "vous fussiez emporté(e)(s)", "se fussent emporté(e)s" ],
+  "imperatif": [ "–", "emporte-toi !", "–", "emportons-nous !", "emportez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

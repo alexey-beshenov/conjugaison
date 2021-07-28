@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'agir",
+  "participePresent": "s'agissant",
+  "participePasse": "agi",
+  "present": [ "–", "–", "s'agit", "–", "–", "–" ],
+  "imparfait": [ "–", "–", "s'agissait", "–", "–", "–" ],
+  "passeSimple": [ "–", "–", "s'agit", "–", "–", "–" ],
+  "futurSimple": [ "–", "–", "s'agira", "–", "–", "–" ],
+  "passeCompose": [ "–", "–", "s'est agi", "–", "–", "–" ],
+  "plusQueParfait": [ "–", "–", "s'était agi", "–", "–", "–" ],
+  "passeAnterieur": [ "–", "–", "se fut agi", "–", "–", "–" ],
+  "futurAnterieur": [ "–", "–", "se sera agi", "–", "–", "–" ],
+  "subjonctifPresent": [ "–", "–", "s'agisse", "–", "–", "–" ],
+  "subjonctifImparfait": [ "–", "–", "s'agît", "–", "–", "–" ],
+  "subjonctifPasse": [ "–", "–", "se soit agi", "–", "–", "–" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "se fût agi", "–", "–", "–" ],
+  "conditionnelPresent": [ "–", "–", "s'agirait", "–", "–", "–" ],
+  "conditionnelPasse": [ "–", "–", "se serait agi", "–", "–", "–" ],
+  "conditionnelPasseII": [ "–", "–", "se fût agi", "–", "–", "–" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

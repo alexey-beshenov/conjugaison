@@ -1,0 +1,22 @@
+{
+  "infinitif": "comprendre",
+  "participePresent": "comprenant",
+  "participePasse": "compris",
+  "present": [ "comprends", "comprends", "comprend", "comprenons", "comprenez", "comprennent" ],
+  "imparfait": [ "comprenais", "comprenais", "comprenait", "comprenions", "compreniez", "comprenaient" ],
+  "passeSimple": [ "compris", "compris", "comprit", "comprîmes", "comprîtes", "comprirent" ],
+  "futurSimple": [ "comprendrai", "comprendras", "comprendra", "comprendrons", "comprendrez", "comprendront" ],
+  "passeCompose": [ "ai compris", "as compris", "a compris", "avons compris", "avez compris", "ont compris" ],
+  "plusQueParfait": [ "avais compris", "avais compris", "avait compris", "avions compris", "aviez compris", "avaient compris" ],
+  "passeAnterieur": [ "eus compris", "eus compris", "eut compris", "eûmes compris", "eûtes compris", "eurent compris" ],
+  "futurAnterieur": [ "aurai compris", "auras compris", "aura compris", "aurons compris", "aurez compris", "auront compris" ],
+  "subjonctifPresent": [ "comprenne", "comprennes", "comprenne", "comprenions", "compreniez", "comprennent" ],
+  "subjonctifImparfait": [ "comprisse", "comprisses", "comprît", "comprissions", "comprissiez", "comprissent" ],
+  "subjonctifPasse": [ "aie compris", "aies compris", "ait compris", "ayons compris", "ayez compris", "aient compris" ],
+  "subjonctifPlusQueParfait": [ "eusse compris", "eusses compris", "eût compris", "eussions compris", "eussiez compris", "eussent compris" ],
+  "conditionnelPresent": [ "comprendrais", "comprendrais", "comprendrait", "comprendrions", "comprendriez", "comprendraient" ],
+  "conditionnelPasse": [ "aurais compris", "aurais compris", "aurait compris", "aurions compris", "auriez compris", "auraient compris" ],
+  "conditionnelPasseII": [ "eusse compris", "eusses compris", "eût compris", "eussions compris", "eussiez compris", "eussent compris" ],
+  "imperatif": [ "–", "comprends !", "–", "comprenons !", "comprenez !", "–" ],
+  "imperatifPasse": [ "–", "aie compris !", "–", "ayons compris !", "ayez compris !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "atteindre",
+  "participePresent": "atteignant",
+  "participePasse": "atteint",
+  "present": [ "atteins", "atteins", "atteint", "atteignons", "atteignez", "atteignent" ],
+  "imparfait": [ "atteignais", "atteignais", "atteignait", "atteignions", "atteigniez", "atteignaient" ],
+  "passeSimple": [ "atteignis", "atteignis", "atteignit", "atteignîmes", "atteignîtes", "atteignirent" ],
+  "futurSimple": [ "atteindrai", "atteindras", "atteindra", "atteindrons", "atteindrez", "atteindront" ],
+  "passeCompose": [ "ai atteint", "as atteint", "a atteint", "avons atteint", "avez atteint", "ont atteint" ],
+  "plusQueParfait": [ "avais atteint", "avais atteint", "avait atteint", "avions atteint", "aviez atteint", "avaient atteint" ],
+  "passeAnterieur": [ "eus atteint", "eus atteint", "eut atteint", "eûmes atteint", "eûtes atteint", "eurent atteint" ],
+  "futurAnterieur": [ "aurai atteint", "auras atteint", "aura atteint", "aurons atteint", "aurez atteint", "auront atteint" ],
+  "subjonctifPresent": [ "atteigne", "atteignes", "atteigne", "atteignions", "atteigniez", "atteignent" ],
+  "subjonctifImparfait": [ "atteignisse", "atteignisses", "atteignît", "atteignissions", "atteignissiez", "atteignissent" ],
+  "subjonctifPasse": [ "aie atteint", "aies atteint", "ait atteint", "ayons atteint", "ayez atteint", "aient atteint" ],
+  "subjonctifPlusQueParfait": [ "eusse atteint", "eusses atteint", "eût atteint", "eussions atteint", "eussiez atteint", "eussent atteint" ],
+  "conditionnelPresent": [ "atteindrais", "atteindrais", "atteindrait", "atteindrions", "atteindriez", "atteindraient" ],
+  "conditionnelPasse": [ "aurais atteint", "aurais atteint", "aurait atteint", "aurions atteint", "auriez atteint", "auraient atteint" ],
+  "conditionnelPasseII": [ "eusse atteint", "eusses atteint", "eût atteint", "eussions atteint", "eussiez atteint", "eussent atteint" ],
+  "imperatif": [ "–", "atteins !", "–", "atteignons !", "atteignez !", "–" ],
+  "imperatifPasse": [ "–", "aie atteint !", "–", "ayons atteint !", "ayez atteint !", "–" ]
+}

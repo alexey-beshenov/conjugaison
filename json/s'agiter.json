@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'agiter",
+  "participePresent": "s'agitant",
+  "participePasse": "agité",
+  "present": [ "m'agite", "t'agites", "s'agite", "nous agitons", "vous agitez", "s'agitent" ],
+  "imparfait": [ "m'agitais", "t'agitais", "s'agitait", "nous agitions", "vous agitiez", "s'agitaient" ],
+  "passeSimple": [ "m'agitai", "t'agitas", "s'agita", "nous agitâmes", "vous agitâtes", "s'agitèrent" ],
+  "futurSimple": [ "m'agiterai", "t'agiteras", "s'agitera", "nous agiterons", "vous agiterez", "s'agiteront" ],
+  "passeCompose": [ "me suis agité(e)", "t'es agité(e)", "s'est agité(e)", "nous sommes agité(e)s", "vous êtes agité(e)(s)", "se sont agité(e)s" ],
+  "plusQueParfait": [ "m'étais agité(e)", "t'étais agité(e)", "s'était agité(e)", "nous étions agité(e)s", "vous étiez agité(e)(s)", "s'étaient agité(e)s" ],
+  "passeAnterieur": [ "me fus agité(e)", "te fus agité(e)", "se fut agité(e)", "nous fûmes agité(e)s", "vous fûtes agité(e)(s)", "se furent agité(e)s" ],
+  "futurAnterieur": [ "me serai agité(e)", "te seras agité(e)", "se sera agité(e)", "nous serons agité(e)s", "vous serez agité(e)(s)", "se seront agité(e)s" ],
+  "subjonctifPresent": [ "m'agite", "t'agites", "s'agite", "nous agitions", "vous agitiez", "s'agitent" ],
+  "subjonctifImparfait": [ "m'agitasse", "t'agitasses", "s'agitât", "nous agitassions", "vous agitassiez", "s'agitassent" ],
+  "subjonctifPasse": [ "me sois agité(e)", "te sois agité(e)", "se soit agité(e)", "nous soyons agité(e)s", "vous soyez agité(e)(s)", "se soient agité(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse agité(e)", "te fusses agité(e)", "se fût agité(e)", "nous fussions agité(e)s", "vous fussiez agité(e)(s)", "se fussent agité(e)s" ],
+  "conditionnelPresent": [ "m'agiterais", "t'agiterais", "s'agiterait", "nous agiterions", "vous agiteriez", "s'agiteraient" ],
+  "conditionnelPasse": [ "me serais agité(e)", "te serais agité(e)", "se serait agité(e)", "nous serions agité(e)s", "vous seriez agité(e)(s)", "se seraient agité(e)s" ],
+  "conditionnelPasseII": [ "me fusse agité(e)", "te fusses agité(e)", "se fût agité(e)", "nous fussions agité(e)s", "vous fussiez agité(e)(s)", "se fussent agité(e)s" ],
+  "imperatif": [ "–", "agite-toi !", "–", "agitons-nous !", "agitez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

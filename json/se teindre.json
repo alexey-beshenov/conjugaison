@@ -1,0 +1,22 @@
+{
+  "infinitif": "se teindre",
+  "participePresent": "se teignant",
+  "participePasse": "teint",
+  "present": [ "me teins", "te teins", "se teint", "nous teignons", "vous teignez", "se teignent" ],
+  "imparfait": [ "me teignais", "te teignais", "se teignait", "nous teignions", "vous teigniez", "se teignaient" ],
+  "passeSimple": [ "me teignis", "te teignis", "se teignit", "nous teignîmes", "vous teignîtes", "se teignirent" ],
+  "futurSimple": [ "me teindrai", "te teindras", "se teindra", "nous teindrons", "vous teindrez", "se teindront" ],
+  "passeCompose": [ "me suis teint(e)", "t'es teint(e)", "s'est teint(e)", "nous sommes teint(e)s", "vous êtes teint(e)(s)", "se sont teint(e)s" ],
+  "plusQueParfait": [ "m'étais teint(e)", "t'étais teint(e)", "s'était teint(e)", "nous étions teint(e)s", "vous étiez teint(e)(s)", "s'étaient teint(e)s" ],
+  "passeAnterieur": [ "me fus teint(e)", "te fus teint(e)", "se fut teint(e)", "nous fûmes teint(e)s", "vous fûtes teint(e)(s)", "se furent teint(e)s" ],
+  "futurAnterieur": [ "me serai teint(e)", "te seras teint(e)", "se sera teint(e)", "nous serons teint(e)s", "vous serez teint(e)(s)", "se seront teint(e)s" ],
+  "subjonctifPresent": [ "me teigne", "te teignes", "se teigne", "nous teignions", "vous teigniez", "se teignent" ],
+  "subjonctifImparfait": [ "me teignisse", "te teignisses", "se teignît", "nous teignissions", "vous teignissiez", "se teignissent" ],
+  "subjonctifPasse": [ "me sois teint(e)", "te sois teint(e)", "se soit teint(e)", "nous soyons teint(e)s", "vous soyez teint(e)(s)", "se soient teint(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse teint(e)", "te fusses teint(e)", "se fût teint(e)", "nous fussions teint(e)s", "vous fussiez teint(e)(s)", "se fussent teint(e)s" ],
+  "conditionnelPresent": [ "me teindrais", "te teindrais", "se teindrait", "nous teindrions", "vous teindriez", "se teindraient" ],
+  "conditionnelPasse": [ "me serais teint(e)", "te serais teint(e)", "se serait teint(e)", "nous serions teint(e)s", "vous seriez teint(e)(s)", "se seraient teint(e)s" ],
+  "conditionnelPasseII": [ "me fusse teint(e)", "te fusses teint(e)", "se fût teint(e)", "nous fussions teint(e)s", "vous fussiez teint(e)(s)", "se fussent teint(e)s" ],
+  "imperatif": [ "–", "teins-toi !", "–", "teignons-nous !", "teignez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "vivre",
+  "participePresent": "vivant",
+  "participePasse": "vécu",
+  "present": [ "vis", "vis", "vit", "vivons", "vivez", "vivent" ],
+  "imparfait": [ "vivais", "vivais", "vivait", "vivions", "viviez", "vivaient" ],
+  "passeSimple": [ "vécus", "vécus", "vécut", "vécûmes", "vécûtes", "vécurent" ],
+  "futurSimple": [ "vivrai", "vivras", "vivra", "vivrons", "vivrez", "vivront" ],
+  "passeCompose": [ "ai vécu", "as vécu", "a vécu", "avons vécu", "avez vécu", "ont vécu" ],
+  "plusQueParfait": [ "avais vécu", "avais vécu", "avait vécu", "avions vécu", "aviez vécu", "avaient vécu" ],
+  "passeAnterieur": [ "eus vécu", "eus vécu", "eut vécu", "eûmes vécu", "eûtes vécu", "eurent vécu" ],
+  "futurAnterieur": [ "aurai vécu", "auras vécu", "aura vécu", "aurons vécu", "aurez vécu", "auront vécu" ],
+  "subjonctifPresent": [ "vive", "vives", "vive", "vivions", "viviez", "vivent" ],
+  "subjonctifImparfait": [ "vécusse", "vécusses", "vécût", "vécussions", "vécussiez", "vécussent" ],
+  "subjonctifPasse": [ "aie vécu", "aies vécu", "ait vécu", "ayons vécu", "ayez vécu", "aient vécu" ],
+  "subjonctifPlusQueParfait": [ "eusse vécu", "eusses vécu", "eût vécu", "eussions vécu", "eussiez vécu", "eussent vécu" ],
+  "conditionnelPresent": [ "vivrais", "vivrais", "vivrait", "vivrions", "vivriez", "vivraient" ],
+  "conditionnelPasse": [ "aurais vécu", "aurais vécu", "aurait vécu", "aurions vécu", "auriez vécu", "auraient vécu" ],
+  "conditionnelPasseII": [ "eusse vécu", "eusses vécu", "eût vécu", "eussions vécu", "eussiez vécu", "eussent vécu" ],
+  "imperatif": [ "–", "vis !", "–", "vivons !", "vivez !", "–" ],
+  "imperatifPasse": [ "–", "aie vécu !", "–", "ayons vécu !", "ayez vécu !", "–" ]
+}

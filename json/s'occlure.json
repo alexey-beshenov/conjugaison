@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'occlure",
+  "participePresent": "s'occluant",
+  "participePasse": "occlus",
+  "present": [ "m'occlus", "t'occlus", "s'occlut", "nous occluons", "vous occluez", "s'occluent" ],
+  "imparfait": [ "m'occluais", "t'occluais", "s'occluait", "nous occluions", "vous occluiez", "s'occluaient" ],
+  "passeSimple": [ "m'occlus", "t'occlus", "s'occlut", "nous occlûmes", "vous occlûtes", "s'occlurent" ],
+  "futurSimple": [ "m'occlurai", "t'occluras", "s'occlura", "nous occlurons", "vous occlurez", "s'occluront" ],
+  "passeCompose": [ "me suis occlus(e)", "t'es occlus(e)", "s'est occlus(e)", "nous sommes occlus(es)", "vous êtes occlus(e(s))", "se sont occlus(es)" ],
+  "plusQueParfait": [ "m'étais occlus(e)", "t'étais occlus(e)", "s'était occlus(e)", "nous étions occlus(es)", "vous étiez occlus(e(s))", "s'étaient occlus(es)" ],
+  "passeAnterieur": [ "me fus occlus(e)", "te fus occlus(e)", "se fut occlus(e)", "nous fûmes occlus(es)", "vous fûtes occlus(e(s))", "se furent occlus(es)" ],
+  "futurAnterieur": [ "me serai occlus(e)", "te seras occlus(e)", "se sera occlus(e)", "nous serons occlus(es)", "vous serez occlus(e(s))", "se seront occlus(es)" ],
+  "subjonctifPresent": [ "m'occlue", "t'occlues", "s'occlue", "nous occluions", "vous occluiez", "s'occluent" ],
+  "subjonctifImparfait": [ "m'occlusse", "t'occlusses", "s'occlût", "nous occlussions", "vous occlussiez", "s'occlussent" ],
+  "subjonctifPasse": [ "me sois occlus(e)", "te sois occlus(e)", "se soit occlus(e)", "nous soyons occlus(es)", "vous soyez occlus(e(s))", "se soient occlus(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse occlus(e)", "te fusses occlus(e)", "se fût occlus(e)", "nous fussions occlus(es)", "vous fussiez occlus(e(s))", "se fussent occlus(es)" ],
+  "conditionnelPresent": [ "m'occlurais", "t'occlurais", "s'occlurait", "nous occlurions", "vous occluriez", "s'occluraient" ],
+  "conditionnelPasse": [ "me serais occlus(e)", "te serais occlus(e)", "se serait occlus(e)", "nous serions occlus(es)", "vous seriez occlus(e(s))", "se seraient occlus(es)" ],
+  "conditionnelPasseII": [ "me fusse occlus(e)", "te fusses occlus(e)", "se fût occlus(e)", "nous fussions occlus(es)", "vous fussiez occlus(e(s))", "se fussent occlus(es)" ],
+  "imperatif": [ "–", "occlus-toi !", "–", "occluons-nous !", "occluez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

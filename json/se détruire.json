@@ -1,0 +1,22 @@
+{
+  "infinitif": "se détruire",
+  "participePresent": "se détruisant",
+  "participePasse": "détruit",
+  "present": [ "me détruis", "te détruis", "se détruit", "nous détruisons", "vous détruisez", "se détruisent" ],
+  "imparfait": [ "me détruisais", "te détruisais", "se détruisait", "nous détruisions", "vous détruisiez", "se détruisaient" ],
+  "passeSimple": [ "me détruisis", "te détruisis", "se détruisit", "nous détruisîmes", "vous détruisîtes", "se détruisirent" ],
+  "futurSimple": [ "me détruirai", "te détruiras", "se détruira", "nous détruirons", "vous détruirez", "se détruiront" ],
+  "passeCompose": [ "me suis détruit(e)", "t'es détruit(e)", "s'est détruit(e)", "nous sommes détruit(e)s", "vous êtes détruit(e)(s)", "se sont détruit(e)s" ],
+  "plusQueParfait": [ "m'étais détruit(e)", "t'étais détruit(e)", "s'était détruit(e)", "nous étions détruit(e)s", "vous étiez détruit(e)(s)", "s'étaient détruit(e)s" ],
+  "passeAnterieur": [ "me fus détruit(e)", "te fus détruit(e)", "se fut détruit(e)", "nous fûmes détruit(e)s", "vous fûtes détruit(e)(s)", "se furent détruit(e)s" ],
+  "futurAnterieur": [ "me serai détruit(e)", "te seras détruit(e)", "se sera détruit(e)", "nous serons détruit(e)s", "vous serez détruit(e)(s)", "se seront détruit(e)s" ],
+  "subjonctifPresent": [ "me détruise", "te détruises", "se détruise", "nous détruisions", "vous détruisiez", "se détruisent" ],
+  "subjonctifImparfait": [ "me détruisisse", "te détruisisses", "se détruisît", "nous détruisissions", "vous détruisissiez", "se détruisissent" ],
+  "subjonctifPasse": [ "me sois détruit(e)", "te sois détruit(e)", "se soit détruit(e)", "nous soyons détruit(e)s", "vous soyez détruit(e)(s)", "se soient détruit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse détruit(e)", "te fusses détruit(e)", "se fût détruit(e)", "nous fussions détruit(e)s", "vous fussiez détruit(e)(s)", "se fussent détruit(e)s" ],
+  "conditionnelPresent": [ "me détruirais", "te détruirais", "se détruirait", "nous détruirions", "vous détruiriez", "se détruiraient" ],
+  "conditionnelPasse": [ "me serais détruit(e)", "te serais détruit(e)", "se serait détruit(e)", "nous serions détruit(e)s", "vous seriez détruit(e)(s)", "se seraient détruit(e)s" ],
+  "conditionnelPasseII": [ "me fusse détruit(e)", "te fusses détruit(e)", "se fût détruit(e)", "nous fussions détruit(e)s", "vous fussiez détruit(e)(s)", "se fussent détruit(e)s" ],
+  "imperatif": [ "–", "détruis-toi !", "–", "détruisons-nous !", "détruisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

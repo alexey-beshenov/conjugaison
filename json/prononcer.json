@@ -1,0 +1,22 @@
+{
+  "infinitif": "prononcer",
+  "participePresent": "prononçant",
+  "participePasse": "prononcé",
+  "present": [ "prononce", "prononces", "prononce", "prononçons", "prononcez", "prononcent" ],
+  "imparfait": [ "prononçais", "prononçais", "prononçait", "prononcions", "prononciez", "prononçaient" ],
+  "passeSimple": [ "prononçai", "prononças", "prononça", "prononçâmes", "prononçâtes", "prononcèrent" ],
+  "futurSimple": [ "prononcerai", "prononceras", "prononcera", "prononcerons", "prononcerez", "prononceront" ],
+  "passeCompose": [ "ai prononcé", "as prononcé", "a prononcé", "avons prononcé", "avez prononcé", "ont prononcé" ],
+  "plusQueParfait": [ "avais prononcé", "avais prononcé", "avait prononcé", "avions prononcé", "aviez prononcé", "avaient prononcé" ],
+  "passeAnterieur": [ "eus prononcé", "eus prononcé", "eut prononcé", "eûmes prononcé", "eûtes prononcé", "eurent prononcé" ],
+  "futurAnterieur": [ "aurai prononcé", "auras prononcé", "aura prononcé", "aurons prononcé", "aurez prononcé", "auront prononcé" ],
+  "subjonctifPresent": [ "prononce", "prononces", "prononce", "prononcions", "prononciez", "prononcent" ],
+  "subjonctifImparfait": [ "prononçasse", "prononçasses", "prononçât", "prononçassions", "prononçassiez", "prononçassent" ],
+  "subjonctifPasse": [ "aie prononcé", "aies prononcé", "ait prononcé", "ayons prononcé", "ayez prononcé", "aient prononcé" ],
+  "subjonctifPlusQueParfait": [ "eusse prononcé", "eusses prononcé", "eût prononcé", "eussions prononcé", "eussiez prononcé", "eussent prononcé" ],
+  "conditionnelPresent": [ "prononcerais", "prononcerais", "prononcerait", "prononcerions", "prononceriez", "prononceraient" ],
+  "conditionnelPasse": [ "aurais prononcé", "aurais prononcé", "aurait prononcé", "aurions prononcé", "auriez prononcé", "auraient prononcé" ],
+  "conditionnelPasseII": [ "eusse prononcé", "eusses prononcé", "eût prononcé", "eussions prononcé", "eussiez prononcé", "eussent prononcé" ],
+  "imperatif": [ "–", "prononce !", "–", "prononçons !", "prononcez !", "–" ],
+  "imperatifPasse": [ "–", "aie prononcé !", "–", "ayons prononcé !", "ayez prononcé !", "–" ]
+}

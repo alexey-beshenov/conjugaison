@@ -1,0 +1,22 @@
+{
+  "infinitif": "relire",
+  "participePresent": "relisant",
+  "participePasse": "relu",
+  "present": [ "relis", "relis", "relit", "relisons", "relisez", "relisent" ],
+  "imparfait": [ "relisais", "relisais", "relisait", "relisions", "relisiez", "relisaient" ],
+  "passeSimple": [ "relus", "relus", "relut", "relûmes", "relûtes", "relurent" ],
+  "futurSimple": [ "relirai", "reliras", "relira", "relirons", "relirez", "reliront" ],
+  "passeCompose": [ "ai relu", "as relu", "a relu", "avons relu", "avez relu", "ont relu" ],
+  "plusQueParfait": [ "avais relu", "avais relu", "avait relu", "avions relu", "aviez relu", "avaient relu" ],
+  "passeAnterieur": [ "eus relu", "eus relu", "eut relu", "eûmes relu", "eûtes relu", "eurent relu" ],
+  "futurAnterieur": [ "aurai relu", "auras relu", "aura relu", "aurons relu", "aurez relu", "auront relu" ],
+  "subjonctifPresent": [ "relise", "relises", "relise", "relisions", "relisiez", "relisent" ],
+  "subjonctifImparfait": [ "relusse", "relusses", "relût", "relussions", "relussiez", "relussent" ],
+  "subjonctifPasse": [ "aie relu", "aies relu", "ait relu", "ayons relu", "ayez relu", "aient relu" ],
+  "subjonctifPlusQueParfait": [ "eusse relu", "eusses relu", "eût relu", "eussions relu", "eussiez relu", "eussent relu" ],
+  "conditionnelPresent": [ "relirais", "relirais", "relirait", "relirions", "reliriez", "reliraient" ],
+  "conditionnelPasse": [ "aurais relu", "aurais relu", "aurait relu", "aurions relu", "auriez relu", "auraient relu" ],
+  "conditionnelPasseII": [ "eusse relu", "eusses relu", "eût relu", "eussions relu", "eussiez relu", "eussent relu" ],
+  "imperatif": [ "–", "relis !", "–", "relisons !", "relisez !", "–" ],
+  "imperatifPasse": [ "–", "aie relu !", "–", "ayons relu !", "ayez relu !", "–" ]
+}

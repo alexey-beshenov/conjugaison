@@ -1,0 +1,22 @@
+{
+  "infinitif": "surpayer",
+  "participePresent": "surpayant",
+  "participePasse": "surpayé",
+  "present": [ "surpaie, surpaye", "surpaies, surpayes", "surpaie, surpaye", "surpayons", "surpayez", "surpaient, surpayent" ],
+  "imparfait": [ "surpayais", "surpayais", "surpayait", "surpayions", "surpayiez", "surpayaient" ],
+  "passeSimple": [ "surpayai", "surpayas", "surpaya", "surpayâmes", "surpayâtes", "surpayèrent" ],
+  "futurSimple": [ "surpaierai, surpayerai", "surpaieras, surpayeras", "surpaiera, surpayera", "surpaierons, surpayerons", "surpaierez, surpayerez", "surpaieront, surpayeront" ],
+  "passeCompose": [ "ai surpayé", "as surpayé", "a surpayé", "avons surpayé", "avez surpayé", "ont surpayé" ],
+  "plusQueParfait": [ "avais surpayé", "avais surpayé", "avait surpayé", "avions surpayé", "aviez surpayé", "avaient surpayé" ],
+  "passeAnterieur": [ "eus surpayé", "eus surpayé", "eut surpayé", "eûmes surpayé", "eûtes surpayé", "eurent surpayé" ],
+  "futurAnterieur": [ "aurai surpayé", "auras surpayé", "aura surpayé", "aurons surpayé", "aurez surpayé", "auront surpayé" ],
+  "subjonctifPresent": [ "surpaie, surpaye", "surpaies, surpayes", "surpaie, surpaye", "surpayions", "surpayiez", "surpaient, surpayent" ],
+  "subjonctifImparfait": [ "surpayasse", "surpayasses", "surpayât", "surpayassions", "surpayassiez", "surpayassent" ],
+  "subjonctifPasse": [ "aie surpayé", "aies surpayé", "ait surpayé", "ayons surpayé", "ayez surpayé", "aient surpayé" ],
+  "subjonctifPlusQueParfait": [ "eusse surpayé", "eusses surpayé", "eût surpayé", "eussions surpayé", "eussiez surpayé", "eussent surpayé" ],
+  "conditionnelPresent": [ "surpaierais, surpayerais", "surpaierais, surpayerais", "surpaierait, surpayerait", "surpaierions, surpayerions", "surpaieriez, surpayeriez", "surpaieraient, surpayeraient" ],
+  "conditionnelPasse": [ "aurais surpayé", "aurais surpayé", "aurait surpayé", "aurions surpayé", "auriez surpayé", "auraient surpayé" ],
+  "conditionnelPasseII": [ "eusse surpayé", "eusses surpayé", "eût surpayé", "eussions surpayé", "eussiez surpayé", "eussent surpayé" ],
+  "imperatif": [ "–", "surpaie, surpaye !", "–", "surpayons !", "surpayez !", "–" ],
+  "imperatifPasse": [ "–", "aie surpayé !", "–", "ayons surpayé !", "ayez surpayé !", "–" ]
+}

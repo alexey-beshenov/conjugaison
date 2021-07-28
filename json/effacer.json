@@ -1,0 +1,22 @@
+{
+  "infinitif": "effacer",
+  "participePresent": "effaçant",
+  "participePasse": "effacé",
+  "present": [ "efface", "effaces", "efface", "effaçons", "effacez", "effacent" ],
+  "imparfait": [ "effaçais", "effaçais", "effaçait", "effacions", "effaciez", "effaçaient" ],
+  "passeSimple": [ "effaçai", "effaças", "effaça", "effaçâmes", "effaçâtes", "effacèrent" ],
+  "futurSimple": [ "effacerai", "effaceras", "effacera", "effacerons", "effacerez", "effaceront" ],
+  "passeCompose": [ "ai effacé", "as effacé", "a effacé", "avons effacé", "avez effacé", "ont effacé" ],
+  "plusQueParfait": [ "avais effacé", "avais effacé", "avait effacé", "avions effacé", "aviez effacé", "avaient effacé" ],
+  "passeAnterieur": [ "eus effacé", "eus effacé", "eut effacé", "eûmes effacé", "eûtes effacé", "eurent effacé" ],
+  "futurAnterieur": [ "aurai effacé", "auras effacé", "aura effacé", "aurons effacé", "aurez effacé", "auront effacé" ],
+  "subjonctifPresent": [ "efface", "effaces", "efface", "effacions", "effaciez", "effacent" ],
+  "subjonctifImparfait": [ "effaçasse", "effaçasses", "effaçât", "effaçassions", "effaçassiez", "effaçassent" ],
+  "subjonctifPasse": [ "aie effacé", "aies effacé", "ait effacé", "ayons effacé", "ayez effacé", "aient effacé" ],
+  "subjonctifPlusQueParfait": [ "eusse effacé", "eusses effacé", "eût effacé", "eussions effacé", "eussiez effacé", "eussent effacé" ],
+  "conditionnelPresent": [ "effacerais", "effacerais", "effacerait", "effacerions", "effaceriez", "effaceraient" ],
+  "conditionnelPasse": [ "aurais effacé", "aurais effacé", "aurait effacé", "aurions effacé", "auriez effacé", "auraient effacé" ],
+  "conditionnelPasseII": [ "eusse effacé", "eusses effacé", "eût effacé", "eussions effacé", "eussiez effacé", "eussent effacé" ],
+  "imperatif": [ "–", "efface !", "–", "effaçons !", "effacez !", "–" ],
+  "imperatifPasse": [ "–", "aie effacé !", "–", "ayons effacé !", "ayez effacé !", "–" ]
+}

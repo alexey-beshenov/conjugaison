@@ -1,0 +1,22 @@
+{
+  "infinitif": "voler",
+  "participePresent": "volant",
+  "participePasse": "volé",
+  "present": [ "vole", "voles", "vole", "volons", "volez", "volent" ],
+  "imparfait": [ "volais", "volais", "volait", "volions", "voliez", "volaient" ],
+  "passeSimple": [ "volai", "volas", "vola", "volâmes", "volâtes", "volèrent" ],
+  "futurSimple": [ "volerai", "voleras", "volera", "volerons", "volerez", "voleront" ],
+  "passeCompose": [ "ai volé", "as volé", "a volé", "avons volé", "avez volé", "ont volé" ],
+  "plusQueParfait": [ "avais volé", "avais volé", "avait volé", "avions volé", "aviez volé", "avaient volé" ],
+  "passeAnterieur": [ "eus volé", "eus volé", "eut volé", "eûmes volé", "eûtes volé", "eurent volé" ],
+  "futurAnterieur": [ "aurai volé", "auras volé", "aura volé", "aurons volé", "aurez volé", "auront volé" ],
+  "subjonctifPresent": [ "vole", "voles", "vole", "volions", "voliez", "volent" ],
+  "subjonctifImparfait": [ "volasse", "volasses", "volât", "volassions", "volassiez", "volassent" ],
+  "subjonctifPasse": [ "aie volé", "aies volé", "ait volé", "ayons volé", "ayez volé", "aient volé" ],
+  "subjonctifPlusQueParfait": [ "eusse volé", "eusses volé", "eût volé", "eussions volé", "eussiez volé", "eussent volé" ],
+  "conditionnelPresent": [ "volerais", "volerais", "volerait", "volerions", "voleriez", "voleraient" ],
+  "conditionnelPasse": [ "aurais volé", "aurais volé", "aurait volé", "aurions volé", "auriez volé", "auraient volé" ],
+  "conditionnelPasseII": [ "eusse volé", "eusses volé", "eût volé", "eussions volé", "eussiez volé", "eussent volé" ],
+  "imperatif": [ "–", "vole !", "–", "volons !", "volez !", "–" ],
+  "imperatifPasse": [ "–", "aie volé !", "–", "ayons volé !", "ayez volé !", "–" ]
+}

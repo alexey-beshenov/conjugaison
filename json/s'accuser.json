@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'accuser",
+  "participePresent": "s'accusant",
+  "participePasse": "accusé",
+  "present": [ "m'accuse", "t'accuses", "s'accuse", "nous accusons", "vous accusez", "s'accusent" ],
+  "imparfait": [ "m'accusais", "t'accusais", "s'accusait", "nous accusions", "vous accusiez", "s'accusaient" ],
+  "passeSimple": [ "m'accusai", "t'accusas", "s'accusa", "nous accusâmes", "vous accusâtes", "s'accusèrent" ],
+  "futurSimple": [ "m'accuserai", "t'accuseras", "s'accusera", "nous accuserons", "vous accuserez", "s'accuseront" ],
+  "passeCompose": [ "me suis accusé(e)", "t'es accusé(e)", "s'est accusé(e)", "nous sommes accusé(e)s", "vous êtes accusé(e)(s)", "se sont accusé(e)s" ],
+  "plusQueParfait": [ "m'étais accusé(e)", "t'étais accusé(e)", "s'était accusé(e)", "nous étions accusé(e)s", "vous étiez accusé(e)(s)", "s'étaient accusé(e)s" ],
+  "passeAnterieur": [ "me fus accusé(e)", "te fus accusé(e)", "se fut accusé(e)", "nous fûmes accusé(e)s", "vous fûtes accusé(e)(s)", "se furent accusé(e)s" ],
+  "futurAnterieur": [ "me serai accusé(e)", "te seras accusé(e)", "se sera accusé(e)", "nous serons accusé(e)s", "vous serez accusé(e)(s)", "se seront accusé(e)s" ],
+  "subjonctifPresent": [ "m'accuse", "t'accuses", "s'accuse", "nous accusions", "vous accusiez", "s'accusent" ],
+  "subjonctifImparfait": [ "m'accusasse", "t'accusasses", "s'accusât", "nous accusassions", "vous accusassiez", "s'accusassent" ],
+  "subjonctifPasse": [ "me sois accusé(e)", "te sois accusé(e)", "se soit accusé(e)", "nous soyons accusé(e)s", "vous soyez accusé(e)(s)", "se soient accusé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse accusé(e)", "te fusses accusé(e)", "se fût accusé(e)", "nous fussions accusé(e)s", "vous fussiez accusé(e)(s)", "se fussent accusé(e)s" ],
+  "conditionnelPresent": [ "m'accuserais", "t'accuserais", "s'accuserait", "nous accuserions", "vous accuseriez", "s'accuseraient" ],
+  "conditionnelPasse": [ "me serais accusé(e)", "te serais accusé(e)", "se serait accusé(e)", "nous serions accusé(e)s", "vous seriez accusé(e)(s)", "se seraient accusé(e)s" ],
+  "conditionnelPasseII": [ "me fusse accusé(e)", "te fusses accusé(e)", "se fût accusé(e)", "nous fussions accusé(e)s", "vous fussiez accusé(e)(s)", "se fussent accusé(e)s" ],
+  "imperatif": [ "–", "accuse-toi !", "–", "accusons-nous !", "accusez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

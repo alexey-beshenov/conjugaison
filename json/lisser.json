@@ -1,0 +1,22 @@
+{
+  "infinitif": "lisser",
+  "participePresent": "lissant",
+  "participePasse": "lissé",
+  "present": [ "lisse", "lisses", "lisse", "lissons", "lissez", "lissent" ],
+  "imparfait": [ "lissais", "lissais", "lissait", "lissions", "lissiez", "lissaient" ],
+  "passeSimple": [ "lissai", "lissas", "lissa", "lissâmes", "lissâtes", "lissèrent" ],
+  "futurSimple": [ "lisserai", "lisseras", "lissera", "lisserons", "lisserez", "lisseront" ],
+  "passeCompose": [ "ai lissé", "as lissé", "a lissé", "avons lissé", "avez lissé", "ont lissé" ],
+  "plusQueParfait": [ "avais lissé", "avais lissé", "avait lissé", "avions lissé", "aviez lissé", "avaient lissé" ],
+  "passeAnterieur": [ "eus lissé", "eus lissé", "eut lissé", "eûmes lissé", "eûtes lissé", "eurent lissé" ],
+  "futurAnterieur": [ "aurai lissé", "auras lissé", "aura lissé", "aurons lissé", "aurez lissé", "auront lissé" ],
+  "subjonctifPresent": [ "lisse", "lisses", "lisse", "lissions", "lissiez", "lissent" ],
+  "subjonctifImparfait": [ "lissasse", "lissasses", "lissât", "lissassions", "lissassiez", "lissassent" ],
+  "subjonctifPasse": [ "aie lissé", "aies lissé", "ait lissé", "ayons lissé", "ayez lissé", "aient lissé" ],
+  "subjonctifPlusQueParfait": [ "eusse lissé", "eusses lissé", "eût lissé", "eussions lissé", "eussiez lissé", "eussent lissé" ],
+  "conditionnelPresent": [ "lisserais", "lisserais", "lisserait", "lisserions", "lisseriez", "lisseraient" ],
+  "conditionnelPasse": [ "aurais lissé", "aurais lissé", "aurait lissé", "aurions lissé", "auriez lissé", "auraient lissé" ],
+  "conditionnelPasseII": [ "eusse lissé", "eusses lissé", "eût lissé", "eussions lissé", "eussiez lissé", "eussent lissé" ],
+  "imperatif": [ "–", "lisse !", "–", "lissons !", "lissez !", "–" ],
+  "imperatifPasse": [ "–", "aie lissé !", "–", "ayons lissé !", "ayez lissé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "construire",
+  "participePresent": "construisant",
+  "participePasse": "construit",
+  "present": [ "construis", "construis", "construit", "construisons", "construisez", "construisent" ],
+  "imparfait": [ "construisais", "construisais", "construisait", "construisions", "construisiez", "construisaient" ],
+  "passeSimple": [ "construisis", "construisis", "construisit", "construisîmes", "construisîtes", "construisirent" ],
+  "futurSimple": [ "construirai", "construiras", "construira", "construirons", "construirez", "construiront" ],
+  "passeCompose": [ "ai construit", "as construit", "a construit", "avons construit", "avez construit", "ont construit" ],
+  "plusQueParfait": [ "avais construit", "avais construit", "avait construit", "avions construit", "aviez construit", "avaient construit" ],
+  "passeAnterieur": [ "eus construit", "eus construit", "eut construit", "eûmes construit", "eûtes construit", "eurent construit" ],
+  "futurAnterieur": [ "aurai construit", "auras construit", "aura construit", "aurons construit", "aurez construit", "auront construit" ],
+  "subjonctifPresent": [ "construise", "construises", "construise", "construisions", "construisiez", "construisent" ],
+  "subjonctifImparfait": [ "construisisse", "construisisses", "construisît", "construisissions", "construisissiez", "construisissent" ],
+  "subjonctifPasse": [ "aie construit", "aies construit", "ait construit", "ayons construit", "ayez construit", "aient construit" ],
+  "subjonctifPlusQueParfait": [ "eusse construit", "eusses construit", "eût construit", "eussions construit", "eussiez construit", "eussent construit" ],
+  "conditionnelPresent": [ "construirais", "construirais", "construirait", "construirions", "construiriez", "construiraient" ],
+  "conditionnelPasse": [ "aurais construit", "aurais construit", "aurait construit", "aurions construit", "auriez construit", "auraient construit" ],
+  "conditionnelPasseII": [ "eusse construit", "eusses construit", "eût construit", "eussions construit", "eussiez construit", "eussent construit" ],
+  "imperatif": [ "–", "construis !", "–", "construisons !", "construisez !", "–" ],
+  "imperatifPasse": [ "–", "aie construit !", "–", "ayons construit !", "ayez construit !", "–" ]
+}

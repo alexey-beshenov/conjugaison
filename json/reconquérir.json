@@ -1,0 +1,22 @@
+{
+  "infinitif": "reconquérir",
+  "participePresent": "reconquérant",
+  "participePasse": "reconquis",
+  "present": [ "reconquiers", "reconquiers", "reconquiert", "reconquérons", "reconquérez", "reconquièrent" ],
+  "imparfait": [ "reconquérais", "reconquérais", "reconquérait", "reconquérions", "reconquériez", "reconquéraient" ],
+  "passeSimple": [ "reconquis", "reconquis", "reconquit", "reconquîmes", "reconquîtes", "reconquirent" ],
+  "futurSimple": [ "reconquerrai", "reconquerras", "reconquerra", "reconquerrons", "reconquerrez", "reconquerront" ],
+  "passeCompose": [ "ai reconquis", "as reconquis", "a reconquis", "avons reconquis", "avez reconquis", "ont reconquis" ],
+  "plusQueParfait": [ "avais reconquis", "avais reconquis", "avait reconquis", "avions reconquis", "aviez reconquis", "avaient reconquis" ],
+  "passeAnterieur": [ "eus reconquis", "eus reconquis", "eut reconquis", "eûmes reconquis", "eûtes reconquis", "eurent reconquis" ],
+  "futurAnterieur": [ "aurai reconquis", "auras reconquis", "aura reconquis", "aurons reconquis", "aurez reconquis", "auront reconquis" ],
+  "subjonctifPresent": [ "reconquière", "reconquières", "reconquière", "reconquérions", "reconquériez", "reconquièrent" ],
+  "subjonctifImparfait": [ "reconquisse", "reconquisses", "reconquît", "reconquissions", "reconquissiez", "reconquissent" ],
+  "subjonctifPasse": [ "aie reconquis", "aies reconquis", "ait reconquis", "ayons reconquis", "ayez reconquis", "aient reconquis" ],
+  "subjonctifPlusQueParfait": [ "eusse reconquis", "eusses reconquis", "eût reconquis", "eussions reconquis", "eussiez reconquis", "eussent reconquis" ],
+  "conditionnelPresent": [ "reconquerrais", "reconquerrais", "reconquerrait", "reconquerrions", "reconquerriez", "reconquerraient" ],
+  "conditionnelPasse": [ "aurais reconquis", "aurais reconquis", "aurait reconquis", "aurions reconquis", "auriez reconquis", "auraient reconquis" ],
+  "conditionnelPasseII": [ "eusse reconquis", "eusses reconquis", "eût reconquis", "eussions reconquis", "eussiez reconquis", "eussent reconquis" ],
+  "imperatif": [ "–", "reconquiers !", "–", "reconquérons !", "reconquérez !", "–" ],
+  "imperatifPasse": [ "–", "aie reconquis !", "–", "ayons reconquis !", "ayez reconquis !", "–" ]
+}

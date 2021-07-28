@@ -1,0 +1,22 @@
+{
+  "infinitif": "se prédire",
+  "participePresent": "se prédisant",
+  "participePasse": "prédit",
+  "present": [ "me prédis", "te prédis", "se prédit", "nous prédisons", "vous prédisez", "se prédisent" ],
+  "imparfait": [ "me prédisais", "te prédisais", "se prédisait", "nous prédisions", "vous prédisiez", "se prédisaient" ],
+  "passeSimple": [ "me prédis", "te prédis", "se prédit", "nous prédîmes", "vous prédîtes", "se prédirent" ],
+  "futurSimple": [ "me prédirai", "te prédiras", "se prédira", "nous prédirons", "vous prédirez", "se prédiront" ],
+  "passeCompose": [ "me suis prédit(e)", "t'es prédit(e)", "s'est prédit(e)", "nous sommes prédit(e)s", "vous êtes prédit(e)(s)", "se sont prédit(e)s" ],
+  "plusQueParfait": [ "m'étais prédit(e)", "t'étais prédit(e)", "s'était prédit(e)", "nous étions prédit(e)s", "vous étiez prédit(e)(s)", "s'étaient prédit(e)s" ],
+  "passeAnterieur": [ "me fus prédit(e)", "te fus prédit(e)", "se fut prédit(e)", "nous fûmes prédit(e)s", "vous fûtes prédit(e)(s)", "se furent prédit(e)s" ],
+  "futurAnterieur": [ "me serai prédit(e)", "te seras prédit(e)", "se sera prédit(e)", "nous serons prédit(e)s", "vous serez prédit(e)(s)", "se seront prédit(e)s" ],
+  "subjonctifPresent": [ "me prédise", "te prédises", "se prédise", "nous prédisions", "vous prédisiez", "se prédisent" ],
+  "subjonctifImparfait": [ "me prédisse", "te prédisses", "se prédît", "nous prédissions", "vous prédissiez", "se prédissent" ],
+  "subjonctifPasse": [ "me sois prédit(e)", "te sois prédit(e)", "se soit prédit(e)", "nous soyons prédit(e)s", "vous soyez prédit(e)(s)", "se soient prédit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse prédit(e)", "te fusses prédit(e)", "se fût prédit(e)", "nous fussions prédit(e)s", "vous fussiez prédit(e)(s)", "se fussent prédit(e)s" ],
+  "conditionnelPresent": [ "me prédirais", "te prédirais", "se prédirait", "nous prédirions", "vous prédiriez", "se prédiraient" ],
+  "conditionnelPasse": [ "me serais prédit(e)", "te serais prédit(e)", "se serait prédit(e)", "nous serions prédit(e)s", "vous seriez prédit(e)(s)", "se seraient prédit(e)s" ],
+  "conditionnelPasseII": [ "me fusse prédit(e)", "te fusses prédit(e)", "se fût prédit(e)", "nous fussions prédit(e)s", "vous fussiez prédit(e)(s)", "se fussent prédit(e)s" ],
+  "imperatif": [ "–", "prédis-toi !", "–", "prédisons-nous !", "prédisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

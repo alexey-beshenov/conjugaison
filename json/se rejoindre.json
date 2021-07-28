@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rejoindre",
+  "participePresent": "se rejoignant",
+  "participePasse": "rejoint",
+  "present": [ "me rejoins", "te rejoins", "se rejoint", "nous rejoignons", "vous rejoignez", "se rejoignent" ],
+  "imparfait": [ "me rejoignais", "te rejoignais", "se rejoignait", "nous rejoignions", "vous rejoigniez", "se rejoignaient" ],
+  "passeSimple": [ "me rejoignis", "te rejoignis", "se rejoignit", "nous rejoignîmes", "vous rejoignîtes", "se rejoignirent" ],
+  "futurSimple": [ "me rejoindrai", "te rejoindras", "se rejoindra", "nous rejoindrons", "vous rejoindrez", "se rejoindront" ],
+  "passeCompose": [ "me suis rejoint(e)", "t'es rejoint(e)", "s'est rejoint(e)", "nous sommes rejoint(e)s", "vous êtes rejoint(e)(s)", "se sont rejoint(e)s" ],
+  "plusQueParfait": [ "m'étais rejoint(e)", "t'étais rejoint(e)", "s'était rejoint(e)", "nous étions rejoint(e)s", "vous étiez rejoint(e)(s)", "s'étaient rejoint(e)s" ],
+  "passeAnterieur": [ "me fus rejoint(e)", "te fus rejoint(e)", "se fut rejoint(e)", "nous fûmes rejoint(e)s", "vous fûtes rejoint(e)(s)", "se furent rejoint(e)s" ],
+  "futurAnterieur": [ "me serai rejoint(e)", "te seras rejoint(e)", "se sera rejoint(e)", "nous serons rejoint(e)s", "vous serez rejoint(e)(s)", "se seront rejoint(e)s" ],
+  "subjonctifPresent": [ "me rejoigne", "te rejoignes", "se rejoigne", "nous rejoignions", "vous rejoigniez", "se rejoignent" ],
+  "subjonctifImparfait": [ "me rejoignisse", "te rejoignisses", "se rejoignît", "nous rejoignissions", "vous rejoignissiez", "se rejoignissent" ],
+  "subjonctifPasse": [ "me sois rejoint(e)", "te sois rejoint(e)", "se soit rejoint(e)", "nous soyons rejoint(e)s", "vous soyez rejoint(e)(s)", "se soient rejoint(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rejoint(e)", "te fusses rejoint(e)", "se fût rejoint(e)", "nous fussions rejoint(e)s", "vous fussiez rejoint(e)(s)", "se fussent rejoint(e)s" ],
+  "conditionnelPresent": [ "me rejoindrais", "te rejoindrais", "se rejoindrait", "nous rejoindrions", "vous rejoindriez", "se rejoindraient" ],
+  "conditionnelPasse": [ "me serais rejoint(e)", "te serais rejoint(e)", "se serait rejoint(e)", "nous serions rejoint(e)s", "vous seriez rejoint(e)(s)", "se seraient rejoint(e)s" ],
+  "conditionnelPasseII": [ "me fusse rejoint(e)", "te fusses rejoint(e)", "se fût rejoint(e)", "nous fussions rejoint(e)s", "vous fussiez rejoint(e)(s)", "se fussent rejoint(e)s" ],
+  "imperatif": [ "–", "rejoins-toi !", "–", "rejoignons-nous !", "rejoignez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

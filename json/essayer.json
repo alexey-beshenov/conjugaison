@@ -1,0 +1,22 @@
+{
+  "infinitif": "essayer",
+  "participePresent": "essayant",
+  "participePasse": "essayé",
+  "present": [ "essaie, essaye", "essaies, essayes", "essaie, essaye", "essayons", "essayez", "essaient, essayent" ],
+  "imparfait": [ "essayais", "essayais", "essayait", "essayions", "essayiez", "essayaient" ],
+  "passeSimple": [ "essayai", "essayas", "essaya", "essayâmes", "essayâtes", "essayèrent" ],
+  "futurSimple": [ "essaierai, essayerai", "essaieras, essayeras", "essaiera, essayera", "essaierons, essayerons", "essaierez, essayerez", "essaieront, essayeront" ],
+  "passeCompose": [ "ai essayé", "as essayé", "a essayé", "avons essayé", "avez essayé", "ont essayé" ],
+  "plusQueParfait": [ "avais essayé", "avais essayé", "avait essayé", "avions essayé", "aviez essayé", "avaient essayé" ],
+  "passeAnterieur": [ "eus essayé", "eus essayé", "eut essayé", "eûmes essayé", "eûtes essayé", "eurent essayé" ],
+  "futurAnterieur": [ "aurai essayé", "auras essayé", "aura essayé", "aurons essayé", "aurez essayé", "auront essayé" ],
+  "subjonctifPresent": [ "essaie, essaye", "essaies, essayes", "essaie, essaye", "essayions", "essayiez", "essaient, essayent" ],
+  "subjonctifImparfait": [ "essayasse", "essayasses", "essayât", "essayassions", "essayassiez", "essayassent" ],
+  "subjonctifPasse": [ "aie essayé", "aies essayé", "ait essayé", "ayons essayé", "ayez essayé", "aient essayé" ],
+  "subjonctifPlusQueParfait": [ "eusse essayé", "eusses essayé", "eût essayé", "eussions essayé", "eussiez essayé", "eussent essayé" ],
+  "conditionnelPresent": [ "essaierais, essayerais", "essaierais, essayerais", "essaierait, essayerait", "essaierions, essayerions", "essaieriez, essayeriez", "essaieraient, essayeraient" ],
+  "conditionnelPasse": [ "aurais essayé", "aurais essayé", "aurait essayé", "aurions essayé", "auriez essayé", "auraient essayé" ],
+  "conditionnelPasseII": [ "eusse essayé", "eusses essayé", "eût essayé", "eussions essayé", "eussiez essayé", "eussent essayé" ],
+  "imperatif": [ "–", "essaie, essaye !", "–", "essayons !", "essayez !", "–" ],
+  "imperatifPasse": [ "–", "aie essayé !", "–", "ayons essayé !", "ayez essayé !", "–" ]
+}

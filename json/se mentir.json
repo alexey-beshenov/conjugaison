@@ -1,0 +1,22 @@
+{
+  "infinitif": "se mentir",
+  "participePresent": "se mentant",
+  "participePasse": "menti",
+  "present": [ "me mens", "te mens", "se ment", "nous mentons", "vous mentez", "se mentent" ],
+  "imparfait": [ "me mentais", "te mentais", "se mentait", "nous mentions", "vous mentiez", "se mentaient" ],
+  "passeSimple": [ "me mentis", "te mentis", "se mentit", "nous mentîmes", "vous mentîtes", "se mentirent" ],
+  "futurSimple": [ "me mentirai", "te mentiras", "se mentira", "nous mentirons", "vous mentirez", "se mentiront" ],
+  "passeCompose": [ "me suis menti", "t'es menti", "s'est menti", "nous sommes menti", "vous êtes menti", "se sont menti" ],
+  "plusQueParfait": [ "m'étais menti", "t'étais menti", "s'était menti", "nous étions menti", "vous étiez menti", "s'étaient menti" ],
+  "passeAnterieur": [ "me fus menti", "te fus menti", "se fut menti", "nous fûmes menti", "vous fûtes menti", "se furent menti" ],
+  "futurAnterieur": [ "me serai menti", "te seras menti", "se sera menti", "nous serons menti", "vous serez menti", "se seront menti" ],
+  "subjonctifPresent": [ "me mente", "te mentes", "se mente", "nous mentions", "vous mentiez", "se mentent" ],
+  "subjonctifImparfait": [ "me mentisse", "te mentisses", "se mentît", "nous mentissions", "vous mentissiez", "se mentissent" ],
+  "subjonctifPasse": [ "me sois menti", "te sois menti", "se soit menti", "nous soyons menti", "vous soyez menti", "se soient menti" ],
+  "subjonctifPlusQueParfait": [ "me fusse menti", "te fusses menti", "se fût menti", "nous fussions menti", "vous fussiez menti", "se fussent menti" ],
+  "conditionnelPresent": [ "me mentirais", "te mentirais", "se mentirait", "nous mentirions", "vous mentiriez", "se mentiraient" ],
+  "conditionnelPasse": [ "me serais menti", "te serais menti", "se serait menti", "nous serions menti", "vous seriez menti", "se seraient menti" ],
+  "conditionnelPasseII": [ "me fusse menti", "te fusses menti", "se fût menti", "nous fussions menti", "vous fussiez menti", "se fussent menti" ],
+  "imperatif": [ "–", "mens-toi !", "–", "mentons-nous !", "mentez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

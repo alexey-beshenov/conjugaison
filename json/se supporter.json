@@ -1,0 +1,22 @@
+{
+  "infinitif": "se supporter",
+  "participePresent": "se supportant",
+  "participePasse": "supporté",
+  "present": [ "me supporte", "te supportes", "se supporte", "nous supportons", "vous supportez", "se supportent" ],
+  "imparfait": [ "me supportais", "te supportais", "se supportait", "nous supportions", "vous supportiez", "se supportaient" ],
+  "passeSimple": [ "me supportai", "te supportas", "se supporta", "nous supportâmes", "vous supportâtes", "se supportèrent" ],
+  "futurSimple": [ "me supporterai", "te supporteras", "se supportera", "nous supporterons", "vous supporterez", "se supporteront" ],
+  "passeCompose": [ "me suis supporté(e)", "t'es supporté(e)", "s'est supporté(e)", "nous sommes supporté(e)s", "vous êtes supporté(e)(s)", "se sont supporté(e)s" ],
+  "plusQueParfait": [ "m'étais supporté(e)", "t'étais supporté(e)", "s'était supporté(e)", "nous étions supporté(e)s", "vous étiez supporté(e)(s)", "s'étaient supporté(e)s" ],
+  "passeAnterieur": [ "me fus supporté(e)", "te fus supporté(e)", "se fut supporté(e)", "nous fûmes supporté(e)s", "vous fûtes supporté(e)(s)", "se furent supporté(e)s" ],
+  "futurAnterieur": [ "me serai supporté(e)", "te seras supporté(e)", "se sera supporté(e)", "nous serons supporté(e)s", "vous serez supporté(e)(s)", "se seront supporté(e)s" ],
+  "subjonctifPresent": [ "me supporte", "te supportes", "se supporte", "nous supportions", "vous supportiez", "se supportent" ],
+  "subjonctifImparfait": [ "me supportasse", "te supportasses", "se supportât", "nous supportassions", "vous supportassiez", "se supportassent" ],
+  "subjonctifPasse": [ "me sois supporté(e)", "te sois supporté(e)", "se soit supporté(e)", "nous soyons supporté(e)s", "vous soyez supporté(e)(s)", "se soient supporté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse supporté(e)", "te fusses supporté(e)", "se fût supporté(e)", "nous fussions supporté(e)s", "vous fussiez supporté(e)(s)", "se fussent supporté(e)s" ],
+  "conditionnelPresent": [ "me supporterais", "te supporterais", "se supporterait", "nous supporterions", "vous supporteriez", "se supporteraient" ],
+  "conditionnelPasse": [ "me serais supporté(e)", "te serais supporté(e)", "se serait supporté(e)", "nous serions supporté(e)s", "vous seriez supporté(e)(s)", "se seraient supporté(e)s" ],
+  "conditionnelPasseII": [ "me fusse supporté(e)", "te fusses supporté(e)", "se fût supporté(e)", "nous fussions supporté(e)s", "vous fussiez supporté(e)(s)", "se fussent supporté(e)s" ],
+  "imperatif": [ "–", "supporte-toi !", "–", "supportons-nous !", "supportez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

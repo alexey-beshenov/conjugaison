@@ -1,0 +1,22 @@
+{
+  "infinitif": "se remplacer",
+  "participePresent": "se remplaçant",
+  "participePasse": "remplacé",
+  "present": [ "me remplace", "te remplaces", "se remplace", "nous remplaçons", "vous remplacez", "se remplacent" ],
+  "imparfait": [ "me remplaçais", "te remplaçais", "se remplaçait", "nous remplacions", "vous remplaciez", "se remplaçaient" ],
+  "passeSimple": [ "me remplaçai", "te remplaças", "se remplaça", "nous remplaçâmes", "vous remplaçâtes", "se remplacèrent" ],
+  "futurSimple": [ "me remplacerai", "te remplaceras", "se remplacera", "nous remplacerons", "vous remplacerez", "se remplaceront" ],
+  "passeCompose": [ "me suis remplacé(e)", "t'es remplacé(e)", "s'est remplacé(e)", "nous sommes remplacé(e)s", "vous êtes remplacé(e)(s)", "se sont remplacé(e)s" ],
+  "plusQueParfait": [ "m'étais remplacé(e)", "t'étais remplacé(e)", "s'était remplacé(e)", "nous étions remplacé(e)s", "vous étiez remplacé(e)(s)", "s'étaient remplacé(e)s" ],
+  "passeAnterieur": [ "me fus remplacé(e)", "te fus remplacé(e)", "se fut remplacé(e)", "nous fûmes remplacé(e)s", "vous fûtes remplacé(e)(s)", "se furent remplacé(e)s" ],
+  "futurAnterieur": [ "me serai remplacé(e)", "te seras remplacé(e)", "se sera remplacé(e)", "nous serons remplacé(e)s", "vous serez remplacé(e)(s)", "se seront remplacé(e)s" ],
+  "subjonctifPresent": [ "me remplace", "te remplaces", "se remplace", "nous remplacions", "vous remplaciez", "se remplacent" ],
+  "subjonctifImparfait": [ "me remplaçasse", "te remplaçasses", "se remplaçât", "nous remplaçassions", "vous remplaçassiez", "se remplaçassent" ],
+  "subjonctifPasse": [ "me sois remplacé(e)", "te sois remplacé(e)", "se soit remplacé(e)", "nous soyons remplacé(e)s", "vous soyez remplacé(e)(s)", "se soient remplacé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse remplacé(e)", "te fusses remplacé(e)", "se fût remplacé(e)", "nous fussions remplacé(e)s", "vous fussiez remplacé(e)(s)", "se fussent remplacé(e)s" ],
+  "conditionnelPresent": [ "me remplacerais", "te remplacerais", "se remplacerait", "nous remplacerions", "vous remplaceriez", "se remplaceraient" ],
+  "conditionnelPasse": [ "me serais remplacé(e)", "te serais remplacé(e)", "se serait remplacé(e)", "nous serions remplacé(e)s", "vous seriez remplacé(e)(s)", "se seraient remplacé(e)s" ],
+  "conditionnelPasseII": [ "me fusse remplacé(e)", "te fusses remplacé(e)", "se fût remplacé(e)", "nous fussions remplacé(e)s", "vous fussiez remplacé(e)(s)", "se fussent remplacé(e)s" ],
+  "imperatif": [ "–", "remplace-toi !", "–", "remplaçons-nous !", "remplacez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

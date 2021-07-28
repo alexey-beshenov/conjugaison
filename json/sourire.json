@@ -1,0 +1,22 @@
+{
+  "infinitif": "sourire",
+  "participePresent": "souriant",
+  "participePasse": "souri",
+  "present": [ "souris", "souris", "sourit", "sourions", "souriez", "sourient" ],
+  "imparfait": [ "souriais", "souriais", "souriait", "souriions", "souriiez", "souriaient" ],
+  "passeSimple": [ "souris", "souris", "sourit", "sourîmes", "sourîtes", "sourirent" ],
+  "futurSimple": [ "sourirai", "souriras", "sourira", "sourirons", "sourirez", "souriront" ],
+  "passeCompose": [ "ai souri", "as souri", "a souri", "avons souri", "avez souri", "ont souri" ],
+  "plusQueParfait": [ "avais souri", "avais souri", "avait souri", "avions souri", "aviez souri", "avaient souri" ],
+  "passeAnterieur": [ "eus souri", "eus souri", "eut souri", "eûmes souri", "eûtes souri", "eurent souri" ],
+  "futurAnterieur": [ "aurai souri", "auras souri", "aura souri", "aurons souri", "aurez souri", "auront souri" ],
+  "subjonctifPresent": [ "sourie", "souries", "sourie", "souriions", "souriiez", "sourient" ],
+  "subjonctifImparfait": [ "sourisse", "sourisses", "sourît", "sourissions", "sourissiez", "sourissent" ],
+  "subjonctifPasse": [ "aie souri", "aies souri", "ait souri", "ayons souri", "ayez souri", "aient souri" ],
+  "subjonctifPlusQueParfait": [ "eusse souri", "eusses souri", "eût souri", "eussions souri", "eussiez souri", "eussent souri" ],
+  "conditionnelPresent": [ "sourirais", "sourirais", "sourirait", "souririons", "souririez", "souriraient" ],
+  "conditionnelPasse": [ "aurais souri", "aurais souri", "aurait souri", "aurions souri", "auriez souri", "auraient souri" ],
+  "conditionnelPasseII": [ "eusse souri", "eusses souri", "eût souri", "eussions souri", "eussiez souri", "eussent souri" ],
+  "imperatif": [ "–", "souris !", "–", "sourions !", "souriez !", "–" ],
+  "imperatifPasse": [ "–", "aie souri !", "–", "ayons souri !", "ayez souri !", "–" ]
+}

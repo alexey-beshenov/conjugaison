@@ -1,0 +1,22 @@
+{
+  "infinitif": "surproduire",
+  "participePresent": "surproduisant",
+  "participePasse": "surproduit",
+  "present": [ "surproduis", "surproduis", "surproduit", "surproduisons", "surproduisez", "surproduisent" ],
+  "imparfait": [ "surproduisais", "surproduisais", "surproduisait", "surproduisions", "surproduisiez", "surproduisaient" ],
+  "passeSimple": [ "surproduisis", "surproduisis", "surproduisit", "surproduisîmes", "surproduisîtes", "surproduisirent" ],
+  "futurSimple": [ "surproduirai", "surproduiras", "surproduira", "surproduirons", "surproduirez", "surproduiront" ],
+  "passeCompose": [ "ai surproduit", "as surproduit", "a surproduit", "avons surproduit", "avez surproduit", "ont surproduit" ],
+  "plusQueParfait": [ "avais surproduit", "avais surproduit", "avait surproduit", "avions surproduit", "aviez surproduit", "avaient surproduit" ],
+  "passeAnterieur": [ "eus surproduit", "eus surproduit", "eut surproduit", "eûmes surproduit", "eûtes surproduit", "eurent surproduit" ],
+  "futurAnterieur": [ "aurai surproduit", "auras surproduit", "aura surproduit", "aurons surproduit", "aurez surproduit", "auront surproduit" ],
+  "subjonctifPresent": [ "surproduise", "surproduises", "surproduise", "surproduisions", "surproduisiez", "surproduisent" ],
+  "subjonctifImparfait": [ "surproduisisse", "surproduisisses", "surproduisît", "surproduisissions", "surproduisissiez", "surproduisissent" ],
+  "subjonctifPasse": [ "aie surproduit", "aies surproduit", "ait surproduit", "ayons surproduit", "ayez surproduit", "aient surproduit" ],
+  "subjonctifPlusQueParfait": [ "eusse surproduit", "eusses surproduit", "eût surproduit", "eussions surproduit", "eussiez surproduit", "eussent surproduit" ],
+  "conditionnelPresent": [ "surproduirais", "surproduirais", "surproduirait", "surproduirions", "surproduiriez", "surproduiraient" ],
+  "conditionnelPasse": [ "aurais surproduit", "aurais surproduit", "aurait surproduit", "aurions surproduit", "auriez surproduit", "auraient surproduit" ],
+  "conditionnelPasseII": [ "eusse surproduit", "eusses surproduit", "eût surproduit", "eussions surproduit", "eussiez surproduit", "eussent surproduit" ],
+  "imperatif": [ "–", "surproduis !", "–", "surproduisons !", "surproduisez !", "–" ],
+  "imperatifPasse": [ "–", "aie surproduit !", "–", "ayons surproduit !", "ayez surproduit !", "–" ]
+}

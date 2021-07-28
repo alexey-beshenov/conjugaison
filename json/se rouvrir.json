@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rouvrir",
+  "participePresent": "se rouvrant",
+  "participePasse": "rouvert",
+  "present": [ "me rouvre", "te rouvres", "se rouvre", "nous rouvrons", "vous rouvrez", "se rouvrent" ],
+  "imparfait": [ "me rouvrais", "te rouvrais", "se rouvrait", "nous rouvrions", "vous rouvriez", "se rouvraient" ],
+  "passeSimple": [ "me rouvris", "te rouvris", "se rouvrit", "nous rouvrîmes", "vous rouvrîtes", "se rouvrirent" ],
+  "futurSimple": [ "me rouvrirai", "te rouvriras", "se rouvrira", "nous rouvrirons", "vous rouvrirez", "se rouvriront" ],
+  "passeCompose": [ "me suis rouvert(e)", "t'es rouvert(e)", "s'est rouvert(e)", "nous sommes rouvert(e)s", "vous êtes rouvert(e)(s)", "se sont rouvert(e)s" ],
+  "plusQueParfait": [ "m'étais rouvert(e)", "t'étais rouvert(e)", "s'était rouvert(e)", "nous étions rouvert(e)s", "vous étiez rouvert(e)(s)", "s'étaient rouvert(e)s" ],
+  "passeAnterieur": [ "me fus rouvert(e)", "te fus rouvert(e)", "se fut rouvert(e)", "nous fûmes rouvert(e)s", "vous fûtes rouvert(e)(s)", "se furent rouvert(e)s" ],
+  "futurAnterieur": [ "me serai rouvert(e)", "te seras rouvert(e)", "se sera rouvert(e)", "nous serons rouvert(e)s", "vous serez rouvert(e)(s)", "se seront rouvert(e)s" ],
+  "subjonctifPresent": [ "me rouvre", "te rouvres", "se rouvre", "nous rouvrions", "vous rouvriez", "se rouvrent" ],
+  "subjonctifImparfait": [ "me rouvrisse", "te rouvrisses", "se rouvrît", "nous rouvrissions", "vous rouvrissiez", "se rouvrissent" ],
+  "subjonctifPasse": [ "me sois rouvert(e)", "te sois rouvert(e)", "se soit rouvert(e)", "nous soyons rouvert(e)s", "vous soyez rouvert(e)(s)", "se soient rouvert(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rouvert(e)", "te fusses rouvert(e)", "se fût rouvert(e)", "nous fussions rouvert(e)s", "vous fussiez rouvert(e)(s)", "se fussent rouvert(e)s" ],
+  "conditionnelPresent": [ "me rouvrirais", "te rouvrirais", "se rouvrirait", "nous rouvririons", "vous rouvririez", "se rouvriraient" ],
+  "conditionnelPasse": [ "me serais rouvert(e)", "te serais rouvert(e)", "se serait rouvert(e)", "nous serions rouvert(e)s", "vous seriez rouvert(e)(s)", "se seraient rouvert(e)s" ],
+  "conditionnelPasseII": [ "me fusse rouvert(e)", "te fusses rouvert(e)", "se fût rouvert(e)", "nous fussions rouvert(e)s", "vous fussiez rouvert(e)(s)", "se fussent rouvert(e)s" ],
+  "imperatif": [ "–", "rouvre-toi !", "–", "rouvrons-nous !", "rouvrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

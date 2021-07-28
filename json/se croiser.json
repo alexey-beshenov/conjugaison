@@ -1,0 +1,22 @@
+{
+  "infinitif": "se croiser",
+  "participePresent": "se croisant",
+  "participePasse": "croisé",
+  "present": [ "me croise", "te croises", "se croise", "nous croisons", "vous croisez", "se croisent" ],
+  "imparfait": [ "me croisais", "te croisais", "se croisait", "nous croisions", "vous croisiez", "se croisaient" ],
+  "passeSimple": [ "me croisai", "te croisas", "se croisa", "nous croisâmes", "vous croisâtes", "se croisèrent" ],
+  "futurSimple": [ "me croiserai", "te croiseras", "se croisera", "nous croiserons", "vous croiserez", "se croiseront" ],
+  "passeCompose": [ "me suis croisé(e)", "t'es croisé(e)", "s'est croisé(e)", "nous sommes croisé(e)s", "vous êtes croisé(e)(s)", "se sont croisé(e)s" ],
+  "plusQueParfait": [ "m'étais croisé(e)", "t'étais croisé(e)", "s'était croisé(e)", "nous étions croisé(e)s", "vous étiez croisé(e)(s)", "s'étaient croisé(e)s" ],
+  "passeAnterieur": [ "me fus croisé(e)", "te fus croisé(e)", "se fut croisé(e)", "nous fûmes croisé(e)s", "vous fûtes croisé(e)(s)", "se furent croisé(e)s" ],
+  "futurAnterieur": [ "me serai croisé(e)", "te seras croisé(e)", "se sera croisé(e)", "nous serons croisé(e)s", "vous serez croisé(e)(s)", "se seront croisé(e)s" ],
+  "subjonctifPresent": [ "me croise", "te croises", "se croise", "nous croisions", "vous croisiez", "se croisent" ],
+  "subjonctifImparfait": [ "me croisasse", "te croisasses", "se croisât", "nous croisassions", "vous croisassiez", "se croisassent" ],
+  "subjonctifPasse": [ "me sois croisé(e)", "te sois croisé(e)", "se soit croisé(e)", "nous soyons croisé(e)s", "vous soyez croisé(e)(s)", "se soient croisé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse croisé(e)", "te fusses croisé(e)", "se fût croisé(e)", "nous fussions croisé(e)s", "vous fussiez croisé(e)(s)", "se fussent croisé(e)s" ],
+  "conditionnelPresent": [ "me croiserais", "te croiserais", "se croiserait", "nous croiserions", "vous croiseriez", "se croiseraient" ],
+  "conditionnelPasse": [ "me serais croisé(e)", "te serais croisé(e)", "se serait croisé(e)", "nous serions croisé(e)s", "vous seriez croisé(e)(s)", "se seraient croisé(e)s" ],
+  "conditionnelPasseII": [ "me fusse croisé(e)", "te fusses croisé(e)", "se fût croisé(e)", "nous fussions croisé(e)s", "vous fussiez croisé(e)(s)", "se fussent croisé(e)s" ],
+  "imperatif": [ "–", "croise-toi !", "–", "croisons-nous !", "croisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

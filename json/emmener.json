@@ -1,0 +1,22 @@
+{
+  "infinitif": "emmener",
+  "participePresent": "emmenant",
+  "participePasse": "emmené",
+  "present": [ "emmène", "emmènes", "emmène", "emmenons", "emmenez", "emmènent" ],
+  "imparfait": [ "emmenais", "emmenais", "emmenait", "emmenions", "emmeniez", "emmenaient" ],
+  "passeSimple": [ "emmenai", "emmenas", "emmena", "emmenâmes", "emmenâtes", "emmenèrent" ],
+  "futurSimple": [ "emmènerai", "emmèneras", "emmènera", "emmènerons", "emmènerez", "emmèneront" ],
+  "passeCompose": [ "ai emmené", "as emmené", "a emmené", "avons emmené", "avez emmené", "ont emmené" ],
+  "plusQueParfait": [ "avais emmené", "avais emmené", "avait emmené", "avions emmené", "aviez emmené", "avaient emmené" ],
+  "passeAnterieur": [ "eus emmené", "eus emmené", "eut emmené", "eûmes emmené", "eûtes emmené", "eurent emmené" ],
+  "futurAnterieur": [ "aurai emmené", "auras emmené", "aura emmené", "aurons emmené", "aurez emmené", "auront emmené" ],
+  "subjonctifPresent": [ "emmène", "emmènes", "emmène", "emmenions", "emmeniez", "emmènent" ],
+  "subjonctifImparfait": [ "emmenasse", "emmenasses", "emmenât", "emmenassions", "emmenassiez", "emmenassent" ],
+  "subjonctifPasse": [ "aie emmené", "aies emmené", "ait emmené", "ayons emmené", "ayez emmené", "aient emmené" ],
+  "subjonctifPlusQueParfait": [ "eusse emmené", "eusses emmené", "eût emmené", "eussions emmené", "eussiez emmené", "eussent emmené" ],
+  "conditionnelPresent": [ "emmènerais", "emmènerais", "emmènerait", "emmènerions", "emmèneriez", "emmèneraient" ],
+  "conditionnelPasse": [ "aurais emmené", "aurais emmené", "aurait emmené", "aurions emmené", "auriez emmené", "auraient emmené" ],
+  "conditionnelPasseII": [ "eusse emmené", "eusses emmené", "eût emmené", "eussions emmené", "eussiez emmené", "eussent emmené" ],
+  "imperatif": [ "–", "emmène !", "–", "emmenons !", "emmenez !", "–" ],
+  "imperatifPasse": [ "–", "aie emmené !", "–", "ayons emmené !", "ayez emmené !", "–" ]
+}

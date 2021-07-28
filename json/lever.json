@@ -1,0 +1,22 @@
+{
+  "infinitif": "lever",
+  "participePresent": "levant",
+  "participePasse": "levé",
+  "present": [ "lève", "lèves", "lève", "levons", "levez", "lèvent" ],
+  "imparfait": [ "levais", "levais", "levait", "levions", "leviez", "levaient" ],
+  "passeSimple": [ "levai", "levas", "leva", "levâmes", "levâtes", "levèrent" ],
+  "futurSimple": [ "lèverai", "lèveras", "lèvera", "lèverons", "lèverez", "lèveront" ],
+  "passeCompose": [ "ai levé", "as levé", "a levé", "avons levé", "avez levé", "ont levé" ],
+  "plusQueParfait": [ "avais levé", "avais levé", "avait levé", "avions levé", "aviez levé", "avaient levé" ],
+  "passeAnterieur": [ "eus levé", "eus levé", "eut levé", "eûmes levé", "eûtes levé", "eurent levé" ],
+  "futurAnterieur": [ "aurai levé", "auras levé", "aura levé", "aurons levé", "aurez levé", "auront levé" ],
+  "subjonctifPresent": [ "lève", "lèves", "lève", "levions", "leviez", "lèvent" ],
+  "subjonctifImparfait": [ "levasse", "levasses", "levât", "levassions", "levassiez", "levassent" ],
+  "subjonctifPasse": [ "aie levé", "aies levé", "ait levé", "ayons levé", "ayez levé", "aient levé" ],
+  "subjonctifPlusQueParfait": [ "eusse levé", "eusses levé", "eût levé", "eussions levé", "eussiez levé", "eussent levé" ],
+  "conditionnelPresent": [ "lèverais", "lèverais", "lèverait", "lèverions", "lèveriez", "lèveraient" ],
+  "conditionnelPasse": [ "aurais levé", "aurais levé", "aurait levé", "aurions levé", "auriez levé", "auraient levé" ],
+  "conditionnelPasseII": [ "eusse levé", "eusses levé", "eût levé", "eussions levé", "eussiez levé", "eussent levé" ],
+  "imperatif": [ "–", "lève !", "–", "levons !", "levez !", "–" ],
+  "imperatifPasse": [ "–", "aie levé !", "–", "ayons levé !", "ayez levé !", "–" ]
+}

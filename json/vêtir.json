@@ -1,0 +1,22 @@
+{
+  "infinitif": "vêtir",
+  "participePresent": "vêtant",
+  "participePasse": "vêtu",
+  "present": [ "vêts", "vêts", "vêt", "vêtons", "vêtez", "vêtent" ],
+  "imparfait": [ "vêtais", "vêtais", "vêtait", "vêtions", "vêtiez", "vêtaient" ],
+  "passeSimple": [ "vêtis", "vêtis", "vêtit", "vêtîmes", "vêtîtes", "vêtirent" ],
+  "futurSimple": [ "vêtirai", "vêtiras", "vêtira", "vêtirons", "vêtirez", "vêtiront" ],
+  "passeCompose": [ "ai vêtu", "as vêtu", "a vêtu", "avons vêtu", "avez vêtu", "ont vêtu" ],
+  "plusQueParfait": [ "avais vêtu", "avais vêtu", "avait vêtu", "avions vêtu", "aviez vêtu", "avaient vêtu" ],
+  "passeAnterieur": [ "eus vêtu", "eus vêtu", "eut vêtu", "eûmes vêtu", "eûtes vêtu", "eurent vêtu" ],
+  "futurAnterieur": [ "aurai vêtu", "auras vêtu", "aura vêtu", "aurons vêtu", "aurez vêtu", "auront vêtu" ],
+  "subjonctifPresent": [ "vête", "vêtes", "vête", "vêtions", "vêtiez", "vêtent" ],
+  "subjonctifImparfait": [ "vêtisse", "vêtisses", "vêtît", "vêtissions", "vêtissiez", "vêtissent" ],
+  "subjonctifPasse": [ "aie vêtu", "aies vêtu", "ait vêtu", "ayons vêtu", "ayez vêtu", "aient vêtu" ],
+  "subjonctifPlusQueParfait": [ "eusse vêtu", "eusses vêtu", "eût vêtu", "eussions vêtu", "eussiez vêtu", "eussent vêtu" ],
+  "conditionnelPresent": [ "vêtirais", "vêtirais", "vêtirait", "vêtirions", "vêtiriez", "vêtiraient" ],
+  "conditionnelPasse": [ "aurais vêtu", "aurais vêtu", "aurait vêtu", "aurions vêtu", "auriez vêtu", "auraient vêtu" ],
+  "conditionnelPasseII": [ "eusse vêtu", "eusses vêtu", "eût vêtu", "eussions vêtu", "eussiez vêtu", "eussent vêtu" ],
+  "imperatif": [ "–", "vêts !", "–", "vêtons !", "vêtez !", "–" ],
+  "imperatifPasse": [ "–", "aie vêtu !", "–", "ayons vêtu !", "ayez vêtu !", "–" ]
+}

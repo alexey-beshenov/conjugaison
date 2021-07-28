@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'armer",
+  "participePresent": "s'armant",
+  "participePasse": "armé",
+  "present": [ "m'arme", "t'armes", "s'arme", "nous armons", "vous armez", "s'arment" ],
+  "imparfait": [ "m'armais", "t'armais", "s'armait", "nous armions", "vous armiez", "s'armaient" ],
+  "passeSimple": [ "m'armai", "t'armas", "s'arma", "nous armâmes", "vous armâtes", "s'armèrent" ],
+  "futurSimple": [ "m'armerai", "t'armeras", "s'armera", "nous armerons", "vous armerez", "s'armeront" ],
+  "passeCompose": [ "me suis armé(e)", "t'es armé(e)", "s'est armé(e)", "nous sommes armé(e)s", "vous êtes armé(e)(s)", "se sont armé(e)s" ],
+  "plusQueParfait": [ "m'étais armé(e)", "t'étais armé(e)", "s'était armé(e)", "nous étions armé(e)s", "vous étiez armé(e)(s)", "s'étaient armé(e)s" ],
+  "passeAnterieur": [ "me fus armé(e)", "te fus armé(e)", "se fut armé(e)", "nous fûmes armé(e)s", "vous fûtes armé(e)(s)", "se furent armé(e)s" ],
+  "futurAnterieur": [ "me serai armé(e)", "te seras armé(e)", "se sera armé(e)", "nous serons armé(e)s", "vous serez armé(e)(s)", "se seront armé(e)s" ],
+  "subjonctifPresent": [ "m'arme", "t'armes", "s'arme", "nous armions", "vous armiez", "s'arment" ],
+  "subjonctifImparfait": [ "m'armasse", "t'armasses", "s'armât", "nous armassions", "vous armassiez", "s'armassent" ],
+  "subjonctifPasse": [ "me sois armé(e)", "te sois armé(e)", "se soit armé(e)", "nous soyons armé(e)s", "vous soyez armé(e)(s)", "se soient armé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse armé(e)", "te fusses armé(e)", "se fût armé(e)", "nous fussions armé(e)s", "vous fussiez armé(e)(s)", "se fussent armé(e)s" ],
+  "conditionnelPresent": [ "m'armerais", "t'armerais", "s'armerait", "nous armerions", "vous armeriez", "s'armeraient" ],
+  "conditionnelPasse": [ "me serais armé(e)", "te serais armé(e)", "se serait armé(e)", "nous serions armé(e)s", "vous seriez armé(e)(s)", "se seraient armé(e)s" ],
+  "conditionnelPasseII": [ "me fusse armé(e)", "te fusses armé(e)", "se fût armé(e)", "nous fussions armé(e)s", "vous fussiez armé(e)(s)", "se fussent armé(e)s" ],
+  "imperatif": [ "–", "arme-toi !", "–", "armons-nous !", "armez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

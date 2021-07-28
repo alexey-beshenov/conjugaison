@@ -1,0 +1,22 @@
+{
+  "infinitif": "pourvoir",
+  "participePresent": "pourvoyant",
+  "participePasse": "pourvu",
+  "present": [ "pourvois", "pourvois", "pourvoit", "pourvoyons", "pourvoyez", "pourvoient" ],
+  "imparfait": [ "pourvoyais", "pourvoyais", "pourvoyait", "pourvoyions", "pourvoyiez", "pourvoyaient" ],
+  "passeSimple": [ "pourvus", "pourvus", "pourvut", "pourvûmes", "pourvûtes", "pourvurent" ],
+  "futurSimple": [ "pourvoirai", "pourvoiras", "pourvoira", "pourvoirons", "pourvoirez", "pourvoiront" ],
+  "passeCompose": [ "ai pourvu", "as pourvu", "a pourvu", "avons pourvu", "avez pourvu", "ont pourvu" ],
+  "plusQueParfait": [ "avais pourvu", "avais pourvu", "avait pourvu", "avions pourvu", "aviez pourvu", "avaient pourvu" ],
+  "passeAnterieur": [ "eus pourvu", "eus pourvu", "eut pourvu", "eûmes pourvu", "eûtes pourvu", "eurent pourvu" ],
+  "futurAnterieur": [ "aurai pourvu", "auras pourvu", "aura pourvu", "aurons pourvu", "aurez pourvu", "auront pourvu" ],
+  "subjonctifPresent": [ "pourvoie", "pourvoies", "pourvoie", "pourvoyions", "pourvoyiez", "pourvoient" ],
+  "subjonctifImparfait": [ "pourvusse", "pourvusses", "pourvût", "pourvussions", "pourvussiez", "pourvussent" ],
+  "subjonctifPasse": [ "aie pourvu", "aies pourvu", "ait pourvu", "ayons pourvu", "ayez pourvu", "aient pourvu" ],
+  "subjonctifPlusQueParfait": [ "eusse pourvu", "eusses pourvu", "eût pourvu", "eussions pourvu", "eussiez pourvu", "eussent pourvu" ],
+  "conditionnelPresent": [ "pourvoirais", "pourvoirais", "pourvoirait", "pourvoirions", "pourvoiriez", "pourvoiraient" ],
+  "conditionnelPasse": [ "aurais pourvu", "aurais pourvu", "aurait pourvu", "aurions pourvu", "auriez pourvu", "auraient pourvu" ],
+  "conditionnelPasseII": [ "eusse pourvu", "eusses pourvu", "eût pourvu", "eussions pourvu", "eussiez pourvu", "eussent pourvu" ],
+  "imperatif": [ "–", "pourvois !", "–", "pourvoyons !", "pourvoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie pourvu !", "–", "ayons pourvu !", "ayez pourvu !", "–" ]
+}

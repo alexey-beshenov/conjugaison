@@ -1,0 +1,22 @@
+{
+  "infinitif": "se trouver",
+  "participePresent": "se trouvant",
+  "participePasse": "trouvé",
+  "present": [ "me trouve", "te trouves", "se trouve", "nous trouvons", "vous trouvez", "se trouvent" ],
+  "imparfait": [ "me trouvais", "te trouvais", "se trouvait", "nous trouvions", "vous trouviez", "se trouvaient" ],
+  "passeSimple": [ "me trouvai", "te trouvas", "se trouva", "nous trouvâmes", "vous trouvâtes", "se trouvèrent" ],
+  "futurSimple": [ "me trouverai", "te trouveras", "se trouvera", "nous trouverons", "vous trouverez", "se trouveront" ],
+  "passeCompose": [ "me suis trouvé(e)", "t'es trouvé(e)", "s'est trouvé(e)", "nous sommes trouvé(e)s", "vous êtes trouvé(e)(s)", "se sont trouvé(e)s" ],
+  "plusQueParfait": [ "m'étais trouvé(e)", "t'étais trouvé(e)", "s'était trouvé(e)", "nous étions trouvé(e)s", "vous étiez trouvé(e)(s)", "s'étaient trouvé(e)s" ],
+  "passeAnterieur": [ "me fus trouvé(e)", "te fus trouvé(e)", "se fut trouvé(e)", "nous fûmes trouvé(e)s", "vous fûtes trouvé(e)(s)", "se furent trouvé(e)s" ],
+  "futurAnterieur": [ "me serai trouvé(e)", "te seras trouvé(e)", "se sera trouvé(e)", "nous serons trouvé(e)s", "vous serez trouvé(e)(s)", "se seront trouvé(e)s" ],
+  "subjonctifPresent": [ "me trouve", "te trouves", "se trouve", "nous trouvions", "vous trouviez", "se trouvent" ],
+  "subjonctifImparfait": [ "me trouvasse", "te trouvasses", "se trouvât", "nous trouvassions", "vous trouvassiez", "se trouvassent" ],
+  "subjonctifPasse": [ "me sois trouvé(e)", "te sois trouvé(e)", "se soit trouvé(e)", "nous soyons trouvé(e)s", "vous soyez trouvé(e)(s)", "se soient trouvé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse trouvé(e)", "te fusses trouvé(e)", "se fût trouvé(e)", "nous fussions trouvé(e)s", "vous fussiez trouvé(e)(s)", "se fussent trouvé(e)s" ],
+  "conditionnelPresent": [ "me trouverais", "te trouverais", "se trouverait", "nous trouverions", "vous trouveriez", "se trouveraient" ],
+  "conditionnelPasse": [ "me serais trouvé(e)", "te serais trouvé(e)", "se serait trouvé(e)", "nous serions trouvé(e)s", "vous seriez trouvé(e)(s)", "se seraient trouvé(e)s" ],
+  "conditionnelPasseII": [ "me fusse trouvé(e)", "te fusses trouvé(e)", "se fût trouvé(e)", "nous fussions trouvé(e)s", "vous fussiez trouvé(e)(s)", "se fussent trouvé(e)s" ],
+  "imperatif": [ "–", "trouve-toi !", "–", "trouvons-nous !", "trouvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

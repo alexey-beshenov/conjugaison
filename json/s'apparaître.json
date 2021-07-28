@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'apparaître",
+  "participePresent": "s'apparaissant",
+  "participePasse": "apparu",
+  "present": [ "m'apparais", "t'apparais", "s'apparaît", "nous apparaissons", "vous apparaissez", "s'apparaissent" ],
+  "imparfait": [ "m'apparaissais", "t'apparaissais", "s'apparaissait", "nous apparaissions", "vous apparaissiez", "s'apparaissaient" ],
+  "passeSimple": [ "m'apparus", "t'apparus", "s'apparut", "nous apparûmes", "vous apparûtes", "s'apparurent" ],
+  "futurSimple": [ "m'apparaîtrai", "t'apparaîtras", "s'apparaîtra", "nous apparaîtrons", "vous apparaîtrez", "s'apparaîtront" ],
+  "passeCompose": [ "me suis apparu(e)", "t'es apparu(e)", "s'est apparu(e)", "nous sommes apparu(e)s", "vous êtes apparu(e)(s)", "se sont apparu(e)s" ],
+  "plusQueParfait": [ "m'étais apparu(e)", "t'étais apparu(e)", "s'était apparu(e)", "nous étions apparu(e)s", "vous étiez apparu(e)(s)", "s'étaient apparu(e)s" ],
+  "passeAnterieur": [ "me fus apparu(e)", "te fus apparu(e)", "se fut apparu(e)", "nous fûmes apparu(e)s", "vous fûtes apparu(e)(s)", "se furent apparu(e)s" ],
+  "futurAnterieur": [ "me serai apparu(e)", "te seras apparu(e)", "se sera apparu(e)", "nous serons apparu(e)s", "vous serez apparu(e)(s)", "se seront apparu(e)s" ],
+  "subjonctifPresent": [ "m'apparaisse", "t'apparaisses", "s'apparaisse", "nous apparaissions", "vous apparaissiez", "s'apparaissent" ],
+  "subjonctifImparfait": [ "m'apparusse", "t'apparusses", "s'apparût", "nous apparussions", "vous apparussiez", "s'apparussent" ],
+  "subjonctifPasse": [ "me sois apparu(e)", "te sois apparu(e)", "se soit apparu(e)", "nous soyons apparu(e)s", "vous soyez apparu(e)(s)", "se soient apparu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse apparu(e)", "te fusses apparu(e)", "se fût apparu(e)", "nous fussions apparu(e)s", "vous fussiez apparu(e)(s)", "se fussent apparu(e)s" ],
+  "conditionnelPresent": [ "m'apparaîtrais", "t'apparaîtrais", "s'apparaîtrait", "nous apparaîtrions", "vous apparaîtriez", "s'apparaîtraient" ],
+  "conditionnelPasse": [ "me serais apparu(e)", "te serais apparu(e)", "se serait apparu(e)", "nous serions apparu(e)s", "vous seriez apparu(e)(s)", "se seraient apparu(e)s" ],
+  "conditionnelPasseII": [ "me fusse apparu(e)", "te fusses apparu(e)", "se fût apparu(e)", "nous fussions apparu(e)s", "vous fussiez apparu(e)(s)", "se fussent apparu(e)s" ],
+  "imperatif": [ "–", "apparais-toi !", "–", "apparaissons-nous !", "apparaissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

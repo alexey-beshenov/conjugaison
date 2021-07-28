@@ -1,0 +1,22 @@
+{
+  "infinitif": "indiquer",
+  "participePresent": "indiquant",
+  "participePasse": "indiqué",
+  "present": [ "indique", "indiques", "indique", "indiquons", "indiquez", "indiquent" ],
+  "imparfait": [ "indiquais", "indiquais", "indiquait", "indiquions", "indiquiez", "indiquaient" ],
+  "passeSimple": [ "indiquai", "indiquas", "indiqua", "indiquâmes", "indiquâtes", "indiquèrent" ],
+  "futurSimple": [ "indiquerai", "indiqueras", "indiquera", "indiquerons", "indiquerez", "indiqueront" ],
+  "passeCompose": [ "ai indiqué", "as indiqué", "a indiqué", "avons indiqué", "avez indiqué", "ont indiqué" ],
+  "plusQueParfait": [ "avais indiqué", "avais indiqué", "avait indiqué", "avions indiqué", "aviez indiqué", "avaient indiqué" ],
+  "passeAnterieur": [ "eus indiqué", "eus indiqué", "eut indiqué", "eûmes indiqué", "eûtes indiqué", "eurent indiqué" ],
+  "futurAnterieur": [ "aurai indiqué", "auras indiqué", "aura indiqué", "aurons indiqué", "aurez indiqué", "auront indiqué" ],
+  "subjonctifPresent": [ "indique", "indiques", "indique", "indiquions", "indiquiez", "indiquent" ],
+  "subjonctifImparfait": [ "indiquasse", "indiquasses", "indiquât", "indiquassions", "indiquassiez", "indiquassent" ],
+  "subjonctifPasse": [ "aie indiqué", "aies indiqué", "ait indiqué", "ayons indiqué", "ayez indiqué", "aient indiqué" ],
+  "subjonctifPlusQueParfait": [ "eusse indiqué", "eusses indiqué", "eût indiqué", "eussions indiqué", "eussiez indiqué", "eussent indiqué" ],
+  "conditionnelPresent": [ "indiquerais", "indiquerais", "indiquerait", "indiquerions", "indiqueriez", "indiqueraient" ],
+  "conditionnelPasse": [ "aurais indiqué", "aurais indiqué", "aurait indiqué", "aurions indiqué", "auriez indiqué", "auraient indiqué" ],
+  "conditionnelPasseII": [ "eusse indiqué", "eusses indiqué", "eût indiqué", "eussions indiqué", "eussiez indiqué", "eussent indiqué" ],
+  "imperatif": [ "–", "indique !", "–", "indiquons !", "indiquez !", "–" ],
+  "imperatifPasse": [ "–", "aie indiqué !", "–", "ayons indiqué !", "ayez indiqué !", "–" ]
+}

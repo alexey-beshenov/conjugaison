@@ -1,0 +1,22 @@
+{
+  "infinitif": "suffire",
+  "participePresent": "suffisant",
+  "participePasse": "suffi",
+  "present": [ "suffis", "suffis", "suffit", "suffisons", "suffisez", "suffisent" ],
+  "imparfait": [ "suffisais", "suffisais", "suffisait", "suffisions", "suffisiez", "suffisaient" ],
+  "passeSimple": [ "suffis", "suffis", "suffit", "suffîmes", "suffîtes", "suffirent" ],
+  "futurSimple": [ "suffirai", "suffiras", "suffira", "suffirons", "suffirez", "suffiront" ],
+  "passeCompose": [ "ai suffi", "as suffi", "a suffi", "avons suffi", "avez suffi", "ont suffi" ],
+  "plusQueParfait": [ "avais suffi", "avais suffi", "avait suffi", "avions suffi", "aviez suffi", "avaient suffi" ],
+  "passeAnterieur": [ "eus suffi", "eus suffi", "eut suffi", "eûmes suffi", "eûtes suffi", "eurent suffi" ],
+  "futurAnterieur": [ "aurai suffi", "auras suffi", "aura suffi", "aurons suffi", "aurez suffi", "auront suffi" ],
+  "subjonctifPresent": [ "suffise", "suffises", "suffise", "suffisions", "suffisiez", "suffisent" ],
+  "subjonctifImparfait": [ "suffisse", "suffisses", "suffît", "suffissions", "suffissiez", "suffissent" ],
+  "subjonctifPasse": [ "aie suffi", "aies suffi", "ait suffi", "ayons suffi", "ayez suffi", "aient suffi" ],
+  "subjonctifPlusQueParfait": [ "eusse suffi", "eusses suffi", "eût suffi", "eussions suffi", "eussiez suffi", "eussent suffi" ],
+  "conditionnelPresent": [ "suffirais", "suffirais", "suffirait", "suffirions", "suffiriez", "suffiraient" ],
+  "conditionnelPasse": [ "aurais suffi", "aurais suffi", "aurait suffi", "aurions suffi", "auriez suffi", "auraient suffi" ],
+  "conditionnelPasseII": [ "eusse suffi", "eusses suffi", "eût suffi", "eussions suffi", "eussiez suffi", "eussent suffi" ],
+  "imperatif": [ "–", "suffis !", "–", "suffisons !", "suffisez !", "–" ],
+  "imperatifPasse": [ "–", "aie suffi !", "–", "ayons suffi !", "ayez suffi !", "–" ]
+}

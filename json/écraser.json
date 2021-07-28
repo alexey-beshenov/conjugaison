@@ -1,0 +1,22 @@
+{
+  "infinitif": "écraser",
+  "participePresent": "écrasant",
+  "participePasse": "écrasé",
+  "present": [ "écrase", "écrases", "écrase", "écrasons", "écrasez", "écrasent" ],
+  "imparfait": [ "écrasais", "écrasais", "écrasait", "écrasions", "écrasiez", "écrasaient" ],
+  "passeSimple": [ "écrasai", "écrasas", "écrasa", "écrasâmes", "écrasâtes", "écrasèrent" ],
+  "futurSimple": [ "écraserai", "écraseras", "écrasera", "écraserons", "écraserez", "écraseront" ],
+  "passeCompose": [ "ai écrasé", "as écrasé", "a écrasé", "avons écrasé", "avez écrasé", "ont écrasé" ],
+  "plusQueParfait": [ "avais écrasé", "avais écrasé", "avait écrasé", "avions écrasé", "aviez écrasé", "avaient écrasé" ],
+  "passeAnterieur": [ "eus écrasé", "eus écrasé", "eut écrasé", "eûmes écrasé", "eûtes écrasé", "eurent écrasé" ],
+  "futurAnterieur": [ "aurai écrasé", "auras écrasé", "aura écrasé", "aurons écrasé", "aurez écrasé", "auront écrasé" ],
+  "subjonctifPresent": [ "écrase", "écrases", "écrase", "écrasions", "écrasiez", "écrasent" ],
+  "subjonctifImparfait": [ "écrasasse", "écrasasses", "écrasât", "écrasassions", "écrasassiez", "écrasassent" ],
+  "subjonctifPasse": [ "aie écrasé", "aies écrasé", "ait écrasé", "ayons écrasé", "ayez écrasé", "aient écrasé" ],
+  "subjonctifPlusQueParfait": [ "eusse écrasé", "eusses écrasé", "eût écrasé", "eussions écrasé", "eussiez écrasé", "eussent écrasé" ],
+  "conditionnelPresent": [ "écraserais", "écraserais", "écraserait", "écraserions", "écraseriez", "écraseraient" ],
+  "conditionnelPasse": [ "aurais écrasé", "aurais écrasé", "aurait écrasé", "aurions écrasé", "auriez écrasé", "auraient écrasé" ],
+  "conditionnelPasseII": [ "eusse écrasé", "eusses écrasé", "eût écrasé", "eussions écrasé", "eussiez écrasé", "eussent écrasé" ],
+  "imperatif": [ "–", "écrase !", "–", "écrasons !", "écrasez !", "–" ],
+  "imperatifPasse": [ "–", "aie écrasé !", "–", "ayons écrasé !", "ayez écrasé !", "–" ]
+}

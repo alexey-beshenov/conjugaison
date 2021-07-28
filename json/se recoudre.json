@@ -1,0 +1,22 @@
+{
+  "infinitif": "se recoudre",
+  "participePresent": "se recousant",
+  "participePasse": "recousu",
+  "present": [ "me recouds", "te recouds", "se recoud", "nous recousons", "vous recousez", "se recousent" ],
+  "imparfait": [ "me recousais", "te recousais", "se recousait", "nous recousions", "vous recousiez", "se recousaient" ],
+  "passeSimple": [ "me recousis", "te recousis", "se recousit", "nous recousîmes", "vous recousîtes", "se recousirent" ],
+  "futurSimple": [ "me recoudrai", "te recoudras", "se recoudra", "nous recoudrons", "vous recoudrez", "se recoudront" ],
+  "passeCompose": [ "me suis recousu(e)", "t'es recousu(e)", "s'est recousu(e)", "nous sommes recousu(e)s", "vous êtes recousu(e)(s)", "se sont recousu(e)s" ],
+  "plusQueParfait": [ "m'étais recousu(e)", "t'étais recousu(e)", "s'était recousu(e)", "nous étions recousu(e)s", "vous étiez recousu(e)(s)", "s'étaient recousu(e)s" ],
+  "passeAnterieur": [ "me fus recousu(e)", "te fus recousu(e)", "se fut recousu(e)", "nous fûmes recousu(e)s", "vous fûtes recousu(e)(s)", "se furent recousu(e)s" ],
+  "futurAnterieur": [ "me serai recousu(e)", "te seras recousu(e)", "se sera recousu(e)", "nous serons recousu(e)s", "vous serez recousu(e)(s)", "se seront recousu(e)s" ],
+  "subjonctifPresent": [ "me recouse", "te recouses", "se recouse", "nous recousions", "vous recousiez", "se recousent" ],
+  "subjonctifImparfait": [ "me recousisse", "te recousisses", "se recousît", "nous recousissions", "vous recousissiez", "se recousissent" ],
+  "subjonctifPasse": [ "me sois recousu(e)", "te sois recousu(e)", "se soit recousu(e)", "nous soyons recousu(e)s", "vous soyez recousu(e)(s)", "se soient recousu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse recousu(e)", "te fusses recousu(e)", "se fût recousu(e)", "nous fussions recousu(e)s", "vous fussiez recousu(e)(s)", "se fussent recousu(e)s" ],
+  "conditionnelPresent": [ "me recoudrais", "te recoudrais", "se recoudrait", "nous recoudrions", "vous recoudriez", "se recoudraient" ],
+  "conditionnelPasse": [ "me serais recousu(e)", "te serais recousu(e)", "se serait recousu(e)", "nous serions recousu(e)s", "vous seriez recousu(e)(s)", "se seraient recousu(e)s" ],
+  "conditionnelPasseII": [ "me fusse recousu(e)", "te fusses recousu(e)", "se fût recousu(e)", "nous fussions recousu(e)s", "vous fussiez recousu(e)(s)", "se fussent recousu(e)s" ],
+  "imperatif": [ "–", "recouds-toi !", "–", "recousons-nous !", "recousez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se coudre",
+  "participePresent": "se cousant",
+  "participePasse": "cousu",
+  "present": [ "me couds", "te couds", "se coud", "nous cousons", "vous cousez", "se cousent" ],
+  "imparfait": [ "me cousais", "te cousais", "se cousait", "nous cousions", "vous cousiez", "se cousaient" ],
+  "passeSimple": [ "me cousis", "te cousis", "se cousit", "nous cousîmes", "vous cousîtes", "se cousirent" ],
+  "futurSimple": [ "me coudrai", "te coudras", "se coudra", "nous coudrons", "vous coudrez", "se coudront" ],
+  "passeCompose": [ "me suis cousu(e)", "t'es cousu(e)", "s'est cousu(e)", "nous sommes cousu(e)s", "vous êtes cousu(e)(s)", "se sont cousu(e)s" ],
+  "plusQueParfait": [ "m'étais cousu(e)", "t'étais cousu(e)", "s'était cousu(e)", "nous étions cousu(e)s", "vous étiez cousu(e)(s)", "s'étaient cousu(e)s" ],
+  "passeAnterieur": [ "me fus cousu(e)", "te fus cousu(e)", "se fut cousu(e)", "nous fûmes cousu(e)s", "vous fûtes cousu(e)(s)", "se furent cousu(e)s" ],
+  "futurAnterieur": [ "me serai cousu(e)", "te seras cousu(e)", "se sera cousu(e)", "nous serons cousu(e)s", "vous serez cousu(e)(s)", "se seront cousu(e)s" ],
+  "subjonctifPresent": [ "me couse", "te couses", "se couse", "nous cousions", "vous cousiez", "se cousent" ],
+  "subjonctifImparfait": [ "me cousisse", "te cousisses", "se cousît", "nous cousissions", "vous cousissiez", "se cousissent" ],
+  "subjonctifPasse": [ "me sois cousu(e)", "te sois cousu(e)", "se soit cousu(e)", "nous soyons cousu(e)s", "vous soyez cousu(e)(s)", "se soient cousu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse cousu(e)", "te fusses cousu(e)", "se fût cousu(e)", "nous fussions cousu(e)s", "vous fussiez cousu(e)(s)", "se fussent cousu(e)s" ],
+  "conditionnelPresent": [ "me coudrais", "te coudrais", "se coudrait", "nous coudrions", "vous coudriez", "se coudraient" ],
+  "conditionnelPasse": [ "me serais cousu(e)", "te serais cousu(e)", "se serait cousu(e)", "nous serions cousu(e)s", "vous seriez cousu(e)(s)", "se seraient cousu(e)s" ],
+  "conditionnelPasseII": [ "me fusse cousu(e)", "te fusses cousu(e)", "se fût cousu(e)", "nous fussions cousu(e)s", "vous fussiez cousu(e)(s)", "se fussent cousu(e)s" ],
+  "imperatif": [ "–", "couds-toi !", "–", "cousons-nous !", "cousez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

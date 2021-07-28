@@ -1,0 +1,22 @@
+{
+  "infinitif": "se céder",
+  "participePresent": "se cédant",
+  "participePasse": "cédé",
+  "present": [ "me cède", "te cèdes", "se cède", "nous cédons", "vous cédez", "se cèdent" ],
+  "imparfait": [ "me cédais", "te cédais", "se cédait", "nous cédions", "vous cédiez", "se cédaient" ],
+  "passeSimple": [ "me cédai", "te cédas", "se céda", "nous cédâmes", "vous cédâtes", "se cédèrent" ],
+  "futurSimple": [ "me céderai", "te céderas", "se cédera", "nous céderons", "vous céderez", "se céderont" ],
+  "passeCompose": [ "me suis cédé(e)", "t'es cédé(e)", "s'est cédé(e)", "nous sommes cédé(e)s", "vous êtes cédé(e)(s)", "se sont cédé(e)s" ],
+  "plusQueParfait": [ "m'étais cédé(e)", "t'étais cédé(e)", "s'était cédé(e)", "nous étions cédé(e)s", "vous étiez cédé(e)(s)", "s'étaient cédé(e)s" ],
+  "passeAnterieur": [ "me fus cédé(e)", "te fus cédé(e)", "se fut cédé(e)", "nous fûmes cédé(e)s", "vous fûtes cédé(e)(s)", "se furent cédé(e)s" ],
+  "futurAnterieur": [ "me serai cédé(e)", "te seras cédé(e)", "se sera cédé(e)", "nous serons cédé(e)s", "vous serez cédé(e)(s)", "se seront cédé(e)s" ],
+  "subjonctifPresent": [ "me cède", "te cèdes", "se cède", "nous cédions", "vous cédiez", "se cèdent" ],
+  "subjonctifImparfait": [ "me cédasse", "te cédasses", "se cédât", "nous cédassions", "vous cédassiez", "se cédassent" ],
+  "subjonctifPasse": [ "me sois cédé(e)", "te sois cédé(e)", "se soit cédé(e)", "nous soyons cédé(e)s", "vous soyez cédé(e)(s)", "se soient cédé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse cédé(e)", "te fusses cédé(e)", "se fût cédé(e)", "nous fussions cédé(e)s", "vous fussiez cédé(e)(s)", "se fussent cédé(e)s" ],
+  "conditionnelPresent": [ "me céderais", "te céderais", "se céderait", "nous céderions", "vous céderiez", "se céderaient" ],
+  "conditionnelPasse": [ "me serais cédé(e)", "te serais cédé(e)", "se serait cédé(e)", "nous serions cédé(e)s", "vous seriez cédé(e)(s)", "se seraient cédé(e)s" ],
+  "conditionnelPasseII": [ "me fusse cédé(e)", "te fusses cédé(e)", "se fût cédé(e)", "nous fussions cédé(e)s", "vous fussiez cédé(e)(s)", "se fussent cédé(e)s" ],
+  "imperatif": [ "–", "cède-toi !", "–", "cédons-nous !", "cédez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

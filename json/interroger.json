@@ -1,0 +1,22 @@
+{
+  "infinitif": "interroger",
+  "participePresent": "interrogeant",
+  "participePasse": "interrogé",
+  "present": [ "interroge", "interroges", "interroge", "interrogeons", "interrogez", "interrogent" ],
+  "imparfait": [ "interrogeais", "interrogeais", "interrogeait", "interrogions", "interrogiez", "interrogeaient" ],
+  "passeSimple": [ "interrogeai", "interrogeas", "interrogea", "interrogeâmes", "interrogeâtes", "interrogèrent" ],
+  "futurSimple": [ "interrogerai", "interrogeras", "interrogera", "interrogerons", "interrogerez", "interrogeront" ],
+  "passeCompose": [ "ai interrogé", "as interrogé", "a interrogé", "avons interrogé", "avez interrogé", "ont interrogé" ],
+  "plusQueParfait": [ "avais interrogé", "avais interrogé", "avait interrogé", "avions interrogé", "aviez interrogé", "avaient interrogé" ],
+  "passeAnterieur": [ "eus interrogé", "eus interrogé", "eut interrogé", "eûmes interrogé", "eûtes interrogé", "eurent interrogé" ],
+  "futurAnterieur": [ "aurai interrogé", "auras interrogé", "aura interrogé", "aurons interrogé", "aurez interrogé", "auront interrogé" ],
+  "subjonctifPresent": [ "interroge", "interroges", "interroge", "interrogions", "interrogiez", "interrogent" ],
+  "subjonctifImparfait": [ "interrogeasse", "interrogeasses", "interrogeât", "interrogeassions", "interrogeassiez", "interrogeassent" ],
+  "subjonctifPasse": [ "aie interrogé", "aies interrogé", "ait interrogé", "ayons interrogé", "ayez interrogé", "aient interrogé" ],
+  "subjonctifPlusQueParfait": [ "eusse interrogé", "eusses interrogé", "eût interrogé", "eussions interrogé", "eussiez interrogé", "eussent interrogé" ],
+  "conditionnelPresent": [ "interrogerais", "interrogerais", "interrogerait", "interrogerions", "interrogeriez", "interrogeraient" ],
+  "conditionnelPasse": [ "aurais interrogé", "aurais interrogé", "aurait interrogé", "aurions interrogé", "auriez interrogé", "auraient interrogé" ],
+  "conditionnelPasseII": [ "eusse interrogé", "eusses interrogé", "eût interrogé", "eussions interrogé", "eussiez interrogé", "eussent interrogé" ],
+  "imperatif": [ "–", "interroge !", "–", "interrogeons !", "interrogez !", "–" ],
+  "imperatifPasse": [ "–", "aie interrogé !", "–", "ayons interrogé !", "ayez interrogé !", "–" ]
+}

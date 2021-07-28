@@ -1,0 +1,22 @@
+{
+  "infinitif": "se poursuivre",
+  "participePresent": "se poursuivant",
+  "participePasse": "poursuivi",
+  "present": [ "me poursuis", "te poursuis", "se poursuit", "nous poursuivons", "vous poursuivez", "se poursuivent" ],
+  "imparfait": [ "me poursuivais", "te poursuivais", "se poursuivait", "nous poursuivions", "vous poursuiviez", "se poursuivaient" ],
+  "passeSimple": [ "me poursuivis", "te poursuivis", "se poursuivit", "nous poursuivîmes", "vous poursuivîtes", "se poursuivirent" ],
+  "futurSimple": [ "me poursuivrai", "te poursuivras", "se poursuivra", "nous poursuivrons", "vous poursuivrez", "se poursuivront" ],
+  "passeCompose": [ "me suis poursuivi(e)", "t'es poursuivi(e)", "s'est poursuivi(e)", "nous sommes poursuivi(e)s", "vous êtes poursuivi(e)(s)", "se sont poursuivi(e)s" ],
+  "plusQueParfait": [ "m'étais poursuivi(e)", "t'étais poursuivi(e)", "s'était poursuivi(e)", "nous étions poursuivi(e)s", "vous étiez poursuivi(e)(s)", "s'étaient poursuivi(e)s" ],
+  "passeAnterieur": [ "me fus poursuivi(e)", "te fus poursuivi(e)", "se fut poursuivi(e)", "nous fûmes poursuivi(e)s", "vous fûtes poursuivi(e)(s)", "se furent poursuivi(e)s" ],
+  "futurAnterieur": [ "me serai poursuivi(e)", "te seras poursuivi(e)", "se sera poursuivi(e)", "nous serons poursuivi(e)s", "vous serez poursuivi(e)(s)", "se seront poursuivi(e)s" ],
+  "subjonctifPresent": [ "me poursuive", "te poursuives", "se poursuive", "nous poursuivions", "vous poursuiviez", "se poursuivent" ],
+  "subjonctifImparfait": [ "me poursuivisse", "te poursuivisses", "se poursuivît", "nous poursuivissions", "vous poursuivissiez", "se poursuivissent" ],
+  "subjonctifPasse": [ "me sois poursuivi(e)", "te sois poursuivi(e)", "se soit poursuivi(e)", "nous soyons poursuivi(e)s", "vous soyez poursuivi(e)(s)", "se soient poursuivi(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse poursuivi(e)", "te fusses poursuivi(e)", "se fût poursuivi(e)", "nous fussions poursuivi(e)s", "vous fussiez poursuivi(e)(s)", "se fussent poursuivi(e)s" ],
+  "conditionnelPresent": [ "me poursuivrais", "te poursuivrais", "se poursuivrait", "nous poursuivrions", "vous poursuivriez", "se poursuivraient" ],
+  "conditionnelPasse": [ "me serais poursuivi(e)", "te serais poursuivi(e)", "se serait poursuivi(e)", "nous serions poursuivi(e)s", "vous seriez poursuivi(e)(s)", "se seraient poursuivi(e)s" ],
+  "conditionnelPasseII": [ "me fusse poursuivi(e)", "te fusses poursuivi(e)", "se fût poursuivi(e)", "nous fussions poursuivi(e)s", "vous fussiez poursuivi(e)(s)", "se fussent poursuivi(e)s" ],
+  "imperatif": [ "–", "poursuis-toi !", "–", "poursuivons-nous !", "poursuivez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

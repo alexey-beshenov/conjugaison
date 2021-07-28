@@ -1,0 +1,22 @@
+{
+  "infinitif": "confier",
+  "participePresent": "confiant",
+  "participePasse": "confié",
+  "present": [ "confie", "confies", "confie", "confions", "confiez", "confient" ],
+  "imparfait": [ "confiais", "confiais", "confiait", "confiions", "confiiez", "confiaient" ],
+  "passeSimple": [ "confiai", "confias", "confia", "confiâmes", "confiâtes", "confièrent" ],
+  "futurSimple": [ "confierai", "confieras", "confiera", "confierons", "confierez", "confieront" ],
+  "passeCompose": [ "ai confié", "as confié", "a confié", "avons confié", "avez confié", "ont confié" ],
+  "plusQueParfait": [ "avais confié", "avais confié", "avait confié", "avions confié", "aviez confié", "avaient confié" ],
+  "passeAnterieur": [ "eus confié", "eus confié", "eut confié", "eûmes confié", "eûtes confié", "eurent confié" ],
+  "futurAnterieur": [ "aurai confié", "auras confié", "aura confié", "aurons confié", "aurez confié", "auront confié" ],
+  "subjonctifPresent": [ "confie", "confies", "confie", "confiions", "confiiez", "confient" ],
+  "subjonctifImparfait": [ "confiasse", "confiasses", "confiât", "confiassions", "confiassiez", "confiassent" ],
+  "subjonctifPasse": [ "aie confié", "aies confié", "ait confié", "ayons confié", "ayez confié", "aient confié" ],
+  "subjonctifPlusQueParfait": [ "eusse confié", "eusses confié", "eût confié", "eussions confié", "eussiez confié", "eussent confié" ],
+  "conditionnelPresent": [ "confierais", "confierais", "confierait", "confierions", "confieriez", "confieraient" ],
+  "conditionnelPasse": [ "aurais confié", "aurais confié", "aurait confié", "aurions confié", "auriez confié", "auraient confié" ],
+  "conditionnelPasseII": [ "eusse confié", "eusses confié", "eût confié", "eussions confié", "eussiez confié", "eussent confié" ],
+  "imperatif": [ "–", "confie !", "–", "confions !", "confiez !", "–" ],
+  "imperatifPasse": [ "–", "aie confié !", "–", "ayons confié !", "ayez confié !", "–" ]
+}

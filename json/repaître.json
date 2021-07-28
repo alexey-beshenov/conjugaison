@@ -1,0 +1,22 @@
+{
+  "infinitif": "repaître",
+  "participePresent": "repaissant",
+  "participePasse": "repu",
+  "present": [ "repais", "repais", "repaît", "repaissons", "repaissez", "repaissent" ],
+  "imparfait": [ "repaissais", "repaissais", "repaissait", "repaissions", "repaissiez", "repaissaient" ],
+  "passeSimple": [ "repus", "repus", "reput", "repûmes", "repûtes", "repurent" ],
+  "futurSimple": [ "repaîtrai", "repaîtras", "repaîtra", "repaîtrons", "repaîtrez", "repaîtront" ],
+  "passeCompose": [ "ai repu", "as repu", "a repu", "avons repu", "avez repu", "ont repu" ],
+  "plusQueParfait": [ "avais repu", "avais repu", "avait repu", "avions repu", "aviez repu", "avaient repu" ],
+  "passeAnterieur": [ "eus repu", "eus repu", "eut repu", "eûmes repu", "eûtes repu", "eurent repu" ],
+  "futurAnterieur": [ "aurai repu", "auras repu", "aura repu", "aurons repu", "aurez repu", "auront repu" ],
+  "subjonctifPresent": [ "repaisse", "repaisses", "repaisse", "repaissions", "repaissiez", "repaissent" ],
+  "subjonctifImparfait": [ "repusse", "repusses", "repût", "repussions", "repussiez", "repussent" ],
+  "subjonctifPasse": [ "aie repu", "aies repu", "ait repu", "ayons repu", "ayez repu", "aient repu" ],
+  "subjonctifPlusQueParfait": [ "eusse repu", "eusses repu", "eût repu", "eussions repu", "eussiez repu", "eussent repu" ],
+  "conditionnelPresent": [ "repaîtrais", "repaîtrais", "repaîtrait", "repaîtrions", "repaîtriez", "repaîtraient" ],
+  "conditionnelPasse": [ "aurais repu", "aurais repu", "aurait repu", "aurions repu", "auriez repu", "auraient repu" ],
+  "conditionnelPasseII": [ "eusse repu", "eusses repu", "eût repu", "eussions repu", "eussiez repu", "eussent repu" ],
+  "imperatif": [ "–", "repais !", "–", "repaissons !", "repaissez !", "–" ],
+  "imperatifPasse": [ "–", "aie repu !", "–", "ayons repu !", "ayez repu !", "–" ]
+}

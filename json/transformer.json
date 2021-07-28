@@ -1,0 +1,22 @@
+{
+  "infinitif": "transformer",
+  "participePresent": "transformant",
+  "participePasse": "transformé",
+  "present": [ "transforme", "transformes", "transforme", "transformons", "transformez", "transforment" ],
+  "imparfait": [ "transformais", "transformais", "transformait", "transformions", "transformiez", "transformaient" ],
+  "passeSimple": [ "transformai", "transformas", "transforma", "transformâmes", "transformâtes", "transformèrent" ],
+  "futurSimple": [ "transformerai", "transformeras", "transformera", "transformerons", "transformerez", "transformeront" ],
+  "passeCompose": [ "ai transformé", "as transformé", "a transformé", "avons transformé", "avez transformé", "ont transformé" ],
+  "plusQueParfait": [ "avais transformé", "avais transformé", "avait transformé", "avions transformé", "aviez transformé", "avaient transformé" ],
+  "passeAnterieur": [ "eus transformé", "eus transformé", "eut transformé", "eûmes transformé", "eûtes transformé", "eurent transformé" ],
+  "futurAnterieur": [ "aurai transformé", "auras transformé", "aura transformé", "aurons transformé", "aurez transformé", "auront transformé" ],
+  "subjonctifPresent": [ "transforme", "transformes", "transforme", "transformions", "transformiez", "transforment" ],
+  "subjonctifImparfait": [ "transformasse", "transformasses", "transformât", "transformassions", "transformassiez", "transformassent" ],
+  "subjonctifPasse": [ "aie transformé", "aies transformé", "ait transformé", "ayons transformé", "ayez transformé", "aient transformé" ],
+  "subjonctifPlusQueParfait": [ "eusse transformé", "eusses transformé", "eût transformé", "eussions transformé", "eussiez transformé", "eussent transformé" ],
+  "conditionnelPresent": [ "transformerais", "transformerais", "transformerait", "transformerions", "transformeriez", "transformeraient" ],
+  "conditionnelPasse": [ "aurais transformé", "aurais transformé", "aurait transformé", "aurions transformé", "auriez transformé", "auraient transformé" ],
+  "conditionnelPasseII": [ "eusse transformé", "eusses transformé", "eût transformé", "eussions transformé", "eussiez transformé", "eussent transformé" ],
+  "imperatif": [ "–", "transforme !", "–", "transformons !", "transformez !", "–" ],
+  "imperatifPasse": [ "–", "aie transformé !", "–", "ayons transformé !", "ayez transformé !", "–" ]
+}

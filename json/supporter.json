@@ -1,0 +1,22 @@
+{
+  "infinitif": "supporter",
+  "participePresent": "supportant",
+  "participePasse": "supporté",
+  "present": [ "supporte", "supportes", "supporte", "supportons", "supportez", "supportent" ],
+  "imparfait": [ "supportais", "supportais", "supportait", "supportions", "supportiez", "supportaient" ],
+  "passeSimple": [ "supportai", "supportas", "supporta", "supportâmes", "supportâtes", "supportèrent" ],
+  "futurSimple": [ "supporterai", "supporteras", "supportera", "supporterons", "supporterez", "supporteront" ],
+  "passeCompose": [ "ai supporté", "as supporté", "a supporté", "avons supporté", "avez supporté", "ont supporté" ],
+  "plusQueParfait": [ "avais supporté", "avais supporté", "avait supporté", "avions supporté", "aviez supporté", "avaient supporté" ],
+  "passeAnterieur": [ "eus supporté", "eus supporté", "eut supporté", "eûmes supporté", "eûtes supporté", "eurent supporté" ],
+  "futurAnterieur": [ "aurai supporté", "auras supporté", "aura supporté", "aurons supporté", "aurez supporté", "auront supporté" ],
+  "subjonctifPresent": [ "supporte", "supportes", "supporte", "supportions", "supportiez", "supportent" ],
+  "subjonctifImparfait": [ "supportasse", "supportasses", "supportât", "supportassions", "supportassiez", "supportassent" ],
+  "subjonctifPasse": [ "aie supporté", "aies supporté", "ait supporté", "ayons supporté", "ayez supporté", "aient supporté" ],
+  "subjonctifPlusQueParfait": [ "eusse supporté", "eusses supporté", "eût supporté", "eussions supporté", "eussiez supporté", "eussent supporté" ],
+  "conditionnelPresent": [ "supporterais", "supporterais", "supporterait", "supporterions", "supporteriez", "supporteraient" ],
+  "conditionnelPasse": [ "aurais supporté", "aurais supporté", "aurait supporté", "aurions supporté", "auriez supporté", "auraient supporté" ],
+  "conditionnelPasseII": [ "eusse supporté", "eusses supporté", "eût supporté", "eussions supporté", "eussiez supporté", "eussent supporté" ],
+  "imperatif": [ "–", "supporte !", "–", "supportons !", "supportez !", "–" ],
+  "imperatifPasse": [ "–", "aie supporté !", "–", "ayons supporté !", "ayez supporté !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "toréer",
+  "participePresent": "toréant",
+  "participePasse": "toréé",
+  "present": [ "torée", "torées", "torée", "toréons", "toréez", "toréent" ],
+  "imparfait": [ "toréais", "toréais", "toréait", "toréions", "toréiez", "toréaient" ],
+  "passeSimple": [ "toréai", "toréas", "toréa", "toréâmes", "toréâtes", "toréèrent" ],
+  "futurSimple": [ "toréerai", "toréeras", "toréera", "toréerons", "toréerez", "toréeront" ],
+  "passeCompose": [ "ai toréé", "as toréé", "a toréé", "avons toréé", "avez toréé", "ont toréé" ],
+  "plusQueParfait": [ "avais toréé", "avais toréé", "avait toréé", "avions toréé", "aviez toréé", "avaient toréé" ],
+  "passeAnterieur": [ "eus toréé", "eus toréé", "eut toréé", "eûmes toréé", "eûtes toréé", "eurent toréé" ],
+  "futurAnterieur": [ "aurai toréé", "auras toréé", "aura toréé", "aurons toréé", "aurez toréé", "auront toréé" ],
+  "subjonctifPresent": [ "torée", "torées", "torée", "toréions", "toréiez", "toréent" ],
+  "subjonctifImparfait": [ "toréasse", "toréasses", "toréât", "toréassions", "toréassiez", "toréassent" ],
+  "subjonctifPasse": [ "aie toréé", "aies toréé", "ait toréé", "ayons toréé", "ayez toréé", "aient toréé" ],
+  "subjonctifPlusQueParfait": [ "eusse toréé", "eusses toréé", "eût toréé", "eussions toréé", "eussiez toréé", "eussent toréé" ],
+  "conditionnelPresent": [ "toréerais", "toréerais", "toréerait", "toréerions", "toréeriez", "toréeraient" ],
+  "conditionnelPasse": [ "aurais toréé", "aurais toréé", "aurait toréé", "aurions toréé", "auriez toréé", "auraient toréé" ],
+  "conditionnelPasseII": [ "eusse toréé", "eusses toréé", "eût toréé", "eussions toréé", "eussiez toréé", "eussent toréé" ],
+  "imperatif": [ "–", "torée !", "–", "toréons !", "toréez !", "–" ],
+  "imperatifPasse": [ "–", "aie toréé !", "–", "ayons toréé !", "ayez toréé !", "–" ]
+}

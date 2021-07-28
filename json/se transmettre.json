@@ -1,0 +1,22 @@
+{
+  "infinitif": "se transmettre",
+  "participePresent": "se transmettant",
+  "participePasse": "transmis",
+  "present": [ "me transmets", "te transmets", "se transmet", "nous transmettons", "vous transmettez", "se transmettent" ],
+  "imparfait": [ "me transmettais", "te transmettais", "se transmettait", "nous transmettions", "vous transmettiez", "se transmettaient" ],
+  "passeSimple": [ "me transmis", "te transmis", "se transmit", "nous transmîmes", "vous transmîtes", "se transmirent" ],
+  "futurSimple": [ "me transmettrai", "te transmettras", "se transmettra", "nous transmettrons", "vous transmettrez", "se transmettront" ],
+  "passeCompose": [ "me suis transmis(e)", "t'es transmis(e)", "s'est transmis(e)", "nous sommes transmis(es)", "vous êtes transmis(e(s))", "se sont transmis(es)" ],
+  "plusQueParfait": [ "m'étais transmis(e)", "t'étais transmis(e)", "s'était transmis(e)", "nous étions transmis(es)", "vous étiez transmis(e(s))", "s'étaient transmis(es)" ],
+  "passeAnterieur": [ "me fus transmis(e)", "te fus transmis(e)", "se fut transmis(e)", "nous fûmes transmis(es)", "vous fûtes transmis(e(s))", "se furent transmis(es)" ],
+  "futurAnterieur": [ "me serai transmis(e)", "te seras transmis(e)", "se sera transmis(e)", "nous serons transmis(es)", "vous serez transmis(e(s))", "se seront transmis(es)" ],
+  "subjonctifPresent": [ "me transmette", "te transmettes", "se transmette", "nous transmettions", "vous transmettiez", "se transmettent" ],
+  "subjonctifImparfait": [ "me transmisse", "te transmisses", "se transmît", "nous transmissions", "vous transmissiez", "se transmissent" ],
+  "subjonctifPasse": [ "me sois transmis(e)", "te sois transmis(e)", "se soit transmis(e)", "nous soyons transmis(es)", "vous soyez transmis(e(s))", "se soient transmis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse transmis(e)", "te fusses transmis(e)", "se fût transmis(e)", "nous fussions transmis(es)", "vous fussiez transmis(e(s))", "se fussent transmis(es)" ],
+  "conditionnelPresent": [ "me transmettrais", "te transmettrais", "se transmettrait", "nous transmettrions", "vous transmettriez", "se transmettraient" ],
+  "conditionnelPasse": [ "me serais transmis(e)", "te serais transmis(e)", "se serait transmis(e)", "nous serions transmis(es)", "vous seriez transmis(e(s))", "se seraient transmis(es)" ],
+  "conditionnelPasseII": [ "me fusse transmis(e)", "te fusses transmis(e)", "se fût transmis(e)", "nous fussions transmis(es)", "vous fussiez transmis(e(s))", "se fussent transmis(es)" ],
+  "imperatif": [ "–", "transmets-toi !", "–", "transmettons-nous !", "transmettez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se monter",
+  "participePresent": "se montant",
+  "participePasse": "monté",
+  "present": [ "me monte", "te montes", "se monte", "nous montons", "vous montez", "se montent" ],
+  "imparfait": [ "me montais", "te montais", "se montait", "nous montions", "vous montiez", "se montaient" ],
+  "passeSimple": [ "me montai", "te montas", "se monta", "nous montâmes", "vous montâtes", "se montèrent" ],
+  "futurSimple": [ "me monterai", "te monteras", "se montera", "nous monterons", "vous monterez", "se monteront" ],
+  "passeCompose": [ "me suis monté(e)", "t'es monté(e)", "s'est monté(e)", "nous sommes monté(e)s", "vous êtes monté(e)(s)", "se sont monté(e)s" ],
+  "plusQueParfait": [ "m'étais monté(e)", "t'étais monté(e)", "s'était monté(e)", "nous étions monté(e)s", "vous étiez monté(e)(s)", "s'étaient monté(e)s" ],
+  "passeAnterieur": [ "me fus monté(e)", "te fus monté(e)", "se fut monté(e)", "nous fûmes monté(e)s", "vous fûtes monté(e)(s)", "se furent monté(e)s" ],
+  "futurAnterieur": [ "me serai monté(e)", "te seras monté(e)", "se sera monté(e)", "nous serons monté(e)s", "vous serez monté(e)(s)", "se seront monté(e)s" ],
+  "subjonctifPresent": [ "me monte", "te montes", "se monte", "nous montions", "vous montiez", "se montent" ],
+  "subjonctifImparfait": [ "me montasse", "te montasses", "se montât", "nous montassions", "vous montassiez", "se montassent" ],
+  "subjonctifPasse": [ "me sois monté(e)", "te sois monté(e)", "se soit monté(e)", "nous soyons monté(e)s", "vous soyez monté(e)(s)", "se soient monté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse monté(e)", "te fusses monté(e)", "se fût monté(e)", "nous fussions monté(e)s", "vous fussiez monté(e)(s)", "se fussent monté(e)s" ],
+  "conditionnelPresent": [ "me monterais", "te monterais", "se monterait", "nous monterions", "vous monteriez", "se monteraient" ],
+  "conditionnelPasse": [ "me serais monté(e)", "te serais monté(e)", "se serait monté(e)", "nous serions monté(e)s", "vous seriez monté(e)(s)", "se seraient monté(e)s" ],
+  "conditionnelPasseII": [ "me fusse monté(e)", "te fusses monté(e)", "se fût monté(e)", "nous fussions monté(e)s", "vous fussiez monté(e)(s)", "se fussent monté(e)s" ],
+  "imperatif": [ "–", "monte-toi !", "–", "montons-nous !", "montez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

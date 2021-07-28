@@ -1,0 +1,22 @@
+{
+  "infinitif": "prédire",
+  "participePresent": "prédisant",
+  "participePasse": "prédit",
+  "present": [ "prédis", "prédis", "prédit", "prédisons", "prédisez", "prédisent" ],
+  "imparfait": [ "prédisais", "prédisais", "prédisait", "prédisions", "prédisiez", "prédisaient" ],
+  "passeSimple": [ "prédis", "prédis", "prédit", "prédîmes", "prédîtes", "prédirent" ],
+  "futurSimple": [ "prédirai", "prédiras", "prédira", "prédirons", "prédirez", "prédiront" ],
+  "passeCompose": [ "ai prédit", "as prédit", "a prédit", "avons prédit", "avez prédit", "ont prédit" ],
+  "plusQueParfait": [ "avais prédit", "avais prédit", "avait prédit", "avions prédit", "aviez prédit", "avaient prédit" ],
+  "passeAnterieur": [ "eus prédit", "eus prédit", "eut prédit", "eûmes prédit", "eûtes prédit", "eurent prédit" ],
+  "futurAnterieur": [ "aurai prédit", "auras prédit", "aura prédit", "aurons prédit", "aurez prédit", "auront prédit" ],
+  "subjonctifPresent": [ "prédise", "prédises", "prédise", "prédisions", "prédisiez", "prédisent" ],
+  "subjonctifImparfait": [ "prédisse", "prédisses", "prédît", "prédissions", "prédissiez", "prédissent" ],
+  "subjonctifPasse": [ "aie prédit", "aies prédit", "ait prédit", "ayons prédit", "ayez prédit", "aient prédit" ],
+  "subjonctifPlusQueParfait": [ "eusse prédit", "eusses prédit", "eût prédit", "eussions prédit", "eussiez prédit", "eussent prédit" ],
+  "conditionnelPresent": [ "prédirais", "prédirais", "prédirait", "prédirions", "prédiriez", "prédiraient" ],
+  "conditionnelPasse": [ "aurais prédit", "aurais prédit", "aurait prédit", "aurions prédit", "auriez prédit", "auraient prédit" ],
+  "conditionnelPasseII": [ "eusse prédit", "eusses prédit", "eût prédit", "eussions prédit", "eussiez prédit", "eussent prédit" ],
+  "imperatif": [ "–", "prédis !", "–", "prédisons !", "prédisez !", "–" ],
+  "imperatifPasse": [ "–", "aie prédit !", "–", "ayons prédit !", "ayez prédit !", "–" ]
+}

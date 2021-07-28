@@ -1,0 +1,22 @@
+{
+  "infinitif": "survivre",
+  "participePresent": "survivant",
+  "participePasse": "survécu",
+  "present": [ "survis", "survis", "survit", "survivons", "survivez", "survivent" ],
+  "imparfait": [ "survivais", "survivais", "survivait", "survivions", "surviviez", "survivaient" ],
+  "passeSimple": [ "survécus", "survécus", "survécut", "survécûmes", "survécûtes", "survécurent" ],
+  "futurSimple": [ "survivrai", "survivras", "survivra", "survivrons", "survivrez", "survivront" ],
+  "passeCompose": [ "ai survécu", "as survécu", "a survécu", "avons survécu", "avez survécu", "ont survécu" ],
+  "plusQueParfait": [ "avais survécu", "avais survécu", "avait survécu", "avions survécu", "aviez survécu", "avaient survécu" ],
+  "passeAnterieur": [ "eus survécu", "eus survécu", "eut survécu", "eûmes survécu", "eûtes survécu", "eurent survécu" ],
+  "futurAnterieur": [ "aurai survécu", "auras survécu", "aura survécu", "aurons survécu", "aurez survécu", "auront survécu" ],
+  "subjonctifPresent": [ "survive", "survives", "survive", "survivions", "surviviez", "survivent" ],
+  "subjonctifImparfait": [ "survécusse", "survécusses", "survécût", "survécussions", "survécussiez", "survécussent" ],
+  "subjonctifPasse": [ "aie survécu", "aies survécu", "ait survécu", "ayons survécu", "ayez survécu", "aient survécu" ],
+  "subjonctifPlusQueParfait": [ "eusse survécu", "eusses survécu", "eût survécu", "eussions survécu", "eussiez survécu", "eussent survécu" ],
+  "conditionnelPresent": [ "survivrais", "survivrais", "survivrait", "survivrions", "survivriez", "survivraient" ],
+  "conditionnelPasse": [ "aurais survécu", "aurais survécu", "aurait survécu", "aurions survécu", "auriez survécu", "auraient survécu" ],
+  "conditionnelPasseII": [ "eusse survécu", "eusses survécu", "eût survécu", "eussions survécu", "eussiez survécu", "eussent survécu" ],
+  "imperatif": [ "–", "survis !", "–", "survivons !", "survivez !", "–" ],
+  "imperatifPasse": [ "–", "aie survécu !", "–", "ayons survécu !", "ayez survécu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "placer",
+  "participePresent": "plaçant",
+  "participePasse": "placé",
+  "present": [ "place", "places", "place", "plaçons", "placez", "placent" ],
+  "imparfait": [ "plaçais", "plaçais", "plaçait", "placions", "placiez", "plaçaient" ],
+  "passeSimple": [ "plaçai", "plaças", "plaça", "plaçâmes", "plaçâtes", "placèrent" ],
+  "futurSimple": [ "placerai", "placeras", "placera", "placerons", "placerez", "placeront" ],
+  "passeCompose": [ "ai placé", "as placé", "a placé", "avons placé", "avez placé", "ont placé" ],
+  "plusQueParfait": [ "avais placé", "avais placé", "avait placé", "avions placé", "aviez placé", "avaient placé" ],
+  "passeAnterieur": [ "eus placé", "eus placé", "eut placé", "eûmes placé", "eûtes placé", "eurent placé" ],
+  "futurAnterieur": [ "aurai placé", "auras placé", "aura placé", "aurons placé", "aurez placé", "auront placé" ],
+  "subjonctifPresent": [ "place", "places", "place", "placions", "placiez", "placent" ],
+  "subjonctifImparfait": [ "plaçasse", "plaçasses", "plaçât", "plaçassions", "plaçassiez", "plaçassent" ],
+  "subjonctifPasse": [ "aie placé", "aies placé", "ait placé", "ayons placé", "ayez placé", "aient placé" ],
+  "subjonctifPlusQueParfait": [ "eusse placé", "eusses placé", "eût placé", "eussions placé", "eussiez placé", "eussent placé" ],
+  "conditionnelPresent": [ "placerais", "placerais", "placerait", "placerions", "placeriez", "placeraient" ],
+  "conditionnelPasse": [ "aurais placé", "aurais placé", "aurait placé", "aurions placé", "auriez placé", "auraient placé" ],
+  "conditionnelPasseII": [ "eusse placé", "eusses placé", "eût placé", "eussions placé", "eussiez placé", "eussent placé" ],
+  "imperatif": [ "–", "place !", "–", "plaçons !", "placez !", "–" ],
+  "imperatifPasse": [ "–", "aie placé !", "–", "ayons placé !", "ayez placé !", "–" ]
+}

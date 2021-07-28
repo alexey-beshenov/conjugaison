@@ -1,0 +1,22 @@
+{
+  "infinitif": "montrer",
+  "participePresent": "montrant",
+  "participePasse": "montré",
+  "present": [ "montre", "montres", "montre", "montrons", "montrez", "montrent" ],
+  "imparfait": [ "montrais", "montrais", "montrait", "montrions", "montriez", "montraient" ],
+  "passeSimple": [ "montrai", "montras", "montra", "montrâmes", "montrâtes", "montrèrent" ],
+  "futurSimple": [ "montrerai", "montreras", "montrera", "montrerons", "montrerez", "montreront" ],
+  "passeCompose": [ "ai montré", "as montré", "a montré", "avons montré", "avez montré", "ont montré" ],
+  "plusQueParfait": [ "avais montré", "avais montré", "avait montré", "avions montré", "aviez montré", "avaient montré" ],
+  "passeAnterieur": [ "eus montré", "eus montré", "eut montré", "eûmes montré", "eûtes montré", "eurent montré" ],
+  "futurAnterieur": [ "aurai montré", "auras montré", "aura montré", "aurons montré", "aurez montré", "auront montré" ],
+  "subjonctifPresent": [ "montre", "montres", "montre", "montrions", "montriez", "montrent" ],
+  "subjonctifImparfait": [ "montrasse", "montrasses", "montrât", "montrassions", "montrassiez", "montrassent" ],
+  "subjonctifPasse": [ "aie montré", "aies montré", "ait montré", "ayons montré", "ayez montré", "aient montré" ],
+  "subjonctifPlusQueParfait": [ "eusse montré", "eusses montré", "eût montré", "eussions montré", "eussiez montré", "eussent montré" ],
+  "conditionnelPresent": [ "montrerais", "montrerais", "montrerait", "montrerions", "montreriez", "montreraient" ],
+  "conditionnelPasse": [ "aurais montré", "aurais montré", "aurait montré", "aurions montré", "auriez montré", "auraient montré" ],
+  "conditionnelPasseII": [ "eusse montré", "eusses montré", "eût montré", "eussions montré", "eussiez montré", "eussent montré" ],
+  "imperatif": [ "–", "montre !", "–", "montrons !", "montrez !", "–" ],
+  "imperatifPasse": [ "–", "aie montré !", "–", "ayons montré !", "ayez montré !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se confier",
+  "participePresent": "se confiant",
+  "participePasse": "confié",
+  "present": [ "me confie", "te confies", "se confie", "nous confions", "vous confiez", "se confient" ],
+  "imparfait": [ "me confiais", "te confiais", "se confiait", "nous confiions", "vous confiiez", "se confiaient" ],
+  "passeSimple": [ "me confiai", "te confias", "se confia", "nous confiâmes", "vous confiâtes", "se confièrent" ],
+  "futurSimple": [ "me confierai", "te confieras", "se confiera", "nous confierons", "vous confierez", "se confieront" ],
+  "passeCompose": [ "me suis confié(e)", "t'es confié(e)", "s'est confié(e)", "nous sommes confié(e)s", "vous êtes confié(e)(s)", "se sont confié(e)s" ],
+  "plusQueParfait": [ "m'étais confié(e)", "t'étais confié(e)", "s'était confié(e)", "nous étions confié(e)s", "vous étiez confié(e)(s)", "s'étaient confié(e)s" ],
+  "passeAnterieur": [ "me fus confié(e)", "te fus confié(e)", "se fut confié(e)", "nous fûmes confié(e)s", "vous fûtes confié(e)(s)", "se furent confié(e)s" ],
+  "futurAnterieur": [ "me serai confié(e)", "te seras confié(e)", "se sera confié(e)", "nous serons confié(e)s", "vous serez confié(e)(s)", "se seront confié(e)s" ],
+  "subjonctifPresent": [ "me confie", "te confies", "se confie", "nous confiions", "vous confiiez", "se confient" ],
+  "subjonctifImparfait": [ "me confiasse", "te confiasses", "se confiât", "nous confiassions", "vous confiassiez", "se confiassent" ],
+  "subjonctifPasse": [ "me sois confié(e)", "te sois confié(e)", "se soit confié(e)", "nous soyons confié(e)s", "vous soyez confié(e)(s)", "se soient confié(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse confié(e)", "te fusses confié(e)", "se fût confié(e)", "nous fussions confié(e)s", "vous fussiez confié(e)(s)", "se fussent confié(e)s" ],
+  "conditionnelPresent": [ "me confierais", "te confierais", "se confierait", "nous confierions", "vous confieriez", "se confieraient" ],
+  "conditionnelPasse": [ "me serais confié(e)", "te serais confié(e)", "se serait confié(e)", "nous serions confié(e)s", "vous seriez confié(e)(s)", "se seraient confié(e)s" ],
+  "conditionnelPasseII": [ "me fusse confié(e)", "te fusses confié(e)", "se fût confié(e)", "nous fussions confié(e)s", "vous fussiez confié(e)(s)", "se fussent confié(e)s" ],
+  "imperatif": [ "–", "confie-toi !", "–", "confions-nous !", "confiez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

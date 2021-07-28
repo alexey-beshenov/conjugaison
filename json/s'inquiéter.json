@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'inquiéter",
+  "participePresent": "s'inquiétant",
+  "participePasse": "inquiété",
+  "present": [ "m'inquiète", "t'inquiètes", "s'inquiète", "nous inquiétons", "vous inquiétez", "s'inquiètent" ],
+  "imparfait": [ "m'inquiétais", "t'inquiétais", "s'inquiétait", "nous inquiétions", "vous inquiétiez", "s'inquiétaient" ],
+  "passeSimple": [ "m'inquiétai", "t'inquiétas", "s'inquiéta", "nous inquiétâmes", "vous inquiétâtes", "s'inquiétèrent" ],
+  "futurSimple": [ "m'inquiéterai", "t'inquiéteras", "s'inquiétera", "nous inquiéterons", "vous inquiéterez", "s'inquiéteront" ],
+  "passeCompose": [ "me suis inquiété(e)", "t'es inquiété(e)", "s'est inquiété(e)", "nous sommes inquiété(e)s", "vous êtes inquiété(e)(s)", "se sont inquiété(e)s" ],
+  "plusQueParfait": [ "m'étais inquiété(e)", "t'étais inquiété(e)", "s'était inquiété(e)", "nous étions inquiété(e)s", "vous étiez inquiété(e)(s)", "s'étaient inquiété(e)s" ],
+  "passeAnterieur": [ "me fus inquiété(e)", "te fus inquiété(e)", "se fut inquiété(e)", "nous fûmes inquiété(e)s", "vous fûtes inquiété(e)(s)", "se furent inquiété(e)s" ],
+  "futurAnterieur": [ "me serai inquiété(e)", "te seras inquiété(e)", "se sera inquiété(e)", "nous serons inquiété(e)s", "vous serez inquiété(e)(s)", "se seront inquiété(e)s" ],
+  "subjonctifPresent": [ "m'inquiète", "t'inquiètes", "s'inquiète", "nous inquiétions", "vous inquiétiez", "s'inquiètent" ],
+  "subjonctifImparfait": [ "m'inquiétasse", "t'inquiétasses", "s'inquiétât", "nous inquiétassions", "vous inquiétassiez", "s'inquiétassent" ],
+  "subjonctifPasse": [ "me sois inquiété(e)", "te sois inquiété(e)", "se soit inquiété(e)", "nous soyons inquiété(e)s", "vous soyez inquiété(e)(s)", "se soient inquiété(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse inquiété(e)", "te fusses inquiété(e)", "se fût inquiété(e)", "nous fussions inquiété(e)s", "vous fussiez inquiété(e)(s)", "se fussent inquiété(e)s" ],
+  "conditionnelPresent": [ "m'inquiéterais", "t'inquiéterais", "s'inquiéterait", "nous inquiéterions", "vous inquiéteriez", "s'inquiéteraient" ],
+  "conditionnelPasse": [ "me serais inquiété(e)", "te serais inquiété(e)", "se serait inquiété(e)", "nous serions inquiété(e)s", "vous seriez inquiété(e)(s)", "se seraient inquiété(e)s" ],
+  "conditionnelPasseII": [ "me fusse inquiété(e)", "te fusses inquiété(e)", "se fût inquiété(e)", "nous fussions inquiété(e)s", "vous fussiez inquiété(e)(s)", "se fussent inquiété(e)s" ],
+  "imperatif": [ "–", "inquiète-toi !", "–", "inquiétons-nous !", "inquiétez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

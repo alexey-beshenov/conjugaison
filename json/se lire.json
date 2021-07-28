@@ -1,0 +1,22 @@
+{
+  "infinitif": "se lire",
+  "participePresent": "se lisant",
+  "participePasse": "lu",
+  "present": [ "me lis", "te lis", "se lit", "nous lisons", "vous lisez", "se lisent" ],
+  "imparfait": [ "me lisais", "te lisais", "se lisait", "nous lisions", "vous lisiez", "se lisaient" ],
+  "passeSimple": [ "me lus", "te lus", "se lut", "nous lûmes", "vous lûtes", "se lurent" ],
+  "futurSimple": [ "me lirai", "te liras", "se lira", "nous lirons", "vous lirez", "se liront" ],
+  "passeCompose": [ "me suis lu(e)", "t'es lu(e)", "s'est lu(e)", "nous sommes lu(e)s", "vous êtes lu(e)(s)", "se sont lu(e)s" ],
+  "plusQueParfait": [ "m'étais lu(e)", "t'étais lu(e)", "s'était lu(e)", "nous étions lu(e)s", "vous étiez lu(e)(s)", "s'étaient lu(e)s" ],
+  "passeAnterieur": [ "me fus lu(e)", "te fus lu(e)", "se fut lu(e)", "nous fûmes lu(e)s", "vous fûtes lu(e)(s)", "se furent lu(e)s" ],
+  "futurAnterieur": [ "me serai lu(e)", "te seras lu(e)", "se sera lu(e)", "nous serons lu(e)s", "vous serez lu(e)(s)", "se seront lu(e)s" ],
+  "subjonctifPresent": [ "me lise", "te lises", "se lise", "nous lisions", "vous lisiez", "se lisent" ],
+  "subjonctifImparfait": [ "me lusse", "te lusses", "se lût", "nous lussions", "vous lussiez", "se lussent" ],
+  "subjonctifPasse": [ "me sois lu(e)", "te sois lu(e)", "se soit lu(e)", "nous soyons lu(e)s", "vous soyez lu(e)(s)", "se soient lu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse lu(e)", "te fusses lu(e)", "se fût lu(e)", "nous fussions lu(e)s", "vous fussiez lu(e)(s)", "se fussent lu(e)s" ],
+  "conditionnelPresent": [ "me lirais", "te lirais", "se lirait", "nous lirions", "vous liriez", "se liraient" ],
+  "conditionnelPasse": [ "me serais lu(e)", "te serais lu(e)", "se serait lu(e)", "nous serions lu(e)s", "vous seriez lu(e)(s)", "se seraient lu(e)s" ],
+  "conditionnelPasseII": [ "me fusse lu(e)", "te fusses lu(e)", "se fût lu(e)", "nous fussions lu(e)s", "vous fussiez lu(e)(s)", "se fussent lu(e)s" ],
+  "imperatif": [ "–", "lis-toi !", "–", "lisons-nous !", "lisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

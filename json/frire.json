@@ -1,0 +1,22 @@
+{
+  "infinitif": "frire",
+  "participePresent": "frisant",
+  "participePasse": "frit",
+  "present": [ "fris", "fris", "frit", "–", "–", "–" ],
+  "imparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
+  "futurSimple": [ "frirai", "friras", "frira", "–", "–", "–" ],
+  "passeCompose": [ "ai frit", "as frit", "a frit", "avons frit", "avez frit", "ont frit" ],
+  "plusQueParfait": [ "avais frit", "avais frit", "avait frit", "avions frit", "aviez frit", "avaient frit" ],
+  "passeAnterieur": [ "eus frit", "eus frit", "eut frit", "eûmes frit", "eûtes frit", "eurent frit" ],
+  "futurAnterieur": [ "aurai frit", "auras frit", "aura frit", "aurons frit", "aurez frit", "auront frit" ],
+  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPasse": [ "aie frit", "aies frit", "ait frit", "ayons frit", "ayez frit", "aient frit" ],
+  "subjonctifPlusQueParfait": [ "eusse frit", "eusses frit", "eût frit", "eussions frit", "eussiez frit", "eussent frit" ],
+  "conditionnelPresent": [ "frirais", "frirais", "frirait", "–", "–", "–" ],
+  "conditionnelPasse": [ "aurais frit", "aurais frit", "aurait frit", "aurions frit", "auriez frit", "auraient frit" ],
+  "conditionnelPasseII": [ "eusse frit", "eusses frit", "eût frit", "eussions frit", "eussiez frit", "eussent frit" ],
+  "imperatif": [ "–", "fris !", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "aie frit !", "–", "–", "–", "–" ]
+}

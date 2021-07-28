@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'interrompre",
+  "participePresent": "s'interrompant",
+  "participePasse": "interrompu",
+  "present": [ "m'interromps", "t'interromps", "s'interrompt", "nous interrompons", "vous interrompez", "s'interrompent" ],
+  "imparfait": [ "m'interrompais", "t'interrompais", "s'interrompait", "nous interrompions", "vous interrompiez", "s'interrompaient" ],
+  "passeSimple": [ "m'interrompis", "t'interrompis", "s'interrompit", "nous interrompîmes", "vous interrompîtes", "s'interrompirent" ],
+  "futurSimple": [ "m'interromprai", "t'interrompras", "s'interrompra", "nous interromprons", "vous interromprez", "s'interrompront" ],
+  "passeCompose": [ "me suis interrompu(e)", "t'es interrompu(e)", "s'est interrompu(e)", "nous sommes interrompu(e)s", "vous êtes interrompu(e)(s)", "se sont interrompu(e)s" ],
+  "plusQueParfait": [ "m'étais interrompu(e)", "t'étais interrompu(e)", "s'était interrompu(e)", "nous étions interrompu(e)s", "vous étiez interrompu(e)(s)", "s'étaient interrompu(e)s" ],
+  "passeAnterieur": [ "me fus interrompu(e)", "te fus interrompu(e)", "se fut interrompu(e)", "nous fûmes interrompu(e)s", "vous fûtes interrompu(e)(s)", "se furent interrompu(e)s" ],
+  "futurAnterieur": [ "me serai interrompu(e)", "te seras interrompu(e)", "se sera interrompu(e)", "nous serons interrompu(e)s", "vous serez interrompu(e)(s)", "se seront interrompu(e)s" ],
+  "subjonctifPresent": [ "m'interrompe", "t'interrompes", "s'interrompe", "nous interrompions", "vous interrompiez", "s'interrompent" ],
+  "subjonctifImparfait": [ "m'interrompisse", "t'interrompisses", "s'interrompît", "nous interrompissions", "vous interrompissiez", "s'interrompissent" ],
+  "subjonctifPasse": [ "me sois interrompu(e)", "te sois interrompu(e)", "se soit interrompu(e)", "nous soyons interrompu(e)s", "vous soyez interrompu(e)(s)", "se soient interrompu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse interrompu(e)", "te fusses interrompu(e)", "se fût interrompu(e)", "nous fussions interrompu(e)s", "vous fussiez interrompu(e)(s)", "se fussent interrompu(e)s" ],
+  "conditionnelPresent": [ "m'interromprais", "t'interromprais", "s'interromprait", "nous interromprions", "vous interrompriez", "s'interrompraient" ],
+  "conditionnelPasse": [ "me serais interrompu(e)", "te serais interrompu(e)", "se serait interrompu(e)", "nous serions interrompu(e)s", "vous seriez interrompu(e)(s)", "se seraient interrompu(e)s" ],
+  "conditionnelPasseII": [ "me fusse interrompu(e)", "te fusses interrompu(e)", "se fût interrompu(e)", "nous fussions interrompu(e)s", "vous fussiez interrompu(e)(s)", "se fussent interrompu(e)s" ],
+  "imperatif": [ "–", "interromps-toi !", "–", "interrompons-nous !", "interrompez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "présenter",
+  "participePresent": "présentant",
+  "participePasse": "présenté",
+  "present": [ "présente", "présentes", "présente", "présentons", "présentez", "présentent" ],
+  "imparfait": [ "présentais", "présentais", "présentait", "présentions", "présentiez", "présentaient" ],
+  "passeSimple": [ "présentai", "présentas", "présenta", "présentâmes", "présentâtes", "présentèrent" ],
+  "futurSimple": [ "présenterai", "présenteras", "présentera", "présenterons", "présenterez", "présenteront" ],
+  "passeCompose": [ "ai présenté", "as présenté", "a présenté", "avons présenté", "avez présenté", "ont présenté" ],
+  "plusQueParfait": [ "avais présenté", "avais présenté", "avait présenté", "avions présenté", "aviez présenté", "avaient présenté" ],
+  "passeAnterieur": [ "eus présenté", "eus présenté", "eut présenté", "eûmes présenté", "eûtes présenté", "eurent présenté" ],
+  "futurAnterieur": [ "aurai présenté", "auras présenté", "aura présenté", "aurons présenté", "aurez présenté", "auront présenté" ],
+  "subjonctifPresent": [ "présente", "présentes", "présente", "présentions", "présentiez", "présentent" ],
+  "subjonctifImparfait": [ "présentasse", "présentasses", "présentât", "présentassions", "présentassiez", "présentassent" ],
+  "subjonctifPasse": [ "aie présenté", "aies présenté", "ait présenté", "ayons présenté", "ayez présenté", "aient présenté" ],
+  "subjonctifPlusQueParfait": [ "eusse présenté", "eusses présenté", "eût présenté", "eussions présenté", "eussiez présenté", "eussent présenté" ],
+  "conditionnelPresent": [ "présenterais", "présenterais", "présenterait", "présenterions", "présenteriez", "présenteraient" ],
+  "conditionnelPasse": [ "aurais présenté", "aurais présenté", "aurait présenté", "aurions présenté", "auriez présenté", "auraient présenté" ],
+  "conditionnelPasseII": [ "eusse présenté", "eusses présenté", "eût présenté", "eussions présenté", "eussiez présenté", "eussent présenté" ],
+  "imperatif": [ "–", "présente !", "–", "présentons !", "présentez !", "–" ],
+  "imperatifPasse": [ "–", "aie présenté !", "–", "ayons présenté !", "ayez présenté !", "–" ]
+}

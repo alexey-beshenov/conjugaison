@@ -1,0 +1,22 @@
+{
+  "infinitif": "reteindre",
+  "participePresent": "reteignant",
+  "participePasse": "reteint",
+  "present": [ "reteins", "reteins", "reteint", "reteignons", "reteignez", "reteignent" ],
+  "imparfait": [ "reteignais", "reteignais", "reteignait", "reteignions", "reteigniez", "reteignaient" ],
+  "passeSimple": [ "reteignis", "reteignis", "reteignit", "reteignîmes", "reteignîtes", "reteignirent" ],
+  "futurSimple": [ "reteindrai", "reteindras", "reteindra", "reteindrons", "reteindrez", "reteindront" ],
+  "passeCompose": [ "ai reteint", "as reteint", "a reteint", "avons reteint", "avez reteint", "ont reteint" ],
+  "plusQueParfait": [ "avais reteint", "avais reteint", "avait reteint", "avions reteint", "aviez reteint", "avaient reteint" ],
+  "passeAnterieur": [ "eus reteint", "eus reteint", "eut reteint", "eûmes reteint", "eûtes reteint", "eurent reteint" ],
+  "futurAnterieur": [ "aurai reteint", "auras reteint", "aura reteint", "aurons reteint", "aurez reteint", "auront reteint" ],
+  "subjonctifPresent": [ "reteigne", "reteignes", "reteigne", "reteignions", "reteigniez", "reteignent" ],
+  "subjonctifImparfait": [ "reteignisse", "reteignisses", "reteignît", "reteignissions", "reteignissiez", "reteignissent" ],
+  "subjonctifPasse": [ "aie reteint", "aies reteint", "ait reteint", "ayons reteint", "ayez reteint", "aient reteint" ],
+  "subjonctifPlusQueParfait": [ "eusse reteint", "eusses reteint", "eût reteint", "eussions reteint", "eussiez reteint", "eussent reteint" ],
+  "conditionnelPresent": [ "reteindrais", "reteindrais", "reteindrait", "reteindrions", "reteindriez", "reteindraient" ],
+  "conditionnelPasse": [ "aurais reteint", "aurais reteint", "aurait reteint", "aurions reteint", "auriez reteint", "auraient reteint" ],
+  "conditionnelPasseII": [ "eusse reteint", "eusses reteint", "eût reteint", "eussions reteint", "eussiez reteint", "eussent reteint" ],
+  "imperatif": [ "–", "reteins !", "–", "reteignons !", "reteignez !", "–" ],
+  "imperatifPasse": [ "–", "aie reteint !", "–", "ayons reteint !", "ayez reteint !", "–" ]
+}

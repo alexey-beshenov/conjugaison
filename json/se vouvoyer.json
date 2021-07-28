@@ -1,0 +1,22 @@
+{
+  "infinitif": "se vouvoyer",
+  "participePresent": "se vouvoyant",
+  "participePasse": "vouvoyé",
+  "present": [ "me vouvoie", "te vouvoies", "se vouvoie", "nous vouvoyons", "vous vouvoyez", "se vouvoient" ],
+  "imparfait": [ "me vouvoyais", "te vouvoyais", "se vouvoyait", "nous vouvoyions", "vous vouvoyiez", "se vouvoyaient" ],
+  "passeSimple": [ "me vouvoyai", "te vouvoyas", "se vouvoya", "nous vouvoyâmes", "vous vouvoyâtes", "se vouvoyèrent" ],
+  "futurSimple": [ "me vouvoierai", "te vouvoieras", "se vouvoiera", "nous vouvoierons", "vous vouvoierez", "se vouvoieront" ],
+  "passeCompose": [ "me suis vouvoyé(e)", "t'es vouvoyé(e)", "s'est vouvoyé(e)", "nous sommes vouvoyé(e)s", "vous êtes vouvoyé(e)(s)", "se sont vouvoyé(e)s" ],
+  "plusQueParfait": [ "m'étais vouvoyé(e)", "t'étais vouvoyé(e)", "s'était vouvoyé(e)", "nous étions vouvoyé(e)s", "vous étiez vouvoyé(e)(s)", "s'étaient vouvoyé(e)s" ],
+  "passeAnterieur": [ "me fus vouvoyé(e)", "te fus vouvoyé(e)", "se fut vouvoyé(e)", "nous fûmes vouvoyé(e)s", "vous fûtes vouvoyé(e)(s)", "se furent vouvoyé(e)s" ],
+  "futurAnterieur": [ "me serai vouvoyé(e)", "te seras vouvoyé(e)", "se sera vouvoyé(e)", "nous serons vouvoyé(e)s", "vous serez vouvoyé(e)(s)", "se seront vouvoyé(e)s" ],
+  "subjonctifPresent": [ "me vouvoie", "te vouvoies", "se vouvoie", "nous vouvoyions", "vous vouvoyiez", "se vouvoient" ],
+  "subjonctifImparfait": [ "me vouvoyasse", "te vouvoyasses", "se vouvoyât", "nous vouvoyassions", "vous vouvoyassiez", "se vouvoyassent" ],
+  "subjonctifPasse": [ "me sois vouvoyé(e)", "te sois vouvoyé(e)", "se soit vouvoyé(e)", "nous soyons vouvoyé(e)s", "vous soyez vouvoyé(e)(s)", "se soient vouvoyé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse vouvoyé(e)", "te fusses vouvoyé(e)", "se fût vouvoyé(e)", "nous fussions vouvoyé(e)s", "vous fussiez vouvoyé(e)(s)", "se fussent vouvoyé(e)s" ],
+  "conditionnelPresent": [ "me vouvoierais", "te vouvoierais", "se vouvoierait", "nous vouvoierions", "vous vouvoieriez", "se vouvoieraient" ],
+  "conditionnelPasse": [ "me serais vouvoyé(e)", "te serais vouvoyé(e)", "se serait vouvoyé(e)", "nous serions vouvoyé(e)s", "vous seriez vouvoyé(e)(s)", "se seraient vouvoyé(e)s" ],
+  "conditionnelPasseII": [ "me fusse vouvoyé(e)", "te fusses vouvoyé(e)", "se fût vouvoyé(e)", "nous fussions vouvoyé(e)s", "vous fussiez vouvoyé(e)(s)", "se fussent vouvoyé(e)s" ],
+  "imperatif": [ "–", "vouvoie-toi !", "–", "vouvoyons-nous !", "vouvoyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

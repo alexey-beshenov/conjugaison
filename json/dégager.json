@@ -1,0 +1,22 @@
+{
+  "infinitif": "dégager",
+  "participePresent": "dégageant",
+  "participePasse": "dégagé",
+  "present": [ "dégage", "dégages", "dégage", "dégageons", "dégagez", "dégagent" ],
+  "imparfait": [ "dégageais", "dégageais", "dégageait", "dégagions", "dégagiez", "dégageaient" ],
+  "passeSimple": [ "dégageai", "dégageas", "dégagea", "dégageâmes", "dégageâtes", "dégagèrent" ],
+  "futurSimple": [ "dégagerai", "dégageras", "dégagera", "dégagerons", "dégagerez", "dégageront" ],
+  "passeCompose": [ "ai dégagé", "as dégagé", "a dégagé", "avons dégagé", "avez dégagé", "ont dégagé" ],
+  "plusQueParfait": [ "avais dégagé", "avais dégagé", "avait dégagé", "avions dégagé", "aviez dégagé", "avaient dégagé" ],
+  "passeAnterieur": [ "eus dégagé", "eus dégagé", "eut dégagé", "eûmes dégagé", "eûtes dégagé", "eurent dégagé" ],
+  "futurAnterieur": [ "aurai dégagé", "auras dégagé", "aura dégagé", "aurons dégagé", "aurez dégagé", "auront dégagé" ],
+  "subjonctifPresent": [ "dégage", "dégages", "dégage", "dégagions", "dégagiez", "dégagent" ],
+  "subjonctifImparfait": [ "dégageasse", "dégageasses", "dégageât", "dégageassions", "dégageassiez", "dégageassent" ],
+  "subjonctifPasse": [ "aie dégagé", "aies dégagé", "ait dégagé", "ayons dégagé", "ayez dégagé", "aient dégagé" ],
+  "subjonctifPlusQueParfait": [ "eusse dégagé", "eusses dégagé", "eût dégagé", "eussions dégagé", "eussiez dégagé", "eussent dégagé" ],
+  "conditionnelPresent": [ "dégagerais", "dégagerais", "dégagerait", "dégagerions", "dégageriez", "dégageraient" ],
+  "conditionnelPasse": [ "aurais dégagé", "aurais dégagé", "aurait dégagé", "aurions dégagé", "auriez dégagé", "auraient dégagé" ],
+  "conditionnelPasseII": [ "eusse dégagé", "eusses dégagé", "eût dégagé", "eussions dégagé", "eussiez dégagé", "eussent dégagé" ],
+  "imperatif": [ "–", "dégage !", "–", "dégageons !", "dégagez !", "–" ],
+  "imperatifPasse": [ "–", "aie dégagé !", "–", "ayons dégagé !", "ayez dégagé !", "–" ]
+}

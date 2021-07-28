@@ -1,0 +1,22 @@
+{
+  "infinitif": "nourrir",
+  "participePresent": "nourrissant",
+  "participePasse": "nourri",
+  "present": [ "nourris", "nourris", "nourrit", "nourrissons", "nourrissez", "nourrissent" ],
+  "imparfait": [ "nourrissais", "nourrissais", "nourrissait", "nourrissions", "nourrissiez", "nourrissaient" ],
+  "passeSimple": [ "nourris", "nourris", "nourrit", "nourrîmes", "nourrîtes", "nourrirent" ],
+  "futurSimple": [ "nourrirai", "nourriras", "nourrira", "nourrirons", "nourrirez", "nourriront" ],
+  "passeCompose": [ "ai nourri", "as nourri", "a nourri", "avons nourri", "avez nourri", "ont nourri" ],
+  "plusQueParfait": [ "avais nourri", "avais nourri", "avait nourri", "avions nourri", "aviez nourri", "avaient nourri" ],
+  "passeAnterieur": [ "eus nourri", "eus nourri", "eut nourri", "eûmes nourri", "eûtes nourri", "eurent nourri" ],
+  "futurAnterieur": [ "aurai nourri", "auras nourri", "aura nourri", "aurons nourri", "aurez nourri", "auront nourri" ],
+  "subjonctifPresent": [ "nourrisse", "nourrisses", "nourrisse", "nourrissions", "nourrissiez", "nourrissent" ],
+  "subjonctifImparfait": [ "nourrisse", "nourrisses", "nourrît", "nourrissions", "nourrissiez", "nourrissent" ],
+  "subjonctifPasse": [ "aie nourri", "aies nourri", "ait nourri", "ayons nourri", "ayez nourri", "aient nourri" ],
+  "subjonctifPlusQueParfait": [ "eusse nourri", "eusses nourri", "eût nourri", "eussions nourri", "eussiez nourri", "eussent nourri" ],
+  "conditionnelPresent": [ "nourrirais", "nourrirais", "nourrirait", "nourririons", "nourririez", "nourriraient" ],
+  "conditionnelPasse": [ "aurais nourri", "aurais nourri", "aurait nourri", "aurions nourri", "auriez nourri", "auraient nourri" ],
+  "conditionnelPasseII": [ "eusse nourri", "eusses nourri", "eût nourri", "eussions nourri", "eussiez nourri", "eussent nourri" ],
+  "imperatif": [ "–", "nourris !", "–", "nourrissons !", "nourrissez !", "–" ],
+  "imperatifPasse": [ "–", "aie nourri !", "–", "ayons nourri !", "ayez nourri !", "–" ]
+}

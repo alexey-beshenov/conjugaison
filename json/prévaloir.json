@@ -1,0 +1,22 @@
+{
+  "infinitif": "prévaloir",
+  "participePresent": "prévalant",
+  "participePasse": "prévalu",
+  "present": [ "prévaux", "prévaux", "prévaut", "prévalons", "prévalez", "prévalent" ],
+  "imparfait": [ "prévalais", "prévalais", "prévalait", "prévalions", "prévaliez", "prévalaient" ],
+  "passeSimple": [ "prévalus", "prévalus", "prévalut", "prévalûmes", "prévalûtes", "prévalurent" ],
+  "futurSimple": [ "prévaudrai", "prévaudras", "prévaudra", "prévaudrons", "prévaudrez", "prévaudront" ],
+  "passeCompose": [ "ai prévalu", "as prévalu", "a prévalu", "avons prévalu", "avez prévalu", "ont prévalu" ],
+  "plusQueParfait": [ "avais prévalu", "avais prévalu", "avait prévalu", "avions prévalu", "aviez prévalu", "avaient prévalu" ],
+  "passeAnterieur": [ "eus prévalu", "eus prévalu", "eut prévalu", "eûmes prévalu", "eûtes prévalu", "eurent prévalu" ],
+  "futurAnterieur": [ "aurai prévalu", "auras prévalu", "aura prévalu", "aurons prévalu", "aurez prévalu", "auront prévalu" ],
+  "subjonctifPresent": [ "prévale", "prévales", "prévale", "prévalions", "prévaliez", "prévalent" ],
+  "subjonctifImparfait": [ "prévalusse", "prévalusses", "prévalût", "prévalussions", "prévalussiez", "prévalussent" ],
+  "subjonctifPasse": [ "aie prévalu", "aies prévalu", "ait prévalu", "ayons prévalu", "ayez prévalu", "aient prévalu" ],
+  "subjonctifPlusQueParfait": [ "eusse prévalu", "eusses prévalu", "eût prévalu", "eussions prévalu", "eussiez prévalu", "eussent prévalu" ],
+  "conditionnelPresent": [ "prévaudrais", "prévaudrais", "prévaudrait", "prévaudrions", "prévaudriez", "prévaudraient" ],
+  "conditionnelPasse": [ "aurais prévalu", "aurais prévalu", "aurait prévalu", "aurions prévalu", "auriez prévalu", "auraient prévalu" ],
+  "conditionnelPasseII": [ "eusse prévalu", "eusses prévalu", "eût prévalu", "eussions prévalu", "eussiez prévalu", "eussent prévalu" ],
+  "imperatif": [ "–", "prévaux !", "–", "prévalons !", "prévalez !", "–" ],
+  "imperatifPasse": [ "–", "aie prévalu !", "–", "ayons prévalu !", "ayez prévalu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'ébattre",
+  "participePresent": "s'ébattant",
+  "participePasse": "ébattu",
+  "present": [ "m'ébats", "t'ébats", "s'ébat", "nous ébattons", "vous ébattez", "s'ébattent" ],
+  "imparfait": [ "m'ébattais", "t'ébattais", "s'ébattait", "nous ébattions", "vous ébattiez", "s'ébattaient" ],
+  "passeSimple": [ "m'ébattis", "t'ébattis", "s'ébattit", "nous ébattîmes", "vous ébattîtes", "s'ébattirent" ],
+  "futurSimple": [ "m'ébattrai", "t'ébattras", "s'ébattra", "nous ébattrons", "vous ébattrez", "s'ébattront" ],
+  "passeCompose": [ "me suis ébattu(e)", "t'es ébattu(e)", "s'est ébattu(e)", "nous sommes ébattu(e)s", "vous êtes ébattu(e)(s)", "se sont ébattu(e)s" ],
+  "plusQueParfait": [ "m'étais ébattu(e)", "t'étais ébattu(e)", "s'était ébattu(e)", "nous étions ébattu(e)s", "vous étiez ébattu(e)(s)", "s'étaient ébattu(e)s" ],
+  "passeAnterieur": [ "me fus ébattu(e)", "te fus ébattu(e)", "se fut ébattu(e)", "nous fûmes ébattu(e)s", "vous fûtes ébattu(e)(s)", "se furent ébattu(e)s" ],
+  "futurAnterieur": [ "me serai ébattu(e)", "te seras ébattu(e)", "se sera ébattu(e)", "nous serons ébattu(e)s", "vous serez ébattu(e)(s)", "se seront ébattu(e)s" ],
+  "subjonctifPresent": [ "m'ébatte", "t'ébattes", "s'ébatte", "nous ébattions", "vous ébattiez", "s'ébattent" ],
+  "subjonctifImparfait": [ "m'ébattisse", "t'ébattisses", "s'ébattît", "nous ébattissions", "vous ébattissiez", "s'ébattissent" ],
+  "subjonctifPasse": [ "me sois ébattu(e)", "te sois ébattu(e)", "se soit ébattu(e)", "nous soyons ébattu(e)s", "vous soyez ébattu(e)(s)", "se soient ébattu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse ébattu(e)", "te fusses ébattu(e)", "se fût ébattu(e)", "nous fussions ébattu(e)s", "vous fussiez ébattu(e)(s)", "se fussent ébattu(e)s" ],
+  "conditionnelPresent": [ "m'ébattrais", "t'ébattrais", "s'ébattrait", "nous ébattrions", "vous ébattriez", "s'ébattraient" ],
+  "conditionnelPasse": [ "me serais ébattu(e)", "te serais ébattu(e)", "se serait ébattu(e)", "nous serions ébattu(e)s", "vous seriez ébattu(e)(s)", "se seraient ébattu(e)s" ],
+  "conditionnelPasseII": [ "me fusse ébattu(e)", "te fusses ébattu(e)", "se fût ébattu(e)", "nous fussions ébattu(e)s", "vous fussiez ébattu(e)(s)", "se fussent ébattu(e)s" ],
+  "imperatif": [ "–", "ébats-toi !", "–", "ébattons-nous !", "ébattez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

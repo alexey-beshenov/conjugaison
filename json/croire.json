@@ -1,0 +1,22 @@
+{
+  "infinitif": "croire",
+  "participePresent": "croyant",
+  "participePasse": "cru",
+  "present": [ "crois", "crois", "croit", "croyons", "croyez", "croient" ],
+  "imparfait": [ "croyais", "croyais", "croyait", "croyions", "croyiez", "croyaient" ],
+  "passeSimple": [ "crus", "crus", "crut", "crûmes", "crûtes", "crurent" ],
+  "futurSimple": [ "croirai", "croiras", "croira", "croirons", "croirez", "croiront" ],
+  "passeCompose": [ "ai cru", "as cru", "a cru", "avons cru", "avez cru", "ont cru" ],
+  "plusQueParfait": [ "avais cru", "avais cru", "avait cru", "avions cru", "aviez cru", "avaient cru" ],
+  "passeAnterieur": [ "eus cru", "eus cru", "eut cru", "eûmes cru", "eûtes cru", "eurent cru" ],
+  "futurAnterieur": [ "aurai cru", "auras cru", "aura cru", "aurons cru", "aurez cru", "auront cru" ],
+  "subjonctifPresent": [ "croie", "croies", "croie", "croyions", "croyiez", "croient" ],
+  "subjonctifImparfait": [ "crusse", "crusses", "crût", "crussions", "crussiez", "crussent" ],
+  "subjonctifPasse": [ "aie cru", "aies cru", "ait cru", "ayons cru", "ayez cru", "aient cru" ],
+  "subjonctifPlusQueParfait": [ "eusse cru", "eusses cru", "eût cru", "eussions cru", "eussiez cru", "eussent cru" ],
+  "conditionnelPresent": [ "croirais", "croirais", "croirait", "croirions", "croiriez", "croiraient" ],
+  "conditionnelPasse": [ "aurais cru", "aurais cru", "aurait cru", "aurions cru", "auriez cru", "auraient cru" ],
+  "conditionnelPasseII": [ "eusse cru", "eusses cru", "eût cru", "eussions cru", "eussiez cru", "eussent cru" ],
+  "imperatif": [ "–", "crois !", "–", "croyons !", "croyez !", "–" ],
+  "imperatifPasse": [ "–", "aie cru !", "–", "ayons cru !", "ayez cru !", "–" ]
+}

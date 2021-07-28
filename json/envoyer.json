@@ -1,0 +1,22 @@
+{
+  "infinitif": "envoyer",
+  "participePresent": "envoyant",
+  "participePasse": "envoyé",
+  "present": [ "envoie", "envoies", "envoie", "envoyons", "envoyez", "envoient" ],
+  "imparfait": [ "envoyais", "envoyais", "envoyait", "envoyions", "envoyiez", "envoyaient" ],
+  "passeSimple": [ "envoyai", "envoyas", "envoya", "envoyâmes", "envoyâtes", "envoyèrent" ],
+  "futurSimple": [ "enverrai", "enverras", "enverra", "enverrons", "enverrez", "enverront" ],
+  "passeCompose": [ "ai envoyé", "as envoyé", "a envoyé", "avons envoyé", "avez envoyé", "ont envoyé" ],
+  "plusQueParfait": [ "avais envoyé", "avais envoyé", "avait envoyé", "avions envoyé", "aviez envoyé", "avaient envoyé" ],
+  "passeAnterieur": [ "eus envoyé", "eus envoyé", "eut envoyé", "eûmes envoyé", "eûtes envoyé", "eurent envoyé" ],
+  "futurAnterieur": [ "aurai envoyé", "auras envoyé", "aura envoyé", "aurons envoyé", "aurez envoyé", "auront envoyé" ],
+  "subjonctifPresent": [ "envoie", "envoies", "envoie", "envoyions", "envoyiez", "envoient" ],
+  "subjonctifImparfait": [ "envoyasse", "envoyasses", "envoyât", "envoyassions", "envoyassiez", "envoyassent" ],
+  "subjonctifPasse": [ "aie envoyé", "aies envoyé", "ait envoyé", "ayons envoyé", "ayez envoyé", "aient envoyé" ],
+  "subjonctifPlusQueParfait": [ "eusse envoyé", "eusses envoyé", "eût envoyé", "eussions envoyé", "eussiez envoyé", "eussent envoyé" ],
+  "conditionnelPresent": [ "enverrais", "enverrais", "enverrait", "enverrions", "enverriez", "enverraient" ],
+  "conditionnelPasse": [ "aurais envoyé", "aurais envoyé", "aurait envoyé", "aurions envoyé", "auriez envoyé", "auraient envoyé" ],
+  "conditionnelPasseII": [ "eusse envoyé", "eusses envoyé", "eût envoyé", "eussions envoyé", "eussiez envoyé", "eussent envoyé" ],
+  "imperatif": [ "–", "envoie !", "–", "envoyons !", "envoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie envoyé !", "–", "ayons envoyé !", "ayez envoyé !", "–" ]
+}

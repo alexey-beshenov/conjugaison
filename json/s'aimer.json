@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'aimer",
+  "participePresent": "s'aimant",
+  "participePasse": "aimé",
+  "present": [ "m'aime", "t'aimes", "s'aime", "nous aimons", "vous aimez", "s'aiment" ],
+  "imparfait": [ "m'aimais", "t'aimais", "s'aimait", "nous aimions", "vous aimiez", "s'aimaient" ],
+  "passeSimple": [ "m'aimai", "t'aimas", "s'aima", "nous aimâmes", "vous aimâtes", "s'aimèrent" ],
+  "futurSimple": [ "m'aimerai", "t'aimeras", "s'aimera", "nous aimerons", "vous aimerez", "s'aimeront" ],
+  "passeCompose": [ "me suis aimé(e)", "t'es aimé(e)", "s'est aimé(e)", "nous sommes aimé(e)s", "vous êtes aimé(e)(s)", "se sont aimé(e)s" ],
+  "plusQueParfait": [ "m'étais aimé(e)", "t'étais aimé(e)", "s'était aimé(e)", "nous étions aimé(e)s", "vous étiez aimé(e)(s)", "s'étaient aimé(e)s" ],
+  "passeAnterieur": [ "me fus aimé(e)", "te fus aimé(e)", "se fut aimé(e)", "nous fûmes aimé(e)s", "vous fûtes aimé(e)(s)", "se furent aimé(e)s" ],
+  "futurAnterieur": [ "me serai aimé(e)", "te seras aimé(e)", "se sera aimé(e)", "nous serons aimé(e)s", "vous serez aimé(e)(s)", "se seront aimé(e)s" ],
+  "subjonctifPresent": [ "m'aime", "t'aimes", "s'aime", "nous aimions", "vous aimiez", "s'aiment" ],
+  "subjonctifImparfait": [ "m'aimasse", "t'aimasses", "s'aimât", "nous aimassions", "vous aimassiez", "s'aimassent" ],
+  "subjonctifPasse": [ "me sois aimé(e)", "te sois aimé(e)", "se soit aimé(e)", "nous soyons aimé(e)s", "vous soyez aimé(e)(s)", "se soient aimé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse aimé(e)", "te fusses aimé(e)", "se fût aimé(e)", "nous fussions aimé(e)s", "vous fussiez aimé(e)(s)", "se fussent aimé(e)s" ],
+  "conditionnelPresent": [ "m'aimerais", "t'aimerais", "s'aimerait", "nous aimerions", "vous aimeriez", "s'aimeraient" ],
+  "conditionnelPasse": [ "me serais aimé(e)", "te serais aimé(e)", "se serait aimé(e)", "nous serions aimé(e)s", "vous seriez aimé(e)(s)", "se seraient aimé(e)s" ],
+  "conditionnelPasseII": [ "me fusse aimé(e)", "te fusses aimé(e)", "se fût aimé(e)", "nous fussions aimé(e)s", "vous fussiez aimé(e)(s)", "se fussent aimé(e)s" ],
+  "imperatif": [ "–", "aime-toi !", "–", "aimons-nous !", "aimez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

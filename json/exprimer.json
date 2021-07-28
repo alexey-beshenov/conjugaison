@@ -1,0 +1,22 @@
+{
+  "infinitif": "exprimer",
+  "participePresent": "exprimant",
+  "participePasse": "exprimé",
+  "present": [ "exprime", "exprimes", "exprime", "exprimons", "exprimez", "expriment" ],
+  "imparfait": [ "exprimais", "exprimais", "exprimait", "exprimions", "exprimiez", "exprimaient" ],
+  "passeSimple": [ "exprimai", "exprimas", "exprima", "exprimâmes", "exprimâtes", "exprimèrent" ],
+  "futurSimple": [ "exprimerai", "exprimeras", "exprimera", "exprimerons", "exprimerez", "exprimeront" ],
+  "passeCompose": [ "ai exprimé", "as exprimé", "a exprimé", "avons exprimé", "avez exprimé", "ont exprimé" ],
+  "plusQueParfait": [ "avais exprimé", "avais exprimé", "avait exprimé", "avions exprimé", "aviez exprimé", "avaient exprimé" ],
+  "passeAnterieur": [ "eus exprimé", "eus exprimé", "eut exprimé", "eûmes exprimé", "eûtes exprimé", "eurent exprimé" ],
+  "futurAnterieur": [ "aurai exprimé", "auras exprimé", "aura exprimé", "aurons exprimé", "aurez exprimé", "auront exprimé" ],
+  "subjonctifPresent": [ "exprime", "exprimes", "exprime", "exprimions", "exprimiez", "expriment" ],
+  "subjonctifImparfait": [ "exprimasse", "exprimasses", "exprimât", "exprimassions", "exprimassiez", "exprimassent" ],
+  "subjonctifPasse": [ "aie exprimé", "aies exprimé", "ait exprimé", "ayons exprimé", "ayez exprimé", "aient exprimé" ],
+  "subjonctifPlusQueParfait": [ "eusse exprimé", "eusses exprimé", "eût exprimé", "eussions exprimé", "eussiez exprimé", "eussent exprimé" ],
+  "conditionnelPresent": [ "exprimerais", "exprimerais", "exprimerait", "exprimerions", "exprimeriez", "exprimeraient" ],
+  "conditionnelPasse": [ "aurais exprimé", "aurais exprimé", "aurait exprimé", "aurions exprimé", "auriez exprimé", "auraient exprimé" ],
+  "conditionnelPasseII": [ "eusse exprimé", "eusses exprimé", "eût exprimé", "eussions exprimé", "eussiez exprimé", "eussent exprimé" ],
+  "imperatif": [ "–", "exprime !", "–", "exprimons !", "exprimez !", "–" ],
+  "imperatifPasse": [ "–", "aie exprimé !", "–", "ayons exprimé !", "ayez exprimé !", "–" ]
+}

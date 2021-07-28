@@ -1,0 +1,22 @@
+{
+  "infinitif": "désirer",
+  "participePresent": "désirant",
+  "participePasse": "désiré",
+  "present": [ "désire", "désires", "désire", "désirons", "désirez", "désirent" ],
+  "imparfait": [ "désirais", "désirais", "désirait", "désirions", "désiriez", "désiraient" ],
+  "passeSimple": [ "désirai", "désiras", "désira", "désirâmes", "désirâtes", "désirèrent" ],
+  "futurSimple": [ "désirerai", "désireras", "désirera", "désirerons", "désirerez", "désireront" ],
+  "passeCompose": [ "ai désiré", "as désiré", "a désiré", "avons désiré", "avez désiré", "ont désiré" ],
+  "plusQueParfait": [ "avais désiré", "avais désiré", "avait désiré", "avions désiré", "aviez désiré", "avaient désiré" ],
+  "passeAnterieur": [ "eus désiré", "eus désiré", "eut désiré", "eûmes désiré", "eûtes désiré", "eurent désiré" ],
+  "futurAnterieur": [ "aurai désiré", "auras désiré", "aura désiré", "aurons désiré", "aurez désiré", "auront désiré" ],
+  "subjonctifPresent": [ "désire", "désires", "désire", "désirions", "désiriez", "désirent" ],
+  "subjonctifImparfait": [ "désirasse", "désirasses", "désirât", "désirassions", "désirassiez", "désirassent" ],
+  "subjonctifPasse": [ "aie désiré", "aies désiré", "ait désiré", "ayons désiré", "ayez désiré", "aient désiré" ],
+  "subjonctifPlusQueParfait": [ "eusse désiré", "eusses désiré", "eût désiré", "eussions désiré", "eussiez désiré", "eussent désiré" ],
+  "conditionnelPresent": [ "désirerais", "désirerais", "désirerait", "désirerions", "désireriez", "désireraient" ],
+  "conditionnelPasse": [ "aurais désiré", "aurais désiré", "aurait désiré", "aurions désiré", "auriez désiré", "auraient désiré" ],
+  "conditionnelPasseII": [ "eusse désiré", "eusses désiré", "eût désiré", "eussions désiré", "eussiez désiré", "eussent désiré" ],
+  "imperatif": [ "–", "désire !", "–", "désirons !", "désirez !", "–" ],
+  "imperatifPasse": [ "–", "aie désiré !", "–", "ayons désiré !", "ayez désiré !", "–" ]
+}

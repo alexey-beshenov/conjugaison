@@ -1,0 +1,22 @@
+{
+  "infinitif": "découvrir",
+  "participePresent": "découvrant",
+  "participePasse": "découvert",
+  "present": [ "découvre", "découvres", "découvre", "découvrons", "découvrez", "découvrent" ],
+  "imparfait": [ "découvrais", "découvrais", "découvrait", "découvrions", "découvriez", "découvraient" ],
+  "passeSimple": [ "découvris", "découvris", "découvrit", "découvrîmes", "découvrîtes", "découvrirent" ],
+  "futurSimple": [ "découvrirai", "découvriras", "découvrira", "découvrirons", "découvrirez", "découvriront" ],
+  "passeCompose": [ "ai découvert", "as découvert", "a découvert", "avons découvert", "avez découvert", "ont découvert" ],
+  "plusQueParfait": [ "avais découvert", "avais découvert", "avait découvert", "avions découvert", "aviez découvert", "avaient découvert" ],
+  "passeAnterieur": [ "eus découvert", "eus découvert", "eut découvert", "eûmes découvert", "eûtes découvert", "eurent découvert" ],
+  "futurAnterieur": [ "aurai découvert", "auras découvert", "aura découvert", "aurons découvert", "aurez découvert", "auront découvert" ],
+  "subjonctifPresent": [ "découvre", "découvres", "découvre", "découvrions", "découvriez", "découvrent" ],
+  "subjonctifImparfait": [ "découvrisse", "découvrisses", "découvrît", "découvrissions", "découvrissiez", "découvrissent" ],
+  "subjonctifPasse": [ "aie découvert", "aies découvert", "ait découvert", "ayons découvert", "ayez découvert", "aient découvert" ],
+  "subjonctifPlusQueParfait": [ "eusse découvert", "eusses découvert", "eût découvert", "eussions découvert", "eussiez découvert", "eussent découvert" ],
+  "conditionnelPresent": [ "découvrirais", "découvrirais", "découvrirait", "découvririons", "découvririez", "découvriraient" ],
+  "conditionnelPasse": [ "aurais découvert", "aurais découvert", "aurait découvert", "aurions découvert", "auriez découvert", "auraient découvert" ],
+  "conditionnelPasseII": [ "eusse découvert", "eusses découvert", "eût découvert", "eussions découvert", "eussiez découvert", "eussent découvert" ],
+  "imperatif": [ "–", "découvre !", "–", "découvrons !", "découvrez !", "–" ],
+  "imperatifPasse": [ "–", "aie découvert !", "–", "ayons découvert !", "ayez découvert !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "fixer",
+  "participePresent": "fixant",
+  "participePasse": "fixé",
+  "present": [ "fixe", "fixes", "fixe", "fixons", "fixez", "fixent" ],
+  "imparfait": [ "fixais", "fixais", "fixait", "fixions", "fixiez", "fixaient" ],
+  "passeSimple": [ "fixai", "fixas", "fixa", "fixâmes", "fixâtes", "fixèrent" ],
+  "futurSimple": [ "fixerai", "fixeras", "fixera", "fixerons", "fixerez", "fixeront" ],
+  "passeCompose": [ "ai fixé", "as fixé", "a fixé", "avons fixé", "avez fixé", "ont fixé" ],
+  "plusQueParfait": [ "avais fixé", "avais fixé", "avait fixé", "avions fixé", "aviez fixé", "avaient fixé" ],
+  "passeAnterieur": [ "eus fixé", "eus fixé", "eut fixé", "eûmes fixé", "eûtes fixé", "eurent fixé" ],
+  "futurAnterieur": [ "aurai fixé", "auras fixé", "aura fixé", "aurons fixé", "aurez fixé", "auront fixé" ],
+  "subjonctifPresent": [ "fixe", "fixes", "fixe", "fixions", "fixiez", "fixent" ],
+  "subjonctifImparfait": [ "fixasse", "fixasses", "fixât", "fixassions", "fixassiez", "fixassent" ],
+  "subjonctifPasse": [ "aie fixé", "aies fixé", "ait fixé", "ayons fixé", "ayez fixé", "aient fixé" ],
+  "subjonctifPlusQueParfait": [ "eusse fixé", "eusses fixé", "eût fixé", "eussions fixé", "eussiez fixé", "eussent fixé" ],
+  "conditionnelPresent": [ "fixerais", "fixerais", "fixerait", "fixerions", "fixeriez", "fixeraient" ],
+  "conditionnelPasse": [ "aurais fixé", "aurais fixé", "aurait fixé", "aurions fixé", "auriez fixé", "auraient fixé" ],
+  "conditionnelPasseII": [ "eusse fixé", "eusses fixé", "eût fixé", "eussions fixé", "eussiez fixé", "eussent fixé" ],
+  "imperatif": [ "–", "fixe !", "–", "fixons !", "fixez !", "–" ],
+  "imperatifPasse": [ "–", "aie fixé !", "–", "ayons fixé !", "ayez fixé !", "–" ]
+}

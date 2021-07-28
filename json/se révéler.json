@@ -1,0 +1,22 @@
+{
+  "infinitif": "se révéler",
+  "participePresent": "se révélant",
+  "participePasse": "révélé",
+  "present": [ "me révèle", "te révèles", "se révèle", "nous révélons", "vous révélez", "se révèlent" ],
+  "imparfait": [ "me révélais", "te révélais", "se révélait", "nous révélions", "vous révéliez", "se révélaient" ],
+  "passeSimple": [ "me révélai", "te révélas", "se révéla", "nous révélâmes", "vous révélâtes", "se révélèrent" ],
+  "futurSimple": [ "me révélerai", "te révéleras", "se révélera", "nous révélerons", "vous révélerez", "se révéleront" ],
+  "passeCompose": [ "me suis révélé(e)", "t'es révélé(e)", "s'est révélé(e)", "nous sommes révélé(e)s", "vous êtes révélé(e)(s)", "se sont révélé(e)s" ],
+  "plusQueParfait": [ "m'étais révélé(e)", "t'étais révélé(e)", "s'était révélé(e)", "nous étions révélé(e)s", "vous étiez révélé(e)(s)", "s'étaient révélé(e)s" ],
+  "passeAnterieur": [ "me fus révélé(e)", "te fus révélé(e)", "se fut révélé(e)", "nous fûmes révélé(e)s", "vous fûtes révélé(e)(s)", "se furent révélé(e)s" ],
+  "futurAnterieur": [ "me serai révélé(e)", "te seras révélé(e)", "se sera révélé(e)", "nous serons révélé(e)s", "vous serez révélé(e)(s)", "se seront révélé(e)s" ],
+  "subjonctifPresent": [ "me révèle", "te révèles", "se révèle", "nous révélions", "vous révéliez", "se révèlent" ],
+  "subjonctifImparfait": [ "me révélasse", "te révélasses", "se révélât", "nous révélassions", "vous révélassiez", "se révélassent" ],
+  "subjonctifPasse": [ "me sois révélé(e)", "te sois révélé(e)", "se soit révélé(e)", "nous soyons révélé(e)s", "vous soyez révélé(e)(s)", "se soient révélé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse révélé(e)", "te fusses révélé(e)", "se fût révélé(e)", "nous fussions révélé(e)s", "vous fussiez révélé(e)(s)", "se fussent révélé(e)s" ],
+  "conditionnelPresent": [ "me révélerais", "te révélerais", "se révélerait", "nous révélerions", "vous révéleriez", "se révéleraient" ],
+  "conditionnelPasse": [ "me serais révélé(e)", "te serais révélé(e)", "se serait révélé(e)", "nous serions révélé(e)s", "vous seriez révélé(e)(s)", "se seraient révélé(e)s" ],
+  "conditionnelPasseII": [ "me fusse révélé(e)", "te fusses révélé(e)", "se fût révélé(e)", "nous fussions révélé(e)s", "vous fussiez révélé(e)(s)", "se fussent révélé(e)s" ],
+  "imperatif": [ "–", "révèle-toi !", "–", "révélons-nous !", "révélez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

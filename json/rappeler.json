@@ -1,0 +1,22 @@
+{
+  "infinitif": "rappeler",
+  "participePresent": "rappelant",
+  "participePasse": "rappelé",
+  "present": [ "rappelle", "rappelles", "rappelle", "rappelons", "rappelez", "rappellent" ],
+  "imparfait": [ "rappelais", "rappelais", "rappelait", "rappelions", "rappeliez", "rappelaient" ],
+  "passeSimple": [ "rappelai", "rappelas", "rappela", "rappelâmes", "rappelâtes", "rappelèrent" ],
+  "futurSimple": [ "rappellerai", "rappelleras", "rappellera", "rappellerons", "rappellerez", "rappelleront" ],
+  "passeCompose": [ "ai rappelé", "as rappelé", "a rappelé", "avons rappelé", "avez rappelé", "ont rappelé" ],
+  "plusQueParfait": [ "avais rappelé", "avais rappelé", "avait rappelé", "avions rappelé", "aviez rappelé", "avaient rappelé" ],
+  "passeAnterieur": [ "eus rappelé", "eus rappelé", "eut rappelé", "eûmes rappelé", "eûtes rappelé", "eurent rappelé" ],
+  "futurAnterieur": [ "aurai rappelé", "auras rappelé", "aura rappelé", "aurons rappelé", "aurez rappelé", "auront rappelé" ],
+  "subjonctifPresent": [ "rappelle", "rappelles", "rappelle", "rappelions", "rappeliez", "rappellent" ],
+  "subjonctifImparfait": [ "rappelasse", "rappelasses", "rappelât", "rappelassions", "rappelassiez", "rappelassent" ],
+  "subjonctifPasse": [ "aie rappelé", "aies rappelé", "ait rappelé", "ayons rappelé", "ayez rappelé", "aient rappelé" ],
+  "subjonctifPlusQueParfait": [ "eusse rappelé", "eusses rappelé", "eût rappelé", "eussions rappelé", "eussiez rappelé", "eussent rappelé" ],
+  "conditionnelPresent": [ "rappellerais", "rappellerais", "rappellerait", "rappellerions", "rappelleriez", "rappelleraient" ],
+  "conditionnelPasse": [ "aurais rappelé", "aurais rappelé", "aurait rappelé", "aurions rappelé", "auriez rappelé", "auraient rappelé" ],
+  "conditionnelPasseII": [ "eusse rappelé", "eusses rappelé", "eût rappelé", "eussions rappelé", "eussiez rappelé", "eussent rappelé" ],
+  "imperatif": [ "–", "rappelle !", "–", "rappelons !", "rappelez !", "–" ],
+  "imperatifPasse": [ "–", "aie rappelé !", "–", "ayons rappelé !", "ayez rappelé !", "–" ]
+}

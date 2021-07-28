@@ -1,0 +1,22 @@
+{
+  "infinitif": "moudre",
+  "participePresent": "moulant",
+  "participePasse": "moulu",
+  "present": [ "mouds", "mouds", "moud", "moulons", "moulez", "moulent" ],
+  "imparfait": [ "moulais", "moulais", "moulait", "moulions", "mouliez", "moulaient" ],
+  "passeSimple": [ "moulus", "moulus", "moulut", "moulûmes", "moulûtes", "moulurent" ],
+  "futurSimple": [ "moudrai", "moudras", "moudra", "moudrons", "moudrez", "moudront" ],
+  "passeCompose": [ "ai moulu", "as moulu", "a moulu", "avons moulu", "avez moulu", "ont moulu" ],
+  "plusQueParfait": [ "avais moulu", "avais moulu", "avait moulu", "avions moulu", "aviez moulu", "avaient moulu" ],
+  "passeAnterieur": [ "eus moulu", "eus moulu", "eut moulu", "eûmes moulu", "eûtes moulu", "eurent moulu" ],
+  "futurAnterieur": [ "aurai moulu", "auras moulu", "aura moulu", "aurons moulu", "aurez moulu", "auront moulu" ],
+  "subjonctifPresent": [ "moule", "moules", "moule", "moulions", "mouliez", "moulent" ],
+  "subjonctifImparfait": [ "moulusse", "moulusses", "moulût", "moulussions", "moulussiez", "moulussent" ],
+  "subjonctifPasse": [ "aie moulu", "aies moulu", "ait moulu", "ayons moulu", "ayez moulu", "aient moulu" ],
+  "subjonctifPlusQueParfait": [ "eusse moulu", "eusses moulu", "eût moulu", "eussions moulu", "eussiez moulu", "eussent moulu" ],
+  "conditionnelPresent": [ "moudrais", "moudrais", "moudrait", "moudrions", "moudriez", "moudraient" ],
+  "conditionnelPasse": [ "aurais moulu", "aurais moulu", "aurait moulu", "aurions moulu", "auriez moulu", "auraient moulu" ],
+  "conditionnelPasseII": [ "eusse moulu", "eusses moulu", "eût moulu", "eussions moulu", "eussiez moulu", "eussent moulu" ],
+  "imperatif": [ "–", "mouds !", "–", "moulons !", "moulez !", "–" ],
+  "imperatifPasse": [ "–", "aie moulu !", "–", "ayons moulu !", "ayez moulu !", "–" ]
+}

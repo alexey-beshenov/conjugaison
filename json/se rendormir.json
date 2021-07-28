@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rendormir",
+  "participePresent": "se rendormant",
+  "participePasse": "rendormi",
+  "present": [ "me rendors", "te rendors", "se rendort", "nous rendormons", "vous rendormez", "se rendorment" ],
+  "imparfait": [ "me rendormais", "te rendormais", "se rendormait", "nous rendormions", "vous rendormiez", "se rendormaient" ],
+  "passeSimple": [ "me rendormis", "te rendormis", "se rendormit", "nous rendormîmes", "vous rendormîtes", "se rendormirent" ],
+  "futurSimple": [ "me rendormirai", "te rendormiras", "se rendormira", "nous rendormirons", "vous rendormirez", "se rendormiront" ],
+  "passeCompose": [ "me suis rendormi(e)", "t'es rendormi(e)", "s'est rendormi(e)", "nous sommes rendormi(e)s", "vous êtes rendormi(e)(s)", "se sont rendormi(e)s" ],
+  "plusQueParfait": [ "m'étais rendormi(e)", "t'étais rendormi(e)", "s'était rendormi(e)", "nous étions rendormi(e)s", "vous étiez rendormi(e)(s)", "s'étaient rendormi(e)s" ],
+  "passeAnterieur": [ "me fus rendormi(e)", "te fus rendormi(e)", "se fut rendormi(e)", "nous fûmes rendormi(e)s", "vous fûtes rendormi(e)(s)", "se furent rendormi(e)s" ],
+  "futurAnterieur": [ "me serai rendormi(e)", "te seras rendormi(e)", "se sera rendormi(e)", "nous serons rendormi(e)s", "vous serez rendormi(e)(s)", "se seront rendormi(e)s" ],
+  "subjonctifPresent": [ "me rendorme", "te rendormes", "se rendorme", "nous rendormions", "vous rendormiez", "se rendorment" ],
+  "subjonctifImparfait": [ "me rendormisse", "te rendormisses", "se rendormît", "nous rendormissions", "vous rendormissiez", "se rendormissent" ],
+  "subjonctifPasse": [ "me sois rendormi(e)", "te sois rendormi(e)", "se soit rendormi(e)", "nous soyons rendormi(e)s", "vous soyez rendormi(e)(s)", "se soient rendormi(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rendormi(e)", "te fusses rendormi(e)", "se fût rendormi(e)", "nous fussions rendormi(e)s", "vous fussiez rendormi(e)(s)", "se fussent rendormi(e)s" ],
+  "conditionnelPresent": [ "me rendormirais", "te rendormirais", "se rendormirait", "nous rendormirions", "vous rendormiriez", "se rendormiraient" ],
+  "conditionnelPasse": [ "me serais rendormi(e)", "te serais rendormi(e)", "se serait rendormi(e)", "nous serions rendormi(e)s", "vous seriez rendormi(e)(s)", "se seraient rendormi(e)s" ],
+  "conditionnelPasseII": [ "me fusse rendormi(e)", "te fusses rendormi(e)", "se fût rendormi(e)", "nous fussions rendormi(e)s", "vous fussiez rendormi(e)(s)", "se fussent rendormi(e)s" ],
+  "imperatif": [ "–", "rendors-toi !", "–", "rendormons-nous !", "rendormez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

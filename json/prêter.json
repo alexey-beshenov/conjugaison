@@ -1,0 +1,22 @@
+{
+  "infinitif": "prêter",
+  "participePresent": "prêtant",
+  "participePasse": "prêté",
+  "present": [ "prête", "prêtes", "prête", "prêtons", "prêtez", "prêtent" ],
+  "imparfait": [ "prêtais", "prêtais", "prêtait", "prêtions", "prêtiez", "prêtaient" ],
+  "passeSimple": [ "prêtai", "prêtas", "prêta", "prêtâmes", "prêtâtes", "prêtèrent" ],
+  "futurSimple": [ "prêterai", "prêteras", "prêtera", "prêterons", "prêterez", "prêteront" ],
+  "passeCompose": [ "ai prêté", "as prêté", "a prêté", "avons prêté", "avez prêté", "ont prêté" ],
+  "plusQueParfait": [ "avais prêté", "avais prêté", "avait prêté", "avions prêté", "aviez prêté", "avaient prêté" ],
+  "passeAnterieur": [ "eus prêté", "eus prêté", "eut prêté", "eûmes prêté", "eûtes prêté", "eurent prêté" ],
+  "futurAnterieur": [ "aurai prêté", "auras prêté", "aura prêté", "aurons prêté", "aurez prêté", "auront prêté" ],
+  "subjonctifPresent": [ "prête", "prêtes", "prête", "prêtions", "prêtiez", "prêtent" ],
+  "subjonctifImparfait": [ "prêtasse", "prêtasses", "prêtât", "prêtassions", "prêtassiez", "prêtassent" ],
+  "subjonctifPasse": [ "aie prêté", "aies prêté", "ait prêté", "ayons prêté", "ayez prêté", "aient prêté" ],
+  "subjonctifPlusQueParfait": [ "eusse prêté", "eusses prêté", "eût prêté", "eussions prêté", "eussiez prêté", "eussent prêté" ],
+  "conditionnelPresent": [ "prêterais", "prêterais", "prêterait", "prêterions", "prêteriez", "prêteraient" ],
+  "conditionnelPasse": [ "aurais prêté", "aurais prêté", "aurait prêté", "aurions prêté", "auriez prêté", "auraient prêté" ],
+  "conditionnelPasseII": [ "eusse prêté", "eusses prêté", "eût prêté", "eussions prêté", "eussiez prêté", "eussent prêté" ],
+  "imperatif": [ "–", "prête !", "–", "prêtons !", "prêtez !", "–" ],
+  "imperatifPasse": [ "–", "aie prêté !", "–", "ayons prêté !", "ayez prêté !", "–" ]
+}

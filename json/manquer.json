@@ -1,0 +1,22 @@
+{
+  "infinitif": "manquer",
+  "participePresent": "manquant",
+  "participePasse": "manqué",
+  "present": [ "manque", "manques", "manque", "manquons", "manquez", "manquent" ],
+  "imparfait": [ "manquais", "manquais", "manquait", "manquions", "manquiez", "manquaient" ],
+  "passeSimple": [ "manquai", "manquas", "manqua", "manquâmes", "manquâtes", "manquèrent" ],
+  "futurSimple": [ "manquerai", "manqueras", "manquera", "manquerons", "manquerez", "manqueront" ],
+  "passeCompose": [ "ai manqué", "as manqué", "a manqué", "avons manqué", "avez manqué", "ont manqué" ],
+  "plusQueParfait": [ "avais manqué", "avais manqué", "avait manqué", "avions manqué", "aviez manqué", "avaient manqué" ],
+  "passeAnterieur": [ "eus manqué", "eus manqué", "eut manqué", "eûmes manqué", "eûtes manqué", "eurent manqué" ],
+  "futurAnterieur": [ "aurai manqué", "auras manqué", "aura manqué", "aurons manqué", "aurez manqué", "auront manqué" ],
+  "subjonctifPresent": [ "manque", "manques", "manque", "manquions", "manquiez", "manquent" ],
+  "subjonctifImparfait": [ "manquasse", "manquasses", "manquât", "manquassions", "manquassiez", "manquassent" ],
+  "subjonctifPasse": [ "aie manqué", "aies manqué", "ait manqué", "ayons manqué", "ayez manqué", "aient manqué" ],
+  "subjonctifPlusQueParfait": [ "eusse manqué", "eusses manqué", "eût manqué", "eussions manqué", "eussiez manqué", "eussent manqué" ],
+  "conditionnelPresent": [ "manquerais", "manquerais", "manquerait", "manquerions", "manqueriez", "manqueraient" ],
+  "conditionnelPasse": [ "aurais manqué", "aurais manqué", "aurait manqué", "aurions manqué", "auriez manqué", "auraient manqué" ],
+  "conditionnelPasseII": [ "eusse manqué", "eusses manqué", "eût manqué", "eussions manqué", "eussiez manqué", "eussent manqué" ],
+  "imperatif": [ "–", "manque !", "–", "manquons !", "manquez !", "–" ],
+  "imperatifPasse": [ "–", "aie manqué !", "–", "ayons manqué !", "ayez manqué !", "–" ]
+}

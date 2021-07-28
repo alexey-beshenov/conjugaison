@@ -1,0 +1,22 @@
+{
+  "infinitif": "se menacer",
+  "participePresent": "se menaçant",
+  "participePasse": "menacé",
+  "present": [ "me menace", "te menaces", "se menace", "nous menaçons", "vous menacez", "se menacent" ],
+  "imparfait": [ "me menaçais", "te menaçais", "se menaçait", "nous menacions", "vous menaciez", "se menaçaient" ],
+  "passeSimple": [ "me menaçai", "te menaças", "se menaça", "nous menaçâmes", "vous menaçâtes", "se menacèrent" ],
+  "futurSimple": [ "me menacerai", "te menaceras", "se menacera", "nous menacerons", "vous menacerez", "se menaceront" ],
+  "passeCompose": [ "me suis menacé(e)", "t'es menacé(e)", "s'est menacé(e)", "nous sommes menacé(e)s", "vous êtes menacé(e)(s)", "se sont menacé(e)s" ],
+  "plusQueParfait": [ "m'étais menacé(e)", "t'étais menacé(e)", "s'était menacé(e)", "nous étions menacé(e)s", "vous étiez menacé(e)(s)", "s'étaient menacé(e)s" ],
+  "passeAnterieur": [ "me fus menacé(e)", "te fus menacé(e)", "se fut menacé(e)", "nous fûmes menacé(e)s", "vous fûtes menacé(e)(s)", "se furent menacé(e)s" ],
+  "futurAnterieur": [ "me serai menacé(e)", "te seras menacé(e)", "se sera menacé(e)", "nous serons menacé(e)s", "vous serez menacé(e)(s)", "se seront menacé(e)s" ],
+  "subjonctifPresent": [ "me menace", "te menaces", "se menace", "nous menacions", "vous menaciez", "se menacent" ],
+  "subjonctifImparfait": [ "me menaçasse", "te menaçasses", "se menaçât", "nous menaçassions", "vous menaçassiez", "se menaçassent" ],
+  "subjonctifPasse": [ "me sois menacé(e)", "te sois menacé(e)", "se soit menacé(e)", "nous soyons menacé(e)s", "vous soyez menacé(e)(s)", "se soient menacé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse menacé(e)", "te fusses menacé(e)", "se fût menacé(e)", "nous fussions menacé(e)s", "vous fussiez menacé(e)(s)", "se fussent menacé(e)s" ],
+  "conditionnelPresent": [ "me menacerais", "te menacerais", "se menacerait", "nous menacerions", "vous menaceriez", "se menaceraient" ],
+  "conditionnelPasse": [ "me serais menacé(e)", "te serais menacé(e)", "se serait menacé(e)", "nous serions menacé(e)s", "vous seriez menacé(e)(s)", "se seraient menacé(e)s" ],
+  "conditionnelPasseII": [ "me fusse menacé(e)", "te fusses menacé(e)", "se fût menacé(e)", "nous fussions menacé(e)s", "vous fussiez menacé(e)(s)", "se fussent menacé(e)s" ],
+  "imperatif": [ "–", "menace-toi !", "–", "menaçons-nous !", "menacez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

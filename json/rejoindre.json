@@ -1,0 +1,22 @@
+{
+  "infinitif": "rejoindre",
+  "participePresent": "rejoignant",
+  "participePasse": "rejoint",
+  "present": [ "rejoins", "rejoins", "rejoint", "rejoignons", "rejoignez", "rejoignent" ],
+  "imparfait": [ "rejoignais", "rejoignais", "rejoignait", "rejoignions", "rejoigniez", "rejoignaient" ],
+  "passeSimple": [ "rejoignis", "rejoignis", "rejoignit", "rejoignîmes", "rejoignîtes", "rejoignirent" ],
+  "futurSimple": [ "rejoindrai", "rejoindras", "rejoindra", "rejoindrons", "rejoindrez", "rejoindront" ],
+  "passeCompose": [ "ai rejoint", "as rejoint", "a rejoint", "avons rejoint", "avez rejoint", "ont rejoint" ],
+  "plusQueParfait": [ "avais rejoint", "avais rejoint", "avait rejoint", "avions rejoint", "aviez rejoint", "avaient rejoint" ],
+  "passeAnterieur": [ "eus rejoint", "eus rejoint", "eut rejoint", "eûmes rejoint", "eûtes rejoint", "eurent rejoint" ],
+  "futurAnterieur": [ "aurai rejoint", "auras rejoint", "aura rejoint", "aurons rejoint", "aurez rejoint", "auront rejoint" ],
+  "subjonctifPresent": [ "rejoigne", "rejoignes", "rejoigne", "rejoignions", "rejoigniez", "rejoignent" ],
+  "subjonctifImparfait": [ "rejoignisse", "rejoignisses", "rejoignît", "rejoignissions", "rejoignissiez", "rejoignissent" ],
+  "subjonctifPasse": [ "aie rejoint", "aies rejoint", "ait rejoint", "ayons rejoint", "ayez rejoint", "aient rejoint" ],
+  "subjonctifPlusQueParfait": [ "eusse rejoint", "eusses rejoint", "eût rejoint", "eussions rejoint", "eussiez rejoint", "eussent rejoint" ],
+  "conditionnelPresent": [ "rejoindrais", "rejoindrais", "rejoindrait", "rejoindrions", "rejoindriez", "rejoindraient" ],
+  "conditionnelPasse": [ "aurais rejoint", "aurais rejoint", "aurait rejoint", "aurions rejoint", "auriez rejoint", "auraient rejoint" ],
+  "conditionnelPasseII": [ "eusse rejoint", "eusses rejoint", "eût rejoint", "eussions rejoint", "eussiez rejoint", "eussent rejoint" ],
+  "imperatif": [ "–", "rejoins !", "–", "rejoignons !", "rejoignez !", "–" ],
+  "imperatifPasse": [ "–", "aie rejoint !", "–", "ayons rejoint !", "ayez rejoint !", "–" ]
+}

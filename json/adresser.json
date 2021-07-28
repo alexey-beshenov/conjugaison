@@ -1,0 +1,22 @@
+{
+  "infinitif": "adresser",
+  "participePresent": "adressant",
+  "participePasse": "adressé",
+  "present": [ "adresse", "adresses", "adresse", "adressons", "adressez", "adressent" ],
+  "imparfait": [ "adressais", "adressais", "adressait", "adressions", "adressiez", "adressaient" ],
+  "passeSimple": [ "adressai", "adressas", "adressa", "adressâmes", "adressâtes", "adressèrent" ],
+  "futurSimple": [ "adresserai", "adresseras", "adressera", "adresserons", "adresserez", "adresseront" ],
+  "passeCompose": [ "ai adressé", "as adressé", "a adressé", "avons adressé", "avez adressé", "ont adressé" ],
+  "plusQueParfait": [ "avais adressé", "avais adressé", "avait adressé", "avions adressé", "aviez adressé", "avaient adressé" ],
+  "passeAnterieur": [ "eus adressé", "eus adressé", "eut adressé", "eûmes adressé", "eûtes adressé", "eurent adressé" ],
+  "futurAnterieur": [ "aurai adressé", "auras adressé", "aura adressé", "aurons adressé", "aurez adressé", "auront adressé" ],
+  "subjonctifPresent": [ "adresse", "adresses", "adresse", "adressions", "adressiez", "adressent" ],
+  "subjonctifImparfait": [ "adressasse", "adressasses", "adressât", "adressassions", "adressassiez", "adressassent" ],
+  "subjonctifPasse": [ "aie adressé", "aies adressé", "ait adressé", "ayons adressé", "ayez adressé", "aient adressé" ],
+  "subjonctifPlusQueParfait": [ "eusse adressé", "eusses adressé", "eût adressé", "eussions adressé", "eussiez adressé", "eussent adressé" ],
+  "conditionnelPresent": [ "adresserais", "adresserais", "adresserait", "adresserions", "adresseriez", "adresseraient" ],
+  "conditionnelPasse": [ "aurais adressé", "aurais adressé", "aurait adressé", "aurions adressé", "auriez adressé", "auraient adressé" ],
+  "conditionnelPasseII": [ "eusse adressé", "eusses adressé", "eût adressé", "eussions adressé", "eussiez adressé", "eussent adressé" ],
+  "imperatif": [ "–", "adresse !", "–", "adressons !", "adressez !", "–" ],
+  "imperatifPasse": [ "–", "aie adressé !", "–", "ayons adressé !", "ayez adressé !", "–" ]
+}

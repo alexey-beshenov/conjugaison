@@ -1,0 +1,22 @@
+{
+  "infinitif": "verglacer",
+  "participePresent": "verglaçant",
+  "participePasse": "verglacé",
+  "present": [ "–", "–", "verglace", "–", "–", "–" ],
+  "imparfait": [ "–", "–", "verglaçait", "–", "–", "–" ],
+  "passeSimple": [ "–", "–", "verglaça", "–", "–", "–" ],
+  "futurSimple": [ "–", "–", "verglacera", "–", "–", "–" ],
+  "passeCompose": [ "–", "–", "a verglacé", "–", "–", "–" ],
+  "plusQueParfait": [ "–", "–", "avait verglacé", "–", "–", "–" ],
+  "passeAnterieur": [ "–", "–", "eut verglacé", "–", "–", "–" ],
+  "futurAnterieur": [ "–", "–", "aura verglacé", "–", "–", "–" ],
+  "subjonctifPresent": [ "–", "–", "verglace", "–", "–", "–" ],
+  "subjonctifImparfait": [ "–", "–", "verglaçât", "–", "–", "–" ],
+  "subjonctifPasse": [ "–", "–", "ait verglacé", "–", "–", "–" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "eût verglacé", "–", "–", "–" ],
+  "conditionnelPresent": [ "–", "–", "verglacerait", "–", "–", "–" ],
+  "conditionnelPasse": [ "–", "–", "aurait verglacé", "–", "–", "–" ],
+  "conditionnelPasseII": [ "–", "–", "eût verglacé", "–", "–", "–" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

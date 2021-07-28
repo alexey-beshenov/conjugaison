@@ -1,0 +1,22 @@
+{
+  "infinitif": "durer",
+  "participePresent": "durant",
+  "participePasse": "duré",
+  "present": [ "dure", "dures", "dure", "durons", "durez", "durent" ],
+  "imparfait": [ "durais", "durais", "durait", "durions", "duriez", "duraient" ],
+  "passeSimple": [ "durai", "duras", "dura", "durâmes", "durâtes", "durèrent" ],
+  "futurSimple": [ "durerai", "dureras", "durera", "durerons", "durerez", "dureront" ],
+  "passeCompose": [ "ai duré", "as duré", "a duré", "avons duré", "avez duré", "ont duré" ],
+  "plusQueParfait": [ "avais duré", "avais duré", "avait duré", "avions duré", "aviez duré", "avaient duré" ],
+  "passeAnterieur": [ "eus duré", "eus duré", "eut duré", "eûmes duré", "eûtes duré", "eurent duré" ],
+  "futurAnterieur": [ "aurai duré", "auras duré", "aura duré", "aurons duré", "aurez duré", "auront duré" ],
+  "subjonctifPresent": [ "dure", "dures", "dure", "durions", "duriez", "durent" ],
+  "subjonctifImparfait": [ "durasse", "durasses", "durât", "durassions", "durassiez", "durassent" ],
+  "subjonctifPasse": [ "aie duré", "aies duré", "ait duré", "ayons duré", "ayez duré", "aient duré" ],
+  "subjonctifPlusQueParfait": [ "eusse duré", "eusses duré", "eût duré", "eussions duré", "eussiez duré", "eussent duré" ],
+  "conditionnelPresent": [ "durerais", "durerais", "durerait", "durerions", "dureriez", "dureraient" ],
+  "conditionnelPasse": [ "aurais duré", "aurais duré", "aurait duré", "aurions duré", "auriez duré", "auraient duré" ],
+  "conditionnelPasseII": [ "eusse duré", "eusses duré", "eût duré", "eussions duré", "eussiez duré", "eussent duré" ],
+  "imperatif": [ "–", "dure !", "–", "durons !", "durez !", "–" ],
+  "imperatifPasse": [ "–", "aie duré !", "–", "ayons duré !", "ayez duré !", "–" ]
+}

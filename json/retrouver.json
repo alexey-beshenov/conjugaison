@@ -1,0 +1,22 @@
+{
+  "infinitif": "retrouver",
+  "participePresent": "retrouvant",
+  "participePasse": "retrouvé",
+  "present": [ "retrouve", "retrouves", "retrouve", "retrouvons", "retrouvez", "retrouvent" ],
+  "imparfait": [ "retrouvais", "retrouvais", "retrouvait", "retrouvions", "retrouviez", "retrouvaient" ],
+  "passeSimple": [ "retrouvai", "retrouvas", "retrouva", "retrouvâmes", "retrouvâtes", "retrouvèrent" ],
+  "futurSimple": [ "retrouverai", "retrouveras", "retrouvera", "retrouverons", "retrouverez", "retrouveront" ],
+  "passeCompose": [ "ai retrouvé", "as retrouvé", "a retrouvé", "avons retrouvé", "avez retrouvé", "ont retrouvé" ],
+  "plusQueParfait": [ "avais retrouvé", "avais retrouvé", "avait retrouvé", "avions retrouvé", "aviez retrouvé", "avaient retrouvé" ],
+  "passeAnterieur": [ "eus retrouvé", "eus retrouvé", "eut retrouvé", "eûmes retrouvé", "eûtes retrouvé", "eurent retrouvé" ],
+  "futurAnterieur": [ "aurai retrouvé", "auras retrouvé", "aura retrouvé", "aurons retrouvé", "aurez retrouvé", "auront retrouvé" ],
+  "subjonctifPresent": [ "retrouve", "retrouves", "retrouve", "retrouvions", "retrouviez", "retrouvent" ],
+  "subjonctifImparfait": [ "retrouvasse", "retrouvasses", "retrouvât", "retrouvassions", "retrouvassiez", "retrouvassent" ],
+  "subjonctifPasse": [ "aie retrouvé", "aies retrouvé", "ait retrouvé", "ayons retrouvé", "ayez retrouvé", "aient retrouvé" ],
+  "subjonctifPlusQueParfait": [ "eusse retrouvé", "eusses retrouvé", "eût retrouvé", "eussions retrouvé", "eussiez retrouvé", "eussent retrouvé" ],
+  "conditionnelPresent": [ "retrouverais", "retrouverais", "retrouverait", "retrouverions", "retrouveriez", "retrouveraient" ],
+  "conditionnelPasse": [ "aurais retrouvé", "aurais retrouvé", "aurait retrouvé", "aurions retrouvé", "auriez retrouvé", "auraient retrouvé" ],
+  "conditionnelPasseII": [ "eusse retrouvé", "eusses retrouvé", "eût retrouvé", "eussions retrouvé", "eussiez retrouvé", "eussent retrouvé" ],
+  "imperatif": [ "–", "retrouve !", "–", "retrouvons !", "retrouvez !", "–" ],
+  "imperatifPasse": [ "–", "aie retrouvé !", "–", "ayons retrouvé !", "ayez retrouvé !", "–" ]
+}

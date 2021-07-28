@@ -1,0 +1,22 @@
+{
+  "infinitif": "se porter",
+  "participePresent": "se portant",
+  "participePasse": "porté",
+  "present": [ "me porte", "te portes", "se porte", "nous portons", "vous portez", "se portent" ],
+  "imparfait": [ "me portais", "te portais", "se portait", "nous portions", "vous portiez", "se portaient" ],
+  "passeSimple": [ "me portai", "te portas", "se porta", "nous portâmes", "vous portâtes", "se portèrent" ],
+  "futurSimple": [ "me porterai", "te porteras", "se portera", "nous porterons", "vous porterez", "se porteront" ],
+  "passeCompose": [ "me suis porté(e)", "t'es porté(e)", "s'est porté(e)", "nous sommes porté(e)s", "vous êtes porté(e)(s)", "se sont porté(e)s" ],
+  "plusQueParfait": [ "m'étais porté(e)", "t'étais porté(e)", "s'était porté(e)", "nous étions porté(e)s", "vous étiez porté(e)(s)", "s'étaient porté(e)s" ],
+  "passeAnterieur": [ "me fus porté(e)", "te fus porté(e)", "se fut porté(e)", "nous fûmes porté(e)s", "vous fûtes porté(e)(s)", "se furent porté(e)s" ],
+  "futurAnterieur": [ "me serai porté(e)", "te seras porté(e)", "se sera porté(e)", "nous serons porté(e)s", "vous serez porté(e)(s)", "se seront porté(e)s" ],
+  "subjonctifPresent": [ "me porte", "te portes", "se porte", "nous portions", "vous portiez", "se portent" ],
+  "subjonctifImparfait": [ "me portasse", "te portasses", "se portât", "nous portassions", "vous portassiez", "se portassent" ],
+  "subjonctifPasse": [ "me sois porté(e)", "te sois porté(e)", "se soit porté(e)", "nous soyons porté(e)s", "vous soyez porté(e)(s)", "se soient porté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse porté(e)", "te fusses porté(e)", "se fût porté(e)", "nous fussions porté(e)s", "vous fussiez porté(e)(s)", "se fussent porté(e)s" ],
+  "conditionnelPresent": [ "me porterais", "te porterais", "se porterait", "nous porterions", "vous porteriez", "se porteraient" ],
+  "conditionnelPasse": [ "me serais porté(e)", "te serais porté(e)", "se serait porté(e)", "nous serions porté(e)s", "vous seriez porté(e)(s)", "se seraient porté(e)s" ],
+  "conditionnelPasseII": [ "me fusse porté(e)", "te fusses porté(e)", "se fût porté(e)", "nous fussions porté(e)s", "vous fussiez porté(e)(s)", "se fussent porté(e)s" ],
+  "imperatif": [ "–", "porte-toi !", "–", "portons-nous !", "portez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "étouffer",
+  "participePresent": "étouffant",
+  "participePasse": "étouffé",
+  "present": [ "étouffe", "étouffes", "étouffe", "étouffons", "étouffez", "étouffent" ],
+  "imparfait": [ "étouffais", "étouffais", "étouffait", "étouffions", "étouffiez", "étouffaient" ],
+  "passeSimple": [ "étouffai", "étouffas", "étouffa", "étouffâmes", "étouffâtes", "étouffèrent" ],
+  "futurSimple": [ "étoufferai", "étoufferas", "étouffera", "étoufferons", "étoufferez", "étoufferont" ],
+  "passeCompose": [ "ai étouffé", "as étouffé", "a étouffé", "avons étouffé", "avez étouffé", "ont étouffé" ],
+  "plusQueParfait": [ "avais étouffé", "avais étouffé", "avait étouffé", "avions étouffé", "aviez étouffé", "avaient étouffé" ],
+  "passeAnterieur": [ "eus étouffé", "eus étouffé", "eut étouffé", "eûmes étouffé", "eûtes étouffé", "eurent étouffé" ],
+  "futurAnterieur": [ "aurai étouffé", "auras étouffé", "aura étouffé", "aurons étouffé", "aurez étouffé", "auront étouffé" ],
+  "subjonctifPresent": [ "étouffe", "étouffes", "étouffe", "étouffions", "étouffiez", "étouffent" ],
+  "subjonctifImparfait": [ "étouffasse", "étouffasses", "étouffât", "étouffassions", "étouffassiez", "étouffassent" ],
+  "subjonctifPasse": [ "aie étouffé", "aies étouffé", "ait étouffé", "ayons étouffé", "ayez étouffé", "aient étouffé" ],
+  "subjonctifPlusQueParfait": [ "eusse étouffé", "eusses étouffé", "eût étouffé", "eussions étouffé", "eussiez étouffé", "eussent étouffé" ],
+  "conditionnelPresent": [ "étoufferais", "étoufferais", "étoufferait", "étoufferions", "étoufferiez", "étoufferaient" ],
+  "conditionnelPasse": [ "aurais étouffé", "aurais étouffé", "aurait étouffé", "aurions étouffé", "auriez étouffé", "auraient étouffé" ],
+  "conditionnelPasseII": [ "eusse étouffé", "eusses étouffé", "eût étouffé", "eussions étouffé", "eussiez étouffé", "eussent étouffé" ],
+  "imperatif": [ "–", "étouffe !", "–", "étouffons !", "étouffez !", "–" ],
+  "imperatifPasse": [ "–", "aie étouffé !", "–", "ayons étouffé !", "ayez étouffé !", "–" ]
+}

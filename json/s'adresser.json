@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'adresser",
+  "participePresent": "s'adressant",
+  "participePasse": "adressé",
+  "present": [ "m'adresse", "t'adresses", "s'adresse", "nous adressons", "vous adressez", "s'adressent" ],
+  "imparfait": [ "m'adressais", "t'adressais", "s'adressait", "nous adressions", "vous adressiez", "s'adressaient" ],
+  "passeSimple": [ "m'adressai", "t'adressas", "s'adressa", "nous adressâmes", "vous adressâtes", "s'adressèrent" ],
+  "futurSimple": [ "m'adresserai", "t'adresseras", "s'adressera", "nous adresserons", "vous adresserez", "s'adresseront" ],
+  "passeCompose": [ "me suis adressé(e)", "t'es adressé(e)", "s'est adressé(e)", "nous sommes adressé(e)s", "vous êtes adressé(e)(s)", "se sont adressé(e)s" ],
+  "plusQueParfait": [ "m'étais adressé(e)", "t'étais adressé(e)", "s'était adressé(e)", "nous étions adressé(e)s", "vous étiez adressé(e)(s)", "s'étaient adressé(e)s" ],
+  "passeAnterieur": [ "me fus adressé(e)", "te fus adressé(e)", "se fut adressé(e)", "nous fûmes adressé(e)s", "vous fûtes adressé(e)(s)", "se furent adressé(e)s" ],
+  "futurAnterieur": [ "me serai adressé(e)", "te seras adressé(e)", "se sera adressé(e)", "nous serons adressé(e)s", "vous serez adressé(e)(s)", "se seront adressé(e)s" ],
+  "subjonctifPresent": [ "m'adresse", "t'adresses", "s'adresse", "nous adressions", "vous adressiez", "s'adressent" ],
+  "subjonctifImparfait": [ "m'adressasse", "t'adressasses", "s'adressât", "nous adressassions", "vous adressassiez", "s'adressassent" ],
+  "subjonctifPasse": [ "me sois adressé(e)", "te sois adressé(e)", "se soit adressé(e)", "nous soyons adressé(e)s", "vous soyez adressé(e)(s)", "se soient adressé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse adressé(e)", "te fusses adressé(e)", "se fût adressé(e)", "nous fussions adressé(e)s", "vous fussiez adressé(e)(s)", "se fussent adressé(e)s" ],
+  "conditionnelPresent": [ "m'adresserais", "t'adresserais", "s'adresserait", "nous adresserions", "vous adresseriez", "s'adresseraient" ],
+  "conditionnelPasse": [ "me serais adressé(e)", "te serais adressé(e)", "se serait adressé(e)", "nous serions adressé(e)s", "vous seriez adressé(e)(s)", "se seraient adressé(e)s" ],
+  "conditionnelPasseII": [ "me fusse adressé(e)", "te fusses adressé(e)", "se fût adressé(e)", "nous fussions adressé(e)s", "vous fussiez adressé(e)(s)", "se fussent adressé(e)s" ],
+  "imperatif": [ "–", "adresse-toi !", "–", "adressons-nous !", "adressez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

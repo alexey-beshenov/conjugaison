@@ -1,0 +1,22 @@
+{
+  "infinitif": "demeurer",
+  "participePresent": "demeurant",
+  "participePasse": "demeuré",
+  "present": [ "demeure", "demeures", "demeure", "demeurons", "demeurez", "demeurent" ],
+  "imparfait": [ "demeurais", "demeurais", "demeurait", "demeurions", "demeuriez", "demeuraient" ],
+  "passeSimple": [ "demeurai", "demeuras", "demeura", "demeurâmes", "demeurâtes", "demeurèrent" ],
+  "futurSimple": [ "demeurerai", "demeureras", "demeurera", "demeurerons", "demeurerez", "demeureront" ],
+  "passeCompose": [ "ai demeuré", "as demeuré", "a demeuré", "avons demeuré", "avez demeuré", "ont demeuré" ],
+  "plusQueParfait": [ "avais demeuré", "avais demeuré", "avait demeuré", "avions demeuré", "aviez demeuré", "avaient demeuré" ],
+  "passeAnterieur": [ "eus demeuré", "eus demeuré", "eut demeuré", "eûmes demeuré", "eûtes demeuré", "eurent demeuré" ],
+  "futurAnterieur": [ "aurai demeuré", "auras demeuré", "aura demeuré", "aurons demeuré", "aurez demeuré", "auront demeuré" ],
+  "subjonctifPresent": [ "demeure", "demeures", "demeure", "demeurions", "demeuriez", "demeurent" ],
+  "subjonctifImparfait": [ "demeurasse", "demeurasses", "demeurât", "demeurassions", "demeurassiez", "demeurassent" ],
+  "subjonctifPasse": [ "aie demeuré", "aies demeuré", "ait demeuré", "ayons demeuré", "ayez demeuré", "aient demeuré" ],
+  "subjonctifPlusQueParfait": [ "eusse demeuré", "eusses demeuré", "eût demeuré", "eussions demeuré", "eussiez demeuré", "eussent demeuré" ],
+  "conditionnelPresent": [ "demeurerais", "demeurerais", "demeurerait", "demeurerions", "demeureriez", "demeureraient" ],
+  "conditionnelPasse": [ "aurais demeuré", "aurais demeuré", "aurait demeuré", "aurions demeuré", "auriez demeuré", "auraient demeuré" ],
+  "conditionnelPasseII": [ "eusse demeuré", "eusses demeuré", "eût demeuré", "eussions demeuré", "eussiez demeuré", "eussent demeuré" ],
+  "imperatif": [ "–", "demeure !", "–", "demeurons !", "demeurez !", "–" ],
+  "imperatifPasse": [ "–", "aie demeuré !", "–", "ayons demeuré !", "ayez demeuré !", "–" ]
+}

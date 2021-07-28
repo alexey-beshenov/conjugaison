@@ -1,0 +1,22 @@
+{
+  "infinitif": "se figurer",
+  "participePresent": "se figurant",
+  "participePasse": "figuré",
+  "present": [ "me figure", "te figures", "se figure", "nous figurons", "vous figurez", "se figurent" ],
+  "imparfait": [ "me figurais", "te figurais", "se figurait", "nous figurions", "vous figuriez", "se figuraient" ],
+  "passeSimple": [ "me figurai", "te figuras", "se figura", "nous figurâmes", "vous figurâtes", "se figurèrent" ],
+  "futurSimple": [ "me figurerai", "te figureras", "se figurera", "nous figurerons", "vous figurerez", "se figureront" ],
+  "passeCompose": [ "me suis figuré(e)", "t'es figuré(e)", "s'est figuré(e)", "nous sommes figuré(e)s", "vous êtes figuré(e)(s)", "se sont figuré(e)s" ],
+  "plusQueParfait": [ "m'étais figuré(e)", "t'étais figuré(e)", "s'était figuré(e)", "nous étions figuré(e)s", "vous étiez figuré(e)(s)", "s'étaient figuré(e)s" ],
+  "passeAnterieur": [ "me fus figuré(e)", "te fus figuré(e)", "se fut figuré(e)", "nous fûmes figuré(e)s", "vous fûtes figuré(e)(s)", "se furent figuré(e)s" ],
+  "futurAnterieur": [ "me serai figuré(e)", "te seras figuré(e)", "se sera figuré(e)", "nous serons figuré(e)s", "vous serez figuré(e)(s)", "se seront figuré(e)s" ],
+  "subjonctifPresent": [ "me figure", "te figures", "se figure", "nous figurions", "vous figuriez", "se figurent" ],
+  "subjonctifImparfait": [ "me figurasse", "te figurasses", "se figurât", "nous figurassions", "vous figurassiez", "se figurassent" ],
+  "subjonctifPasse": [ "me sois figuré(e)", "te sois figuré(e)", "se soit figuré(e)", "nous soyons figuré(e)s", "vous soyez figuré(e)(s)", "se soient figuré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse figuré(e)", "te fusses figuré(e)", "se fût figuré(e)", "nous fussions figuré(e)s", "vous fussiez figuré(e)(s)", "se fussent figuré(e)s" ],
+  "conditionnelPresent": [ "me figurerais", "te figurerais", "se figurerait", "nous figurerions", "vous figureriez", "se figureraient" ],
+  "conditionnelPasse": [ "me serais figuré(e)", "te serais figuré(e)", "se serait figuré(e)", "nous serions figuré(e)s", "vous seriez figuré(e)(s)", "se seraient figuré(e)s" ],
+  "conditionnelPasseII": [ "me fusse figuré(e)", "te fusses figuré(e)", "se fût figuré(e)", "nous fussions figuré(e)s", "vous fussiez figuré(e)(s)", "se fussent figuré(e)s" ],
+  "imperatif": [ "–", "figure-toi !", "–", "figurons-nous !", "figurez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se manger",
+  "participePresent": "se mangeant",
+  "participePasse": "mangé",
+  "present": [ "me mange", "te manges", "se mange", "nous mangeons", "vous mangez", "se mangent" ],
+  "imparfait": [ "me mangeais", "te mangeais", "se mangeait", "nous mangions", "vous mangiez", "se mangeaient" ],
+  "passeSimple": [ "me mangeai", "te mangeas", "se mangea", "nous mangeâmes", "vous mangeâtes", "se mangèrent" ],
+  "futurSimple": [ "me mangerai", "te mangeras", "se mangera", "nous mangerons", "vous mangerez", "se mangeront" ],
+  "passeCompose": [ "me suis mangé(e)", "t'es mangé(e)", "s'est mangé(e)", "nous sommes mangé(e)s", "vous êtes mangé(e)(s)", "se sont mangé(e)s" ],
+  "plusQueParfait": [ "m'étais mangé(e)", "t'étais mangé(e)", "s'était mangé(e)", "nous étions mangé(e)s", "vous étiez mangé(e)(s)", "s'étaient mangé(e)s" ],
+  "passeAnterieur": [ "me fus mangé(e)", "te fus mangé(e)", "se fut mangé(e)", "nous fûmes mangé(e)s", "vous fûtes mangé(e)(s)", "se furent mangé(e)s" ],
+  "futurAnterieur": [ "me serai mangé(e)", "te seras mangé(e)", "se sera mangé(e)", "nous serons mangé(e)s", "vous serez mangé(e)(s)", "se seront mangé(e)s" ],
+  "subjonctifPresent": [ "me mange", "te manges", "se mange", "nous mangions", "vous mangiez", "se mangent" ],
+  "subjonctifImparfait": [ "me mangeasse", "te mangeasses", "se mangeât", "nous mangeassions", "vous mangeassiez", "se mangeassent" ],
+  "subjonctifPasse": [ "me sois mangé(e)", "te sois mangé(e)", "se soit mangé(e)", "nous soyons mangé(e)s", "vous soyez mangé(e)(s)", "se soient mangé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse mangé(e)", "te fusses mangé(e)", "se fût mangé(e)", "nous fussions mangé(e)s", "vous fussiez mangé(e)(s)", "se fussent mangé(e)s" ],
+  "conditionnelPresent": [ "me mangerais", "te mangerais", "se mangerait", "nous mangerions", "vous mangeriez", "se mangeraient" ],
+  "conditionnelPasse": [ "me serais mangé(e)", "te serais mangé(e)", "se serait mangé(e)", "nous serions mangé(e)s", "vous seriez mangé(e)(s)", "se seraient mangé(e)s" ],
+  "conditionnelPasseII": [ "me fusse mangé(e)", "te fusses mangé(e)", "se fût mangé(e)", "nous fussions mangé(e)s", "vous fussiez mangé(e)(s)", "se fussent mangé(e)s" ],
+  "imperatif": [ "–", "mange-toi !", "–", "mangeons-nous !", "mangez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

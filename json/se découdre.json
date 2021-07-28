@@ -1,0 +1,22 @@
+{
+  "infinitif": "se découdre",
+  "participePresent": "se décousant",
+  "participePasse": "décousu",
+  "present": [ "me découds", "te découds", "se découd", "nous décousons", "vous décousez", "se décousent" ],
+  "imparfait": [ "me décousais", "te décousais", "se décousait", "nous décousions", "vous décousiez", "se décousaient" ],
+  "passeSimple": [ "me décousis", "te décousis", "se décousit", "nous décousîmes", "vous décousîtes", "se décousirent" ],
+  "futurSimple": [ "me découdrai", "te découdras", "se découdra", "nous découdrons", "vous découdrez", "se découdront" ],
+  "passeCompose": [ "me suis décousu(e)", "t'es décousu(e)", "s'est décousu(e)", "nous sommes décousu(e)s", "vous êtes décousu(e)(s)", "se sont décousu(e)s" ],
+  "plusQueParfait": [ "m'étais décousu(e)", "t'étais décousu(e)", "s'était décousu(e)", "nous étions décousu(e)s", "vous étiez décousu(e)(s)", "s'étaient décousu(e)s" ],
+  "passeAnterieur": [ "me fus décousu(e)", "te fus décousu(e)", "se fut décousu(e)", "nous fûmes décousu(e)s", "vous fûtes décousu(e)(s)", "se furent décousu(e)s" ],
+  "futurAnterieur": [ "me serai décousu(e)", "te seras décousu(e)", "se sera décousu(e)", "nous serons décousu(e)s", "vous serez décousu(e)(s)", "se seront décousu(e)s" ],
+  "subjonctifPresent": [ "me découse", "te découses", "se découse", "nous décousions", "vous décousiez", "se décousent" ],
+  "subjonctifImparfait": [ "me décousisse", "te décousisses", "se décousît", "nous décousissions", "vous décousissiez", "se décousissent" ],
+  "subjonctifPasse": [ "me sois décousu(e)", "te sois décousu(e)", "se soit décousu(e)", "nous soyons décousu(e)s", "vous soyez décousu(e)(s)", "se soient décousu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse décousu(e)", "te fusses décousu(e)", "se fût décousu(e)", "nous fussions décousu(e)s", "vous fussiez décousu(e)(s)", "se fussent décousu(e)s" ],
+  "conditionnelPresent": [ "me découdrais", "te découdrais", "se découdrait", "nous découdrions", "vous découdriez", "se découdraient" ],
+  "conditionnelPasse": [ "me serais décousu(e)", "te serais décousu(e)", "se serait décousu(e)", "nous serions décousu(e)s", "vous seriez décousu(e)(s)", "se seraient décousu(e)s" ],
+  "conditionnelPasseII": [ "me fusse décousu(e)", "te fusses décousu(e)", "se fût décousu(e)", "nous fussions décousu(e)s", "vous fussiez décousu(e)(s)", "se fussent décousu(e)s" ],
+  "imperatif": [ "–", "découds-toi !", "–", "décousons-nous !", "décousez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

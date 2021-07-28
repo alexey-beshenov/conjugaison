@@ -1,0 +1,22 @@
+{
+  "infinitif": "se promouvoir",
+  "participePresent": "se promouvant",
+  "participePasse": "promu",
+  "present": [ "me promeus", "te promeus", "se promeut", "nous promouvons", "vous promouvez", "se promeuvent" ],
+  "imparfait": [ "me promouvais", "te promouvais", "se promouvait", "nous promouvions", "vous promouviez", "se promouvaient" ],
+  "passeSimple": [ "me promus", "te promus", "se promut", "nous promûmes", "vous promûtes", "se promurent" ],
+  "futurSimple": [ "me promouvrai", "te promouvras", "se promouvra", "nous promouvrons", "vous promouvrez", "se promouvront" ],
+  "passeCompose": [ "me suis promu(e)", "t'es promu(e)", "s'est promu(e)", "nous sommes promu(e)s", "vous êtes promu(e)(s)", "se sont promu(e)s" ],
+  "plusQueParfait": [ "m'étais promu(e)", "t'étais promu(e)", "s'était promu(e)", "nous étions promu(e)s", "vous étiez promu(e)(s)", "s'étaient promu(e)s" ],
+  "passeAnterieur": [ "me fus promu(e)", "te fus promu(e)", "se fut promu(e)", "nous fûmes promu(e)s", "vous fûtes promu(e)(s)", "se furent promu(e)s" ],
+  "futurAnterieur": [ "me serai promu(e)", "te seras promu(e)", "se sera promu(e)", "nous serons promu(e)s", "vous serez promu(e)(s)", "se seront promu(e)s" ],
+  "subjonctifPresent": [ "me promeuve", "te promeuves", "se promeuve", "nous promouvions", "vous promouviez", "se promeuvent" ],
+  "subjonctifImparfait": [ "me promusse", "te promusses", "se promût", "nous promussions", "vous promussiez", "se promussent" ],
+  "subjonctifPasse": [ "me sois promu(e)", "te sois promu(e)", "se soit promu(e)", "nous soyons promu(e)s", "vous soyez promu(e)(s)", "se soient promu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse promu(e)", "te fusses promu(e)", "se fût promu(e)", "nous fussions promu(e)s", "vous fussiez promu(e)(s)", "se fussent promu(e)s" ],
+  "conditionnelPresent": [ "me promouvrais", "te promouvrais", "se promouvrait", "nous promouvrions", "vous promouvriez", "se promouvraient" ],
+  "conditionnelPasse": [ "me serais promu(e)", "te serais promu(e)", "se serait promu(e)", "nous serions promu(e)s", "vous seriez promu(e)(s)", "se seraient promu(e)s" ],
+  "conditionnelPasseII": [ "me fusse promu(e)", "te fusses promu(e)", "se fût promu(e)", "nous fussions promu(e)s", "vous fussiez promu(e)(s)", "se fussent promu(e)s" ],
+  "imperatif": [ "–", "promeus-toi !", "–", "promouvons-nous !", "promouvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se parler",
+  "participePresent": "se parlant",
+  "participePasse": "parlé",
+  "present": [ "me parle", "te parles", "se parle", "nous parlons", "vous parlez", "se parlent" ],
+  "imparfait": [ "me parlais", "te parlais", "se parlait", "nous parlions", "vous parliez", "se parlaient" ],
+  "passeSimple": [ "me parlai", "te parlas", "se parla", "nous parlâmes", "vous parlâtes", "se parlèrent" ],
+  "futurSimple": [ "me parlerai", "te parleras", "se parlera", "nous parlerons", "vous parlerez", "se parleront" ],
+  "passeCompose": [ "me suis parlé", "t'es parlé", "s'est parlé", "nous sommes parlé", "vous êtes parlé", "se sont parlé" ],
+  "plusQueParfait": [ "m'étais parlé", "t'étais parlé", "s'était parlé", "nous étions parlé", "vous étiez parlé", "s'étaient parlé" ],
+  "passeAnterieur": [ "me fus parlé", "te fus parlé", "se fut parlé", "nous fûmes parlé", "vous fûtes parlé", "se furent parlé" ],
+  "futurAnterieur": [ "me serai parlé", "te seras parlé", "se sera parlé", "nous serons parlé", "vous serez parlé", "se seront parlé" ],
+  "subjonctifPresent": [ "me parle", "te parles", "se parle", "nous parlions", "vous parliez", "se parlent" ],
+  "subjonctifImparfait": [ "me parlasse", "te parlasses", "se parlât", "nous parlassions", "vous parlassiez", "se parlassent" ],
+  "subjonctifPasse": [ "me sois parlé", "te sois parlé", "se soit parlé", "nous soyons parlé", "vous soyez parlé", "se soient parlé" ],
+  "subjonctifPlusQueParfait": [ "me fusse parlé", "te fusses parlé", "se fût parlé", "nous fussions parlé", "vous fussiez parlé", "se fussent parlé" ],
+  "conditionnelPresent": [ "me parlerais", "te parlerais", "se parlerait", "nous parlerions", "vous parleriez", "se parleraient" ],
+  "conditionnelPasse": [ "me serais parlé", "te serais parlé", "se serait parlé", "nous serions parlé", "vous seriez parlé", "se seraient parlé" ],
+  "conditionnelPasseII": [ "me fusse parlé", "te fusses parlé", "se fût parlé", "nous fussions parlé", "vous fussiez parlé", "se fussent parlé" ],
+  "imperatif": [ "–", "parle-toi !", "–", "parlons-nous !", "parlez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

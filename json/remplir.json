@@ -1,0 +1,22 @@
+{
+  "infinitif": "remplir",
+  "participePresent": "remplissant",
+  "participePasse": "rempli",
+  "present": [ "remplis", "remplis", "remplit", "remplissons", "remplissez", "remplissent" ],
+  "imparfait": [ "remplissais", "remplissais", "remplissait", "remplissions", "remplissiez", "remplissaient" ],
+  "passeSimple": [ "remplis", "remplis", "remplit", "remplîmes", "remplîtes", "remplirent" ],
+  "futurSimple": [ "remplirai", "rempliras", "remplira", "remplirons", "remplirez", "rempliront" ],
+  "passeCompose": [ "ai rempli", "as rempli", "a rempli", "avons rempli", "avez rempli", "ont rempli" ],
+  "plusQueParfait": [ "avais rempli", "avais rempli", "avait rempli", "avions rempli", "aviez rempli", "avaient rempli" ],
+  "passeAnterieur": [ "eus rempli", "eus rempli", "eut rempli", "eûmes rempli", "eûtes rempli", "eurent rempli" ],
+  "futurAnterieur": [ "aurai rempli", "auras rempli", "aura rempli", "aurons rempli", "aurez rempli", "auront rempli" ],
+  "subjonctifPresent": [ "remplisse", "remplisses", "remplisse", "remplissions", "remplissiez", "remplissent" ],
+  "subjonctifImparfait": [ "remplisse", "remplisses", "remplît", "remplissions", "remplissiez", "remplissent" ],
+  "subjonctifPasse": [ "aie rempli", "aies rempli", "ait rempli", "ayons rempli", "ayez rempli", "aient rempli" ],
+  "subjonctifPlusQueParfait": [ "eusse rempli", "eusses rempli", "eût rempli", "eussions rempli", "eussiez rempli", "eussent rempli" ],
+  "conditionnelPresent": [ "remplirais", "remplirais", "remplirait", "remplirions", "rempliriez", "rempliraient" ],
+  "conditionnelPasse": [ "aurais rempli", "aurais rempli", "aurait rempli", "aurions rempli", "auriez rempli", "auraient rempli" ],
+  "conditionnelPasseII": [ "eusse rempli", "eusses rempli", "eût rempli", "eussions rempli", "eussiez rempli", "eussent rempli" ],
+  "imperatif": [ "–", "remplis !", "–", "remplissons !", "remplissez !", "–" ],
+  "imperatifPasse": [ "–", "aie rempli !", "–", "ayons rempli !", "ayez rempli !", "–" ]
+}

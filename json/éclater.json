@@ -1,0 +1,22 @@
+{
+  "infinitif": "éclater",
+  "participePresent": "éclatant",
+  "participePasse": "éclaté",
+  "present": [ "éclate", "éclates", "éclate", "éclatons", "éclatez", "éclatent" ],
+  "imparfait": [ "éclatais", "éclatais", "éclatait", "éclations", "éclatiez", "éclataient" ],
+  "passeSimple": [ "éclatai", "éclatas", "éclata", "éclatâmes", "éclatâtes", "éclatèrent" ],
+  "futurSimple": [ "éclaterai", "éclateras", "éclatera", "éclaterons", "éclaterez", "éclateront" ],
+  "passeCompose": [ "ai éclaté", "as éclaté", "a éclaté", "avons éclaté", "avez éclaté", "ont éclaté" ],
+  "plusQueParfait": [ "avais éclaté", "avais éclaté", "avait éclaté", "avions éclaté", "aviez éclaté", "avaient éclaté" ],
+  "passeAnterieur": [ "eus éclaté", "eus éclaté", "eut éclaté", "eûmes éclaté", "eûtes éclaté", "eurent éclaté" ],
+  "futurAnterieur": [ "aurai éclaté", "auras éclaté", "aura éclaté", "aurons éclaté", "aurez éclaté", "auront éclaté" ],
+  "subjonctifPresent": [ "éclate", "éclates", "éclate", "éclations", "éclatiez", "éclatent" ],
+  "subjonctifImparfait": [ "éclatasse", "éclatasses", "éclatât", "éclatassions", "éclatassiez", "éclatassent" ],
+  "subjonctifPasse": [ "aie éclaté", "aies éclaté", "ait éclaté", "ayons éclaté", "ayez éclaté", "aient éclaté" ],
+  "subjonctifPlusQueParfait": [ "eusse éclaté", "eusses éclaté", "eût éclaté", "eussions éclaté", "eussiez éclaté", "eussent éclaté" ],
+  "conditionnelPresent": [ "éclaterais", "éclaterais", "éclaterait", "éclaterions", "éclateriez", "éclateraient" ],
+  "conditionnelPasse": [ "aurais éclaté", "aurais éclaté", "aurait éclaté", "aurions éclaté", "auriez éclaté", "auraient éclaté" ],
+  "conditionnelPasseII": [ "eusse éclaté", "eusses éclaté", "eût éclaté", "eussions éclaté", "eussiez éclaté", "eussent éclaté" ],
+  "imperatif": [ "–", "éclate !", "–", "éclatons !", "éclatez !", "–" ],
+  "imperatifPasse": [ "–", "aie éclaté !", "–", "ayons éclaté !", "ayez éclaté !", "–" ]
+}

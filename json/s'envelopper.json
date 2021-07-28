@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'envelopper",
+  "participePresent": "s'enveloppant",
+  "participePasse": "enveloppé",
+  "present": [ "m'enveloppe", "t'enveloppes", "s'enveloppe", "nous enveloppons", "vous enveloppez", "s'enveloppent" ],
+  "imparfait": [ "m'enveloppais", "t'enveloppais", "s'enveloppait", "nous enveloppions", "vous enveloppiez", "s'enveloppaient" ],
+  "passeSimple": [ "m'enveloppai", "t'enveloppas", "s'enveloppa", "nous enveloppâmes", "vous enveloppâtes", "s'enveloppèrent" ],
+  "futurSimple": [ "m'envelopperai", "t'envelopperas", "s'enveloppera", "nous envelopperons", "vous envelopperez", "s'envelopperont" ],
+  "passeCompose": [ "me suis enveloppé(e)", "t'es enveloppé(e)", "s'est enveloppé(e)", "nous sommes enveloppé(e)s", "vous êtes enveloppé(e)(s)", "se sont enveloppé(e)s" ],
+  "plusQueParfait": [ "m'étais enveloppé(e)", "t'étais enveloppé(e)", "s'était enveloppé(e)", "nous étions enveloppé(e)s", "vous étiez enveloppé(e)(s)", "s'étaient enveloppé(e)s" ],
+  "passeAnterieur": [ "me fus enveloppé(e)", "te fus enveloppé(e)", "se fut enveloppé(e)", "nous fûmes enveloppé(e)s", "vous fûtes enveloppé(e)(s)", "se furent enveloppé(e)s" ],
+  "futurAnterieur": [ "me serai enveloppé(e)", "te seras enveloppé(e)", "se sera enveloppé(e)", "nous serons enveloppé(e)s", "vous serez enveloppé(e)(s)", "se seront enveloppé(e)s" ],
+  "subjonctifPresent": [ "m'enveloppe", "t'enveloppes", "s'enveloppe", "nous enveloppions", "vous enveloppiez", "s'enveloppent" ],
+  "subjonctifImparfait": [ "m'enveloppasse", "t'enveloppasses", "s'enveloppât", "nous enveloppassions", "vous enveloppassiez", "s'enveloppassent" ],
+  "subjonctifPasse": [ "me sois enveloppé(e)", "te sois enveloppé(e)", "se soit enveloppé(e)", "nous soyons enveloppé(e)s", "vous soyez enveloppé(e)(s)", "se soient enveloppé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse enveloppé(e)", "te fusses enveloppé(e)", "se fût enveloppé(e)", "nous fussions enveloppé(e)s", "vous fussiez enveloppé(e)(s)", "se fussent enveloppé(e)s" ],
+  "conditionnelPresent": [ "m'envelopperais", "t'envelopperais", "s'envelopperait", "nous envelopperions", "vous envelopperiez", "s'envelopperaient" ],
+  "conditionnelPasse": [ "me serais enveloppé(e)", "te serais enveloppé(e)", "se serait enveloppé(e)", "nous serions enveloppé(e)s", "vous seriez enveloppé(e)(s)", "se seraient enveloppé(e)s" ],
+  "conditionnelPasseII": [ "me fusse enveloppé(e)", "te fusses enveloppé(e)", "se fût enveloppé(e)", "nous fussions enveloppé(e)s", "vous fussiez enveloppé(e)(s)", "se fussent enveloppé(e)s" ],
+  "imperatif": [ "–", "enveloppe-toi !", "–", "enveloppons-nous !", "enveloppez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

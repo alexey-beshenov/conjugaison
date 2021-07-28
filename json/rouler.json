@@ -1,0 +1,22 @@
+{
+  "infinitif": "rouler",
+  "participePresent": "roulant",
+  "participePasse": "roulé",
+  "present": [ "roule", "roules", "roule", "roulons", "roulez", "roulent" ],
+  "imparfait": [ "roulais", "roulais", "roulait", "roulions", "rouliez", "roulaient" ],
+  "passeSimple": [ "roulai", "roulas", "roula", "roulâmes", "roulâtes", "roulèrent" ],
+  "futurSimple": [ "roulerai", "rouleras", "roulera", "roulerons", "roulerez", "rouleront" ],
+  "passeCompose": [ "ai roulé", "as roulé", "a roulé", "avons roulé", "avez roulé", "ont roulé" ],
+  "plusQueParfait": [ "avais roulé", "avais roulé", "avait roulé", "avions roulé", "aviez roulé", "avaient roulé" ],
+  "passeAnterieur": [ "eus roulé", "eus roulé", "eut roulé", "eûmes roulé", "eûtes roulé", "eurent roulé" ],
+  "futurAnterieur": [ "aurai roulé", "auras roulé", "aura roulé", "aurons roulé", "aurez roulé", "auront roulé" ],
+  "subjonctifPresent": [ "roule", "roules", "roule", "roulions", "rouliez", "roulent" ],
+  "subjonctifImparfait": [ "roulasse", "roulasses", "roulât", "roulassions", "roulassiez", "roulassent" ],
+  "subjonctifPasse": [ "aie roulé", "aies roulé", "ait roulé", "ayons roulé", "ayez roulé", "aient roulé" ],
+  "subjonctifPlusQueParfait": [ "eusse roulé", "eusses roulé", "eût roulé", "eussions roulé", "eussiez roulé", "eussent roulé" ],
+  "conditionnelPresent": [ "roulerais", "roulerais", "roulerait", "roulerions", "rouleriez", "rouleraient" ],
+  "conditionnelPasse": [ "aurais roulé", "aurais roulé", "aurait roulé", "aurions roulé", "auriez roulé", "auraient roulé" ],
+  "conditionnelPasseII": [ "eusse roulé", "eusses roulé", "eût roulé", "eussions roulé", "eussiez roulé", "eussent roulé" ],
+  "imperatif": [ "–", "roule !", "–", "roulons !", "roulez !", "–" ],
+  "imperatifPasse": [ "–", "aie roulé !", "–", "ayons roulé !", "ayez roulé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se verser",
+  "participePresent": "se versant",
+  "participePasse": "versé",
+  "present": [ "me verse", "te verses", "se verse", "nous versons", "vous versez", "se versent" ],
+  "imparfait": [ "me versais", "te versais", "se versait", "nous versions", "vous versiez", "se versaient" ],
+  "passeSimple": [ "me versai", "te versas", "se versa", "nous versâmes", "vous versâtes", "se versèrent" ],
+  "futurSimple": [ "me verserai", "te verseras", "se versera", "nous verserons", "vous verserez", "se verseront" ],
+  "passeCompose": [ "me suis versé(e)", "t'es versé(e)", "s'est versé(e)", "nous sommes versé(e)s", "vous êtes versé(e)(s)", "se sont versé(e)s" ],
+  "plusQueParfait": [ "m'étais versé(e)", "t'étais versé(e)", "s'était versé(e)", "nous étions versé(e)s", "vous étiez versé(e)(s)", "s'étaient versé(e)s" ],
+  "passeAnterieur": [ "me fus versé(e)", "te fus versé(e)", "se fut versé(e)", "nous fûmes versé(e)s", "vous fûtes versé(e)(s)", "se furent versé(e)s" ],
+  "futurAnterieur": [ "me serai versé(e)", "te seras versé(e)", "se sera versé(e)", "nous serons versé(e)s", "vous serez versé(e)(s)", "se seront versé(e)s" ],
+  "subjonctifPresent": [ "me verse", "te verses", "se verse", "nous versions", "vous versiez", "se versent" ],
+  "subjonctifImparfait": [ "me versasse", "te versasses", "se versât", "nous versassions", "vous versassiez", "se versassent" ],
+  "subjonctifPasse": [ "me sois versé(e)", "te sois versé(e)", "se soit versé(e)", "nous soyons versé(e)s", "vous soyez versé(e)(s)", "se soient versé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse versé(e)", "te fusses versé(e)", "se fût versé(e)", "nous fussions versé(e)s", "vous fussiez versé(e)(s)", "se fussent versé(e)s" ],
+  "conditionnelPresent": [ "me verserais", "te verserais", "se verserait", "nous verserions", "vous verseriez", "se verseraient" ],
+  "conditionnelPasse": [ "me serais versé(e)", "te serais versé(e)", "se serait versé(e)", "nous serions versé(e)s", "vous seriez versé(e)(s)", "se seraient versé(e)s" ],
+  "conditionnelPasseII": [ "me fusse versé(e)", "te fusses versé(e)", "se fût versé(e)", "nous fussions versé(e)s", "vous fussiez versé(e)(s)", "se fussent versé(e)s" ],
+  "imperatif": [ "–", "verse-toi !", "–", "versons-nous !", "versez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

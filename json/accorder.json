@@ -1,0 +1,22 @@
+{
+  "infinitif": "accorder",
+  "participePresent": "accordant",
+  "participePasse": "accordé",
+  "present": [ "accorde", "accordes", "accorde", "accordons", "accordez", "accordent" ],
+  "imparfait": [ "accordais", "accordais", "accordait", "accordions", "accordiez", "accordaient" ],
+  "passeSimple": [ "accordai", "accordas", "accorda", "accordâmes", "accordâtes", "accordèrent" ],
+  "futurSimple": [ "accorderai", "accorderas", "accordera", "accorderons", "accorderez", "accorderont" ],
+  "passeCompose": [ "ai accordé", "as accordé", "a accordé", "avons accordé", "avez accordé", "ont accordé" ],
+  "plusQueParfait": [ "avais accordé", "avais accordé", "avait accordé", "avions accordé", "aviez accordé", "avaient accordé" ],
+  "passeAnterieur": [ "eus accordé", "eus accordé", "eut accordé", "eûmes accordé", "eûtes accordé", "eurent accordé" ],
+  "futurAnterieur": [ "aurai accordé", "auras accordé", "aura accordé", "aurons accordé", "aurez accordé", "auront accordé" ],
+  "subjonctifPresent": [ "accorde", "accordes", "accorde", "accordions", "accordiez", "accordent" ],
+  "subjonctifImparfait": [ "accordasse", "accordasses", "accordât", "accordassions", "accordassiez", "accordassent" ],
+  "subjonctifPasse": [ "aie accordé", "aies accordé", "ait accordé", "ayons accordé", "ayez accordé", "aient accordé" ],
+  "subjonctifPlusQueParfait": [ "eusse accordé", "eusses accordé", "eût accordé", "eussions accordé", "eussiez accordé", "eussent accordé" ],
+  "conditionnelPresent": [ "accorderais", "accorderais", "accorderait", "accorderions", "accorderiez", "accorderaient" ],
+  "conditionnelPasse": [ "aurais accordé", "aurais accordé", "aurait accordé", "aurions accordé", "auriez accordé", "auraient accordé" ],
+  "conditionnelPasseII": [ "eusse accordé", "eusses accordé", "eût accordé", "eussions accordé", "eussiez accordé", "eussent accordé" ],
+  "imperatif": [ "–", "accorde !", "–", "accordons !", "accordez !", "–" ],
+  "imperatifPasse": [ "–", "aie accordé !", "–", "ayons accordé !", "ayez accordé !", "–" ]
+}

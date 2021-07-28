@@ -1,0 +1,22 @@
+{
+  "infinitif": "composer",
+  "participePresent": "composant",
+  "participePasse": "composé",
+  "present": [ "compose", "composes", "compose", "composons", "composez", "composent" ],
+  "imparfait": [ "composais", "composais", "composait", "composions", "composiez", "composaient" ],
+  "passeSimple": [ "composai", "composas", "composa", "composâmes", "composâtes", "composèrent" ],
+  "futurSimple": [ "composerai", "composeras", "composera", "composerons", "composerez", "composeront" ],
+  "passeCompose": [ "ai composé", "as composé", "a composé", "avons composé", "avez composé", "ont composé" ],
+  "plusQueParfait": [ "avais composé", "avais composé", "avait composé", "avions composé", "aviez composé", "avaient composé" ],
+  "passeAnterieur": [ "eus composé", "eus composé", "eut composé", "eûmes composé", "eûtes composé", "eurent composé" ],
+  "futurAnterieur": [ "aurai composé", "auras composé", "aura composé", "aurons composé", "aurez composé", "auront composé" ],
+  "subjonctifPresent": [ "compose", "composes", "compose", "composions", "composiez", "composent" ],
+  "subjonctifImparfait": [ "composasse", "composasses", "composât", "composassions", "composassiez", "composassent" ],
+  "subjonctifPasse": [ "aie composé", "aies composé", "ait composé", "ayons composé", "ayez composé", "aient composé" ],
+  "subjonctifPlusQueParfait": [ "eusse composé", "eusses composé", "eût composé", "eussions composé", "eussiez composé", "eussent composé" ],
+  "conditionnelPresent": [ "composerais", "composerais", "composerait", "composerions", "composeriez", "composeraient" ],
+  "conditionnelPasse": [ "aurais composé", "aurais composé", "aurait composé", "aurions composé", "auriez composé", "auraient composé" ],
+  "conditionnelPasseII": [ "eusse composé", "eusses composé", "eût composé", "eussions composé", "eussiez composé", "eussent composé" ],
+  "imperatif": [ "–", "compose !", "–", "composons !", "composez !", "–" ],
+  "imperatifPasse": [ "–", "aie composé !", "–", "ayons composé !", "ayez composé !", "–" ]
+}

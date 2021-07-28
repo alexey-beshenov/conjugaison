@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'allumer",
+  "participePresent": "s'allumant",
+  "participePasse": "allumé",
+  "present": [ "m'allume", "t'allumes", "s'allume", "nous allumons", "vous allumez", "s'allument" ],
+  "imparfait": [ "m'allumais", "t'allumais", "s'allumait", "nous allumions", "vous allumiez", "s'allumaient" ],
+  "passeSimple": [ "m'allumai", "t'allumas", "s'alluma", "nous allumâmes", "vous allumâtes", "s'allumèrent" ],
+  "futurSimple": [ "m'allumerai", "t'allumeras", "s'allumera", "nous allumerons", "vous allumerez", "s'allumeront" ],
+  "passeCompose": [ "me suis allumé(e)", "t'es allumé(e)", "s'est allumé(e)", "nous sommes allumé(e)s", "vous êtes allumé(e)(s)", "se sont allumé(e)s" ],
+  "plusQueParfait": [ "m'étais allumé(e)", "t'étais allumé(e)", "s'était allumé(e)", "nous étions allumé(e)s", "vous étiez allumé(e)(s)", "s'étaient allumé(e)s" ],
+  "passeAnterieur": [ "me fus allumé(e)", "te fus allumé(e)", "se fut allumé(e)", "nous fûmes allumé(e)s", "vous fûtes allumé(e)(s)", "se furent allumé(e)s" ],
+  "futurAnterieur": [ "me serai allumé(e)", "te seras allumé(e)", "se sera allumé(e)", "nous serons allumé(e)s", "vous serez allumé(e)(s)", "se seront allumé(e)s" ],
+  "subjonctifPresent": [ "m'allume", "t'allumes", "s'allume", "nous allumions", "vous allumiez", "s'allument" ],
+  "subjonctifImparfait": [ "m'allumasse", "t'allumasses", "s'allumât", "nous allumassions", "vous allumassiez", "s'allumassent" ],
+  "subjonctifPasse": [ "me sois allumé(e)", "te sois allumé(e)", "se soit allumé(e)", "nous soyons allumé(e)s", "vous soyez allumé(e)(s)", "se soient allumé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse allumé(e)", "te fusses allumé(e)", "se fût allumé(e)", "nous fussions allumé(e)s", "vous fussiez allumé(e)(s)", "se fussent allumé(e)s" ],
+  "conditionnelPresent": [ "m'allumerais", "t'allumerais", "s'allumerait", "nous allumerions", "vous allumeriez", "s'allumeraient" ],
+  "conditionnelPasse": [ "me serais allumé(e)", "te serais allumé(e)", "se serait allumé(e)", "nous serions allumé(e)s", "vous seriez allumé(e)(s)", "se seraient allumé(e)s" ],
+  "conditionnelPasseII": [ "me fusse allumé(e)", "te fusses allumé(e)", "se fût allumé(e)", "nous fussions allumé(e)s", "vous fussiez allumé(e)(s)", "se fussent allumé(e)s" ],
+  "imperatif": [ "–", "allume-toi !", "–", "allumons-nous !", "allumez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

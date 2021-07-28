@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'enfuir",
+  "participePresent": "s'enfuyant",
+  "participePasse": "enfui",
+  "present": [ "m'enfuis", "t'enfuis", "s'enfuit", "nous enfuyons", "vous enfuyez", "s'enfuient" ],
+  "imparfait": [ "m'enfuyais", "t'enfuyais", "s'enfuyait", "nous enfuyions", "vous enfuyiez", "s'enfuyaient" ],
+  "passeSimple": [ "m'enfuis", "t'enfuis", "s'enfuit", "nous enfuîmes", "vous enfuîtes", "s'enfuirent" ],
+  "futurSimple": [ "m'enfuirai", "t'enfuiras", "s'enfuira", "nous enfuirons", "vous enfuirez", "s'enfuiront" ],
+  "passeCompose": [ "me suis enfui(e)", "t'es enfui(e)", "s'est enfui(e)", "nous sommes enfui(e)s", "vous êtes enfui(e)(s)", "se sont enfui(e)s" ],
+  "plusQueParfait": [ "m'étais enfui(e)", "t'étais enfui(e)", "s'était enfui(e)", "nous étions enfui(e)s", "vous étiez enfui(e)(s)", "s'étaient enfui(e)s" ],
+  "passeAnterieur": [ "me fus enfui(e)", "te fus enfui(e)", "se fut enfui(e)", "nous fûmes enfui(e)s", "vous fûtes enfui(e)(s)", "se furent enfui(e)s" ],
+  "futurAnterieur": [ "me serai enfui(e)", "te seras enfui(e)", "se sera enfui(e)", "nous serons enfui(e)s", "vous serez enfui(e)(s)", "se seront enfui(e)s" ],
+  "subjonctifPresent": [ "m'enfuie", "t'enfuies", "s'enfuie", "nous enfuyions", "vous enfuyiez", "s'enfuient" ],
+  "subjonctifImparfait": [ "m'enfuisse", "t'enfuisses", "s'enfuît", "nous enfuissions", "vous enfuissiez", "s'enfuissent" ],
+  "subjonctifPasse": [ "me sois enfui(e)", "te sois enfui(e)", "se soit enfui(e)", "nous soyons enfui(e)s", "vous soyez enfui(e)(s)", "se soient enfui(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse enfui(e)", "te fusses enfui(e)", "se fût enfui(e)", "nous fussions enfui(e)s", "vous fussiez enfui(e)(s)", "se fussent enfui(e)s" ],
+  "conditionnelPresent": [ "m'enfuirais", "t'enfuirais", "s'enfuirait", "nous enfuirions", "vous enfuiriez", "s'enfuiraient" ],
+  "conditionnelPasse": [ "me serais enfui(e)", "te serais enfui(e)", "se serait enfui(e)", "nous serions enfui(e)s", "vous seriez enfui(e)(s)", "se seraient enfui(e)s" ],
+  "conditionnelPasseII": [ "me fusse enfui(e)", "te fusses enfui(e)", "se fût enfui(e)", "nous fussions enfui(e)s", "vous fussiez enfui(e)(s)", "se fussent enfui(e)s" ],
+  "imperatif": [ "–", "enfuis-toi !", "–", "enfuyons-nous !", "enfuyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

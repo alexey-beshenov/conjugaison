@@ -1,0 +1,22 @@
+{
+  "infinitif": "se soutenir",
+  "participePresent": "se soutenant",
+  "participePasse": "soutenu",
+  "present": [ "me soutiens", "te soutiens", "se soutient", "nous soutenons", "vous soutenez", "se soutiennent" ],
+  "imparfait": [ "me soutenais", "te soutenais", "se soutenait", "nous soutenions", "vous souteniez", "se soutenaient" ],
+  "passeSimple": [ "me soutins", "te soutins", "se soutint", "nous soutînmes", "vous soutîntes", "se soutinrent" ],
+  "futurSimple": [ "me soutiendrai", "te soutiendras", "se soutiendra", "nous soutiendrons", "vous soutiendrez", "se soutiendront" ],
+  "passeCompose": [ "me suis soutenu(e)", "t'es soutenu(e)", "s'est soutenu(e)", "nous sommes soutenu(e)s", "vous êtes soutenu(e)(s)", "se sont soutenu(e)s" ],
+  "plusQueParfait": [ "m'étais soutenu(e)", "t'étais soutenu(e)", "s'était soutenu(e)", "nous étions soutenu(e)s", "vous étiez soutenu(e)(s)", "s'étaient soutenu(e)s" ],
+  "passeAnterieur": [ "me fus soutenu(e)", "te fus soutenu(e)", "se fut soutenu(e)", "nous fûmes soutenu(e)s", "vous fûtes soutenu(e)(s)", "se furent soutenu(e)s" ],
+  "futurAnterieur": [ "me serai soutenu(e)", "te seras soutenu(e)", "se sera soutenu(e)", "nous serons soutenu(e)s", "vous serez soutenu(e)(s)", "se seront soutenu(e)s" ],
+  "subjonctifPresent": [ "me soutienne", "te soutiennes", "se soutienne", "nous soutenions", "vous souteniez", "se soutiennent" ],
+  "subjonctifImparfait": [ "me soutinsse", "te soutinsses", "se soutînt", "nous soutinssions", "vous soutinssiez", "se soutinssent" ],
+  "subjonctifPasse": [ "me sois soutenu(e)", "te sois soutenu(e)", "se soit soutenu(e)", "nous soyons soutenu(e)s", "vous soyez soutenu(e)(s)", "se soient soutenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse soutenu(e)", "te fusses soutenu(e)", "se fût soutenu(e)", "nous fussions soutenu(e)s", "vous fussiez soutenu(e)(s)", "se fussent soutenu(e)s" ],
+  "conditionnelPresent": [ "me soutiendrais", "te soutiendrais", "se soutiendrait", "nous soutiendrions", "vous soutiendriez", "se soutiendraient" ],
+  "conditionnelPasse": [ "me serais soutenu(e)", "te serais soutenu(e)", "se serait soutenu(e)", "nous serions soutenu(e)s", "vous seriez soutenu(e)(s)", "se seraient soutenu(e)s" ],
+  "conditionnelPasseII": [ "me fusse soutenu(e)", "te fusses soutenu(e)", "se fût soutenu(e)", "nous fussions soutenu(e)s", "vous fussiez soutenu(e)(s)", "se fussent soutenu(e)s" ],
+  "imperatif": [ "–", "soutiens-toi !", "–", "soutenons-nous !", "soutenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

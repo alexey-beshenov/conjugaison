@@ -1,0 +1,22 @@
+{
+  "infinitif": "se voir",
+  "participePresent": "se voyant",
+  "participePasse": "vu",
+  "present": [ "me vois", "te vois", "se voit", "nous voyons", "vous voyez", "se voient" ],
+  "imparfait": [ "me voyais", "te voyais", "se voyait", "nous voyions", "vous voyiez", "se voyaient" ],
+  "passeSimple": [ "me vis", "te vis", "se vit", "nous vîmes", "vous vîtes", "se virent" ],
+  "futurSimple": [ "me verrai", "te verras", "se verra", "nous verrons", "vous verrez", "se verront" ],
+  "passeCompose": [ "me suis vu(e)", "t'es vu(e)", "s'est vu(e)", "nous sommes vu(e)s", "vous êtes vu(e)(s)", "se sont vu(e)s" ],
+  "plusQueParfait": [ "m'étais vu(e)", "t'étais vu(e)", "s'était vu(e)", "nous étions vu(e)s", "vous étiez vu(e)(s)", "s'étaient vu(e)s" ],
+  "passeAnterieur": [ "me fus vu(e)", "te fus vu(e)", "se fut vu(e)", "nous fûmes vu(e)s", "vous fûtes vu(e)(s)", "se furent vu(e)s" ],
+  "futurAnterieur": [ "me serai vu(e)", "te seras vu(e)", "se sera vu(e)", "nous serons vu(e)s", "vous serez vu(e)(s)", "se seront vu(e)s" ],
+  "subjonctifPresent": [ "me voie", "te voies", "se voie", "nous voyions", "vous voyiez", "se voient" ],
+  "subjonctifImparfait": [ "me visse", "te visses", "se vît", "nous vissions", "vous vissiez", "se vissent" ],
+  "subjonctifPasse": [ "me sois vu(e)", "te sois vu(e)", "se soit vu(e)", "nous soyons vu(e)s", "vous soyez vu(e)(s)", "se soient vu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse vu(e)", "te fusses vu(e)", "se fût vu(e)", "nous fussions vu(e)s", "vous fussiez vu(e)(s)", "se fussent vu(e)s" ],
+  "conditionnelPresent": [ "me verrais", "te verrais", "se verrait", "nous verrions", "vous verriez", "se verraient" ],
+  "conditionnelPasse": [ "me serais vu(e)", "te serais vu(e)", "se serait vu(e)", "nous serions vu(e)s", "vous seriez vu(e)(s)", "se seraient vu(e)s" ],
+  "conditionnelPasseII": [ "me fusse vu(e)", "te fusses vu(e)", "se fût vu(e)", "nous fussions vu(e)s", "vous fussiez vu(e)(s)", "se fussent vu(e)s" ],
+  "imperatif": [ "–", "vois-toi !", "–", "voyons-nous !", "voyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

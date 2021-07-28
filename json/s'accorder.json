@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'accorder",
+  "participePresent": "s'accordant",
+  "participePasse": "accordé",
+  "present": [ "m'accorde", "t'accordes", "s'accorde", "nous accordons", "vous accordez", "s'accordent" ],
+  "imparfait": [ "m'accordais", "t'accordais", "s'accordait", "nous accordions", "vous accordiez", "s'accordaient" ],
+  "passeSimple": [ "m'accordai", "t'accordas", "s'accorda", "nous accordâmes", "vous accordâtes", "s'accordèrent" ],
+  "futurSimple": [ "m'accorderai", "t'accorderas", "s'accordera", "nous accorderons", "vous accorderez", "s'accorderont" ],
+  "passeCompose": [ "me suis accordé(e)", "t'es accordé(e)", "s'est accordé(e)", "nous sommes accordé(e)s", "vous êtes accordé(e)(s)", "se sont accordé(e)s" ],
+  "plusQueParfait": [ "m'étais accordé(e)", "t'étais accordé(e)", "s'était accordé(e)", "nous étions accordé(e)s", "vous étiez accordé(e)(s)", "s'étaient accordé(e)s" ],
+  "passeAnterieur": [ "me fus accordé(e)", "te fus accordé(e)", "se fut accordé(e)", "nous fûmes accordé(e)s", "vous fûtes accordé(e)(s)", "se furent accordé(e)s" ],
+  "futurAnterieur": [ "me serai accordé(e)", "te seras accordé(e)", "se sera accordé(e)", "nous serons accordé(e)s", "vous serez accordé(e)(s)", "se seront accordé(e)s" ],
+  "subjonctifPresent": [ "m'accorde", "t'accordes", "s'accorde", "nous accordions", "vous accordiez", "s'accordent" ],
+  "subjonctifImparfait": [ "m'accordasse", "t'accordasses", "s'accordât", "nous accordassions", "vous accordassiez", "s'accordassent" ],
+  "subjonctifPasse": [ "me sois accordé(e)", "te sois accordé(e)", "se soit accordé(e)", "nous soyons accordé(e)s", "vous soyez accordé(e)(s)", "se soient accordé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse accordé(e)", "te fusses accordé(e)", "se fût accordé(e)", "nous fussions accordé(e)s", "vous fussiez accordé(e)(s)", "se fussent accordé(e)s" ],
+  "conditionnelPresent": [ "m'accorderais", "t'accorderais", "s'accorderait", "nous accorderions", "vous accorderiez", "s'accorderaient" ],
+  "conditionnelPasse": [ "me serais accordé(e)", "te serais accordé(e)", "se serait accordé(e)", "nous serions accordé(e)s", "vous seriez accordé(e)(s)", "se seraient accordé(e)s" ],
+  "conditionnelPasseII": [ "me fusse accordé(e)", "te fusses accordé(e)", "se fût accordé(e)", "nous fussions accordé(e)s", "vous fussiez accordé(e)(s)", "se fussent accordé(e)s" ],
+  "imperatif": [ "–", "accorde-toi !", "–", "accordons-nous !", "accordez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

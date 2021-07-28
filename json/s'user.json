@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'user",
+  "participePresent": "s'usant",
+  "participePasse": "usé",
+  "present": [ "m'use", "t'uses", "s'use", "nous usons", "vous usez", "s'usent" ],
+  "imparfait": [ "m'usais", "t'usais", "s'usait", "nous usions", "vous usiez", "s'usaient" ],
+  "passeSimple": [ "m'usai", "t'usas", "s'usa", "nous usâmes", "vous usâtes", "s'usèrent" ],
+  "futurSimple": [ "m'userai", "t'useras", "s'usera", "nous userons", "vous userez", "s'useront" ],
+  "passeCompose": [ "me suis usé(e)", "t'es usé(e)", "s'est usé(e)", "nous sommes usé(e)s", "vous êtes usé(e)(s)", "se sont usé(e)s" ],
+  "plusQueParfait": [ "m'étais usé(e)", "t'étais usé(e)", "s'était usé(e)", "nous étions usé(e)s", "vous étiez usé(e)(s)", "s'étaient usé(e)s" ],
+  "passeAnterieur": [ "me fus usé(e)", "te fus usé(e)", "se fut usé(e)", "nous fûmes usé(e)s", "vous fûtes usé(e)(s)", "se furent usé(e)s" ],
+  "futurAnterieur": [ "me serai usé(e)", "te seras usé(e)", "se sera usé(e)", "nous serons usé(e)s", "vous serez usé(e)(s)", "se seront usé(e)s" ],
+  "subjonctifPresent": [ "m'use", "t'uses", "s'use", "nous usions", "vous usiez", "s'usent" ],
+  "subjonctifImparfait": [ "m'usasse", "t'usasses", "s'usât", "nous usassions", "vous usassiez", "s'usassent" ],
+  "subjonctifPasse": [ "me sois usé(e)", "te sois usé(e)", "se soit usé(e)", "nous soyons usé(e)s", "vous soyez usé(e)(s)", "se soient usé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse usé(e)", "te fusses usé(e)", "se fût usé(e)", "nous fussions usé(e)s", "vous fussiez usé(e)(s)", "se fussent usé(e)s" ],
+  "conditionnelPresent": [ "m'userais", "t'userais", "s'userait", "nous userions", "vous useriez", "s'useraient" ],
+  "conditionnelPasse": [ "me serais usé(e)", "te serais usé(e)", "se serait usé(e)", "nous serions usé(e)s", "vous seriez usé(e)(s)", "se seraient usé(e)s" ],
+  "conditionnelPasseII": [ "me fusse usé(e)", "te fusses usé(e)", "se fût usé(e)", "nous fussions usé(e)s", "vous fussiez usé(e)(s)", "se fussent usé(e)s" ],
+  "imperatif": [ "–", "use-toi !", "–", "usons-nous !", "usez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

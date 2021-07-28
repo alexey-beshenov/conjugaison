@@ -1,0 +1,22 @@
+{
+  "infinitif": "souffrir",
+  "participePresent": "souffrant",
+  "participePasse": "souffert",
+  "present": [ "souffre", "souffres", "souffre", "souffrons", "souffrez", "souffrent" ],
+  "imparfait": [ "souffrais", "souffrais", "souffrait", "souffrions", "souffriez", "souffraient" ],
+  "passeSimple": [ "souffris", "souffris", "souffrit", "souffrîmes", "souffrîtes", "souffrirent" ],
+  "futurSimple": [ "souffrirai", "souffriras", "souffrira", "souffrirons", "souffrirez", "souffriront" ],
+  "passeCompose": [ "ai souffert", "as souffert", "a souffert", "avons souffert", "avez souffert", "ont souffert" ],
+  "plusQueParfait": [ "avais souffert", "avais souffert", "avait souffert", "avions souffert", "aviez souffert", "avaient souffert" ],
+  "passeAnterieur": [ "eus souffert", "eus souffert", "eut souffert", "eûmes souffert", "eûtes souffert", "eurent souffert" ],
+  "futurAnterieur": [ "aurai souffert", "auras souffert", "aura souffert", "aurons souffert", "aurez souffert", "auront souffert" ],
+  "subjonctifPresent": [ "souffre", "souffres", "souffre", "souffrions", "souffriez", "souffrent" ],
+  "subjonctifImparfait": [ "souffrisse", "souffrisses", "souffrît", "souffrissions", "souffrissiez", "souffrissent" ],
+  "subjonctifPasse": [ "aie souffert", "aies souffert", "ait souffert", "ayons souffert", "ayez souffert", "aient souffert" ],
+  "subjonctifPlusQueParfait": [ "eusse souffert", "eusses souffert", "eût souffert", "eussions souffert", "eussiez souffert", "eussent souffert" ],
+  "conditionnelPresent": [ "souffrirais", "souffrirais", "souffrirait", "souffririons", "souffririez", "souffriraient" ],
+  "conditionnelPasse": [ "aurais souffert", "aurais souffert", "aurait souffert", "aurions souffert", "auriez souffert", "auraient souffert" ],
+  "conditionnelPasseII": [ "eusse souffert", "eusses souffert", "eût souffert", "eussions souffert", "eussiez souffert", "eussent souffert" ],
+  "imperatif": [ "–", "souffre !", "–", "souffrons !", "souffrez !", "–" ],
+  "imperatifPasse": [ "–", "aie souffert !", "–", "ayons souffert !", "ayez souffert !", "–" ]
+}

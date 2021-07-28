@@ -1,0 +1,22 @@
+{
+  "infinitif": "apercevoir",
+  "participePresent": "apercevant",
+  "participePasse": "aperçu",
+  "present": [ "aperçois", "aperçois", "aperçoit", "apercevons", "apercevez", "aperçoivent" ],
+  "imparfait": [ "apercevais", "apercevais", "apercevait", "apercevions", "aperceviez", "apercevaient" ],
+  "passeSimple": [ "aperçus", "aperçus", "aperçut", "aperçûmes", "aperçûtes", "aperçurent" ],
+  "futurSimple": [ "apercevrai", "apercevras", "apercevra", "apercevrons", "apercevrez", "apercevront" ],
+  "passeCompose": [ "ai aperçu", "as aperçu", "a aperçu", "avons aperçu", "avez aperçu", "ont aperçu" ],
+  "plusQueParfait": [ "avais aperçu", "avais aperçu", "avait aperçu", "avions aperçu", "aviez aperçu", "avaient aperçu" ],
+  "passeAnterieur": [ "eus aperçu", "eus aperçu", "eut aperçu", "eûmes aperçu", "eûtes aperçu", "eurent aperçu" ],
+  "futurAnterieur": [ "aurai aperçu", "auras aperçu", "aura aperçu", "aurons aperçu", "aurez aperçu", "auront aperçu" ],
+  "subjonctifPresent": [ "aperçoive", "aperçoives", "aperçoive", "apercevions", "aperceviez", "aperçoivent" ],
+  "subjonctifImparfait": [ "aperçusse", "aperçusses", "aperçût", "aperçussions", "aperçussiez", "aperçussent" ],
+  "subjonctifPasse": [ "aie aperçu", "aies aperçu", "ait aperçu", "ayons aperçu", "ayez aperçu", "aient aperçu" ],
+  "subjonctifPlusQueParfait": [ "eusse aperçu", "eusses aperçu", "eût aperçu", "eussions aperçu", "eussiez aperçu", "eussent aperçu" ],
+  "conditionnelPresent": [ "apercevrais", "apercevrais", "apercevrait", "apercevrions", "apercevriez", "apercevraient" ],
+  "conditionnelPasse": [ "aurais aperçu", "aurais aperçu", "aurait aperçu", "aurions aperçu", "auriez aperçu", "auraient aperçu" ],
+  "conditionnelPasseII": [ "eusse aperçu", "eusses aperçu", "eût aperçu", "eussions aperçu", "eussiez aperçu", "eussent aperçu" ],
+  "imperatif": [ "–", "aperçois !", "–", "apercevons !", "apercevez !", "–" ],
+  "imperatifPasse": [ "–", "aie aperçu !", "–", "ayons aperçu !", "ayez aperçu !", "–" ]
+}

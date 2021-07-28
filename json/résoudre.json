@@ -1,0 +1,22 @@
+{
+  "infinitif": "résoudre",
+  "participePresent": "résolvant",
+  "participePasse": "résolu",
+  "present": [ "résous", "résous", "résout", "résolvons", "résolvez", "résolvent" ],
+  "imparfait": [ "résolvais", "résolvais", "résolvait", "résolvions", "résolviez", "résolvaient" ],
+  "passeSimple": [ "résolus", "résolus", "résolut", "résolûmes", "résolûtes", "résolurent" ],
+  "futurSimple": [ "résoudrai", "résoudras", "résoudra", "résoudrons", "résoudrez", "résoudront" ],
+  "passeCompose": [ "ai résolu", "as résolu", "a résolu", "avons résolu", "avez résolu", "ont résolu" ],
+  "plusQueParfait": [ "avais résolu", "avais résolu", "avait résolu", "avions résolu", "aviez résolu", "avaient résolu" ],
+  "passeAnterieur": [ "eus résolu", "eus résolu", "eut résolu", "eûmes résolu", "eûtes résolu", "eurent résolu" ],
+  "futurAnterieur": [ "aurai résolu", "auras résolu", "aura résolu", "aurons résolu", "aurez résolu", "auront résolu" ],
+  "subjonctifPresent": [ "résolve", "résolves", "résolve", "résolvions", "résolviez", "résolvent" ],
+  "subjonctifImparfait": [ "résolusse", "résolusses", "résolût", "résolussions", "résolussiez", "résolussent" ],
+  "subjonctifPasse": [ "aie résolu", "aies résolu", "ait résolu", "ayons résolu", "ayez résolu", "aient résolu" ],
+  "subjonctifPlusQueParfait": [ "eusse résolu", "eusses résolu", "eût résolu", "eussions résolu", "eussiez résolu", "eussent résolu" ],
+  "conditionnelPresent": [ "résoudrais", "résoudrais", "résoudrait", "résoudrions", "résoudriez", "résoudraient" ],
+  "conditionnelPasse": [ "aurais résolu", "aurais résolu", "aurait résolu", "aurions résolu", "auriez résolu", "auraient résolu" ],
+  "conditionnelPasseII": [ "eusse résolu", "eusses résolu", "eût résolu", "eussions résolu", "eussiez résolu", "eussent résolu" ],
+  "imperatif": [ "–", "résous !", "–", "résolvons !", "résolvez !", "–" ],
+  "imperatifPasse": [ "–", "aie résolu !", "–", "ayons résolu !", "ayez résolu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se nommer",
+  "participePresent": "se nommant",
+  "participePasse": "nommé",
+  "present": [ "me nomme", "te nommes", "se nomme", "nous nommons", "vous nommez", "se nomment" ],
+  "imparfait": [ "me nommais", "te nommais", "se nommait", "nous nommions", "vous nommiez", "se nommaient" ],
+  "passeSimple": [ "me nommai", "te nommas", "se nomma", "nous nommâmes", "vous nommâtes", "se nommèrent" ],
+  "futurSimple": [ "me nommerai", "te nommeras", "se nommera", "nous nommerons", "vous nommerez", "se nommeront" ],
+  "passeCompose": [ "me suis nommé(e)", "t'es nommé(e)", "s'est nommé(e)", "nous sommes nommé(e)s", "vous êtes nommé(e)(s)", "se sont nommé(e)s" ],
+  "plusQueParfait": [ "m'étais nommé(e)", "t'étais nommé(e)", "s'était nommé(e)", "nous étions nommé(e)s", "vous étiez nommé(e)(s)", "s'étaient nommé(e)s" ],
+  "passeAnterieur": [ "me fus nommé(e)", "te fus nommé(e)", "se fut nommé(e)", "nous fûmes nommé(e)s", "vous fûtes nommé(e)(s)", "se furent nommé(e)s" ],
+  "futurAnterieur": [ "me serai nommé(e)", "te seras nommé(e)", "se sera nommé(e)", "nous serons nommé(e)s", "vous serez nommé(e)(s)", "se seront nommé(e)s" ],
+  "subjonctifPresent": [ "me nomme", "te nommes", "se nomme", "nous nommions", "vous nommiez", "se nomment" ],
+  "subjonctifImparfait": [ "me nommasse", "te nommasses", "se nommât", "nous nommassions", "vous nommassiez", "se nommassent" ],
+  "subjonctifPasse": [ "me sois nommé(e)", "te sois nommé(e)", "se soit nommé(e)", "nous soyons nommé(e)s", "vous soyez nommé(e)(s)", "se soient nommé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse nommé(e)", "te fusses nommé(e)", "se fût nommé(e)", "nous fussions nommé(e)s", "vous fussiez nommé(e)(s)", "se fussent nommé(e)s" ],
+  "conditionnelPresent": [ "me nommerais", "te nommerais", "se nommerait", "nous nommerions", "vous nommeriez", "se nommeraient" ],
+  "conditionnelPasse": [ "me serais nommé(e)", "te serais nommé(e)", "se serait nommé(e)", "nous serions nommé(e)s", "vous seriez nommé(e)(s)", "se seraient nommé(e)s" ],
+  "conditionnelPasseII": [ "me fusse nommé(e)", "te fusses nommé(e)", "se fût nommé(e)", "nous fussions nommé(e)s", "vous fussiez nommé(e)(s)", "se fussent nommé(e)s" ],
+  "imperatif": [ "–", "nomme-toi !", "–", "nommons-nous !", "nommez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

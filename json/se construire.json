@@ -1,0 +1,22 @@
+{
+  "infinitif": "se construire",
+  "participePresent": "se construisant",
+  "participePasse": "construit",
+  "present": [ "me construis", "te construis", "se construit", "nous construisons", "vous construisez", "se construisent" ],
+  "imparfait": [ "me construisais", "te construisais", "se construisait", "nous construisions", "vous construisiez", "se construisaient" ],
+  "passeSimple": [ "me construisis", "te construisis", "se construisit", "nous construisîmes", "vous construisîtes", "se construisirent" ],
+  "futurSimple": [ "me construirai", "te construiras", "se construira", "nous construirons", "vous construirez", "se construiront" ],
+  "passeCompose": [ "me suis construit(e)", "t'es construit(e)", "s'est construit(e)", "nous sommes construit(e)s", "vous êtes construit(e)(s)", "se sont construit(e)s" ],
+  "plusQueParfait": [ "m'étais construit(e)", "t'étais construit(e)", "s'était construit(e)", "nous étions construit(e)s", "vous étiez construit(e)(s)", "s'étaient construit(e)s" ],
+  "passeAnterieur": [ "me fus construit(e)", "te fus construit(e)", "se fut construit(e)", "nous fûmes construit(e)s", "vous fûtes construit(e)(s)", "se furent construit(e)s" ],
+  "futurAnterieur": [ "me serai construit(e)", "te seras construit(e)", "se sera construit(e)", "nous serons construit(e)s", "vous serez construit(e)(s)", "se seront construit(e)s" ],
+  "subjonctifPresent": [ "me construise", "te construises", "se construise", "nous construisions", "vous construisiez", "se construisent" ],
+  "subjonctifImparfait": [ "me construisisse", "te construisisses", "se construisît", "nous construisissions", "vous construisissiez", "se construisissent" ],
+  "subjonctifPasse": [ "me sois construit(e)", "te sois construit(e)", "se soit construit(e)", "nous soyons construit(e)s", "vous soyez construit(e)(s)", "se soient construit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse construit(e)", "te fusses construit(e)", "se fût construit(e)", "nous fussions construit(e)s", "vous fussiez construit(e)(s)", "se fussent construit(e)s" ],
+  "conditionnelPresent": [ "me construirais", "te construirais", "se construirait", "nous construirions", "vous construiriez", "se construiraient" ],
+  "conditionnelPasse": [ "me serais construit(e)", "te serais construit(e)", "se serait construit(e)", "nous serions construit(e)s", "vous seriez construit(e)(s)", "se seraient construit(e)s" ],
+  "conditionnelPasseII": [ "me fusse construit(e)", "te fusses construit(e)", "se fût construit(e)", "nous fussions construit(e)s", "vous fussiez construit(e)(s)", "se fussent construit(e)s" ],
+  "imperatif": [ "–", "construis-toi !", "–", "construisons-nous !", "construisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

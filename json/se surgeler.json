@@ -1,0 +1,22 @@
+{
+  "infinitif": "se surgeler",
+  "participePresent": "se surgelant",
+  "participePasse": "surgelé",
+  "present": [ "me surgèle", "te surgèles", "se surgèle", "nous surgelons", "vous surgelez", "se surgèlent" ],
+  "imparfait": [ "me surgelais", "te surgelais", "se surgelait", "nous surgelions", "vous surgeliez", "se surgelaient" ],
+  "passeSimple": [ "me surgelai", "te surgelas", "se surgela", "nous surgelâmes", "vous surgelâtes", "se surgelèrent" ],
+  "futurSimple": [ "me surgèlerai", "te surgèleras", "se surgèlera", "nous surgèlerons", "vous surgèlerez", "se surgèleront" ],
+  "passeCompose": [ "me suis surgelé(e)", "t'es surgelé(e)", "s'est surgelé(e)", "nous sommes surgelé(e)s", "vous êtes surgelé(e)(s)", "se sont surgelé(e)s" ],
+  "plusQueParfait": [ "m'étais surgelé(e)", "t'étais surgelé(e)", "s'était surgelé(e)", "nous étions surgelé(e)s", "vous étiez surgelé(e)(s)", "s'étaient surgelé(e)s" ],
+  "passeAnterieur": [ "me fus surgelé(e)", "te fus surgelé(e)", "se fut surgelé(e)", "nous fûmes surgelé(e)s", "vous fûtes surgelé(e)(s)", "se furent surgelé(e)s" ],
+  "futurAnterieur": [ "me serai surgelé(e)", "te seras surgelé(e)", "se sera surgelé(e)", "nous serons surgelé(e)s", "vous serez surgelé(e)(s)", "se seront surgelé(e)s" ],
+  "subjonctifPresent": [ "me surgèle", "te surgèles", "se surgèle", "nous surgelions", "vous surgeliez", "se surgèlent" ],
+  "subjonctifImparfait": [ "me surgelasse", "te surgelasses", "se surgelât", "nous surgelassions", "vous surgelassiez", "se surgelassent" ],
+  "subjonctifPasse": [ "me sois surgelé(e)", "te sois surgelé(e)", "se soit surgelé(e)", "nous soyons surgelé(e)s", "vous soyez surgelé(e)(s)", "se soient surgelé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse surgelé(e)", "te fusses surgelé(e)", "se fût surgelé(e)", "nous fussions surgelé(e)s", "vous fussiez surgelé(e)(s)", "se fussent surgelé(e)s" ],
+  "conditionnelPresent": [ "me surgèlerais", "te surgèlerais", "se surgèlerait", "nous surgèlerions", "vous surgèleriez", "se surgèleraient" ],
+  "conditionnelPasse": [ "me serais surgelé(e)", "te serais surgelé(e)", "se serait surgelé(e)", "nous serions surgelé(e)s", "vous seriez surgelé(e)(s)", "se seraient surgelé(e)s" ],
+  "conditionnelPasseII": [ "me fusse surgelé(e)", "te fusses surgelé(e)", "se fût surgelé(e)", "nous fussions surgelé(e)s", "vous fussiez surgelé(e)(s)", "se fussent surgelé(e)s" ],
+  "imperatif": [ "–", "surgèle-toi !", "–", "surgelons-nous !", "surgelez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

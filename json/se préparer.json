@@ -1,0 +1,22 @@
+{
+  "infinitif": "se préparer",
+  "participePresent": "se préparant",
+  "participePasse": "préparé",
+  "present": [ "me prépare", "te prépares", "se prépare", "nous préparons", "vous préparez", "se préparent" ],
+  "imparfait": [ "me préparais", "te préparais", "se préparait", "nous préparions", "vous prépariez", "se préparaient" ],
+  "passeSimple": [ "me préparai", "te préparas", "se prépara", "nous préparâmes", "vous préparâtes", "se préparèrent" ],
+  "futurSimple": [ "me préparerai", "te prépareras", "se préparera", "nous préparerons", "vous préparerez", "se prépareront" ],
+  "passeCompose": [ "me suis préparé(e)", "t'es préparé(e)", "s'est préparé(e)", "nous sommes préparé(e)s", "vous êtes préparé(e)(s)", "se sont préparé(e)s" ],
+  "plusQueParfait": [ "m'étais préparé(e)", "t'étais préparé(e)", "s'était préparé(e)", "nous étions préparé(e)s", "vous étiez préparé(e)(s)", "s'étaient préparé(e)s" ],
+  "passeAnterieur": [ "me fus préparé(e)", "te fus préparé(e)", "se fut préparé(e)", "nous fûmes préparé(e)s", "vous fûtes préparé(e)(s)", "se furent préparé(e)s" ],
+  "futurAnterieur": [ "me serai préparé(e)", "te seras préparé(e)", "se sera préparé(e)", "nous serons préparé(e)s", "vous serez préparé(e)(s)", "se seront préparé(e)s" ],
+  "subjonctifPresent": [ "me prépare", "te prépares", "se prépare", "nous préparions", "vous prépariez", "se préparent" ],
+  "subjonctifImparfait": [ "me préparasse", "te préparasses", "se préparât", "nous préparassions", "vous préparassiez", "se préparassent" ],
+  "subjonctifPasse": [ "me sois préparé(e)", "te sois préparé(e)", "se soit préparé(e)", "nous soyons préparé(e)s", "vous soyez préparé(e)(s)", "se soient préparé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse préparé(e)", "te fusses préparé(e)", "se fût préparé(e)", "nous fussions préparé(e)s", "vous fussiez préparé(e)(s)", "se fussent préparé(e)s" ],
+  "conditionnelPresent": [ "me préparerais", "te préparerais", "se préparerait", "nous préparerions", "vous prépareriez", "se prépareraient" ],
+  "conditionnelPasse": [ "me serais préparé(e)", "te serais préparé(e)", "se serait préparé(e)", "nous serions préparé(e)s", "vous seriez préparé(e)(s)", "se seraient préparé(e)s" ],
+  "conditionnelPasseII": [ "me fusse préparé(e)", "te fusses préparé(e)", "se fût préparé(e)", "nous fussions préparé(e)s", "vous fussiez préparé(e)(s)", "se fussent préparé(e)s" ],
+  "imperatif": [ "–", "prépare-toi !", "–", "préparons-nous !", "préparez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

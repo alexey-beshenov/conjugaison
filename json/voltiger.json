@@ -1,0 +1,22 @@
+{
+  "infinitif": "voltiger",
+  "participePresent": "voltigeant",
+  "participePasse": "voltigé",
+  "present": [ "voltige", "voltiges", "voltige", "voltigeons", "voltigez", "voltigent" ],
+  "imparfait": [ "voltigeais", "voltigeais", "voltigeait", "voltigions", "voltigiez", "voltigeaient" ],
+  "passeSimple": [ "voltigeai", "voltigeas", "voltigea", "voltigeâmes", "voltigeâtes", "voltigèrent" ],
+  "futurSimple": [ "voltigerai", "voltigeras", "voltigera", "voltigerons", "voltigerez", "voltigeront" ],
+  "passeCompose": [ "ai voltigé", "as voltigé", "a voltigé", "avons voltigé", "avez voltigé", "ont voltigé" ],
+  "plusQueParfait": [ "avais voltigé", "avais voltigé", "avait voltigé", "avions voltigé", "aviez voltigé", "avaient voltigé" ],
+  "passeAnterieur": [ "eus voltigé", "eus voltigé", "eut voltigé", "eûmes voltigé", "eûtes voltigé", "eurent voltigé" ],
+  "futurAnterieur": [ "aurai voltigé", "auras voltigé", "aura voltigé", "aurons voltigé", "aurez voltigé", "auront voltigé" ],
+  "subjonctifPresent": [ "voltige", "voltiges", "voltige", "voltigions", "voltigiez", "voltigent" ],
+  "subjonctifImparfait": [ "voltigeasse", "voltigeasses", "voltigeât", "voltigeassions", "voltigeassiez", "voltigeassent" ],
+  "subjonctifPasse": [ "aie voltigé", "aies voltigé", "ait voltigé", "ayons voltigé", "ayez voltigé", "aient voltigé" ],
+  "subjonctifPlusQueParfait": [ "eusse voltigé", "eusses voltigé", "eût voltigé", "eussions voltigé", "eussiez voltigé", "eussent voltigé" ],
+  "conditionnelPresent": [ "voltigerais", "voltigerais", "voltigerait", "voltigerions", "voltigeriez", "voltigeraient" ],
+  "conditionnelPasse": [ "aurais voltigé", "aurais voltigé", "aurait voltigé", "aurions voltigé", "auriez voltigé", "auraient voltigé" ],
+  "conditionnelPasseII": [ "eusse voltigé", "eusses voltigé", "eût voltigé", "eussions voltigé", "eussiez voltigé", "eussent voltigé" ],
+  "imperatif": [ "–", "voltige !", "–", "voltigeons !", "voltigez !", "–" ],
+  "imperatifPasse": [ "–", "aie voltigé !", "–", "ayons voltigé !", "ayez voltigé !", "–" ]
+}

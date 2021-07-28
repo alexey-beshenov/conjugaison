@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'exposer",
+  "participePresent": "s'exposant",
+  "participePasse": "exposé",
+  "present": [ "m'expose", "t'exposes", "s'expose", "nous exposons", "vous exposez", "s'exposent" ],
+  "imparfait": [ "m'exposais", "t'exposais", "s'exposait", "nous exposions", "vous exposiez", "s'exposaient" ],
+  "passeSimple": [ "m'exposai", "t'exposas", "s'exposa", "nous exposâmes", "vous exposâtes", "s'exposèrent" ],
+  "futurSimple": [ "m'exposerai", "t'exposeras", "s'exposera", "nous exposerons", "vous exposerez", "s'exposeront" ],
+  "passeCompose": [ "me suis exposé(e)", "t'es exposé(e)", "s'est exposé(e)", "nous sommes exposé(e)s", "vous êtes exposé(e)(s)", "se sont exposé(e)s" ],
+  "plusQueParfait": [ "m'étais exposé(e)", "t'étais exposé(e)", "s'était exposé(e)", "nous étions exposé(e)s", "vous étiez exposé(e)(s)", "s'étaient exposé(e)s" ],
+  "passeAnterieur": [ "me fus exposé(e)", "te fus exposé(e)", "se fut exposé(e)", "nous fûmes exposé(e)s", "vous fûtes exposé(e)(s)", "se furent exposé(e)s" ],
+  "futurAnterieur": [ "me serai exposé(e)", "te seras exposé(e)", "se sera exposé(e)", "nous serons exposé(e)s", "vous serez exposé(e)(s)", "se seront exposé(e)s" ],
+  "subjonctifPresent": [ "m'expose", "t'exposes", "s'expose", "nous exposions", "vous exposiez", "s'exposent" ],
+  "subjonctifImparfait": [ "m'exposasse", "t'exposasses", "s'exposât", "nous exposassions", "vous exposassiez", "s'exposassent" ],
+  "subjonctifPasse": [ "me sois exposé(e)", "te sois exposé(e)", "se soit exposé(e)", "nous soyons exposé(e)s", "vous soyez exposé(e)(s)", "se soient exposé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse exposé(e)", "te fusses exposé(e)", "se fût exposé(e)", "nous fussions exposé(e)s", "vous fussiez exposé(e)(s)", "se fussent exposé(e)s" ],
+  "conditionnelPresent": [ "m'exposerais", "t'exposerais", "s'exposerait", "nous exposerions", "vous exposeriez", "s'exposeraient" ],
+  "conditionnelPasse": [ "me serais exposé(e)", "te serais exposé(e)", "se serait exposé(e)", "nous serions exposé(e)s", "vous seriez exposé(e)(s)", "se seraient exposé(e)s" ],
+  "conditionnelPasseII": [ "me fusse exposé(e)", "te fusses exposé(e)", "se fût exposé(e)", "nous fussions exposé(e)s", "vous fussiez exposé(e)(s)", "se fussent exposé(e)s" ],
+  "imperatif": [ "–", "expose-toi !", "–", "exposons-nous !", "exposez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

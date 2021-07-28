@@ -1,0 +1,22 @@
+{
+  "infinitif": "embrasser",
+  "participePresent": "embrassant",
+  "participePasse": "embrassé",
+  "present": [ "embrasse", "embrasses", "embrasse", "embrassons", "embrassez", "embrassent" ],
+  "imparfait": [ "embrassais", "embrassais", "embrassait", "embrassions", "embrassiez", "embrassaient" ],
+  "passeSimple": [ "embrassai", "embrassas", "embrassa", "embrassâmes", "embrassâtes", "embrassèrent" ],
+  "futurSimple": [ "embrasserai", "embrasseras", "embrassera", "embrasserons", "embrasserez", "embrasseront" ],
+  "passeCompose": [ "ai embrassé", "as embrassé", "a embrassé", "avons embrassé", "avez embrassé", "ont embrassé" ],
+  "plusQueParfait": [ "avais embrassé", "avais embrassé", "avait embrassé", "avions embrassé", "aviez embrassé", "avaient embrassé" ],
+  "passeAnterieur": [ "eus embrassé", "eus embrassé", "eut embrassé", "eûmes embrassé", "eûtes embrassé", "eurent embrassé" ],
+  "futurAnterieur": [ "aurai embrassé", "auras embrassé", "aura embrassé", "aurons embrassé", "aurez embrassé", "auront embrassé" ],
+  "subjonctifPresent": [ "embrasse", "embrasses", "embrasse", "embrassions", "embrassiez", "embrassent" ],
+  "subjonctifImparfait": [ "embrassasse", "embrassasses", "embrassât", "embrassassions", "embrassassiez", "embrassassent" ],
+  "subjonctifPasse": [ "aie embrassé", "aies embrassé", "ait embrassé", "ayons embrassé", "ayez embrassé", "aient embrassé" ],
+  "subjonctifPlusQueParfait": [ "eusse embrassé", "eusses embrassé", "eût embrassé", "eussions embrassé", "eussiez embrassé", "eussent embrassé" ],
+  "conditionnelPresent": [ "embrasserais", "embrasserais", "embrasserait", "embrasserions", "embrasseriez", "embrasseraient" ],
+  "conditionnelPasse": [ "aurais embrassé", "aurais embrassé", "aurait embrassé", "aurions embrassé", "auriez embrassé", "auraient embrassé" ],
+  "conditionnelPasseII": [ "eusse embrassé", "eusses embrassé", "eût embrassé", "eussions embrassé", "eussiez embrassé", "eussent embrassé" ],
+  "imperatif": [ "–", "embrasse !", "–", "embrassons !", "embrassez !", "–" ],
+  "imperatifPasse": [ "–", "aie embrassé !", "–", "ayons embrassé !", "ayez embrassé !", "–" ]
+}

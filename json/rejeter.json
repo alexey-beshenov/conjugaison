@@ -1,0 +1,22 @@
+{
+  "infinitif": "rejeter",
+  "participePresent": "rejetant",
+  "participePasse": "rejeté",
+  "present": [ "rejette", "rejettes", "rejette", "rejetons", "rejetez", "rejettent" ],
+  "imparfait": [ "rejetais", "rejetais", "rejetait", "rejetions", "rejetiez", "rejetaient" ],
+  "passeSimple": [ "rejetai", "rejetas", "rejeta", "rejetâmes", "rejetâtes", "rejetèrent" ],
+  "futurSimple": [ "rejetterai", "rejetteras", "rejettera", "rejetterons", "rejetterez", "rejetteront" ],
+  "passeCompose": [ "ai rejeté", "as rejeté", "a rejeté", "avons rejeté", "avez rejeté", "ont rejeté" ],
+  "plusQueParfait": [ "avais rejeté", "avais rejeté", "avait rejeté", "avions rejeté", "aviez rejeté", "avaient rejeté" ],
+  "passeAnterieur": [ "eus rejeté", "eus rejeté", "eut rejeté", "eûmes rejeté", "eûtes rejeté", "eurent rejeté" ],
+  "futurAnterieur": [ "aurai rejeté", "auras rejeté", "aura rejeté", "aurons rejeté", "aurez rejeté", "auront rejeté" ],
+  "subjonctifPresent": [ "rejette", "rejettes", "rejette", "rejetions", "rejetiez", "rejettent" ],
+  "subjonctifImparfait": [ "rejetasse", "rejetasses", "rejetât", "rejetassions", "rejetassiez", "rejetassent" ],
+  "subjonctifPasse": [ "aie rejeté", "aies rejeté", "ait rejeté", "ayons rejeté", "ayez rejeté", "aient rejeté" ],
+  "subjonctifPlusQueParfait": [ "eusse rejeté", "eusses rejeté", "eût rejeté", "eussions rejeté", "eussiez rejeté", "eussent rejeté" ],
+  "conditionnelPresent": [ "rejetterais", "rejetterais", "rejetterait", "rejetterions", "rejetteriez", "rejetteraient" ],
+  "conditionnelPasse": [ "aurais rejeté", "aurais rejeté", "aurait rejeté", "aurions rejeté", "auriez rejeté", "auraient rejeté" ],
+  "conditionnelPasseII": [ "eusse rejeté", "eusses rejeté", "eût rejeté", "eussions rejeté", "eussiez rejeté", "eussent rejeté" ],
+  "imperatif": [ "–", "rejette !", "–", "rejetons !", "rejetez !", "–" ],
+  "imperatifPasse": [ "–", "aie rejeté !", "–", "ayons rejeté !", "ayez rejeté !", "–" ]
+}

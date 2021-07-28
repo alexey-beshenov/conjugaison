@@ -1,0 +1,22 @@
+{
+  "infinitif": "se fuir",
+  "participePresent": "se fuyant",
+  "participePasse": "fui",
+  "present": [ "me fuis", "te fuis", "se fuit", "nous fuyons", "vous fuyez", "se fuient" ],
+  "imparfait": [ "me fuyais", "te fuyais", "se fuyait", "nous fuyions", "vous fuyiez", "se fuyaient" ],
+  "passeSimple": [ "me fuis", "te fuis", "se fuit", "nous fuîmes", "vous fuîtes", "se fuirent" ],
+  "futurSimple": [ "me fuirai", "te fuiras", "se fuira", "nous fuirons", "vous fuirez", "se fuiront" ],
+  "passeCompose": [ "me suis fui(e)", "t'es fui(e)", "s'est fui(e)", "nous sommes fui(e)s", "vous êtes fui(e)(s)", "se sont fui(e)s" ],
+  "plusQueParfait": [ "m'étais fui(e)", "t'étais fui(e)", "s'était fui(e)", "nous étions fui(e)s", "vous étiez fui(e)(s)", "s'étaient fui(e)s" ],
+  "passeAnterieur": [ "me fus fui(e)", "te fus fui(e)", "se fut fui(e)", "nous fûmes fui(e)s", "vous fûtes fui(e)(s)", "se furent fui(e)s" ],
+  "futurAnterieur": [ "me serai fui(e)", "te seras fui(e)", "se sera fui(e)", "nous serons fui(e)s", "vous serez fui(e)(s)", "se seront fui(e)s" ],
+  "subjonctifPresent": [ "me fuie", "te fuies", "se fuie", "nous fuyions", "vous fuyiez", "se fuient" ],
+  "subjonctifImparfait": [ "me fuisse", "te fuisses", "se fuît", "nous fuissions", "vous fuissiez", "se fuissent" ],
+  "subjonctifPasse": [ "me sois fui(e)", "te sois fui(e)", "se soit fui(e)", "nous soyons fui(e)s", "vous soyez fui(e)(s)", "se soient fui(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse fui(e)", "te fusses fui(e)", "se fût fui(e)", "nous fussions fui(e)s", "vous fussiez fui(e)(s)", "se fussent fui(e)s" ],
+  "conditionnelPresent": [ "me fuirais", "te fuirais", "se fuirait", "nous fuirions", "vous fuiriez", "se fuiraient" ],
+  "conditionnelPasse": [ "me serais fui(e)", "te serais fui(e)", "se serait fui(e)", "nous serions fui(e)s", "vous seriez fui(e)(s)", "se seraient fui(e)s" ],
+  "conditionnelPasseII": [ "me fusse fui(e)", "te fusses fui(e)", "se fût fui(e)", "nous fussions fui(e)s", "vous fussiez fui(e)(s)", "se fussent fui(e)s" ],
+  "imperatif": [ "–", "fuis-toi !", "–", "fuyons-nous !", "fuyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

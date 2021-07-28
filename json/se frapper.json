@@ -1,0 +1,22 @@
+{
+  "infinitif": "se frapper",
+  "participePresent": "se frappant",
+  "participePasse": "frappé",
+  "present": [ "me frappe", "te frappes", "se frappe", "nous frappons", "vous frappez", "se frappent" ],
+  "imparfait": [ "me frappais", "te frappais", "se frappait", "nous frappions", "vous frappiez", "se frappaient" ],
+  "passeSimple": [ "me frappai", "te frappas", "se frappa", "nous frappâmes", "vous frappâtes", "se frappèrent" ],
+  "futurSimple": [ "me frapperai", "te frapperas", "se frappera", "nous frapperons", "vous frapperez", "se frapperont" ],
+  "passeCompose": [ "me suis frappé(e)", "t'es frappé(e)", "s'est frappé(e)", "nous sommes frappé(e)s", "vous êtes frappé(e)(s)", "se sont frappé(e)s" ],
+  "plusQueParfait": [ "m'étais frappé(e)", "t'étais frappé(e)", "s'était frappé(e)", "nous étions frappé(e)s", "vous étiez frappé(e)(s)", "s'étaient frappé(e)s" ],
+  "passeAnterieur": [ "me fus frappé(e)", "te fus frappé(e)", "se fut frappé(e)", "nous fûmes frappé(e)s", "vous fûtes frappé(e)(s)", "se furent frappé(e)s" ],
+  "futurAnterieur": [ "me serai frappé(e)", "te seras frappé(e)", "se sera frappé(e)", "nous serons frappé(e)s", "vous serez frappé(e)(s)", "se seront frappé(e)s" ],
+  "subjonctifPresent": [ "me frappe", "te frappes", "se frappe", "nous frappions", "vous frappiez", "se frappent" ],
+  "subjonctifImparfait": [ "me frappasse", "te frappasses", "se frappât", "nous frappassions", "vous frappassiez", "se frappassent" ],
+  "subjonctifPasse": [ "me sois frappé(e)", "te sois frappé(e)", "se soit frappé(e)", "nous soyons frappé(e)s", "vous soyez frappé(e)(s)", "se soient frappé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse frappé(e)", "te fusses frappé(e)", "se fût frappé(e)", "nous fussions frappé(e)s", "vous fussiez frappé(e)(s)", "se fussent frappé(e)s" ],
+  "conditionnelPresent": [ "me frapperais", "te frapperais", "se frapperait", "nous frapperions", "vous frapperiez", "se frapperaient" ],
+  "conditionnelPasse": [ "me serais frappé(e)", "te serais frappé(e)", "se serait frappé(e)", "nous serions frappé(e)s", "vous seriez frappé(e)(s)", "se seraient frappé(e)s" ],
+  "conditionnelPasseII": [ "me fusse frappé(e)", "te fusses frappé(e)", "se fût frappé(e)", "nous fussions frappé(e)s", "vous fussiez frappé(e)(s)", "se fussent frappé(e)s" ],
+  "imperatif": [ "–", "frappe-toi !", "–", "frappons-nous !", "frappez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

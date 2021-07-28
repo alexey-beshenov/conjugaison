@@ -1,0 +1,22 @@
+{
+  "infinitif": "se redire",
+  "participePresent": "se redisant",
+  "participePasse": "redit",
+  "present": [ "me redis", "te redis", "se redit", "nous redisons", "vous redites", "se redisent" ],
+  "imparfait": [ "me redisais", "te redisais", "se redisait", "nous redisions", "vous redisiez", "se redisaient" ],
+  "passeSimple": [ "me redis", "te redis", "se redit", "nous redîmes", "vous redîtes", "se redirent" ],
+  "futurSimple": [ "me redirai", "te rediras", "se redira", "nous redirons", "vous redirez", "se rediront" ],
+  "passeCompose": [ "me suis redit(e)", "t'es redit(e)", "s'est redit(e)", "nous sommes redit(e)s", "vous êtes redit(e)(s)", "se sont redit(e)s" ],
+  "plusQueParfait": [ "m'étais redit(e)", "t'étais redit(e)", "s'était redit(e)", "nous étions redit(e)s", "vous étiez redit(e)(s)", "s'étaient redit(e)s" ],
+  "passeAnterieur": [ "me fus redit(e)", "te fus redit(e)", "se fut redit(e)", "nous fûmes redit(e)s", "vous fûtes redit(e)(s)", "se furent redit(e)s" ],
+  "futurAnterieur": [ "me serai redit(e)", "te seras redit(e)", "se sera redit(e)", "nous serons redit(e)s", "vous serez redit(e)(s)", "se seront redit(e)s" ],
+  "subjonctifPresent": [ "me redise", "te redises", "se redise", "nous redisions", "vous redisiez", "se redisent" ],
+  "subjonctifImparfait": [ "me redisse", "te redisses", "se redît", "nous redissions", "vous redissiez", "se redissent" ],
+  "subjonctifPasse": [ "me sois redit(e)", "te sois redit(e)", "se soit redit(e)", "nous soyons redit(e)s", "vous soyez redit(e)(s)", "se soient redit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse redit(e)", "te fusses redit(e)", "se fût redit(e)", "nous fussions redit(e)s", "vous fussiez redit(e)(s)", "se fussent redit(e)s" ],
+  "conditionnelPresent": [ "me redirais", "te redirais", "se redirait", "nous redirions", "vous rediriez", "se rediraient" ],
+  "conditionnelPasse": [ "me serais redit(e)", "te serais redit(e)", "se serait redit(e)", "nous serions redit(e)s", "vous seriez redit(e)(s)", "se seraient redit(e)s" ],
+  "conditionnelPasseII": [ "me fusse redit(e)", "te fusses redit(e)", "se fût redit(e)", "nous fussions redit(e)s", "vous fussiez redit(e)(s)", "se fussent redit(e)s" ],
+  "imperatif": [ "–", "redis-toi !", "–", "redisons-nous !", "redites-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

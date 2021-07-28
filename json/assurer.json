@@ -1,0 +1,22 @@
+{
+  "infinitif": "assurer",
+  "participePresent": "assurant",
+  "participePasse": "assuré",
+  "present": [ "assure", "assures", "assure", "assurons", "assurez", "assurent" ],
+  "imparfait": [ "assurais", "assurais", "assurait", "assurions", "assuriez", "assuraient" ],
+  "passeSimple": [ "assurai", "assuras", "assura", "assurâmes", "assurâtes", "assurèrent" ],
+  "futurSimple": [ "assurerai", "assureras", "assurera", "assurerons", "assurerez", "assureront" ],
+  "passeCompose": [ "ai assuré", "as assuré", "a assuré", "avons assuré", "avez assuré", "ont assuré" ],
+  "plusQueParfait": [ "avais assuré", "avais assuré", "avait assuré", "avions assuré", "aviez assuré", "avaient assuré" ],
+  "passeAnterieur": [ "eus assuré", "eus assuré", "eut assuré", "eûmes assuré", "eûtes assuré", "eurent assuré" ],
+  "futurAnterieur": [ "aurai assuré", "auras assuré", "aura assuré", "aurons assuré", "aurez assuré", "auront assuré" ],
+  "subjonctifPresent": [ "assure", "assures", "assure", "assurions", "assuriez", "assurent" ],
+  "subjonctifImparfait": [ "assurasse", "assurasses", "assurât", "assurassions", "assurassiez", "assurassent" ],
+  "subjonctifPasse": [ "aie assuré", "aies assuré", "ait assuré", "ayons assuré", "ayez assuré", "aient assuré" ],
+  "subjonctifPlusQueParfait": [ "eusse assuré", "eusses assuré", "eût assuré", "eussions assuré", "eussiez assuré", "eussent assuré" ],
+  "conditionnelPresent": [ "assurerais", "assurerais", "assurerait", "assurerions", "assureriez", "assureraient" ],
+  "conditionnelPasse": [ "aurais assuré", "aurais assuré", "aurait assuré", "aurions assuré", "auriez assuré", "auraient assuré" ],
+  "conditionnelPasseII": [ "eusse assuré", "eusses assuré", "eût assuré", "eussions assuré", "eussiez assuré", "eussent assuré" ],
+  "imperatif": [ "–", "assure !", "–", "assurons !", "assurez !", "–" ],
+  "imperatifPasse": [ "–", "aie assuré !", "–", "ayons assuré !", "ayez assuré !", "–" ]
+}

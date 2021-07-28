@@ -1,0 +1,22 @@
+{
+  "infinitif": "discuter",
+  "participePresent": "discutant",
+  "participePasse": "discuté",
+  "present": [ "discute", "discutes", "discute", "discutons", "discutez", "discutent" ],
+  "imparfait": [ "discutais", "discutais", "discutait", "discutions", "discutiez", "discutaient" ],
+  "passeSimple": [ "discutai", "discutas", "discuta", "discutâmes", "discutâtes", "discutèrent" ],
+  "futurSimple": [ "discuterai", "discuteras", "discutera", "discuterons", "discuterez", "discuteront" ],
+  "passeCompose": [ "ai discuté", "as discuté", "a discuté", "avons discuté", "avez discuté", "ont discuté" ],
+  "plusQueParfait": [ "avais discuté", "avais discuté", "avait discuté", "avions discuté", "aviez discuté", "avaient discuté" ],
+  "passeAnterieur": [ "eus discuté", "eus discuté", "eut discuté", "eûmes discuté", "eûtes discuté", "eurent discuté" ],
+  "futurAnterieur": [ "aurai discuté", "auras discuté", "aura discuté", "aurons discuté", "aurez discuté", "auront discuté" ],
+  "subjonctifPresent": [ "discute", "discutes", "discute", "discutions", "discutiez", "discutent" ],
+  "subjonctifImparfait": [ "discutasse", "discutasses", "discutât", "discutassions", "discutassiez", "discutassent" ],
+  "subjonctifPasse": [ "aie discuté", "aies discuté", "ait discuté", "ayons discuté", "ayez discuté", "aient discuté" ],
+  "subjonctifPlusQueParfait": [ "eusse discuté", "eusses discuté", "eût discuté", "eussions discuté", "eussiez discuté", "eussent discuté" ],
+  "conditionnelPresent": [ "discuterais", "discuterais", "discuterait", "discuterions", "discuteriez", "discuteraient" ],
+  "conditionnelPasse": [ "aurais discuté", "aurais discuté", "aurait discuté", "aurions discuté", "auriez discuté", "auraient discuté" ],
+  "conditionnelPasseII": [ "eusse discuté", "eusses discuté", "eût discuté", "eussions discuté", "eussiez discuté", "eussent discuté" ],
+  "imperatif": [ "–", "discute !", "–", "discutons !", "discutez !", "–" ],
+  "imperatifPasse": [ "–", "aie discuté !", "–", "ayons discuté !", "ayez discuté !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'envoyer",
+  "participePresent": "s'envoyant",
+  "participePasse": "envoyé",
+  "present": [ "m'envoie", "t'envoies", "s'envoie", "nous envoyons", "vous envoyez", "s'envoient" ],
+  "imparfait": [ "m'envoyais", "t'envoyais", "s'envoyait", "nous envoyions", "vous envoyiez", "s'envoyaient" ],
+  "passeSimple": [ "m'envoyai", "t'envoyas", "s'envoya", "nous envoyâmes", "vous envoyâtes", "s'envoyèrent" ],
+  "futurSimple": [ "m'enverrai", "t'enverras", "s'enverra", "nous enverrons", "vous enverrez", "s'enverront" ],
+  "passeCompose": [ "me suis envoyé(e)", "t'es envoyé(e)", "s'est envoyé(e)", "nous sommes envoyé(e)s", "vous êtes envoyé(e)(s)", "se sont envoyé(e)s" ],
+  "plusQueParfait": [ "m'étais envoyé(e)", "t'étais envoyé(e)", "s'était envoyé(e)", "nous étions envoyé(e)s", "vous étiez envoyé(e)(s)", "s'étaient envoyé(e)s" ],
+  "passeAnterieur": [ "me fus envoyé(e)", "te fus envoyé(e)", "se fut envoyé(e)", "nous fûmes envoyé(e)s", "vous fûtes envoyé(e)(s)", "se furent envoyé(e)s" ],
+  "futurAnterieur": [ "me serai envoyé(e)", "te seras envoyé(e)", "se sera envoyé(e)", "nous serons envoyé(e)s", "vous serez envoyé(e)(s)", "se seront envoyé(e)s" ],
+  "subjonctifPresent": [ "m'envoie", "t'envoies", "s'envoie", "nous envoyions", "vous envoyiez", "s'envoient" ],
+  "subjonctifImparfait": [ "m'envoyasse", "t'envoyasses", "s'envoyât", "nous envoyassions", "vous envoyassiez", "s'envoyassent" ],
+  "subjonctifPasse": [ "me sois envoyé(e)", "te sois envoyé(e)", "se soit envoyé(e)", "nous soyons envoyé(e)s", "vous soyez envoyé(e)(s)", "se soient envoyé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse envoyé(e)", "te fusses envoyé(e)", "se fût envoyé(e)", "nous fussions envoyé(e)s", "vous fussiez envoyé(e)(s)", "se fussent envoyé(e)s" ],
+  "conditionnelPresent": [ "m'enverrais", "t'enverrais", "s'enverrait", "nous enverrions", "vous enverriez", "s'enverraient" ],
+  "conditionnelPasse": [ "me serais envoyé(e)", "te serais envoyé(e)", "se serait envoyé(e)", "nous serions envoyé(e)s", "vous seriez envoyé(e)(s)", "se seraient envoyé(e)s" ],
+  "conditionnelPasseII": [ "me fusse envoyé(e)", "te fusses envoyé(e)", "se fût envoyé(e)", "nous fussions envoyé(e)s", "vous fussiez envoyé(e)(s)", "se fussent envoyé(e)s" ],
+  "imperatif": [ "–", "envoie-toi !", "–", "envoyons-nous !", "envoyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

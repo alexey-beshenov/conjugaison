@@ -1,0 +1,22 @@
+{
+  "infinitif": "se remettre",
+  "participePresent": "se remettant",
+  "participePasse": "remis",
+  "present": [ "me remets", "te remets", "se remet", "nous remettons", "vous remettez", "se remettent" ],
+  "imparfait": [ "me remettais", "te remettais", "se remettait", "nous remettions", "vous remettiez", "se remettaient" ],
+  "passeSimple": [ "me remis", "te remis", "se remit", "nous remîmes", "vous remîtes", "se remirent" ],
+  "futurSimple": [ "me remettrai", "te remettras", "se remettra", "nous remettrons", "vous remettrez", "se remettront" ],
+  "passeCompose": [ "me suis remis(e)", "t'es remis(e)", "s'est remis(e)", "nous sommes remis(es)", "vous êtes remis(e(s))", "se sont remis(es)" ],
+  "plusQueParfait": [ "m'étais remis(e)", "t'étais remis(e)", "s'était remis(e)", "nous étions remis(es)", "vous étiez remis(e(s))", "s'étaient remis(es)" ],
+  "passeAnterieur": [ "me fus remis(e)", "te fus remis(e)", "se fut remis(e)", "nous fûmes remis(es)", "vous fûtes remis(e(s))", "se furent remis(es)" ],
+  "futurAnterieur": [ "me serai remis(e)", "te seras remis(e)", "se sera remis(e)", "nous serons remis(es)", "vous serez remis(e(s))", "se seront remis(es)" ],
+  "subjonctifPresent": [ "me remette", "te remettes", "se remette", "nous remettions", "vous remettiez", "se remettent" ],
+  "subjonctifImparfait": [ "me remisse", "te remisses", "se remît", "nous remissions", "vous remissiez", "se remissent" ],
+  "subjonctifPasse": [ "me sois remis(e)", "te sois remis(e)", "se soit remis(e)", "nous soyons remis(es)", "vous soyez remis(e(s))", "se soient remis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse remis(e)", "te fusses remis(e)", "se fût remis(e)", "nous fussions remis(es)", "vous fussiez remis(e(s))", "se fussent remis(es)" ],
+  "conditionnelPresent": [ "me remettrais", "te remettrais", "se remettrait", "nous remettrions", "vous remettriez", "se remettraient" ],
+  "conditionnelPasse": [ "me serais remis(e)", "te serais remis(e)", "se serait remis(e)", "nous serions remis(es)", "vous seriez remis(e(s))", "se seraient remis(es)" ],
+  "conditionnelPasseII": [ "me fusse remis(e)", "te fusses remis(e)", "se fût remis(e)", "nous fussions remis(es)", "vous fussiez remis(e(s))", "se fussent remis(es)" ],
+  "imperatif": [ "–", "remets-toi !", "–", "remettons-nous !", "remettez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

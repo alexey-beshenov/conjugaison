@@ -1,0 +1,22 @@
+{
+  "infinitif": "se conclure",
+  "participePresent": "se concluant",
+  "participePasse": "conclu",
+  "present": [ "me conclus", "te conclus", "se conclut", "nous concluons", "vous concluez", "se concluent" ],
+  "imparfait": [ "me concluais", "te concluais", "se concluait", "nous concluions", "vous concluiez", "se concluaient" ],
+  "passeSimple": [ "me conclus", "te conclus", "se conclut", "nous conclûmes", "vous conclûtes", "se conclurent" ],
+  "futurSimple": [ "me conclurai", "te concluras", "se conclura", "nous conclurons", "vous conclurez", "se concluront" ],
+  "passeCompose": [ "me suis conclu(e)", "t'es conclu(e)", "s'est conclu(e)", "nous sommes conclu(e)s", "vous êtes conclu(e)(s)", "se sont conclu(e)s" ],
+  "plusQueParfait": [ "m'étais conclu(e)", "t'étais conclu(e)", "s'était conclu(e)", "nous étions conclu(e)s", "vous étiez conclu(e)(s)", "s'étaient conclu(e)s" ],
+  "passeAnterieur": [ "me fus conclu(e)", "te fus conclu(e)", "se fut conclu(e)", "nous fûmes conclu(e)s", "vous fûtes conclu(e)(s)", "se furent conclu(e)s" ],
+  "futurAnterieur": [ "me serai conclu(e)", "te seras conclu(e)", "se sera conclu(e)", "nous serons conclu(e)s", "vous serez conclu(e)(s)", "se seront conclu(e)s" ],
+  "subjonctifPresent": [ "me conclue", "te conclues", "se conclue", "nous concluions", "vous concluiez", "se concluent" ],
+  "subjonctifImparfait": [ "me conclusse", "te conclusses", "se conclût", "nous conclussions", "vous conclussiez", "se conclussent" ],
+  "subjonctifPasse": [ "me sois conclu(e)", "te sois conclu(e)", "se soit conclu(e)", "nous soyons conclu(e)s", "vous soyez conclu(e)(s)", "se soient conclu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse conclu(e)", "te fusses conclu(e)", "se fût conclu(e)", "nous fussions conclu(e)s", "vous fussiez conclu(e)(s)", "se fussent conclu(e)s" ],
+  "conditionnelPresent": [ "me conclurais", "te conclurais", "se conclurait", "nous conclurions", "vous concluriez", "se concluraient" ],
+  "conditionnelPasse": [ "me serais conclu(e)", "te serais conclu(e)", "se serait conclu(e)", "nous serions conclu(e)s", "vous seriez conclu(e)(s)", "se seraient conclu(e)s" ],
+  "conditionnelPasseII": [ "me fusse conclu(e)", "te fusses conclu(e)", "se fût conclu(e)", "nous fussions conclu(e)s", "vous fussiez conclu(e)(s)", "se fussent conclu(e)s" ],
+  "imperatif": [ "–", "conclus-toi !", "–", "concluons-nous !", "concluez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

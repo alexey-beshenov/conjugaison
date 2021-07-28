@@ -1,0 +1,22 @@
+{
+  "infinitif": "se compter",
+  "participePresent": "se comptant",
+  "participePasse": "compté",
+  "present": [ "me compte", "te comptes", "se compte", "nous comptons", "vous comptez", "se comptent" ],
+  "imparfait": [ "me comptais", "te comptais", "se comptait", "nous comptions", "vous comptiez", "se comptaient" ],
+  "passeSimple": [ "me comptai", "te comptas", "se compta", "nous comptâmes", "vous comptâtes", "se comptèrent" ],
+  "futurSimple": [ "me compterai", "te compteras", "se comptera", "nous compterons", "vous compterez", "se compteront" ],
+  "passeCompose": [ "me suis compté(e)", "t'es compté(e)", "s'est compté(e)", "nous sommes compté(e)s", "vous êtes compté(e)(s)", "se sont compté(e)s" ],
+  "plusQueParfait": [ "m'étais compté(e)", "t'étais compté(e)", "s'était compté(e)", "nous étions compté(e)s", "vous étiez compté(e)(s)", "s'étaient compté(e)s" ],
+  "passeAnterieur": [ "me fus compté(e)", "te fus compté(e)", "se fut compté(e)", "nous fûmes compté(e)s", "vous fûtes compté(e)(s)", "se furent compté(e)s" ],
+  "futurAnterieur": [ "me serai compté(e)", "te seras compté(e)", "se sera compté(e)", "nous serons compté(e)s", "vous serez compté(e)(s)", "se seront compté(e)s" ],
+  "subjonctifPresent": [ "me compte", "te comptes", "se compte", "nous comptions", "vous comptiez", "se comptent" ],
+  "subjonctifImparfait": [ "me comptasse", "te comptasses", "se comptât", "nous comptassions", "vous comptassiez", "se comptassent" ],
+  "subjonctifPasse": [ "me sois compté(e)", "te sois compté(e)", "se soit compté(e)", "nous soyons compté(e)s", "vous soyez compté(e)(s)", "se soient compté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse compté(e)", "te fusses compté(e)", "se fût compté(e)", "nous fussions compté(e)s", "vous fussiez compté(e)(s)", "se fussent compté(e)s" ],
+  "conditionnelPresent": [ "me compterais", "te compterais", "se compterait", "nous compterions", "vous compteriez", "se compteraient" ],
+  "conditionnelPasse": [ "me serais compté(e)", "te serais compté(e)", "se serait compté(e)", "nous serions compté(e)s", "vous seriez compté(e)(s)", "se seraient compté(e)s" ],
+  "conditionnelPasseII": [ "me fusse compté(e)", "te fusses compté(e)", "se fût compté(e)", "nous fussions compté(e)s", "vous fussiez compté(e)(s)", "se fussent compté(e)s" ],
+  "imperatif": [ "–", "compte-toi !", "–", "comptons-nous !", "comptez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

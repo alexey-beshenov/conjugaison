@@ -1,0 +1,22 @@
+{
+  "infinitif": "revêtir",
+  "participePresent": "revêtant",
+  "participePasse": "revêtu",
+  "present": [ "revêts", "revêts", "revêt", "revêtons", "revêtez", "revêtent" ],
+  "imparfait": [ "revêtais", "revêtais", "revêtait", "revêtions", "revêtiez", "revêtaient" ],
+  "passeSimple": [ "revêtis", "revêtis", "revêtit", "revêtîmes", "revêtîtes", "revêtirent" ],
+  "futurSimple": [ "revêtirai", "revêtiras", "revêtira", "revêtirons", "revêtirez", "revêtiront" ],
+  "passeCompose": [ "ai revêtu", "as revêtu", "a revêtu", "avons revêtu", "avez revêtu", "ont revêtu" ],
+  "plusQueParfait": [ "avais revêtu", "avais revêtu", "avait revêtu", "avions revêtu", "aviez revêtu", "avaient revêtu" ],
+  "passeAnterieur": [ "eus revêtu", "eus revêtu", "eut revêtu", "eûmes revêtu", "eûtes revêtu", "eurent revêtu" ],
+  "futurAnterieur": [ "aurai revêtu", "auras revêtu", "aura revêtu", "aurons revêtu", "aurez revêtu", "auront revêtu" ],
+  "subjonctifPresent": [ "revête", "revêtes", "revête", "revêtions", "revêtiez", "revêtent" ],
+  "subjonctifImparfait": [ "revêtisse", "revêtisses", "revêtît", "revêtissions", "revêtissiez", "revêtissent" ],
+  "subjonctifPasse": [ "aie revêtu", "aies revêtu", "ait revêtu", "ayons revêtu", "ayez revêtu", "aient revêtu" ],
+  "subjonctifPlusQueParfait": [ "eusse revêtu", "eusses revêtu", "eût revêtu", "eussions revêtu", "eussiez revêtu", "eussent revêtu" ],
+  "conditionnelPresent": [ "revêtirais", "revêtirais", "revêtirait", "revêtirions", "revêtiriez", "revêtiraient" ],
+  "conditionnelPasse": [ "aurais revêtu", "aurais revêtu", "aurait revêtu", "aurions revêtu", "auriez revêtu", "auraient revêtu" ],
+  "conditionnelPasseII": [ "eusse revêtu", "eusses revêtu", "eût revêtu", "eussions revêtu", "eussiez revêtu", "eussent revêtu" ],
+  "imperatif": [ "–", "revêts !", "–", "revêtons !", "revêtez !", "–" ],
+  "imperatifPasse": [ "–", "aie revêtu !", "–", "ayons revêtu !", "ayez revêtu !", "–" ]
+}

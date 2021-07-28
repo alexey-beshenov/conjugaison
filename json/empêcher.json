@@ -1,0 +1,22 @@
+{
+  "infinitif": "empêcher",
+  "participePresent": "empêchant",
+  "participePasse": "empêché",
+  "present": [ "empêche", "empêches", "empêche", "empêchons", "empêchez", "empêchent" ],
+  "imparfait": [ "empêchais", "empêchais", "empêchait", "empêchions", "empêchiez", "empêchaient" ],
+  "passeSimple": [ "empêchai", "empêchas", "empêcha", "empêchâmes", "empêchâtes", "empêchèrent" ],
+  "futurSimple": [ "empêcherai", "empêcheras", "empêchera", "empêcherons", "empêcherez", "empêcheront" ],
+  "passeCompose": [ "ai empêché", "as empêché", "a empêché", "avons empêché", "avez empêché", "ont empêché" ],
+  "plusQueParfait": [ "avais empêché", "avais empêché", "avait empêché", "avions empêché", "aviez empêché", "avaient empêché" ],
+  "passeAnterieur": [ "eus empêché", "eus empêché", "eut empêché", "eûmes empêché", "eûtes empêché", "eurent empêché" ],
+  "futurAnterieur": [ "aurai empêché", "auras empêché", "aura empêché", "aurons empêché", "aurez empêché", "auront empêché" ],
+  "subjonctifPresent": [ "empêche", "empêches", "empêche", "empêchions", "empêchiez", "empêchent" ],
+  "subjonctifImparfait": [ "empêchasse", "empêchasses", "empêchât", "empêchassions", "empêchassiez", "empêchassent" ],
+  "subjonctifPasse": [ "aie empêché", "aies empêché", "ait empêché", "ayons empêché", "ayez empêché", "aient empêché" ],
+  "subjonctifPlusQueParfait": [ "eusse empêché", "eusses empêché", "eût empêché", "eussions empêché", "eussiez empêché", "eussent empêché" ],
+  "conditionnelPresent": [ "empêcherais", "empêcherais", "empêcherait", "empêcherions", "empêcheriez", "empêcheraient" ],
+  "conditionnelPasse": [ "aurais empêché", "aurais empêché", "aurait empêché", "aurions empêché", "auriez empêché", "auraient empêché" ],
+  "conditionnelPasseII": [ "eusse empêché", "eusses empêché", "eût empêché", "eussions empêché", "eussiez empêché", "eussent empêché" ],
+  "imperatif": [ "–", "empêche !", "–", "empêchons !", "empêchez !", "–" ],
+  "imperatifPasse": [ "–", "aie empêché !", "–", "ayons empêché !", "ayez empêché !", "–" ]
+}

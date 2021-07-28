@@ -1,0 +1,22 @@
+{
+  "infinitif": "céder",
+  "participePresent": "cédant",
+  "participePasse": "cédé",
+  "present": [ "cède", "cèdes", "cède", "cédons", "cédez", "cèdent" ],
+  "imparfait": [ "cédais", "cédais", "cédait", "cédions", "cédiez", "cédaient" ],
+  "passeSimple": [ "cédai", "cédas", "céda", "cédâmes", "cédâtes", "cédèrent" ],
+  "futurSimple": [ "céderai", "céderas", "cédera", "céderons", "céderez", "céderont" ],
+  "passeCompose": [ "ai cédé", "as cédé", "a cédé", "avons cédé", "avez cédé", "ont cédé" ],
+  "plusQueParfait": [ "avais cédé", "avais cédé", "avait cédé", "avions cédé", "aviez cédé", "avaient cédé" ],
+  "passeAnterieur": [ "eus cédé", "eus cédé", "eut cédé", "eûmes cédé", "eûtes cédé", "eurent cédé" ],
+  "futurAnterieur": [ "aurai cédé", "auras cédé", "aura cédé", "aurons cédé", "aurez cédé", "auront cédé" ],
+  "subjonctifPresent": [ "cède", "cèdes", "cède", "cédions", "cédiez", "cèdent" ],
+  "subjonctifImparfait": [ "cédasse", "cédasses", "cédât", "cédassions", "cédassiez", "cédassent" ],
+  "subjonctifPasse": [ "aie cédé", "aies cédé", "ait cédé", "ayons cédé", "ayez cédé", "aient cédé" ],
+  "subjonctifPlusQueParfait": [ "eusse cédé", "eusses cédé", "eût cédé", "eussions cédé", "eussiez cédé", "eussent cédé" ],
+  "conditionnelPresent": [ "céderais", "céderais", "céderait", "céderions", "céderiez", "céderaient" ],
+  "conditionnelPasse": [ "aurais cédé", "aurais cédé", "aurait cédé", "aurions cédé", "auriez cédé", "auraient cédé" ],
+  "conditionnelPasseII": [ "eusse cédé", "eusses cédé", "eût cédé", "eussions cédé", "eussiez cédé", "eussent cédé" ],
+  "imperatif": [ "–", "cède !", "–", "cédons !", "cédez !", "–" ],
+  "imperatifPasse": [ "–", "aie cédé !", "–", "ayons cédé !", "ayez cédé !", "–" ]
+}

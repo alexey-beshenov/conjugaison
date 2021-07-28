@@ -1,0 +1,22 @@
+{
+  "infinitif": "remoudre",
+  "participePresent": "remoulant",
+  "participePasse": "remoulu",
+  "present": [ "remouds", "remouds", "remoud", "remoulons", "remoulez", "remoulent" ],
+  "imparfait": [ "remoulais", "remoulais", "remoulait", "remoulions", "remouliez", "remoulaient" ],
+  "passeSimple": [ "remoulus", "remoulus", "remoulut", "remoulûmes", "remoulûtes", "remoulurent" ],
+  "futurSimple": [ "remoudrai", "remoudras", "remoudra", "remoudrons", "remoudrez", "remoudront" ],
+  "passeCompose": [ "ai remoulu", "as remoulu", "a remoulu", "avons remoulu", "avez remoulu", "ont remoulu" ],
+  "plusQueParfait": [ "avais remoulu", "avais remoulu", "avait remoulu", "avions remoulu", "aviez remoulu", "avaient remoulu" ],
+  "passeAnterieur": [ "eus remoulu", "eus remoulu", "eut remoulu", "eûmes remoulu", "eûtes remoulu", "eurent remoulu" ],
+  "futurAnterieur": [ "aurai remoulu", "auras remoulu", "aura remoulu", "aurons remoulu", "aurez remoulu", "auront remoulu" ],
+  "subjonctifPresent": [ "remoule", "remoules", "remoule", "remoulions", "remouliez", "remoulent" ],
+  "subjonctifImparfait": [ "remoulusse", "remoulusses", "remoulût", "remoulussions", "remoulussiez", "remoulussent" ],
+  "subjonctifPasse": [ "aie remoulu", "aies remoulu", "ait remoulu", "ayons remoulu", "ayez remoulu", "aient remoulu" ],
+  "subjonctifPlusQueParfait": [ "eusse remoulu", "eusses remoulu", "eût remoulu", "eussions remoulu", "eussiez remoulu", "eussent remoulu" ],
+  "conditionnelPresent": [ "remoudrais", "remoudrais", "remoudrait", "remoudrions", "remoudriez", "remoudraient" ],
+  "conditionnelPasse": [ "aurais remoulu", "aurais remoulu", "aurait remoulu", "aurions remoulu", "auriez remoulu", "auraient remoulu" ],
+  "conditionnelPasseII": [ "eusse remoulu", "eusses remoulu", "eût remoulu", "eussions remoulu", "eussiez remoulu", "eussent remoulu" ],
+  "imperatif": [ "–", "remouds !", "–", "remoulons !", "remoulez !", "–" ],
+  "imperatifPasse": [ "–", "aie remoulu !", "–", "ayons remoulu !", "ayez remoulu !", "–" ]
+}

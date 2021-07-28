@@ -1,0 +1,22 @@
+{
+  "infinitif": "se renvoyer",
+  "participePresent": "se renvoyant",
+  "participePasse": "renvoyé",
+  "present": [ "me renvoie", "te renvoies", "se renvoie", "nous renvoyons", "vous renvoyez", "se renvoient" ],
+  "imparfait": [ "me renvoyais", "te renvoyais", "se renvoyait", "nous renvoyions", "vous renvoyiez", "se renvoyaient" ],
+  "passeSimple": [ "me renvoyai", "te renvoyas", "se renvoya", "nous renvoyâmes", "vous renvoyâtes", "se renvoyèrent" ],
+  "futurSimple": [ "me renverrai", "te renverras", "se renverra", "nous renverrons", "vous renverrez", "se renverront" ],
+  "passeCompose": [ "me suis renvoyé(e)", "t'es renvoyé(e)", "s'est renvoyé(e)", "nous sommes renvoyé(e)s", "vous êtes renvoyé(e)(s)", "se sont renvoyé(e)s" ],
+  "plusQueParfait": [ "m'étais renvoyé(e)", "t'étais renvoyé(e)", "s'était renvoyé(e)", "nous étions renvoyé(e)s", "vous étiez renvoyé(e)(s)", "s'étaient renvoyé(e)s" ],
+  "passeAnterieur": [ "me fus renvoyé(e)", "te fus renvoyé(e)", "se fut renvoyé(e)", "nous fûmes renvoyé(e)s", "vous fûtes renvoyé(e)(s)", "se furent renvoyé(e)s" ],
+  "futurAnterieur": [ "me serai renvoyé(e)", "te seras renvoyé(e)", "se sera renvoyé(e)", "nous serons renvoyé(e)s", "vous serez renvoyé(e)(s)", "se seront renvoyé(e)s" ],
+  "subjonctifPresent": [ "me renvoie", "te renvoies", "se renvoie", "nous renvoyions", "vous renvoyiez", "se renvoient" ],
+  "subjonctifImparfait": [ "me renvoyasse", "te renvoyasses", "se renvoyât", "nous renvoyassions", "vous renvoyassiez", "se renvoyassent" ],
+  "subjonctifPasse": [ "me sois renvoyé(e)", "te sois renvoyé(e)", "se soit renvoyé(e)", "nous soyons renvoyé(e)s", "vous soyez renvoyé(e)(s)", "se soient renvoyé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse renvoyé(e)", "te fusses renvoyé(e)", "se fût renvoyé(e)", "nous fussions renvoyé(e)s", "vous fussiez renvoyé(e)(s)", "se fussent renvoyé(e)s" ],
+  "conditionnelPresent": [ "me renverrais", "te renverrais", "se renverrait", "nous renverrions", "vous renverriez", "se renverraient" ],
+  "conditionnelPasse": [ "me serais renvoyé(e)", "te serais renvoyé(e)", "se serait renvoyé(e)", "nous serions renvoyé(e)s", "vous seriez renvoyé(e)(s)", "se seraient renvoyé(e)s" ],
+  "conditionnelPasseII": [ "me fusse renvoyé(e)", "te fusses renvoyé(e)", "se fût renvoyé(e)", "nous fussions renvoyé(e)s", "vous fussiez renvoyé(e)(s)", "se fussent renvoyé(e)s" ],
+  "imperatif": [ "–", "renvoie-toi !", "–", "renvoyons-nous !", "renvoyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se pencher",
+  "participePresent": "se penchant",
+  "participePasse": "penché",
+  "present": [ "me penche", "te penches", "se penche", "nous penchons", "vous penchez", "se penchent" ],
+  "imparfait": [ "me penchais", "te penchais", "se penchait", "nous penchions", "vous penchiez", "se penchaient" ],
+  "passeSimple": [ "me penchai", "te penchas", "se pencha", "nous penchâmes", "vous penchâtes", "se penchèrent" ],
+  "futurSimple": [ "me pencherai", "te pencheras", "se penchera", "nous pencherons", "vous pencherez", "se pencheront" ],
+  "passeCompose": [ "me suis penché(e)", "t'es penché(e)", "s'est penché(e)", "nous sommes penché(e)s", "vous êtes penché(e)(s)", "se sont penché(e)s" ],
+  "plusQueParfait": [ "m'étais penché(e)", "t'étais penché(e)", "s'était penché(e)", "nous étions penché(e)s", "vous étiez penché(e)(s)", "s'étaient penché(e)s" ],
+  "passeAnterieur": [ "me fus penché(e)", "te fus penché(e)", "se fut penché(e)", "nous fûmes penché(e)s", "vous fûtes penché(e)(s)", "se furent penché(e)s" ],
+  "futurAnterieur": [ "me serai penché(e)", "te seras penché(e)", "se sera penché(e)", "nous serons penché(e)s", "vous serez penché(e)(s)", "se seront penché(e)s" ],
+  "subjonctifPresent": [ "me penche", "te penches", "se penche", "nous penchions", "vous penchiez", "se penchent" ],
+  "subjonctifImparfait": [ "me penchasse", "te penchasses", "se penchât", "nous penchassions", "vous penchassiez", "se penchassent" ],
+  "subjonctifPasse": [ "me sois penché(e)", "te sois penché(e)", "se soit penché(e)", "nous soyons penché(e)s", "vous soyez penché(e)(s)", "se soient penché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse penché(e)", "te fusses penché(e)", "se fût penché(e)", "nous fussions penché(e)s", "vous fussiez penché(e)(s)", "se fussent penché(e)s" ],
+  "conditionnelPresent": [ "me pencherais", "te pencherais", "se pencherait", "nous pencherions", "vous pencheriez", "se pencheraient" ],
+  "conditionnelPasse": [ "me serais penché(e)", "te serais penché(e)", "se serait penché(e)", "nous serions penché(e)s", "vous seriez penché(e)(s)", "se seraient penché(e)s" ],
+  "conditionnelPasseII": [ "me fusse penché(e)", "te fusses penché(e)", "se fût penché(e)", "nous fussions penché(e)s", "vous fussiez penché(e)(s)", "se fussent penché(e)s" ],
+  "imperatif": [ "–", "penche-toi !", "–", "penchons-nous !", "penchez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

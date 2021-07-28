@@ -1,0 +1,22 @@
+{
+  "infinitif": "détruire",
+  "participePresent": "détruisant",
+  "participePasse": "détruit",
+  "present": [ "détruis", "détruis", "détruit", "détruisons", "détruisez", "détruisent" ],
+  "imparfait": [ "détruisais", "détruisais", "détruisait", "détruisions", "détruisiez", "détruisaient" ],
+  "passeSimple": [ "détruisis", "détruisis", "détruisit", "détruisîmes", "détruisîtes", "détruisirent" ],
+  "futurSimple": [ "détruirai", "détruiras", "détruira", "détruirons", "détruirez", "détruiront" ],
+  "passeCompose": [ "ai détruit", "as détruit", "a détruit", "avons détruit", "avez détruit", "ont détruit" ],
+  "plusQueParfait": [ "avais détruit", "avais détruit", "avait détruit", "avions détruit", "aviez détruit", "avaient détruit" ],
+  "passeAnterieur": [ "eus détruit", "eus détruit", "eut détruit", "eûmes détruit", "eûtes détruit", "eurent détruit" ],
+  "futurAnterieur": [ "aurai détruit", "auras détruit", "aura détruit", "aurons détruit", "aurez détruit", "auront détruit" ],
+  "subjonctifPresent": [ "détruise", "détruises", "détruise", "détruisions", "détruisiez", "détruisent" ],
+  "subjonctifImparfait": [ "détruisisse", "détruisisses", "détruisît", "détruisissions", "détruisissiez", "détruisissent" ],
+  "subjonctifPasse": [ "aie détruit", "aies détruit", "ait détruit", "ayons détruit", "ayez détruit", "aient détruit" ],
+  "subjonctifPlusQueParfait": [ "eusse détruit", "eusses détruit", "eût détruit", "eussions détruit", "eussiez détruit", "eussent détruit" ],
+  "conditionnelPresent": [ "détruirais", "détruirais", "détruirait", "détruirions", "détruiriez", "détruiraient" ],
+  "conditionnelPasse": [ "aurais détruit", "aurais détruit", "aurait détruit", "aurions détruit", "auriez détruit", "auraient détruit" ],
+  "conditionnelPasseII": [ "eusse détruit", "eusses détruit", "eût détruit", "eussions détruit", "eussiez détruit", "eussent détruit" ],
+  "imperatif": [ "–", "détruis !", "–", "détruisons !", "détruisez !", "–" ],
+  "imperatifPasse": [ "–", "aie détruit !", "–", "ayons détruit !", "ayez détruit !", "–" ]
+}

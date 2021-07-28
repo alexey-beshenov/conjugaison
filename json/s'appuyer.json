@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'appuyer",
+  "participePresent": "s'appuyant",
+  "participePasse": "appuyé",
+  "present": [ "m'appuie", "t'appuies", "s'appuie", "nous appuyons", "vous appuyez", "s'appuient" ],
+  "imparfait": [ "m'appuyais", "t'appuyais", "s'appuyait", "nous appuyions", "vous appuyiez", "s'appuyaient" ],
+  "passeSimple": [ "m'appuyai", "t'appuyas", "s'appuya", "nous appuyâmes", "vous appuyâtes", "s'appuyèrent" ],
+  "futurSimple": [ "m'appuierai", "t'appuieras", "s'appuiera", "nous appuierons", "vous appuierez", "s'appuieront" ],
+  "passeCompose": [ "me suis appuyé(e)", "t'es appuyé(e)", "s'est appuyé(e)", "nous sommes appuyé(e)s", "vous êtes appuyé(e)(s)", "se sont appuyé(e)s" ],
+  "plusQueParfait": [ "m'étais appuyé(e)", "t'étais appuyé(e)", "s'était appuyé(e)", "nous étions appuyé(e)s", "vous étiez appuyé(e)(s)", "s'étaient appuyé(e)s" ],
+  "passeAnterieur": [ "me fus appuyé(e)", "te fus appuyé(e)", "se fut appuyé(e)", "nous fûmes appuyé(e)s", "vous fûtes appuyé(e)(s)", "se furent appuyé(e)s" ],
+  "futurAnterieur": [ "me serai appuyé(e)", "te seras appuyé(e)", "se sera appuyé(e)", "nous serons appuyé(e)s", "vous serez appuyé(e)(s)", "se seront appuyé(e)s" ],
+  "subjonctifPresent": [ "m'appuie", "t'appuies", "s'appuie", "nous appuyions", "vous appuyiez", "s'appuient" ],
+  "subjonctifImparfait": [ "m'appuyasse", "t'appuyasses", "s'appuyât", "nous appuyassions", "vous appuyassiez", "s'appuyassent" ],
+  "subjonctifPasse": [ "me sois appuyé(e)", "te sois appuyé(e)", "se soit appuyé(e)", "nous soyons appuyé(e)s", "vous soyez appuyé(e)(s)", "se soient appuyé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse appuyé(e)", "te fusses appuyé(e)", "se fût appuyé(e)", "nous fussions appuyé(e)s", "vous fussiez appuyé(e)(s)", "se fussent appuyé(e)s" ],
+  "conditionnelPresent": [ "m'appuierais", "t'appuierais", "s'appuierait", "nous appuierions", "vous appuieriez", "s'appuieraient" ],
+  "conditionnelPasse": [ "me serais appuyé(e)", "te serais appuyé(e)", "se serait appuyé(e)", "nous serions appuyé(e)s", "vous seriez appuyé(e)(s)", "se seraient appuyé(e)s" ],
+  "conditionnelPasseII": [ "me fusse appuyé(e)", "te fusses appuyé(e)", "se fût appuyé(e)", "nous fussions appuyé(e)s", "vous fussiez appuyé(e)(s)", "se fussent appuyé(e)s" ],
+  "imperatif": [ "–", "appuie-toi !", "–", "appuyons-nous !", "appuyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

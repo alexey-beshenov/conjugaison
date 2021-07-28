@@ -1,0 +1,22 @@
+{
+  "infinitif": "fumer",
+  "participePresent": "fumant",
+  "participePasse": "fumé",
+  "present": [ "fume", "fumes", "fume", "fumons", "fumez", "fument" ],
+  "imparfait": [ "fumais", "fumais", "fumait", "fumions", "fumiez", "fumaient" ],
+  "passeSimple": [ "fumai", "fumas", "fuma", "fumâmes", "fumâtes", "fumèrent" ],
+  "futurSimple": [ "fumerai", "fumeras", "fumera", "fumerons", "fumerez", "fumeront" ],
+  "passeCompose": [ "ai fumé", "as fumé", "a fumé", "avons fumé", "avez fumé", "ont fumé" ],
+  "plusQueParfait": [ "avais fumé", "avais fumé", "avait fumé", "avions fumé", "aviez fumé", "avaient fumé" ],
+  "passeAnterieur": [ "eus fumé", "eus fumé", "eut fumé", "eûmes fumé", "eûtes fumé", "eurent fumé" ],
+  "futurAnterieur": [ "aurai fumé", "auras fumé", "aura fumé", "aurons fumé", "aurez fumé", "auront fumé" ],
+  "subjonctifPresent": [ "fume", "fumes", "fume", "fumions", "fumiez", "fument" ],
+  "subjonctifImparfait": [ "fumasse", "fumasses", "fumât", "fumassions", "fumassiez", "fumassent" ],
+  "subjonctifPasse": [ "aie fumé", "aies fumé", "ait fumé", "ayons fumé", "ayez fumé", "aient fumé" ],
+  "subjonctifPlusQueParfait": [ "eusse fumé", "eusses fumé", "eût fumé", "eussions fumé", "eussiez fumé", "eussent fumé" ],
+  "conditionnelPresent": [ "fumerais", "fumerais", "fumerait", "fumerions", "fumeriez", "fumeraient" ],
+  "conditionnelPasse": [ "aurais fumé", "aurais fumé", "aurait fumé", "aurions fumé", "auriez fumé", "auraient fumé" ],
+  "conditionnelPasseII": [ "eusse fumé", "eusses fumé", "eût fumé", "eussions fumé", "eussiez fumé", "eussent fumé" ],
+  "imperatif": [ "–", "fume !", "–", "fumons !", "fumez !", "–" ],
+  "imperatifPasse": [ "–", "aie fumé !", "–", "ayons fumé !", "ayez fumé !", "–" ]
+}

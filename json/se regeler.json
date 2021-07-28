@@ -1,0 +1,22 @@
+{
+  "infinitif": "se regeler",
+  "participePresent": "se regelant",
+  "participePasse": "regelé",
+  "present": [ "me regèle", "te regèles", "se regèle", "nous regelons", "vous regelez", "se regèlent" ],
+  "imparfait": [ "me regelais", "te regelais", "se regelait", "nous regelions", "vous regeliez", "se regelaient" ],
+  "passeSimple": [ "me regelai", "te regelas", "se regela", "nous regelâmes", "vous regelâtes", "se regelèrent" ],
+  "futurSimple": [ "me regèlerai", "te regèleras", "se regèlera", "nous regèlerons", "vous regèlerez", "se regèleront" ],
+  "passeCompose": [ "me suis regelé(e)", "t'es regelé(e)", "s'est regelé(e)", "nous sommes regelé(e)s", "vous êtes regelé(e)(s)", "se sont regelé(e)s" ],
+  "plusQueParfait": [ "m'étais regelé(e)", "t'étais regelé(e)", "s'était regelé(e)", "nous étions regelé(e)s", "vous étiez regelé(e)(s)", "s'étaient regelé(e)s" ],
+  "passeAnterieur": [ "me fus regelé(e)", "te fus regelé(e)", "se fut regelé(e)", "nous fûmes regelé(e)s", "vous fûtes regelé(e)(s)", "se furent regelé(e)s" ],
+  "futurAnterieur": [ "me serai regelé(e)", "te seras regelé(e)", "se sera regelé(e)", "nous serons regelé(e)s", "vous serez regelé(e)(s)", "se seront regelé(e)s" ],
+  "subjonctifPresent": [ "me regèle", "te regèles", "se regèle", "nous regelions", "vous regeliez", "se regèlent" ],
+  "subjonctifImparfait": [ "me regelasse", "te regelasses", "se regelât", "nous regelassions", "vous regelassiez", "se regelassent" ],
+  "subjonctifPasse": [ "me sois regelé(e)", "te sois regelé(e)", "se soit regelé(e)", "nous soyons regelé(e)s", "vous soyez regelé(e)(s)", "se soient regelé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse regelé(e)", "te fusses regelé(e)", "se fût regelé(e)", "nous fussions regelé(e)s", "vous fussiez regelé(e)(s)", "se fussent regelé(e)s" ],
+  "conditionnelPresent": [ "me regèlerais", "te regèlerais", "se regèlerait", "nous regèlerions", "vous regèleriez", "se regèleraient" ],
+  "conditionnelPasse": [ "me serais regelé(e)", "te serais regelé(e)", "se serait regelé(e)", "nous serions regelé(e)s", "vous seriez regelé(e)(s)", "se seraient regelé(e)s" ],
+  "conditionnelPasseII": [ "me fusse regelé(e)", "te fusses regelé(e)", "se fût regelé(e)", "nous fussions regelé(e)s", "vous fussiez regelé(e)(s)", "se fussent regelé(e)s" ],
+  "imperatif": [ "–", "regèle-toi !", "–", "regelons-nous !", "regelez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

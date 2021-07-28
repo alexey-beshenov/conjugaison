@@ -1,0 +1,22 @@
+{
+  "infinitif": "promettre",
+  "participePresent": "promettant",
+  "participePasse": "promis",
+  "present": [ "promets", "promets", "promet", "promettons", "promettez", "promettent" ],
+  "imparfait": [ "promettais", "promettais", "promettait", "promettions", "promettiez", "promettaient" ],
+  "passeSimple": [ "promis", "promis", "promit", "promîmes", "promîtes", "promirent" ],
+  "futurSimple": [ "promettrai", "promettras", "promettra", "promettrons", "promettrez", "promettront" ],
+  "passeCompose": [ "ai promis", "as promis", "a promis", "avons promis", "avez promis", "ont promis" ],
+  "plusQueParfait": [ "avais promis", "avais promis", "avait promis", "avions promis", "aviez promis", "avaient promis" ],
+  "passeAnterieur": [ "eus promis", "eus promis", "eut promis", "eûmes promis", "eûtes promis", "eurent promis" ],
+  "futurAnterieur": [ "aurai promis", "auras promis", "aura promis", "aurons promis", "aurez promis", "auront promis" ],
+  "subjonctifPresent": [ "promette", "promettes", "promette", "promettions", "promettiez", "promettent" ],
+  "subjonctifImparfait": [ "promisse", "promisses", "promît", "promissions", "promissiez", "promissent" ],
+  "subjonctifPasse": [ "aie promis", "aies promis", "ait promis", "ayons promis", "ayez promis", "aient promis" ],
+  "subjonctifPlusQueParfait": [ "eusse promis", "eusses promis", "eût promis", "eussions promis", "eussiez promis", "eussent promis" ],
+  "conditionnelPresent": [ "promettrais", "promettrais", "promettrait", "promettrions", "promettriez", "promettraient" ],
+  "conditionnelPasse": [ "aurais promis", "aurais promis", "aurait promis", "aurions promis", "auriez promis", "auraient promis" ],
+  "conditionnelPasseII": [ "eusse promis", "eusses promis", "eût promis", "eussions promis", "eussiez promis", "eussent promis" ],
+  "imperatif": [ "–", "promets !", "–", "promettons !", "promettez !", "–" ],
+  "imperatifPasse": [ "–", "aie promis !", "–", "ayons promis !", "ayez promis !", "–" ]
+}

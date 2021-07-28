@@ -1,0 +1,22 @@
+{
+  "infinitif": "se saluer",
+  "participePresent": "se saluant",
+  "participePasse": "salué",
+  "present": [ "–", "–", "se salue", "nous saluons", "vous saluez", "se saluent" ],
+  "imparfait": [ "–", "–", "se saluait", "nous saluions", "vous saluiez", "se saluaient" ],
+  "passeSimple": [ "–", "–", "se salua", "nous saluâmes", "vous saluâtes", "se saluèrent" ],
+  "futurSimple": [ "–", "–", "se saluera", "nous saluerons", "vous saluerez", "se salueront" ],
+  "passeCompose": [ "–", "–", "s'est salué(e)s", "nous sommes salué(e)s", "vous êtes salué(e)(s)", "se sont salué(e)s" ],
+  "plusQueParfait": [ "–", "–", "s'était salué(e)s", "nous étions salué(e)s", "vous étiez salué(e)(s)", "s'étaient salué(e)s" ],
+  "passeAnterieur": [ "–", "–", "se fut salué(e)s", "nous fûmes salué(e)s", "vous fûtes salué(e)(s)", "se furent salué(e)s" ],
+  "futurAnterieur": [ "–", "–", "se sera salué(e)s", "nous serons salué(e)s", "vous serez salué(e)(s)", "se seront salué(e)s" ],
+  "subjonctifPresent": [ "–", "–", "se salue", "nous saluions", "vous saluiez", "se saluent" ],
+  "subjonctifImparfait": [ "–", "–", "se saluât", "nous saluassions", "vous saluassiez", "se saluassent" ],
+  "subjonctifPasse": [ "–", "–", "se soit salué(e)s", "nous soyons salué(e)s", "vous soyez salué(e)(s)", "se soient salué(e)s" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "se fût salué(e)s", "nous fussions salué(e)s", "vous fussiez salué(e)(s)", "se fussent salué(e)s" ],
+  "conditionnelPresent": [ "–", "–", "se saluerait", "nous saluerions", "vous salueriez", "se salueraient" ],
+  "conditionnelPasse": [ "–", "–", "se serait salué(e)s", "nous serions salué(e)s", "vous seriez salué(e)(s)", "se seraient salué(e)s" ],
+  "conditionnelPasseII": [ "–", "–", "se fût salué(e)s", "nous fussions salué(e)s", "vous fussiez salué(e)(s)", "se fussent salué(e)s" ],
+  "imperatif": [ "–", "–", "–", "saluons-nous !", "saluez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

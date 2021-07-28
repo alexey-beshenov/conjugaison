@@ -1,0 +1,22 @@
+{
+  "infinitif": "boire",
+  "participePresent": "buvant",
+  "participePasse": "bu",
+  "present": [ "bois", "bois", "boit", "buvons", "buvez", "boivent" ],
+  "imparfait": [ "buvais", "buvais", "buvait", "buvions", "buviez", "buvaient" ],
+  "passeSimple": [ "bus", "bus", "but", "bûmes", "bûtes", "burent" ],
+  "futurSimple": [ "boirai", "boiras", "boira", "boirons", "boirez", "boiront" ],
+  "passeCompose": [ "ai bu", "as bu", "a bu", "avons bu", "avez bu", "ont bu" ],
+  "plusQueParfait": [ "avais bu", "avais bu", "avait bu", "avions bu", "aviez bu", "avaient bu" ],
+  "passeAnterieur": [ "eus bu", "eus bu", "eut bu", "eûmes bu", "eûtes bu", "eurent bu" ],
+  "futurAnterieur": [ "aurai bu", "auras bu", "aura bu", "aurons bu", "aurez bu", "auront bu" ],
+  "subjonctifPresent": [ "boive", "boives", "boive", "buvions", "buviez", "boivent" ],
+  "subjonctifImparfait": [ "busse", "busses", "bût", "bussions", "bussiez", "bussent" ],
+  "subjonctifPasse": [ "aie bu", "aies bu", "ait bu", "ayons bu", "ayez bu", "aient bu" ],
+  "subjonctifPlusQueParfait": [ "eusse bu", "eusses bu", "eût bu", "eussions bu", "eussiez bu", "eussent bu" ],
+  "conditionnelPresent": [ "boirais", "boirais", "boirait", "boirions", "boiriez", "boiraient" ],
+  "conditionnelPasse": [ "aurais bu", "aurais bu", "aurait bu", "aurions bu", "auriez bu", "auraient bu" ],
+  "conditionnelPasseII": [ "eusse bu", "eusses bu", "eût bu", "eussions bu", "eussiez bu", "eussent bu" ],
+  "imperatif": [ "–", "bois !", "–", "buvons !", "buvez !", "–" ],
+  "imperatifPasse": [ "–", "aie bu !", "–", "ayons bu !", "ayez bu !", "–" ]
+}

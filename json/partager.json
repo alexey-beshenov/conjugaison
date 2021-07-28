@@ -1,0 +1,22 @@
+{
+  "infinitif": "partager",
+  "participePresent": "partageant",
+  "participePasse": "partagé",
+  "present": [ "partage", "partages", "partage", "partageons", "partagez", "partagent" ],
+  "imparfait": [ "partageais", "partageais", "partageait", "partagions", "partagiez", "partageaient" ],
+  "passeSimple": [ "partageai", "partageas", "partagea", "partageâmes", "partageâtes", "partagèrent" ],
+  "futurSimple": [ "partagerai", "partageras", "partagera", "partagerons", "partagerez", "partageront" ],
+  "passeCompose": [ "ai partagé", "as partagé", "a partagé", "avons partagé", "avez partagé", "ont partagé" ],
+  "plusQueParfait": [ "avais partagé", "avais partagé", "avait partagé", "avions partagé", "aviez partagé", "avaient partagé" ],
+  "passeAnterieur": [ "eus partagé", "eus partagé", "eut partagé", "eûmes partagé", "eûtes partagé", "eurent partagé" ],
+  "futurAnterieur": [ "aurai partagé", "auras partagé", "aura partagé", "aurons partagé", "aurez partagé", "auront partagé" ],
+  "subjonctifPresent": [ "partage", "partages", "partage", "partagions", "partagiez", "partagent" ],
+  "subjonctifImparfait": [ "partageasse", "partageasses", "partageât", "partageassions", "partageassiez", "partageassent" ],
+  "subjonctifPasse": [ "aie partagé", "aies partagé", "ait partagé", "ayons partagé", "ayez partagé", "aient partagé" ],
+  "subjonctifPlusQueParfait": [ "eusse partagé", "eusses partagé", "eût partagé", "eussions partagé", "eussiez partagé", "eussent partagé" ],
+  "conditionnelPresent": [ "partagerais", "partagerais", "partagerait", "partagerions", "partageriez", "partageraient" ],
+  "conditionnelPasse": [ "aurais partagé", "aurais partagé", "aurait partagé", "aurions partagé", "auriez partagé", "auraient partagé" ],
+  "conditionnelPasseII": [ "eusse partagé", "eusses partagé", "eût partagé", "eussions partagé", "eussiez partagé", "eussent partagé" ],
+  "imperatif": [ "–", "partage !", "–", "partageons !", "partagez !", "–" ],
+  "imperatifPasse": [ "–", "aie partagé !", "–", "ayons partagé !", "ayez partagé !", "–" ]
+}

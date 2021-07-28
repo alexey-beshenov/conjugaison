@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'étaler",
+  "participePresent": "s'étalant",
+  "participePasse": "étalé",
+  "present": [ "m'étale", "t'étales", "s'étale", "nous étalons", "vous étalez", "s'étalent" ],
+  "imparfait": [ "m'étalais", "t'étalais", "s'étalait", "nous étalions", "vous étaliez", "s'étalaient" ],
+  "passeSimple": [ "m'étalai", "t'étalas", "s'étala", "nous étalâmes", "vous étalâtes", "s'étalèrent" ],
+  "futurSimple": [ "m'étalerai", "t'étaleras", "s'étalera", "nous étalerons", "vous étalerez", "s'étaleront" ],
+  "passeCompose": [ "me suis étalé(e)", "t'es étalé(e)", "s'est étalé(e)", "nous sommes étalé(e)s", "vous êtes étalé(e)(s)", "se sont étalé(e)s" ],
+  "plusQueParfait": [ "m'étais étalé(e)", "t'étais étalé(e)", "s'était étalé(e)", "nous étions étalé(e)s", "vous étiez étalé(e)(s)", "s'étaient étalé(e)s" ],
+  "passeAnterieur": [ "me fus étalé(e)", "te fus étalé(e)", "se fut étalé(e)", "nous fûmes étalé(e)s", "vous fûtes étalé(e)(s)", "se furent étalé(e)s" ],
+  "futurAnterieur": [ "me serai étalé(e)", "te seras étalé(e)", "se sera étalé(e)", "nous serons étalé(e)s", "vous serez étalé(e)(s)", "se seront étalé(e)s" ],
+  "subjonctifPresent": [ "m'étale", "t'étales", "s'étale", "nous étalions", "vous étaliez", "s'étalent" ],
+  "subjonctifImparfait": [ "m'étalasse", "t'étalasses", "s'étalât", "nous étalassions", "vous étalassiez", "s'étalassent" ],
+  "subjonctifPasse": [ "me sois étalé(e)", "te sois étalé(e)", "se soit étalé(e)", "nous soyons étalé(e)s", "vous soyez étalé(e)(s)", "se soient étalé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse étalé(e)", "te fusses étalé(e)", "se fût étalé(e)", "nous fussions étalé(e)s", "vous fussiez étalé(e)(s)", "se fussent étalé(e)s" ],
+  "conditionnelPresent": [ "m'étalerais", "t'étalerais", "s'étalerait", "nous étalerions", "vous étaleriez", "s'étaleraient" ],
+  "conditionnelPasse": [ "me serais étalé(e)", "te serais étalé(e)", "se serait étalé(e)", "nous serions étalé(e)s", "vous seriez étalé(e)(s)", "se seraient étalé(e)s" ],
+  "conditionnelPasseII": [ "me fusse étalé(e)", "te fusses étalé(e)", "se fût étalé(e)", "nous fussions étalé(e)s", "vous fussiez étalé(e)(s)", "se fussent étalé(e)s" ],
+  "imperatif": [ "–", "étale-toi !", "–", "étalons-nous !", "étalez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

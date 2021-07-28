@@ -1,0 +1,22 @@
+{
+  "infinitif": "se garder",
+  "participePresent": "se gardant",
+  "participePasse": "gardé",
+  "present": [ "me garde", "te gardes", "se garde", "nous gardons", "vous gardez", "se gardent" ],
+  "imparfait": [ "me gardais", "te gardais", "se gardait", "nous gardions", "vous gardiez", "se gardaient" ],
+  "passeSimple": [ "me gardai", "te gardas", "se garda", "nous gardâmes", "vous gardâtes", "se gardèrent" ],
+  "futurSimple": [ "me garderai", "te garderas", "se gardera", "nous garderons", "vous garderez", "se garderont" ],
+  "passeCompose": [ "me suis gardé(e)", "t'es gardé(e)", "s'est gardé(e)", "nous sommes gardé(e)s", "vous êtes gardé(e)(s)", "se sont gardé(e)s" ],
+  "plusQueParfait": [ "m'étais gardé(e)", "t'étais gardé(e)", "s'était gardé(e)", "nous étions gardé(e)s", "vous étiez gardé(e)(s)", "s'étaient gardé(e)s" ],
+  "passeAnterieur": [ "me fus gardé(e)", "te fus gardé(e)", "se fut gardé(e)", "nous fûmes gardé(e)s", "vous fûtes gardé(e)(s)", "se furent gardé(e)s" ],
+  "futurAnterieur": [ "me serai gardé(e)", "te seras gardé(e)", "se sera gardé(e)", "nous serons gardé(e)s", "vous serez gardé(e)(s)", "se seront gardé(e)s" ],
+  "subjonctifPresent": [ "me garde", "te gardes", "se garde", "nous gardions", "vous gardiez", "se gardent" ],
+  "subjonctifImparfait": [ "me gardasse", "te gardasses", "se gardât", "nous gardassions", "vous gardassiez", "se gardassent" ],
+  "subjonctifPasse": [ "me sois gardé(e)", "te sois gardé(e)", "se soit gardé(e)", "nous soyons gardé(e)s", "vous soyez gardé(e)(s)", "se soient gardé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse gardé(e)", "te fusses gardé(e)", "se fût gardé(e)", "nous fussions gardé(e)s", "vous fussiez gardé(e)(s)", "se fussent gardé(e)s" ],
+  "conditionnelPresent": [ "me garderais", "te garderais", "se garderait", "nous garderions", "vous garderiez", "se garderaient" ],
+  "conditionnelPasse": [ "me serais gardé(e)", "te serais gardé(e)", "se serait gardé(e)", "nous serions gardé(e)s", "vous seriez gardé(e)(s)", "se seraient gardé(e)s" ],
+  "conditionnelPasseII": [ "me fusse gardé(e)", "te fusses gardé(e)", "se fût gardé(e)", "nous fussions gardé(e)s", "vous fussiez gardé(e)(s)", "se fussent gardé(e)s" ],
+  "imperatif": [ "–", "garde-toi !", "–", "gardons-nous !", "gardez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se charger",
+  "participePresent": "se chargeant",
+  "participePasse": "chargé",
+  "present": [ "me charge", "te charges", "se charge", "nous chargeons", "vous chargez", "se chargent" ],
+  "imparfait": [ "me chargeais", "te chargeais", "se chargeait", "nous chargions", "vous chargiez", "se chargeaient" ],
+  "passeSimple": [ "me chargeai", "te chargeas", "se chargea", "nous chargeâmes", "vous chargeâtes", "se chargèrent" ],
+  "futurSimple": [ "me chargerai", "te chargeras", "se chargera", "nous chargerons", "vous chargerez", "se chargeront" ],
+  "passeCompose": [ "me suis chargé(e)", "t'es chargé(e)", "s'est chargé(e)", "nous sommes chargé(e)s", "vous êtes chargé(e)(s)", "se sont chargé(e)s" ],
+  "plusQueParfait": [ "m'étais chargé(e)", "t'étais chargé(e)", "s'était chargé(e)", "nous étions chargé(e)s", "vous étiez chargé(e)(s)", "s'étaient chargé(e)s" ],
+  "passeAnterieur": [ "me fus chargé(e)", "te fus chargé(e)", "se fut chargé(e)", "nous fûmes chargé(e)s", "vous fûtes chargé(e)(s)", "se furent chargé(e)s" ],
+  "futurAnterieur": [ "me serai chargé(e)", "te seras chargé(e)", "se sera chargé(e)", "nous serons chargé(e)s", "vous serez chargé(e)(s)", "se seront chargé(e)s" ],
+  "subjonctifPresent": [ "me charge", "te charges", "se charge", "nous chargions", "vous chargiez", "se chargent" ],
+  "subjonctifImparfait": [ "me chargeasse", "te chargeasses", "se chargeât", "nous chargeassions", "vous chargeassiez", "se chargeassent" ],
+  "subjonctifPasse": [ "me sois chargé(e)", "te sois chargé(e)", "se soit chargé(e)", "nous soyons chargé(e)s", "vous soyez chargé(e)(s)", "se soient chargé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse chargé(e)", "te fusses chargé(e)", "se fût chargé(e)", "nous fussions chargé(e)s", "vous fussiez chargé(e)(s)", "se fussent chargé(e)s" ],
+  "conditionnelPresent": [ "me chargerais", "te chargerais", "se chargerait", "nous chargerions", "vous chargeriez", "se chargeraient" ],
+  "conditionnelPasse": [ "me serais chargé(e)", "te serais chargé(e)", "se serait chargé(e)", "nous serions chargé(e)s", "vous seriez chargé(e)(s)", "se seraient chargé(e)s" ],
+  "conditionnelPasseII": [ "me fusse chargé(e)", "te fusses chargé(e)", "se fût chargé(e)", "nous fussions chargé(e)s", "vous fussiez chargé(e)(s)", "se fussent chargé(e)s" ],
+  "imperatif": [ "–", "charge-toi !", "–", "chargeons-nous !", "chargez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "tourner",
+  "participePresent": "tournant",
+  "participePasse": "tourné",
+  "present": [ "tourne", "tournes", "tourne", "tournons", "tournez", "tournent" ],
+  "imparfait": [ "tournais", "tournais", "tournait", "tournions", "tourniez", "tournaient" ],
+  "passeSimple": [ "tournai", "tournas", "tourna", "tournâmes", "tournâtes", "tournèrent" ],
+  "futurSimple": [ "tournerai", "tourneras", "tournera", "tournerons", "tournerez", "tourneront" ],
+  "passeCompose": [ "ai tourné", "as tourné", "a tourné", "avons tourné", "avez tourné", "ont tourné" ],
+  "plusQueParfait": [ "avais tourné", "avais tourné", "avait tourné", "avions tourné", "aviez tourné", "avaient tourné" ],
+  "passeAnterieur": [ "eus tourné", "eus tourné", "eut tourné", "eûmes tourné", "eûtes tourné", "eurent tourné" ],
+  "futurAnterieur": [ "aurai tourné", "auras tourné", "aura tourné", "aurons tourné", "aurez tourné", "auront tourné" ],
+  "subjonctifPresent": [ "tourne", "tournes", "tourne", "tournions", "tourniez", "tournent" ],
+  "subjonctifImparfait": [ "tournasse", "tournasses", "tournât", "tournassions", "tournassiez", "tournassent" ],
+  "subjonctifPasse": [ "aie tourné", "aies tourné", "ait tourné", "ayons tourné", "ayez tourné", "aient tourné" ],
+  "subjonctifPlusQueParfait": [ "eusse tourné", "eusses tourné", "eût tourné", "eussions tourné", "eussiez tourné", "eussent tourné" ],
+  "conditionnelPresent": [ "tournerais", "tournerais", "tournerait", "tournerions", "tourneriez", "tourneraient" ],
+  "conditionnelPasse": [ "aurais tourné", "aurais tourné", "aurait tourné", "aurions tourné", "auriez tourné", "auraient tourné" ],
+  "conditionnelPasseII": [ "eusse tourné", "eusses tourné", "eût tourné", "eussions tourné", "eussiez tourné", "eussent tourné" ],
+  "imperatif": [ "–", "tourne !", "–", "tournons !", "tournez !", "–" ],
+  "imperatifPasse": [ "–", "aie tourné !", "–", "ayons tourné !", "ayez tourné !", "–" ]
+}

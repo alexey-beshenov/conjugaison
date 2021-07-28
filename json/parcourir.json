@@ -1,0 +1,22 @@
+{
+  "infinitif": "parcourir",
+  "participePresent": "parcourant",
+  "participePasse": "parcouru",
+  "present": [ "parcours", "parcours", "parcourt", "parcourons", "parcourez", "parcourent" ],
+  "imparfait": [ "parcourais", "parcourais", "parcourait", "parcourions", "parcouriez", "parcouraient" ],
+  "passeSimple": [ "parcourus", "parcourus", "parcourut", "parcourûmes", "parcourûtes", "parcoururent" ],
+  "futurSimple": [ "parcourrai", "parcourras", "parcourra", "parcourrons", "parcourrez", "parcourront" ],
+  "passeCompose": [ "ai parcouru", "as parcouru", "a parcouru", "avons parcouru", "avez parcouru", "ont parcouru" ],
+  "plusQueParfait": [ "avais parcouru", "avais parcouru", "avait parcouru", "avions parcouru", "aviez parcouru", "avaient parcouru" ],
+  "passeAnterieur": [ "eus parcouru", "eus parcouru", "eut parcouru", "eûmes parcouru", "eûtes parcouru", "eurent parcouru" ],
+  "futurAnterieur": [ "aurai parcouru", "auras parcouru", "aura parcouru", "aurons parcouru", "aurez parcouru", "auront parcouru" ],
+  "subjonctifPresent": [ "parcoure", "parcoures", "parcoure", "parcourions", "parcouriez", "parcourent" ],
+  "subjonctifImparfait": [ "parcourusse", "parcourusses", "parcourût", "parcourussions", "parcourussiez", "parcourussent" ],
+  "subjonctifPasse": [ "aie parcouru", "aies parcouru", "ait parcouru", "ayons parcouru", "ayez parcouru", "aient parcouru" ],
+  "subjonctifPlusQueParfait": [ "eusse parcouru", "eusses parcouru", "eût parcouru", "eussions parcouru", "eussiez parcouru", "eussent parcouru" ],
+  "conditionnelPresent": [ "parcourrais", "parcourrais", "parcourrait", "parcourrions", "parcourriez", "parcourraient" ],
+  "conditionnelPasse": [ "aurais parcouru", "aurais parcouru", "aurait parcouru", "aurions parcouru", "auriez parcouru", "auraient parcouru" ],
+  "conditionnelPasseII": [ "eusse parcouru", "eusses parcouru", "eût parcouru", "eussions parcouru", "eussiez parcouru", "eussent parcouru" ],
+  "imperatif": [ "–", "parcours !", "–", "parcourons !", "parcourez !", "–" ],
+  "imperatifPasse": [ "–", "aie parcouru !", "–", "ayons parcouru !", "ayez parcouru !", "–" ]
+}

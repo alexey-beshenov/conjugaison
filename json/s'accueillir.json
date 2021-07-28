@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'accueillir",
+  "participePresent": "s'accueillant",
+  "participePasse": "accueilli",
+  "present": [ "m'accueille", "t'accueilles", "s'accueille", "nous accueillons", "vous accueillez", "s'accueillent" ],
+  "imparfait": [ "m'accueillais", "t'accueillais", "s'accueillait", "nous accueillions", "vous accueilliez", "s'accueillaient" ],
+  "passeSimple": [ "m'accueillis", "t'accueillis", "s'accueillit", "nous accueillîmes", "vous accueillîtes", "s'accueillirent" ],
+  "futurSimple": [ "m'accueillerai", "t'accueilleras", "s'accueillera", "nous accueillerons", "vous accueillerez", "s'accueilleront" ],
+  "passeCompose": [ "me suis accueilli(e)", "t'es accueilli(e)", "s'est accueilli(e)", "nous sommes accueilli(e)s", "vous êtes accueilli(e)(s)", "se sont accueilli(e)s" ],
+  "plusQueParfait": [ "m'étais accueilli(e)", "t'étais accueilli(e)", "s'était accueilli(e)", "nous étions accueilli(e)s", "vous étiez accueilli(e)(s)", "s'étaient accueilli(e)s" ],
+  "passeAnterieur": [ "me fus accueilli(e)", "te fus accueilli(e)", "se fut accueilli(e)", "nous fûmes accueilli(e)s", "vous fûtes accueilli(e)(s)", "se furent accueilli(e)s" ],
+  "futurAnterieur": [ "me serai accueilli(e)", "te seras accueilli(e)", "se sera accueilli(e)", "nous serons accueilli(e)s", "vous serez accueilli(e)(s)", "se seront accueilli(e)s" ],
+  "subjonctifPresent": [ "m'accueille", "t'accueilles", "s'accueille", "nous accueillions", "vous accueilliez", "s'accueillent" ],
+  "subjonctifImparfait": [ "m'accueillisse", "t'accueillisses", "s'accueillît", "nous accueillissions", "vous accueillissiez", "s'accueillissent" ],
+  "subjonctifPasse": [ "me sois accueilli(e)", "te sois accueilli(e)", "se soit accueilli(e)", "nous soyons accueilli(e)s", "vous soyez accueilli(e)(s)", "se soient accueilli(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse accueilli(e)", "te fusses accueilli(e)", "se fût accueilli(e)", "nous fussions accueilli(e)s", "vous fussiez accueilli(e)(s)", "se fussent accueilli(e)s" ],
+  "conditionnelPresent": [ "m'accueillerais", "t'accueillerais", "s'accueillerait", "nous accueillerions", "vous accueilleriez", "s'accueilleraient" ],
+  "conditionnelPasse": [ "me serais accueilli(e)", "te serais accueilli(e)", "se serait accueilli(e)", "nous serions accueilli(e)s", "vous seriez accueilli(e)(s)", "se seraient accueilli(e)s" ],
+  "conditionnelPasseII": [ "me fusse accueilli(e)", "te fusses accueilli(e)", "se fût accueilli(e)", "nous fussions accueilli(e)s", "vous fussiez accueilli(e)(s)", "se fussent accueilli(e)s" ],
+  "imperatif": [ "–", "accueille-toi !", "–", "accueillons-nous !", "accueillez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

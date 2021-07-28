@@ -1,0 +1,22 @@
+{
+  "infinitif": "ajouter",
+  "participePresent": "ajoutant",
+  "participePasse": "ajouté",
+  "present": [ "ajoute", "ajoutes", "ajoute", "ajoutons", "ajoutez", "ajoutent" ],
+  "imparfait": [ "ajoutais", "ajoutais", "ajoutait", "ajoutions", "ajoutiez", "ajoutaient" ],
+  "passeSimple": [ "ajoutai", "ajoutas", "ajouta", "ajoutâmes", "ajoutâtes", "ajoutèrent" ],
+  "futurSimple": [ "ajouterai", "ajouteras", "ajoutera", "ajouterons", "ajouterez", "ajouteront" ],
+  "passeCompose": [ "ai ajouté", "as ajouté", "a ajouté", "avons ajouté", "avez ajouté", "ont ajouté" ],
+  "plusQueParfait": [ "avais ajouté", "avais ajouté", "avait ajouté", "avions ajouté", "aviez ajouté", "avaient ajouté" ],
+  "passeAnterieur": [ "eus ajouté", "eus ajouté", "eut ajouté", "eûmes ajouté", "eûtes ajouté", "eurent ajouté" ],
+  "futurAnterieur": [ "aurai ajouté", "auras ajouté", "aura ajouté", "aurons ajouté", "aurez ajouté", "auront ajouté" ],
+  "subjonctifPresent": [ "ajoute", "ajoutes", "ajoute", "ajoutions", "ajoutiez", "ajoutent" ],
+  "subjonctifImparfait": [ "ajoutasse", "ajoutasses", "ajoutât", "ajoutassions", "ajoutassiez", "ajoutassent" ],
+  "subjonctifPasse": [ "aie ajouté", "aies ajouté", "ait ajouté", "ayons ajouté", "ayez ajouté", "aient ajouté" ],
+  "subjonctifPlusQueParfait": [ "eusse ajouté", "eusses ajouté", "eût ajouté", "eussions ajouté", "eussiez ajouté", "eussent ajouté" ],
+  "conditionnelPresent": [ "ajouterais", "ajouterais", "ajouterait", "ajouterions", "ajouteriez", "ajouteraient" ],
+  "conditionnelPasse": [ "aurais ajouté", "aurais ajouté", "aurait ajouté", "aurions ajouté", "auriez ajouté", "auraient ajouté" ],
+  "conditionnelPasseII": [ "eusse ajouté", "eusses ajouté", "eût ajouté", "eussions ajouté", "eussiez ajouté", "eussent ajouté" ],
+  "imperatif": [ "–", "ajoute !", "–", "ajoutons !", "ajoutez !", "–" ],
+  "imperatifPasse": [ "–", "aie ajouté !", "–", "ayons ajouté !", "ayez ajouté !", "–" ]
+}

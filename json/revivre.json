@@ -1,0 +1,22 @@
+{
+  "infinitif": "revivre",
+  "participePresent": "revivant",
+  "participePasse": "revécu",
+  "present": [ "revis", "revis", "revit", "revivons", "revivez", "revivent" ],
+  "imparfait": [ "revivais", "revivais", "revivait", "revivions", "reviviez", "revivaient" ],
+  "passeSimple": [ "revécus", "revécus", "revécut", "revécûmes", "revécûtes", "revécurent" ],
+  "futurSimple": [ "revivrai", "revivras", "revivra", "revivrons", "revivrez", "revivront" ],
+  "passeCompose": [ "ai revécu", "as revécu", "a revécu", "avons revécu", "avez revécu", "ont revécu" ],
+  "plusQueParfait": [ "avais revécu", "avais revécu", "avait revécu", "avions revécu", "aviez revécu", "avaient revécu" ],
+  "passeAnterieur": [ "eus revécu", "eus revécu", "eut revécu", "eûmes revécu", "eûtes revécu", "eurent revécu" ],
+  "futurAnterieur": [ "aurai revécu", "auras revécu", "aura revécu", "aurons revécu", "aurez revécu", "auront revécu" ],
+  "subjonctifPresent": [ "revive", "revives", "revive", "revivions", "reviviez", "revivent" ],
+  "subjonctifImparfait": [ "revécusse", "revécusses", "revécût", "revécussions", "revécussiez", "revécussent" ],
+  "subjonctifPasse": [ "aie revécu", "aies revécu", "ait revécu", "ayons revécu", "ayez revécu", "aient revécu" ],
+  "subjonctifPlusQueParfait": [ "eusse revécu", "eusses revécu", "eût revécu", "eussions revécu", "eussiez revécu", "eussent revécu" ],
+  "conditionnelPresent": [ "revivrais", "revivrais", "revivrait", "revivrions", "revivriez", "revivraient" ],
+  "conditionnelPasse": [ "aurais revécu", "aurais revécu", "aurait revécu", "aurions revécu", "auriez revécu", "auraient revécu" ],
+  "conditionnelPasseII": [ "eusse revécu", "eusses revécu", "eût revécu", "eussions revécu", "eussiez revécu", "eussent revécu" ],
+  "imperatif": [ "–", "revis !", "–", "revivons !", "revivez !", "–" ],
+  "imperatifPasse": [ "–", "aie revécu !", "–", "ayons revécu !", "ayez revécu !", "–" ]
+}

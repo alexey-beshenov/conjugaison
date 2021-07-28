@@ -1,0 +1,22 @@
+{
+  "infinitif": "pencher",
+  "participePresent": "penchant",
+  "participePasse": "penché",
+  "present": [ "penche", "penches", "penche", "penchons", "penchez", "penchent" ],
+  "imparfait": [ "penchais", "penchais", "penchait", "penchions", "penchiez", "penchaient" ],
+  "passeSimple": [ "penchai", "penchas", "pencha", "penchâmes", "penchâtes", "penchèrent" ],
+  "futurSimple": [ "pencherai", "pencheras", "penchera", "pencherons", "pencherez", "pencheront" ],
+  "passeCompose": [ "ai penché", "as penché", "a penché", "avons penché", "avez penché", "ont penché" ],
+  "plusQueParfait": [ "avais penché", "avais penché", "avait penché", "avions penché", "aviez penché", "avaient penché" ],
+  "passeAnterieur": [ "eus penché", "eus penché", "eut penché", "eûmes penché", "eûtes penché", "eurent penché" ],
+  "futurAnterieur": [ "aurai penché", "auras penché", "aura penché", "aurons penché", "aurez penché", "auront penché" ],
+  "subjonctifPresent": [ "penche", "penches", "penche", "penchions", "penchiez", "penchent" ],
+  "subjonctifImparfait": [ "penchasse", "penchasses", "penchât", "penchassions", "penchassiez", "penchassent" ],
+  "subjonctifPasse": [ "aie penché", "aies penché", "ait penché", "ayons penché", "ayez penché", "aient penché" ],
+  "subjonctifPlusQueParfait": [ "eusse penché", "eusses penché", "eût penché", "eussions penché", "eussiez penché", "eussent penché" ],
+  "conditionnelPresent": [ "pencherais", "pencherais", "pencherait", "pencherions", "pencheriez", "pencheraient" ],
+  "conditionnelPasse": [ "aurais penché", "aurais penché", "aurait penché", "aurions penché", "auriez penché", "auraient penché" ],
+  "conditionnelPasseII": [ "eusse penché", "eusses penché", "eût penché", "eussions penché", "eussiez penché", "eussent penché" ],
+  "imperatif": [ "–", "penche !", "–", "penchons !", "penchez !", "–" ],
+  "imperatifPasse": [ "–", "aie penché !", "–", "ayons penché !", "ayez penché !", "–" ]
+}

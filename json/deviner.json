@@ -1,0 +1,22 @@
+{
+  "infinitif": "deviner",
+  "participePresent": "devinant",
+  "participePasse": "deviné",
+  "present": [ "devine", "devines", "devine", "devinons", "devinez", "devinent" ],
+  "imparfait": [ "devinais", "devinais", "devinait", "devinions", "deviniez", "devinaient" ],
+  "passeSimple": [ "devinai", "devinas", "devina", "devinâmes", "devinâtes", "devinèrent" ],
+  "futurSimple": [ "devinerai", "devineras", "devinera", "devinerons", "devinerez", "devineront" ],
+  "passeCompose": [ "ai deviné", "as deviné", "a deviné", "avons deviné", "avez deviné", "ont deviné" ],
+  "plusQueParfait": [ "avais deviné", "avais deviné", "avait deviné", "avions deviné", "aviez deviné", "avaient deviné" ],
+  "passeAnterieur": [ "eus deviné", "eus deviné", "eut deviné", "eûmes deviné", "eûtes deviné", "eurent deviné" ],
+  "futurAnterieur": [ "aurai deviné", "auras deviné", "aura deviné", "aurons deviné", "aurez deviné", "auront deviné" ],
+  "subjonctifPresent": [ "devine", "devines", "devine", "devinions", "deviniez", "devinent" ],
+  "subjonctifImparfait": [ "devinasse", "devinasses", "devinât", "devinassions", "devinassiez", "devinassent" ],
+  "subjonctifPasse": [ "aie deviné", "aies deviné", "ait deviné", "ayons deviné", "ayez deviné", "aient deviné" ],
+  "subjonctifPlusQueParfait": [ "eusse deviné", "eusses deviné", "eût deviné", "eussions deviné", "eussiez deviné", "eussent deviné" ],
+  "conditionnelPresent": [ "devinerais", "devinerais", "devinerait", "devinerions", "devineriez", "devineraient" ],
+  "conditionnelPasse": [ "aurais deviné", "aurais deviné", "aurait deviné", "aurions deviné", "auriez deviné", "auraient deviné" ],
+  "conditionnelPasseII": [ "eusse deviné", "eusses deviné", "eût deviné", "eussions deviné", "eussiez deviné", "eussent deviné" ],
+  "imperatif": [ "–", "devine !", "–", "devinons !", "devinez !", "–" ],
+  "imperatifPasse": [ "–", "aie deviné !", "–", "ayons deviné !", "ayez deviné !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "déchoir",
+  "participePresent": "–",
+  "participePasse": "déchu",
+  "present": [ "déchois", "déchois", "déchoit", "déchoyons", "déchoyez", "déchoient" ],
+  "imparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "passeSimple": [ "déchus", "déchus", "déchut", "déchûmes", "déchûtes", "déchurent" ],
+  "futurSimple": [ "déchoirai", "déchoiras", "déchoira", "déchoirons", "déchoirez", "déchoiront" ],
+  "passeCompose": [ "ai déchu", "as déchu", "a déchu", "avons déchu", "avez déchu", "ont déchu" ],
+  "plusQueParfait": [ "avais déchu", "avais déchu", "avait déchu", "avions déchu", "aviez déchu", "avaient déchu" ],
+  "passeAnterieur": [ "eus déchu", "eus déchu", "eut déchu", "eûmes déchu", "eûtes déchu", "eurent déchu" ],
+  "futurAnterieur": [ "aurai déchu", "auras déchu", "aura déchu", "aurons déchu", "aurez déchu", "auront déchu" ],
+  "subjonctifPresent": [ "déchoie", "déchoies", "déchoie", "déchoyions", "déchoyiez", "déchoient" ],
+  "subjonctifImparfait": [ "déchusse", "déchusses", "déchût", "déchussions", "déchussiez", "déchussent" ],
+  "subjonctifPasse": [ "aie déchu", "aies déchu", "ait déchu", "ayons déchu", "ayez déchu", "aient déchu" ],
+  "subjonctifPlusQueParfait": [ "eusse déchu", "eusses déchu", "eût déchu", "eussions déchu", "eussiez déchu", "eussent déchu" ],
+  "conditionnelPresent": [ "déchoirais", "déchoirais", "déchoirait", "déchoirions", "déchoiriez", "déchoiraient" ],
+  "conditionnelPasse": [ "aurais déchu", "aurais déchu", "aurait déchu", "aurions déchu", "auriez déchu", "auraient déchu" ],
+  "conditionnelPasseII": [ "eusse déchu", "eusses déchu", "eût déchu", "eussions déchu", "eussiez déchu", "eussent déchu" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

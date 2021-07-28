@@ -1,0 +1,22 @@
+{
+  "infinitif": "se précipiter",
+  "participePresent": "se précipitant",
+  "participePasse": "précipité",
+  "present": [ "me précipite", "te précipites", "se précipite", "nous précipitons", "vous précipitez", "se précipitent" ],
+  "imparfait": [ "me précipitais", "te précipitais", "se précipitait", "nous précipitions", "vous précipitiez", "se précipitaient" ],
+  "passeSimple": [ "me précipitai", "te précipitas", "se précipita", "nous précipitâmes", "vous précipitâtes", "se précipitèrent" ],
+  "futurSimple": [ "me précipiterai", "te précipiteras", "se précipitera", "nous précipiterons", "vous précipiterez", "se précipiteront" ],
+  "passeCompose": [ "me suis précipité(e)", "t'es précipité(e)", "s'est précipité(e)", "nous sommes précipité(e)s", "vous êtes précipité(e)(s)", "se sont précipité(e)s" ],
+  "plusQueParfait": [ "m'étais précipité(e)", "t'étais précipité(e)", "s'était précipité(e)", "nous étions précipité(e)s", "vous étiez précipité(e)(s)", "s'étaient précipité(e)s" ],
+  "passeAnterieur": [ "me fus précipité(e)", "te fus précipité(e)", "se fut précipité(e)", "nous fûmes précipité(e)s", "vous fûtes précipité(e)(s)", "se furent précipité(e)s" ],
+  "futurAnterieur": [ "me serai précipité(e)", "te seras précipité(e)", "se sera précipité(e)", "nous serons précipité(e)s", "vous serez précipité(e)(s)", "se seront précipité(e)s" ],
+  "subjonctifPresent": [ "me précipite", "te précipites", "se précipite", "nous précipitions", "vous précipitiez", "se précipitent" ],
+  "subjonctifImparfait": [ "me précipitasse", "te précipitasses", "se précipitât", "nous précipitassions", "vous précipitassiez", "se précipitassent" ],
+  "subjonctifPasse": [ "me sois précipité(e)", "te sois précipité(e)", "se soit précipité(e)", "nous soyons précipité(e)s", "vous soyez précipité(e)(s)", "se soient précipité(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse précipité(e)", "te fusses précipité(e)", "se fût précipité(e)", "nous fussions précipité(e)s", "vous fussiez précipité(e)(s)", "se fussent précipité(e)s" ],
+  "conditionnelPresent": [ "me précipiterais", "te précipiterais", "se précipiterait", "nous précipiterions", "vous précipiteriez", "se précipiteraient" ],
+  "conditionnelPasse": [ "me serais précipité(e)", "te serais précipité(e)", "se serait précipité(e)", "nous serions précipité(e)s", "vous seriez précipité(e)(s)", "se seraient précipité(e)s" ],
+  "conditionnelPasseII": [ "me fusse précipité(e)", "te fusses précipité(e)", "se fût précipité(e)", "nous fussions précipité(e)s", "vous fussiez précipité(e)(s)", "se fussent précipité(e)s" ],
+  "imperatif": [ "–", "précipite-toi !", "–", "précipitons-nous !", "précipitez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

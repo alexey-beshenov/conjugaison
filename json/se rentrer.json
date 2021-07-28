@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rentrer",
+  "participePresent": "se rentrant",
+  "participePasse": "rentré",
+  "present": [ "me rentre", "te rentres", "se rentre", "nous rentrons", "vous rentrez", "se rentrent" ],
+  "imparfait": [ "me rentrais", "te rentrais", "se rentrait", "nous rentrions", "vous rentriez", "se rentraient" ],
+  "passeSimple": [ "me rentrai", "te rentras", "se rentra", "nous rentrâmes", "vous rentrâtes", "se rentrèrent" ],
+  "futurSimple": [ "me rentrerai", "te rentreras", "se rentrera", "nous rentrerons", "vous rentrerez", "se rentreront" ],
+  "passeCompose": [ "me suis rentré(e)", "t'es rentré(e)", "s'est rentré(e)", "nous sommes rentré(e)s", "vous êtes rentré(e)(s)", "se sont rentré(e)s" ],
+  "plusQueParfait": [ "m'étais rentré(e)", "t'étais rentré(e)", "s'était rentré(e)", "nous étions rentré(e)s", "vous étiez rentré(e)(s)", "s'étaient rentré(e)s" ],
+  "passeAnterieur": [ "me fus rentré(e)", "te fus rentré(e)", "se fut rentré(e)", "nous fûmes rentré(e)s", "vous fûtes rentré(e)(s)", "se furent rentré(e)s" ],
+  "futurAnterieur": [ "me serai rentré(e)", "te seras rentré(e)", "se sera rentré(e)", "nous serons rentré(e)s", "vous serez rentré(e)(s)", "se seront rentré(e)s" ],
+  "subjonctifPresent": [ "me rentre", "te rentres", "se rentre", "nous rentrions", "vous rentriez", "se rentrent" ],
+  "subjonctifImparfait": [ "me rentrasse", "te rentrasses", "se rentrât", "nous rentrassions", "vous rentrassiez", "se rentrassent" ],
+  "subjonctifPasse": [ "me sois rentré(e)", "te sois rentré(e)", "se soit rentré(e)", "nous soyons rentré(e)s", "vous soyez rentré(e)(s)", "se soient rentré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rentré(e)", "te fusses rentré(e)", "se fût rentré(e)", "nous fussions rentré(e)s", "vous fussiez rentré(e)(s)", "se fussent rentré(e)s" ],
+  "conditionnelPresent": [ "me rentrerais", "te rentrerais", "se rentrerait", "nous rentrerions", "vous rentreriez", "se rentreraient" ],
+  "conditionnelPasse": [ "me serais rentré(e)", "te serais rentré(e)", "se serait rentré(e)", "nous serions rentré(e)s", "vous seriez rentré(e)(s)", "se seraient rentré(e)s" ],
+  "conditionnelPasseII": [ "me fusse rentré(e)", "te fusses rentré(e)", "se fût rentré(e)", "nous fussions rentré(e)s", "vous fussiez rentré(e)(s)", "se fussent rentré(e)s" ],
+  "imperatif": [ "–", "rentre-toi !", "–", "rentrons-nous !", "rentrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

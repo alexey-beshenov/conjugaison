@@ -1,0 +1,22 @@
+{
+  "infinitif": "mêler",
+  "participePresent": "mêlant",
+  "participePasse": "mêlé",
+  "present": [ "mêle", "mêles", "mêle", "mêlons", "mêlez", "mêlent" ],
+  "imparfait": [ "mêlais", "mêlais", "mêlait", "mêlions", "mêliez", "mêlaient" ],
+  "passeSimple": [ "mêlai", "mêlas", "mêla", "mêlâmes", "mêlâtes", "mêlèrent" ],
+  "futurSimple": [ "mêlerai", "mêleras", "mêlera", "mêlerons", "mêlerez", "mêleront" ],
+  "passeCompose": [ "ai mêlé", "as mêlé", "a mêlé", "avons mêlé", "avez mêlé", "ont mêlé" ],
+  "plusQueParfait": [ "avais mêlé", "avais mêlé", "avait mêlé", "avions mêlé", "aviez mêlé", "avaient mêlé" ],
+  "passeAnterieur": [ "eus mêlé", "eus mêlé", "eut mêlé", "eûmes mêlé", "eûtes mêlé", "eurent mêlé" ],
+  "futurAnterieur": [ "aurai mêlé", "auras mêlé", "aura mêlé", "aurons mêlé", "aurez mêlé", "auront mêlé" ],
+  "subjonctifPresent": [ "mêle", "mêles", "mêle", "mêlions", "mêliez", "mêlent" ],
+  "subjonctifImparfait": [ "mêlasse", "mêlasses", "mêlât", "mêlassions", "mêlassiez", "mêlassent" ],
+  "subjonctifPasse": [ "aie mêlé", "aies mêlé", "ait mêlé", "ayons mêlé", "ayez mêlé", "aient mêlé" ],
+  "subjonctifPlusQueParfait": [ "eusse mêlé", "eusses mêlé", "eût mêlé", "eussions mêlé", "eussiez mêlé", "eussent mêlé" ],
+  "conditionnelPresent": [ "mêlerais", "mêlerais", "mêlerait", "mêlerions", "mêleriez", "mêleraient" ],
+  "conditionnelPasse": [ "aurais mêlé", "aurais mêlé", "aurait mêlé", "aurions mêlé", "auriez mêlé", "auraient mêlé" ],
+  "conditionnelPasseII": [ "eusse mêlé", "eusses mêlé", "eût mêlé", "eussions mêlé", "eussiez mêlé", "eussent mêlé" ],
+  "imperatif": [ "–", "mêle !", "–", "mêlons !", "mêlez !", "–" ],
+  "imperatifPasse": [ "–", "aie mêlé !", "–", "ayons mêlé !", "ayez mêlé !", "–" ]
+}

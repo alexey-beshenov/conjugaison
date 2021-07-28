@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'effacer",
+  "participePresent": "s'effaçant",
+  "participePasse": "effacé",
+  "present": [ "m'efface", "t'effaces", "s'efface", "nous effaçons", "vous effacez", "s'effacent" ],
+  "imparfait": [ "m'effaçais", "t'effaçais", "s'effaçait", "nous effacions", "vous effaciez", "s'effaçaient" ],
+  "passeSimple": [ "m'effaçai", "t'effaças", "s'effaça", "nous effaçâmes", "vous effaçâtes", "s'effacèrent" ],
+  "futurSimple": [ "m'effacerai", "t'effaceras", "s'effacera", "nous effacerons", "vous effacerez", "s'effaceront" ],
+  "passeCompose": [ "me suis effacé(e)", "t'es effacé(e)", "s'est effacé(e)", "nous sommes effacé(e)s", "vous êtes effacé(e)(s)", "se sont effacé(e)s" ],
+  "plusQueParfait": [ "m'étais effacé(e)", "t'étais effacé(e)", "s'était effacé(e)", "nous étions effacé(e)s", "vous étiez effacé(e)(s)", "s'étaient effacé(e)s" ],
+  "passeAnterieur": [ "me fus effacé(e)", "te fus effacé(e)", "se fut effacé(e)", "nous fûmes effacé(e)s", "vous fûtes effacé(e)(s)", "se furent effacé(e)s" ],
+  "futurAnterieur": [ "me serai effacé(e)", "te seras effacé(e)", "se sera effacé(e)", "nous serons effacé(e)s", "vous serez effacé(e)(s)", "se seront effacé(e)s" ],
+  "subjonctifPresent": [ "m'efface", "t'effaces", "s'efface", "nous effacions", "vous effaciez", "s'effacent" ],
+  "subjonctifImparfait": [ "m'effaçasse", "t'effaçasses", "s'effaçât", "nous effaçassions", "vous effaçassiez", "s'effaçassent" ],
+  "subjonctifPasse": [ "me sois effacé(e)", "te sois effacé(e)", "se soit effacé(e)", "nous soyons effacé(e)s", "vous soyez effacé(e)(s)", "se soient effacé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse effacé(e)", "te fusses effacé(e)", "se fût effacé(e)", "nous fussions effacé(e)s", "vous fussiez effacé(e)(s)", "se fussent effacé(e)s" ],
+  "conditionnelPresent": [ "m'effacerais", "t'effacerais", "s'effacerait", "nous effacerions", "vous effaceriez", "s'effaceraient" ],
+  "conditionnelPasse": [ "me serais effacé(e)", "te serais effacé(e)", "se serait effacé(e)", "nous serions effacé(e)s", "vous seriez effacé(e)(s)", "se seraient effacé(e)s" ],
+  "conditionnelPasseII": [ "me fusse effacé(e)", "te fusses effacé(e)", "se fût effacé(e)", "nous fussions effacé(e)s", "vous fussiez effacé(e)(s)", "se fussent effacé(e)s" ],
+  "imperatif": [ "–", "efface-toi !", "–", "effaçons-nous !", "effacez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

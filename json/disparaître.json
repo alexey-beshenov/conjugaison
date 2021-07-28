@@ -1,0 +1,22 @@
+{
+  "infinitif": "disparaître",
+  "participePresent": "disparaissant",
+  "participePasse": "disparu",
+  "present": [ "disparais", "disparais", "disparaît", "disparaissons", "disparaissez", "disparaissent" ],
+  "imparfait": [ "disparaissais", "disparaissais", "disparaissait", "disparaissions", "disparaissiez", "disparaissaient" ],
+  "passeSimple": [ "disparus", "disparus", "disparut", "disparûmes", "disparûtes", "disparurent" ],
+  "futurSimple": [ "disparaîtrai", "disparaîtras", "disparaîtra", "disparaîtrons", "disparaîtrez", "disparaîtront" ],
+  "passeCompose": [ "ai disparu", "as disparu", "a disparu", "avons disparu", "avez disparu", "ont disparu" ],
+  "plusQueParfait": [ "avais disparu", "avais disparu", "avait disparu", "avions disparu", "aviez disparu", "avaient disparu" ],
+  "passeAnterieur": [ "eus disparu", "eus disparu", "eut disparu", "eûmes disparu", "eûtes disparu", "eurent disparu" ],
+  "futurAnterieur": [ "aurai disparu", "auras disparu", "aura disparu", "aurons disparu", "aurez disparu", "auront disparu" ],
+  "subjonctifPresent": [ "disparaisse", "disparaisses", "disparaisse", "disparaissions", "disparaissiez", "disparaissent" ],
+  "subjonctifImparfait": [ "disparusse", "disparusses", "disparût", "disparussions", "disparussiez", "disparussent" ],
+  "subjonctifPasse": [ "aie disparu", "aies disparu", "ait disparu", "ayons disparu", "ayez disparu", "aient disparu" ],
+  "subjonctifPlusQueParfait": [ "eusse disparu", "eusses disparu", "eût disparu", "eussions disparu", "eussiez disparu", "eussent disparu" ],
+  "conditionnelPresent": [ "disparaîtrais", "disparaîtrais", "disparaîtrait", "disparaîtrions", "disparaîtriez", "disparaîtraient" ],
+  "conditionnelPasse": [ "aurais disparu", "aurais disparu", "aurait disparu", "aurions disparu", "auriez disparu", "auraient disparu" ],
+  "conditionnelPasseII": [ "eusse disparu", "eusses disparu", "eût disparu", "eussions disparu", "eussiez disparu", "eussent disparu" ],
+  "imperatif": [ "–", "disparais !", "–", "disparaissons !", "disparaissez !", "–" ],
+  "imperatifPasse": [ "–", "aie disparu !", "–", "ayons disparu !", "ayez disparu !", "–" ]
+}

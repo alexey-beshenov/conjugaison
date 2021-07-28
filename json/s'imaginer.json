@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'imaginer",
+  "participePresent": "s'imaginant",
+  "participePasse": "imaginé",
+  "present": [ "m'imagine", "t'imagines", "s'imagine", "nous imaginons", "vous imaginez", "s'imaginent" ],
+  "imparfait": [ "m'imaginais", "t'imaginais", "s'imaginait", "nous imaginions", "vous imaginiez", "s'imaginaient" ],
+  "passeSimple": [ "m'imaginai", "t'imaginas", "s'imagina", "nous imaginâmes", "vous imaginâtes", "s'imaginèrent" ],
+  "futurSimple": [ "m'imaginerai", "t'imagineras", "s'imaginera", "nous imaginerons", "vous imaginerez", "s'imagineront" ],
+  "passeCompose": [ "me suis imaginé", "t'es imaginé", "s'est imaginé", "nous sommes imaginé", "vous êtes imaginé", "se sont imaginé" ],
+  "plusQueParfait": [ "m'étais imaginé", "t'étais imaginé", "s'était imaginé", "nous étions imaginé", "vous étiez imaginé", "s'étaient imaginé" ],
+  "passeAnterieur": [ "me fus imaginé", "te fus imaginé", "se fut imaginé", "nous fûmes imaginé", "vous fûtes imaginé", "se furent imaginé" ],
+  "futurAnterieur": [ "me serai imaginé", "te seras imaginé", "se sera imaginé", "nous serons imaginé", "vous serez imaginé", "se seront imaginé" ],
+  "subjonctifPresent": [ "m'imagine", "t'imagines", "s'imagine", "nous imaginions", "vous imaginiez", "s'imaginent" ],
+  "subjonctifImparfait": [ "m'imaginasse", "t'imaginasses", "s'imaginât", "nous imaginassions", "vous imaginassiez", "s'imaginassent" ],
+  "subjonctifPasse": [ "me sois imaginé", "te sois imaginé", "se soit imaginé", "nous soyons imaginé", "vous soyez imaginé", "se soient imaginé" ],
+  "subjonctifPlusQueParfait": [ "me fusse imaginé", "te fusses imaginé", "se fût imaginé", "nous fussions imaginé", "vous fussiez imaginé", "se fussent imaginé" ],
+  "conditionnelPresent": [ "m'imaginerais", "t'imaginerais", "s'imaginerait", "nous imaginerions", "vous imagineriez", "s'imagineraient" ],
+  "conditionnelPasse": [ "me serais imaginé", "te serais imaginé", "se serait imaginé", "nous serions imaginé", "vous seriez imaginé", "se seraient imaginé" ],
+  "conditionnelPasseII": [ "me fusse imaginé", "te fusses imaginé", "se fût imaginé", "nous fussions imaginé", "vous fussiez imaginé", "se fussent imaginé" ],
+  "imperatif": [ "–", "imagine-toi !", "–", "imaginons-nous !", "imaginez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

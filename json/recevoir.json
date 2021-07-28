@@ -1,0 +1,22 @@
+{
+  "infinitif": "recevoir",
+  "participePresent": "recevant",
+  "participePasse": "reçu",
+  "present": [ "reçois", "reçois", "reçoit", "recevons", "recevez", "reçoivent" ],
+  "imparfait": [ "recevais", "recevais", "recevait", "recevions", "receviez", "recevaient" ],
+  "passeSimple": [ "reçus", "reçus", "reçut", "reçûmes", "reçûtes", "reçurent" ],
+  "futurSimple": [ "recevrai", "recevras", "recevra", "recevrons", "recevrez", "recevront" ],
+  "passeCompose": [ "ai reçu", "as reçu", "a reçu", "avons reçu", "avez reçu", "ont reçu" ],
+  "plusQueParfait": [ "avais reçu", "avais reçu", "avait reçu", "avions reçu", "aviez reçu", "avaient reçu" ],
+  "passeAnterieur": [ "eus reçu", "eus reçu", "eut reçu", "eûmes reçu", "eûtes reçu", "eurent reçu" ],
+  "futurAnterieur": [ "aurai reçu", "auras reçu", "aura reçu", "aurons reçu", "aurez reçu", "auront reçu" ],
+  "subjonctifPresent": [ "reçoive", "reçoives", "reçoive", "recevions", "receviez", "reçoivent" ],
+  "subjonctifImparfait": [ "reçusse", "reçusses", "reçût", "reçussions", "reçussiez", "reçussent" ],
+  "subjonctifPasse": [ "aie reçu", "aies reçu", "ait reçu", "ayons reçu", "ayez reçu", "aient reçu" ],
+  "subjonctifPlusQueParfait": [ "eusse reçu", "eusses reçu", "eût reçu", "eussions reçu", "eussiez reçu", "eussent reçu" ],
+  "conditionnelPresent": [ "recevrais", "recevrais", "recevrait", "recevrions", "recevriez", "recevraient" ],
+  "conditionnelPasse": [ "aurais reçu", "aurais reçu", "aurait reçu", "aurions reçu", "auriez reçu", "auraient reçu" ],
+  "conditionnelPasseII": [ "eusse reçu", "eusses reçu", "eût reçu", "eussions reçu", "eussiez reçu", "eussent reçu" ],
+  "imperatif": [ "–", "reçois !", "–", "recevons !", "recevez !", "–" ],
+  "imperatifPasse": [ "–", "aie reçu !", "–", "ayons reçu !", "ayez reçu !", "–" ]
+}

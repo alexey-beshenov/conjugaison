@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'élever",
+  "participePresent": "s'élevant",
+  "participePasse": "élevé",
+  "present": [ "m'élève", "t'élèves", "s'élève", "nous élevons", "vous élevez", "s'élèvent" ],
+  "imparfait": [ "m'élevais", "t'élevais", "s'élevait", "nous élevions", "vous éleviez", "s'élevaient" ],
+  "passeSimple": [ "m'élevai", "t'élevas", "s'éleva", "nous élevâmes", "vous élevâtes", "s'élevèrent" ],
+  "futurSimple": [ "m'élèverai", "t'élèveras", "s'élèvera", "nous élèverons", "vous élèverez", "s'élèveront" ],
+  "passeCompose": [ "me suis élevé(e)", "t'es élevé(e)", "s'est élevé(e)", "nous sommes élevé(e)s", "vous êtes élevé(e)(s)", "se sont élevé(e)s" ],
+  "plusQueParfait": [ "m'étais élevé(e)", "t'étais élevé(e)", "s'était élevé(e)", "nous étions élevé(e)s", "vous étiez élevé(e)(s)", "s'étaient élevé(e)s" ],
+  "passeAnterieur": [ "me fus élevé(e)", "te fus élevé(e)", "se fut élevé(e)", "nous fûmes élevé(e)s", "vous fûtes élevé(e)(s)", "se furent élevé(e)s" ],
+  "futurAnterieur": [ "me serai élevé(e)", "te seras élevé(e)", "se sera élevé(e)", "nous serons élevé(e)s", "vous serez élevé(e)(s)", "se seront élevé(e)s" ],
+  "subjonctifPresent": [ "m'élève", "t'élèves", "s'élève", "nous élevions", "vous éleviez", "s'élèvent" ],
+  "subjonctifImparfait": [ "m'élevasse", "t'élevasses", "s'élevât", "nous élevassions", "vous élevassiez", "s'élevassent" ],
+  "subjonctifPasse": [ "me sois élevé(e)", "te sois élevé(e)", "se soit élevé(e)", "nous soyons élevé(e)s", "vous soyez élevé(e)(s)", "se soient élevé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse élevé(e)", "te fusses élevé(e)", "se fût élevé(e)", "nous fussions élevé(e)s", "vous fussiez élevé(e)(s)", "se fussent élevé(e)s" ],
+  "conditionnelPresent": [ "m'élèverais", "t'élèverais", "s'élèverait", "nous élèverions", "vous élèveriez", "s'élèveraient" ],
+  "conditionnelPasse": [ "me serais élevé(e)", "te serais élevé(e)", "se serait élevé(e)", "nous serions élevé(e)s", "vous seriez élevé(e)(s)", "se seraient élevé(e)s" ],
+  "conditionnelPasseII": [ "me fusse élevé(e)", "te fusses élevé(e)", "se fût élevé(e)", "nous fussions élevé(e)s", "vous fussiez élevé(e)(s)", "se fussent élevé(e)s" ],
+  "imperatif": [ "–", "élève-toi !", "–", "élevons-nous !", "élevez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

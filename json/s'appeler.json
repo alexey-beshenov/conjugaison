@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'appeler",
+  "participePresent": "s'appelant",
+  "participePasse": "appelé",
+  "present": [ "m'appelle", "t'appelles", "s'appelle", "nous appelons", "vous appelez", "s'appellent" ],
+  "imparfait": [ "m'appelais", "t'appelais", "s'appelait", "nous appelions", "vous appeliez", "s'appelaient" ],
+  "passeSimple": [ "m'appelai", "t'appelas", "s'appela", "nous appelâmes", "vous appelâtes", "s'appelèrent" ],
+  "futurSimple": [ "m'appellerai", "t'appelleras", "s'appellera", "nous appellerons", "vous appellerez", "s'appelleront" ],
+  "passeCompose": [ "me suis appelé(e)", "t'es appelé(e)", "s'est appelé(e)", "nous sommes appelé(e)s", "vous êtes appelé(e)(s)", "se sont appelé(e)s" ],
+  "plusQueParfait": [ "m'étais appelé(e)", "t'étais appelé(e)", "s'était appelé(e)", "nous étions appelé(e)s", "vous étiez appelé(e)(s)", "s'étaient appelé(e)s" ],
+  "passeAnterieur": [ "me fus appelé(e)", "te fus appelé(e)", "se fut appelé(e)", "nous fûmes appelé(e)s", "vous fûtes appelé(e)(s)", "se furent appelé(e)s" ],
+  "futurAnterieur": [ "me serai appelé(e)", "te seras appelé(e)", "se sera appelé(e)", "nous serons appelé(e)s", "vous serez appelé(e)(s)", "se seront appelé(e)s" ],
+  "subjonctifPresent": [ "m'appelle", "t'appelles", "s'appelle", "nous appelions", "vous appeliez", "s'appellent" ],
+  "subjonctifImparfait": [ "m'appelasse", "t'appelasses", "s'appelât", "nous appelassions", "vous appelassiez", "s'appelassent" ],
+  "subjonctifPasse": [ "me sois appelé(e)", "te sois appelé(e)", "se soit appelé(e)", "nous soyons appelé(e)s", "vous soyez appelé(e)(s)", "se soient appelé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse appelé(e)", "te fusses appelé(e)", "se fût appelé(e)", "nous fussions appelé(e)s", "vous fussiez appelé(e)(s)", "se fussent appelé(e)s" ],
+  "conditionnelPresent": [ "m'appellerais", "t'appellerais", "s'appellerait", "nous appellerions", "vous appelleriez", "s'appelleraient" ],
+  "conditionnelPasse": [ "me serais appelé(e)", "te serais appelé(e)", "se serait appelé(e)", "nous serions appelé(e)s", "vous seriez appelé(e)(s)", "se seraient appelé(e)s" ],
+  "conditionnelPasseII": [ "me fusse appelé(e)", "te fusses appelé(e)", "se fût appelé(e)", "nous fussions appelé(e)s", "vous fussiez appelé(e)(s)", "se fussent appelé(e)s" ],
+  "imperatif": [ "–", "appelle-toi !", "–", "appelons-nous !", "appelez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

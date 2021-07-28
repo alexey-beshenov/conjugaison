@@ -1,0 +1,22 @@
+{
+  "infinitif": "surgeler",
+  "participePresent": "surgelant",
+  "participePasse": "surgelé",
+  "present": [ "surgèle", "surgèles", "surgèle", "surgelons", "surgelez", "surgèlent" ],
+  "imparfait": [ "surgelais", "surgelais", "surgelait", "surgelions", "surgeliez", "surgelaient" ],
+  "passeSimple": [ "surgelai", "surgelas", "surgela", "surgelâmes", "surgelâtes", "surgelèrent" ],
+  "futurSimple": [ "surgèlerai", "surgèleras", "surgèlera", "surgèlerons", "surgèlerez", "surgèleront" ],
+  "passeCompose": [ "ai surgelé", "as surgelé", "a surgelé", "avons surgelé", "avez surgelé", "ont surgelé" ],
+  "plusQueParfait": [ "avais surgelé", "avais surgelé", "avait surgelé", "avions surgelé", "aviez surgelé", "avaient surgelé" ],
+  "passeAnterieur": [ "eus surgelé", "eus surgelé", "eut surgelé", "eûmes surgelé", "eûtes surgelé", "eurent surgelé" ],
+  "futurAnterieur": [ "aurai surgelé", "auras surgelé", "aura surgelé", "aurons surgelé", "aurez surgelé", "auront surgelé" ],
+  "subjonctifPresent": [ "surgèle", "surgèles", "surgèle", "surgelions", "surgeliez", "surgèlent" ],
+  "subjonctifImparfait": [ "surgelasse", "surgelasses", "surgelât", "surgelassions", "surgelassiez", "surgelassent" ],
+  "subjonctifPasse": [ "aie surgelé", "aies surgelé", "ait surgelé", "ayons surgelé", "ayez surgelé", "aient surgelé" ],
+  "subjonctifPlusQueParfait": [ "eusse surgelé", "eusses surgelé", "eût surgelé", "eussions surgelé", "eussiez surgelé", "eussent surgelé" ],
+  "conditionnelPresent": [ "surgèlerais", "surgèlerais", "surgèlerait", "surgèlerions", "surgèleriez", "surgèleraient" ],
+  "conditionnelPasse": [ "aurais surgelé", "aurais surgelé", "aurait surgelé", "aurions surgelé", "auriez surgelé", "auraient surgelé" ],
+  "conditionnelPasseII": [ "eusse surgelé", "eusses surgelé", "eût surgelé", "eussions surgelé", "eussiez surgelé", "eussent surgelé" ],
+  "imperatif": [ "–", "surgèle !", "–", "surgelons !", "surgelez !", "–" ],
+  "imperatifPasse": [ "–", "aie surgelé !", "–", "ayons surgelé !", "ayez surgelé !", "–" ]
+}

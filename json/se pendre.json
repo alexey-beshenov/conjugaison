@@ -1,0 +1,22 @@
+{
+  "infinitif": "se pendre",
+  "participePresent": "se pendant",
+  "participePasse": "pendu",
+  "present": [ "me pends", "te pends", "se pend", "nous pendons", "vous pendez", "se pendent" ],
+  "imparfait": [ "me pendais", "te pendais", "se pendait", "nous pendions", "vous pendiez", "se pendaient" ],
+  "passeSimple": [ "me pendis", "te pendis", "se pendit", "nous pendîmes", "vous pendîtes", "se pendirent" ],
+  "futurSimple": [ "me pendrai", "te pendras", "se pendra", "nous pendrons", "vous pendrez", "se pendront" ],
+  "passeCompose": [ "me suis pendu(e)", "t'es pendu(e)", "s'est pendu(e)", "nous sommes pendu(e)s", "vous êtes pendu(e)(s)", "se sont pendu(e)s" ],
+  "plusQueParfait": [ "m'étais pendu(e)", "t'étais pendu(e)", "s'était pendu(e)", "nous étions pendu(e)s", "vous étiez pendu(e)(s)", "s'étaient pendu(e)s" ],
+  "passeAnterieur": [ "me fus pendu(e)", "te fus pendu(e)", "se fut pendu(e)", "nous fûmes pendu(e)s", "vous fûtes pendu(e)(s)", "se furent pendu(e)s" ],
+  "futurAnterieur": [ "me serai pendu(e)", "te seras pendu(e)", "se sera pendu(e)", "nous serons pendu(e)s", "vous serez pendu(e)(s)", "se seront pendu(e)s" ],
+  "subjonctifPresent": [ "me pende", "te pendes", "se pende", "nous pendions", "vous pendiez", "se pendent" ],
+  "subjonctifImparfait": [ "me pendisse", "te pendisses", "se pendît", "nous pendissions", "vous pendissiez", "se pendissent" ],
+  "subjonctifPasse": [ "me sois pendu(e)", "te sois pendu(e)", "se soit pendu(e)", "nous soyons pendu(e)s", "vous soyez pendu(e)(s)", "se soient pendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse pendu(e)", "te fusses pendu(e)", "se fût pendu(e)", "nous fussions pendu(e)s", "vous fussiez pendu(e)(s)", "se fussent pendu(e)s" ],
+  "conditionnelPresent": [ "me pendrais", "te pendrais", "se pendrait", "nous pendrions", "vous pendriez", "se pendraient" ],
+  "conditionnelPasse": [ "me serais pendu(e)", "te serais pendu(e)", "se serait pendu(e)", "nous serions pendu(e)s", "vous seriez pendu(e)(s)", "se seraient pendu(e)s" ],
+  "conditionnelPasseII": [ "me fusse pendu(e)", "te fusses pendu(e)", "se fût pendu(e)", "nous fussions pendu(e)s", "vous fussiez pendu(e)(s)", "se fussent pendu(e)s" ],
+  "imperatif": [ "–", "pends-toi !", "–", "pendons-nous !", "pendez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

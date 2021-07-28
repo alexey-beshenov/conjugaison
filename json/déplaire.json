@@ -1,0 +1,22 @@
+{
+  "infinitif": "déplaire",
+  "participePresent": "déplaisant",
+  "participePasse": "déplu",
+  "present": [ "déplais", "déplais", "déplaît", "déplaisons", "déplaisez", "déplaisent" ],
+  "imparfait": [ "déplaisais", "déplaisais", "déplaisait", "déplaisions", "déplaisiez", "déplaisaient" ],
+  "passeSimple": [ "déplus", "déplus", "déplut", "déplûmes", "déplûtes", "déplurent" ],
+  "futurSimple": [ "déplairai", "déplairas", "déplaira", "déplairons", "déplairez", "déplairont" ],
+  "passeCompose": [ "ai déplu", "as déplu", "a déplu", "avons déplu", "avez déplu", "ont déplu" ],
+  "plusQueParfait": [ "avais déplu", "avais déplu", "avait déplu", "avions déplu", "aviez déplu", "avaient déplu" ],
+  "passeAnterieur": [ "eus déplu", "eus déplu", "eut déplu", "eûmes déplu", "eûtes déplu", "eurent déplu" ],
+  "futurAnterieur": [ "aurai déplu", "auras déplu", "aura déplu", "aurons déplu", "aurez déplu", "auront déplu" ],
+  "subjonctifPresent": [ "déplaise", "déplaises", "déplaise", "déplaisions", "déplaisiez", "déplaisent" ],
+  "subjonctifImparfait": [ "déplusse", "déplusses", "déplût", "déplussions", "déplussiez", "déplussent" ],
+  "subjonctifPasse": [ "aie déplu", "aies déplu", "ait déplu", "ayons déplu", "ayez déplu", "aient déplu" ],
+  "subjonctifPlusQueParfait": [ "eusse déplu", "eusses déplu", "eût déplu", "eussions déplu", "eussiez déplu", "eussent déplu" ],
+  "conditionnelPresent": [ "déplairais", "déplairais", "déplairait", "déplairions", "déplairiez", "déplairaient" ],
+  "conditionnelPasse": [ "aurais déplu", "aurais déplu", "aurait déplu", "aurions déplu", "auriez déplu", "auraient déplu" ],
+  "conditionnelPasseII": [ "eusse déplu", "eusses déplu", "eût déplu", "eussions déplu", "eussiez déplu", "eussent déplu" ],
+  "imperatif": [ "–", "déplais !", "–", "déplaisons !", "déplaisez !", "–" ],
+  "imperatifPasse": [ "–", "aie déplu !", "–", "ayons déplu !", "ayez déplu !", "–" ]
+}

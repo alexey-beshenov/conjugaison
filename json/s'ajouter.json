@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'ajouter",
+  "participePresent": "s'ajoutant",
+  "participePasse": "ajouté",
+  "present": [ "m'ajoute", "t'ajoutes", "s'ajoute", "nous ajoutons", "vous ajoutez", "s'ajoutent" ],
+  "imparfait": [ "m'ajoutais", "t'ajoutais", "s'ajoutait", "nous ajoutions", "vous ajoutiez", "s'ajoutaient" ],
+  "passeSimple": [ "m'ajoutai", "t'ajoutas", "s'ajouta", "nous ajoutâmes", "vous ajoutâtes", "s'ajoutèrent" ],
+  "futurSimple": [ "m'ajouterai", "t'ajouteras", "s'ajoutera", "nous ajouterons", "vous ajouterez", "s'ajouteront" ],
+  "passeCompose": [ "me suis ajouté(e)", "t'es ajouté(e)", "s'est ajouté(e)", "nous sommes ajouté(e)s", "vous êtes ajouté(e)(s)", "se sont ajouté(e)s" ],
+  "plusQueParfait": [ "m'étais ajouté(e)", "t'étais ajouté(e)", "s'était ajouté(e)", "nous étions ajouté(e)s", "vous étiez ajouté(e)(s)", "s'étaient ajouté(e)s" ],
+  "passeAnterieur": [ "me fus ajouté(e)", "te fus ajouté(e)", "se fut ajouté(e)", "nous fûmes ajouté(e)s", "vous fûtes ajouté(e)(s)", "se furent ajouté(e)s" ],
+  "futurAnterieur": [ "me serai ajouté(e)", "te seras ajouté(e)", "se sera ajouté(e)", "nous serons ajouté(e)s", "vous serez ajouté(e)(s)", "se seront ajouté(e)s" ],
+  "subjonctifPresent": [ "m'ajoute", "t'ajoutes", "s'ajoute", "nous ajoutions", "vous ajoutiez", "s'ajoutent" ],
+  "subjonctifImparfait": [ "m'ajoutasse", "t'ajoutasses", "s'ajoutât", "nous ajoutassions", "vous ajoutassiez", "s'ajoutassent" ],
+  "subjonctifPasse": [ "me sois ajouté(e)", "te sois ajouté(e)", "se soit ajouté(e)", "nous soyons ajouté(e)s", "vous soyez ajouté(e)(s)", "se soient ajouté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse ajouté(e)", "te fusses ajouté(e)", "se fût ajouté(e)", "nous fussions ajouté(e)s", "vous fussiez ajouté(e)(s)", "se fussent ajouté(e)s" ],
+  "conditionnelPresent": [ "m'ajouterais", "t'ajouterais", "s'ajouterait", "nous ajouterions", "vous ajouteriez", "s'ajouteraient" ],
+  "conditionnelPasse": [ "me serais ajouté(e)", "te serais ajouté(e)", "se serait ajouté(e)", "nous serions ajouté(e)s", "vous seriez ajouté(e)(s)", "se seraient ajouté(e)s" ],
+  "conditionnelPasseII": [ "me fusse ajouté(e)", "te fusses ajouté(e)", "se fût ajouté(e)", "nous fussions ajouté(e)s", "vous fussiez ajouté(e)(s)", "se fussent ajouté(e)s" ],
+  "imperatif": [ "–", "ajoute-toi !", "–", "ajoutons-nous !", "ajoutez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

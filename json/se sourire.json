@@ -1,0 +1,22 @@
+{
+  "infinitif": "se sourire",
+  "participePresent": "se souriant",
+  "participePasse": "souri",
+  "present": [ "me souris", "te souris", "se sourit", "nous sourions", "vous souriez", "se sourient" ],
+  "imparfait": [ "me souriais", "te souriais", "se souriait", "nous souriions", "vous souriiez", "se souriaient" ],
+  "passeSimple": [ "me souris", "te souris", "se sourit", "nous sourîmes", "vous sourîtes", "se sourirent" ],
+  "futurSimple": [ "me sourirai", "te souriras", "se sourira", "nous sourirons", "vous sourirez", "se souriront" ],
+  "passeCompose": [ "me suis souri", "t'es souri", "s'est souri", "nous sommes souri", "vous êtes souri", "se sont souri" ],
+  "plusQueParfait": [ "m'étais souri", "t'étais souri", "s'était souri", "nous étions souri", "vous étiez souri", "s'étaient souri" ],
+  "passeAnterieur": [ "me fus souri", "te fus souri", "se fut souri", "nous fûmes souri", "vous fûtes souri", "se furent souri" ],
+  "futurAnterieur": [ "me serai souri", "te seras souri", "se sera souri", "nous serons souri", "vous serez souri", "se seront souri" ],
+  "subjonctifPresent": [ "me sourie", "te souries", "se sourie", "nous souriions", "vous souriiez", "se sourient" ],
+  "subjonctifImparfait": [ "me sourisse", "te sourisses", "se sourît", "nous sourissions", "vous sourissiez", "se sourissent" ],
+  "subjonctifPasse": [ "me sois souri", "te sois souri", "se soit souri", "nous soyons souri", "vous soyez souri", "se soient souri" ],
+  "subjonctifPlusQueParfait": [ "me fusse souri", "te fusses souri", "se fût souri", "nous fussions souri", "vous fussiez souri", "se fussent souri" ],
+  "conditionnelPresent": [ "me sourirais", "te sourirais", "se sourirait", "nous souririons", "vous souririez", "se souriraient" ],
+  "conditionnelPasse": [ "me serais souri", "te serais souri", "se serait souri", "nous serions souri", "vous seriez souri", "se seraient souri" ],
+  "conditionnelPasseII": [ "me fusse souri", "te fusses souri", "se fût souri", "nous fussions souri", "vous fussiez souri", "se fussent souri" ],
+  "imperatif": [ "–", "souris-toi !", "–", "sourions-nous !", "souriez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

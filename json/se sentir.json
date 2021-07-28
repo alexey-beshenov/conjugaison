@@ -1,0 +1,22 @@
+{
+  "infinitif": "se sentir",
+  "participePresent": "se sentant",
+  "participePasse": "senti",
+  "present": [ "me sens", "te sens", "se sent", "nous sentons", "vous sentez", "se sentent" ],
+  "imparfait": [ "me sentais", "te sentais", "se sentait", "nous sentions", "vous sentiez", "se sentaient" ],
+  "passeSimple": [ "me sentis", "te sentis", "se sentit", "nous sentîmes", "vous sentîtes", "se sentirent" ],
+  "futurSimple": [ "me sentirai", "te sentiras", "se sentira", "nous sentirons", "vous sentirez", "se sentiront" ],
+  "passeCompose": [ "me suis senti(e)", "t'es senti(e)", "s'est senti(e)", "nous sommes senti(e)s", "vous êtes senti(e)(s)", "se sont senti(e)s" ],
+  "plusQueParfait": [ "m'étais senti(e)", "t'étais senti(e)", "s'était senti(e)", "nous étions senti(e)s", "vous étiez senti(e)(s)", "s'étaient senti(e)s" ],
+  "passeAnterieur": [ "me fus senti(e)", "te fus senti(e)", "se fut senti(e)", "nous fûmes senti(e)s", "vous fûtes senti(e)(s)", "se furent senti(e)s" ],
+  "futurAnterieur": [ "me serai senti(e)", "te seras senti(e)", "se sera senti(e)", "nous serons senti(e)s", "vous serez senti(e)(s)", "se seront senti(e)s" ],
+  "subjonctifPresent": [ "me sente", "te sentes", "se sente", "nous sentions", "vous sentiez", "se sentent" ],
+  "subjonctifImparfait": [ "me sentisse", "te sentisses", "se sentît", "nous sentissions", "vous sentissiez", "se sentissent" ],
+  "subjonctifPasse": [ "me sois senti(e)", "te sois senti(e)", "se soit senti(e)", "nous soyons senti(e)s", "vous soyez senti(e)(s)", "se soient senti(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse senti(e)", "te fusses senti(e)", "se fût senti(e)", "nous fussions senti(e)s", "vous fussiez senti(e)(s)", "se fussent senti(e)s" ],
+  "conditionnelPresent": [ "me sentirais", "te sentirais", "se sentirait", "nous sentirions", "vous sentiriez", "se sentiraient" ],
+  "conditionnelPasse": [ "me serais senti(e)", "te serais senti(e)", "se serait senti(e)", "nous serions senti(e)s", "vous seriez senti(e)(s)", "se seraient senti(e)s" ],
+  "conditionnelPasseII": [ "me fusse senti(e)", "te fusses senti(e)", "se fût senti(e)", "nous fussions senti(e)s", "vous fussiez senti(e)(s)", "se fussent senti(e)s" ],
+  "imperatif": [ "–", "sens-toi !", "–", "sentons-nous !", "sentez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

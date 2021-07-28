@@ -1,0 +1,22 @@
+{
+  "infinitif": "abattre",
+  "participePresent": "abattant",
+  "participePasse": "abattu",
+  "present": [ "abats", "abats", "abat", "abattons", "abattez", "abattent" ],
+  "imparfait": [ "abattais", "abattais", "abattait", "abattions", "abattiez", "abattaient" ],
+  "passeSimple": [ "abattis", "abattis", "abattit", "abattîmes", "abattîtes", "abattirent" ],
+  "futurSimple": [ "abattrai", "abattras", "abattra", "abattrons", "abattrez", "abattront" ],
+  "passeCompose": [ "ai abattu", "as abattu", "a abattu", "avons abattu", "avez abattu", "ont abattu" ],
+  "plusQueParfait": [ "avais abattu", "avais abattu", "avait abattu", "avions abattu", "aviez abattu", "avaient abattu" ],
+  "passeAnterieur": [ "eus abattu", "eus abattu", "eut abattu", "eûmes abattu", "eûtes abattu", "eurent abattu" ],
+  "futurAnterieur": [ "aurai abattu", "auras abattu", "aura abattu", "aurons abattu", "aurez abattu", "auront abattu" ],
+  "subjonctifPresent": [ "abatte", "abattes", "abatte", "abattions", "abattiez", "abattent" ],
+  "subjonctifImparfait": [ "abattisse", "abattisses", "abattît", "abattissions", "abattissiez", "abattissent" ],
+  "subjonctifPasse": [ "aie abattu", "aies abattu", "ait abattu", "ayons abattu", "ayez abattu", "aient abattu" ],
+  "subjonctifPlusQueParfait": [ "eusse abattu", "eusses abattu", "eût abattu", "eussions abattu", "eussiez abattu", "eussent abattu" ],
+  "conditionnelPresent": [ "abattrais", "abattrais", "abattrait", "abattrions", "abattriez", "abattraient" ],
+  "conditionnelPasse": [ "aurais abattu", "aurais abattu", "aurait abattu", "aurions abattu", "auriez abattu", "auraient abattu" ],
+  "conditionnelPasseII": [ "eusse abattu", "eusses abattu", "eût abattu", "eussions abattu", "eussiez abattu", "eussent abattu" ],
+  "imperatif": [ "–", "abats !", "–", "abattons !", "abattez !", "–" ],
+  "imperatifPasse": [ "–", "aie abattu !", "–", "ayons abattu !", "ayez abattu !", "–" ]
+}

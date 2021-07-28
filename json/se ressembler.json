@@ -1,0 +1,22 @@
+{
+  "infinitif": "se ressembler",
+  "participePresent": "se ressemblant",
+  "participePasse": "ressemblé",
+  "present": [ "me ressemble", "te ressembles", "se ressemble", "nous ressemblons", "vous ressemblez", "se ressemblent" ],
+  "imparfait": [ "me ressemblais", "te ressemblais", "se ressemblait", "nous ressemblions", "vous ressembliez", "se ressemblaient" ],
+  "passeSimple": [ "me ressemblai", "te ressemblas", "se ressembla", "nous ressemblâmes", "vous ressemblâtes", "se ressemblèrent" ],
+  "futurSimple": [ "me ressemblerai", "te ressembleras", "se ressemblera", "nous ressemblerons", "vous ressemblerez", "se ressembleront" ],
+  "passeCompose": [ "me suis ressemblé", "t'es ressemblé", "s'est ressemblé", "nous sommes ressemblé", "vous êtes ressemblé", "se sont ressemblé" ],
+  "plusQueParfait": [ "m'étais ressemblé", "t'étais ressemblé", "s'était ressemblé", "nous étions ressemblé", "vous étiez ressemblé", "s'étaient ressemblé" ],
+  "passeAnterieur": [ "me fus ressemblé", "te fus ressemblé", "se fut ressemblé", "nous fûmes ressemblé", "vous fûtes ressemblé", "se furent ressemblé" ],
+  "futurAnterieur": [ "me serai ressemblé", "te seras ressemblé", "se sera ressemblé", "nous serons ressemblé", "vous serez ressemblé", "se seront ressemblé" ],
+  "subjonctifPresent": [ "me ressemble", "te ressembles", "se ressemble", "nous ressemblions", "vous ressembliez", "se ressemblent" ],
+  "subjonctifImparfait": [ "me ressemblasse", "te ressemblasses", "se ressemblât", "nous ressemblassions", "vous ressemblassiez", "se ressemblassent" ],
+  "subjonctifPasse": [ "me sois ressemblé", "te sois ressemblé", "se soit ressemblé", "nous soyons ressemblé", "vous soyez ressemblé", "se soient ressemblé" ],
+  "subjonctifPlusQueParfait": [ "me fusse ressemblé", "te fusses ressemblé", "se fût ressemblé", "nous fussions ressemblé", "vous fussiez ressemblé", "se fussent ressemblé" ],
+  "conditionnelPresent": [ "me ressemblerais", "te ressemblerais", "se ressemblerait", "nous ressemblerions", "vous ressembleriez", "se ressembleraient" ],
+  "conditionnelPasse": [ "me serais ressemblé", "te serais ressemblé", "se serait ressemblé", "nous serions ressemblé", "vous seriez ressemblé", "se seraient ressemblé" ],
+  "conditionnelPasseII": [ "me fusse ressemblé", "te fusses ressemblé", "se fût ressemblé", "nous fussions ressemblé", "vous fussiez ressemblé", "se fussent ressemblé" ],
+  "imperatif": [ "–", "ressemble-toi !", "–", "ressemblons-nous !", "ressemblez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "souscrire",
+  "participePresent": "souscrivant",
+  "participePasse": "souscrit",
+  "present": [ "souscris", "souscris", "souscrit", "souscrivons", "souscrivez", "souscrivent" ],
+  "imparfait": [ "souscrivais", "souscrivais", "souscrivait", "souscrivions", "souscriviez", "souscrivaient" ],
+  "passeSimple": [ "souscrivis", "souscrivis", "souscrivit", "souscrivîmes", "souscrivîtes", "souscrivirent" ],
+  "futurSimple": [ "souscrirai", "souscriras", "souscrira", "souscrirons", "souscrirez", "souscriront" ],
+  "passeCompose": [ "ai souscrit", "as souscrit", "a souscrit", "avons souscrit", "avez souscrit", "ont souscrit" ],
+  "plusQueParfait": [ "avais souscrit", "avais souscrit", "avait souscrit", "avions souscrit", "aviez souscrit", "avaient souscrit" ],
+  "passeAnterieur": [ "eus souscrit", "eus souscrit", "eut souscrit", "eûmes souscrit", "eûtes souscrit", "eurent souscrit" ],
+  "futurAnterieur": [ "aurai souscrit", "auras souscrit", "aura souscrit", "aurons souscrit", "aurez souscrit", "auront souscrit" ],
+  "subjonctifPresent": [ "souscrive", "souscrives", "souscrive", "souscrivions", "souscriviez", "souscrivent" ],
+  "subjonctifImparfait": [ "souscrivisse", "souscrivisses", "souscrivît", "souscrivissions", "souscrivissiez", "souscrivissent" ],
+  "subjonctifPasse": [ "aie souscrit", "aies souscrit", "ait souscrit", "ayons souscrit", "ayez souscrit", "aient souscrit" ],
+  "subjonctifPlusQueParfait": [ "eusse souscrit", "eusses souscrit", "eût souscrit", "eussions souscrit", "eussiez souscrit", "eussent souscrit" ],
+  "conditionnelPresent": [ "souscrirais", "souscrirais", "souscrirait", "souscririons", "souscririez", "souscriraient" ],
+  "conditionnelPasse": [ "aurais souscrit", "aurais souscrit", "aurait souscrit", "aurions souscrit", "auriez souscrit", "auraient souscrit" ],
+  "conditionnelPasseII": [ "eusse souscrit", "eusses souscrit", "eût souscrit", "eussions souscrit", "eussiez souscrit", "eussent souscrit" ],
+  "imperatif": [ "–", "souscris !", "–", "souscrivons !", "souscrivez !", "–" ],
+  "imperatifPasse": [ "–", "aie souscrit !", "–", "ayons souscrit !", "ayez souscrit !", "–" ]
+}

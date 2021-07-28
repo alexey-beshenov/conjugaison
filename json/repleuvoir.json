@@ -1,0 +1,22 @@
+{
+  "infinitif": "repleuvoir",
+  "participePresent": "repleuvant",
+  "participePasse": "replu",
+  "present": [ "–", "–", "repleut", "–", "–", "–" ],
+  "imparfait": [ "–", "–", "repleuvait", "–", "–", "–" ],
+  "passeSimple": [ "–", "–", "replut", "–", "–", "–" ],
+  "futurSimple": [ "–", "–", "repleuvra", "–", "–", "–" ],
+  "passeCompose": [ "–", "–", "a replu", "–", "–", "ont replu" ],
+  "plusQueParfait": [ "–", "–", "avait replu", "–", "–", "avaient replu" ],
+  "passeAnterieur": [ "–", "–", "eut replu", "–", "–", "eurent replu" ],
+  "futurAnterieur": [ "–", "–", "aura replu", "–", "–", "auront replu" ],
+  "subjonctifPresent": [ "–", "–", "repleuve", "–", "–", "–" ],
+  "subjonctifImparfait": [ "–", "–", "replût", "–", "–", "–" ],
+  "subjonctifPasse": [ "–", "–", "ait replu", "–", "–", "aient replu" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "eût replu", "–", "–", "eussent replu" ],
+  "conditionnelPresent": [ "–", "–", "repleuvrait", "–", "–", "–" ],
+  "conditionnelPasse": [ "–", "–", "aurait replu", "–", "–", "auraient replu" ],
+  "conditionnelPasseII": [ "–", "–", "eût replu", "–", "–", "eussent replu" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'éteindre",
+  "participePresent": "s'éteignant",
+  "participePasse": "éteint",
+  "present": [ "m'éteins", "t'éteins", "s'éteint", "nous éteignons", "vous éteignez", "s'éteignent" ],
+  "imparfait": [ "m'éteignais", "t'éteignais", "s'éteignait", "nous éteignions", "vous éteigniez", "s'éteignaient" ],
+  "passeSimple": [ "m'éteignis", "t'éteignis", "s'éteignit", "nous éteignîmes", "vous éteignîtes", "s'éteignirent" ],
+  "futurSimple": [ "m'éteindrai", "t'éteindras", "s'éteindra", "nous éteindrons", "vous éteindrez", "s'éteindront" ],
+  "passeCompose": [ "me suis éteint(e)", "t'es éteint(e)", "s'est éteint(e)", "nous sommes éteint(e)s", "vous êtes éteint(e)(s)", "se sont éteint(e)s" ],
+  "plusQueParfait": [ "m'étais éteint(e)", "t'étais éteint(e)", "s'était éteint(e)", "nous étions éteint(e)s", "vous étiez éteint(e)(s)", "s'étaient éteint(e)s" ],
+  "passeAnterieur": [ "me fus éteint(e)", "te fus éteint(e)", "se fut éteint(e)", "nous fûmes éteint(e)s", "vous fûtes éteint(e)(s)", "se furent éteint(e)s" ],
+  "futurAnterieur": [ "me serai éteint(e)", "te seras éteint(e)", "se sera éteint(e)", "nous serons éteint(e)s", "vous serez éteint(e)(s)", "se seront éteint(e)s" ],
+  "subjonctifPresent": [ "m'éteigne", "t'éteignes", "s'éteigne", "nous éteignions", "vous éteigniez", "s'éteignent" ],
+  "subjonctifImparfait": [ "m'éteignisse", "t'éteignisses", "s'éteignît", "nous éteignissions", "vous éteignissiez", "s'éteignissent" ],
+  "subjonctifPasse": [ "me sois éteint(e)", "te sois éteint(e)", "se soit éteint(e)", "nous soyons éteint(e)s", "vous soyez éteint(e)(s)", "se soient éteint(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse éteint(e)", "te fusses éteint(e)", "se fût éteint(e)", "nous fussions éteint(e)s", "vous fussiez éteint(e)(s)", "se fussent éteint(e)s" ],
+  "conditionnelPresent": [ "m'éteindrais", "t'éteindrais", "s'éteindrait", "nous éteindrions", "vous éteindriez", "s'éteindraient" ],
+  "conditionnelPasse": [ "me serais éteint(e)", "te serais éteint(e)", "se serait éteint(e)", "nous serions éteint(e)s", "vous seriez éteint(e)(s)", "se seraient éteint(e)s" ],
+  "conditionnelPasseII": [ "me fusse éteint(e)", "te fusses éteint(e)", "se fût éteint(e)", "nous fussions éteint(e)s", "vous fussiez éteint(e)(s)", "se fussent éteint(e)s" ],
+  "imperatif": [ "–", "éteins-toi !", "–", "éteignons-nous !", "éteignez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

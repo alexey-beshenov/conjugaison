@@ -1,0 +1,22 @@
+{
+  "infinitif": "attacher",
+  "participePresent": "attachant",
+  "participePasse": "attaché",
+  "present": [ "attache", "attaches", "attache", "attachons", "attachez", "attachent" ],
+  "imparfait": [ "attachais", "attachais", "attachait", "attachions", "attachiez", "attachaient" ],
+  "passeSimple": [ "attachai", "attachas", "attacha", "attachâmes", "attachâtes", "attachèrent" ],
+  "futurSimple": [ "attacherai", "attacheras", "attachera", "attacherons", "attacherez", "attacheront" ],
+  "passeCompose": [ "ai attaché", "as attaché", "a attaché", "avons attaché", "avez attaché", "ont attaché" ],
+  "plusQueParfait": [ "avais attaché", "avais attaché", "avait attaché", "avions attaché", "aviez attaché", "avaient attaché" ],
+  "passeAnterieur": [ "eus attaché", "eus attaché", "eut attaché", "eûmes attaché", "eûtes attaché", "eurent attaché" ],
+  "futurAnterieur": [ "aurai attaché", "auras attaché", "aura attaché", "aurons attaché", "aurez attaché", "auront attaché" ],
+  "subjonctifPresent": [ "attache", "attaches", "attache", "attachions", "attachiez", "attachent" ],
+  "subjonctifImparfait": [ "attachasse", "attachasses", "attachât", "attachassions", "attachassiez", "attachassent" ],
+  "subjonctifPasse": [ "aie attaché", "aies attaché", "ait attaché", "ayons attaché", "ayez attaché", "aient attaché" ],
+  "subjonctifPlusQueParfait": [ "eusse attaché", "eusses attaché", "eût attaché", "eussions attaché", "eussiez attaché", "eussent attaché" ],
+  "conditionnelPresent": [ "attacherais", "attacherais", "attacherait", "attacherions", "attacheriez", "attacheraient" ],
+  "conditionnelPasse": [ "aurais attaché", "aurais attaché", "aurait attaché", "aurions attaché", "auriez attaché", "auraient attaché" ],
+  "conditionnelPasseII": [ "eusse attaché", "eusses attaché", "eût attaché", "eussions attaché", "eussiez attaché", "eussent attaché" ],
+  "imperatif": [ "–", "attache !", "–", "attachons !", "attachez !", "–" ],
+  "imperatifPasse": [ "–", "aie attaché !", "–", "ayons attaché !", "ayez attaché !", "–" ]
+}

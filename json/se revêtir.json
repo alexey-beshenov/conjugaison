@@ -1,0 +1,22 @@
+{
+  "infinitif": "se revêtir",
+  "participePresent": "se revêtant",
+  "participePasse": "revêtu",
+  "present": [ "me revêts", "te revêts", "se revêt", "nous revêtons", "vous revêtez", "se revêtent" ],
+  "imparfait": [ "me revêtais", "te revêtais", "se revêtait", "nous revêtions", "vous revêtiez", "se revêtaient" ],
+  "passeSimple": [ "me revêtis", "te revêtis", "se revêtit", "nous revêtîmes", "vous revêtîtes", "se revêtirent" ],
+  "futurSimple": [ "me revêtirai", "te revêtiras", "se revêtira", "nous revêtirons", "vous revêtirez", "se revêtiront" ],
+  "passeCompose": [ "me suis revêtu(e)", "t'es revêtu(e)", "s'est revêtu(e)", "nous sommes revêtu(e)s", "vous êtes revêtu(e)(s)", "se sont revêtu(e)s" ],
+  "plusQueParfait": [ "m'étais revêtu(e)", "t'étais revêtu(e)", "s'était revêtu(e)", "nous étions revêtu(e)s", "vous étiez revêtu(e)(s)", "s'étaient revêtu(e)s" ],
+  "passeAnterieur": [ "me fus revêtu(e)", "te fus revêtu(e)", "se fut revêtu(e)", "nous fûmes revêtu(e)s", "vous fûtes revêtu(e)(s)", "se furent revêtu(e)s" ],
+  "futurAnterieur": [ "me serai revêtu(e)", "te seras revêtu(e)", "se sera revêtu(e)", "nous serons revêtu(e)s", "vous serez revêtu(e)(s)", "se seront revêtu(e)s" ],
+  "subjonctifPresent": [ "me revête", "te revêtes", "se revête", "nous revêtions", "vous revêtiez", "se revêtent" ],
+  "subjonctifImparfait": [ "me revêtisse", "te revêtisses", "se revêtît", "nous revêtissions", "vous revêtissiez", "se revêtissent" ],
+  "subjonctifPasse": [ "me sois revêtu(e)", "te sois revêtu(e)", "se soit revêtu(e)", "nous soyons revêtu(e)s", "vous soyez revêtu(e)(s)", "se soient revêtu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse revêtu(e)", "te fusses revêtu(e)", "se fût revêtu(e)", "nous fussions revêtu(e)s", "vous fussiez revêtu(e)(s)", "se fussent revêtu(e)s" ],
+  "conditionnelPresent": [ "me revêtirais", "te revêtirais", "se revêtirait", "nous revêtirions", "vous revêtiriez", "se revêtiraient" ],
+  "conditionnelPasse": [ "me serais revêtu(e)", "te serais revêtu(e)", "se serait revêtu(e)", "nous serions revêtu(e)s", "vous seriez revêtu(e)(s)", "se seraient revêtu(e)s" ],
+  "conditionnelPasseII": [ "me fusse revêtu(e)", "te fusses revêtu(e)", "se fût revêtu(e)", "nous fussions revêtu(e)s", "vous fussiez revêtu(e)(s)", "se fussent revêtu(e)s" ],
+  "imperatif": [ "–", "revêts-toi !", "–", "revêtons-nous !", "revêtez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

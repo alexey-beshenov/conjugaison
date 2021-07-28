@@ -1,0 +1,22 @@
+{
+  "infinitif": "se sortir",
+  "participePresent": "se sortant",
+  "participePasse": "sorti",
+  "present": [ "me sors", "te sors", "se sort", "nous sortons", "vous sortez", "se sortent" ],
+  "imparfait": [ "me sortais", "te sortais", "se sortait", "nous sortions", "vous sortiez", "se sortaient" ],
+  "passeSimple": [ "me sortis", "te sortis", "se sortit", "nous sortîmes", "vous sortîtes", "se sortirent" ],
+  "futurSimple": [ "me sortirai", "te sortiras", "se sortira", "nous sortirons", "vous sortirez", "se sortiront" ],
+  "passeCompose": [ "me suis sorti(e)", "t'es sorti(e)", "s'est sorti(e)", "nous sommes sorti(e)s", "vous êtes sorti(e)(s)", "se sont sorti(e)s" ],
+  "plusQueParfait": [ "m'étais sorti(e)", "t'étais sorti(e)", "s'était sorti(e)", "nous étions sorti(e)s", "vous étiez sorti(e)(s)", "s'étaient sorti(e)s" ],
+  "passeAnterieur": [ "me fus sorti(e)", "te fus sorti(e)", "se fut sorti(e)", "nous fûmes sorti(e)s", "vous fûtes sorti(e)(s)", "se furent sorti(e)s" ],
+  "futurAnterieur": [ "me serai sorti(e)", "te seras sorti(e)", "se sera sorti(e)", "nous serons sorti(e)s", "vous serez sorti(e)(s)", "se seront sorti(e)s" ],
+  "subjonctifPresent": [ "me sorte", "te sortes", "se sorte", "nous sortions", "vous sortiez", "se sortent" ],
+  "subjonctifImparfait": [ "me sortisse", "te sortisses", "se sortît", "nous sortissions", "vous sortissiez", "se sortissent" ],
+  "subjonctifPasse": [ "me sois sorti(e)", "te sois sorti(e)", "se soit sorti(e)", "nous soyons sorti(e)s", "vous soyez sorti(e)(s)", "se soient sorti(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse sorti(e)", "te fusses sorti(e)", "se fût sorti(e)", "nous fussions sorti(e)s", "vous fussiez sorti(e)(s)", "se fussent sorti(e)s" ],
+  "conditionnelPresent": [ "me sortirais", "te sortirais", "se sortirait", "nous sortirions", "vous sortiriez", "se sortiraient" ],
+  "conditionnelPasse": [ "me serais sorti(e)", "te serais sorti(e)", "se serait sorti(e)", "nous serions sorti(e)s", "vous seriez sorti(e)(s)", "se seraient sorti(e)s" ],
+  "conditionnelPasseII": [ "me fusse sorti(e)", "te fusses sorti(e)", "se fût sorti(e)", "nous fussions sorti(e)s", "vous fussiez sorti(e)(s)", "se fussent sorti(e)s" ],
+  "imperatif": [ "–", "sors-toi !", "–", "sortons-nous !", "sortez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

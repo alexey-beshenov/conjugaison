@@ -1,0 +1,22 @@
+{
+  "infinitif": "vitrifier",
+  "participePresent": "vitrifiant",
+  "participePasse": "vitrifié",
+  "present": [ "vitrifie", "vitrifies", "vitrifie", "vitrifions", "vitrifiez", "vitrifient" ],
+  "imparfait": [ "vitrifiais", "vitrifiais", "vitrifiait", "vitrifiions", "vitrifiiez", "vitrifiaient" ],
+  "passeSimple": [ "vitrifiai", "vitrifias", "vitrifia", "vitrifiâmes", "vitrifiâtes", "vitrifièrent" ],
+  "futurSimple": [ "vitrifierai", "vitrifieras", "vitrifiera", "vitrifierons", "vitrifierez", "vitrifieront" ],
+  "passeCompose": [ "ai vitrifié", "as vitrifié", "a vitrifié", "avons vitrifié", "avez vitrifié", "ont vitrifié" ],
+  "plusQueParfait": [ "avais vitrifié", "avais vitrifié", "avait vitrifié", "avions vitrifié", "aviez vitrifié", "avaient vitrifié" ],
+  "passeAnterieur": [ "eus vitrifié", "eus vitrifié", "eut vitrifié", "eûmes vitrifié", "eûtes vitrifié", "eurent vitrifié" ],
+  "futurAnterieur": [ "aurai vitrifié", "auras vitrifié", "aura vitrifié", "aurons vitrifié", "aurez vitrifié", "auront vitrifié" ],
+  "subjonctifPresent": [ "vitrifie", "vitrifies", "vitrifie", "vitrifiions", "vitrifiiez", "vitrifient" ],
+  "subjonctifImparfait": [ "vitrifiasse", "vitrifiasses", "vitrifiât", "vitrifiassions", "vitrifiassiez", "vitrifiassent" ],
+  "subjonctifPasse": [ "aie vitrifié", "aies vitrifié", "ait vitrifié", "ayons vitrifié", "ayez vitrifié", "aient vitrifié" ],
+  "subjonctifPlusQueParfait": [ "eusse vitrifié", "eusses vitrifié", "eût vitrifié", "eussions vitrifié", "eussiez vitrifié", "eussent vitrifié" ],
+  "conditionnelPresent": [ "vitrifierais", "vitrifierais", "vitrifierait", "vitrifierions", "vitrifieriez", "vitrifieraient" ],
+  "conditionnelPasse": [ "aurais vitrifié", "aurais vitrifié", "aurait vitrifié", "aurions vitrifié", "auriez vitrifié", "auraient vitrifié" ],
+  "conditionnelPasseII": [ "eusse vitrifié", "eusses vitrifié", "eût vitrifié", "eussions vitrifié", "eussiez vitrifié", "eussent vitrifié" ],
+  "imperatif": [ "–", "vitrifie !", "–", "vitrifions !", "vitrifiez !", "–" ],
+  "imperatifPasse": [ "–", "aie vitrifié !", "–", "ayons vitrifié !", "ayez vitrifié !", "–" ]
+}

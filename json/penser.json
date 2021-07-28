@@ -1,0 +1,22 @@
+{
+  "infinitif": "penser",
+  "participePresent": "pensant",
+  "participePasse": "pensé",
+  "present": [ "pense", "penses", "pense", "pensons", "pensez", "pensent" ],
+  "imparfait": [ "pensais", "pensais", "pensait", "pensions", "pensiez", "pensaient" ],
+  "passeSimple": [ "pensai", "pensas", "pensa", "pensâmes", "pensâtes", "pensèrent" ],
+  "futurSimple": [ "penserai", "penseras", "pensera", "penserons", "penserez", "penseront" ],
+  "passeCompose": [ "ai pensé", "as pensé", "a pensé", "avons pensé", "avez pensé", "ont pensé" ],
+  "plusQueParfait": [ "avais pensé", "avais pensé", "avait pensé", "avions pensé", "aviez pensé", "avaient pensé" ],
+  "passeAnterieur": [ "eus pensé", "eus pensé", "eut pensé", "eûmes pensé", "eûtes pensé", "eurent pensé" ],
+  "futurAnterieur": [ "aurai pensé", "auras pensé", "aura pensé", "aurons pensé", "aurez pensé", "auront pensé" ],
+  "subjonctifPresent": [ "pense", "penses", "pense", "pensions", "pensiez", "pensent" ],
+  "subjonctifImparfait": [ "pensasse", "pensasses", "pensât", "pensassions", "pensassiez", "pensassent" ],
+  "subjonctifPasse": [ "aie pensé", "aies pensé", "ait pensé", "ayons pensé", "ayez pensé", "aient pensé" ],
+  "subjonctifPlusQueParfait": [ "eusse pensé", "eusses pensé", "eût pensé", "eussions pensé", "eussiez pensé", "eussent pensé" ],
+  "conditionnelPresent": [ "penserais", "penserais", "penserait", "penserions", "penseriez", "penseraient" ],
+  "conditionnelPasse": [ "aurais pensé", "aurais pensé", "aurait pensé", "aurions pensé", "auriez pensé", "auraient pensé" ],
+  "conditionnelPasseII": [ "eusse pensé", "eusses pensé", "eût pensé", "eussions pensé", "eussiez pensé", "eussent pensé" ],
+  "imperatif": [ "–", "pense !", "–", "pensons !", "pensez !", "–" ],
+  "imperatifPasse": [ "–", "aie pensé !", "–", "ayons pensé !", "ayez pensé !", "–" ]
+}

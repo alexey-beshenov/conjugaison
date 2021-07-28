@@ -1,0 +1,22 @@
+{
+  "infinitif": "se revoir",
+  "participePresent": "se revoyant",
+  "participePasse": "revu",
+  "present": [ "me revois", "te revois", "se revoit", "nous revoyons", "vous revoyez", "se revoient" ],
+  "imparfait": [ "me revoyais", "te revoyais", "se revoyait", "nous revoyions", "vous revoyiez", "se revoyaient" ],
+  "passeSimple": [ "me revis", "te revis", "se revit", "nous revîmes", "vous revîtes", "se revirent" ],
+  "futurSimple": [ "me reverrai", "te reverras", "se reverra", "nous reverrons", "vous reverrez", "se reverront" ],
+  "passeCompose": [ "me suis revu(e)", "t'es revu(e)", "s'est revu(e)", "nous sommes revu(e)s", "vous êtes revu(e)(s)", "se sont revu(e)s" ],
+  "plusQueParfait": [ "m'étais revu(e)", "t'étais revu(e)", "s'était revu(e)", "nous étions revu(e)s", "vous étiez revu(e)(s)", "s'étaient revu(e)s" ],
+  "passeAnterieur": [ "me fus revu(e)", "te fus revu(e)", "se fut revu(e)", "nous fûmes revu(e)s", "vous fûtes revu(e)(s)", "se furent revu(e)s" ],
+  "futurAnterieur": [ "me serai revu(e)", "te seras revu(e)", "se sera revu(e)", "nous serons revu(e)s", "vous serez revu(e)(s)", "se seront revu(e)s" ],
+  "subjonctifPresent": [ "me revoie", "te revoies", "se revoie", "nous revoyions", "vous revoyiez", "se revoient" ],
+  "subjonctifImparfait": [ "me revisse", "te revisses", "se revît", "nous revissions", "vous revissiez", "se revissent" ],
+  "subjonctifPasse": [ "me sois revu(e)", "te sois revu(e)", "se soit revu(e)", "nous soyons revu(e)s", "vous soyez revu(e)(s)", "se soient revu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse revu(e)", "te fusses revu(e)", "se fût revu(e)", "nous fussions revu(e)s", "vous fussiez revu(e)(s)", "se fussent revu(e)s" ],
+  "conditionnelPresent": [ "me reverrais", "te reverrais", "se reverrait", "nous reverrions", "vous reverriez", "se reverraient" ],
+  "conditionnelPasse": [ "me serais revu(e)", "te serais revu(e)", "se serait revu(e)", "nous serions revu(e)s", "vous seriez revu(e)(s)", "se seraient revu(e)s" ],
+  "conditionnelPasseII": [ "me fusse revu(e)", "te fusses revu(e)", "se fût revu(e)", "nous fussions revu(e)s", "vous fussiez revu(e)(s)", "se fussent revu(e)s" ],
+  "imperatif": [ "–", "revois-toi !", "–", "revoyons-nous !", "revoyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

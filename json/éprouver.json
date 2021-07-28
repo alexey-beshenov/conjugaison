@@ -1,0 +1,22 @@
+{
+  "infinitif": "éprouver",
+  "participePresent": "éprouvant",
+  "participePasse": "éprouvé",
+  "present": [ "éprouve", "éprouves", "éprouve", "éprouvons", "éprouvez", "éprouvent" ],
+  "imparfait": [ "éprouvais", "éprouvais", "éprouvait", "éprouvions", "éprouviez", "éprouvaient" ],
+  "passeSimple": [ "éprouvai", "éprouvas", "éprouva", "éprouvâmes", "éprouvâtes", "éprouvèrent" ],
+  "futurSimple": [ "éprouverai", "éprouveras", "éprouvera", "éprouverons", "éprouverez", "éprouveront" ],
+  "passeCompose": [ "ai éprouvé", "as éprouvé", "a éprouvé", "avons éprouvé", "avez éprouvé", "ont éprouvé" ],
+  "plusQueParfait": [ "avais éprouvé", "avais éprouvé", "avait éprouvé", "avions éprouvé", "aviez éprouvé", "avaient éprouvé" ],
+  "passeAnterieur": [ "eus éprouvé", "eus éprouvé", "eut éprouvé", "eûmes éprouvé", "eûtes éprouvé", "eurent éprouvé" ],
+  "futurAnterieur": [ "aurai éprouvé", "auras éprouvé", "aura éprouvé", "aurons éprouvé", "aurez éprouvé", "auront éprouvé" ],
+  "subjonctifPresent": [ "éprouve", "éprouves", "éprouve", "éprouvions", "éprouviez", "éprouvent" ],
+  "subjonctifImparfait": [ "éprouvasse", "éprouvasses", "éprouvât", "éprouvassions", "éprouvassiez", "éprouvassent" ],
+  "subjonctifPasse": [ "aie éprouvé", "aies éprouvé", "ait éprouvé", "ayons éprouvé", "ayez éprouvé", "aient éprouvé" ],
+  "subjonctifPlusQueParfait": [ "eusse éprouvé", "eusses éprouvé", "eût éprouvé", "eussions éprouvé", "eussiez éprouvé", "eussent éprouvé" ],
+  "conditionnelPresent": [ "éprouverais", "éprouverais", "éprouverait", "éprouverions", "éprouveriez", "éprouveraient" ],
+  "conditionnelPasse": [ "aurais éprouvé", "aurais éprouvé", "aurait éprouvé", "aurions éprouvé", "auriez éprouvé", "auraient éprouvé" ],
+  "conditionnelPasseII": [ "eusse éprouvé", "eusses éprouvé", "eût éprouvé", "eussions éprouvé", "eussiez éprouvé", "eussent éprouvé" ],
+  "imperatif": [ "–", "éprouve !", "–", "éprouvons !", "éprouvez !", "–" ],
+  "imperatifPasse": [ "–", "aie éprouvé !", "–", "ayons éprouvé !", "ayez éprouvé !", "–" ]
+}

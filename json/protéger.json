@@ -1,0 +1,22 @@
+{
+  "infinitif": "protéger",
+  "participePresent": "protégeant",
+  "participePasse": "protégé",
+  "present": [ "protège", "protèges", "protège", "protégeons", "protégez", "protègent" ],
+  "imparfait": [ "protégeais", "protégeais", "protégeait", "protégions", "protégiez", "protégeaient" ],
+  "passeSimple": [ "protégeai", "protégeas", "protégea", "protégeâmes", "protégeâtes", "protégèrent" ],
+  "futurSimple": [ "protégerai", "protégeras", "protégera", "protégerons", "protégerez", "protégeront" ],
+  "passeCompose": [ "ai protégé", "as protégé", "a protégé", "avons protégé", "avez protégé", "ont protégé" ],
+  "plusQueParfait": [ "avais protégé", "avais protégé", "avait protégé", "avions protégé", "aviez protégé", "avaient protégé" ],
+  "passeAnterieur": [ "eus protégé", "eus protégé", "eut protégé", "eûmes protégé", "eûtes protégé", "eurent protégé" ],
+  "futurAnterieur": [ "aurai protégé", "auras protégé", "aura protégé", "aurons protégé", "aurez protégé", "auront protégé" ],
+  "subjonctifPresent": [ "protège", "protèges", "protège", "protégions", "protégiez", "protègent" ],
+  "subjonctifImparfait": [ "protégeasse", "protégeasses", "protégeât", "protégeassions", "protégeassiez", "protégeassent" ],
+  "subjonctifPasse": [ "aie protégé", "aies protégé", "ait protégé", "ayons protégé", "ayez protégé", "aient protégé" ],
+  "subjonctifPlusQueParfait": [ "eusse protégé", "eusses protégé", "eût protégé", "eussions protégé", "eussiez protégé", "eussent protégé" ],
+  "conditionnelPresent": [ "protégerais", "protégerais", "protégerait", "protégerions", "protégeriez", "protégeraient" ],
+  "conditionnelPasse": [ "aurais protégé", "aurais protégé", "aurait protégé", "aurions protégé", "auriez protégé", "auraient protégé" ],
+  "conditionnelPasseII": [ "eusse protégé", "eusses protégé", "eût protégé", "eussions protégé", "eussiez protégé", "eussent protégé" ],
+  "imperatif": [ "–", "protège !", "–", "protégeons !", "protégez !", "–" ],
+  "imperatifPasse": [ "–", "aie protégé !", "–", "ayons protégé !", "ayez protégé !", "–" ]
+}

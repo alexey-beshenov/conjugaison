@@ -1,0 +1,22 @@
+{
+  "infinitif": "revenir",
+  "participePresent": "revenant",
+  "participePasse": "revenu",
+  "present": [ "reviens", "reviens", "revient", "revenons", "revenez", "reviennent" ],
+  "imparfait": [ "revenais", "revenais", "revenait", "revenions", "reveniez", "revenaient" ],
+  "passeSimple": [ "revins", "revins", "revint", "revînmes", "revîntes", "revinrent" ],
+  "futurSimple": [ "reviendrai", "reviendras", "reviendra", "reviendrons", "reviendrez", "reviendront" ],
+  "passeCompose": [ "suis revenu(e)", "es revenu(e)", "est revenu(e)", "sommes revenu(e)s", "êtes revenu(e)(s)", "sont revenu(e)s" ],
+  "plusQueParfait": [ "étais revenu(e)", "étais revenu(e)", "était revenu(e)", "étions revenu(e)s", "étiez revenu(e)(s)", "étaient revenu(e)s" ],
+  "passeAnterieur": [ "fus revenu(e)", "fus revenu(e)", "fut revenu(e)", "fûmes revenu(e)s", "fûtes revenu(e)(s)", "furent revenu(e)s" ],
+  "futurAnterieur": [ "serai revenu(e)", "seras revenu(e)", "sera revenu(e)", "serons revenu(e)s", "serez revenu(e)(s)", "seront revenu(e)s" ],
+  "subjonctifPresent": [ "revienne", "reviennes", "revienne", "revenions", "reveniez", "reviennent" ],
+  "subjonctifImparfait": [ "revinsse", "revinsses", "revînt", "revinssions", "revinssiez", "revinssent" ],
+  "subjonctifPasse": [ "sois revenu(e)", "sois revenu(e)", "soit revenu(e)", "soyons revenu(e)s", "soyez revenu(e)(s)", "soient revenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse revenu(e)", "fusses revenu(e)", "fût revenu(e)", "fussions revenu(e)s", "fussiez revenu(e)(s)", "fussent revenu(e)s" ],
+  "conditionnelPresent": [ "reviendrais", "reviendrais", "reviendrait", "reviendrions", "reviendriez", "reviendraient" ],
+  "conditionnelPasse": [ "serais revenu(e)", "serais revenu(e)", "serait revenu(e)", "serions revenu(e)s", "seriez revenu(e)(s)", "seraient revenu(e)s" ],
+  "conditionnelPasseII": [ "fusse revenu(e)", "fusses revenu(e)", "fût revenu(e)", "fussions revenu(e)s", "fussiez revenu(e)(s)", "fussent revenu(e)s" ],
+  "imperatif": [ "–", "reviens !", "–", "revenons !", "revenez !", "–" ],
+  "imperatifPasse": [ "–", "sois revenu(e) !", "–", "soyons revenu(e)s !", "soyez revenu(e)(s) !", "–" ]
+}

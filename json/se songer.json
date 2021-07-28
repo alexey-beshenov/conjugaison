@@ -1,0 +1,22 @@
+{
+  "infinitif": "se songer",
+  "participePresent": "se songeant",
+  "participePasse": "songé",
+  "present": [ "me songe", "te songes", "se songe", "nous songeons", "vous songez", "se songent" ],
+  "imparfait": [ "me songeais", "te songeais", "se songeait", "nous songions", "vous songiez", "se songeaient" ],
+  "passeSimple": [ "me songeai", "te songeas", "se songea", "nous songeâmes", "vous songeâtes", "se songèrent" ],
+  "futurSimple": [ "me songerai", "te songeras", "se songera", "nous songerons", "vous songerez", "se songeront" ],
+  "passeCompose": [ "me suis songé(e)", "t'es songé(e)", "s'est songé(e)", "nous sommes songé(e)s", "vous êtes songé(e)(s)", "se sont songé(e)s" ],
+  "plusQueParfait": [ "m'étais songé(e)", "t'étais songé(e)", "s'était songé(e)", "nous étions songé(e)s", "vous étiez songé(e)(s)", "s'étaient songé(e)s" ],
+  "passeAnterieur": [ "me fus songé(e)", "te fus songé(e)", "se fut songé(e)", "nous fûmes songé(e)s", "vous fûtes songé(e)(s)", "se furent songé(e)s" ],
+  "futurAnterieur": [ "me serai songé(e)", "te seras songé(e)", "se sera songé(e)", "nous serons songé(e)s", "vous serez songé(e)(s)", "se seront songé(e)s" ],
+  "subjonctifPresent": [ "me songe", "te songes", "se songe", "nous songions", "vous songiez", "se songent" ],
+  "subjonctifImparfait": [ "me songeasse", "te songeasses", "se songeât", "nous songeassions", "vous songeassiez", "se songeassent" ],
+  "subjonctifPasse": [ "me sois songé(e)", "te sois songé(e)", "se soit songé(e)", "nous soyons songé(e)s", "vous soyez songé(e)(s)", "se soient songé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse songé(e)", "te fusses songé(e)", "se fût songé(e)", "nous fussions songé(e)s", "vous fussiez songé(e)(s)", "se fussent songé(e)s" ],
+  "conditionnelPresent": [ "me songerais", "te songerais", "se songerait", "nous songerions", "vous songeriez", "se songeraient" ],
+  "conditionnelPasse": [ "me serais songé(e)", "te serais songé(e)", "se serait songé(e)", "nous serions songé(e)s", "vous seriez songé(e)(s)", "se seraient songé(e)s" ],
+  "conditionnelPasseII": [ "me fusse songé(e)", "te fusses songé(e)", "se fût songé(e)", "nous fussions songé(e)s", "vous fussiez songé(e)(s)", "se fussent songé(e)s" ],
+  "imperatif": [ "–", "songe-toi !", "–", "songeons-nous !", "songez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

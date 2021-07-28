@@ -1,0 +1,22 @@
+{
+  "infinitif": "se livrer",
+  "participePresent": "se livrant",
+  "participePasse": "livré",
+  "present": [ "me livre", "te livres", "se livre", "nous livrons", "vous livrez", "se livrent" ],
+  "imparfait": [ "me livrais", "te livrais", "se livrait", "nous livrions", "vous livriez", "se livraient" ],
+  "passeSimple": [ "me livrai", "te livras", "se livra", "nous livrâmes", "vous livrâtes", "se livrèrent" ],
+  "futurSimple": [ "me livrerai", "te livreras", "se livrera", "nous livrerons", "vous livrerez", "se livreront" ],
+  "passeCompose": [ "me suis livré(e)", "t'es livré(e)", "s'est livré(e)", "nous sommes livré(e)s", "vous êtes livré(e)(s)", "se sont livré(e)s" ],
+  "plusQueParfait": [ "m'étais livré(e)", "t'étais livré(e)", "s'était livré(e)", "nous étions livré(e)s", "vous étiez livré(e)(s)", "s'étaient livré(e)s" ],
+  "passeAnterieur": [ "me fus livré(e)", "te fus livré(e)", "se fut livré(e)", "nous fûmes livré(e)s", "vous fûtes livré(e)(s)", "se furent livré(e)s" ],
+  "futurAnterieur": [ "me serai livré(e)", "te seras livré(e)", "se sera livré(e)", "nous serons livré(e)s", "vous serez livré(e)(s)", "se seront livré(e)s" ],
+  "subjonctifPresent": [ "me livre", "te livres", "se livre", "nous livrions", "vous livriez", "se livrent" ],
+  "subjonctifImparfait": [ "me livrasse", "te livrasses", "se livrât", "nous livrassions", "vous livrassiez", "se livrassent" ],
+  "subjonctifPasse": [ "me sois livré(e)", "te sois livré(e)", "se soit livré(e)", "nous soyons livré(e)s", "vous soyez livré(e)(s)", "se soient livré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse livré(e)", "te fusses livré(e)", "se fût livré(e)", "nous fussions livré(e)s", "vous fussiez livré(e)(s)", "se fussent livré(e)s" ],
+  "conditionnelPresent": [ "me livrerais", "te livrerais", "se livrerait", "nous livrerions", "vous livreriez", "se livreraient" ],
+  "conditionnelPasse": [ "me serais livré(e)", "te serais livré(e)", "se serait livré(e)", "nous serions livré(e)s", "vous seriez livré(e)(s)", "se seraient livré(e)s" ],
+  "conditionnelPasseII": [ "me fusse livré(e)", "te fusses livré(e)", "se fût livré(e)", "nous fussions livré(e)s", "vous fussiez livré(e)(s)", "se fussent livré(e)s" ],
+  "imperatif": [ "–", "livre-toi !", "–", "livrons-nous !", "livrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

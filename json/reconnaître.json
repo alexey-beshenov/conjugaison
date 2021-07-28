@@ -1,0 +1,22 @@
+{
+  "infinitif": "reconnaître",
+  "participePresent": "reconnaissant",
+  "participePasse": "reconnu",
+  "present": [ "reconnais", "reconnais", "reconnaît", "reconnaissons", "reconnaissez", "reconnaissent" ],
+  "imparfait": [ "reconnaissais", "reconnaissais", "reconnaissait", "reconnaissions", "reconnaissiez", "reconnaissaient" ],
+  "passeSimple": [ "reconnus", "reconnus", "reconnut", "reconnûmes", "reconnûtes", "reconnurent" ],
+  "futurSimple": [ "reconnaîtrai", "reconnaîtras", "reconnaîtra", "reconnaîtrons", "reconnaîtrez", "reconnaîtront" ],
+  "passeCompose": [ "ai reconnu", "as reconnu", "a reconnu", "avons reconnu", "avez reconnu", "ont reconnu" ],
+  "plusQueParfait": [ "avais reconnu", "avais reconnu", "avait reconnu", "avions reconnu", "aviez reconnu", "avaient reconnu" ],
+  "passeAnterieur": [ "eus reconnu", "eus reconnu", "eut reconnu", "eûmes reconnu", "eûtes reconnu", "eurent reconnu" ],
+  "futurAnterieur": [ "aurai reconnu", "auras reconnu", "aura reconnu", "aurons reconnu", "aurez reconnu", "auront reconnu" ],
+  "subjonctifPresent": [ "reconnaisse", "reconnaisses", "reconnaisse", "reconnaissions", "reconnaissiez", "reconnaissent" ],
+  "subjonctifImparfait": [ "reconnusse", "reconnusses", "reconnût", "reconnussions", "reconnussiez", "reconnussent" ],
+  "subjonctifPasse": [ "aie reconnu", "aies reconnu", "ait reconnu", "ayons reconnu", "ayez reconnu", "aient reconnu" ],
+  "subjonctifPlusQueParfait": [ "eusse reconnu", "eusses reconnu", "eût reconnu", "eussions reconnu", "eussiez reconnu", "eussent reconnu" ],
+  "conditionnelPresent": [ "reconnaîtrais", "reconnaîtrais", "reconnaîtrait", "reconnaîtrions", "reconnaîtriez", "reconnaîtraient" ],
+  "conditionnelPasse": [ "aurais reconnu", "aurais reconnu", "aurait reconnu", "aurions reconnu", "auriez reconnu", "auraient reconnu" ],
+  "conditionnelPasseII": [ "eusse reconnu", "eusses reconnu", "eût reconnu", "eussions reconnu", "eussiez reconnu", "eussent reconnu" ],
+  "imperatif": [ "–", "reconnais !", "–", "reconnaissons !", "reconnaissez !", "–" ],
+  "imperatifPasse": [ "–", "aie reconnu !", "–", "ayons reconnu !", "ayez reconnu !", "–" ]
+}

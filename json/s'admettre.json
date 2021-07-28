@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'admettre",
+  "participePresent": "s'admettant",
+  "participePasse": "admis",
+  "present": [ "m'admets", "t'admets", "s'admet", "nous admettons", "vous admettez", "s'admettent" ],
+  "imparfait": [ "m'admettais", "t'admettais", "s'admettait", "nous admettions", "vous admettiez", "s'admettaient" ],
+  "passeSimple": [ "m'admis", "t'admis", "s'admit", "nous admîmes", "vous admîtes", "s'admirent" ],
+  "futurSimple": [ "m'admettrai", "t'admettras", "s'admettra", "nous admettrons", "vous admettrez", "s'admettront" ],
+  "passeCompose": [ "me suis admis(e)", "t'es admis(e)", "s'est admis(e)", "nous sommes admis(es)", "vous êtes admis(e(s))", "se sont admis(es)" ],
+  "plusQueParfait": [ "m'étais admis(e)", "t'étais admis(e)", "s'était admis(e)", "nous étions admis(es)", "vous étiez admis(e(s))", "s'étaient admis(es)" ],
+  "passeAnterieur": [ "me fus admis(e)", "te fus admis(e)", "se fut admis(e)", "nous fûmes admis(es)", "vous fûtes admis(e(s))", "se furent admis(es)" ],
+  "futurAnterieur": [ "me serai admis(e)", "te seras admis(e)", "se sera admis(e)", "nous serons admis(es)", "vous serez admis(e(s))", "se seront admis(es)" ],
+  "subjonctifPresent": [ "m'admette", "t'admettes", "s'admette", "nous admettions", "vous admettiez", "s'admettent" ],
+  "subjonctifImparfait": [ "m'admisse", "t'admisses", "s'admît", "nous admissions", "vous admissiez", "s'admissent" ],
+  "subjonctifPasse": [ "me sois admis(e)", "te sois admis(e)", "se soit admis(e)", "nous soyons admis(es)", "vous soyez admis(e(s))", "se soient admis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse admis(e)", "te fusses admis(e)", "se fût admis(e)", "nous fussions admis(es)", "vous fussiez admis(e(s))", "se fussent admis(es)" ],
+  "conditionnelPresent": [ "m'admettrais", "t'admettrais", "s'admettrait", "nous admettrions", "vous admettriez", "s'admettraient" ],
+  "conditionnelPasse": [ "me serais admis(e)", "te serais admis(e)", "se serait admis(e)", "nous serions admis(es)", "vous seriez admis(e(s))", "se seraient admis(es)" ],
+  "conditionnelPasseII": [ "me fusse admis(e)", "te fusses admis(e)", "se fût admis(e)", "nous fussions admis(es)", "vous fussiez admis(e(s))", "se fussent admis(es)" ],
+  "imperatif": [ "–", "admets-toi !", "–", "admettons-nous !", "admettez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

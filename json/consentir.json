@@ -1,0 +1,22 @@
+{
+  "infinitif": "consentir",
+  "participePresent": "consentant",
+  "participePasse": "consenti",
+  "present": [ "consens", "consens", "consent", "consentons", "consentez", "consentent" ],
+  "imparfait": [ "consentais", "consentais", "consentait", "consentions", "consentiez", "consentaient" ],
+  "passeSimple": [ "consentis", "consentis", "consentit", "consentîmes", "consentîtes", "consentirent" ],
+  "futurSimple": [ "consentirai", "consentiras", "consentira", "consentirons", "consentirez", "consentiront" ],
+  "passeCompose": [ "ai consenti", "as consenti", "a consenti", "avons consenti", "avez consenti", "ont consenti" ],
+  "plusQueParfait": [ "avais consenti", "avais consenti", "avait consenti", "avions consenti", "aviez consenti", "avaient consenti" ],
+  "passeAnterieur": [ "eus consenti", "eus consenti", "eut consenti", "eûmes consenti", "eûtes consenti", "eurent consenti" ],
+  "futurAnterieur": [ "aurai consenti", "auras consenti", "aura consenti", "aurons consenti", "aurez consenti", "auront consenti" ],
+  "subjonctifPresent": [ "consente", "consentes", "consente", "consentions", "consentiez", "consentent" ],
+  "subjonctifImparfait": [ "consentisse", "consentisses", "consentît", "consentissions", "consentissiez", "consentissent" ],
+  "subjonctifPasse": [ "aie consenti", "aies consenti", "ait consenti", "ayons consenti", "ayez consenti", "aient consenti" ],
+  "subjonctifPlusQueParfait": [ "eusse consenti", "eusses consenti", "eût consenti", "eussions consenti", "eussiez consenti", "eussent consenti" ],
+  "conditionnelPresent": [ "consentirais", "consentirais", "consentirait", "consentirions", "consentiriez", "consentiraient" ],
+  "conditionnelPasse": [ "aurais consenti", "aurais consenti", "aurait consenti", "aurions consenti", "auriez consenti", "auraient consenti" ],
+  "conditionnelPasseII": [ "eusse consenti", "eusses consenti", "eût consenti", "eussions consenti", "eussiez consenti", "eussent consenti" ],
+  "imperatif": [ "–", "consens !", "–", "consentons !", "consentez !", "–" ],
+  "imperatifPasse": [ "–", "aie consenti !", "–", "ayons consenti !", "ayez consenti !", "–" ]
+}

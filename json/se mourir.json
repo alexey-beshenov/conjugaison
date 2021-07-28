@@ -1,0 +1,17 @@
+{
+  "infinitif": "se mourir",
+  "participePresent": "se mourant",
+  "participePasse": "–",
+  "present": [ "me meurs", "te meurs", "se meurt", "nous mourons", "vous mourez", "se meurent" ],
+  "imparfait": [ "me mourais", "te mourais", "se mourait", "nous mourions", "vous mouriez", "se mouraient" ],
+  "passeSimple": [ "me mourus", "te mourus", "se mourut", "nous mourûmes", "vous mourûtes", "se moururent" ],
+  "futurSimple": [ "me mourrai", "te mourras", "se mourra", "nous mourrons", "vous mourrez", "se mourront" ],
+  "subjonctifPresent": [ "me meure", "te meures", "se meure", "nous mourions", "vous mouriez", "se meurent" ],
+  "subjonctifImparfait": [ "me mourusse", "te mourusses", "se mourût", "nous mourussions", "vous mourussiez", "se mourussent" ],
+  "subjonctifPresent": [ "me mourrais", "te mourrais", "se mourrait", "nous mourrions", "vous mourriez", "se mourraient" ],
+  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPresent": [ "me meure", "te meures", "se meure", "nous mourions", "vous mouriez", "se meurent" ],
+  "subjonctifImparfait": [ "me mourusse", "te mourusses", "se mourût", "nous mourussions", "vous mourussiez", "se mourussent" ],
+  "conditionnelPresent": [ "me mourrais", "te mourrais", "se mourrait", "nous mourrions", "vous mourriez", "se mourraient" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ]
+}

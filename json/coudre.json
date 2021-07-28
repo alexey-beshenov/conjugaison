@@ -1,0 +1,22 @@
+{
+  "infinitif": "coudre",
+  "participePresent": "cousant",
+  "participePasse": "cousu",
+  "present": [ "couds", "couds", "coud", "cousons", "cousez", "cousent" ],
+  "imparfait": [ "cousais", "cousais", "cousait", "cousions", "cousiez", "cousaient" ],
+  "passeSimple": [ "cousis", "cousis", "cousit", "cousîmes", "cousîtes", "cousirent" ],
+  "futurSimple": [ "coudrai", "coudras", "coudra", "coudrons", "coudrez", "coudront" ],
+  "passeCompose": [ "ai cousu", "as cousu", "a cousu", "avons cousu", "avez cousu", "ont cousu" ],
+  "plusQueParfait": [ "avais cousu", "avais cousu", "avait cousu", "avions cousu", "aviez cousu", "avaient cousu" ],
+  "passeAnterieur": [ "eus cousu", "eus cousu", "eut cousu", "eûmes cousu", "eûtes cousu", "eurent cousu" ],
+  "futurAnterieur": [ "aurai cousu", "auras cousu", "aura cousu", "aurons cousu", "aurez cousu", "auront cousu" ],
+  "subjonctifPresent": [ "couse", "couses", "couse", "cousions", "cousiez", "cousent" ],
+  "subjonctifImparfait": [ "cousisse", "cousisses", "cousît", "cousissions", "cousissiez", "cousissent" ],
+  "subjonctifPasse": [ "aie cousu", "aies cousu", "ait cousu", "ayons cousu", "ayez cousu", "aient cousu" ],
+  "subjonctifPlusQueParfait": [ "eusse cousu", "eusses cousu", "eût cousu", "eussions cousu", "eussiez cousu", "eussent cousu" ],
+  "conditionnelPresent": [ "coudrais", "coudrais", "coudrait", "coudrions", "coudriez", "coudraient" ],
+  "conditionnelPasse": [ "aurais cousu", "aurais cousu", "aurait cousu", "aurions cousu", "auriez cousu", "auraient cousu" ],
+  "conditionnelPasseII": [ "eusse cousu", "eusses cousu", "eût cousu", "eussions cousu", "eussiez cousu", "eussent cousu" ],
+  "imperatif": [ "–", "couds !", "–", "cousons !", "cousez !", "–" ],
+  "imperatifPasse": [ "–", "aie cousu !", "–", "ayons cousu !", "ayez cousu !", "–" ]
+}

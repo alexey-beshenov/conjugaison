@@ -1,0 +1,22 @@
+{
+  "infinitif": "se suffire",
+  "participePresent": "se suffisant",
+  "participePasse": "suffi",
+  "present": [ "me suffis", "te suffis", "se suffit", "nous suffisons", "vous suffisez", "se suffisent" ],
+  "imparfait": [ "me suffisais", "te suffisais", "se suffisait", "nous suffisions", "vous suffisiez", "se suffisaient" ],
+  "passeSimple": [ "me suffis", "te suffis", "se suffit", "nous suffîmes", "vous suffîtes", "se suffirent" ],
+  "futurSimple": [ "me suffirai", "te suffiras", "se suffira", "nous suffirons", "vous suffirez", "se suffiront" ],
+  "passeCompose": [ "me suis suffi", "t'es suffi", "s'est suffi", "nous sommes suffi", "vous êtes suffi", "se sont suffi" ],
+  "plusQueParfait": [ "m'étais suffi", "t'étais suffi", "s'était suffi", "nous étions suffi", "vous étiez suffi", "s'étaient suffi" ],
+  "passeAnterieur": [ "me fus suffi", "te fus suffi", "se fut suffi", "nous fûmes suffi", "vous fûtes suffi", "se furent suffi" ],
+  "futurAnterieur": [ "me serai suffi", "te seras suffi", "se sera suffi", "nous serons suffi", "vous serez suffi", "se seront suffi" ],
+  "subjonctifPresent": [ "me suffise", "te suffises", "se suffise", "nous suffisions", "vous suffisiez", "se suffisent" ],
+  "subjonctifImparfait": [ "me suffisse", "te suffisses", "se suffît", "nous suffissions", "vous suffissiez", "se suffissent" ],
+  "subjonctifPasse": [ "me sois suffi", "te sois suffi", "se soit suffi", "nous soyons suffi", "vous soyez suffi", "se soient suffi" ],
+  "subjonctifPlusQueParfait": [ "me fusse suffi", "te fusses suffi", "se fût suffi", "nous fussions suffi", "vous fussiez suffi", "se fussent suffi" ],
+  "conditionnelPresent": [ "me suffirais", "te suffirais", "se suffirait", "nous suffirions", "vous suffiriez", "se suffiraient" ],
+  "conditionnelPasse": [ "me serais suffi", "te serais suffi", "se serait suffi", "nous serions suffi", "vous seriez suffi", "se seraient suffi" ],
+  "conditionnelPasseII": [ "me fusse suffi", "te fusses suffi", "se fût suffi", "nous fussions suffi", "vous fussiez suffi", "se fussent suffi" ],
+  "imperatif": [ "–", "suffis-toi !", "–", "suffisons-nous !", "suffisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

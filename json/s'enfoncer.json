@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'enfoncer",
+  "participePresent": "s'enfonçant",
+  "participePasse": "enfoncé",
+  "present": [ "m'enfonce", "t'enfonces", "s'enfonce", "nous enfonçons", "vous enfoncez", "s'enfoncent" ],
+  "imparfait": [ "m'enfonçais", "t'enfonçais", "s'enfonçait", "nous enfoncions", "vous enfonciez", "s'enfonçaient" ],
+  "passeSimple": [ "m'enfonçai", "t'enfonças", "s'enfonça", "nous enfonçâmes", "vous enfonçâtes", "s'enfoncèrent" ],
+  "futurSimple": [ "m'enfoncerai", "t'enfonceras", "s'enfoncera", "nous enfoncerons", "vous enfoncerez", "s'enfonceront" ],
+  "passeCompose": [ "me suis enfoncé(e)", "t'es enfoncé(e)", "s'est enfoncé(e)", "nous sommes enfoncé(e)s", "vous êtes enfoncé(e)(s)", "se sont enfoncé(e)s" ],
+  "plusQueParfait": [ "m'étais enfoncé(e)", "t'étais enfoncé(e)", "s'était enfoncé(e)", "nous étions enfoncé(e)s", "vous étiez enfoncé(e)(s)", "s'étaient enfoncé(e)s" ],
+  "passeAnterieur": [ "me fus enfoncé(e)", "te fus enfoncé(e)", "se fut enfoncé(e)", "nous fûmes enfoncé(e)s", "vous fûtes enfoncé(e)(s)", "se furent enfoncé(e)s" ],
+  "futurAnterieur": [ "me serai enfoncé(e)", "te seras enfoncé(e)", "se sera enfoncé(e)", "nous serons enfoncé(e)s", "vous serez enfoncé(e)(s)", "se seront enfoncé(e)s" ],
+  "subjonctifPresent": [ "m'enfonce", "t'enfonces", "s'enfonce", "nous enfoncions", "vous enfonciez", "s'enfoncent" ],
+  "subjonctifImparfait": [ "m'enfonçasse", "t'enfonçasses", "s'enfonçât", "nous enfonçassions", "vous enfonçassiez", "s'enfonçassent" ],
+  "subjonctifPasse": [ "me sois enfoncé(e)", "te sois enfoncé(e)", "se soit enfoncé(e)", "nous soyons enfoncé(e)s", "vous soyez enfoncé(e)(s)", "se soient enfoncé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse enfoncé(e)", "te fusses enfoncé(e)", "se fût enfoncé(e)", "nous fussions enfoncé(e)s", "vous fussiez enfoncé(e)(s)", "se fussent enfoncé(e)s" ],
+  "conditionnelPresent": [ "m'enfoncerais", "t'enfoncerais", "s'enfoncerait", "nous enfoncerions", "vous enfonceriez", "s'enfonceraient" ],
+  "conditionnelPasse": [ "me serais enfoncé(e)", "te serais enfoncé(e)", "se serait enfoncé(e)", "nous serions enfoncé(e)s", "vous seriez enfoncé(e)(s)", "se seraient enfoncé(e)s" ],
+  "conditionnelPasseII": [ "me fusse enfoncé(e)", "te fusses enfoncé(e)", "se fût enfoncé(e)", "nous fussions enfoncé(e)s", "vous fussiez enfoncé(e)(s)", "se fussent enfoncé(e)s" ],
+  "imperatif": [ "–", "enfonce-toi !", "–", "enfonçons-nous !", "enfoncez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

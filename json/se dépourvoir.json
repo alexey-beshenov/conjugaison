@@ -1,0 +1,22 @@
+{
+  "infinitif": "se dépourvoir",
+  "participePresent": "se dépourvoyant",
+  "participePasse": "dépourvu",
+  "present": [ "me dépourvois", "te dépourvois", "se dépourvoit", "nous dépourvoyons", "vous dépourvoyez", "se dépourvoient" ],
+  "imparfait": [ "me dépourvoyais", "te dépourvoyais", "se dépourvoyait", "nous dépourvoyions", "vous dépourvoyiez", "se dépourvoyaient" ],
+  "passeSimple": [ "me dépourvus", "te dépourvus", "se dépourvut", "nous dépourvûmes", "vous dépourvûtes", "se dépourvurent" ],
+  "futurSimple": [ "me dépourvoirai", "te dépourvoiras", "se dépourvoira", "nous dépourvoirons", "vous dépourvoirez", "se dépourvoiront" ],
+  "passeCompose": [ "me suis dépourvu(e)", "t'es dépourvu(e)", "s'est dépourvu(e)", "nous sommes dépourvu(e)s", "vous êtes dépourvu(e)(s)", "se sont dépourvu(e)s" ],
+  "plusQueParfait": [ "m'étais dépourvu(e)", "t'étais dépourvu(e)", "s'était dépourvu(e)", "nous étions dépourvu(e)s", "vous étiez dépourvu(e)(s)", "s'étaient dépourvu(e)s" ],
+  "passeAnterieur": [ "me fus dépourvu(e)", "te fus dépourvu(e)", "se fut dépourvu(e)", "nous fûmes dépourvu(e)s", "vous fûtes dépourvu(e)(s)", "se furent dépourvu(e)s" ],
+  "futurAnterieur": [ "me serai dépourvu(e)", "te seras dépourvu(e)", "se sera dépourvu(e)", "nous serons dépourvu(e)s", "vous serez dépourvu(e)(s)", "se seront dépourvu(e)s" ],
+  "subjonctifPresent": [ "me dépourvoie", "te dépourvoies", "se dépourvoie", "nous dépourvoyions", "vous dépourvoyiez", "se dépourvoient" ],
+  "subjonctifImparfait": [ "me dépourvusse", "te dépourvusses", "se dépourvût", "nous dépourvussions", "vous dépourvussiez", "se dépourvussent" ],
+  "subjonctifPasse": [ "me sois dépourvu(e)", "te sois dépourvu(e)", "se soit dépourvu(e)", "nous soyons dépourvu(e)s", "vous soyez dépourvu(e)(s)", "se soient dépourvu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse dépourvu(e)", "te fusses dépourvu(e)", "se fût dépourvu(e)", "nous fussions dépourvu(e)s", "vous fussiez dépourvu(e)(s)", "se fussent dépourvu(e)s" ],
+  "conditionnelPresent": [ "me dépourvoirais", "te dépourvoirais", "se dépourvoirait", "nous dépourvoirions", "vous dépourvoiriez", "se dépourvoiraient" ],
+  "conditionnelPasse": [ "me serais dépourvu(e)", "te serais dépourvu(e)", "se serait dépourvu(e)", "nous serions dépourvu(e)s", "vous seriez dépourvu(e)(s)", "se seraient dépourvu(e)s" ],
+  "conditionnelPasseII": [ "me fusse dépourvu(e)", "te fusses dépourvu(e)", "se fût dépourvu(e)", "nous fussions dépourvu(e)s", "vous fussiez dépourvu(e)(s)", "se fussent dépourvu(e)s" ],
+  "imperatif": [ "–", "dépourvois-toi !", "–", "dépourvoyons-nous !", "dépourvoyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

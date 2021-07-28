@@ -1,0 +1,22 @@
+{
+  "infinitif": "ignorer",
+  "participePresent": "ignorant",
+  "participePasse": "ignoré",
+  "present": [ "ignore", "ignores", "ignore", "ignorons", "ignorez", "ignorent" ],
+  "imparfait": [ "ignorais", "ignorais", "ignorait", "ignorions", "ignoriez", "ignoraient" ],
+  "passeSimple": [ "ignorai", "ignoras", "ignora", "ignorâmes", "ignorâtes", "ignorèrent" ],
+  "futurSimple": [ "ignorerai", "ignoreras", "ignorera", "ignorerons", "ignorerez", "ignoreront" ],
+  "passeCompose": [ "ai ignoré", "as ignoré", "a ignoré", "avons ignoré", "avez ignoré", "ont ignoré" ],
+  "plusQueParfait": [ "avais ignoré", "avais ignoré", "avait ignoré", "avions ignoré", "aviez ignoré", "avaient ignoré" ],
+  "passeAnterieur": [ "eus ignoré", "eus ignoré", "eut ignoré", "eûmes ignoré", "eûtes ignoré", "eurent ignoré" ],
+  "futurAnterieur": [ "aurai ignoré", "auras ignoré", "aura ignoré", "aurons ignoré", "aurez ignoré", "auront ignoré" ],
+  "subjonctifPresent": [ "ignore", "ignores", "ignore", "ignorions", "ignoriez", "ignorent" ],
+  "subjonctifImparfait": [ "ignorasse", "ignorasses", "ignorât", "ignorassions", "ignorassiez", "ignorassent" ],
+  "subjonctifPasse": [ "aie ignoré", "aies ignoré", "ait ignoré", "ayons ignoré", "ayez ignoré", "aient ignoré" ],
+  "subjonctifPlusQueParfait": [ "eusse ignoré", "eusses ignoré", "eût ignoré", "eussions ignoré", "eussiez ignoré", "eussent ignoré" ],
+  "conditionnelPresent": [ "ignorerais", "ignorerais", "ignorerait", "ignorerions", "ignoreriez", "ignoreraient" ],
+  "conditionnelPasse": [ "aurais ignoré", "aurais ignoré", "aurait ignoré", "aurions ignoré", "auriez ignoré", "auraient ignoré" ],
+  "conditionnelPasseII": [ "eusse ignoré", "eusses ignoré", "eût ignoré", "eussions ignoré", "eussiez ignoré", "eussent ignoré" ],
+  "imperatif": [ "–", "ignore !", "–", "ignorons !", "ignorez !", "–" ],
+  "imperatifPasse": [ "–", "aie ignoré !", "–", "ayons ignoré !", "ayez ignoré !", "–" ]
+}

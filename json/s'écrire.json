@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'écrire",
+  "participePresent": "s'écrivant",
+  "participePasse": "écrit",
+  "present": [ "m'écris", "t'écris", "s'écrit", "nous écrivons", "vous écrivez", "s'écrivent" ],
+  "imparfait": [ "m'écrivais", "t'écrivais", "s'écrivait", "nous écrivions", "vous écriviez", "s'écrivaient" ],
+  "passeSimple": [ "m'écrivis", "t'écrivis", "s'écrivit", "nous écrivîmes", "vous écrivîtes", "s'écrivirent" ],
+  "futurSimple": [ "m'écrirai", "t'écriras", "s'écrira", "nous écrirons", "vous écrirez", "s'écriront" ],
+  "passeCompose": [ "me suis écrit", "t'es écrit", "s'est écrit", "nous sommes écrit", "vous êtes écrit", "se sont écrit" ],
+  "plusQueParfait": [ "m'étais écrit", "t'étais écrit", "s'était écrit", "nous étions écrit", "vous étiez écrit", "s'étaient écrit" ],
+  "passeAnterieur": [ "me fus écrit", "te fus écrit", "se fut écrit", "nous fûmes écrit", "vous fûtes écrit", "se furent écrit" ],
+  "futurAnterieur": [ "me serai écrit", "te seras écrit", "se sera écrit", "nous serons écrit", "vous serez écrit", "se seront écrit" ],
+  "subjonctifPresent": [ "m'écrive", "t'écrives", "s'écrive", "nous écrivions", "vous écriviez", "s'écrivent" ],
+  "subjonctifImparfait": [ "m'écrivisse", "t'écrivisses", "s'écrivît", "nous écrivissions", "vous écrivissiez", "s'écrivissent" ],
+  "subjonctifPasse": [ "me sois écrit", "te sois écrit", "se soit écrit", "nous soyons écrit", "vous soyez écrit", "se soient écrit" ],
+  "subjonctifPlusQueParfait": [ "me fusse écrit", "te fusses écrit", "se fût écrit", "nous fussions écrit", "vous fussiez écrit", "se fussent écrit" ],
+  "conditionnelPresent": [ "m'écrirais", "t'écrirais", "s'écrirait", "nous écririons", "vous écririez", "s'écriraient" ],
+  "conditionnelPasse": [ "me serais écrit", "te serais écrit", "se serait écrit", "nous serions écrit", "vous seriez écrit", "se seraient écrit" ],
+  "conditionnelPasseII": [ "me fusse écrit", "te fusses écrit", "se fût écrit", "nous fussions écrit", "vous fussiez écrit", "se fussent écrit" ],
+  "imperatif": [ "–", "écris-toi !", "–", "écrivons-nous !", "écrivez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

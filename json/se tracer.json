@@ -1,0 +1,22 @@
+{
+  "infinitif": "se tracer",
+  "participePresent": "se traçant",
+  "participePasse": "tracé",
+  "present": [ "me trace", "te traces", "se trace", "nous traçons", "vous tracez", "se tracent" ],
+  "imparfait": [ "me traçais", "te traçais", "se traçait", "nous tracions", "vous traciez", "se traçaient" ],
+  "passeSimple": [ "me traçai", "te traças", "se traça", "nous traçâmes", "vous traçâtes", "se tracèrent" ],
+  "futurSimple": [ "me tracerai", "te traceras", "se tracera", "nous tracerons", "vous tracerez", "se traceront" ],
+  "passeCompose": [ "me suis tracé(e)", "t'es tracé(e)", "s'est tracé(e)", "nous sommes tracé(e)s", "vous êtes tracé(e)(s)", "se sont tracé(e)s" ],
+  "plusQueParfait": [ "m'étais tracé(e)", "t'étais tracé(e)", "s'était tracé(e)", "nous étions tracé(e)s", "vous étiez tracé(e)(s)", "s'étaient tracé(e)s" ],
+  "passeAnterieur": [ "me fus tracé(e)", "te fus tracé(e)", "se fut tracé(e)", "nous fûmes tracé(e)s", "vous fûtes tracé(e)(s)", "se furent tracé(e)s" ],
+  "futurAnterieur": [ "me serai tracé(e)", "te seras tracé(e)", "se sera tracé(e)", "nous serons tracé(e)s", "vous serez tracé(e)(s)", "se seront tracé(e)s" ],
+  "subjonctifPresent": [ "me trace", "te traces", "se trace", "nous tracions", "vous traciez", "se tracent" ],
+  "subjonctifImparfait": [ "me traçasse", "te traçasses", "se traçât", "nous traçassions", "vous traçassiez", "se traçassent" ],
+  "subjonctifPasse": [ "me sois tracé(e)", "te sois tracé(e)", "se soit tracé(e)", "nous soyons tracé(e)s", "vous soyez tracé(e)(s)", "se soient tracé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse tracé(e)", "te fusses tracé(e)", "se fût tracé(e)", "nous fussions tracé(e)s", "vous fussiez tracé(e)(s)", "se fussent tracé(e)s" ],
+  "conditionnelPresent": [ "me tracerais", "te tracerais", "se tracerait", "nous tracerions", "vous traceriez", "se traceraient" ],
+  "conditionnelPasse": [ "me serais tracé(e)", "te serais tracé(e)", "se serait tracé(e)", "nous serions tracé(e)s", "vous seriez tracé(e)(s)", "se seraient tracé(e)s" ],
+  "conditionnelPasseII": [ "me fusse tracé(e)", "te fusses tracé(e)", "se fût tracé(e)", "nous fussions tracé(e)s", "vous fussiez tracé(e)(s)", "se fussent tracé(e)s" ],
+  "imperatif": [ "–", "trace-toi !", "–", "traçons-nous !", "tracez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

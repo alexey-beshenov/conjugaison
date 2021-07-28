@@ -1,0 +1,22 @@
+{
+  "infinitif": "reprendre",
+  "participePresent": "reprenant",
+  "participePasse": "repris",
+  "present": [ "reprends", "reprends", "reprend", "reprenons", "reprenez", "reprennent" ],
+  "imparfait": [ "reprenais", "reprenais", "reprenait", "reprenions", "repreniez", "reprenaient" ],
+  "passeSimple": [ "repris", "repris", "reprit", "reprîmes", "reprîtes", "reprirent" ],
+  "futurSimple": [ "reprendrai", "reprendras", "reprendra", "reprendrons", "reprendrez", "reprendront" ],
+  "passeCompose": [ "ai repris", "as repris", "a repris", "avons repris", "avez repris", "ont repris" ],
+  "plusQueParfait": [ "avais repris", "avais repris", "avait repris", "avions repris", "aviez repris", "avaient repris" ],
+  "passeAnterieur": [ "eus repris", "eus repris", "eut repris", "eûmes repris", "eûtes repris", "eurent repris" ],
+  "futurAnterieur": [ "aurai repris", "auras repris", "aura repris", "aurons repris", "aurez repris", "auront repris" ],
+  "subjonctifPresent": [ "reprenne", "reprennes", "reprenne", "reprenions", "repreniez", "reprennent" ],
+  "subjonctifImparfait": [ "reprisse", "reprisses", "reprît", "reprissions", "reprissiez", "reprissent" ],
+  "subjonctifPasse": [ "aie repris", "aies repris", "ait repris", "ayons repris", "ayez repris", "aient repris" ],
+  "subjonctifPlusQueParfait": [ "eusse repris", "eusses repris", "eût repris", "eussions repris", "eussiez repris", "eussent repris" ],
+  "conditionnelPresent": [ "reprendrais", "reprendrais", "reprendrait", "reprendrions", "reprendriez", "reprendraient" ],
+  "conditionnelPasse": [ "aurais repris", "aurais repris", "aurait repris", "aurions repris", "auriez repris", "auraient repris" ],
+  "conditionnelPasseII": [ "eusse repris", "eusses repris", "eût repris", "eussions repris", "eussiez repris", "eussent repris" ],
+  "imperatif": [ "–", "reprends !", "–", "reprenons !", "reprenez !", "–" ],
+  "imperatifPasse": [ "–", "aie repris !", "–", "ayons repris !", "ayez repris !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "plaindre",
+  "participePresent": "plaignant",
+  "participePasse": "plaint",
+  "present": [ "plains", "plains", "plaint", "plaignons", "plaignez", "plaignent" ],
+  "imparfait": [ "plaignais", "plaignais", "plaignait", "plaignions", "plaigniez", "plaignaient" ],
+  "passeSimple": [ "plaignis", "plaignis", "plaignit", "plaignîmes", "plaignîtes", "plaignirent" ],
+  "futurSimple": [ "plaindrai", "plaindras", "plaindra", "plaindrons", "plaindrez", "plaindront" ],
+  "passeCompose": [ "ai plaint", "as plaint", "a plaint", "avons plaint", "avez plaint", "ont plaint" ],
+  "plusQueParfait": [ "avais plaint", "avais plaint", "avait plaint", "avions plaint", "aviez plaint", "avaient plaint" ],
+  "passeAnterieur": [ "eus plaint", "eus plaint", "eut plaint", "eûmes plaint", "eûtes plaint", "eurent plaint" ],
+  "futurAnterieur": [ "aurai plaint", "auras plaint", "aura plaint", "aurons plaint", "aurez plaint", "auront plaint" ],
+  "subjonctifPresent": [ "plaigne", "plaignes", "plaigne", "plaignions", "plaigniez", "plaignent" ],
+  "subjonctifImparfait": [ "plaignisse", "plaignisses", "plaignît", "plaignissions", "plaignissiez", "plaignissent" ],
+  "subjonctifPasse": [ "aie plaint", "aies plaint", "ait plaint", "ayons plaint", "ayez plaint", "aient plaint" ],
+  "subjonctifPlusQueParfait": [ "eusse plaint", "eusses plaint", "eût plaint", "eussions plaint", "eussiez plaint", "eussent plaint" ],
+  "conditionnelPresent": [ "plaindrais", "plaindrais", "plaindrait", "plaindrions", "plaindriez", "plaindraient" ],
+  "conditionnelPasse": [ "aurais plaint", "aurais plaint", "aurait plaint", "aurions plaint", "auriez plaint", "auraient plaint" ],
+  "conditionnelPasseII": [ "eusse plaint", "eusses plaint", "eût plaint", "eussions plaint", "eussiez plaint", "eussent plaint" ],
+  "imperatif": [ "–", "plains !", "–", "plaignons !", "plaignez !", "–" ],
+  "imperatifPasse": [ "–", "aie plaint !", "–", "ayons plaint !", "ayez plaint !", "–" ]
+}

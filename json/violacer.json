@@ -1,0 +1,22 @@
+{
+  "infinitif": "violacer",
+  "participePresent": "violaçant",
+  "participePasse": "violacé",
+  "present": [ "violace", "violaces", "violace", "violaçons", "violacez", "violacent" ],
+  "imparfait": [ "violaçais", "violaçais", "violaçait", "violacions", "violaciez", "violaçaient" ],
+  "passeSimple": [ "violaçai", "violaças", "violaça", "violaçâmes", "violaçâtes", "violacèrent" ],
+  "futurSimple": [ "violacerai", "violaceras", "violacera", "violacerons", "violacerez", "violaceront" ],
+  "passeCompose": [ "ai violacé", "as violacé", "a violacé", "avons violacé", "avez violacé", "ont violacé" ],
+  "plusQueParfait": [ "avais violacé", "avais violacé", "avait violacé", "avions violacé", "aviez violacé", "avaient violacé" ],
+  "passeAnterieur": [ "eus violacé", "eus violacé", "eut violacé", "eûmes violacé", "eûtes violacé", "eurent violacé" ],
+  "futurAnterieur": [ "aurai violacé", "auras violacé", "aura violacé", "aurons violacé", "aurez violacé", "auront violacé" ],
+  "subjonctifPresent": [ "violace", "violaces", "violace", "violacions", "violaciez", "violacent" ],
+  "subjonctifImparfait": [ "violaçasse", "violaçasses", "violaçât", "violaçassions", "violaçassiez", "violaçassent" ],
+  "subjonctifPasse": [ "aie violacé", "aies violacé", "ait violacé", "ayons violacé", "ayez violacé", "aient violacé" ],
+  "subjonctifPlusQueParfait": [ "eusse violacé", "eusses violacé", "eût violacé", "eussions violacé", "eussiez violacé", "eussent violacé" ],
+  "conditionnelPresent": [ "violacerais", "violacerais", "violacerait", "violacerions", "violaceriez", "violaceraient" ],
+  "conditionnelPasse": [ "aurais violacé", "aurais violacé", "aurait violacé", "aurions violacé", "auriez violacé", "auraient violacé" ],
+  "conditionnelPasseII": [ "eusse violacé", "eusses violacé", "eût violacé", "eussions violacé", "eussiez violacé", "eussent violacé" ],
+  "imperatif": [ "–", "violace !", "–", "violaçons !", "violacez !", "–" ],
+  "imperatifPasse": [ "–", "aie violacé !", "–", "ayons violacé !", "ayez violacé !", "–" ]
+}

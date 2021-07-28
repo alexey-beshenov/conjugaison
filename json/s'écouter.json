@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'écouter",
+  "participePresent": "s'écoutant",
+  "participePasse": "écouté",
+  "present": [ "m'écoute", "t'écoutes", "s'écoute", "nous écoutons", "vous écoutez", "s'écoutent" ],
+  "imparfait": [ "m'écoutais", "t'écoutais", "s'écoutait", "nous écoutions", "vous écoutiez", "s'écoutaient" ],
+  "passeSimple": [ "m'écoutai", "t'écoutas", "s'écouta", "nous écoutâmes", "vous écoutâtes", "s'écoutèrent" ],
+  "futurSimple": [ "m'écouterai", "t'écouteras", "s'écoutera", "nous écouterons", "vous écouterez", "s'écouteront" ],
+  "passeCompose": [ "me suis écouté(e)", "t'es écouté(e)", "s'est écouté(e)", "nous sommes écouté(e)s", "vous êtes écouté(e)(s)", "se sont écouté(e)s" ],
+  "plusQueParfait": [ "m'étais écouté(e)", "t'étais écouté(e)", "s'était écouté(e)", "nous étions écouté(e)s", "vous étiez écouté(e)(s)", "s'étaient écouté(e)s" ],
+  "passeAnterieur": [ "me fus écouté(e)", "te fus écouté(e)", "se fut écouté(e)", "nous fûmes écouté(e)s", "vous fûtes écouté(e)(s)", "se furent écouté(e)s" ],
+  "futurAnterieur": [ "me serai écouté(e)", "te seras écouté(e)", "se sera écouté(e)", "nous serons écouté(e)s", "vous serez écouté(e)(s)", "se seront écouté(e)s" ],
+  "subjonctifPresent": [ "m'écoute", "t'écoutes", "s'écoute", "nous écoutions", "vous écoutiez", "s'écoutent" ],
+  "subjonctifImparfait": [ "m'écoutasse", "t'écoutasses", "s'écoutât", "nous écoutassions", "vous écoutassiez", "s'écoutassent" ],
+  "subjonctifPasse": [ "me sois écouté(e)", "te sois écouté(e)", "se soit écouté(e)", "nous soyons écouté(e)s", "vous soyez écouté(e)(s)", "se soient écouté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse écouté(e)", "te fusses écouté(e)", "se fût écouté(e)", "nous fussions écouté(e)s", "vous fussiez écouté(e)(s)", "se fussent écouté(e)s" ],
+  "conditionnelPresent": [ "m'écouterais", "t'écouterais", "s'écouterait", "nous écouterions", "vous écouteriez", "s'écouteraient" ],
+  "conditionnelPasse": [ "me serais écouté(e)", "te serais écouté(e)", "se serait écouté(e)", "nous serions écouté(e)s", "vous seriez écouté(e)(s)", "se seraient écouté(e)s" ],
+  "conditionnelPasseII": [ "me fusse écouté(e)", "te fusses écouté(e)", "se fût écouté(e)", "nous fussions écouté(e)s", "vous fussiez écouté(e)(s)", "se fussent écouté(e)s" ],
+  "imperatif": [ "–", "écoute-toi !", "–", "écoutons-nous !", "écoutez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

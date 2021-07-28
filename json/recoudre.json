@@ -1,0 +1,22 @@
+{
+  "infinitif": "recoudre",
+  "participePresent": "recousant",
+  "participePasse": "recousu",
+  "present": [ "recouds", "recouds", "recoud", "recousons", "recousez", "recousent" ],
+  "imparfait": [ "recousais", "recousais", "recousait", "recousions", "recousiez", "recousaient" ],
+  "passeSimple": [ "recousis", "recousis", "recousit", "recousîmes", "recousîtes", "recousirent" ],
+  "futurSimple": [ "recoudrai", "recoudras", "recoudra", "recoudrons", "recoudrez", "recoudront" ],
+  "passeCompose": [ "ai recousu", "as recousu", "a recousu", "avons recousu", "avez recousu", "ont recousu" ],
+  "plusQueParfait": [ "avais recousu", "avais recousu", "avait recousu", "avions recousu", "aviez recousu", "avaient recousu" ],
+  "passeAnterieur": [ "eus recousu", "eus recousu", "eut recousu", "eûmes recousu", "eûtes recousu", "eurent recousu" ],
+  "futurAnterieur": [ "aurai recousu", "auras recousu", "aura recousu", "aurons recousu", "aurez recousu", "auront recousu" ],
+  "subjonctifPresent": [ "recouse", "recouses", "recouse", "recousions", "recousiez", "recousent" ],
+  "subjonctifImparfait": [ "recousisse", "recousisses", "recousît", "recousissions", "recousissiez", "recousissent" ],
+  "subjonctifPasse": [ "aie recousu", "aies recousu", "ait recousu", "ayons recousu", "ayez recousu", "aient recousu" ],
+  "subjonctifPlusQueParfait": [ "eusse recousu", "eusses recousu", "eût recousu", "eussions recousu", "eussiez recousu", "eussent recousu" ],
+  "conditionnelPresent": [ "recoudrais", "recoudrais", "recoudrait", "recoudrions", "recoudriez", "recoudraient" ],
+  "conditionnelPasse": [ "aurais recousu", "aurais recousu", "aurait recousu", "aurions recousu", "auriez recousu", "auraient recousu" ],
+  "conditionnelPasseII": [ "eusse recousu", "eusses recousu", "eût recousu", "eussions recousu", "eussiez recousu", "eussent recousu" ],
+  "imperatif": [ "–", "recouds !", "–", "recousons !", "recousez !", "–" ],
+  "imperatifPasse": [ "–", "aie recousu !", "–", "ayons recousu !", "ayez recousu !", "–" ]
+}

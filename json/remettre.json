@@ -1,0 +1,22 @@
+{
+  "infinitif": "remettre",
+  "participePresent": "remettant",
+  "participePasse": "remis",
+  "present": [ "remets", "remets", "remet", "remettons", "remettez", "remettent" ],
+  "imparfait": [ "remettais", "remettais", "remettait", "remettions", "remettiez", "remettaient" ],
+  "passeSimple": [ "remis", "remis", "remit", "remîmes", "remîtes", "remirent" ],
+  "futurSimple": [ "remettrai", "remettras", "remettra", "remettrons", "remettrez", "remettront" ],
+  "passeCompose": [ "ai remis", "as remis", "a remis", "avons remis", "avez remis", "ont remis" ],
+  "plusQueParfait": [ "avais remis", "avais remis", "avait remis", "avions remis", "aviez remis", "avaient remis" ],
+  "passeAnterieur": [ "eus remis", "eus remis", "eut remis", "eûmes remis", "eûtes remis", "eurent remis" ],
+  "futurAnterieur": [ "aurai remis", "auras remis", "aura remis", "aurons remis", "aurez remis", "auront remis" ],
+  "subjonctifPresent": [ "remette", "remettes", "remette", "remettions", "remettiez", "remettent" ],
+  "subjonctifImparfait": [ "remisse", "remisses", "remît", "remissions", "remissiez", "remissent" ],
+  "subjonctifPasse": [ "aie remis", "aies remis", "ait remis", "ayons remis", "ayez remis", "aient remis" ],
+  "subjonctifPlusQueParfait": [ "eusse remis", "eusses remis", "eût remis", "eussions remis", "eussiez remis", "eussent remis" ],
+  "conditionnelPresent": [ "remettrais", "remettrais", "remettrait", "remettrions", "remettriez", "remettraient" ],
+  "conditionnelPasse": [ "aurais remis", "aurais remis", "aurait remis", "aurions remis", "auriez remis", "auraient remis" ],
+  "conditionnelPasseII": [ "eusse remis", "eusses remis", "eût remis", "eussions remis", "eussiez remis", "eussent remis" ],
+  "imperatif": [ "–", "remets !", "–", "remettons !", "remettez !", "–" ],
+  "imperatifPasse": [ "–", "aie remis !", "–", "ayons remis !", "ayez remis !", "–" ]
+}

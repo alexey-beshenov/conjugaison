@@ -1,0 +1,22 @@
+{
+  "infinitif": "regarder",
+  "participePresent": "regardant",
+  "participePasse": "regardé",
+  "present": [ "regarde", "regardes", "regarde", "regardons", "regardez", "regardent" ],
+  "imparfait": [ "regardais", "regardais", "regardait", "regardions", "regardiez", "regardaient" ],
+  "passeSimple": [ "regardai", "regardas", "regarda", "regardâmes", "regardâtes", "regardèrent" ],
+  "futurSimple": [ "regarderai", "regarderas", "regardera", "regarderons", "regarderez", "regarderont" ],
+  "passeCompose": [ "ai regardé", "as regardé", "a regardé", "avons regardé", "avez regardé", "ont regardé" ],
+  "plusQueParfait": [ "avais regardé", "avais regardé", "avait regardé", "avions regardé", "aviez regardé", "avaient regardé" ],
+  "passeAnterieur": [ "eus regardé", "eus regardé", "eut regardé", "eûmes regardé", "eûtes regardé", "eurent regardé" ],
+  "futurAnterieur": [ "aurai regardé", "auras regardé", "aura regardé", "aurons regardé", "aurez regardé", "auront regardé" ],
+  "subjonctifPresent": [ "regarde", "regardes", "regarde", "regardions", "regardiez", "regardent" ],
+  "subjonctifImparfait": [ "regardasse", "regardasses", "regardât", "regardassions", "regardassiez", "regardassent" ],
+  "subjonctifPasse": [ "aie regardé", "aies regardé", "ait regardé", "ayons regardé", "ayez regardé", "aient regardé" ],
+  "subjonctifPlusQueParfait": [ "eusse regardé", "eusses regardé", "eût regardé", "eussions regardé", "eussiez regardé", "eussent regardé" ],
+  "conditionnelPresent": [ "regarderais", "regarderais", "regarderait", "regarderions", "regarderiez", "regarderaient" ],
+  "conditionnelPasse": [ "aurais regardé", "aurais regardé", "aurait regardé", "aurions regardé", "auriez regardé", "auraient regardé" ],
+  "conditionnelPasseII": [ "eusse regardé", "eusses regardé", "eût regardé", "eussions regardé", "eussiez regardé", "eussent regardé" ],
+  "imperatif": [ "–", "regarde !", "–", "regardons !", "regardez !", "–" ],
+  "imperatifPasse": [ "–", "aie regardé !", "–", "ayons regardé !", "ayez regardé !", "–" ]
+}

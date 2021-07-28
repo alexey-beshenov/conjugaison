@@ -1,0 +1,22 @@
+{
+  "infinitif": "étonner",
+  "participePresent": "étonnant",
+  "participePasse": "étonné",
+  "present": [ "étonne", "étonnes", "étonne", "étonnons", "étonnez", "étonnent" ],
+  "imparfait": [ "étonnais", "étonnais", "étonnait", "étonnions", "étonniez", "étonnaient" ],
+  "passeSimple": [ "étonnai", "étonnas", "étonna", "étonnâmes", "étonnâtes", "étonnèrent" ],
+  "futurSimple": [ "étonnerai", "étonneras", "étonnera", "étonnerons", "étonnerez", "étonneront" ],
+  "passeCompose": [ "ai étonné", "as étonné", "a étonné", "avons étonné", "avez étonné", "ont étonné" ],
+  "plusQueParfait": [ "avais étonné", "avais étonné", "avait étonné", "avions étonné", "aviez étonné", "avaient étonné" ],
+  "passeAnterieur": [ "eus étonné", "eus étonné", "eut étonné", "eûmes étonné", "eûtes étonné", "eurent étonné" ],
+  "futurAnterieur": [ "aurai étonné", "auras étonné", "aura étonné", "aurons étonné", "aurez étonné", "auront étonné" ],
+  "subjonctifPresent": [ "étonne", "étonnes", "étonne", "étonnions", "étonniez", "étonnent" ],
+  "subjonctifImparfait": [ "étonnasse", "étonnasses", "étonnât", "étonnassions", "étonnassiez", "étonnassent" ],
+  "subjonctifPasse": [ "aie étonné", "aies étonné", "ait étonné", "ayons étonné", "ayez étonné", "aient étonné" ],
+  "subjonctifPlusQueParfait": [ "eusse étonné", "eusses étonné", "eût étonné", "eussions étonné", "eussiez étonné", "eussent étonné" ],
+  "conditionnelPresent": [ "étonnerais", "étonnerais", "étonnerait", "étonnerions", "étonneriez", "étonneraient" ],
+  "conditionnelPasse": [ "aurais étonné", "aurais étonné", "aurait étonné", "aurions étonné", "auriez étonné", "auraient étonné" ],
+  "conditionnelPasseII": [ "eusse étonné", "eusses étonné", "eût étonné", "eussions étonné", "eussiez étonné", "eussent étonné" ],
+  "imperatif": [ "–", "étonne !", "–", "étonnons !", "étonnez !", "–" ],
+  "imperatifPasse": [ "–", "aie étonné !", "–", "ayons étonné !", "ayez étonné !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "entrer",
+  "participePresent": "entrant",
+  "participePasse": "entré",
+  "present": [ "entre", "entres", "entre", "entrons", "entrez", "entrent" ],
+  "imparfait": [ "entrais", "entrais", "entrait", "entrions", "entriez", "entraient" ],
+  "passeSimple": [ "entrai", "entras", "entra", "entrâmes", "entrâtes", "entrèrent" ],
+  "futurSimple": [ "entrerai", "entreras", "entrera", "entrerons", "entrerez", "entreront" ],
+  "passeCompose": [ "suis entré(e)", "es entré(e)", "est entré(e)", "sommes entré(e)s", "êtes entré(e)(s)", "sont entré(e)s" ],
+  "plusQueParfait": [ "étais entré(e)", "étais entré(e)", "était entré(e)", "étions entré(e)s", "étiez entré(e)(s)", "étaient entré(e)s" ],
+  "passeAnterieur": [ "fus entré(e)", "fus entré(e)", "fut entré(e)", "fûmes entré(e)s", "fûtes entré(e)(s)", "furent entré(e)s" ],
+  "futurAnterieur": [ "serai entré(e)", "seras entré(e)", "sera entré(e)", "serons entré(e)s", "serez entré(e)(s)", "seront entré(e)s" ],
+  "subjonctifPresent": [ "entre", "entres", "entre", "entrions", "entriez", "entrent" ],
+  "subjonctifImparfait": [ "entrasse", "entrasses", "entrât", "entrassions", "entrassiez", "entrassent" ],
+  "subjonctifPasse": [ "sois entré(e)", "sois entré(e)", "soit entré(e)", "soyons entré(e)s", "soyez entré(e)(s)", "soient entré(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse entré(e)", "fusses entré(e)", "fût entré(e)", "fussions entré(e)s", "fussiez entré(e)(s)", "fussent entré(e)s" ],
+  "conditionnelPresent": [ "entrerais", "entrerais", "entrerait", "entrerions", "entreriez", "entreraient" ],
+  "conditionnelPasse": [ "serais entré(e)", "serais entré(e)", "serait entré(e)", "serions entré(e)s", "seriez entré(e)(s)", "seraient entré(e)s" ],
+  "conditionnelPasseII": [ "fusse entré(e)", "fusses entré(e)", "fût entré(e)", "fussions entré(e)s", "fussiez entré(e)(s)", "fussent entré(e)s" ],
+  "imperatif": [ "–", "entre !", "–", "entrons !", "entrez !", "–" ],
+  "imperatifPasse": [ "–", "sois entré(e) !", "–", "soyons entré(e)s !", "soyez entré(e)(s) !", "–" ]
+}

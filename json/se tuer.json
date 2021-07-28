@@ -1,0 +1,22 @@
+{
+  "infinitif": "se tuer",
+  "participePresent": "se tuant",
+  "participePasse": "tué",
+  "present": [ "me tue", "te tues", "se tue", "nous tuons", "vous tuez", "se tuent" ],
+  "imparfait": [ "me tuais", "te tuais", "se tuait", "nous tuions", "vous tuiez", "se tuaient" ],
+  "passeSimple": [ "me tuai", "te tuas", "se tua", "nous tuâmes", "vous tuâtes", "se tuèrent" ],
+  "futurSimple": [ "me tuerai", "te tueras", "se tuera", "nous tuerons", "vous tuerez", "se tueront" ],
+  "passeCompose": [ "me suis tué(e)", "t'es tué(e)", "s'est tué(e)", "nous sommes tué(e)s", "vous êtes tué(e)(s)", "se sont tué(e)s" ],
+  "plusQueParfait": [ "m'étais tué(e)", "t'étais tué(e)", "s'était tué(e)", "nous étions tué(e)s", "vous étiez tué(e)(s)", "s'étaient tué(e)s" ],
+  "passeAnterieur": [ "me fus tué(e)", "te fus tué(e)", "se fut tué(e)", "nous fûmes tué(e)s", "vous fûtes tué(e)(s)", "se furent tué(e)s" ],
+  "futurAnterieur": [ "me serai tué(e)", "te seras tué(e)", "se sera tué(e)", "nous serons tué(e)s", "vous serez tué(e)(s)", "se seront tué(e)s" ],
+  "subjonctifPresent": [ "me tue", "te tues", "se tue", "nous tuions", "vous tuiez", "se tuent" ],
+  "subjonctifImparfait": [ "me tuasse", "te tuasses", "se tuât", "nous tuassions", "vous tuassiez", "se tuassent" ],
+  "subjonctifPasse": [ "me sois tué(e)", "te sois tué(e)", "se soit tué(e)", "nous soyons tué(e)s", "vous soyez tué(e)(s)", "se soient tué(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse tué(e)", "te fusses tué(e)", "se fût tué(e)", "nous fussions tué(e)s", "vous fussiez tué(e)(s)", "se fussent tué(e)s" ],
+  "conditionnelPresent": [ "me tuerais", "te tuerais", "se tuerait", "nous tuerions", "vous tueriez", "se tueraient" ],
+  "conditionnelPasse": [ "me serais tué(e)", "te serais tué(e)", "se serait tué(e)", "nous serions tué(e)s", "vous seriez tué(e)(s)", "se seraient tué(e)s" ],
+  "conditionnelPasseII": [ "me fusse tué(e)", "te fusses tué(e)", "se fût tué(e)", "nous fussions tué(e)s", "vous fussiez tué(e)(s)", "se fussent tué(e)s" ],
+  "imperatif": [ "–", "tue-toi !", "–", "tuons-nous !", "tuez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se conduire",
+  "participePresent": "se conduisant",
+  "participePasse": "conduit",
+  "present": [ "me conduis", "te conduis", "se conduit", "nous conduisons", "vous conduisez", "se conduisent" ],
+  "imparfait": [ "me conduisais", "te conduisais", "se conduisait", "nous conduisions", "vous conduisiez", "se conduisaient" ],
+  "passeSimple": [ "me conduisis", "te conduisis", "se conduisit", "nous conduisîmes", "vous conduisîtes", "se conduisirent" ],
+  "futurSimple": [ "me conduirai", "te conduiras", "se conduira", "nous conduirons", "vous conduirez", "se conduiront" ],
+  "passeCompose": [ "me suis conduit(e)", "t'es conduit(e)", "s'est conduit(e)", "nous sommes conduit(e)s", "vous êtes conduit(e)(s)", "se sont conduit(e)s" ],
+  "plusQueParfait": [ "m'étais conduit(e)", "t'étais conduit(e)", "s'était conduit(e)", "nous étions conduit(e)s", "vous étiez conduit(e)(s)", "s'étaient conduit(e)s" ],
+  "passeAnterieur": [ "me fus conduit(e)", "te fus conduit(e)", "se fut conduit(e)", "nous fûmes conduit(e)s", "vous fûtes conduit(e)(s)", "se furent conduit(e)s" ],
+  "futurAnterieur": [ "me serai conduit(e)", "te seras conduit(e)", "se sera conduit(e)", "nous serons conduit(e)s", "vous serez conduit(e)(s)", "se seront conduit(e)s" ],
+  "subjonctifPresent": [ "me conduise", "te conduises", "se conduise", "nous conduisions", "vous conduisiez", "se conduisent" ],
+  "subjonctifImparfait": [ "me conduisisse", "te conduisisses", "se conduisît", "nous conduisissions", "vous conduisissiez", "se conduisissent" ],
+  "subjonctifPasse": [ "me sois conduit(e)", "te sois conduit(e)", "se soit conduit(e)", "nous soyons conduit(e)s", "vous soyez conduit(e)(s)", "se soient conduit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse conduit(e)", "te fusses conduit(e)", "se fût conduit(e)", "nous fussions conduit(e)s", "vous fussiez conduit(e)(s)", "se fussent conduit(e)s" ],
+  "conditionnelPresent": [ "me conduirais", "te conduirais", "se conduirait", "nous conduirions", "vous conduiriez", "se conduiraient" ],
+  "conditionnelPasse": [ "me serais conduit(e)", "te serais conduit(e)", "se serait conduit(e)", "nous serions conduit(e)s", "vous seriez conduit(e)(s)", "se seraient conduit(e)s" ],
+  "conditionnelPasseII": [ "me fusse conduit(e)", "te fusses conduit(e)", "se fût conduit(e)", "nous fussions conduit(e)s", "vous fussiez conduit(e)(s)", "se fussent conduit(e)s" ],
+  "imperatif": [ "–", "conduis-toi !", "–", "conduisons-nous !", "conduisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

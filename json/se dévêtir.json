@@ -1,0 +1,22 @@
+{
+  "infinitif": "se dévêtir",
+  "participePresent": "se dévêtant",
+  "participePasse": "dévêtu",
+  "present": [ "me dévêts", "te dévêts", "se dévêt", "nous dévêtons", "vous dévêtez", "se dévêtent" ],
+  "imparfait": [ "me dévêtais", "te dévêtais", "se dévêtait", "nous dévêtions", "vous dévêtiez", "se dévêtaient" ],
+  "passeSimple": [ "me dévêtis", "te dévêtis", "se dévêtit", "nous dévêtîmes", "vous dévêtîtes", "se dévêtirent" ],
+  "futurSimple": [ "me dévêtirai", "te dévêtiras", "se dévêtira", "nous dévêtirons", "vous dévêtirez", "se dévêtiront" ],
+  "passeCompose": [ "me suis dévêtu(e)", "t'es dévêtu(e)", "s'est dévêtu(e)", "nous sommes dévêtu(e)s", "vous êtes dévêtu(e)(s)", "se sont dévêtu(e)s" ],
+  "plusQueParfait": [ "m'étais dévêtu(e)", "t'étais dévêtu(e)", "s'était dévêtu(e)", "nous étions dévêtu(e)s", "vous étiez dévêtu(e)(s)", "s'étaient dévêtu(e)s" ],
+  "passeAnterieur": [ "me fus dévêtu(e)", "te fus dévêtu(e)", "se fut dévêtu(e)", "nous fûmes dévêtu(e)s", "vous fûtes dévêtu(e)(s)", "se furent dévêtu(e)s" ],
+  "futurAnterieur": [ "me serai dévêtu(e)", "te seras dévêtu(e)", "se sera dévêtu(e)", "nous serons dévêtu(e)s", "vous serez dévêtu(e)(s)", "se seront dévêtu(e)s" ],
+  "subjonctifPresent": [ "me dévête", "te dévêtes", "se dévête", "nous dévêtions", "vous dévêtiez", "se dévêtent" ],
+  "subjonctifImparfait": [ "me dévêtisse", "te dévêtisses", "se dévêtît", "nous dévêtissions", "vous dévêtissiez", "se dévêtissent" ],
+  "subjonctifPasse": [ "me sois dévêtu(e)", "te sois dévêtu(e)", "se soit dévêtu(e)", "nous soyons dévêtu(e)s", "vous soyez dévêtu(e)(s)", "se soient dévêtu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse dévêtu(e)", "te fusses dévêtu(e)", "se fût dévêtu(e)", "nous fussions dévêtu(e)s", "vous fussiez dévêtu(e)(s)", "se fussent dévêtu(e)s" ],
+  "conditionnelPresent": [ "me dévêtirais", "te dévêtirais", "se dévêtirait", "nous dévêtirions", "vous dévêtiriez", "se dévêtiraient" ],
+  "conditionnelPasse": [ "me serais dévêtu(e)", "te serais dévêtu(e)", "se serait dévêtu(e)", "nous serions dévêtu(e)s", "vous seriez dévêtu(e)(s)", "se seraient dévêtu(e)s" ],
+  "conditionnelPasseII": [ "me fusse dévêtu(e)", "te fusses dévêtu(e)", "se fût dévêtu(e)", "nous fussions dévêtu(e)s", "vous fussiez dévêtu(e)(s)", "se fussent dévêtu(e)s" ],
+  "imperatif": [ "–", "dévêts-toi !", "–", "dévêtons-nous !", "dévêtez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

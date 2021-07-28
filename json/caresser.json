@@ -1,0 +1,22 @@
+{
+  "infinitif": "caresser",
+  "participePresent": "caressant",
+  "participePasse": "caressé",
+  "present": [ "caresse", "caresses", "caresse", "caressons", "caressez", "caressent" ],
+  "imparfait": [ "caressais", "caressais", "caressait", "caressions", "caressiez", "caressaient" ],
+  "passeSimple": [ "caressai", "caressas", "caressa", "caressâmes", "caressâtes", "caressèrent" ],
+  "futurSimple": [ "caresserai", "caresseras", "caressera", "caresserons", "caresserez", "caresseront" ],
+  "passeCompose": [ "ai caressé", "as caressé", "a caressé", "avons caressé", "avez caressé", "ont caressé" ],
+  "plusQueParfait": [ "avais caressé", "avais caressé", "avait caressé", "avions caressé", "aviez caressé", "avaient caressé" ],
+  "passeAnterieur": [ "eus caressé", "eus caressé", "eut caressé", "eûmes caressé", "eûtes caressé", "eurent caressé" ],
+  "futurAnterieur": [ "aurai caressé", "auras caressé", "aura caressé", "aurons caressé", "aurez caressé", "auront caressé" ],
+  "subjonctifPresent": [ "caresse", "caresses", "caresse", "caressions", "caressiez", "caressent" ],
+  "subjonctifImparfait": [ "caressasse", "caressasses", "caressât", "caressassions", "caressassiez", "caressassent" ],
+  "subjonctifPasse": [ "aie caressé", "aies caressé", "ait caressé", "ayons caressé", "ayez caressé", "aient caressé" ],
+  "subjonctifPlusQueParfait": [ "eusse caressé", "eusses caressé", "eût caressé", "eussions caressé", "eussiez caressé", "eussent caressé" ],
+  "conditionnelPresent": [ "caresserais", "caresserais", "caresserait", "caresserions", "caresseriez", "caresseraient" ],
+  "conditionnelPasse": [ "aurais caressé", "aurais caressé", "aurait caressé", "aurions caressé", "auriez caressé", "auraient caressé" ],
+  "conditionnelPasseII": [ "eusse caressé", "eusses caressé", "eût caressé", "eussions caressé", "eussiez caressé", "eussent caressé" ],
+  "imperatif": [ "–", "caresse !", "–", "caressons !", "caressez !", "–" ],
+  "imperatifPasse": [ "–", "aie caressé !", "–", "ayons caressé !", "ayez caressé !", "–" ]
+}

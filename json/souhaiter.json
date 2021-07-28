@@ -1,0 +1,22 @@
+{
+  "infinitif": "souhaiter",
+  "participePresent": "souhaitant",
+  "participePasse": "souhaité",
+  "present": [ "souhaite", "souhaites", "souhaite", "souhaitons", "souhaitez", "souhaitent" ],
+  "imparfait": [ "souhaitais", "souhaitais", "souhaitait", "souhaitions", "souhaitiez", "souhaitaient" ],
+  "passeSimple": [ "souhaitai", "souhaitas", "souhaita", "souhaitâmes", "souhaitâtes", "souhaitèrent" ],
+  "futurSimple": [ "souhaiterai", "souhaiteras", "souhaitera", "souhaiterons", "souhaiterez", "souhaiteront" ],
+  "passeCompose": [ "ai souhaité", "as souhaité", "a souhaité", "avons souhaité", "avez souhaité", "ont souhaité" ],
+  "plusQueParfait": [ "avais souhaité", "avais souhaité", "avait souhaité", "avions souhaité", "aviez souhaité", "avaient souhaité" ],
+  "passeAnterieur": [ "eus souhaité", "eus souhaité", "eut souhaité", "eûmes souhaité", "eûtes souhaité", "eurent souhaité" ],
+  "futurAnterieur": [ "aurai souhaité", "auras souhaité", "aura souhaité", "aurons souhaité", "aurez souhaité", "auront souhaité" ],
+  "subjonctifPresent": [ "souhaite", "souhaites", "souhaite", "souhaitions", "souhaitiez", "souhaitent" ],
+  "subjonctifImparfait": [ "souhaitasse", "souhaitasses", "souhaitât", "souhaitassions", "souhaitassiez", "souhaitassent" ],
+  "subjonctifPasse": [ "aie souhaité", "aies souhaité", "ait souhaité", "ayons souhaité", "ayez souhaité", "aient souhaité" ],
+  "subjonctifPlusQueParfait": [ "eusse souhaité", "eusses souhaité", "eût souhaité", "eussions souhaité", "eussiez souhaité", "eussent souhaité" ],
+  "conditionnelPresent": [ "souhaiterais", "souhaiterais", "souhaiterait", "souhaiterions", "souhaiteriez", "souhaiteraient" ],
+  "conditionnelPasse": [ "aurais souhaité", "aurais souhaité", "aurait souhaité", "aurions souhaité", "auriez souhaité", "auraient souhaité" ],
+  "conditionnelPasseII": [ "eusse souhaité", "eusses souhaité", "eût souhaité", "eussions souhaité", "eussiez souhaité", "eussent souhaité" ],
+  "imperatif": [ "–", "souhaite !", "–", "souhaitons !", "souhaitez !", "–" ],
+  "imperatifPasse": [ "–", "aie souhaité !", "–", "ayons souhaité !", "ayez souhaité !", "–" ]
+}

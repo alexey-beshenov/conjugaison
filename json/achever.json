@@ -1,0 +1,22 @@
+{
+  "infinitif": "achever",
+  "participePresent": "achevant",
+  "participePasse": "achevé",
+  "present": [ "achève", "achèves", "achève", "achevons", "achevez", "achèvent" ],
+  "imparfait": [ "achevais", "achevais", "achevait", "achevions", "acheviez", "achevaient" ],
+  "passeSimple": [ "achevai", "achevas", "acheva", "achevâmes", "achevâtes", "achevèrent" ],
+  "futurSimple": [ "achèverai", "achèveras", "achèvera", "achèverons", "achèverez", "achèveront" ],
+  "passeCompose": [ "ai achevé", "as achevé", "a achevé", "avons achevé", "avez achevé", "ont achevé" ],
+  "plusQueParfait": [ "avais achevé", "avais achevé", "avait achevé", "avions achevé", "aviez achevé", "avaient achevé" ],
+  "passeAnterieur": [ "eus achevé", "eus achevé", "eut achevé", "eûmes achevé", "eûtes achevé", "eurent achevé" ],
+  "futurAnterieur": [ "aurai achevé", "auras achevé", "aura achevé", "aurons achevé", "aurez achevé", "auront achevé" ],
+  "subjonctifPresent": [ "achève", "achèves", "achève", "achevions", "acheviez", "achèvent" ],
+  "subjonctifImparfait": [ "achevasse", "achevasses", "achevât", "achevassions", "achevassiez", "achevassent" ],
+  "subjonctifPasse": [ "aie achevé", "aies achevé", "ait achevé", "ayons achevé", "ayez achevé", "aient achevé" ],
+  "subjonctifPlusQueParfait": [ "eusse achevé", "eusses achevé", "eût achevé", "eussions achevé", "eussiez achevé", "eussent achevé" ],
+  "conditionnelPresent": [ "achèverais", "achèverais", "achèverait", "achèverions", "achèveriez", "achèveraient" ],
+  "conditionnelPasse": [ "aurais achevé", "aurais achevé", "aurait achevé", "aurions achevé", "auriez achevé", "auraient achevé" ],
+  "conditionnelPasseII": [ "eusse achevé", "eusses achevé", "eût achevé", "eussions achevé", "eussiez achevé", "eussent achevé" ],
+  "imperatif": [ "–", "achève !", "–", "achevons !", "achevez !", "–" ],
+  "imperatifPasse": [ "–", "aie achevé !", "–", "ayons achevé !", "ayez achevé !", "–" ]
+}

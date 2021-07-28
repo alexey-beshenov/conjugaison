@@ -1,0 +1,22 @@
+{
+  "infinitif": "éviter",
+  "participePresent": "évitant",
+  "participePasse": "évité",
+  "present": [ "évite", "évites", "évite", "évitons", "évitez", "évitent" ],
+  "imparfait": [ "évitais", "évitais", "évitait", "évitions", "évitiez", "évitaient" ],
+  "passeSimple": [ "évitai", "évitas", "évita", "évitâmes", "évitâtes", "évitèrent" ],
+  "futurSimple": [ "éviterai", "éviteras", "évitera", "éviterons", "éviterez", "éviteront" ],
+  "passeCompose": [ "ai évité", "as évité", "a évité", "avons évité", "avez évité", "ont évité" ],
+  "plusQueParfait": [ "avais évité", "avais évité", "avait évité", "avions évité", "aviez évité", "avaient évité" ],
+  "passeAnterieur": [ "eus évité", "eus évité", "eut évité", "eûmes évité", "eûtes évité", "eurent évité" ],
+  "futurAnterieur": [ "aurai évité", "auras évité", "aura évité", "aurons évité", "aurez évité", "auront évité" ],
+  "subjonctifPresent": [ "évite", "évites", "évite", "évitions", "évitiez", "évitent" ],
+  "subjonctifImparfait": [ "évitasse", "évitasses", "évitât", "évitassions", "évitassiez", "évitassent" ],
+  "subjonctifPasse": [ "aie évité", "aies évité", "ait évité", "ayons évité", "ayez évité", "aient évité" ],
+  "subjonctifPlusQueParfait": [ "eusse évité", "eusses évité", "eût évité", "eussions évité", "eussiez évité", "eussent évité" ],
+  "conditionnelPresent": [ "éviterais", "éviterais", "éviterait", "éviterions", "éviteriez", "éviteraient" ],
+  "conditionnelPasse": [ "aurais évité", "aurais évité", "aurait évité", "aurions évité", "auriez évité", "auraient évité" ],
+  "conditionnelPasseII": [ "eusse évité", "eusses évité", "eût évité", "eussions évité", "eussiez évité", "eussent évité" ],
+  "imperatif": [ "–", "évite !", "–", "évitons !", "évitez !", "–" ],
+  "imperatifPasse": [ "–", "aie évité !", "–", "ayons évité !", "ayez évité !", "–" ]
+}

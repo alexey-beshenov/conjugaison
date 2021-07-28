@@ -1,0 +1,22 @@
+{
+  "infinitif": "rêver",
+  "participePresent": "rêvant",
+  "participePasse": "rêvé",
+  "present": [ "rêve", "rêves", "rêve", "rêvons", "rêvez", "rêvent" ],
+  "imparfait": [ "rêvais", "rêvais", "rêvait", "rêvions", "rêviez", "rêvaient" ],
+  "passeSimple": [ "rêvai", "rêvas", "rêva", "rêvâmes", "rêvâtes", "rêvèrent" ],
+  "futurSimple": [ "rêverai", "rêveras", "rêvera", "rêverons", "rêverez", "rêveront" ],
+  "passeCompose": [ "ai rêvé", "as rêvé", "a rêvé", "avons rêvé", "avez rêvé", "ont rêvé" ],
+  "plusQueParfait": [ "avais rêvé", "avais rêvé", "avait rêvé", "avions rêvé", "aviez rêvé", "avaient rêvé" ],
+  "passeAnterieur": [ "eus rêvé", "eus rêvé", "eut rêvé", "eûmes rêvé", "eûtes rêvé", "eurent rêvé" ],
+  "futurAnterieur": [ "aurai rêvé", "auras rêvé", "aura rêvé", "aurons rêvé", "aurez rêvé", "auront rêvé" ],
+  "subjonctifPresent": [ "rêve", "rêves", "rêve", "rêvions", "rêviez", "rêvent" ],
+  "subjonctifImparfait": [ "rêvasse", "rêvasses", "rêvât", "rêvassions", "rêvassiez", "rêvassent" ],
+  "subjonctifPasse": [ "aie rêvé", "aies rêvé", "ait rêvé", "ayons rêvé", "ayez rêvé", "aient rêvé" ],
+  "subjonctifPlusQueParfait": [ "eusse rêvé", "eusses rêvé", "eût rêvé", "eussions rêvé", "eussiez rêvé", "eussent rêvé" ],
+  "conditionnelPresent": [ "rêverais", "rêverais", "rêverait", "rêverions", "rêveriez", "rêveraient" ],
+  "conditionnelPasse": [ "aurais rêvé", "aurais rêvé", "aurait rêvé", "aurions rêvé", "auriez rêvé", "auraient rêvé" ],
+  "conditionnelPasseII": [ "eusse rêvé", "eusses rêvé", "eût rêvé", "eussions rêvé", "eussiez rêvé", "eussent rêvé" ],
+  "imperatif": [ "–", "rêve !", "–", "rêvons !", "rêvez !", "–" ],
+  "imperatifPasse": [ "–", "aie rêvé !", "–", "ayons rêvé !", "ayez rêvé !", "–" ]
+}

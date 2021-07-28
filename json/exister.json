@@ -1,0 +1,22 @@
+{
+  "infinitif": "exister",
+  "participePresent": "existant",
+  "participePasse": "existé",
+  "present": [ "existe", "existes", "existe", "existons", "existez", "existent" ],
+  "imparfait": [ "existais", "existais", "existait", "existions", "existiez", "existaient" ],
+  "passeSimple": [ "existai", "existas", "exista", "existâmes", "existâtes", "existèrent" ],
+  "futurSimple": [ "existerai", "existeras", "existera", "existerons", "existerez", "existeront" ],
+  "passeCompose": [ "ai existé", "as existé", "a existé", "avons existé", "avez existé", "ont existé" ],
+  "plusQueParfait": [ "avais existé", "avais existé", "avait existé", "avions existé", "aviez existé", "avaient existé" ],
+  "passeAnterieur": [ "eus existé", "eus existé", "eut existé", "eûmes existé", "eûtes existé", "eurent existé" ],
+  "futurAnterieur": [ "aurai existé", "auras existé", "aura existé", "aurons existé", "aurez existé", "auront existé" ],
+  "subjonctifPresent": [ "existe", "existes", "existe", "existions", "existiez", "existent" ],
+  "subjonctifImparfait": [ "existasse", "existasses", "existât", "existassions", "existassiez", "existassent" ],
+  "subjonctifPasse": [ "aie existé", "aies existé", "ait existé", "ayons existé", "ayez existé", "aient existé" ],
+  "subjonctifPlusQueParfait": [ "eusse existé", "eusses existé", "eût existé", "eussions existé", "eussiez existé", "eussent existé" ],
+  "conditionnelPresent": [ "existerais", "existerais", "existerait", "existerions", "existeriez", "existeraient" ],
+  "conditionnelPasse": [ "aurais existé", "aurais existé", "aurait existé", "aurions existé", "auriez existé", "auraient existé" ],
+  "conditionnelPasseII": [ "eusse existé", "eusses existé", "eût existé", "eussions existé", "eussiez existé", "eussent existé" ],
+  "imperatif": [ "–", "existe !", "–", "existons !", "existez !", "–" ],
+  "imperatifPasse": [ "–", "aie existé !", "–", "ayons existé !", "ayez existé !", "–" ]
+}

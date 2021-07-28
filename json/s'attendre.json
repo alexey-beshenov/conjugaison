@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'attendre",
+  "participePresent": "s'attendant",
+  "participePasse": "attendu",
+  "present": [ "m'attends", "t'attends", "s'attend", "nous attendons", "vous attendez", "s'attendent" ],
+  "imparfait": [ "m'attendais", "t'attendais", "s'attendait", "nous attendions", "vous attendiez", "s'attendaient" ],
+  "passeSimple": [ "m'attendis", "t'attendis", "s'attendit", "nous attendîmes", "vous attendîtes", "s'attendirent" ],
+  "futurSimple": [ "m'attendrai", "t'attendras", "s'attendra", "nous attendrons", "vous attendrez", "s'attendront" ],
+  "passeCompose": [ "me suis attendu(e)", "t'es attendu(e)", "s'est attendu(e)", "nous sommes attendu(e)s", "vous êtes attendu(e)(s)", "se sont attendu(e)s" ],
+  "plusQueParfait": [ "m'étais attendu(e)", "t'étais attendu(e)", "s'était attendu(e)", "nous étions attendu(e)s", "vous étiez attendu(e)(s)", "s'étaient attendu(e)s" ],
+  "passeAnterieur": [ "me fus attendu(e)", "te fus attendu(e)", "se fut attendu(e)", "nous fûmes attendu(e)s", "vous fûtes attendu(e)(s)", "se furent attendu(e)s" ],
+  "futurAnterieur": [ "me serai attendu(e)", "te seras attendu(e)", "se sera attendu(e)", "nous serons attendu(e)s", "vous serez attendu(e)(s)", "se seront attendu(e)s" ],
+  "subjonctifPresent": [ "m'attende", "t'attendes", "s'attende", "nous attendions", "vous attendiez", "s'attendent" ],
+  "subjonctifImparfait": [ "m'attendisse", "t'attendisses", "s'attendît", "nous attendissions", "vous attendissiez", "s'attendissent" ],
+  "subjonctifPasse": [ "me sois attendu(e)", "te sois attendu(e)", "se soit attendu(e)", "nous soyons attendu(e)s", "vous soyez attendu(e)(s)", "se soient attendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse attendu(e)", "te fusses attendu(e)", "se fût attendu(e)", "nous fussions attendu(e)s", "vous fussiez attendu(e)(s)", "se fussent attendu(e)s" ],
+  "conditionnelPresent": [ "m'attendrais", "t'attendrais", "s'attendrait", "nous attendrions", "vous attendriez", "s'attendraient" ],
+  "conditionnelPasse": [ "me serais attendu(e)", "te serais attendu(e)", "se serait attendu(e)", "nous serions attendu(e)s", "vous seriez attendu(e)(s)", "se seraient attendu(e)s" ],
+  "conditionnelPasseII": [ "me fusse attendu(e)", "te fusses attendu(e)", "se fût attendu(e)", "nous fussions attendu(e)s", "vous fussiez attendu(e)(s)", "se fussent attendu(e)s" ],
+  "imperatif": [ "–", "attends-toi !", "–", "attendons-nous !", "attendez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

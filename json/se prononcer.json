@@ -1,0 +1,22 @@
+{
+  "infinitif": "se prononcer",
+  "participePresent": "se prononçant",
+  "participePasse": "prononcé",
+  "present": [ "me prononce", "te prononces", "se prononce", "nous prononçons", "vous prononcez", "se prononcent" ],
+  "imparfait": [ "me prononçais", "te prononçais", "se prononçait", "nous prononcions", "vous prononciez", "se prononçaient" ],
+  "passeSimple": [ "me prononçai", "te prononças", "se prononça", "nous prononçâmes", "vous prononçâtes", "se prononcèrent" ],
+  "futurSimple": [ "me prononcerai", "te prononceras", "se prononcera", "nous prononcerons", "vous prononcerez", "se prononceront" ],
+  "passeCompose": [ "me suis prononcé(e)", "t'es prononcé(e)", "s'est prononcé(e)", "nous sommes prononcé(e)s", "vous êtes prononcé(e)(s)", "se sont prononcé(e)s" ],
+  "plusQueParfait": [ "m'étais prononcé(e)", "t'étais prononcé(e)", "s'était prononcé(e)", "nous étions prononcé(e)s", "vous étiez prononcé(e)(s)", "s'étaient prononcé(e)s" ],
+  "passeAnterieur": [ "me fus prononcé(e)", "te fus prononcé(e)", "se fut prononcé(e)", "nous fûmes prononcé(e)s", "vous fûtes prononcé(e)(s)", "se furent prononcé(e)s" ],
+  "futurAnterieur": [ "me serai prononcé(e)", "te seras prononcé(e)", "se sera prononcé(e)", "nous serons prononcé(e)s", "vous serez prononcé(e)(s)", "se seront prononcé(e)s" ],
+  "subjonctifPresent": [ "me prononce", "te prononces", "se prononce", "nous prononcions", "vous prononciez", "se prononcent" ],
+  "subjonctifImparfait": [ "me prononçasse", "te prononçasses", "se prononçât", "nous prononçassions", "vous prononçassiez", "se prononçassent" ],
+  "subjonctifPasse": [ "me sois prononcé(e)", "te sois prononcé(e)", "se soit prononcé(e)", "nous soyons prononcé(e)s", "vous soyez prononcé(e)(s)", "se soient prononcé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse prononcé(e)", "te fusses prononcé(e)", "se fût prononcé(e)", "nous fussions prononcé(e)s", "vous fussiez prononcé(e)(s)", "se fussent prononcé(e)s" ],
+  "conditionnelPresent": [ "me prononcerais", "te prononcerais", "se prononcerait", "nous prononcerions", "vous prononceriez", "se prononceraient" ],
+  "conditionnelPasse": [ "me serais prononcé(e)", "te serais prononcé(e)", "se serait prononcé(e)", "nous serions prononcé(e)s", "vous seriez prononcé(e)(s)", "se seraient prononcé(e)s" ],
+  "conditionnelPasseII": [ "me fusse prononcé(e)", "te fusses prononcé(e)", "se fût prononcé(e)", "nous fussions prononcé(e)s", "vous fussiez prononcé(e)(s)", "se fussent prononcé(e)s" ],
+  "imperatif": [ "–", "prononce-toi !", "–", "prononçons-nous !", "prononcez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

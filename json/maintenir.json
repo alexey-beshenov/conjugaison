@@ -1,0 +1,22 @@
+{
+  "infinitif": "maintenir",
+  "participePresent": "maintenant",
+  "participePasse": "maintenu",
+  "present": [ "maintiens", "maintiens", "maintient", "maintenons", "maintenez", "maintiennent" ],
+  "imparfait": [ "maintenais", "maintenais", "maintenait", "maintenions", "mainteniez", "maintenaient" ],
+  "passeSimple": [ "maintins", "maintins", "maintint", "maintînmes", "maintîntes", "maintinrent" ],
+  "futurSimple": [ "maintiendrai", "maintiendras", "maintiendra", "maintiendrons", "maintiendrez", "maintiendront" ],
+  "passeCompose": [ "ai maintenu", "as maintenu", "a maintenu", "avons maintenu", "avez maintenu", "ont maintenu" ],
+  "plusQueParfait": [ "avais maintenu", "avais maintenu", "avait maintenu", "avions maintenu", "aviez maintenu", "avaient maintenu" ],
+  "passeAnterieur": [ "eus maintenu", "eus maintenu", "eut maintenu", "eûmes maintenu", "eûtes maintenu", "eurent maintenu" ],
+  "futurAnterieur": [ "aurai maintenu", "auras maintenu", "aura maintenu", "aurons maintenu", "aurez maintenu", "auront maintenu" ],
+  "subjonctifPresent": [ "maintienne", "maintiennes", "maintienne", "maintenions", "mainteniez", "maintiennent" ],
+  "subjonctifImparfait": [ "maintinsse", "maintinsses", "maintînt", "maintinssions", "maintinssiez", "maintinssent" ],
+  "subjonctifPasse": [ "aie maintenu", "aies maintenu", "ait maintenu", "ayons maintenu", "ayez maintenu", "aient maintenu" ],
+  "subjonctifPlusQueParfait": [ "eusse maintenu", "eusses maintenu", "eût maintenu", "eussions maintenu", "eussiez maintenu", "eussent maintenu" ],
+  "conditionnelPresent": [ "maintiendrais", "maintiendrais", "maintiendrait", "maintiendrions", "maintiendriez", "maintiendraient" ],
+  "conditionnelPasse": [ "aurais maintenu", "aurais maintenu", "aurait maintenu", "aurions maintenu", "auriez maintenu", "auraient maintenu" ],
+  "conditionnelPasseII": [ "eusse maintenu", "eusses maintenu", "eût maintenu", "eussions maintenu", "eussiez maintenu", "eussent maintenu" ],
+  "imperatif": [ "–", "maintiens !", "–", "maintenons !", "maintenez !", "–" ],
+  "imperatifPasse": [ "–", "aie maintenu !", "–", "ayons maintenu !", "ayez maintenu !", "–" ]
+}

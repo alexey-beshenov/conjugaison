@@ -1,0 +1,22 @@
+{
+  "infinitif": "arriver",
+  "participePresent": "arrivant",
+  "participePasse": "arrivé",
+  "present": [ "arrive", "arrives", "arrive", "arrivons", "arrivez", "arrivent" ],
+  "imparfait": [ "arrivais", "arrivais", "arrivait", "arrivions", "arriviez", "arrivaient" ],
+  "passeSimple": [ "arrivai", "arrivas", "arriva", "arrivâmes", "arrivâtes", "arrivèrent" ],
+  "futurSimple": [ "arriverai", "arriveras", "arrivera", "arriverons", "arriverez", "arriveront" ],
+  "passeCompose": [ "suis arrivé(e)", "es arrivé(e)", "est arrivé(e)", "sommes arrivé(e)s", "êtes arrivé(e)(s)", "sont arrivé(e)s" ],
+  "plusQueParfait": [ "étais arrivé(e)", "étais arrivé(e)", "était arrivé(e)", "étions arrivé(e)s", "étiez arrivé(e)(s)", "étaient arrivé(e)s" ],
+  "passeAnterieur": [ "fus arrivé(e)", "fus arrivé(e)", "fut arrivé(e)", "fûmes arrivé(e)s", "fûtes arrivé(e)(s)", "furent arrivé(e)s" ],
+  "futurAnterieur": [ "serai arrivé(e)", "seras arrivé(e)", "sera arrivé(e)", "serons arrivé(e)s", "serez arrivé(e)(s)", "seront arrivé(e)s" ],
+  "subjonctifPresent": [ "arrive", "arrives", "arrive", "arrivions", "arriviez", "arrivent" ],
+  "subjonctifImparfait": [ "arrivasse", "arrivasses", "arrivât", "arrivassions", "arrivassiez", "arrivassent" ],
+  "subjonctifPasse": [ "sois arrivé(e)", "sois arrivé(e)", "soit arrivé(e)", "soyons arrivé(e)s", "soyez arrivé(e)(s)", "soient arrivé(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse arrivé(e)", "fusses arrivé(e)", "fût arrivé(e)", "fussions arrivé(e)s", "fussiez arrivé(e)(s)", "fussent arrivé(e)s" ],
+  "conditionnelPresent": [ "arriverais", "arriverais", "arriverait", "arriverions", "arriveriez", "arriveraient" ],
+  "conditionnelPasse": [ "serais arrivé(e)", "serais arrivé(e)", "serait arrivé(e)", "serions arrivé(e)s", "seriez arrivé(e)(s)", "seraient arrivé(e)s" ],
+  "conditionnelPasseII": [ "fusse arrivé(e)", "fusses arrivé(e)", "fût arrivé(e)", "fussions arrivé(e)s", "fussiez arrivé(e)(s)", "fussent arrivé(e)s" ],
+  "imperatif": [ "–", "arrive !", "–", "arrivons !", "arrivez !", "–" ],
+  "imperatifPasse": [ "–", "sois arrivé(e) !", "–", "soyons arrivé(e)s !", "soyez arrivé(e)(s) !", "–" ]
+}

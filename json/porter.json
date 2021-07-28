@@ -1,0 +1,22 @@
+{
+  "infinitif": "porter",
+  "participePresent": "portant",
+  "participePasse": "porté",
+  "present": [ "porte", "portes", "porte", "portons", "portez", "portent" ],
+  "imparfait": [ "portais", "portais", "portait", "portions", "portiez", "portaient" ],
+  "passeSimple": [ "portai", "portas", "porta", "portâmes", "portâtes", "portèrent" ],
+  "futurSimple": [ "porterai", "porteras", "portera", "porterons", "porterez", "porteront" ],
+  "passeCompose": [ "ai porté", "as porté", "a porté", "avons porté", "avez porté", "ont porté" ],
+  "plusQueParfait": [ "avais porté", "avais porté", "avait porté", "avions porté", "aviez porté", "avaient porté" ],
+  "passeAnterieur": [ "eus porté", "eus porté", "eut porté", "eûmes porté", "eûtes porté", "eurent porté" ],
+  "futurAnterieur": [ "aurai porté", "auras porté", "aura porté", "aurons porté", "aurez porté", "auront porté" ],
+  "subjonctifPresent": [ "porte", "portes", "porte", "portions", "portiez", "portent" ],
+  "subjonctifImparfait": [ "portasse", "portasses", "portât", "portassions", "portassiez", "portassent" ],
+  "subjonctifPasse": [ "aie porté", "aies porté", "ait porté", "ayons porté", "ayez porté", "aient porté" ],
+  "subjonctifPlusQueParfait": [ "eusse porté", "eusses porté", "eût porté", "eussions porté", "eussiez porté", "eussent porté" ],
+  "conditionnelPresent": [ "porterais", "porterais", "porterait", "porterions", "porteriez", "porteraient" ],
+  "conditionnelPasse": [ "aurais porté", "aurais porté", "aurait porté", "aurions porté", "auriez porté", "auraient porté" ],
+  "conditionnelPasseII": [ "eusse porté", "eusses porté", "eût porté", "eussions porté", "eussiez porté", "eussent porté" ],
+  "imperatif": [ "–", "porte !", "–", "portons !", "portez !", "–" ],
+  "imperatifPasse": [ "–", "aie porté !", "–", "ayons porté !", "ayez porté !", "–" ]
+}

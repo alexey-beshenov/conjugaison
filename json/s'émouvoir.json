@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'émouvoir",
+  "participePresent": "s'émouvant",
+  "participePasse": "ému",
+  "present": [ "m'émeus", "t'émeus", "s'émeut", "nous émouvons", "vous émouvez", "s'émeuvent" ],
+  "imparfait": [ "m'émouvais", "t'émouvais", "s'émouvait", "nous émouvions", "vous émouviez", "s'émouvaient" ],
+  "passeSimple": [ "m'émus", "t'émus", "s'émut", "nous émûmes", "vous émûtes", "s'émurent" ],
+  "futurSimple": [ "m'émouvrai", "t'émouvras", "s'émouvra", "nous émouvrons", "vous émouvrez", "s'émouvront" ],
+  "passeCompose": [ "me suis ému(e)", "t'es ému(e)", "s'est ému(e)", "nous sommes ému(e)s", "vous êtes ému(e)(s)", "se sont ému(e)s" ],
+  "plusQueParfait": [ "m'étais ému(e)", "t'étais ému(e)", "s'était ému(e)", "nous étions ému(e)s", "vous étiez ému(e)(s)", "s'étaient ému(e)s" ],
+  "passeAnterieur": [ "me fus ému(e)", "te fus ému(e)", "se fut ému(e)", "nous fûmes ému(e)s", "vous fûtes ému(e)(s)", "se furent ému(e)s" ],
+  "futurAnterieur": [ "me serai ému(e)", "te seras ému(e)", "se sera ému(e)", "nous serons ému(e)s", "vous serez ému(e)(s)", "se seront ému(e)s" ],
+  "subjonctifPresent": [ "m'émeuve", "t'émeuves", "s'émeuve", "nous émouvions", "vous émouviez", "s'émeuvent" ],
+  "subjonctifImparfait": [ "m'émusse", "t'émusses", "s'émût", "nous émussions", "vous émussiez", "s'émussent" ],
+  "subjonctifPasse": [ "me sois ému(e)", "te sois ému(e)", "se soit ému(e)", "nous soyons ému(e)s", "vous soyez ému(e)(s)", "se soient ému(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse ému(e)", "te fusses ému(e)", "se fût ému(e)", "nous fussions ému(e)s", "vous fussiez ému(e)(s)", "se fussent ému(e)s" ],
+  "conditionnelPresent": [ "m'émouvrais", "t'émouvrais", "s'émouvrait", "nous émouvrions", "vous émouvriez", "s'émouvraient" ],
+  "conditionnelPasse": [ "me serais ému(e)", "te serais ému(e)", "se serait ému(e)", "nous serions ému(e)s", "vous seriez ému(e)(s)", "se seraient ému(e)s" ],
+  "conditionnelPasseII": [ "me fusse ému(e)", "te fusses ému(e)", "se fût ému(e)", "nous fussions ému(e)s", "vous fussiez ému(e)(s)", "se fussent ému(e)s" ],
+  "imperatif": [ "–", "émeus-toi !", "–", "émouvons-nous !", "émouvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

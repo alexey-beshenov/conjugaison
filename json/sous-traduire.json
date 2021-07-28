@@ -1,0 +1,22 @@
+{
+  "infinitif": "sous-traduire",
+  "participePresent": "sous-traduisant",
+  "participePasse": "sous-traduit",
+  "present": [ "sous-traduis", "sous-traduis", "sous-traduit", "sous-traduisons", "sous-traduisez", "sous-traduisent" ],
+  "imparfait": [ "sous-traduisais", "sous-traduisais", "sous-traduisait", "sous-traduisions", "sous-traduisiez", "sous-traduisaient" ],
+  "passeSimple": [ "sous-traduisis", "sous-traduisis", "sous-traduisit", "sous-traduisîmes", "sous-traduisîtes", "sous-traduisirent" ],
+  "futurSimple": [ "sous-traduirai", "sous-traduiras", "sous-traduira", "sous-traduirons", "sous-traduirez", "sous-traduiront" ],
+  "passeCompose": [ "ai sous-traduit", "as sous-traduit", "a sous-traduit", "avons sous-traduit", "avez sous-traduit", "ont sous-traduit" ],
+  "plusQueParfait": [ "avais sous-traduit", "avais sous-traduit", "avait sous-traduit", "avions sous-traduit", "aviez sous-traduit", "avaient sous-traduit" ],
+  "passeAnterieur": [ "eus sous-traduit", "eus sous-traduit", "eut sous-traduit", "eûmes sous-traduit", "eûtes sous-traduit", "eurent sous-traduit" ],
+  "futurAnterieur": [ "aurai sous-traduit", "auras sous-traduit", "aura sous-traduit", "aurons sous-traduit", "aurez sous-traduit", "auront sous-traduit" ],
+  "subjonctifPresent": [ "sous-traduise", "sous-traduises", "sous-traduise", "sous-traduisions", "sous-traduisiez", "sous-traduisent" ],
+  "subjonctifImparfait": [ "sous-traduisisse", "sous-traduisisses", "sous-traduisît", "sous-traduisissions", "sous-traduisissiez", "sous-traduisissent" ],
+  "subjonctifPasse": [ "aie sous-traduit", "aies sous-traduit", "ait sous-traduit", "ayons sous-traduit", "ayez sous-traduit", "aient sous-traduit" ],
+  "subjonctifPlusQueParfait": [ "eusse sous-traduit", "eusses sous-traduit", "eût sous-traduit", "eussions sous-traduit", "eussiez sous-traduit", "eussent sous-traduit" ],
+  "conditionnelPresent": [ "sous-traduirais", "sous-traduirais", "sous-traduirait", "sous-traduirions", "sous-traduiriez", "sous-traduiraient" ],
+  "conditionnelPasse": [ "aurais sous-traduit", "aurais sous-traduit", "aurait sous-traduit", "aurions sous-traduit", "auriez sous-traduit", "auraient sous-traduit" ],
+  "conditionnelPasseII": [ "eusse sous-traduit", "eusses sous-traduit", "eût sous-traduit", "eussions sous-traduit", "eussiez sous-traduit", "eussent sous-traduit" ],
+  "imperatif": [ "–", "sous-traduis !", "–", "sous-traduisons !", "sous-traduisez !", "–" ],
+  "imperatifPasse": [ "–", "aie sous-traduit !", "–", "ayons sous-traduit !", "ayez sous-traduit !", "–" ]
+}

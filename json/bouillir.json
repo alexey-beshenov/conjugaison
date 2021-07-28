@@ -1,0 +1,22 @@
+{
+  "infinitif": "bouillir",
+  "participePresent": "bouillant",
+  "participePasse": "bouilli",
+  "present": [ "bous", "bous", "bout", "bouillons", "bouillez", "bouillent" ],
+  "imparfait": [ "bouillais", "bouillais", "bouillait", "bouillions", "bouilliez", "bouillaient" ],
+  "passeSimple": [ "bouillis", "bouillis", "bouillit", "bouillîmes", "bouillîtes", "bouillirent" ],
+  "futurSimple": [ "bouillirai", "bouilliras", "bouillira", "bouillirons", "bouillirez", "bouilliront" ],
+  "passeCompose": [ "ai bouilli", "as bouilli", "a bouilli", "avons bouilli", "avez bouilli", "ont bouilli" ],
+  "plusQueParfait": [ "avais bouilli", "avais bouilli", "avait bouilli", "avions bouilli", "aviez bouilli", "avaient bouilli" ],
+  "passeAnterieur": [ "eus bouilli", "eus bouilli", "eut bouilli", "eûmes bouilli", "eûtes bouilli", "eurent bouilli" ],
+  "futurAnterieur": [ "aurai bouilli", "auras bouilli", "aura bouilli", "aurons bouilli", "aurez bouilli", "auront bouilli" ],
+  "subjonctifPresent": [ "bouille", "bouilles", "bouille", "bouillions", "bouilliez", "bouillent" ],
+  "subjonctifImparfait": [ "bouillisse", "bouillisses", "bouillît", "bouillissions", "bouillissiez", "bouillissent" ],
+  "subjonctifPasse": [ "aie bouilli", "aies bouilli", "ait bouilli", "ayons bouilli", "ayez bouilli", "aient bouilli" ],
+  "subjonctifPlusQueParfait": [ "eusse bouilli", "eusses bouilli", "eût bouilli", "eussions bouilli", "eussiez bouilli", "eussent bouilli" ],
+  "conditionnelPresent": [ "bouillirais", "bouillirais", "bouillirait", "bouillirions", "bouilliriez", "bouilliraient" ],
+  "conditionnelPasse": [ "aurais bouilli", "aurais bouilli", "aurait bouilli", "aurions bouilli", "auriez bouilli", "auraient bouilli" ],
+  "conditionnelPasseII": [ "eusse bouilli", "eusses bouilli", "eût bouilli", "eussions bouilli", "eussiez bouilli", "eussent bouilli" ],
+  "imperatif": [ "–", "bous !", "–", "bouillons !", "bouillez !", "–" ],
+  "imperatifPasse": [ "–", "aie bouilli !", "–", "ayons bouilli !", "ayez bouilli !", "–" ]
+}

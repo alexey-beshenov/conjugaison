@@ -1,0 +1,22 @@
+{
+  "infinitif": "se préférer",
+  "participePresent": "se préférant",
+  "participePasse": "préféré",
+  "present": [ "me préfère", "te préfères", "se préfère", "nous préférons", "vous préférez", "se préfèrent" ],
+  "imparfait": [ "me préférais", "te préférais", "se préférait", "nous préférions", "vous préfériez", "se préféraient" ],
+  "passeSimple": [ "me préférai", "te préféras", "se préféra", "nous préférâmes", "vous préférâtes", "se préférèrent" ],
+  "futurSimple": [ "me préférerai", "te préféreras", "se préférera", "nous préférerons", "vous préférerez", "se préféreront" ],
+  "passeCompose": [ "me suis préféré(e)", "t'es préféré(e)", "s'est préféré(e)", "nous sommes préféré(e)s", "vous êtes préféré(e)(s)", "se sont préféré(e)s" ],
+  "plusQueParfait": [ "m'étais préféré(e)", "t'étais préféré(e)", "s'était préféré(e)", "nous étions préféré(e)s", "vous étiez préféré(e)(s)", "s'étaient préféré(e)s" ],
+  "passeAnterieur": [ "me fus préféré(e)", "te fus préféré(e)", "se fut préféré(e)", "nous fûmes préféré(e)s", "vous fûtes préféré(e)(s)", "se furent préféré(e)s" ],
+  "futurAnterieur": [ "me serai préféré(e)", "te seras préféré(e)", "se sera préféré(e)", "nous serons préféré(e)s", "vous serez préféré(e)(s)", "se seront préféré(e)s" ],
+  "subjonctifPresent": [ "me préfère", "te préfères", "se préfère", "nous préférions", "vous préfériez", "se préfèrent" ],
+  "subjonctifImparfait": [ "me préférasse", "te préférasses", "se préférât", "nous préférassions", "vous préférassiez", "se préférassent" ],
+  "subjonctifPasse": [ "me sois préféré(e)", "te sois préféré(e)", "se soit préféré(e)", "nous soyons préféré(e)s", "vous soyez préféré(e)(s)", "se soient préféré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse préféré(e)", "te fusses préféré(e)", "se fût préféré(e)", "nous fussions préféré(e)s", "vous fussiez préféré(e)(s)", "se fussent préféré(e)s" ],
+  "conditionnelPresent": [ "me préférerais", "te préférerais", "se préférerait", "nous préférerions", "vous préféreriez", "se préféreraient" ],
+  "conditionnelPasse": [ "me serais préféré(e)", "te serais préféré(e)", "se serait préféré(e)", "nous serions préféré(e)s", "vous seriez préféré(e)(s)", "se seraient préféré(e)s" ],
+  "conditionnelPasseII": [ "me fusse préféré(e)", "te fusses préféré(e)", "se fût préféré(e)", "nous fussions préféré(e)s", "vous fussiez préféré(e)(s)", "se fussent préféré(e)s" ],
+  "imperatif": [ "–", "préfère-toi !", "–", "préférons-nous !", "préférez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

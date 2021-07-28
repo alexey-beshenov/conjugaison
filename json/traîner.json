@@ -1,0 +1,22 @@
+{
+  "infinitif": "traîner",
+  "participePresent": "traînant",
+  "participePasse": "traîné",
+  "present": [ "traîne", "traînes", "traîne", "traînons", "traînez", "traînent" ],
+  "imparfait": [ "traînais", "traînais", "traînait", "traînions", "traîniez", "traînaient" ],
+  "passeSimple": [ "traînai", "traînas", "traîna", "traînâmes", "traînâtes", "traînèrent" ],
+  "futurSimple": [ "traînerai", "traîneras", "traînera", "traînerons", "traînerez", "traîneront" ],
+  "passeCompose": [ "ai traîné", "as traîné", "a traîné", "avons traîné", "avez traîné", "ont traîné" ],
+  "plusQueParfait": [ "avais traîné", "avais traîné", "avait traîné", "avions traîné", "aviez traîné", "avaient traîné" ],
+  "passeAnterieur": [ "eus traîné", "eus traîné", "eut traîné", "eûmes traîné", "eûtes traîné", "eurent traîné" ],
+  "futurAnterieur": [ "aurai traîné", "auras traîné", "aura traîné", "aurons traîné", "aurez traîné", "auront traîné" ],
+  "subjonctifPresent": [ "traîne", "traînes", "traîne", "traînions", "traîniez", "traînent" ],
+  "subjonctifImparfait": [ "traînasse", "traînasses", "traînât", "traînassions", "traînassiez", "traînassent" ],
+  "subjonctifPasse": [ "aie traîné", "aies traîné", "ait traîné", "ayons traîné", "ayez traîné", "aient traîné" ],
+  "subjonctifPlusQueParfait": [ "eusse traîné", "eusses traîné", "eût traîné", "eussions traîné", "eussiez traîné", "eussent traîné" ],
+  "conditionnelPresent": [ "traînerais", "traînerais", "traînerait", "traînerions", "traîneriez", "traîneraient" ],
+  "conditionnelPasse": [ "aurais traîné", "aurais traîné", "aurait traîné", "aurions traîné", "auriez traîné", "auraient traîné" ],
+  "conditionnelPasseII": [ "eusse traîné", "eusses traîné", "eût traîné", "eussions traîné", "eussiez traîné", "eussent traîné" ],
+  "imperatif": [ "–", "traîne !", "–", "traînons !", "traînez !", "–" ],
+  "imperatifPasse": [ "–", "aie traîné !", "–", "ayons traîné !", "ayez traîné !", "–" ]
+}

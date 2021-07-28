@@ -1,0 +1,22 @@
+{
+  "infinitif": "briller",
+  "participePresent": "brillant",
+  "participePasse": "brillé",
+  "present": [ "brille", "brilles", "brille", "brillons", "brillez", "brillent" ],
+  "imparfait": [ "brillais", "brillais", "brillait", "brillions", "brilliez", "brillaient" ],
+  "passeSimple": [ "brillai", "brillas", "brilla", "brillâmes", "brillâtes", "brillèrent" ],
+  "futurSimple": [ "brillerai", "brilleras", "brillera", "brillerons", "brillerez", "brilleront" ],
+  "passeCompose": [ "ai brillé", "as brillé", "a brillé", "avons brillé", "avez brillé", "ont brillé" ],
+  "plusQueParfait": [ "avais brillé", "avais brillé", "avait brillé", "avions brillé", "aviez brillé", "avaient brillé" ],
+  "passeAnterieur": [ "eus brillé", "eus brillé", "eut brillé", "eûmes brillé", "eûtes brillé", "eurent brillé" ],
+  "futurAnterieur": [ "aurai brillé", "auras brillé", "aura brillé", "aurons brillé", "aurez brillé", "auront brillé" ],
+  "subjonctifPresent": [ "brille", "brilles", "brille", "brillions", "brilliez", "brillent" ],
+  "subjonctifImparfait": [ "brillasse", "brillasses", "brillât", "brillassions", "brillassiez", "brillassent" ],
+  "subjonctifPasse": [ "aie brillé", "aies brillé", "ait brillé", "ayons brillé", "ayez brillé", "aient brillé" ],
+  "subjonctifPlusQueParfait": [ "eusse brillé", "eusses brillé", "eût brillé", "eussions brillé", "eussiez brillé", "eussent brillé" ],
+  "conditionnelPresent": [ "brillerais", "brillerais", "brillerait", "brillerions", "brilleriez", "brilleraient" ],
+  "conditionnelPasse": [ "aurais brillé", "aurais brillé", "aurait brillé", "aurions brillé", "auriez brillé", "auraient brillé" ],
+  "conditionnelPasseII": [ "eusse brillé", "eusses brillé", "eût brillé", "eussions brillé", "eussiez brillé", "eussent brillé" ],
+  "imperatif": [ "–", "brille !", "–", "brillons !", "brillez !", "–" ],
+  "imperatifPasse": [ "–", "aie brillé !", "–", "ayons brillé !", "ayez brillé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'inventer",
+  "participePresent": "s'inventant",
+  "participePasse": "inventé",
+  "present": [ "m'invente", "t'inventes", "s'invente", "nous inventons", "vous inventez", "s'inventent" ],
+  "imparfait": [ "m'inventais", "t'inventais", "s'inventait", "nous inventions", "vous inventiez", "s'inventaient" ],
+  "passeSimple": [ "m'inventai", "t'inventas", "s'inventa", "nous inventâmes", "vous inventâtes", "s'inventèrent" ],
+  "futurSimple": [ "m'inventerai", "t'inventeras", "s'inventera", "nous inventerons", "vous inventerez", "s'inventeront" ],
+  "passeCompose": [ "me suis inventé(e)", "t'es inventé(e)", "s'est inventé(e)", "nous sommes inventé(e)s", "vous êtes inventé(e)(s)", "se sont inventé(e)s" ],
+  "plusQueParfait": [ "m'étais inventé(e)", "t'étais inventé(e)", "s'était inventé(e)", "nous étions inventé(e)s", "vous étiez inventé(e)(s)", "s'étaient inventé(e)s" ],
+  "passeAnterieur": [ "me fus inventé(e)", "te fus inventé(e)", "se fut inventé(e)", "nous fûmes inventé(e)s", "vous fûtes inventé(e)(s)", "se furent inventé(e)s" ],
+  "futurAnterieur": [ "me serai inventé(e)", "te seras inventé(e)", "se sera inventé(e)", "nous serons inventé(e)s", "vous serez inventé(e)(s)", "se seront inventé(e)s" ],
+  "subjonctifPresent": [ "m'invente", "t'inventes", "s'invente", "nous inventions", "vous inventiez", "s'inventent" ],
+  "subjonctifImparfait": [ "m'inventasse", "t'inventasses", "s'inventât", "nous inventassions", "vous inventassiez", "s'inventassent" ],
+  "subjonctifPasse": [ "me sois inventé(e)", "te sois inventé(e)", "se soit inventé(e)", "nous soyons inventé(e)s", "vous soyez inventé(e)(s)", "se soient inventé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse inventé(e)", "te fusses inventé(e)", "se fût inventé(e)", "nous fussions inventé(e)s", "vous fussiez inventé(e)(s)", "se fussent inventé(e)s" ],
+  "conditionnelPresent": [ "m'inventerais", "t'inventerais", "s'inventerait", "nous inventerions", "vous inventeriez", "s'inventeraient" ],
+  "conditionnelPasse": [ "me serais inventé(e)", "te serais inventé(e)", "se serait inventé(e)", "nous serions inventé(e)s", "vous seriez inventé(e)(s)", "se seraient inventé(e)s" ],
+  "conditionnelPasseII": [ "me fusse inventé(e)", "te fusses inventé(e)", "se fût inventé(e)", "nous fussions inventé(e)s", "vous fussiez inventé(e)(s)", "se fussent inventé(e)s" ],
+  "imperatif": [ "–", "invente-toi !", "–", "inventons-nous !", "inventez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se promener",
+  "participePresent": "se promenant",
+  "participePasse": "promené",
+  "present": [ "me promène", "te promènes", "se promène", "nous promenons", "vous promenez", "se promènent" ],
+  "imparfait": [ "me promenais", "te promenais", "se promenait", "nous promenions", "vous promeniez", "se promenaient" ],
+  "passeSimple": [ "me promenai", "te promenas", "se promena", "nous promenâmes", "vous promenâtes", "se promenèrent" ],
+  "futurSimple": [ "me promènerai", "te promèneras", "se promènera", "nous promènerons", "vous promènerez", "se promèneront" ],
+  "passeCompose": [ "me suis promené(e)", "t'es promené(e)", "s'est promené(e)", "nous sommes promené(e)s", "vous êtes promené(e)(s)", "se sont promené(e)s" ],
+  "plusQueParfait": [ "m'étais promené(e)", "t'étais promené(e)", "s'était promené(e)", "nous étions promené(e)s", "vous étiez promené(e)(s)", "s'étaient promené(e)s" ],
+  "passeAnterieur": [ "me fus promené(e)", "te fus promené(e)", "se fut promené(e)", "nous fûmes promené(e)s", "vous fûtes promené(e)(s)", "se furent promené(e)s" ],
+  "futurAnterieur": [ "me serai promené(e)", "te seras promené(e)", "se sera promené(e)", "nous serons promené(e)s", "vous serez promené(e)(s)", "se seront promené(e)s" ],
+  "subjonctifPresent": [ "me promène", "te promènes", "se promène", "nous promenions", "vous promeniez", "se promènent" ],
+  "subjonctifImparfait": [ "me promenasse", "te promenasses", "se promenât", "nous promenassions", "vous promenassiez", "se promenassent" ],
+  "subjonctifPasse": [ "me sois promené(e)", "te sois promené(e)", "se soit promené(e)", "nous soyons promené(e)s", "vous soyez promené(e)(s)", "se soient promené(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse promené(e)", "te fusses promené(e)", "se fût promené(e)", "nous fussions promené(e)s", "vous fussiez promené(e)(s)", "se fussent promené(e)s" ],
+  "conditionnelPresent": [ "me promènerais", "te promènerais", "se promènerait", "nous promènerions", "vous promèneriez", "se promèneraient" ],
+  "conditionnelPasse": [ "me serais promené(e)", "te serais promené(e)", "se serait promené(e)", "nous serions promené(e)s", "vous seriez promené(e)(s)", "se seraient promené(e)s" ],
+  "conditionnelPasseII": [ "me fusse promené(e)", "te fusses promené(e)", "se fût promené(e)", "nous fussions promené(e)s", "vous fussiez promené(e)(s)", "se fussent promené(e)s" ],
+  "imperatif": [ "–", "promène-toi !", "–", "promenons-nous !", "promenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

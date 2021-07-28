@@ -1,0 +1,22 @@
+{
+  "infinitif": "tromper",
+  "participePresent": "trompant",
+  "participePasse": "trompé",
+  "present": [ "trompe", "trompes", "trompe", "trompons", "trompez", "trompent" ],
+  "imparfait": [ "trompais", "trompais", "trompait", "trompions", "trompiez", "trompaient" ],
+  "passeSimple": [ "trompai", "trompas", "trompa", "trompâmes", "trompâtes", "trompèrent" ],
+  "futurSimple": [ "tromperai", "tromperas", "trompera", "tromperons", "tromperez", "tromperont" ],
+  "passeCompose": [ "ai trompé", "as trompé", "a trompé", "avons trompé", "avez trompé", "ont trompé" ],
+  "plusQueParfait": [ "avais trompé", "avais trompé", "avait trompé", "avions trompé", "aviez trompé", "avaient trompé" ],
+  "passeAnterieur": [ "eus trompé", "eus trompé", "eut trompé", "eûmes trompé", "eûtes trompé", "eurent trompé" ],
+  "futurAnterieur": [ "aurai trompé", "auras trompé", "aura trompé", "aurons trompé", "aurez trompé", "auront trompé" ],
+  "subjonctifPresent": [ "trompe", "trompes", "trompe", "trompions", "trompiez", "trompent" ],
+  "subjonctifImparfait": [ "trompasse", "trompasses", "trompât", "trompassions", "trompassiez", "trompassent" ],
+  "subjonctifPasse": [ "aie trompé", "aies trompé", "ait trompé", "ayons trompé", "ayez trompé", "aient trompé" ],
+  "subjonctifPlusQueParfait": [ "eusse trompé", "eusses trompé", "eût trompé", "eussions trompé", "eussiez trompé", "eussent trompé" ],
+  "conditionnelPresent": [ "tromperais", "tromperais", "tromperait", "tromperions", "tromperiez", "tromperaient" ],
+  "conditionnelPasse": [ "aurais trompé", "aurais trompé", "aurait trompé", "aurions trompé", "auriez trompé", "auraient trompé" ],
+  "conditionnelPasseII": [ "eusse trompé", "eusses trompé", "eût trompé", "eussions trompé", "eussiez trompé", "eussent trompé" ],
+  "imperatif": [ "–", "trompe !", "–", "trompons !", "trompez !", "–" ],
+  "imperatifPasse": [ "–", "aie trompé !", "–", "ayons trompé !", "ayez trompé !", "–" ]
+}

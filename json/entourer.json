@@ -1,0 +1,22 @@
+{
+  "infinitif": "entourer",
+  "participePresent": "entourant",
+  "participePasse": "entouré",
+  "present": [ "entoure", "entoures", "entoure", "entourons", "entourez", "entourent" ],
+  "imparfait": [ "entourais", "entourais", "entourait", "entourions", "entouriez", "entouraient" ],
+  "passeSimple": [ "entourai", "entouras", "entoura", "entourâmes", "entourâtes", "entourèrent" ],
+  "futurSimple": [ "entourerai", "entoureras", "entourera", "entourerons", "entourerez", "entoureront" ],
+  "passeCompose": [ "ai entouré", "as entouré", "a entouré", "avons entouré", "avez entouré", "ont entouré" ],
+  "plusQueParfait": [ "avais entouré", "avais entouré", "avait entouré", "avions entouré", "aviez entouré", "avaient entouré" ],
+  "passeAnterieur": [ "eus entouré", "eus entouré", "eut entouré", "eûmes entouré", "eûtes entouré", "eurent entouré" ],
+  "futurAnterieur": [ "aurai entouré", "auras entouré", "aura entouré", "aurons entouré", "aurez entouré", "auront entouré" ],
+  "subjonctifPresent": [ "entoure", "entoures", "entoure", "entourions", "entouriez", "entourent" ],
+  "subjonctifImparfait": [ "entourasse", "entourasses", "entourât", "entourassions", "entourassiez", "entourassent" ],
+  "subjonctifPasse": [ "aie entouré", "aies entouré", "ait entouré", "ayons entouré", "ayez entouré", "aient entouré" ],
+  "subjonctifPlusQueParfait": [ "eusse entouré", "eusses entouré", "eût entouré", "eussions entouré", "eussiez entouré", "eussent entouré" ],
+  "conditionnelPresent": [ "entourerais", "entourerais", "entourerait", "entourerions", "entoureriez", "entoureraient" ],
+  "conditionnelPasse": [ "aurais entouré", "aurais entouré", "aurait entouré", "aurions entouré", "auriez entouré", "auraient entouré" ],
+  "conditionnelPasseII": [ "eusse entouré", "eusses entouré", "eût entouré", "eussions entouré", "eussiez entouré", "eussent entouré" ],
+  "imperatif": [ "–", "entoure !", "–", "entourons !", "entourez !", "–" ],
+  "imperatifPasse": [ "–", "aie entouré !", "–", "ayons entouré !", "ayez entouré !", "–" ]
+}

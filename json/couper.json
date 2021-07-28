@@ -1,0 +1,22 @@
+{
+  "infinitif": "couper",
+  "participePresent": "coupant",
+  "participePasse": "coupé",
+  "present": [ "coupe", "coupes", "coupe", "coupons", "coupez", "coupent" ],
+  "imparfait": [ "coupais", "coupais", "coupait", "coupions", "coupiez", "coupaient" ],
+  "passeSimple": [ "coupai", "coupas", "coupa", "coupâmes", "coupâtes", "coupèrent" ],
+  "futurSimple": [ "couperai", "couperas", "coupera", "couperons", "couperez", "couperont" ],
+  "passeCompose": [ "ai coupé", "as coupé", "a coupé", "avons coupé", "avez coupé", "ont coupé" ],
+  "plusQueParfait": [ "avais coupé", "avais coupé", "avait coupé", "avions coupé", "aviez coupé", "avaient coupé" ],
+  "passeAnterieur": [ "eus coupé", "eus coupé", "eut coupé", "eûmes coupé", "eûtes coupé", "eurent coupé" ],
+  "futurAnterieur": [ "aurai coupé", "auras coupé", "aura coupé", "aurons coupé", "aurez coupé", "auront coupé" ],
+  "subjonctifPresent": [ "coupe", "coupes", "coupe", "coupions", "coupiez", "coupent" ],
+  "subjonctifImparfait": [ "coupasse", "coupasses", "coupât", "coupassions", "coupassiez", "coupassent" ],
+  "subjonctifPasse": [ "aie coupé", "aies coupé", "ait coupé", "ayons coupé", "ayez coupé", "aient coupé" ],
+  "subjonctifPlusQueParfait": [ "eusse coupé", "eusses coupé", "eût coupé", "eussions coupé", "eussiez coupé", "eussent coupé" ],
+  "conditionnelPresent": [ "couperais", "couperais", "couperait", "couperions", "couperiez", "couperaient" ],
+  "conditionnelPasse": [ "aurais coupé", "aurais coupé", "aurait coupé", "aurions coupé", "auriez coupé", "auraient coupé" ],
+  "conditionnelPasseII": [ "eusse coupé", "eusses coupé", "eût coupé", "eussions coupé", "eussiez coupé", "eussent coupé" ],
+  "imperatif": [ "–", "coupe !", "–", "coupons !", "coupez !", "–" ],
+  "imperatifPasse": [ "–", "aie coupé !", "–", "ayons coupé !", "ayez coupé !", "–" ]
+}

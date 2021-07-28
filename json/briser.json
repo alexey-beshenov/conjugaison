@@ -1,0 +1,22 @@
+{
+  "infinitif": "briser",
+  "participePresent": "brisant",
+  "participePasse": "brisé",
+  "present": [ "brise", "brises", "brise", "brisons", "brisez", "brisent" ],
+  "imparfait": [ "brisais", "brisais", "brisait", "brisions", "brisiez", "brisaient" ],
+  "passeSimple": [ "brisai", "brisas", "brisa", "brisâmes", "brisâtes", "brisèrent" ],
+  "futurSimple": [ "briserai", "briseras", "brisera", "briserons", "briserez", "briseront" ],
+  "passeCompose": [ "ai brisé", "as brisé", "a brisé", "avons brisé", "avez brisé", "ont brisé" ],
+  "plusQueParfait": [ "avais brisé", "avais brisé", "avait brisé", "avions brisé", "aviez brisé", "avaient brisé" ],
+  "passeAnterieur": [ "eus brisé", "eus brisé", "eut brisé", "eûmes brisé", "eûtes brisé", "eurent brisé" ],
+  "futurAnterieur": [ "aurai brisé", "auras brisé", "aura brisé", "aurons brisé", "aurez brisé", "auront brisé" ],
+  "subjonctifPresent": [ "brise", "brises", "brise", "brisions", "brisiez", "brisent" ],
+  "subjonctifImparfait": [ "brisasse", "brisasses", "brisât", "brisassions", "brisassiez", "brisassent" ],
+  "subjonctifPasse": [ "aie brisé", "aies brisé", "ait brisé", "ayons brisé", "ayez brisé", "aient brisé" ],
+  "subjonctifPlusQueParfait": [ "eusse brisé", "eusses brisé", "eût brisé", "eussions brisé", "eussiez brisé", "eussent brisé" ],
+  "conditionnelPresent": [ "briserais", "briserais", "briserait", "briserions", "briseriez", "briseraient" ],
+  "conditionnelPasse": [ "aurais brisé", "aurais brisé", "aurait brisé", "aurions brisé", "auriez brisé", "auraient brisé" ],
+  "conditionnelPasseII": [ "eusse brisé", "eusses brisé", "eût brisé", "eussions brisé", "eussiez brisé", "eussent brisé" ],
+  "imperatif": [ "–", "brise !", "–", "brisons !", "brisez !", "–" ],
+  "imperatifPasse": [ "–", "aie brisé !", "–", "ayons brisé !", "ayez brisé !", "–" ]
+}

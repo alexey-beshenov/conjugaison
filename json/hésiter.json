@@ -1,0 +1,22 @@
+{
+  "infinitif": "hésiter",
+  "participePresent": "hésitant",
+  "participePasse": "hésité",
+  "present": [ "hésite", "hésites", "hésite", "hésitons", "hésitez", "hésitent" ],
+  "imparfait": [ "hésitais", "hésitais", "hésitait", "hésitions", "hésitiez", "hésitaient" ],
+  "passeSimple": [ "hésitai", "hésitas", "hésita", "hésitâmes", "hésitâtes", "hésitèrent" ],
+  "futurSimple": [ "hésiterai", "hésiteras", "hésitera", "hésiterons", "hésiterez", "hésiteront" ],
+  "passeCompose": [ "ai hésité", "as hésité", "a hésité", "avons hésité", "avez hésité", "ont hésité" ],
+  "plusQueParfait": [ "avais hésité", "avais hésité", "avait hésité", "avions hésité", "aviez hésité", "avaient hésité" ],
+  "passeAnterieur": [ "eus hésité", "eus hésité", "eut hésité", "eûmes hésité", "eûtes hésité", "eurent hésité" ],
+  "futurAnterieur": [ "aurai hésité", "auras hésité", "aura hésité", "aurons hésité", "aurez hésité", "auront hésité" ],
+  "subjonctifPresent": [ "hésite", "hésites", "hésite", "hésitions", "hésitiez", "hésitent" ],
+  "subjonctifImparfait": [ "hésitasse", "hésitasses", "hésitât", "hésitassions", "hésitassiez", "hésitassent" ],
+  "subjonctifPasse": [ "aie hésité", "aies hésité", "ait hésité", "ayons hésité", "ayez hésité", "aient hésité" ],
+  "subjonctifPlusQueParfait": [ "eusse hésité", "eusses hésité", "eût hésité", "eussions hésité", "eussiez hésité", "eussent hésité" ],
+  "conditionnelPresent": [ "hésiterais", "hésiterais", "hésiterait", "hésiterions", "hésiteriez", "hésiteraient" ],
+  "conditionnelPasse": [ "aurais hésité", "aurais hésité", "aurait hésité", "aurions hésité", "auriez hésité", "auraient hésité" ],
+  "conditionnelPasseII": [ "eusse hésité", "eusses hésité", "eût hésité", "eussions hésité", "eussiez hésité", "eussent hésité" ],
+  "imperatif": [ "–", "hésite !", "–", "hésitons !", "hésitez !", "–" ],
+  "imperatifPasse": [ "–", "aie hésité !", "–", "ayons hésité !", "ayez hésité !", "–" ]
+}

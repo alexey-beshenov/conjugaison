@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'arracher",
+  "participePresent": "s'arrachant",
+  "participePasse": "arraché",
+  "present": [ "m'arrache", "t'arraches", "s'arrache", "nous arrachons", "vous arrachez", "s'arrachent" ],
+  "imparfait": [ "m'arrachais", "t'arrachais", "s'arrachait", "nous arrachions", "vous arrachiez", "s'arrachaient" ],
+  "passeSimple": [ "m'arrachai", "t'arrachas", "s'arracha", "nous arrachâmes", "vous arrachâtes", "s'arrachèrent" ],
+  "futurSimple": [ "m'arracherai", "t'arracheras", "s'arrachera", "nous arracherons", "vous arracherez", "s'arracheront" ],
+  "passeCompose": [ "me suis arraché(e)", "t'es arraché(e)", "s'est arraché(e)", "nous sommes arraché(e)s", "vous êtes arraché(e)(s)", "se sont arraché(e)s" ],
+  "plusQueParfait": [ "m'étais arraché(e)", "t'étais arraché(e)", "s'était arraché(e)", "nous étions arraché(e)s", "vous étiez arraché(e)(s)", "s'étaient arraché(e)s" ],
+  "passeAnterieur": [ "me fus arraché(e)", "te fus arraché(e)", "se fut arraché(e)", "nous fûmes arraché(e)s", "vous fûtes arraché(e)(s)", "se furent arraché(e)s" ],
+  "futurAnterieur": [ "me serai arraché(e)", "te seras arraché(e)", "se sera arraché(e)", "nous serons arraché(e)s", "vous serez arraché(e)(s)", "se seront arraché(e)s" ],
+  "subjonctifPresent": [ "m'arrache", "t'arraches", "s'arrache", "nous arrachions", "vous arrachiez", "s'arrachent" ],
+  "subjonctifImparfait": [ "m'arrachasse", "t'arrachasses", "s'arrachât", "nous arrachassions", "vous arrachassiez", "s'arrachassent" ],
+  "subjonctifPasse": [ "me sois arraché(e)", "te sois arraché(e)", "se soit arraché(e)", "nous soyons arraché(e)s", "vous soyez arraché(e)(s)", "se soient arraché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse arraché(e)", "te fusses arraché(e)", "se fût arraché(e)", "nous fussions arraché(e)s", "vous fussiez arraché(e)(s)", "se fussent arraché(e)s" ],
+  "conditionnelPresent": [ "m'arracherais", "t'arracherais", "s'arracherait", "nous arracherions", "vous arracheriez", "s'arracheraient" ],
+  "conditionnelPasse": [ "me serais arraché(e)", "te serais arraché(e)", "se serait arraché(e)", "nous serions arraché(e)s", "vous seriez arraché(e)(s)", "se seraient arraché(e)s" ],
+  "conditionnelPasseII": [ "me fusse arraché(e)", "te fusses arraché(e)", "se fût arraché(e)", "nous fussions arraché(e)s", "vous fussiez arraché(e)(s)", "se fussent arraché(e)s" ],
+  "imperatif": [ "–", "arrache-toi !", "–", "arrachons-nous !", "arrachez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

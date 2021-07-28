@@ -1,0 +1,22 @@
+{
+  "infinitif": "pleuvoir",
+  "participePresent": "pleuvant",
+  "participePasse": "plu",
+  "present": [ "–", "–", "pleut", "–", "–", "pleuvent" ],
+  "imparfait": [ "–", "–", "pleuvait", "–", "–", "pleuvaient" ],
+  "passeSimple": [ "–", "–", "plut", "–", "–", "plurent" ],
+  "futurSimple": [ "–", "–", "pleuvra", "–", "–", "pleuvront" ],
+  "passeCompose": [ "–", "–", "a plu", "–", "–", "ont plu" ],
+  "plusQueParfait": [ "–", "–", "avait plu", "–", "–", "avaient plu" ],
+  "passeAnterieur": [ "–", "–", "eut plu", "–", "–", "eurent plu" ],
+  "futurAnterieur": [ "–", "–", "aura plu", "–", "–", "auront plu" ],
+  "subjonctifPresent": [ "–", "–", "pleuve", "–", "–", "pleuvent" ],
+  "subjonctifImparfait": [ "–", "–", "plût", "–", "–", "plussent" ],
+  "subjonctifPasse": [ "–", "–", "ait plu", "–", "–", "aient plu" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "eût plu", "–", "–", "eussent plu" ],
+  "conditionnelPresent": [ "–", "–", "pleuvrait", "–", "–", "pleuvraient" ],
+  "conditionnelPasse": [ "–", "–", "aurait plu", "–", "–", "auraient plu" ],
+  "conditionnelPasseII": [ "–", "–", "eût plu", "–", "–", "eussent plu" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

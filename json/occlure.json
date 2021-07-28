@@ -1,0 +1,22 @@
+{
+  "infinitif": "occlure",
+  "participePresent": "occluant",
+  "participePasse": "occlus",
+  "present": [ "occlus", "occlus", "occlut", "occluons", "occluez", "occluent" ],
+  "imparfait": [ "occluais", "occluais", "occluait", "occluions", "occluiez", "occluaient" ],
+  "passeSimple": [ "occlus", "occlus", "occlut", "occlûmes", "occlûtes", "occlurent" ],
+  "futurSimple": [ "occlurai", "occluras", "occlura", "occlurons", "occlurez", "occluront" ],
+  "passeCompose": [ "ai occlus", "as occlus", "a occlus", "avons occlus", "avez occlus", "ont occlus" ],
+  "plusQueParfait": [ "avais occlus", "avais occlus", "avait occlus", "avions occlus", "aviez occlus", "avaient occlus" ],
+  "passeAnterieur": [ "eus occlus", "eus occlus", "eut occlus", "eûmes occlus", "eûtes occlus", "eurent occlus" ],
+  "futurAnterieur": [ "aurai occlus", "auras occlus", "aura occlus", "aurons occlus", "aurez occlus", "auront occlus" ],
+  "subjonctifPresent": [ "occlue", "occlues", "occlue", "occluions", "occluiez", "occluent" ],
+  "subjonctifImparfait": [ "occlusse", "occlusses", "occlût", "occlussions", "occlussiez", "occlussent" ],
+  "subjonctifPasse": [ "aie occlus", "aies occlus", "ait occlus", "ayons occlus", "ayez occlus", "aient occlus" ],
+  "subjonctifPlusQueParfait": [ "eusse occlus", "eusses occlus", "eût occlus", "eussions occlus", "eussiez occlus", "eussent occlus" ],
+  "conditionnelPresent": [ "occlurais", "occlurais", "occlurait", "occlurions", "occluriez", "occluraient" ],
+  "conditionnelPasse": [ "aurais occlus", "aurais occlus", "aurait occlus", "aurions occlus", "auriez occlus", "auraient occlus" ],
+  "conditionnelPasseII": [ "eusse occlus", "eusses occlus", "eût occlus", "eussions occlus", "eussiez occlus", "eussent occlus" ],
+  "imperatif": [ "–", "occlus !", "–", "occluons !", "occluez !", "–" ],
+  "imperatifPasse": [ "–", "aie occlus !", "–", "ayons occlus !", "ayez occlus !", "–" ]
+}

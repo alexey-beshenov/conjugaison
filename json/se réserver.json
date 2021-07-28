@@ -1,0 +1,22 @@
+{
+  "infinitif": "se réserver",
+  "participePresent": "se réservant",
+  "participePasse": "réservé",
+  "present": [ "me réserve", "te réserves", "se réserve", "nous réservons", "vous réservez", "se réservent" ],
+  "imparfait": [ "me réservais", "te réservais", "se réservait", "nous réservions", "vous réserviez", "se réservaient" ],
+  "passeSimple": [ "me réservai", "te réservas", "se réserva", "nous réservâmes", "vous réservâtes", "se réservèrent" ],
+  "futurSimple": [ "me réserverai", "te réserveras", "se réservera", "nous réserverons", "vous réserverez", "se réserveront" ],
+  "passeCompose": [ "me suis réservé(e)", "t'es réservé(e)", "s'est réservé(e)", "nous sommes réservé(e)s", "vous êtes réservé(e)(s)", "se sont réservé(e)s" ],
+  "plusQueParfait": [ "m'étais réservé(e)", "t'étais réservé(e)", "s'était réservé(e)", "nous étions réservé(e)s", "vous étiez réservé(e)(s)", "s'étaient réservé(e)s" ],
+  "passeAnterieur": [ "me fus réservé(e)", "te fus réservé(e)", "se fut réservé(e)", "nous fûmes réservé(e)s", "vous fûtes réservé(e)(s)", "se furent réservé(e)s" ],
+  "futurAnterieur": [ "me serai réservé(e)", "te seras réservé(e)", "se sera réservé(e)", "nous serons réservé(e)s", "vous serez réservé(e)(s)", "se seront réservé(e)s" ],
+  "subjonctifPresent": [ "me réserve", "te réserves", "se réserve", "nous réservions", "vous réserviez", "se réservent" ],
+  "subjonctifImparfait": [ "me réservasse", "te réservasses", "se réservât", "nous réservassions", "vous réservassiez", "se réservassent" ],
+  "subjonctifPasse": [ "me sois réservé(e)", "te sois réservé(e)", "se soit réservé(e)", "nous soyons réservé(e)s", "vous soyez réservé(e)(s)", "se soient réservé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse réservé(e)", "te fusses réservé(e)", "se fût réservé(e)", "nous fussions réservé(e)s", "vous fussiez réservé(e)(s)", "se fussent réservé(e)s" ],
+  "conditionnelPresent": [ "me réserverais", "te réserverais", "se réserverait", "nous réserverions", "vous réserveriez", "se réserveraient" ],
+  "conditionnelPasse": [ "me serais réservé(e)", "te serais réservé(e)", "se serait réservé(e)", "nous serions réservé(e)s", "vous seriez réservé(e)(s)", "se seraient réservé(e)s" ],
+  "conditionnelPasseII": [ "me fusse réservé(e)", "te fusses réservé(e)", "se fût réservé(e)", "nous fussions réservé(e)s", "vous fussiez réservé(e)(s)", "se fussent réservé(e)s" ],
+  "imperatif": [ "–", "réserve-toi !", "–", "réservons-nous !", "réservez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'éloigner",
+  "participePresent": "s'éloignant",
+  "participePasse": "éloigné",
+  "present": [ "m'éloigne", "t'éloignes", "s'éloigne", "nous éloignons", "vous éloignez", "s'éloignent" ],
+  "imparfait": [ "m'éloignais", "t'éloignais", "s'éloignait", "nous éloignions", "vous éloigniez", "s'éloignaient" ],
+  "passeSimple": [ "m'éloignai", "t'éloignas", "s'éloigna", "nous éloignâmes", "vous éloignâtes", "s'éloignèrent" ],
+  "futurSimple": [ "m'éloignerai", "t'éloigneras", "s'éloignera", "nous éloignerons", "vous éloignerez", "s'éloigneront" ],
+  "passeCompose": [ "me suis éloigné(e)", "t'es éloigné(e)", "s'est éloigné(e)", "nous sommes éloigné(e)s", "vous êtes éloigné(e)(s)", "se sont éloigné(e)s" ],
+  "plusQueParfait": [ "m'étais éloigné(e)", "t'étais éloigné(e)", "s'était éloigné(e)", "nous étions éloigné(e)s", "vous étiez éloigné(e)(s)", "s'étaient éloigné(e)s" ],
+  "passeAnterieur": [ "me fus éloigné(e)", "te fus éloigné(e)", "se fut éloigné(e)", "nous fûmes éloigné(e)s", "vous fûtes éloigné(e)(s)", "se furent éloigné(e)s" ],
+  "futurAnterieur": [ "me serai éloigné(e)", "te seras éloigné(e)", "se sera éloigné(e)", "nous serons éloigné(e)s", "vous serez éloigné(e)(s)", "se seront éloigné(e)s" ],
+  "subjonctifPresent": [ "m'éloigne", "t'éloignes", "s'éloigne", "nous éloignions", "vous éloigniez", "s'éloignent" ],
+  "subjonctifImparfait": [ "m'éloignasse", "t'éloignasses", "s'éloignât", "nous éloignassions", "vous éloignassiez", "s'éloignassent" ],
+  "subjonctifPasse": [ "me sois éloigné(e)", "te sois éloigné(e)", "se soit éloigné(e)", "nous soyons éloigné(e)s", "vous soyez éloigné(e)(s)", "se soient éloigné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse éloigné(e)", "te fusses éloigné(e)", "se fût éloigné(e)", "nous fussions éloigné(e)s", "vous fussiez éloigné(e)(s)", "se fussent éloigné(e)s" ],
+  "conditionnelPresent": [ "m'éloignerais", "t'éloignerais", "s'éloignerait", "nous éloignerions", "vous éloigneriez", "s'éloigneraient" ],
+  "conditionnelPasse": [ "me serais éloigné(e)", "te serais éloigné(e)", "se serait éloigné(e)", "nous serions éloigné(e)s", "vous seriez éloigné(e)(s)", "se seraient éloigné(e)s" ],
+  "conditionnelPasseII": [ "me fusse éloigné(e)", "te fusses éloigné(e)", "se fût éloigné(e)", "nous fussions éloigné(e)s", "vous fussiez éloigné(e)(s)", "se fussent éloigné(e)s" ],
+  "imperatif": [ "–", "éloigne-toi !", "–", "éloignons-nous !", "éloignez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "déposer",
+  "participePresent": "déposant",
+  "participePasse": "déposé",
+  "present": [ "dépose", "déposes", "dépose", "déposons", "déposez", "déposent" ],
+  "imparfait": [ "déposais", "déposais", "déposait", "déposions", "déposiez", "déposaient" ],
+  "passeSimple": [ "déposai", "déposas", "déposa", "déposâmes", "déposâtes", "déposèrent" ],
+  "futurSimple": [ "déposerai", "déposeras", "déposera", "déposerons", "déposerez", "déposeront" ],
+  "passeCompose": [ "ai déposé", "as déposé", "a déposé", "avons déposé", "avez déposé", "ont déposé" ],
+  "plusQueParfait": [ "avais déposé", "avais déposé", "avait déposé", "avions déposé", "aviez déposé", "avaient déposé" ],
+  "passeAnterieur": [ "eus déposé", "eus déposé", "eut déposé", "eûmes déposé", "eûtes déposé", "eurent déposé" ],
+  "futurAnterieur": [ "aurai déposé", "auras déposé", "aura déposé", "aurons déposé", "aurez déposé", "auront déposé" ],
+  "subjonctifPresent": [ "dépose", "déposes", "dépose", "déposions", "déposiez", "déposent" ],
+  "subjonctifImparfait": [ "déposasse", "déposasses", "déposât", "déposassions", "déposassiez", "déposassent" ],
+  "subjonctifPasse": [ "aie déposé", "aies déposé", "ait déposé", "ayons déposé", "ayez déposé", "aient déposé" ],
+  "subjonctifPlusQueParfait": [ "eusse déposé", "eusses déposé", "eût déposé", "eussions déposé", "eussiez déposé", "eussent déposé" ],
+  "conditionnelPresent": [ "déposerais", "déposerais", "déposerait", "déposerions", "déposeriez", "déposeraient" ],
+  "conditionnelPasse": [ "aurais déposé", "aurais déposé", "aurait déposé", "aurions déposé", "auriez déposé", "auraient déposé" ],
+  "conditionnelPasseII": [ "eusse déposé", "eusses déposé", "eût déposé", "eussions déposé", "eussiez déposé", "eussent déposé" ],
+  "imperatif": [ "–", "dépose !", "–", "déposons !", "déposez !", "–" ],
+  "imperatifPasse": [ "–", "aie déposé !", "–", "ayons déposé !", "ayez déposé !", "–" ]
+}

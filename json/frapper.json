@@ -1,0 +1,22 @@
+{
+  "infinitif": "frapper",
+  "participePresent": "frappant",
+  "participePasse": "frappé",
+  "present": [ "frappe", "frappes", "frappe", "frappons", "frappez", "frappent" ],
+  "imparfait": [ "frappais", "frappais", "frappait", "frappions", "frappiez", "frappaient" ],
+  "passeSimple": [ "frappai", "frappas", "frappa", "frappâmes", "frappâtes", "frappèrent" ],
+  "futurSimple": [ "frapperai", "frapperas", "frappera", "frapperons", "frapperez", "frapperont" ],
+  "passeCompose": [ "ai frappé", "as frappé", "a frappé", "avons frappé", "avez frappé", "ont frappé" ],
+  "plusQueParfait": [ "avais frappé", "avais frappé", "avait frappé", "avions frappé", "aviez frappé", "avaient frappé" ],
+  "passeAnterieur": [ "eus frappé", "eus frappé", "eut frappé", "eûmes frappé", "eûtes frappé", "eurent frappé" ],
+  "futurAnterieur": [ "aurai frappé", "auras frappé", "aura frappé", "aurons frappé", "aurez frappé", "auront frappé" ],
+  "subjonctifPresent": [ "frappe", "frappes", "frappe", "frappions", "frappiez", "frappent" ],
+  "subjonctifImparfait": [ "frappasse", "frappasses", "frappât", "frappassions", "frappassiez", "frappassent" ],
+  "subjonctifPasse": [ "aie frappé", "aies frappé", "ait frappé", "ayons frappé", "ayez frappé", "aient frappé" ],
+  "subjonctifPlusQueParfait": [ "eusse frappé", "eusses frappé", "eût frappé", "eussions frappé", "eussiez frappé", "eussent frappé" ],
+  "conditionnelPresent": [ "frapperais", "frapperais", "frapperait", "frapperions", "frapperiez", "frapperaient" ],
+  "conditionnelPasse": [ "aurais frappé", "aurais frappé", "aurait frappé", "aurions frappé", "auriez frappé", "auraient frappé" ],
+  "conditionnelPasseII": [ "eusse frappé", "eusses frappé", "eût frappé", "eussions frappé", "eussiez frappé", "eussent frappé" ],
+  "imperatif": [ "–", "frappe !", "–", "frappons !", "frappez !", "–" ],
+  "imperatifPasse": [ "–", "aie frappé !", "–", "ayons frappé !", "ayez frappé !", "–" ]
+}

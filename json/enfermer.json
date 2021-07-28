@@ -1,0 +1,22 @@
+{
+  "infinitif": "enfermer",
+  "participePresent": "enfermant",
+  "participePasse": "enfermé",
+  "present": [ "enferme", "enfermes", "enferme", "enfermons", "enfermez", "enferment" ],
+  "imparfait": [ "enfermais", "enfermais", "enfermait", "enfermions", "enfermiez", "enfermaient" ],
+  "passeSimple": [ "enfermai", "enfermas", "enferma", "enfermâmes", "enfermâtes", "enfermèrent" ],
+  "futurSimple": [ "enfermerai", "enfermeras", "enfermera", "enfermerons", "enfermerez", "enfermeront" ],
+  "passeCompose": [ "ai enfermé", "as enfermé", "a enfermé", "avons enfermé", "avez enfermé", "ont enfermé" ],
+  "plusQueParfait": [ "avais enfermé", "avais enfermé", "avait enfermé", "avions enfermé", "aviez enfermé", "avaient enfermé" ],
+  "passeAnterieur": [ "eus enfermé", "eus enfermé", "eut enfermé", "eûmes enfermé", "eûtes enfermé", "eurent enfermé" ],
+  "futurAnterieur": [ "aurai enfermé", "auras enfermé", "aura enfermé", "aurons enfermé", "aurez enfermé", "auront enfermé" ],
+  "subjonctifPresent": [ "enferme", "enfermes", "enferme", "enfermions", "enfermiez", "enferment" ],
+  "subjonctifImparfait": [ "enfermasse", "enfermasses", "enfermât", "enfermassions", "enfermassiez", "enfermassent" ],
+  "subjonctifPasse": [ "aie enfermé", "aies enfermé", "ait enfermé", "ayons enfermé", "ayez enfermé", "aient enfermé" ],
+  "subjonctifPlusQueParfait": [ "eusse enfermé", "eusses enfermé", "eût enfermé", "eussions enfermé", "eussiez enfermé", "eussent enfermé" ],
+  "conditionnelPresent": [ "enfermerais", "enfermerais", "enfermerait", "enfermerions", "enfermeriez", "enfermeraient" ],
+  "conditionnelPasse": [ "aurais enfermé", "aurais enfermé", "aurait enfermé", "aurions enfermé", "auriez enfermé", "auraient enfermé" ],
+  "conditionnelPasseII": [ "eusse enfermé", "eusses enfermé", "eût enfermé", "eussions enfermé", "eussiez enfermé", "eussent enfermé" ],
+  "imperatif": [ "–", "enferme !", "–", "enfermons !", "enfermez !", "–" ],
+  "imperatifPasse": [ "–", "aie enfermé !", "–", "ayons enfermé !", "ayez enfermé !", "–" ]
+}

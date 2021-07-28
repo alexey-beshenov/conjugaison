@@ -1,0 +1,22 @@
+{
+  "infinitif": "convenir",
+  "participePresent": "convenant",
+  "participePasse": "convenu",
+  "present": [ "conviens", "conviens", "convient", "convenons", "convenez", "conviennent" ],
+  "imparfait": [ "convenais", "convenais", "convenait", "convenions", "conveniez", "convenaient" ],
+  "passeSimple": [ "convins", "convins", "convint", "convînmes", "convîntes", "convinrent" ],
+  "futurSimple": [ "conviendrai", "conviendras", "conviendra", "conviendrons", "conviendrez", "conviendront" ],
+  "passeCompose": [ "ai convenu", "as convenu", "a convenu", "avons convenu", "avez convenu", "ont convenu" ],
+  "plusQueParfait": [ "avais convenu", "avais convenu", "avait convenu", "avions convenu", "aviez convenu", "avaient convenu" ],
+  "passeAnterieur": [ "eus convenu", "eus convenu", "eut convenu", "eûmes convenu", "eûtes convenu", "eurent convenu" ],
+  "futurAnterieur": [ "aurai convenu", "auras convenu", "aura convenu", "aurons convenu", "aurez convenu", "auront convenu" ],
+  "subjonctifPresent": [ "convienne", "conviennes", "convienne", "convenions", "conveniez", "conviennent" ],
+  "subjonctifImparfait": [ "convinsse", "convinsses", "convînt", "convinssions", "convinssiez", "convinssent" ],
+  "subjonctifPasse": [ "aie convenu", "aies convenu", "ait convenu", "ayons convenu", "ayez convenu", "aient convenu" ],
+  "subjonctifPlusQueParfait": [ "eusse convenu", "eusses convenu", "eût convenu", "eussions convenu", "eussiez convenu", "eussent convenu" ],
+  "conditionnelPresent": [ "conviendrais", "conviendrais", "conviendrait", "conviendrions", "conviendriez", "conviendraient" ],
+  "conditionnelPasse": [ "aurais convenu", "aurais convenu", "aurait convenu", "aurions convenu", "auriez convenu", "auraient convenu" ],
+  "conditionnelPasseII": [ "eusse convenu", "eusses convenu", "eût convenu", "eussions convenu", "eussiez convenu", "eussent convenu" ],
+  "imperatif": [ "–", "conviens !", "–", "convenons !", "convenez !", "–" ],
+  "imperatifPasse": [ "–", "aie convenu !", "–", "ayons convenu !", "ayez convenu !", "–" ]
+}

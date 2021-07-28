@@ -1,0 +1,22 @@
+{
+  "infinitif": "se causer",
+  "participePresent": "se causant",
+  "participePasse": "causé",
+  "present": [ "me cause", "te causes", "se cause", "nous causons", "vous causez", "se causent" ],
+  "imparfait": [ "me causais", "te causais", "se causait", "nous causions", "vous causiez", "se causaient" ],
+  "passeSimple": [ "me causai", "te causas", "se causa", "nous causâmes", "vous causâtes", "se causèrent" ],
+  "futurSimple": [ "me causerai", "te causeras", "se causera", "nous causerons", "vous causerez", "se causeront" ],
+  "passeCompose": [ "me suis causé(e)", "t'es causé(e)", "s'est causé(e)", "nous sommes causé(e)s", "vous êtes causé(e)(s)", "se sont causé(e)s" ],
+  "plusQueParfait": [ "m'étais causé(e)", "t'étais causé(e)", "s'était causé(e)", "nous étions causé(e)s", "vous étiez causé(e)(s)", "s'étaient causé(e)s" ],
+  "passeAnterieur": [ "me fus causé(e)", "te fus causé(e)", "se fut causé(e)", "nous fûmes causé(e)s", "vous fûtes causé(e)(s)", "se furent causé(e)s" ],
+  "futurAnterieur": [ "me serai causé(e)", "te seras causé(e)", "se sera causé(e)", "nous serons causé(e)s", "vous serez causé(e)(s)", "se seront causé(e)s" ],
+  "subjonctifPresent": [ "me cause", "te causes", "se cause", "nous causions", "vous causiez", "se causent" ],
+  "subjonctifImparfait": [ "me causasse", "te causasses", "se causât", "nous causassions", "vous causassiez", "se causassent" ],
+  "subjonctifPasse": [ "me sois causé(e)", "te sois causé(e)", "se soit causé(e)", "nous soyons causé(e)s", "vous soyez causé(e)(s)", "se soient causé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse causé(e)", "te fusses causé(e)", "se fût causé(e)", "nous fussions causé(e)s", "vous fussiez causé(e)(s)", "se fussent causé(e)s" ],
+  "conditionnelPresent": [ "me causerais", "te causerais", "se causerait", "nous causerions", "vous causeriez", "se causeraient" ],
+  "conditionnelPasse": [ "me serais causé(e)", "te serais causé(e)", "se serait causé(e)", "nous serions causé(e)s", "vous seriez causé(e)(s)", "se seraient causé(e)s" ],
+  "conditionnelPasseII": [ "me fusse causé(e)", "te fusses causé(e)", "se fût causé(e)", "nous fussions causé(e)s", "vous fussiez causé(e)(s)", "se fussent causé(e)s" ],
+  "imperatif": [ "–", "cause-toi !", "–", "causons-nous !", "causez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

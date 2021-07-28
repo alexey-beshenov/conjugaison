@@ -1,0 +1,22 @@
+{
+  "infinitif": "se remonter",
+  "participePresent": "se remontant",
+  "participePasse": "remonté",
+  "present": [ "me remonte", "te remontes", "se remonte", "nous remontons", "vous remontez", "se remontent" ],
+  "imparfait": [ "me remontais", "te remontais", "se remontait", "nous remontions", "vous remontiez", "se remontaient" ],
+  "passeSimple": [ "me remontai", "te remontas", "se remonta", "nous remontâmes", "vous remontâtes", "se remontèrent" ],
+  "futurSimple": [ "me remonterai", "te remonteras", "se remontera", "nous remonterons", "vous remonterez", "se remonteront" ],
+  "passeCompose": [ "me suis remonté(e)", "t'es remonté(e)", "s'est remonté(e)", "nous sommes remonté(e)s", "vous êtes remonté(e)(s)", "se sont remonté(e)s" ],
+  "plusQueParfait": [ "m'étais remonté(e)", "t'étais remonté(e)", "s'était remonté(e)", "nous étions remonté(e)s", "vous étiez remonté(e)(s)", "s'étaient remonté(e)s" ],
+  "passeAnterieur": [ "me fus remonté(e)", "te fus remonté(e)", "se fut remonté(e)", "nous fûmes remonté(e)s", "vous fûtes remonté(e)(s)", "se furent remonté(e)s" ],
+  "futurAnterieur": [ "me serai remonté(e)", "te seras remonté(e)", "se sera remonté(e)", "nous serons remonté(e)s", "vous serez remonté(e)(s)", "se seront remonté(e)s" ],
+  "subjonctifPresent": [ "me remonte", "te remontes", "se remonte", "nous remontions", "vous remontiez", "se remontent" ],
+  "subjonctifImparfait": [ "me remontasse", "te remontasses", "se remontât", "nous remontassions", "vous remontassiez", "se remontassent" ],
+  "subjonctifPasse": [ "me sois remonté(e)", "te sois remonté(e)", "se soit remonté(e)", "nous soyons remonté(e)s", "vous soyez remonté(e)(s)", "se soient remonté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse remonté(e)", "te fusses remonté(e)", "se fût remonté(e)", "nous fussions remonté(e)s", "vous fussiez remonté(e)(s)", "se fussent remonté(e)s" ],
+  "conditionnelPresent": [ "me remonterais", "te remonterais", "se remonterait", "nous remonterions", "vous remonteriez", "se remonteraient" ],
+  "conditionnelPasse": [ "me serais remonté(e)", "te serais remonté(e)", "se serait remonté(e)", "nous serions remonté(e)s", "vous seriez remonté(e)(s)", "se seraient remonté(e)s" ],
+  "conditionnelPasseII": [ "me fusse remonté(e)", "te fusses remonté(e)", "se fût remonté(e)", "nous fussions remonté(e)s", "vous fussiez remonté(e)(s)", "se fussent remonté(e)s" ],
+  "imperatif": [ "–", "remonte-toi !", "–", "remontons-nous !", "remontez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

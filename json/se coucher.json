@@ -1,0 +1,22 @@
+{
+  "infinitif": "se coucher",
+  "participePresent": "se couchant",
+  "participePasse": "couché",
+  "present": [ "me couche", "te couches", "se couche", "nous couchons", "vous couchez", "se couchent" ],
+  "imparfait": [ "me couchais", "te couchais", "se couchait", "nous couchions", "vous couchiez", "se couchaient" ],
+  "passeSimple": [ "me couchai", "te couchas", "se coucha", "nous couchâmes", "vous couchâtes", "se couchèrent" ],
+  "futurSimple": [ "me coucherai", "te coucheras", "se couchera", "nous coucherons", "vous coucherez", "se coucheront" ],
+  "passeCompose": [ "me suis couché(e)", "t'es couché(e)", "s'est couché(e)", "nous sommes couché(e)s", "vous êtes couché(e)(s)", "se sont couché(e)s" ],
+  "plusQueParfait": [ "m'étais couché(e)", "t'étais couché(e)", "s'était couché(e)", "nous étions couché(e)s", "vous étiez couché(e)(s)", "s'étaient couché(e)s" ],
+  "passeAnterieur": [ "me fus couché(e)", "te fus couché(e)", "se fut couché(e)", "nous fûmes couché(e)s", "vous fûtes couché(e)(s)", "se furent couché(e)s" ],
+  "futurAnterieur": [ "me serai couché(e)", "te seras couché(e)", "se sera couché(e)", "nous serons couché(e)s", "vous serez couché(e)(s)", "se seront couché(e)s" ],
+  "subjonctifPresent": [ "me couche", "te couches", "se couche", "nous couchions", "vous couchiez", "se couchent" ],
+  "subjonctifImparfait": [ "me couchasse", "te couchasses", "se couchât", "nous couchassions", "vous couchassiez", "se couchassent" ],
+  "subjonctifPasse": [ "me sois couché(e)", "te sois couché(e)", "se soit couché(e)", "nous soyons couché(e)s", "vous soyez couché(e)(s)", "se soient couché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse couché(e)", "te fusses couché(e)", "se fût couché(e)", "nous fussions couché(e)s", "vous fussiez couché(e)(s)", "se fussent couché(e)s" ],
+  "conditionnelPresent": [ "me coucherais", "te coucherais", "se coucherait", "nous coucherions", "vous coucheriez", "se coucheraient" ],
+  "conditionnelPasse": [ "me serais couché(e)", "te serais couché(e)", "se serait couché(e)", "nous serions couché(e)s", "vous seriez couché(e)(s)", "se seraient couché(e)s" ],
+  "conditionnelPasseII": [ "me fusse couché(e)", "te fusses couché(e)", "se fût couché(e)", "nous fussions couché(e)s", "vous fussiez couché(e)(s)", "se fussent couché(e)s" ],
+  "imperatif": [ "–", "couche-toi !", "–", "couchons-nous !", "couchez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

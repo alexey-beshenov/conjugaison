@@ -1,0 +1,22 @@
+{
+  "infinitif": "marcher",
+  "participePresent": "marchant",
+  "participePasse": "marché",
+  "present": [ "marche", "marches", "marche", "marchons", "marchez", "marchent" ],
+  "imparfait": [ "marchais", "marchais", "marchait", "marchions", "marchiez", "marchaient" ],
+  "passeSimple": [ "marchai", "marchas", "marcha", "marchâmes", "marchâtes", "marchèrent" ],
+  "futurSimple": [ "marcherai", "marcheras", "marchera", "marcherons", "marcherez", "marcheront" ],
+  "passeCompose": [ "ai marché", "as marché", "a marché", "avons marché", "avez marché", "ont marché" ],
+  "plusQueParfait": [ "avais marché", "avais marché", "avait marché", "avions marché", "aviez marché", "avaient marché" ],
+  "passeAnterieur": [ "eus marché", "eus marché", "eut marché", "eûmes marché", "eûtes marché", "eurent marché" ],
+  "futurAnterieur": [ "aurai marché", "auras marché", "aura marché", "aurons marché", "aurez marché", "auront marché" ],
+  "subjonctifPresent": [ "marche", "marches", "marche", "marchions", "marchiez", "marchent" ],
+  "subjonctifImparfait": [ "marchasse", "marchasses", "marchât", "marchassions", "marchassiez", "marchassent" ],
+  "subjonctifPasse": [ "aie marché", "aies marché", "ait marché", "ayons marché", "ayez marché", "aient marché" ],
+  "subjonctifPlusQueParfait": [ "eusse marché", "eusses marché", "eût marché", "eussions marché", "eussiez marché", "eussent marché" ],
+  "conditionnelPresent": [ "marcherais", "marcherais", "marcherait", "marcherions", "marcheriez", "marcheraient" ],
+  "conditionnelPasse": [ "aurais marché", "aurais marché", "aurait marché", "aurions marché", "auriez marché", "auraient marché" ],
+  "conditionnelPasseII": [ "eusse marché", "eusses marché", "eût marché", "eussions marché", "eussiez marché", "eussent marché" ],
+  "imperatif": [ "–", "marche !", "–", "marchons !", "marchez !", "–" ],
+  "imperatifPasse": [ "–", "aie marché !", "–", "ayons marché !", "ayez marché !", "–" ]
+}

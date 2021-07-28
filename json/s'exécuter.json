@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'exécuter",
+  "participePresent": "s'exécutant",
+  "participePasse": "exécuté",
+  "present": [ "m'exécute", "t'exécutes", "s'exécute", "nous exécutons", "vous exécutez", "s'exécutent" ],
+  "imparfait": [ "m'exécutais", "t'exécutais", "s'exécutait", "nous exécutions", "vous exécutiez", "s'exécutaient" ],
+  "passeSimple": [ "m'exécutai", "t'exécutas", "s'exécuta", "nous exécutâmes", "vous exécutâtes", "s'exécutèrent" ],
+  "futurSimple": [ "m'exécuterai", "t'exécuteras", "s'exécutera", "nous exécuterons", "vous exécuterez", "s'exécuteront" ],
+  "passeCompose": [ "me suis exécuté(e)", "t'es exécuté(e)", "s'est exécuté(e)", "nous sommes exécuté(e)s", "vous êtes exécuté(e)(s)", "se sont exécuté(e)s" ],
+  "plusQueParfait": [ "m'étais exécuté(e)", "t'étais exécuté(e)", "s'était exécuté(e)", "nous étions exécuté(e)s", "vous étiez exécuté(e)(s)", "s'étaient exécuté(e)s" ],
+  "passeAnterieur": [ "me fus exécuté(e)", "te fus exécuté(e)", "se fut exécuté(e)", "nous fûmes exécuté(e)s", "vous fûtes exécuté(e)(s)", "se furent exécuté(e)s" ],
+  "futurAnterieur": [ "me serai exécuté(e)", "te seras exécuté(e)", "se sera exécuté(e)", "nous serons exécuté(e)s", "vous serez exécuté(e)(s)", "se seront exécuté(e)s" ],
+  "subjonctifPresent": [ "m'exécute", "t'exécutes", "s'exécute", "nous exécutions", "vous exécutiez", "s'exécutent" ],
+  "subjonctifImparfait": [ "m'exécutasse", "t'exécutasses", "s'exécutât", "nous exécutassions", "vous exécutassiez", "s'exécutassent" ],
+  "subjonctifPasse": [ "me sois exécuté(e)", "te sois exécuté(e)", "se soit exécuté(e)", "nous soyons exécuté(e)s", "vous soyez exécuté(e)(s)", "se soient exécuté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse exécuté(e)", "te fusses exécuté(e)", "se fût exécuté(e)", "nous fussions exécuté(e)s", "vous fussiez exécuté(e)(s)", "se fussent exécuté(e)s" ],
+  "conditionnelPresent": [ "m'exécuterais", "t'exécuterais", "s'exécuterait", "nous exécuterions", "vous exécuteriez", "s'exécuteraient" ],
+  "conditionnelPasse": [ "me serais exécuté(e)", "te serais exécuté(e)", "se serait exécuté(e)", "nous serions exécuté(e)s", "vous seriez exécuté(e)(s)", "se seraient exécuté(e)s" ],
+  "conditionnelPasseII": [ "me fusse exécuté(e)", "te fusses exécuté(e)", "se fût exécuté(e)", "nous fussions exécuté(e)s", "vous fussiez exécuté(e)(s)", "se fussent exécuté(e)s" ],
+  "imperatif": [ "–", "exécute-toi !", "–", "exécutons-nous !", "exécutez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

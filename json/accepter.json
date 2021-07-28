@@ -1,0 +1,22 @@
+{
+  "infinitif": "accepter",
+  "participePresent": "acceptant",
+  "participePasse": "accepté",
+  "present": [ "accepte", "acceptes", "accepte", "acceptons", "acceptez", "acceptent" ],
+  "imparfait": [ "acceptais", "acceptais", "acceptait", "acceptions", "acceptiez", "acceptaient" ],
+  "passeSimple": [ "acceptai", "acceptas", "accepta", "acceptâmes", "acceptâtes", "acceptèrent" ],
+  "futurSimple": [ "accepterai", "accepteras", "acceptera", "accepterons", "accepterez", "accepteront" ],
+  "passeCompose": [ "ai accepté", "as accepté", "a accepté", "avons accepté", "avez accepté", "ont accepté" ],
+  "plusQueParfait": [ "avais accepté", "avais accepté", "avait accepté", "avions accepté", "aviez accepté", "avaient accepté" ],
+  "passeAnterieur": [ "eus accepté", "eus accepté", "eut accepté", "eûmes accepté", "eûtes accepté", "eurent accepté" ],
+  "futurAnterieur": [ "aurai accepté", "auras accepté", "aura accepté", "aurons accepté", "aurez accepté", "auront accepté" ],
+  "subjonctifPresent": [ "accepte", "acceptes", "accepte", "acceptions", "acceptiez", "acceptent" ],
+  "subjonctifImparfait": [ "acceptasse", "acceptasses", "acceptât", "acceptassions", "acceptassiez", "acceptassent" ],
+  "subjonctifPasse": [ "aie accepté", "aies accepté", "ait accepté", "ayons accepté", "ayez accepté", "aient accepté" ],
+  "subjonctifPlusQueParfait": [ "eusse accepté", "eusses accepté", "eût accepté", "eussions accepté", "eussiez accepté", "eussent accepté" ],
+  "conditionnelPresent": [ "accepterais", "accepterais", "accepterait", "accepterions", "accepteriez", "accepteraient" ],
+  "conditionnelPasse": [ "aurais accepté", "aurais accepté", "aurait accepté", "aurions accepté", "auriez accepté", "auraient accepté" ],
+  "conditionnelPasseII": [ "eusse accepté", "eusses accepté", "eût accepté", "eussions accepté", "eussiez accepté", "eussent accepté" ],
+  "imperatif": [ "–", "accepte !", "–", "acceptons !", "acceptez !", "–" ],
+  "imperatifPasse": [ "–", "aie accepté !", "–", "ayons accepté !", "ayez accepté !", "–" ]
+}

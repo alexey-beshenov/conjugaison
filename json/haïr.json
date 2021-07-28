@@ -1,0 +1,22 @@
+{
+  "infinitif": "haïr",
+  "participePresent": "haïssant",
+  "participePasse": "haï",
+  "present": [ "hais", "hais", "hait", "haïssons", "haïssez", "haïssent" ],
+  "imparfait": [ "haïssais", "haïssais", "haïssait", "haïssions", "haïssiez", "haïssaient" ],
+  "passeSimple": [ "haïs", "haïs", "haït", "haïmes", "haïtes", "haïrent" ],
+  "futurSimple": [ "haïrai", "haïras", "haïra", "haïrons", "haïrez", "haïront" ],
+  "passeCompose": [ "ai haï", "as haï", "a haï", "avons haï", "avez haï", "ont haï" ],
+  "plusQueParfait": [ "avais haï", "avais haï", "avait haï", "avions haï", "aviez haï", "avaient haï" ],
+  "passeAnterieur": [ "eus haï", "eus haï", "eut haï", "eûmes haï", "eûtes haï", "eurent haï" ],
+  "futurAnterieur": [ "aurai haï", "auras haï", "aura haï", "aurons haï", "aurez haï", "auront haï" ],
+  "subjonctifPresent": [ "haïsse", "haïsses", "haïsse", "haïssions", "haïssiez", "haïssent" ],
+  "subjonctifImparfait": [ "haïsse", "haïsses", "haït", "haïssions", "haïssiez", "haïssent" ],
+  "subjonctifPasse": [ "aie haï", "aies haï", "ait haï", "ayons haï", "ayez haï", "aient haï" ],
+  "subjonctifPlusQueParfait": [ "eusse haï", "eusses haï", "eût haï", "eussions haï", "eussiez haï", "eussent haï" ],
+  "conditionnelPresent": [ "haïrais", "haïrais", "haïrait", "haïrions", "haïriez", "haïraient" ],
+  "conditionnelPasse": [ "aurais haï", "aurais haï", "aurait haï", "aurions haï", "auriez haï", "auraient haï" ],
+  "conditionnelPasseII": [ "eusse haï", "eusses haï", "eût haï", "eussions haï", "eussiez haï", "eussent haï" ],
+  "imperatif": [ "–", "hais !", "–", "haïssons !", "haïssez !", "–" ],
+  "imperatifPasse": [ "–", "aie haï !", "–", "ayons haï !", "ayez haï !", "–" ]
+}

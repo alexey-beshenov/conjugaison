@@ -1,0 +1,22 @@
+{
+  "infinitif": "voyager",
+  "participePresent": "voyageant",
+  "participePasse": "voyagé",
+  "present": [ "voyage", "voyages", "voyage", "voyageons", "voyagez", "voyagent" ],
+  "imparfait": [ "voyageais", "voyageais", "voyageait", "voyagions", "voyagiez", "voyageaient" ],
+  "passeSimple": [ "voyageai", "voyageas", "voyagea", "voyageâmes", "voyageâtes", "voyagèrent" ],
+  "futurSimple": [ "voyagerai", "voyageras", "voyagera", "voyagerons", "voyagerez", "voyageront" ],
+  "passeCompose": [ "ai voyagé", "as voyagé", "a voyagé", "avons voyagé", "avez voyagé", "ont voyagé" ],
+  "plusQueParfait": [ "avais voyagé", "avais voyagé", "avait voyagé", "avions voyagé", "aviez voyagé", "avaient voyagé" ],
+  "passeAnterieur": [ "eus voyagé", "eus voyagé", "eut voyagé", "eûmes voyagé", "eûtes voyagé", "eurent voyagé" ],
+  "futurAnterieur": [ "aurai voyagé", "auras voyagé", "aura voyagé", "aurons voyagé", "aurez voyagé", "auront voyagé" ],
+  "subjonctifPresent": [ "voyage", "voyages", "voyage", "voyagions", "voyagiez", "voyagent" ],
+  "subjonctifImparfait": [ "voyageasse", "voyageasses", "voyageât", "voyageassions", "voyageassiez", "voyageassent" ],
+  "subjonctifPasse": [ "aie voyagé", "aies voyagé", "ait voyagé", "ayons voyagé", "ayez voyagé", "aient voyagé" ],
+  "subjonctifPlusQueParfait": [ "eusse voyagé", "eusses voyagé", "eût voyagé", "eussions voyagé", "eussiez voyagé", "eussent voyagé" ],
+  "conditionnelPresent": [ "voyagerais", "voyagerais", "voyagerait", "voyagerions", "voyageriez", "voyageraient" ],
+  "conditionnelPasse": [ "aurais voyagé", "aurais voyagé", "aurait voyagé", "aurions voyagé", "auriez voyagé", "auraient voyagé" ],
+  "conditionnelPasseII": [ "eusse voyagé", "eusses voyagé", "eût voyagé", "eussions voyagé", "eussiez voyagé", "eussent voyagé" ],
+  "imperatif": [ "–", "voyage !", "–", "voyageons !", "voyagez !", "–" ],
+  "imperatifPasse": [ "–", "aie voyagé !", "–", "ayons voyagé !", "ayez voyagé !", "–" ]
+}

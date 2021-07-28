@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'habiller",
+  "participePresent": "s'habillant",
+  "participePasse": "habillé",
+  "present": [ "m'habille", "t'habilles", "s'habille", "nous habillons", "vous habillez", "s'habillent" ],
+  "imparfait": [ "m'habillais", "t'habillais", "s'habillait", "nous habillions", "vous habilliez", "s'habillaient" ],
+  "passeSimple": [ "m'habillai", "t'habillas", "s'habilla", "nous habillâmes", "vous habillâtes", "s'habillèrent" ],
+  "futurSimple": [ "m'habillerai", "t'habilleras", "s'habillera", "nous habillerons", "vous habillerez", "s'habilleront" ],
+  "passeCompose": [ "me suis habillé(e)", "t'es habillé(e)", "s'est habillé(e)", "nous sommes habillé(e)s", "vous êtes habillé(e)(s)", "se sont habillé(e)s" ],
+  "plusQueParfait": [ "m'étais habillé(e)", "t'étais habillé(e)", "s'était habillé(e)", "nous étions habillé(e)s", "vous étiez habillé(e)(s)", "s'étaient habillé(e)s" ],
+  "passeAnterieur": [ "me fus habillé(e)", "te fus habillé(e)", "se fut habillé(e)", "nous fûmes habillé(e)s", "vous fûtes habillé(e)(s)", "se furent habillé(e)s" ],
+  "futurAnterieur": [ "me serai habillé(e)", "te seras habillé(e)", "se sera habillé(e)", "nous serons habillé(e)s", "vous serez habillé(e)(s)", "se seront habillé(e)s" ],
+  "subjonctifPresent": [ "m'habille", "t'habilles", "s'habille", "nous habillions", "vous habilliez", "s'habillent" ],
+  "subjonctifImparfait": [ "m'habillasse", "t'habillasses", "s'habillât", "nous habillassions", "vous habillassiez", "s'habillassent" ],
+  "subjonctifPasse": [ "me sois habillé(e)", "te sois habillé(e)", "se soit habillé(e)", "nous soyons habillé(e)s", "vous soyez habillé(e)(s)", "se soient habillé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse habillé(e)", "te fusses habillé(e)", "se fût habillé(e)", "nous fussions habillé(e)s", "vous fussiez habillé(e)(s)", "se fussent habillé(e)s" ],
+  "conditionnelPresent": [ "m'habillerais", "t'habillerais", "s'habillerait", "nous habillerions", "vous habilleriez", "s'habilleraient" ],
+  "conditionnelPasse": [ "me serais habillé(e)", "te serais habillé(e)", "se serait habillé(e)", "nous serions habillé(e)s", "vous seriez habillé(e)(s)", "se seraient habillé(e)s" ],
+  "conditionnelPasseII": [ "me fusse habillé(e)", "te fusses habillé(e)", "se fût habillé(e)", "nous fussions habillé(e)s", "vous fussiez habillé(e)(s)", "se fussent habillé(e)s" ],
+  "imperatif": [ "–", "habille-toi !", "–", "habillons-nous !", "habillez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

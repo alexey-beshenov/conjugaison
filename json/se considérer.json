@@ -1,0 +1,22 @@
+{
+  "infinitif": "se considérer",
+  "participePresent": "se considérant",
+  "participePasse": "considéré",
+  "present": [ "me considère", "te considères", "se considère", "nous considérons", "vous considérez", "se considèrent" ],
+  "imparfait": [ "me considérais", "te considérais", "se considérait", "nous considérions", "vous considériez", "se considéraient" ],
+  "passeSimple": [ "me considérai", "te considéras", "se considéra", "nous considérâmes", "vous considérâtes", "se considérèrent" ],
+  "futurSimple": [ "me considérerai", "te considéreras", "se considérera", "nous considérerons", "vous considérerez", "se considéreront" ],
+  "passeCompose": [ "me suis considéré(e)", "t'es considéré(e)", "s'est considéré(e)", "nous sommes considéré(e)s", "vous êtes considéré(e)(s)", "se sont considéré(e)s" ],
+  "plusQueParfait": [ "m'étais considéré(e)", "t'étais considéré(e)", "s'était considéré(e)", "nous étions considéré(e)s", "vous étiez considéré(e)(s)", "s'étaient considéré(e)s" ],
+  "passeAnterieur": [ "me fus considéré(e)", "te fus considéré(e)", "se fut considéré(e)", "nous fûmes considéré(e)s", "vous fûtes considéré(e)(s)", "se furent considéré(e)s" ],
+  "futurAnterieur": [ "me serai considéré(e)", "te seras considéré(e)", "se sera considéré(e)", "nous serons considéré(e)s", "vous serez considéré(e)(s)", "se seront considéré(e)s" ],
+  "subjonctifPresent": [ "me considère", "te considères", "se considère", "nous considérions", "vous considériez", "se considèrent" ],
+  "subjonctifImparfait": [ "me considérasse", "te considérasses", "se considérât", "nous considérassions", "vous considérassiez", "se considérassent" ],
+  "subjonctifPasse": [ "me sois considéré(e)", "te sois considéré(e)", "se soit considéré(e)", "nous soyons considéré(e)s", "vous soyez considéré(e)(s)", "se soient considéré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse considéré(e)", "te fusses considéré(e)", "se fût considéré(e)", "nous fussions considéré(e)s", "vous fussiez considéré(e)(s)", "se fussent considéré(e)s" ],
+  "conditionnelPresent": [ "me considérerais", "te considérerais", "se considérerait", "nous considérerions", "vous considéreriez", "se considéreraient" ],
+  "conditionnelPasse": [ "me serais considéré(e)", "te serais considéré(e)", "se serait considéré(e)", "nous serions considéré(e)s", "vous seriez considéré(e)(s)", "se seraient considéré(e)s" ],
+  "conditionnelPasseII": [ "me fusse considéré(e)", "te fusses considéré(e)", "se fût considéré(e)", "nous fussions considéré(e)s", "vous fussiez considéré(e)(s)", "se fussent considéré(e)s" ],
+  "imperatif": [ "–", "considère-toi !", "–", "considérons-nous !", "considérez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

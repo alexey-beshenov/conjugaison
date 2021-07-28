@@ -1,0 +1,22 @@
+{
+  "infinitif": "tomber",
+  "participePresent": "tombant",
+  "participePasse": "tombé",
+  "present": [ "tombe", "tombes", "tombe", "tombons", "tombez", "tombent" ],
+  "imparfait": [ "tombais", "tombais", "tombait", "tombions", "tombiez", "tombaient" ],
+  "passeSimple": [ "tombai", "tombas", "tomba", "tombâmes", "tombâtes", "tombèrent" ],
+  "futurSimple": [ "tomberai", "tomberas", "tombera", "tomberons", "tomberez", "tomberont" ],
+  "passeCompose": [ "suis tombé(e)", "es tombé(e)", "est tombé(e)", "sommes tombé(e)s", "êtes tombé(e)(s)", "sont tombé(e)s" ],
+  "plusQueParfait": [ "étais tombé(e)", "étais tombé(e)", "était tombé(e)", "étions tombé(e)s", "étiez tombé(e)(s)", "étaient tombé(e)s" ],
+  "passeAnterieur": [ "fus tombé(e)", "fus tombé(e)", "fut tombé(e)", "fûmes tombé(e)s", "fûtes tombé(e)(s)", "furent tombé(e)s" ],
+  "futurAnterieur": [ "serai tombé(e)", "seras tombé(e)", "sera tombé(e)", "serons tombé(e)s", "serez tombé(e)(s)", "seront tombé(e)s" ],
+  "subjonctifPresent": [ "tombe", "tombes", "tombe", "tombions", "tombiez", "tombent" ],
+  "subjonctifImparfait": [ "tombasse", "tombasses", "tombât", "tombassions", "tombassiez", "tombassent" ],
+  "subjonctifPasse": [ "sois tombé(e)", "sois tombé(e)", "soit tombé(e)", "soyons tombé(e)s", "soyez tombé(e)(s)", "soient tombé(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse tombé(e)", "fusses tombé(e)", "fût tombé(e)", "fussions tombé(e)s", "fussiez tombé(e)(s)", "fussent tombé(e)s" ],
+  "conditionnelPresent": [ "tomberais", "tomberais", "tomberait", "tomberions", "tomberiez", "tomberaient" ],
+  "conditionnelPasse": [ "serais tombé(e)", "serais tombé(e)", "serait tombé(e)", "serions tombé(e)s", "seriez tombé(e)(s)", "seraient tombé(e)s" ],
+  "conditionnelPasseII": [ "fusse tombé(e)", "fusses tombé(e)", "fût tombé(e)", "fussions tombé(e)s", "fussiez tombé(e)(s)", "fussent tombé(e)s" ],
+  "imperatif": [ "–", "tombe !", "–", "tombons !", "tombez !", "–" ],
+  "imperatifPasse": [ "–", "sois tombé(e) !", "–", "soyons tombé(e)s !", "soyez tombé(e)(s) !", "–" ]
+}

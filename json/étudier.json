@@ -1,0 +1,22 @@
+{
+  "infinitif": "étudier",
+  "participePresent": "étudiant",
+  "participePasse": "étudié",
+  "present": [ "étudie", "étudies", "étudie", "étudions", "étudiez", "étudient" ],
+  "imparfait": [ "étudiais", "étudiais", "étudiait", "étudiions", "étudiiez", "étudiaient" ],
+  "passeSimple": [ "étudiai", "étudias", "étudia", "étudiâmes", "étudiâtes", "étudièrent" ],
+  "futurSimple": [ "étudierai", "étudieras", "étudiera", "étudierons", "étudierez", "étudieront" ],
+  "passeCompose": [ "ai étudié", "as étudié", "a étudié", "avons étudié", "avez étudié", "ont étudié" ],
+  "plusQueParfait": [ "avais étudié", "avais étudié", "avait étudié", "avions étudié", "aviez étudié", "avaient étudié" ],
+  "passeAnterieur": [ "eus étudié", "eus étudié", "eut étudié", "eûmes étudié", "eûtes étudié", "eurent étudié" ],
+  "futurAnterieur": [ "aurai étudié", "auras étudié", "aura étudié", "aurons étudié", "aurez étudié", "auront étudié" ],
+  "subjonctifPresent": [ "étudie", "étudies", "étudie", "étudiions", "étudiiez", "étudient" ],
+  "subjonctifImparfait": [ "étudiasse", "étudiasses", "étudiât", "étudiassions", "étudiassiez", "étudiassent" ],
+  "subjonctifPasse": [ "aie étudié", "aies étudié", "ait étudié", "ayons étudié", "ayez étudié", "aient étudié" ],
+  "subjonctifPlusQueParfait": [ "eusse étudié", "eusses étudié", "eût étudié", "eussions étudié", "eussiez étudié", "eussent étudié" ],
+  "conditionnelPresent": [ "étudierais", "étudierais", "étudierait", "étudierions", "étudieriez", "étudieraient" ],
+  "conditionnelPasse": [ "aurais étudié", "aurais étudié", "aurait étudié", "aurions étudié", "auriez étudié", "auraient étudié" ],
+  "conditionnelPasseII": [ "eusse étudié", "eusses étudié", "eût étudié", "eussions étudié", "eussiez étudié", "eussent étudié" ],
+  "imperatif": [ "–", "étudie !", "–", "étudions !", "étudiez !", "–" ],
+  "imperatifPasse": [ "–", "aie étudié !", "–", "ayons étudié !", "ayez étudié !", "–" ]
+}

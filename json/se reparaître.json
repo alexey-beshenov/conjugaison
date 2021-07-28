@@ -1,0 +1,22 @@
+{
+  "infinitif": "se reparaître",
+  "participePresent": "se reparaissant",
+  "participePasse": "reparu",
+  "present": [ "me reparais", "te reparais", "se reparaît", "nous reparaissons", "vous reparaissez", "se reparaissent" ],
+  "imparfait": [ "me reparaissais", "te reparaissais", "se reparaissait", "nous reparaissions", "vous reparaissiez", "se reparaissaient" ],
+  "passeSimple": [ "me reparus", "te reparus", "se reparut", "nous reparûmes", "vous reparûtes", "se reparurent" ],
+  "futurSimple": [ "me reparaîtrai", "te reparaîtras", "se reparaîtra", "nous reparaîtrons", "vous reparaîtrez", "se reparaîtront" ],
+  "passeCompose": [ "me suis reparu(e)", "t'es reparu(e)", "s'est reparu(e)", "nous sommes reparu(e)s", "vous êtes reparu(e)(s)", "se sont reparu(e)s" ],
+  "plusQueParfait": [ "m'étais reparu(e)", "t'étais reparu(e)", "s'était reparu(e)", "nous étions reparu(e)s", "vous étiez reparu(e)(s)", "s'étaient reparu(e)s" ],
+  "passeAnterieur": [ "me fus reparu(e)", "te fus reparu(e)", "se fut reparu(e)", "nous fûmes reparu(e)s", "vous fûtes reparu(e)(s)", "se furent reparu(e)s" ],
+  "futurAnterieur": [ "me serai reparu(e)", "te seras reparu(e)", "se sera reparu(e)", "nous serons reparu(e)s", "vous serez reparu(e)(s)", "se seront reparu(e)s" ],
+  "subjonctifPresent": [ "me reparaisse", "te reparaisses", "se reparaisse", "nous reparaissions", "vous reparaissiez", "se reparaissent" ],
+  "subjonctifImparfait": [ "me reparusse", "te reparusses", "se reparût", "nous reparussions", "vous reparussiez", "se reparussent" ],
+  "subjonctifPasse": [ "me sois reparu(e)", "te sois reparu(e)", "se soit reparu(e)", "nous soyons reparu(e)s", "vous soyez reparu(e)(s)", "se soient reparu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse reparu(e)", "te fusses reparu(e)", "se fût reparu(e)", "nous fussions reparu(e)s", "vous fussiez reparu(e)(s)", "se fussent reparu(e)s" ],
+  "conditionnelPresent": [ "me reparaîtrais", "te reparaîtrais", "se reparaîtrait", "nous reparaîtrions", "vous reparaîtriez", "se reparaîtraient" ],
+  "conditionnelPasse": [ "me serais reparu(e)", "te serais reparu(e)", "se serait reparu(e)", "nous serions reparu(e)s", "vous seriez reparu(e)(s)", "se seraient reparu(e)s" ],
+  "conditionnelPasseII": [ "me fusse reparu(e)", "te fusses reparu(e)", "se fût reparu(e)", "nous fussions reparu(e)s", "vous fussiez reparu(e)(s)", "se fussent reparu(e)s" ],
+  "imperatif": [ "–", "reparais-toi !", "–", "reparaissons-nous !", "reparaissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

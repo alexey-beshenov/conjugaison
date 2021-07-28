@@ -1,0 +1,22 @@
+{
+  "infinitif": "dépourvoir",
+  "participePresent": "dépourvoyant",
+  "participePasse": "dépourvu",
+  "present": [ "dépourvois", "dépourvois", "dépourvoit", "dépourvoyons", "dépourvoyez", "dépourvoient" ],
+  "imparfait": [ "dépourvoyais", "dépourvoyais", "dépourvoyait", "dépourvoyions", "dépourvoyiez", "dépourvoyaient" ],
+  "passeSimple": [ "dépourvus", "dépourvus", "dépourvut", "dépourvûmes", "dépourvûtes", "dépourvurent" ],
+  "futurSimple": [ "dépourvoirai", "dépourvoiras", "dépourvoira", "dépourvoirons", "dépourvoirez", "dépourvoiront" ],
+  "passeCompose": [ "ai dépourvu", "as dépourvu", "a dépourvu", "avons dépourvu", "avez dépourvu", "ont dépourvu" ],
+  "plusQueParfait": [ "avais dépourvu", "avais dépourvu", "avait dépourvu", "avions dépourvu", "aviez dépourvu", "avaient dépourvu" ],
+  "passeAnterieur": [ "eus dépourvu", "eus dépourvu", "eut dépourvu", "eûmes dépourvu", "eûtes dépourvu", "eurent dépourvu" ],
+  "futurAnterieur": [ "aurai dépourvu", "auras dépourvu", "aura dépourvu", "aurons dépourvu", "aurez dépourvu", "auront dépourvu" ],
+  "subjonctifPresent": [ "dépourvoie", "dépourvoies", "dépourvoie", "dépourvoyions", "dépourvoyiez", "dépourvoient" ],
+  "subjonctifImparfait": [ "dépourvusse", "dépourvusses", "dépourvût", "dépourvussions", "dépourvussiez", "dépourvussent" ],
+  "subjonctifPasse": [ "aie dépourvu", "aies dépourvu", "ait dépourvu", "ayons dépourvu", "ayez dépourvu", "aient dépourvu" ],
+  "subjonctifPlusQueParfait": [ "eusse dépourvu", "eusses dépourvu", "eût dépourvu", "eussions dépourvu", "eussiez dépourvu", "eussent dépourvu" ],
+  "conditionnelPresent": [ "dépourvoirais", "dépourvoirais", "dépourvoirait", "dépourvoirions", "dépourvoiriez", "dépourvoiraient" ],
+  "conditionnelPasse": [ "aurais dépourvu", "aurais dépourvu", "aurait dépourvu", "aurions dépourvu", "auriez dépourvu", "auraient dépourvu" ],
+  "conditionnelPasseII": [ "eusse dépourvu", "eusses dépourvu", "eût dépourvu", "eussions dépourvu", "eussiez dépourvu", "eussent dépourvu" ],
+  "imperatif": [ "–", "dépourvois !", "–", "dépourvoyons !", "dépourvoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie dépourvu !", "–", "ayons dépourvu !", "ayez dépourvu !", "–" ]
+}

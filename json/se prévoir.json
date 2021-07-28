@@ -1,0 +1,22 @@
+{
+  "infinitif": "se prévoir",
+  "participePresent": "se prévoyant",
+  "participePasse": "prévu",
+  "present": [ "me prévois", "te prévois", "se prévoit", "nous prévoyons", "vous prévoyez", "se prévoient" ],
+  "imparfait": [ "me prévoyais", "te prévoyais", "se prévoyait", "nous prévoyions", "vous prévoyiez", "se prévoyaient" ],
+  "passeSimple": [ "me prévis", "te prévis", "se prévit", "nous prévîmes", "vous prévîtes", "se prévirent" ],
+  "futurSimple": [ "me prévoirai", "te prévoiras", "se prévoira", "nous prévoirons", "vous prévoirez", "se prévoiront" ],
+  "passeCompose": [ "me suis prévu(e)", "t'es prévu(e)", "s'est prévu(e)", "nous sommes prévu(e)s", "vous êtes prévu(e)(s)", "se sont prévu(e)s" ],
+  "plusQueParfait": [ "m'étais prévu(e)", "t'étais prévu(e)", "s'était prévu(e)", "nous étions prévu(e)s", "vous étiez prévu(e)(s)", "s'étaient prévu(e)s" ],
+  "passeAnterieur": [ "me fus prévu(e)", "te fus prévu(e)", "se fut prévu(e)", "nous fûmes prévu(e)s", "vous fûtes prévu(e)(s)", "se furent prévu(e)s" ],
+  "futurAnterieur": [ "me serai prévu(e)", "te seras prévu(e)", "se sera prévu(e)", "nous serons prévu(e)s", "vous serez prévu(e)(s)", "se seront prévu(e)s" ],
+  "subjonctifPresent": [ "me prévoie", "te prévoies", "se prévoie", "nous prévoyions", "vous prévoyiez", "se prévoient" ],
+  "subjonctifImparfait": [ "me prévisse", "te prévisses", "se prévît", "nous prévissions", "vous prévissiez", "se prévissent" ],
+  "subjonctifPasse": [ "me sois prévu(e)", "te sois prévu(e)", "se soit prévu(e)", "nous soyons prévu(e)s", "vous soyez prévu(e)(s)", "se soient prévu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse prévu(e)", "te fusses prévu(e)", "se fût prévu(e)", "nous fussions prévu(e)s", "vous fussiez prévu(e)(s)", "se fussent prévu(e)s" ],
+  "conditionnelPresent": [ "me prévoirais", "te prévoirais", "se prévoirait", "nous prévoirions", "vous prévoiriez", "se prévoiraient" ],
+  "conditionnelPasse": [ "me serais prévu(e)", "te serais prévu(e)", "se serait prévu(e)", "nous serions prévu(e)s", "vous seriez prévu(e)(s)", "se seraient prévu(e)s" ],
+  "conditionnelPasseII": [ "me fusse prévu(e)", "te fusses prévu(e)", "se fût prévu(e)", "nous fussions prévu(e)s", "vous fussiez prévu(e)(s)", "se fussent prévu(e)s" ],
+  "imperatif": [ "–", "prévois-toi !", "–", "prévoyons-nous !", "prévoyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

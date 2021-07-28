@@ -1,0 +1,22 @@
+{
+  "infinitif": "séparer",
+  "participePresent": "séparant",
+  "participePasse": "séparé",
+  "present": [ "sépare", "sépares", "sépare", "séparons", "séparez", "séparent" ],
+  "imparfait": [ "séparais", "séparais", "séparait", "séparions", "sépariez", "séparaient" ],
+  "passeSimple": [ "séparai", "séparas", "sépara", "séparâmes", "séparâtes", "séparèrent" ],
+  "futurSimple": [ "séparerai", "sépareras", "séparera", "séparerons", "séparerez", "sépareront" ],
+  "passeCompose": [ "ai séparé", "as séparé", "a séparé", "avons séparé", "avez séparé", "ont séparé" ],
+  "plusQueParfait": [ "avais séparé", "avais séparé", "avait séparé", "avions séparé", "aviez séparé", "avaient séparé" ],
+  "passeAnterieur": [ "eus séparé", "eus séparé", "eut séparé", "eûmes séparé", "eûtes séparé", "eurent séparé" ],
+  "futurAnterieur": [ "aurai séparé", "auras séparé", "aura séparé", "aurons séparé", "aurez séparé", "auront séparé" ],
+  "subjonctifPresent": [ "sépare", "sépares", "sépare", "séparions", "sépariez", "séparent" ],
+  "subjonctifImparfait": [ "séparasse", "séparasses", "séparât", "séparassions", "séparassiez", "séparassent" ],
+  "subjonctifPasse": [ "aie séparé", "aies séparé", "ait séparé", "ayons séparé", "ayez séparé", "aient séparé" ],
+  "subjonctifPlusQueParfait": [ "eusse séparé", "eusses séparé", "eût séparé", "eussions séparé", "eussiez séparé", "eussent séparé" ],
+  "conditionnelPresent": [ "séparerais", "séparerais", "séparerait", "séparerions", "sépareriez", "sépareraient" ],
+  "conditionnelPasse": [ "aurais séparé", "aurais séparé", "aurait séparé", "aurions séparé", "auriez séparé", "auraient séparé" ],
+  "conditionnelPasseII": [ "eusse séparé", "eusses séparé", "eût séparé", "eussions séparé", "eussiez séparé", "eussent séparé" ],
+  "imperatif": [ "–", "sépare !", "–", "séparons !", "séparez !", "–" ],
+  "imperatifPasse": [ "–", "aie séparé !", "–", "ayons séparé !", "ayez séparé !", "–" ]
+}

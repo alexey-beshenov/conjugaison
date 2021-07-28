@@ -1,0 +1,22 @@
+{
+  "infinitif": "mouvoir",
+  "participePresent": "mouvant",
+  "participePasse": "mû,",
+  "present": [ "meus", "meus", "meut", "mouvons", "mouvez", "meuvent" ],
+  "imparfait": [ "mouvais", "mouvais", "mouvait", "mouvions", "mouviez", "mouvaient" ],
+  "passeSimple": [ "mus", "mus", "mut", "mûmes", "mûtes", "murent" ],
+  "futurSimple": [ "mouvrai", "mouvras", "mouvra", "mouvrons", "mouvrez", "mouvront" ],
+  "passeCompose": [ "ai mû", "as mû", "a mû", "avons mû", "avez mû", "ont mû" ],
+  "plusQueParfait": [ "avais mû", "avais mû", "avait mû", "avions mû", "aviez mû", "avaient mû" ],
+  "passeAnterieur": [ "eus mû", "eus mû", "eut mû", "eûmes mû", "eûtes mû", "eurent mû" ],
+  "futurAnterieur": [ "aurai mû", "auras mû", "aura mû", "aurons mû", "aurez mû", "auront mû" ],
+  "subjonctifPresent": [ "meuve", "meuves", "meuve", "mouvions", "mouviez", "meuvent" ],
+  "subjonctifImparfait": [ "musse", "musses", "mût", "mussions", "mussiez", "mussent" ],
+  "subjonctifPasse": [ "aie mû", "aies mû", "ait mû", "ayons mû", "ayez mû", "aient mû" ],
+  "subjonctifPlusQueParfait": [ "eusse mû", "eusses mû", "eût mû", "eussions mû", "eussiez mû", "eussent mû" ],
+  "conditionnelPresent": [ "mouvrais", "mouvrais", "mouvrait", "mouvrions", "mouvriez", "mouvraient" ],
+  "conditionnelPasse": [ "aurais mû", "aurais mû", "aurait mû", "aurions mû", "auriez mû", "auraient mû" ],
+  "conditionnelPasseII": [ "eusse mû", "eusses mû", "eût mû", "eussions mû", "eussiez mû", "eussent mû" ],
+  "imperatif": [ "–", "meus !", "–", "mouvons !", "mouvez !", "–" ],
+  "imperatifPasse": [ "–", "aie mû !", "–", "ayons mû !", "ayez mû !", "–" ]
+}

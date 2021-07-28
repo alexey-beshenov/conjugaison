@@ -1,0 +1,22 @@
+{
+  "infinitif": "se diriger",
+  "participePresent": "se dirigeant",
+  "participePasse": "dirigé",
+  "present": [ "me dirige", "te diriges", "se dirige", "nous dirigeons", "vous dirigez", "se dirigent" ],
+  "imparfait": [ "me dirigeais", "te dirigeais", "se dirigeait", "nous dirigions", "vous dirigiez", "se dirigeaient" ],
+  "passeSimple": [ "me dirigeai", "te dirigeas", "se dirigea", "nous dirigeâmes", "vous dirigeâtes", "se dirigèrent" ],
+  "futurSimple": [ "me dirigerai", "te dirigeras", "se dirigera", "nous dirigerons", "vous dirigerez", "se dirigeront" ],
+  "passeCompose": [ "me suis dirigé(e)", "t'es dirigé(e)", "s'est dirigé(e)", "nous sommes dirigé(e)s", "vous êtes dirigé(e)(s)", "se sont dirigé(e)s" ],
+  "plusQueParfait": [ "m'étais dirigé(e)", "t'étais dirigé(e)", "s'était dirigé(e)", "nous étions dirigé(e)s", "vous étiez dirigé(e)(s)", "s'étaient dirigé(e)s" ],
+  "passeAnterieur": [ "me fus dirigé(e)", "te fus dirigé(e)", "se fut dirigé(e)", "nous fûmes dirigé(e)s", "vous fûtes dirigé(e)(s)", "se furent dirigé(e)s" ],
+  "futurAnterieur": [ "me serai dirigé(e)", "te seras dirigé(e)", "se sera dirigé(e)", "nous serons dirigé(e)s", "vous serez dirigé(e)(s)", "se seront dirigé(e)s" ],
+  "subjonctifPresent": [ "me dirige", "te diriges", "se dirige", "nous dirigions", "vous dirigiez", "se dirigent" ],
+  "subjonctifImparfait": [ "me dirigeasse", "te dirigeasses", "se dirigeât", "nous dirigeassions", "vous dirigeassiez", "se dirigeassent" ],
+  "subjonctifPasse": [ "me sois dirigé(e)", "te sois dirigé(e)", "se soit dirigé(e)", "nous soyons dirigé(e)s", "vous soyez dirigé(e)(s)", "se soient dirigé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse dirigé(e)", "te fusses dirigé(e)", "se fût dirigé(e)", "nous fussions dirigé(e)s", "vous fussiez dirigé(e)(s)", "se fussent dirigé(e)s" ],
+  "conditionnelPresent": [ "me dirigerais", "te dirigerais", "se dirigerait", "nous dirigerions", "vous dirigeriez", "se dirigeraient" ],
+  "conditionnelPasse": [ "me serais dirigé(e)", "te serais dirigé(e)", "se serait dirigé(e)", "nous serions dirigé(e)s", "vous seriez dirigé(e)(s)", "se seraient dirigé(e)s" ],
+  "conditionnelPasseII": [ "me fusse dirigé(e)", "te fusses dirigé(e)", "se fût dirigé(e)", "nous fussions dirigé(e)s", "vous fussiez dirigé(e)(s)", "se fussent dirigé(e)s" ],
+  "imperatif": [ "–", "dirige-toi !", "–", "dirigeons-nous !", "dirigez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se casser",
+  "participePresent": "se cassant",
+  "participePasse": "cassé",
+  "present": [ "me casse", "te casses", "se casse", "nous cassons", "vous cassez", "se cassent" ],
+  "imparfait": [ "me cassais", "te cassais", "se cassait", "nous cassions", "vous cassiez", "se cassaient" ],
+  "passeSimple": [ "me cassai", "te cassas", "se cassa", "nous cassâmes", "vous cassâtes", "se cassèrent" ],
+  "futurSimple": [ "me casserai", "te casseras", "se cassera", "nous casserons", "vous casserez", "se casseront" ],
+  "passeCompose": [ "me suis cassé(e)", "t'es cassé(e)", "s'est cassé(e)", "nous sommes cassé(e)s", "vous êtes cassé(e)(s)", "se sont cassé(e)s" ],
+  "plusQueParfait": [ "m'étais cassé(e)", "t'étais cassé(e)", "s'était cassé(e)", "nous étions cassé(e)s", "vous étiez cassé(e)(s)", "s'étaient cassé(e)s" ],
+  "passeAnterieur": [ "me fus cassé(e)", "te fus cassé(e)", "se fut cassé(e)", "nous fûmes cassé(e)s", "vous fûtes cassé(e)(s)", "se furent cassé(e)s" ],
+  "futurAnterieur": [ "me serai cassé(e)", "te seras cassé(e)", "se sera cassé(e)", "nous serons cassé(e)s", "vous serez cassé(e)(s)", "se seront cassé(e)s" ],
+  "subjonctifPresent": [ "me casse", "te casses", "se casse", "nous cassions", "vous cassiez", "se cassent" ],
+  "subjonctifImparfait": [ "me cassasse", "te cassasses", "se cassât", "nous cassassions", "vous cassassiez", "se cassassent" ],
+  "subjonctifPasse": [ "me sois cassé(e)", "te sois cassé(e)", "se soit cassé(e)", "nous soyons cassé(e)s", "vous soyez cassé(e)(s)", "se soient cassé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse cassé(e)", "te fusses cassé(e)", "se fût cassé(e)", "nous fussions cassé(e)s", "vous fussiez cassé(e)(s)", "se fussent cassé(e)s" ],
+  "conditionnelPresent": [ "me casserais", "te casserais", "se casserait", "nous casserions", "vous casseriez", "se casseraient" ],
+  "conditionnelPasse": [ "me serais cassé(e)", "te serais cassé(e)", "se serait cassé(e)", "nous serions cassé(e)s", "vous seriez cassé(e)(s)", "se seraient cassé(e)s" ],
+  "conditionnelPasseII": [ "me fusse cassé(e)", "te fusses cassé(e)", "se fût cassé(e)", "nous fussions cassé(e)s", "vous fussiez cassé(e)(s)", "se fussent cassé(e)s" ],
+  "imperatif": [ "–", "casse-toi !", "–", "cassons-nous !", "cassez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

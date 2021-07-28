@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'emboire",
+  "participePresent": "s'embuvant",
+  "participePasse": "embu",
+  "present": [ "m'embois", "t'embois", "s'emboit", "nous embuvons", "vous embuvez", "s'emboivent" ],
+  "imparfait": [ "m'embuvais", "t'embuvais", "s'embuvait", "nous embuvions", "vous embuviez", "s'embuvaient" ],
+  "passeSimple": [ "m'embus", "t'embus", "s'embut", "nous embûmes", "vous embûtes", "s'emburent" ],
+  "futurSimple": [ "m'emboirai", "t'emboiras", "s'emboira", "nous emboirons", "vous emboirez", "s'emboiront" ],
+  "passeCompose": [ "me suis embu(e)", "t'es embu(e)", "s'est embu(e)", "nous sommes embu(e)s", "vous êtes embu(e)(s)", "se sont embu(e)s" ],
+  "plusQueParfait": [ "m'étais embu(e)", "t'étais embu(e)", "s'était embu(e)", "nous étions embu(e)s", "vous étiez embu(e)(s)", "s'étaient embu(e)s" ],
+  "passeAnterieur": [ "me fus embu(e)", "te fus embu(e)", "se fut embu(e)", "nous fûmes embu(e)s", "vous fûtes embu(e)(s)", "se furent embu(e)s" ],
+  "futurAnterieur": [ "me serai embu(e)", "te seras embu(e)", "se sera embu(e)", "nous serons embu(e)s", "vous serez embu(e)(s)", "se seront embu(e)s" ],
+  "subjonctifPresent": [ "m'emboive", "t'emboives", "s'emboive", "nous embuvions", "vous embuviez", "s'emboivent" ],
+  "subjonctifImparfait": [ "m'embusse", "t'embusses", "s'embût", "nous embussions", "vous embussiez", "s'embussent" ],
+  "subjonctifPasse": [ "me sois embu(e)", "te sois embu(e)", "se soit embu(e)", "nous soyons embu(e)s", "vous soyez embu(e)(s)", "se soient embu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse embu(e)", "te fusses embu(e)", "se fût embu(e)", "nous fussions embu(e)s", "vous fussiez embu(e)(s)", "se fussent embu(e)s" ],
+  "conditionnelPresent": [ "m'emboirais", "t'emboirais", "s'emboirait", "nous emboirions", "vous emboiriez", "s'emboiraient" ],
+  "conditionnelPasse": [ "me serais embu(e)", "te serais embu(e)", "se serait embu(e)", "nous serions embu(e)s", "vous seriez embu(e)(s)", "se seraient embu(e)s" ],
+  "conditionnelPasseII": [ "me fusse embu(e)", "te fusses embu(e)", "se fût embu(e)", "nous fussions embu(e)s", "vous fussiez embu(e)(s)", "se fussent embu(e)s" ],
+  "imperatif": [ "–", "embois-toi !", "–", "embuvons-nous !", "embuvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

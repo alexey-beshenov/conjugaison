@@ -1,0 +1,22 @@
+{
+  "infinitif": "intéresser",
+  "participePresent": "intéressant",
+  "participePasse": "intéressé",
+  "present": [ "intéresse", "intéresses", "intéresse", "intéressons", "intéressez", "intéressent" ],
+  "imparfait": [ "intéressais", "intéressais", "intéressait", "intéressions", "intéressiez", "intéressaient" ],
+  "passeSimple": [ "intéressai", "intéressas", "intéressa", "intéressâmes", "intéressâtes", "intéressèrent" ],
+  "futurSimple": [ "intéresserai", "intéresseras", "intéressera", "intéresserons", "intéresserez", "intéresseront" ],
+  "passeCompose": [ "ai intéressé", "as intéressé", "a intéressé", "avons intéressé", "avez intéressé", "ont intéressé" ],
+  "plusQueParfait": [ "avais intéressé", "avais intéressé", "avait intéressé", "avions intéressé", "aviez intéressé", "avaient intéressé" ],
+  "passeAnterieur": [ "eus intéressé", "eus intéressé", "eut intéressé", "eûmes intéressé", "eûtes intéressé", "eurent intéressé" ],
+  "futurAnterieur": [ "aurai intéressé", "auras intéressé", "aura intéressé", "aurons intéressé", "aurez intéressé", "auront intéressé" ],
+  "subjonctifPresent": [ "intéresse", "intéresses", "intéresse", "intéressions", "intéressiez", "intéressent" ],
+  "subjonctifImparfait": [ "intéressasse", "intéressasses", "intéressât", "intéressassions", "intéressassiez", "intéressassent" ],
+  "subjonctifPasse": [ "aie intéressé", "aies intéressé", "ait intéressé", "ayons intéressé", "ayez intéressé", "aient intéressé" ],
+  "subjonctifPlusQueParfait": [ "eusse intéressé", "eusses intéressé", "eût intéressé", "eussions intéressé", "eussiez intéressé", "eussent intéressé" ],
+  "conditionnelPresent": [ "intéresserais", "intéresserais", "intéresserait", "intéresserions", "intéresseriez", "intéresseraient" ],
+  "conditionnelPasse": [ "aurais intéressé", "aurais intéressé", "aurait intéressé", "aurions intéressé", "auriez intéressé", "auraient intéressé" ],
+  "conditionnelPasseII": [ "eusse intéressé", "eusses intéressé", "eût intéressé", "eussions intéressé", "eussiez intéressé", "eussent intéressé" ],
+  "imperatif": [ "–", "intéresse !", "–", "intéressons !", "intéressez !", "–" ],
+  "imperatifPasse": [ "–", "aie intéressé !", "–", "ayons intéressé !", "ayez intéressé !", "–" ]
+}

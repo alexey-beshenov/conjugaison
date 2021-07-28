@@ -1,0 +1,22 @@
+{
+  "infinitif": "vivifier",
+  "participePresent": "vivifiant",
+  "participePasse": "vivifié",
+  "present": [ "vivifie", "vivifies", "vivifie", "vivifions", "vivifiez", "vivifient" ],
+  "imparfait": [ "vivifiais", "vivifiais", "vivifiait", "vivifiions", "vivifiiez", "vivifiaient" ],
+  "passeSimple": [ "vivifiai", "vivifias", "vivifia", "vivifiâmes", "vivifiâtes", "vivifièrent" ],
+  "futurSimple": [ "vivifierai", "vivifieras", "vivifiera", "vivifierons", "vivifierez", "vivifieront" ],
+  "passeCompose": [ "ai vivifié", "as vivifié", "a vivifié", "avons vivifié", "avez vivifié", "ont vivifié" ],
+  "plusQueParfait": [ "avais vivifié", "avais vivifié", "avait vivifié", "avions vivifié", "aviez vivifié", "avaient vivifié" ],
+  "passeAnterieur": [ "eus vivifié", "eus vivifié", "eut vivifié", "eûmes vivifié", "eûtes vivifié", "eurent vivifié" ],
+  "futurAnterieur": [ "aurai vivifié", "auras vivifié", "aura vivifié", "aurons vivifié", "aurez vivifié", "auront vivifié" ],
+  "subjonctifPresent": [ "vivifie", "vivifies", "vivifie", "vivifiions", "vivifiiez", "vivifient" ],
+  "subjonctifImparfait": [ "vivifiasse", "vivifiasses", "vivifiât", "vivifiassions", "vivifiassiez", "vivifiassent" ],
+  "subjonctifPasse": [ "aie vivifié", "aies vivifié", "ait vivifié", "ayons vivifié", "ayez vivifié", "aient vivifié" ],
+  "subjonctifPlusQueParfait": [ "eusse vivifié", "eusses vivifié", "eût vivifié", "eussions vivifié", "eussiez vivifié", "eussent vivifié" ],
+  "conditionnelPresent": [ "vivifierais", "vivifierais", "vivifierait", "vivifierions", "vivifieriez", "vivifieraient" ],
+  "conditionnelPasse": [ "aurais vivifié", "aurais vivifié", "aurait vivifié", "aurions vivifié", "auriez vivifié", "auraient vivifié" ],
+  "conditionnelPasseII": [ "eusse vivifié", "eusses vivifié", "eût vivifié", "eussions vivifié", "eussiez vivifié", "eussent vivifié" ],
+  "imperatif": [ "–", "vivifie !", "–", "vivifions !", "vivifiez !", "–" ],
+  "imperatifPasse": [ "–", "aie vivifié !", "–", "ayons vivifié !", "ayez vivifié !", "–" ]
+}

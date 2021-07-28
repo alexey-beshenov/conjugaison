@@ -1,0 +1,22 @@
+{
+  "infinitif": "accompagner",
+  "participePresent": "accompagnant",
+  "participePasse": "accompagné",
+  "present": [ "accompagne", "accompagnes", "accompagne", "accompagnons", "accompagnez", "accompagnent" ],
+  "imparfait": [ "accompagnais", "accompagnais", "accompagnait", "accompagnions", "accompagniez", "accompagnaient" ],
+  "passeSimple": [ "accompagnai", "accompagnas", "accompagna", "accompagnâmes", "accompagnâtes", "accompagnèrent" ],
+  "futurSimple": [ "accompagnerai", "accompagneras", "accompagnera", "accompagnerons", "accompagnerez", "accompagneront" ],
+  "passeCompose": [ "ai accompagné", "as accompagné", "a accompagné", "avons accompagné", "avez accompagné", "ont accompagné" ],
+  "plusQueParfait": [ "avais accompagné", "avais accompagné", "avait accompagné", "avions accompagné", "aviez accompagné", "avaient accompagné" ],
+  "passeAnterieur": [ "eus accompagné", "eus accompagné", "eut accompagné", "eûmes accompagné", "eûtes accompagné", "eurent accompagné" ],
+  "futurAnterieur": [ "aurai accompagné", "auras accompagné", "aura accompagné", "aurons accompagné", "aurez accompagné", "auront accompagné" ],
+  "subjonctifPresent": [ "accompagne", "accompagnes", "accompagne", "accompagnions", "accompagniez", "accompagnent" ],
+  "subjonctifImparfait": [ "accompagnasse", "accompagnasses", "accompagnât", "accompagnassions", "accompagnassiez", "accompagnassent" ],
+  "subjonctifPasse": [ "aie accompagné", "aies accompagné", "ait accompagné", "ayons accompagné", "ayez accompagné", "aient accompagné" ],
+  "subjonctifPlusQueParfait": [ "eusse accompagné", "eusses accompagné", "eût accompagné", "eussions accompagné", "eussiez accompagné", "eussent accompagné" ],
+  "conditionnelPresent": [ "accompagnerais", "accompagnerais", "accompagnerait", "accompagnerions", "accompagneriez", "accompagneraient" ],
+  "conditionnelPasse": [ "aurais accompagné", "aurais accompagné", "aurait accompagné", "aurions accompagné", "auriez accompagné", "auraient accompagné" ],
+  "conditionnelPasseII": [ "eusse accompagné", "eusses accompagné", "eût accompagné", "eussions accompagné", "eussiez accompagné", "eussent accompagné" ],
+  "imperatif": [ "–", "accompagne !", "–", "accompagnons !", "accompagnez !", "–" ],
+  "imperatifPasse": [ "–", "aie accompagné !", "–", "ayons accompagné !", "ayez accompagné !", "–" ]
+}

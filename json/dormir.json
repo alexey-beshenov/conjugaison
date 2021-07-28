@@ -1,0 +1,22 @@
+{
+  "infinitif": "dormir",
+  "participePresent": "dormant",
+  "participePasse": "dormi",
+  "present": [ "dors", "dors", "dort", "dormons", "dormez", "dorment" ],
+  "imparfait": [ "dormais", "dormais", "dormait", "dormions", "dormiez", "dormaient" ],
+  "passeSimple": [ "dormis", "dormis", "dormit", "dormîmes", "dormîtes", "dormirent" ],
+  "futurSimple": [ "dormirai", "dormiras", "dormira", "dormirons", "dormirez", "dormiront" ],
+  "passeCompose": [ "ai dormi", "as dormi", "a dormi", "avons dormi", "avez dormi", "ont dormi" ],
+  "plusQueParfait": [ "avais dormi", "avais dormi", "avait dormi", "avions dormi", "aviez dormi", "avaient dormi" ],
+  "passeAnterieur": [ "eus dormi", "eus dormi", "eut dormi", "eûmes dormi", "eûtes dormi", "eurent dormi" ],
+  "futurAnterieur": [ "aurai dormi", "auras dormi", "aura dormi", "aurons dormi", "aurez dormi", "auront dormi" ],
+  "subjonctifPresent": [ "dorme", "dormes", "dorme", "dormions", "dormiez", "dorment" ],
+  "subjonctifImparfait": [ "dormisse", "dormisses", "dormît", "dormissions", "dormissiez", "dormissent" ],
+  "subjonctifPasse": [ "aie dormi", "aies dormi", "ait dormi", "ayons dormi", "ayez dormi", "aient dormi" ],
+  "subjonctifPlusQueParfait": [ "eusse dormi", "eusses dormi", "eût dormi", "eussions dormi", "eussiez dormi", "eussent dormi" ],
+  "conditionnelPresent": [ "dormirais", "dormirais", "dormirait", "dormirions", "dormiriez", "dormiraient" ],
+  "conditionnelPasse": [ "aurais dormi", "aurais dormi", "aurait dormi", "aurions dormi", "auriez dormi", "auraient dormi" ],
+  "conditionnelPasseII": [ "eusse dormi", "eusses dormi", "eût dormi", "eussions dormi", "eussiez dormi", "eussent dormi" ],
+  "imperatif": [ "–", "dors !", "–", "dormons !", "dormez !", "–" ],
+  "imperatifPasse": [ "–", "aie dormi !", "–", "ayons dormi !", "ayez dormi !", "–" ]
+}

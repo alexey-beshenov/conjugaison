@@ -1,0 +1,22 @@
+{
+  "infinitif": "saisir",
+  "participePresent": "saisissant",
+  "participePasse": "saisi",
+  "present": [ "saisis", "saisis", "saisit", "saisissons", "saisissez", "saisissent" ],
+  "imparfait": [ "saisissais", "saisissais", "saisissait", "saisissions", "saisissiez", "saisissaient" ],
+  "passeSimple": [ "saisis", "saisis", "saisit", "saisîmes", "saisîtes", "saisirent" ],
+  "futurSimple": [ "saisirai", "saisiras", "saisira", "saisirons", "saisirez", "saisiront" ],
+  "passeCompose": [ "ai saisi", "as saisi", "a saisi", "avons saisi", "avez saisi", "ont saisi" ],
+  "plusQueParfait": [ "avais saisi", "avais saisi", "avait saisi", "avions saisi", "aviez saisi", "avaient saisi" ],
+  "passeAnterieur": [ "eus saisi", "eus saisi", "eut saisi", "eûmes saisi", "eûtes saisi", "eurent saisi" ],
+  "futurAnterieur": [ "aurai saisi", "auras saisi", "aura saisi", "aurons saisi", "aurez saisi", "auront saisi" ],
+  "subjonctifPresent": [ "saisisse", "saisisses", "saisisse", "saisissions", "saisissiez", "saisissent" ],
+  "subjonctifImparfait": [ "saisisse", "saisisses", "saisît", "saisissions", "saisissiez", "saisissent" ],
+  "subjonctifPasse": [ "aie saisi", "aies saisi", "ait saisi", "ayons saisi", "ayez saisi", "aient saisi" ],
+  "subjonctifPlusQueParfait": [ "eusse saisi", "eusses saisi", "eût saisi", "eussions saisi", "eussiez saisi", "eussent saisi" ],
+  "conditionnelPresent": [ "saisirais", "saisirais", "saisirait", "saisirions", "saisiriez", "saisiraient" ],
+  "conditionnelPasse": [ "aurais saisi", "aurais saisi", "aurait saisi", "aurions saisi", "auriez saisi", "auraient saisi" ],
+  "conditionnelPasseII": [ "eusse saisi", "eusses saisi", "eût saisi", "eussions saisi", "eussiez saisi", "eussent saisi" ],
+  "imperatif": [ "–", "saisis !", "–", "saisissons !", "saisissez !", "–" ],
+  "imperatifPasse": [ "–", "aie saisi !", "–", "ayons saisi !", "ayez saisi !", "–" ]
+}

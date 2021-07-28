@@ -1,0 +1,22 @@
+{
+  "infinitif": "respirer",
+  "participePresent": "respirant",
+  "participePasse": "respiré",
+  "present": [ "respire", "respires", "respire", "respirons", "respirez", "respirent" ],
+  "imparfait": [ "respirais", "respirais", "respirait", "respirions", "respiriez", "respiraient" ],
+  "passeSimple": [ "respirai", "respiras", "respira", "respirâmes", "respirâtes", "respirèrent" ],
+  "futurSimple": [ "respirerai", "respireras", "respirera", "respirerons", "respirerez", "respireront" ],
+  "passeCompose": [ "ai respiré", "as respiré", "a respiré", "avons respiré", "avez respiré", "ont respiré" ],
+  "plusQueParfait": [ "avais respiré", "avais respiré", "avait respiré", "avions respiré", "aviez respiré", "avaient respiré" ],
+  "passeAnterieur": [ "eus respiré", "eus respiré", "eut respiré", "eûmes respiré", "eûtes respiré", "eurent respiré" ],
+  "futurAnterieur": [ "aurai respiré", "auras respiré", "aura respiré", "aurons respiré", "aurez respiré", "auront respiré" ],
+  "subjonctifPresent": [ "respire", "respires", "respire", "respirions", "respiriez", "respirent" ],
+  "subjonctifImparfait": [ "respirasse", "respirasses", "respirât", "respirassions", "respirassiez", "respirassent" ],
+  "subjonctifPasse": [ "aie respiré", "aies respiré", "ait respiré", "ayons respiré", "ayez respiré", "aient respiré" ],
+  "subjonctifPlusQueParfait": [ "eusse respiré", "eusses respiré", "eût respiré", "eussions respiré", "eussiez respiré", "eussent respiré" ],
+  "conditionnelPresent": [ "respirerais", "respirerais", "respirerait", "respirerions", "respireriez", "respireraient" ],
+  "conditionnelPasse": [ "aurais respiré", "aurais respiré", "aurait respiré", "aurions respiré", "auriez respiré", "auraient respiré" ],
+  "conditionnelPasseII": [ "eusse respiré", "eusses respiré", "eût respiré", "eussions respiré", "eussiez respiré", "eussent respiré" ],
+  "imperatif": [ "–", "respire !", "–", "respirons !", "respirez !", "–" ],
+  "imperatifPasse": [ "–", "aie respiré !", "–", "ayons respiré !", "ayez respiré !", "–" ]
+}

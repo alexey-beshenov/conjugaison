@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'endormir",
+  "participePresent": "s'endormant",
+  "participePasse": "endormi",
+  "present": [ "m'endors", "t'endors", "s'endort", "nous endormons", "vous endormez", "s'endorment" ],
+  "imparfait": [ "m'endormais", "t'endormais", "s'endormait", "nous endormions", "vous endormiez", "s'endormaient" ],
+  "passeSimple": [ "m'endormis", "t'endormis", "s'endormit", "nous endormîmes", "vous endormîtes", "s'endormirent" ],
+  "futurSimple": [ "m'endormirai", "t'endormiras", "s'endormira", "nous endormirons", "vous endormirez", "s'endormiront" ],
+  "passeCompose": [ "me suis endormi(e)", "t'es endormi(e)", "s'est endormi(e)", "nous sommes endormi(e)s", "vous êtes endormi(e)(s)", "se sont endormi(e)s" ],
+  "plusQueParfait": [ "m'étais endormi(e)", "t'étais endormi(e)", "s'était endormi(e)", "nous étions endormi(e)s", "vous étiez endormi(e)(s)", "s'étaient endormi(e)s" ],
+  "passeAnterieur": [ "me fus endormi(e)", "te fus endormi(e)", "se fut endormi(e)", "nous fûmes endormi(e)s", "vous fûtes endormi(e)(s)", "se furent endormi(e)s" ],
+  "futurAnterieur": [ "me serai endormi(e)", "te seras endormi(e)", "se sera endormi(e)", "nous serons endormi(e)s", "vous serez endormi(e)(s)", "se seront endormi(e)s" ],
+  "subjonctifPresent": [ "m'endorme", "t'endormes", "s'endorme", "nous endormions", "vous endormiez", "s'endorment" ],
+  "subjonctifImparfait": [ "m'endormisse", "t'endormisses", "s'endormît", "nous endormissions", "vous endormissiez", "s'endormissent" ],
+  "subjonctifPasse": [ "me sois endormi(e)", "te sois endormi(e)", "se soit endormi(e)", "nous soyons endormi(e)s", "vous soyez endormi(e)(s)", "se soient endormi(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse endormi(e)", "te fusses endormi(e)", "se fût endormi(e)", "nous fussions endormi(e)s", "vous fussiez endormi(e)(s)", "se fussent endormi(e)s" ],
+  "conditionnelPresent": [ "m'endormirais", "t'endormirais", "s'endormirait", "nous endormirions", "vous endormiriez", "s'endormiraient" ],
+  "conditionnelPasse": [ "me serais endormi(e)", "te serais endormi(e)", "se serait endormi(e)", "nous serions endormi(e)s", "vous seriez endormi(e)(s)", "se seraient endormi(e)s" ],
+  "conditionnelPasseII": [ "me fusse endormi(e)", "te fusses endormi(e)", "se fût endormi(e)", "nous fussions endormi(e)s", "vous fussiez endormi(e)(s)", "se fussent endormi(e)s" ],
+  "imperatif": [ "–", "endors-toi !", "–", "endormons-nous !", "endormez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "profiter",
+  "participePresent": "profitant",
+  "participePasse": "profité",
+  "present": [ "profite", "profites", "profite", "profitons", "profitez", "profitent" ],
+  "imparfait": [ "profitais", "profitais", "profitait", "profitions", "profitiez", "profitaient" ],
+  "passeSimple": [ "profitai", "profitas", "profita", "profitâmes", "profitâtes", "profitèrent" ],
+  "futurSimple": [ "profiterai", "profiteras", "profitera", "profiterons", "profiterez", "profiteront" ],
+  "passeCompose": [ "ai profité", "as profité", "a profité", "avons profité", "avez profité", "ont profité" ],
+  "plusQueParfait": [ "avais profité", "avais profité", "avait profité", "avions profité", "aviez profité", "avaient profité" ],
+  "passeAnterieur": [ "eus profité", "eus profité", "eut profité", "eûmes profité", "eûtes profité", "eurent profité" ],
+  "futurAnterieur": [ "aurai profité", "auras profité", "aura profité", "aurons profité", "aurez profité", "auront profité" ],
+  "subjonctifPresent": [ "profite", "profites", "profite", "profitions", "profitiez", "profitent" ],
+  "subjonctifImparfait": [ "profitasse", "profitasses", "profitât", "profitassions", "profitassiez", "profitassent" ],
+  "subjonctifPasse": [ "aie profité", "aies profité", "ait profité", "ayons profité", "ayez profité", "aient profité" ],
+  "subjonctifPlusQueParfait": [ "eusse profité", "eusses profité", "eût profité", "eussions profité", "eussiez profité", "eussent profité" ],
+  "conditionnelPresent": [ "profiterais", "profiterais", "profiterait", "profiterions", "profiteriez", "profiteraient" ],
+  "conditionnelPasse": [ "aurais profité", "aurais profité", "aurait profité", "aurions profité", "auriez profité", "auraient profité" ],
+  "conditionnelPasseII": [ "eusse profité", "eusses profité", "eût profité", "eussions profité", "eussiez profité", "eussent profité" ],
+  "imperatif": [ "–", "profite !", "–", "profitons !", "profitez !", "–" ],
+  "imperatifPasse": [ "–", "aie profité !", "–", "ayons profité !", "ayez profité !", "–" ]
+}

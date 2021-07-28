@@ -1,0 +1,22 @@
+{
+  "infinitif": "retirer",
+  "participePresent": "retirant",
+  "participePasse": "retiré",
+  "present": [ "retire", "retires", "retire", "retirons", "retirez", "retirent" ],
+  "imparfait": [ "retirais", "retirais", "retirait", "retirions", "retiriez", "retiraient" ],
+  "passeSimple": [ "retirai", "retiras", "retira", "retirâmes", "retirâtes", "retirèrent" ],
+  "futurSimple": [ "retirerai", "retireras", "retirera", "retirerons", "retirerez", "retireront" ],
+  "passeCompose": [ "ai retiré", "as retiré", "a retiré", "avons retiré", "avez retiré", "ont retiré" ],
+  "plusQueParfait": [ "avais retiré", "avais retiré", "avait retiré", "avions retiré", "aviez retiré", "avaient retiré" ],
+  "passeAnterieur": [ "eus retiré", "eus retiré", "eut retiré", "eûmes retiré", "eûtes retiré", "eurent retiré" ],
+  "futurAnterieur": [ "aurai retiré", "auras retiré", "aura retiré", "aurons retiré", "aurez retiré", "auront retiré" ],
+  "subjonctifPresent": [ "retire", "retires", "retire", "retirions", "retiriez", "retirent" ],
+  "subjonctifImparfait": [ "retirasse", "retirasses", "retirât", "retirassions", "retirassiez", "retirassent" ],
+  "subjonctifPasse": [ "aie retiré", "aies retiré", "ait retiré", "ayons retiré", "ayez retiré", "aient retiré" ],
+  "subjonctifPlusQueParfait": [ "eusse retiré", "eusses retiré", "eût retiré", "eussions retiré", "eussiez retiré", "eussent retiré" ],
+  "conditionnelPresent": [ "retirerais", "retirerais", "retirerait", "retirerions", "retireriez", "retireraient" ],
+  "conditionnelPasse": [ "aurais retiré", "aurais retiré", "aurait retiré", "aurions retiré", "auriez retiré", "auraient retiré" ],
+  "conditionnelPasseII": [ "eusse retiré", "eusses retiré", "eût retiré", "eussions retiré", "eussiez retiré", "eussent retiré" ],
+  "imperatif": [ "–", "retire !", "–", "retirons !", "retirez !", "–" ],
+  "imperatifPasse": [ "–", "aie retiré !", "–", "ayons retiré !", "ayez retiré !", "–" ]
+}

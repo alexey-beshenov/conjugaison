@@ -1,0 +1,22 @@
+{
+  "infinitif": "crier",
+  "participePresent": "criant",
+  "participePasse": "crié",
+  "present": [ "crie", "cries", "crie", "crions", "criez", "crient" ],
+  "imparfait": [ "criais", "criais", "criait", "criions", "criiez", "criaient" ],
+  "passeSimple": [ "criai", "crias", "cria", "criâmes", "criâtes", "crièrent" ],
+  "futurSimple": [ "crierai", "crieras", "criera", "crierons", "crierez", "crieront" ],
+  "passeCompose": [ "ai crié", "as crié", "a crié", "avons crié", "avez crié", "ont crié" ],
+  "plusQueParfait": [ "avais crié", "avais crié", "avait crié", "avions crié", "aviez crié", "avaient crié" ],
+  "passeAnterieur": [ "eus crié", "eus crié", "eut crié", "eûmes crié", "eûtes crié", "eurent crié" ],
+  "futurAnterieur": [ "aurai crié", "auras crié", "aura crié", "aurons crié", "aurez crié", "auront crié" ],
+  "subjonctifPresent": [ "crie", "cries", "crie", "criions", "criiez", "crient" ],
+  "subjonctifImparfait": [ "criasse", "criasses", "criât", "criassions", "criassiez", "criassent" ],
+  "subjonctifPasse": [ "aie crié", "aies crié", "ait crié", "ayons crié", "ayez crié", "aient crié" ],
+  "subjonctifPlusQueParfait": [ "eusse crié", "eusses crié", "eût crié", "eussions crié", "eussiez crié", "eussent crié" ],
+  "conditionnelPresent": [ "crierais", "crierais", "crierait", "crierions", "crieriez", "crieraient" ],
+  "conditionnelPasse": [ "aurais crié", "aurais crié", "aurait crié", "aurions crié", "auriez crié", "auraient crié" ],
+  "conditionnelPasseII": [ "eusse crié", "eusses crié", "eût crié", "eussions crié", "eussiez crié", "eussent crié" ],
+  "imperatif": [ "–", "crie !", "–", "crions !", "criez !", "–" ],
+  "imperatifPasse": [ "–", "aie crié !", "–", "ayons crié !", "ayez crié !", "–" ]
+}

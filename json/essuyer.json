@@ -1,0 +1,22 @@
+{
+  "infinitif": "essuyer",
+  "participePresent": "essuyant",
+  "participePasse": "essuyé",
+  "present": [ "essuie", "essuies", "essuie", "essuyons", "essuyez", "essuient" ],
+  "imparfait": [ "essuyais", "essuyais", "essuyait", "essuyions", "essuyiez", "essuyaient" ],
+  "passeSimple": [ "essuyai", "essuyas", "essuya", "essuyâmes", "essuyâtes", "essuyèrent" ],
+  "futurSimple": [ "essuierai", "essuieras", "essuiera", "essuierons", "essuierez", "essuieront" ],
+  "passeCompose": [ "ai essuyé", "as essuyé", "a essuyé", "avons essuyé", "avez essuyé", "ont essuyé" ],
+  "plusQueParfait": [ "avais essuyé", "avais essuyé", "avait essuyé", "avions essuyé", "aviez essuyé", "avaient essuyé" ],
+  "passeAnterieur": [ "eus essuyé", "eus essuyé", "eut essuyé", "eûmes essuyé", "eûtes essuyé", "eurent essuyé" ],
+  "futurAnterieur": [ "aurai essuyé", "auras essuyé", "aura essuyé", "aurons essuyé", "aurez essuyé", "auront essuyé" ],
+  "subjonctifPresent": [ "essuie", "essuies", "essuie", "essuyions", "essuyiez", "essuient" ],
+  "subjonctifImparfait": [ "essuyasse", "essuyasses", "essuyât", "essuyassions", "essuyassiez", "essuyassent" ],
+  "subjonctifPasse": [ "aie essuyé", "aies essuyé", "ait essuyé", "ayons essuyé", "ayez essuyé", "aient essuyé" ],
+  "subjonctifPlusQueParfait": [ "eusse essuyé", "eusses essuyé", "eût essuyé", "eussions essuyé", "eussiez essuyé", "eussent essuyé" ],
+  "conditionnelPresent": [ "essuierais", "essuierais", "essuierait", "essuierions", "essuieriez", "essuieraient" ],
+  "conditionnelPasse": [ "aurais essuyé", "aurais essuyé", "aurait essuyé", "aurions essuyé", "auriez essuyé", "auraient essuyé" ],
+  "conditionnelPasseII": [ "eusse essuyé", "eusses essuyé", "eût essuyé", "eussions essuyé", "eussiez essuyé", "eussent essuyé" ],
+  "imperatif": [ "–", "essuie !", "–", "essuyons !", "essuyez !", "–" ],
+  "imperatifPasse": [ "–", "aie essuyé !", "–", "ayons essuyé !", "ayez essuyé !", "–" ]
+}

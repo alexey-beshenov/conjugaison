@@ -1,0 +1,22 @@
+{
+  "infinitif": "appartenir",
+  "participePresent": "appartenant",
+  "participePasse": "appartenu",
+  "present": [ "appartiens", "appartiens", "appartient", "appartenons", "appartenez", "appartiennent" ],
+  "imparfait": [ "appartenais", "appartenais", "appartenait", "appartenions", "apparteniez", "appartenaient" ],
+  "passeSimple": [ "appartins", "appartins", "appartint", "appartînmes", "appartîntes", "appartinrent" ],
+  "futurSimple": [ "appartiendrai", "appartiendras", "appartiendra", "appartiendrons", "appartiendrez", "appartiendront" ],
+  "passeCompose": [ "ai appartenu", "as appartenu", "a appartenu", "avons appartenu", "avez appartenu", "ont appartenu" ],
+  "plusQueParfait": [ "avais appartenu", "avais appartenu", "avait appartenu", "avions appartenu", "aviez appartenu", "avaient appartenu" ],
+  "passeAnterieur": [ "eus appartenu", "eus appartenu", "eut appartenu", "eûmes appartenu", "eûtes appartenu", "eurent appartenu" ],
+  "futurAnterieur": [ "aurai appartenu", "auras appartenu", "aura appartenu", "aurons appartenu", "aurez appartenu", "auront appartenu" ],
+  "subjonctifPresent": [ "appartienne", "appartiennes", "appartienne", "appartenions", "apparteniez", "appartiennent" ],
+  "subjonctifImparfait": [ "appartinsse", "appartinsses", "appartînt", "appartinssions", "appartinssiez", "appartinssent" ],
+  "subjonctifPasse": [ "aie appartenu", "aies appartenu", "ait appartenu", "ayons appartenu", "ayez appartenu", "aient appartenu" ],
+  "subjonctifPlusQueParfait": [ "eusse appartenu", "eusses appartenu", "eût appartenu", "eussions appartenu", "eussiez appartenu", "eussent appartenu" ],
+  "conditionnelPresent": [ "appartiendrais", "appartiendrais", "appartiendrait", "appartiendrions", "appartiendriez", "appartiendraient" ],
+  "conditionnelPasse": [ "aurais appartenu", "aurais appartenu", "aurait appartenu", "aurions appartenu", "auriez appartenu", "auraient appartenu" ],
+  "conditionnelPasseII": [ "eusse appartenu", "eusses appartenu", "eût appartenu", "eussions appartenu", "eussiez appartenu", "eussent appartenu" ],
+  "imperatif": [ "–", "appartiens !", "–", "appartenons !", "appartenez !", "–" ],
+  "imperatifPasse": [ "–", "aie appartenu !", "–", "ayons appartenu !", "ayez appartenu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se passer",
+  "participePresent": "se passant",
+  "participePasse": "passé",
+  "present": [ "me passe", "te passes", "se passe", "nous passons", "vous passez", "se passent" ],
+  "imparfait": [ "me passais", "te passais", "se passait", "nous passions", "vous passiez", "se passaient" ],
+  "passeSimple": [ "me passai", "te passas", "se passa", "nous passâmes", "vous passâtes", "se passèrent" ],
+  "futurSimple": [ "me passerai", "te passeras", "se passera", "nous passerons", "vous passerez", "se passeront" ],
+  "passeCompose": [ "me suis passé(e)", "t'es passé(e)", "s'est passé(e)", "nous sommes passé(e)s", "vous êtes passé(e)(s)", "se sont passé(e)s" ],
+  "plusQueParfait": [ "m'étais passé(e)", "t'étais passé(e)", "s'était passé(e)", "nous étions passé(e)s", "vous étiez passé(e)(s)", "s'étaient passé(e)s" ],
+  "passeAnterieur": [ "me fus passé(e)", "te fus passé(e)", "se fut passé(e)", "nous fûmes passé(e)s", "vous fûtes passé(e)(s)", "se furent passé(e)s" ],
+  "futurAnterieur": [ "me serai passé(e)", "te seras passé(e)", "se sera passé(e)", "nous serons passé(e)s", "vous serez passé(e)(s)", "se seront passé(e)s" ],
+  "subjonctifPresent": [ "me passe", "te passes", "se passe", "nous passions", "vous passiez", "se passent" ],
+  "subjonctifImparfait": [ "me passasse", "te passasses", "se passât", "nous passassions", "vous passassiez", "se passassent" ],
+  "subjonctifPasse": [ "me sois passé(e)", "te sois passé(e)", "se soit passé(e)", "nous soyons passé(e)s", "vous soyez passé(e)(s)", "se soient passé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse passé(e)", "te fusses passé(e)", "se fût passé(e)", "nous fussions passé(e)s", "vous fussiez passé(e)(s)", "se fussent passé(e)s" ],
+  "conditionnelPresent": [ "me passerais", "te passerais", "se passerait", "nous passerions", "vous passeriez", "se passeraient" ],
+  "conditionnelPasse": [ "me serais passé(e)", "te serais passé(e)", "se serait passé(e)", "nous serions passé(e)s", "vous seriez passé(e)(s)", "se seraient passé(e)s" ],
+  "conditionnelPasseII": [ "me fusse passé(e)", "te fusses passé(e)", "se fût passé(e)", "nous fussions passé(e)s", "vous fussiez passé(e)(s)", "se fussent passé(e)s" ],
+  "imperatif": [ "–", "passe-toi !", "–", "passons-nous !", "passez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

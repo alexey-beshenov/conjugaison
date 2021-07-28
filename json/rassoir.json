@@ -1,0 +1,22 @@
+{
+  "infinitif": "rassoir",
+  "participePresent": "rasseyant,",
+  "participePasse": "rassoyant",
+  "present": [ "rassieds, rassois", "rassieds, rassois", "rassied, rassoit", "rasseyons, rassoyons", "rasseyez, rassoyez", "rasseyent, rassoient" ],
+  "imparfait": [ "rasseyais, rassoyais", "rasseyais, rassoyais", "rasseyait, rassoyait", "rasseyions, rassoyions", "rasseyiez, rassoyiez", "rasseyaient, rassoyaient" ],
+  "passeSimple": [ "rassis", "rassis", "rassit", "rassîmes", "rassîtes", "rassirent" ],
+  "futurSimple": [ "rassiérai, rassoirai, rasseyerai", "rassiéras, rassoiras, rasseyeras", "rassiéra, rassoira, rasseyera", "rassiérons, rassoirons, rasseyerons", "rassiérez, rassoirez, rasseyerez", "rassiéront, rassoiront, rasseyeront" ],
+  "passeCompose": [ "ai rassis", "as rassis", "a rassis", "avons rassis", "avez rassis", "ont rassis" ],
+  "plusQueParfait": [ "avais rassis", "avais rassis", "avait rassis", "avions rassis", "aviez rassis", "avaient rassis" ],
+  "passeAnterieur": [ "eus rassis", "eus rassis", "eut rassis", "eûmes rassis", "eûtes rassis", "eurent rassis" ],
+  "futurAnterieur": [ "aurai rassis", "auras rassis", "aura rassis", "aurons rassis", "aurez rassis", "auront rassis" ],
+  "subjonctifPresent": [ "rasseye, rassoie", "rasseyes, rassoies", "rasseye, rassoie", "rasseyions, rassoyions", "rasseyiez, rassoyiez", "rasseyent, rassoient" ],
+  "subjonctifImparfait": [ "rassisse", "rassisses", "rassît", "rassissions", "rassissiez", "rassissent" ],
+  "subjonctifPasse": [ "aie rassis", "aies rassis", "ait rassis", "ayons rassis", "ayez rassis", "aient rassis" ],
+  "subjonctifPlusQueParfait": [ "eusse rassis", "eusses rassis", "eût rassis", "eussions rassis", "eussiez rassis", "eussent rassis" ],
+  "conditionnelPresent": [ "rassiérais, rassoirais, rasseyerais", "rassiérais, rassoirais, rasseyerais", "rassiérait, rassoirait, rasseyerait", "rassiérions, rassoirions, rasseyerions", "rassiériez, rassoiriez, rasseyeriez", "rassiéraient, rassoiraient, rasseyeraient" ],
+  "conditionnelPasse": [ "aurais rassis", "aurais rassis", "aurait rassis", "aurions rassis", "auriez rassis", "auraient rassis" ],
+  "conditionnelPasseII": [ "eusse rassis", "eusses rassis", "eût rassis", "eussions rassis", "eussiez rassis", "eussent rassis" ],
+  "imperatif": [ "–", "rassieds, rassois !", "–", "rasseyons, rassoyons !", "rasseyez, rassoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie rassis !", "–", "ayons rassis !", "ayez rassis !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "mériter",
+  "participePresent": "méritant",
+  "participePasse": "mérité",
+  "present": [ "mérite", "mérites", "mérite", "méritons", "méritez", "méritent" ],
+  "imparfait": [ "méritais", "méritais", "méritait", "méritions", "méritiez", "méritaient" ],
+  "passeSimple": [ "méritai", "méritas", "mérita", "méritâmes", "méritâtes", "méritèrent" ],
+  "futurSimple": [ "mériterai", "mériteras", "méritera", "mériterons", "mériterez", "mériteront" ],
+  "passeCompose": [ "ai mérité", "as mérité", "a mérité", "avons mérité", "avez mérité", "ont mérité" ],
+  "plusQueParfait": [ "avais mérité", "avais mérité", "avait mérité", "avions mérité", "aviez mérité", "avaient mérité" ],
+  "passeAnterieur": [ "eus mérité", "eus mérité", "eut mérité", "eûmes mérité", "eûtes mérité", "eurent mérité" ],
+  "futurAnterieur": [ "aurai mérité", "auras mérité", "aura mérité", "aurons mérité", "aurez mérité", "auront mérité" ],
+  "subjonctifPresent": [ "mérite", "mérites", "mérite", "méritions", "méritiez", "méritent" ],
+  "subjonctifImparfait": [ "méritasse", "méritasses", "méritât", "méritassions", "méritassiez", "méritassent" ],
+  "subjonctifPasse": [ "aie mérité", "aies mérité", "ait mérité", "ayons mérité", "ayez mérité", "aient mérité" ],
+  "subjonctifPlusQueParfait": [ "eusse mérité", "eusses mérité", "eût mérité", "eussions mérité", "eussiez mérité", "eussent mérité" ],
+  "conditionnelPresent": [ "mériterais", "mériterais", "mériterait", "mériterions", "mériteriez", "mériteraient" ],
+  "conditionnelPasse": [ "aurais mérité", "aurais mérité", "aurait mérité", "aurions mérité", "auriez mérité", "auraient mérité" ],
+  "conditionnelPasseII": [ "eusse mérité", "eusses mérité", "eût mérité", "eussions mérité", "eussiez mérité", "eussent mérité" ],
+  "imperatif": [ "–", "mérite !", "–", "méritons !", "méritez !", "–" ],
+  "imperatifPasse": [ "–", "aie mérité !", "–", "ayons mérité !", "ayez mérité !", "–" ]
+}

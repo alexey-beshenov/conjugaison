@@ -1,0 +1,22 @@
+{
+  "infinitif": "se terminer",
+  "participePresent": "se terminant",
+  "participePasse": "terminé",
+  "present": [ "me termine", "te termines", "se termine", "nous terminons", "vous terminez", "se terminent" ],
+  "imparfait": [ "me terminais", "te terminais", "se terminait", "nous terminions", "vous terminiez", "se terminaient" ],
+  "passeSimple": [ "me terminai", "te terminas", "se termina", "nous terminâmes", "vous terminâtes", "se terminèrent" ],
+  "futurSimple": [ "me terminerai", "te termineras", "se terminera", "nous terminerons", "vous terminerez", "se termineront" ],
+  "passeCompose": [ "me suis terminé(e)", "t'es terminé(e)", "s'est terminé(e)", "nous sommes terminé(e)s", "vous êtes terminé(e)(s)", "se sont terminé(e)s" ],
+  "plusQueParfait": [ "m'étais terminé(e)", "t'étais terminé(e)", "s'était terminé(e)", "nous étions terminé(e)s", "vous étiez terminé(e)(s)", "s'étaient terminé(e)s" ],
+  "passeAnterieur": [ "me fus terminé(e)", "te fus terminé(e)", "se fut terminé(e)", "nous fûmes terminé(e)s", "vous fûtes terminé(e)(s)", "se furent terminé(e)s" ],
+  "futurAnterieur": [ "me serai terminé(e)", "te seras terminé(e)", "se sera terminé(e)", "nous serons terminé(e)s", "vous serez terminé(e)(s)", "se seront terminé(e)s" ],
+  "subjonctifPresent": [ "me termine", "te termines", "se termine", "nous terminions", "vous terminiez", "se terminent" ],
+  "subjonctifImparfait": [ "me terminasse", "te terminasses", "se terminât", "nous terminassions", "vous terminassiez", "se terminassent" ],
+  "subjonctifPasse": [ "me sois terminé(e)", "te sois terminé(e)", "se soit terminé(e)", "nous soyons terminé(e)s", "vous soyez terminé(e)(s)", "se soient terminé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse terminé(e)", "te fusses terminé(e)", "se fût terminé(e)", "nous fussions terminé(e)s", "vous fussiez terminé(e)(s)", "se fussent terminé(e)s" ],
+  "conditionnelPresent": [ "me terminerais", "te terminerais", "se terminerait", "nous terminerions", "vous termineriez", "se termineraient" ],
+  "conditionnelPasse": [ "me serais terminé(e)", "te serais terminé(e)", "se serait terminé(e)", "nous serions terminé(e)s", "vous seriez terminé(e)(s)", "se seraient terminé(e)s" ],
+  "conditionnelPasseII": [ "me fusse terminé(e)", "te fusses terminé(e)", "se fût terminé(e)", "nous fussions terminé(e)s", "vous fussiez terminé(e)(s)", "se fussent terminé(e)s" ],
+  "imperatif": [ "–", "termine-toi !", "–", "terminons-nous !", "terminez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

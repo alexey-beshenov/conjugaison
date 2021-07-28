@@ -1,0 +1,22 @@
+{
+  "infinitif": "coûter",
+  "participePresent": "coûtant",
+  "participePasse": "coûté",
+  "present": [ "coûte", "coûtes", "coûte", "coûtons", "coûtez", "coûtent" ],
+  "imparfait": [ "coûtais", "coûtais", "coûtait", "coûtions", "coûtiez", "coûtaient" ],
+  "passeSimple": [ "coûtai", "coûtas", "coûta", "coûtâmes", "coûtâtes", "coûtèrent" ],
+  "futurSimple": [ "coûterai", "coûteras", "coûtera", "coûterons", "coûterez", "coûteront" ],
+  "passeCompose": [ "ai coûté", "as coûté", "a coûté", "avons coûté", "avez coûté", "ont coûté" ],
+  "plusQueParfait": [ "avais coûté", "avais coûté", "avait coûté", "avions coûté", "aviez coûté", "avaient coûté" ],
+  "passeAnterieur": [ "eus coûté", "eus coûté", "eut coûté", "eûmes coûté", "eûtes coûté", "eurent coûté" ],
+  "futurAnterieur": [ "aurai coûté", "auras coûté", "aura coûté", "aurons coûté", "aurez coûté", "auront coûté" ],
+  "subjonctifPresent": [ "coûte", "coûtes", "coûte", "coûtions", "coûtiez", "coûtent" ],
+  "subjonctifImparfait": [ "coûtasse", "coûtasses", "coûtât", "coûtassions", "coûtassiez", "coûtassent" ],
+  "subjonctifPasse": [ "aie coûté", "aies coûté", "ait coûté", "ayons coûté", "ayez coûté", "aient coûté" ],
+  "subjonctifPlusQueParfait": [ "eusse coûté", "eusses coûté", "eût coûté", "eussions coûté", "eussiez coûté", "eussent coûté" ],
+  "conditionnelPresent": [ "coûterais", "coûterais", "coûterait", "coûterions", "coûteriez", "coûteraient" ],
+  "conditionnelPasse": [ "aurais coûté", "aurais coûté", "aurait coûté", "aurions coûté", "auriez coûté", "auraient coûté" ],
+  "conditionnelPasseII": [ "eusse coûté", "eusses coûté", "eût coûté", "eussions coûté", "eussiez coûté", "eussent coûté" ],
+  "imperatif": [ "–", "coûte !", "–", "coûtons !", "coûtez !", "–" ],
+  "imperatifPasse": [ "–", "aie coûté !", "–", "ayons coûté !", "ayez coûté !", "–" ]
+}

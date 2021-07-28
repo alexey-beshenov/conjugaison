@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'attacher",
+  "participePresent": "s'attachant",
+  "participePasse": "attaché",
+  "present": [ "m'attache", "t'attaches", "s'attache", "nous attachons", "vous attachez", "s'attachent" ],
+  "imparfait": [ "m'attachais", "t'attachais", "s'attachait", "nous attachions", "vous attachiez", "s'attachaient" ],
+  "passeSimple": [ "m'attachai", "t'attachas", "s'attacha", "nous attachâmes", "vous attachâtes", "s'attachèrent" ],
+  "futurSimple": [ "m'attacherai", "t'attacheras", "s'attachera", "nous attacherons", "vous attacherez", "s'attacheront" ],
+  "passeCompose": [ "me suis attaché(e)", "t'es attaché(e)", "s'est attaché(e)", "nous sommes attaché(e)s", "vous êtes attaché(e)(s)", "se sont attaché(e)s" ],
+  "plusQueParfait": [ "m'étais attaché(e)", "t'étais attaché(e)", "s'était attaché(e)", "nous étions attaché(e)s", "vous étiez attaché(e)(s)", "s'étaient attaché(e)s" ],
+  "passeAnterieur": [ "me fus attaché(e)", "te fus attaché(e)", "se fut attaché(e)", "nous fûmes attaché(e)s", "vous fûtes attaché(e)(s)", "se furent attaché(e)s" ],
+  "futurAnterieur": [ "me serai attaché(e)", "te seras attaché(e)", "se sera attaché(e)", "nous serons attaché(e)s", "vous serez attaché(e)(s)", "se seront attaché(e)s" ],
+  "subjonctifPresent": [ "m'attache", "t'attaches", "s'attache", "nous attachions", "vous attachiez", "s'attachent" ],
+  "subjonctifImparfait": [ "m'attachasse", "t'attachasses", "s'attachât", "nous attachassions", "vous attachassiez", "s'attachassent" ],
+  "subjonctifPasse": [ "me sois attaché(e)", "te sois attaché(e)", "se soit attaché(e)", "nous soyons attaché(e)s", "vous soyez attaché(e)(s)", "se soient attaché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse attaché(e)", "te fusses attaché(e)", "se fût attaché(e)", "nous fussions attaché(e)s", "vous fussiez attaché(e)(s)", "se fussent attaché(e)s" ],
+  "conditionnelPresent": [ "m'attacherais", "t'attacherais", "s'attacherait", "nous attacherions", "vous attacheriez", "s'attacheraient" ],
+  "conditionnelPasse": [ "me serais attaché(e)", "te serais attaché(e)", "se serait attaché(e)", "nous serions attaché(e)s", "vous seriez attaché(e)(s)", "se seraient attaché(e)s" ],
+  "conditionnelPasseII": [ "me fusse attaché(e)", "te fusses attaché(e)", "se fût attaché(e)", "nous fussions attaché(e)s", "vous fussiez attaché(e)(s)", "se fussent attaché(e)s" ],
+  "imperatif": [ "–", "attache-toi !", "–", "attachons-nous !", "attachez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

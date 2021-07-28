@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rendre",
+  "participePresent": "se rendant",
+  "participePasse": "rendu",
+  "present": [ "me rends", "te rends", "se rend", "nous rendons", "vous rendez", "se rendent" ],
+  "imparfait": [ "me rendais", "te rendais", "se rendait", "nous rendions", "vous rendiez", "se rendaient" ],
+  "passeSimple": [ "me rendis", "te rendis", "se rendit", "nous rendîmes", "vous rendîtes", "se rendirent" ],
+  "futurSimple": [ "me rendrai", "te rendras", "se rendra", "nous rendrons", "vous rendrez", "se rendront" ],
+  "passeCompose": [ "me suis rendu(e)", "t'es rendu(e)", "s'est rendu(e)", "nous sommes rendu(e)s", "vous êtes rendu(e)(s)", "se sont rendu(e)s" ],
+  "plusQueParfait": [ "m'étais rendu(e)", "t'étais rendu(e)", "s'était rendu(e)", "nous étions rendu(e)s", "vous étiez rendu(e)(s)", "s'étaient rendu(e)s" ],
+  "passeAnterieur": [ "me fus rendu(e)", "te fus rendu(e)", "se fut rendu(e)", "nous fûmes rendu(e)s", "vous fûtes rendu(e)(s)", "se furent rendu(e)s" ],
+  "futurAnterieur": [ "me serai rendu(e)", "te seras rendu(e)", "se sera rendu(e)", "nous serons rendu(e)s", "vous serez rendu(e)(s)", "se seront rendu(e)s" ],
+  "subjonctifPresent": [ "me rende", "te rendes", "se rende", "nous rendions", "vous rendiez", "se rendent" ],
+  "subjonctifImparfait": [ "me rendisse", "te rendisses", "se rendît", "nous rendissions", "vous rendissiez", "se rendissent" ],
+  "subjonctifPasse": [ "me sois rendu(e)", "te sois rendu(e)", "se soit rendu(e)", "nous soyons rendu(e)s", "vous soyez rendu(e)(s)", "se soient rendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rendu(e)", "te fusses rendu(e)", "se fût rendu(e)", "nous fussions rendu(e)s", "vous fussiez rendu(e)(s)", "se fussent rendu(e)s" ],
+  "conditionnelPresent": [ "me rendrais", "te rendrais", "se rendrait", "nous rendrions", "vous rendriez", "se rendraient" ],
+  "conditionnelPasse": [ "me serais rendu(e)", "te serais rendu(e)", "se serait rendu(e)", "nous serions rendu(e)s", "vous seriez rendu(e)(s)", "se seraient rendu(e)s" ],
+  "conditionnelPasseII": [ "me fusse rendu(e)", "te fusses rendu(e)", "se fût rendu(e)", "nous fussions rendu(e)s", "vous fussiez rendu(e)(s)", "se fussent rendu(e)s" ],
+  "imperatif": [ "–", "rends-toi !", "–", "rendons-nous !", "rendez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

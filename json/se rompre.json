@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rompre",
+  "participePresent": "se rompant",
+  "participePasse": "rompu",
+  "present": [ "me romps", "te romps", "se rompt", "nous rompons", "vous rompez", "se rompent" ],
+  "imparfait": [ "me rompais", "te rompais", "se rompait", "nous rompions", "vous rompiez", "se rompaient" ],
+  "passeSimple": [ "me rompis", "te rompis", "se rompit", "nous rompîmes", "vous rompîtes", "se rompirent" ],
+  "futurSimple": [ "me romprai", "te rompras", "se rompra", "nous romprons", "vous romprez", "se rompront" ],
+  "passeCompose": [ "me suis rompu(e)", "t'es rompu(e)", "s'est rompu(e)", "nous sommes rompu(e)s", "vous êtes rompu(e)(s)", "se sont rompu(e)s" ],
+  "plusQueParfait": [ "m'étais rompu(e)", "t'étais rompu(e)", "s'était rompu(e)", "nous étions rompu(e)s", "vous étiez rompu(e)(s)", "s'étaient rompu(e)s" ],
+  "passeAnterieur": [ "me fus rompu(e)", "te fus rompu(e)", "se fut rompu(e)", "nous fûmes rompu(e)s", "vous fûtes rompu(e)(s)", "se furent rompu(e)s" ],
+  "futurAnterieur": [ "me serai rompu(e)", "te seras rompu(e)", "se sera rompu(e)", "nous serons rompu(e)s", "vous serez rompu(e)(s)", "se seront rompu(e)s" ],
+  "subjonctifPresent": [ "me rompe", "te rompes", "se rompe", "nous rompions", "vous rompiez", "se rompent" ],
+  "subjonctifImparfait": [ "me rompisse", "te rompisses", "se rompît", "nous rompissions", "vous rompissiez", "se rompissent" ],
+  "subjonctifPasse": [ "me sois rompu(e)", "te sois rompu(e)", "se soit rompu(e)", "nous soyons rompu(e)s", "vous soyez rompu(e)(s)", "se soient rompu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rompu(e)", "te fusses rompu(e)", "se fût rompu(e)", "nous fussions rompu(e)s", "vous fussiez rompu(e)(s)", "se fussent rompu(e)s" ],
+  "conditionnelPresent": [ "me romprais", "te romprais", "se romprait", "nous romprions", "vous rompriez", "se rompraient" ],
+  "conditionnelPasse": [ "me serais rompu(e)", "te serais rompu(e)", "se serait rompu(e)", "nous serions rompu(e)s", "vous seriez rompu(e)(s)", "se seraient rompu(e)s" ],
+  "conditionnelPasseII": [ "me fusse rompu(e)", "te fusses rompu(e)", "se fût rompu(e)", "nous fussions rompu(e)s", "vous fussiez rompu(e)(s)", "se fussent rompu(e)s" ],
+  "imperatif": [ "–", "romps-toi !", "–", "rompons-nous !", "rompez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "ramasser",
+  "participePresent": "ramassant",
+  "participePasse": "ramassé",
+  "present": [ "ramasse", "ramasses", "ramasse", "ramassons", "ramassez", "ramassent" ],
+  "imparfait": [ "ramassais", "ramassais", "ramassait", "ramassions", "ramassiez", "ramassaient" ],
+  "passeSimple": [ "ramassai", "ramassas", "ramassa", "ramassâmes", "ramassâtes", "ramassèrent" ],
+  "futurSimple": [ "ramasserai", "ramasseras", "ramassera", "ramasserons", "ramasserez", "ramasseront" ],
+  "passeCompose": [ "ai ramassé", "as ramassé", "a ramassé", "avons ramassé", "avez ramassé", "ont ramassé" ],
+  "plusQueParfait": [ "avais ramassé", "avais ramassé", "avait ramassé", "avions ramassé", "aviez ramassé", "avaient ramassé" ],
+  "passeAnterieur": [ "eus ramassé", "eus ramassé", "eut ramassé", "eûmes ramassé", "eûtes ramassé", "eurent ramassé" ],
+  "futurAnterieur": [ "aurai ramassé", "auras ramassé", "aura ramassé", "aurons ramassé", "aurez ramassé", "auront ramassé" ],
+  "subjonctifPresent": [ "ramasse", "ramasses", "ramasse", "ramassions", "ramassiez", "ramassent" ],
+  "subjonctifImparfait": [ "ramassasse", "ramassasses", "ramassât", "ramassassions", "ramassassiez", "ramassassent" ],
+  "subjonctifPasse": [ "aie ramassé", "aies ramassé", "ait ramassé", "ayons ramassé", "ayez ramassé", "aient ramassé" ],
+  "subjonctifPlusQueParfait": [ "eusse ramassé", "eusses ramassé", "eût ramassé", "eussions ramassé", "eussiez ramassé", "eussent ramassé" ],
+  "conditionnelPresent": [ "ramasserais", "ramasserais", "ramasserait", "ramasserions", "ramasseriez", "ramasseraient" ],
+  "conditionnelPasse": [ "aurais ramassé", "aurais ramassé", "aurait ramassé", "aurions ramassé", "auriez ramassé", "auraient ramassé" ],
+  "conditionnelPasseII": [ "eusse ramassé", "eusses ramassé", "eût ramassé", "eussions ramassé", "eussiez ramassé", "eussent ramassé" ],
+  "imperatif": [ "–", "ramasse !", "–", "ramassons !", "ramassez !", "–" ],
+  "imperatifPasse": [ "–", "aie ramassé !", "–", "ayons ramassé !", "ayez ramassé !", "–" ]
+}

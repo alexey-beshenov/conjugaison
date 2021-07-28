@@ -1,0 +1,22 @@
+{
+  "infinitif": "ramener",
+  "participePresent": "ramenant",
+  "participePasse": "ramené",
+  "present": [ "ramène", "ramènes", "ramène", "ramenons", "ramenez", "ramènent" ],
+  "imparfait": [ "ramenais", "ramenais", "ramenait", "ramenions", "rameniez", "ramenaient" ],
+  "passeSimple": [ "ramenai", "ramenas", "ramena", "ramenâmes", "ramenâtes", "ramenèrent" ],
+  "futurSimple": [ "ramènerai", "ramèneras", "ramènera", "ramènerons", "ramènerez", "ramèneront" ],
+  "passeCompose": [ "ai ramené", "as ramené", "a ramené", "avons ramené", "avez ramené", "ont ramené" ],
+  "plusQueParfait": [ "avais ramené", "avais ramené", "avait ramené", "avions ramené", "aviez ramené", "avaient ramené" ],
+  "passeAnterieur": [ "eus ramené", "eus ramené", "eut ramené", "eûmes ramené", "eûtes ramené", "eurent ramené" ],
+  "futurAnterieur": [ "aurai ramené", "auras ramené", "aura ramené", "aurons ramené", "aurez ramené", "auront ramené" ],
+  "subjonctifPresent": [ "ramène", "ramènes", "ramène", "ramenions", "rameniez", "ramènent" ],
+  "subjonctifImparfait": [ "ramenasse", "ramenasses", "ramenât", "ramenassions", "ramenassiez", "ramenassent" ],
+  "subjonctifPasse": [ "aie ramené", "aies ramené", "ait ramené", "ayons ramené", "ayez ramené", "aient ramené" ],
+  "subjonctifPlusQueParfait": [ "eusse ramené", "eusses ramené", "eût ramené", "eussions ramené", "eussiez ramené", "eussent ramené" ],
+  "conditionnelPresent": [ "ramènerais", "ramènerais", "ramènerait", "ramènerions", "ramèneriez", "ramèneraient" ],
+  "conditionnelPasse": [ "aurais ramené", "aurais ramené", "aurait ramené", "aurions ramené", "auriez ramené", "auraient ramené" ],
+  "conditionnelPasseII": [ "eusse ramené", "eusses ramené", "eût ramené", "eussions ramené", "eussiez ramené", "eussent ramené" ],
+  "imperatif": [ "–", "ramène !", "–", "ramenons !", "ramenez !", "–" ],
+  "imperatifPasse": [ "–", "aie ramené !", "–", "ayons ramené !", "ayez ramené !", "–" ]
+}

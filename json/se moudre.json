@@ -1,0 +1,22 @@
+{
+  "infinitif": "se moudre",
+  "participePresent": "se moulant",
+  "participePasse": "moulu",
+  "present": [ "me mouds", "te mouds", "se moud", "nous moulons", "vous moulez", "se moulent" ],
+  "imparfait": [ "me moulais", "te moulais", "se moulait", "nous moulions", "vous mouliez", "se moulaient" ],
+  "passeSimple": [ "me moulus", "te moulus", "se moulut", "nous moulûmes", "vous moulûtes", "se moulurent" ],
+  "futurSimple": [ "me moudrai", "te moudras", "se moudra", "nous moudrons", "vous moudrez", "se moudront" ],
+  "passeCompose": [ "me suis moulu(e)", "t'es moulu(e)", "s'est moulu(e)", "nous sommes moulu(e)s", "vous êtes moulu(e)(s)", "se sont moulu(e)s" ],
+  "plusQueParfait": [ "m'étais moulu(e)", "t'étais moulu(e)", "s'était moulu(e)", "nous étions moulu(e)s", "vous étiez moulu(e)(s)", "s'étaient moulu(e)s" ],
+  "passeAnterieur": [ "me fus moulu(e)", "te fus moulu(e)", "se fut moulu(e)", "nous fûmes moulu(e)s", "vous fûtes moulu(e)(s)", "se furent moulu(e)s" ],
+  "futurAnterieur": [ "me serai moulu(e)", "te seras moulu(e)", "se sera moulu(e)", "nous serons moulu(e)s", "vous serez moulu(e)(s)", "se seront moulu(e)s" ],
+  "subjonctifPresent": [ "me moule", "te moules", "se moule", "nous moulions", "vous mouliez", "se moulent" ],
+  "subjonctifImparfait": [ "me moulusse", "te moulusses", "se moulût", "nous moulussions", "vous moulussiez", "se moulussent" ],
+  "subjonctifPasse": [ "me sois moulu(e)", "te sois moulu(e)", "se soit moulu(e)", "nous soyons moulu(e)s", "vous soyez moulu(e)(s)", "se soient moulu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse moulu(e)", "te fusses moulu(e)", "se fût moulu(e)", "nous fussions moulu(e)s", "vous fussiez moulu(e)(s)", "se fussent moulu(e)s" ],
+  "conditionnelPresent": [ "me moudrais", "te moudrais", "se moudrait", "nous moudrions", "vous moudriez", "se moudraient" ],
+  "conditionnelPasse": [ "me serais moulu(e)", "te serais moulu(e)", "se serait moulu(e)", "nous serions moulu(e)s", "vous seriez moulu(e)(s)", "se seraient moulu(e)s" ],
+  "conditionnelPasseII": [ "me fusse moulu(e)", "te fusses moulu(e)", "se fût moulu(e)", "nous fussions moulu(e)s", "vous fussiez moulu(e)(s)", "se fussent moulu(e)s" ],
+  "imperatif": [ "–", "mouds-toi !", "–", "moulons-nous !", "moulez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

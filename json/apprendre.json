@@ -1,0 +1,22 @@
+{
+  "infinitif": "apprendre",
+  "participePresent": "apprenant",
+  "participePasse": "appris",
+  "present": [ "apprends", "apprends", "apprend", "apprenons", "apprenez", "apprennent" ],
+  "imparfait": [ "apprenais", "apprenais", "apprenait", "apprenions", "appreniez", "apprenaient" ],
+  "passeSimple": [ "appris", "appris", "apprit", "apprîmes", "apprîtes", "apprirent" ],
+  "futurSimple": [ "apprendrai", "apprendras", "apprendra", "apprendrons", "apprendrez", "apprendront" ],
+  "passeCompose": [ "ai appris", "as appris", "a appris", "avons appris", "avez appris", "ont appris" ],
+  "plusQueParfait": [ "avais appris", "avais appris", "avait appris", "avions appris", "aviez appris", "avaient appris" ],
+  "passeAnterieur": [ "eus appris", "eus appris", "eut appris", "eûmes appris", "eûtes appris", "eurent appris" ],
+  "futurAnterieur": [ "aurai appris", "auras appris", "aura appris", "aurons appris", "aurez appris", "auront appris" ],
+  "subjonctifPresent": [ "apprenne", "apprennes", "apprenne", "apprenions", "appreniez", "apprennent" ],
+  "subjonctifImparfait": [ "apprisse", "apprisses", "apprît", "apprissions", "apprissiez", "apprissent" ],
+  "subjonctifPasse": [ "aie appris", "aies appris", "ait appris", "ayons appris", "ayez appris", "aient appris" ],
+  "subjonctifPlusQueParfait": [ "eusse appris", "eusses appris", "eût appris", "eussions appris", "eussiez appris", "eussent appris" ],
+  "conditionnelPresent": [ "apprendrais", "apprendrais", "apprendrait", "apprendrions", "apprendriez", "apprendraient" ],
+  "conditionnelPasse": [ "aurais appris", "aurais appris", "aurait appris", "aurions appris", "auriez appris", "auraient appris" ],
+  "conditionnelPasseII": [ "eusse appris", "eusses appris", "eût appris", "eussions appris", "eussiez appris", "eussent appris" ],
+  "imperatif": [ "–", "apprends !", "–", "apprenons !", "apprenez !", "–" ],
+  "imperatifPasse": [ "–", "aie appris !", "–", "ayons appris !", "ayez appris !", "–" ]
+}

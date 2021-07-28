@@ -1,0 +1,22 @@
+{
+  "infinitif": "se couper",
+  "participePresent": "se coupant",
+  "participePasse": "coupé",
+  "present": [ "me coupe", "te coupes", "se coupe", "nous coupons", "vous coupez", "se coupent" ],
+  "imparfait": [ "me coupais", "te coupais", "se coupait", "nous coupions", "vous coupiez", "se coupaient" ],
+  "passeSimple": [ "me coupai", "te coupas", "se coupa", "nous coupâmes", "vous coupâtes", "se coupèrent" ],
+  "futurSimple": [ "me couperai", "te couperas", "se coupera", "nous couperons", "vous couperez", "se couperont" ],
+  "passeCompose": [ "me suis coupé(e)", "t'es coupé(e)", "s'est coupé(e)", "nous sommes coupé(e)s", "vous êtes coupé(e)(s)", "se sont coupé(e)s" ],
+  "plusQueParfait": [ "m'étais coupé(e)", "t'étais coupé(e)", "s'était coupé(e)", "nous étions coupé(e)s", "vous étiez coupé(e)(s)", "s'étaient coupé(e)s" ],
+  "passeAnterieur": [ "me fus coupé(e)", "te fus coupé(e)", "se fut coupé(e)", "nous fûmes coupé(e)s", "vous fûtes coupé(e)(s)", "se furent coupé(e)s" ],
+  "futurAnterieur": [ "me serai coupé(e)", "te seras coupé(e)", "se sera coupé(e)", "nous serons coupé(e)s", "vous serez coupé(e)(s)", "se seront coupé(e)s" ],
+  "subjonctifPresent": [ "me coupe", "te coupes", "se coupe", "nous coupions", "vous coupiez", "se coupent" ],
+  "subjonctifImparfait": [ "me coupasse", "te coupasses", "se coupât", "nous coupassions", "vous coupassiez", "se coupassent" ],
+  "subjonctifPasse": [ "me sois coupé(e)", "te sois coupé(e)", "se soit coupé(e)", "nous soyons coupé(e)s", "vous soyez coupé(e)(s)", "se soient coupé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse coupé(e)", "te fusses coupé(e)", "se fût coupé(e)", "nous fussions coupé(e)s", "vous fussiez coupé(e)(s)", "se fussent coupé(e)s" ],
+  "conditionnelPresent": [ "me couperais", "te couperais", "se couperait", "nous couperions", "vous couperiez", "se couperaient" ],
+  "conditionnelPasse": [ "me serais coupé(e)", "te serais coupé(e)", "se serait coupé(e)", "nous serions coupé(e)s", "vous seriez coupé(e)(s)", "se seraient coupé(e)s" ],
+  "conditionnelPasseII": [ "me fusse coupé(e)", "te fusses coupé(e)", "se fût coupé(e)", "nous fussions coupé(e)s", "vous fussiez coupé(e)(s)", "se fussent coupé(e)s" ],
+  "imperatif": [ "–", "coupe-toi !", "–", "coupons-nous !", "coupez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

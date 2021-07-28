@@ -1,0 +1,22 @@
+{
+  "infinitif": "grandir",
+  "participePresent": "grandissant",
+  "participePasse": "grandi",
+  "present": [ "grandis", "grandis", "grandit", "grandissons", "grandissez", "grandissent" ],
+  "imparfait": [ "grandissais", "grandissais", "grandissait", "grandissions", "grandissiez", "grandissaient" ],
+  "passeSimple": [ "grandis", "grandis", "grandit", "grandîmes", "grandîtes", "grandirent" ],
+  "futurSimple": [ "grandirai", "grandiras", "grandira", "grandirons", "grandirez", "grandiront" ],
+  "passeCompose": [ "ai grandi", "as grandi", "a grandi", "avons grandi", "avez grandi", "ont grandi" ],
+  "plusQueParfait": [ "avais grandi", "avais grandi", "avait grandi", "avions grandi", "aviez grandi", "avaient grandi" ],
+  "passeAnterieur": [ "eus grandi", "eus grandi", "eut grandi", "eûmes grandi", "eûtes grandi", "eurent grandi" ],
+  "futurAnterieur": [ "aurai grandi", "auras grandi", "aura grandi", "aurons grandi", "aurez grandi", "auront grandi" ],
+  "subjonctifPresent": [ "grandisse", "grandisses", "grandisse", "grandissions", "grandissiez", "grandissent" ],
+  "subjonctifImparfait": [ "grandisse", "grandisses", "grandît", "grandissions", "grandissiez", "grandissent" ],
+  "subjonctifPasse": [ "aie grandi", "aies grandi", "ait grandi", "ayons grandi", "ayez grandi", "aient grandi" ],
+  "subjonctifPlusQueParfait": [ "eusse grandi", "eusses grandi", "eût grandi", "eussions grandi", "eussiez grandi", "eussent grandi" ],
+  "conditionnelPresent": [ "grandirais", "grandirais", "grandirait", "grandirions", "grandiriez", "grandiraient" ],
+  "conditionnelPasse": [ "aurais grandi", "aurais grandi", "aurait grandi", "aurions grandi", "auriez grandi", "auraient grandi" ],
+  "conditionnelPasseII": [ "eusse grandi", "eusses grandi", "eût grandi", "eussions grandi", "eussiez grandi", "eussent grandi" ],
+  "imperatif": [ "–", "grandis !", "–", "grandissons !", "grandissez !", "–" ],
+  "imperatifPasse": [ "–", "aie grandi !", "–", "ayons grandi !", "ayez grandi !", "–" ]
+}

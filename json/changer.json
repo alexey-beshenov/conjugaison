@@ -1,0 +1,22 @@
+{
+  "infinitif": "changer",
+  "participePresent": "changeant",
+  "participePasse": "changé",
+  "present": [ "change", "changes", "change", "changeons", "changez", "changent" ],
+  "imparfait": [ "changeais", "changeais", "changeait", "changions", "changiez", "changeaient" ],
+  "passeSimple": [ "changeai", "changeas", "changea", "changeâmes", "changeâtes", "changèrent" ],
+  "futurSimple": [ "changerai", "changeras", "changera", "changerons", "changerez", "changeront" ],
+  "passeCompose": [ "ai changé", "as changé", "a changé", "avons changé", "avez changé", "ont changé" ],
+  "plusQueParfait": [ "avais changé", "avais changé", "avait changé", "avions changé", "aviez changé", "avaient changé" ],
+  "passeAnterieur": [ "eus changé", "eus changé", "eut changé", "eûmes changé", "eûtes changé", "eurent changé" ],
+  "futurAnterieur": [ "aurai changé", "auras changé", "aura changé", "aurons changé", "aurez changé", "auront changé" ],
+  "subjonctifPresent": [ "change", "changes", "change", "changions", "changiez", "changent" ],
+  "subjonctifImparfait": [ "changeasse", "changeasses", "changeât", "changeassions", "changeassiez", "changeassent" ],
+  "subjonctifPasse": [ "aie changé", "aies changé", "ait changé", "ayons changé", "ayez changé", "aient changé" ],
+  "subjonctifPlusQueParfait": [ "eusse changé", "eusses changé", "eût changé", "eussions changé", "eussiez changé", "eussent changé" ],
+  "conditionnelPresent": [ "changerais", "changerais", "changerait", "changerions", "changeriez", "changeraient" ],
+  "conditionnelPasse": [ "aurais changé", "aurais changé", "aurait changé", "aurions changé", "auriez changé", "auraient changé" ],
+  "conditionnelPasseII": [ "eusse changé", "eusses changé", "eût changé", "eussions changé", "eussiez changé", "eussent changé" ],
+  "imperatif": [ "–", "change !", "–", "changeons !", "changez !", "–" ],
+  "imperatifPasse": [ "–", "aie changé !", "–", "ayons changé !", "ayez changé !", "–" ]
+}

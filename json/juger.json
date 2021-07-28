@@ -1,0 +1,22 @@
+{
+  "infinitif": "juger",
+  "participePresent": "jugeant",
+  "participePasse": "jugé",
+  "present": [ "juge", "juges", "juge", "jugeons", "jugez", "jugent" ],
+  "imparfait": [ "jugeais", "jugeais", "jugeait", "jugions", "jugiez", "jugeaient" ],
+  "passeSimple": [ "jugeai", "jugeas", "jugea", "jugeâmes", "jugeâtes", "jugèrent" ],
+  "futurSimple": [ "jugerai", "jugeras", "jugera", "jugerons", "jugerez", "jugeront" ],
+  "passeCompose": [ "ai jugé", "as jugé", "a jugé", "avons jugé", "avez jugé", "ont jugé" ],
+  "plusQueParfait": [ "avais jugé", "avais jugé", "avait jugé", "avions jugé", "aviez jugé", "avaient jugé" ],
+  "passeAnterieur": [ "eus jugé", "eus jugé", "eut jugé", "eûmes jugé", "eûtes jugé", "eurent jugé" ],
+  "futurAnterieur": [ "aurai jugé", "auras jugé", "aura jugé", "aurons jugé", "aurez jugé", "auront jugé" ],
+  "subjonctifPresent": [ "juge", "juges", "juge", "jugions", "jugiez", "jugent" ],
+  "subjonctifImparfait": [ "jugeasse", "jugeasses", "jugeât", "jugeassions", "jugeassiez", "jugeassent" ],
+  "subjonctifPasse": [ "aie jugé", "aies jugé", "ait jugé", "ayons jugé", "ayez jugé", "aient jugé" ],
+  "subjonctifPlusQueParfait": [ "eusse jugé", "eusses jugé", "eût jugé", "eussions jugé", "eussiez jugé", "eussent jugé" ],
+  "conditionnelPresent": [ "jugerais", "jugerais", "jugerait", "jugerions", "jugeriez", "jugeraient" ],
+  "conditionnelPasse": [ "aurais jugé", "aurais jugé", "aurait jugé", "aurions jugé", "auriez jugé", "auraient jugé" ],
+  "conditionnelPasseII": [ "eusse jugé", "eusses jugé", "eût jugé", "eussions jugé", "eussiez jugé", "eussent jugé" ],
+  "imperatif": [ "–", "juge !", "–", "jugeons !", "jugez !", "–" ],
+  "imperatifPasse": [ "–", "aie jugé !", "–", "ayons jugé !", "ayez jugé !", "–" ]
+}

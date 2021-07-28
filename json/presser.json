@@ -1,0 +1,22 @@
+{
+  "infinitif": "presser",
+  "participePresent": "pressant",
+  "participePasse": "pressé",
+  "present": [ "presse", "presses", "presse", "pressons", "pressez", "pressent" ],
+  "imparfait": [ "pressais", "pressais", "pressait", "pressions", "pressiez", "pressaient" ],
+  "passeSimple": [ "pressai", "pressas", "pressa", "pressâmes", "pressâtes", "pressèrent" ],
+  "futurSimple": [ "presserai", "presseras", "pressera", "presserons", "presserez", "presseront" ],
+  "passeCompose": [ "ai pressé", "as pressé", "a pressé", "avons pressé", "avez pressé", "ont pressé" ],
+  "plusQueParfait": [ "avais pressé", "avais pressé", "avait pressé", "avions pressé", "aviez pressé", "avaient pressé" ],
+  "passeAnterieur": [ "eus pressé", "eus pressé", "eut pressé", "eûmes pressé", "eûtes pressé", "eurent pressé" ],
+  "futurAnterieur": [ "aurai pressé", "auras pressé", "aura pressé", "aurons pressé", "aurez pressé", "auront pressé" ],
+  "subjonctifPresent": [ "presse", "presses", "presse", "pressions", "pressiez", "pressent" ],
+  "subjonctifImparfait": [ "pressasse", "pressasses", "pressât", "pressassions", "pressassiez", "pressassent" ],
+  "subjonctifPasse": [ "aie pressé", "aies pressé", "ait pressé", "ayons pressé", "ayez pressé", "aient pressé" ],
+  "subjonctifPlusQueParfait": [ "eusse pressé", "eusses pressé", "eût pressé", "eussions pressé", "eussiez pressé", "eussent pressé" ],
+  "conditionnelPresent": [ "presserais", "presserais", "presserait", "presserions", "presseriez", "presseraient" ],
+  "conditionnelPasse": [ "aurais pressé", "aurais pressé", "aurait pressé", "aurions pressé", "auriez pressé", "auraient pressé" ],
+  "conditionnelPasseII": [ "eusse pressé", "eusses pressé", "eût pressé", "eussions pressé", "eussiez pressé", "eussent pressé" ],
+  "imperatif": [ "–", "presse !", "–", "pressons !", "pressez !", "–" ],
+  "imperatifPasse": [ "–", "aie pressé !", "–", "ayons pressé !", "ayez pressé !", "–" ]
+}

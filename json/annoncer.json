@@ -1,0 +1,22 @@
+{
+  "infinitif": "annoncer",
+  "participePresent": "annonçant",
+  "participePasse": "annoncé",
+  "present": [ "annonce", "annonces", "annonce", "annonçons", "annoncez", "annoncent" ],
+  "imparfait": [ "annonçais", "annonçais", "annonçait", "annoncions", "annonciez", "annonçaient" ],
+  "passeSimple": [ "annonçai", "annonças", "annonça", "annonçâmes", "annonçâtes", "annoncèrent" ],
+  "futurSimple": [ "annoncerai", "annonceras", "annoncera", "annoncerons", "annoncerez", "annonceront" ],
+  "passeCompose": [ "ai annoncé", "as annoncé", "a annoncé", "avons annoncé", "avez annoncé", "ont annoncé" ],
+  "plusQueParfait": [ "avais annoncé", "avais annoncé", "avait annoncé", "avions annoncé", "aviez annoncé", "avaient annoncé" ],
+  "passeAnterieur": [ "eus annoncé", "eus annoncé", "eut annoncé", "eûmes annoncé", "eûtes annoncé", "eurent annoncé" ],
+  "futurAnterieur": [ "aurai annoncé", "auras annoncé", "aura annoncé", "aurons annoncé", "aurez annoncé", "auront annoncé" ],
+  "subjonctifPresent": [ "annonce", "annonces", "annonce", "annoncions", "annonciez", "annoncent" ],
+  "subjonctifImparfait": [ "annonçasse", "annonçasses", "annonçât", "annonçassions", "annonçassiez", "annonçassent" ],
+  "subjonctifPasse": [ "aie annoncé", "aies annoncé", "ait annoncé", "ayons annoncé", "ayez annoncé", "aient annoncé" ],
+  "subjonctifPlusQueParfait": [ "eusse annoncé", "eusses annoncé", "eût annoncé", "eussions annoncé", "eussiez annoncé", "eussent annoncé" ],
+  "conditionnelPresent": [ "annoncerais", "annoncerais", "annoncerait", "annoncerions", "annonceriez", "annonceraient" ],
+  "conditionnelPasse": [ "aurais annoncé", "aurais annoncé", "aurait annoncé", "aurions annoncé", "auriez annoncé", "auraient annoncé" ],
+  "conditionnelPasseII": [ "eusse annoncé", "eusses annoncé", "eût annoncé", "eussions annoncé", "eussiez annoncé", "eussent annoncé" ],
+  "imperatif": [ "–", "annonce !", "–", "annonçons !", "annoncez !", "–" ],
+  "imperatifPasse": [ "–", "aie annoncé !", "–", "ayons annoncé !", "ayez annoncé !", "–" ]
+}

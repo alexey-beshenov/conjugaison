@@ -1,0 +1,22 @@
+{
+  "infinitif": "aider",
+  "participePresent": "aidant",
+  "participePasse": "aidé",
+  "present": [ "aide", "aides", "aide", "aidons", "aidez", "aident" ],
+  "imparfait": [ "aidais", "aidais", "aidait", "aidions", "aidiez", "aidaient" ],
+  "passeSimple": [ "aidai", "aidas", "aida", "aidâmes", "aidâtes", "aidèrent" ],
+  "futurSimple": [ "aiderai", "aideras", "aidera", "aiderons", "aiderez", "aideront" ],
+  "passeCompose": [ "ai aidé", "as aidé", "a aidé", "avons aidé", "avez aidé", "ont aidé" ],
+  "plusQueParfait": [ "avais aidé", "avais aidé", "avait aidé", "avions aidé", "aviez aidé", "avaient aidé" ],
+  "passeAnterieur": [ "eus aidé", "eus aidé", "eut aidé", "eûmes aidé", "eûtes aidé", "eurent aidé" ],
+  "futurAnterieur": [ "aurai aidé", "auras aidé", "aura aidé", "aurons aidé", "aurez aidé", "auront aidé" ],
+  "subjonctifPresent": [ "aide", "aides", "aide", "aidions", "aidiez", "aident" ],
+  "subjonctifImparfait": [ "aidasse", "aidasses", "aidât", "aidassions", "aidassiez", "aidassent" ],
+  "subjonctifPasse": [ "aie aidé", "aies aidé", "ait aidé", "ayons aidé", "ayez aidé", "aient aidé" ],
+  "subjonctifPlusQueParfait": [ "eusse aidé", "eusses aidé", "eût aidé", "eussions aidé", "eussiez aidé", "eussent aidé" ],
+  "conditionnelPresent": [ "aiderais", "aiderais", "aiderait", "aiderions", "aideriez", "aideraient" ],
+  "conditionnelPasse": [ "aurais aidé", "aurais aidé", "aurait aidé", "aurions aidé", "auriez aidé", "auraient aidé" ],
+  "conditionnelPasseII": [ "eusse aidé", "eusses aidé", "eût aidé", "eussions aidé", "eussiez aidé", "eussent aidé" ],
+  "imperatif": [ "–", "aide !", "–", "aidons !", "aidez !", "–" ],
+  "imperatifPasse": [ "–", "aie aidé !", "–", "ayons aidé !", "ayez aidé !", "–" ]
+}

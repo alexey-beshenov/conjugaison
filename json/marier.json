@@ -1,0 +1,22 @@
+{
+  "infinitif": "marier",
+  "participePresent": "mariant",
+  "participePasse": "marié",
+  "present": [ "marie", "maries", "marie", "marions", "mariez", "marient" ],
+  "imparfait": [ "mariais", "mariais", "mariait", "mariions", "mariiez", "mariaient" ],
+  "passeSimple": [ "mariai", "marias", "maria", "mariâmes", "mariâtes", "marièrent" ],
+  "futurSimple": [ "marierai", "marieras", "mariera", "marierons", "marierez", "marieront" ],
+  "passeCompose": [ "ai marié", "as marié", "a marié", "avons marié", "avez marié", "ont marié" ],
+  "plusQueParfait": [ "avais marié", "avais marié", "avait marié", "avions marié", "aviez marié", "avaient marié" ],
+  "passeAnterieur": [ "eus marié", "eus marié", "eut marié", "eûmes marié", "eûtes marié", "eurent marié" ],
+  "futurAnterieur": [ "aurai marié", "auras marié", "aura marié", "aurons marié", "aurez marié", "auront marié" ],
+  "subjonctifPresent": [ "marie", "maries", "marie", "mariions", "mariiez", "marient" ],
+  "subjonctifImparfait": [ "mariasse", "mariasses", "mariât", "mariassions", "mariassiez", "mariassent" ],
+  "subjonctifPasse": [ "aie marié", "aies marié", "ait marié", "ayons marié", "ayez marié", "aient marié" ],
+  "subjonctifPlusQueParfait": [ "eusse marié", "eusses marié", "eût marié", "eussions marié", "eussiez marié", "eussent marié" ],
+  "conditionnelPresent": [ "marierais", "marierais", "marierait", "marierions", "marieriez", "marieraient" ],
+  "conditionnelPasse": [ "aurais marié", "aurais marié", "aurait marié", "aurions marié", "auriez marié", "auraient marié" ],
+  "conditionnelPasseII": [ "eusse marié", "eusses marié", "eût marié", "eussions marié", "eussiez marié", "eussent marié" ],
+  "imperatif": [ "–", "marie !", "–", "marions !", "mariez !", "–" ],
+  "imperatifPasse": [ "–", "aie marié !", "–", "ayons marié !", "ayez marié !", "–" ]
+}

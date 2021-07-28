@@ -1,0 +1,22 @@
+{
+  "infinitif": "répandre",
+  "participePresent": "répandant",
+  "participePasse": "répandu",
+  "present": [ "répands", "répands", "répand", "répandons", "répandez", "répandent" ],
+  "imparfait": [ "répandais", "répandais", "répandait", "répandions", "répandiez", "répandaient" ],
+  "passeSimple": [ "répandis", "répandis", "répandit", "répandîmes", "répandîtes", "répandirent" ],
+  "futurSimple": [ "répandrai", "répandras", "répandra", "répandrons", "répandrez", "répandront" ],
+  "passeCompose": [ "ai répandu", "as répandu", "a répandu", "avons répandu", "avez répandu", "ont répandu" ],
+  "plusQueParfait": [ "avais répandu", "avais répandu", "avait répandu", "avions répandu", "aviez répandu", "avaient répandu" ],
+  "passeAnterieur": [ "eus répandu", "eus répandu", "eut répandu", "eûmes répandu", "eûtes répandu", "eurent répandu" ],
+  "futurAnterieur": [ "aurai répandu", "auras répandu", "aura répandu", "aurons répandu", "aurez répandu", "auront répandu" ],
+  "subjonctifPresent": [ "répande", "répandes", "répande", "répandions", "répandiez", "répandent" ],
+  "subjonctifImparfait": [ "répandisse", "répandisses", "répandît", "répandissions", "répandissiez", "répandissent" ],
+  "subjonctifPasse": [ "aie répandu", "aies répandu", "ait répandu", "ayons répandu", "ayez répandu", "aient répandu" ],
+  "subjonctifPlusQueParfait": [ "eusse répandu", "eusses répandu", "eût répandu", "eussions répandu", "eussiez répandu", "eussent répandu" ],
+  "conditionnelPresent": [ "répandrais", "répandrais", "répandrait", "répandrions", "répandriez", "répandraient" ],
+  "conditionnelPasse": [ "aurais répandu", "aurais répandu", "aurait répandu", "aurions répandu", "auriez répandu", "auraient répandu" ],
+  "conditionnelPasseII": [ "eusse répandu", "eusses répandu", "eût répandu", "eussions répandu", "eussiez répandu", "eussent répandu" ],
+  "imperatif": [ "–", "répands !", "–", "répandons !", "répandez !", "–" ],
+  "imperatifPasse": [ "–", "aie répandu !", "–", "ayons répandu !", "ayez répandu !", "–" ]
+}

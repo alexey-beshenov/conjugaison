@@ -1,0 +1,22 @@
+{
+  "infinitif": "se juger",
+  "participePresent": "se jugeant",
+  "participePasse": "jugé",
+  "present": [ "me juge", "te juges", "se juge", "nous jugeons", "vous jugez", "se jugent" ],
+  "imparfait": [ "me jugeais", "te jugeais", "se jugeait", "nous jugions", "vous jugiez", "se jugeaient" ],
+  "passeSimple": [ "me jugeai", "te jugeas", "se jugea", "nous jugeâmes", "vous jugeâtes", "se jugèrent" ],
+  "futurSimple": [ "me jugerai", "te jugeras", "se jugera", "nous jugerons", "vous jugerez", "se jugeront" ],
+  "passeCompose": [ "me suis jugé(e)", "t'es jugé(e)", "s'est jugé(e)", "nous sommes jugé(e)s", "vous êtes jugé(e)(s)", "se sont jugé(e)s" ],
+  "plusQueParfait": [ "m'étais jugé(e)", "t'étais jugé(e)", "s'était jugé(e)", "nous étions jugé(e)s", "vous étiez jugé(e)(s)", "s'étaient jugé(e)s" ],
+  "passeAnterieur": [ "me fus jugé(e)", "te fus jugé(e)", "se fut jugé(e)", "nous fûmes jugé(e)s", "vous fûtes jugé(e)(s)", "se furent jugé(e)s" ],
+  "futurAnterieur": [ "me serai jugé(e)", "te seras jugé(e)", "se sera jugé(e)", "nous serons jugé(e)s", "vous serez jugé(e)(s)", "se seront jugé(e)s" ],
+  "subjonctifPresent": [ "me juge", "te juges", "se juge", "nous jugions", "vous jugiez", "se jugent" ],
+  "subjonctifImparfait": [ "me jugeasse", "te jugeasses", "se jugeât", "nous jugeassions", "vous jugeassiez", "se jugeassent" ],
+  "subjonctifPasse": [ "me sois jugé(e)", "te sois jugé(e)", "se soit jugé(e)", "nous soyons jugé(e)s", "vous soyez jugé(e)(s)", "se soient jugé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse jugé(e)", "te fusses jugé(e)", "se fût jugé(e)", "nous fussions jugé(e)s", "vous fussiez jugé(e)(s)", "se fussent jugé(e)s" ],
+  "conditionnelPresent": [ "me jugerais", "te jugerais", "se jugerait", "nous jugerions", "vous jugeriez", "se jugeraient" ],
+  "conditionnelPasse": [ "me serais jugé(e)", "te serais jugé(e)", "se serait jugé(e)", "nous serions jugé(e)s", "vous seriez jugé(e)(s)", "se seraient jugé(e)s" ],
+  "conditionnelPasseII": [ "me fusse jugé(e)", "te fusses jugé(e)", "se fût jugé(e)", "nous fussions jugé(e)s", "vous fussiez jugé(e)(s)", "se fussent jugé(e)s" ],
+  "imperatif": [ "–", "juge-toi !", "–", "jugeons-nous !", "jugez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

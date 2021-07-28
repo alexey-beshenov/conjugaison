@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'employer",
+  "participePresent": "s'employant",
+  "participePasse": "employé",
+  "present": [ "m'emploie", "t'emploies", "s'emploie", "nous employons", "vous employez", "s'emploient" ],
+  "imparfait": [ "m'employais", "t'employais", "s'employait", "nous employions", "vous employiez", "s'employaient" ],
+  "passeSimple": [ "m'employai", "t'employas", "s'employa", "nous employâmes", "vous employâtes", "s'employèrent" ],
+  "futurSimple": [ "m'emploierai", "t'emploieras", "s'emploiera", "nous emploierons", "vous emploierez", "s'emploieront" ],
+  "passeCompose": [ "me suis employé(e)", "t'es employé(e)", "s'est employé(e)", "nous sommes employé(e)s", "vous êtes employé(e)(s)", "se sont employé(e)s" ],
+  "plusQueParfait": [ "m'étais employé(e)", "t'étais employé(e)", "s'était employé(e)", "nous étions employé(e)s", "vous étiez employé(e)(s)", "s'étaient employé(e)s" ],
+  "passeAnterieur": [ "me fus employé(e)", "te fus employé(e)", "se fut employé(e)", "nous fûmes employé(e)s", "vous fûtes employé(e)(s)", "se furent employé(e)s" ],
+  "futurAnterieur": [ "me serai employé(e)", "te seras employé(e)", "se sera employé(e)", "nous serons employé(e)s", "vous serez employé(e)(s)", "se seront employé(e)s" ],
+  "subjonctifPresent": [ "m'emploie", "t'emploies", "s'emploie", "nous employions", "vous employiez", "s'emploient" ],
+  "subjonctifImparfait": [ "m'employasse", "t'employasses", "s'employât", "nous employassions", "vous employassiez", "s'employassent" ],
+  "subjonctifPasse": [ "me sois employé(e)", "te sois employé(e)", "se soit employé(e)", "nous soyons employé(e)s", "vous soyez employé(e)(s)", "se soient employé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse employé(e)", "te fusses employé(e)", "se fût employé(e)", "nous fussions employé(e)s", "vous fussiez employé(e)(s)", "se fussent employé(e)s" ],
+  "conditionnelPresent": [ "m'emploierais", "t'emploierais", "s'emploierait", "nous emploierions", "vous emploieriez", "s'emploieraient" ],
+  "conditionnelPasse": [ "me serais employé(e)", "te serais employé(e)", "se serait employé(e)", "nous serions employé(e)s", "vous seriez employé(e)(s)", "se seraient employé(e)s" ],
+  "conditionnelPasseII": [ "me fusse employé(e)", "te fusses employé(e)", "se fût employé(e)", "nous fussions employé(e)s", "vous fussiez employé(e)(s)", "se fussent employé(e)s" ],
+  "imperatif": [ "–", "emploie-toi !", "–", "employons-nous !", "employez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

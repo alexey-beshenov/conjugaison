@@ -1,0 +1,22 @@
+{
+  "infinitif": "rapporter",
+  "participePresent": "rapportant",
+  "participePasse": "rapporté",
+  "present": [ "rapporte", "rapportes", "rapporte", "rapportons", "rapportez", "rapportent" ],
+  "imparfait": [ "rapportais", "rapportais", "rapportait", "rapportions", "rapportiez", "rapportaient" ],
+  "passeSimple": [ "rapportai", "rapportas", "rapporta", "rapportâmes", "rapportâtes", "rapportèrent" ],
+  "futurSimple": [ "rapporterai", "rapporteras", "rapportera", "rapporterons", "rapporterez", "rapporteront" ],
+  "passeCompose": [ "ai rapporté", "as rapporté", "a rapporté", "avons rapporté", "avez rapporté", "ont rapporté" ],
+  "plusQueParfait": [ "avais rapporté", "avais rapporté", "avait rapporté", "avions rapporté", "aviez rapporté", "avaient rapporté" ],
+  "passeAnterieur": [ "eus rapporté", "eus rapporté", "eut rapporté", "eûmes rapporté", "eûtes rapporté", "eurent rapporté" ],
+  "futurAnterieur": [ "aurai rapporté", "auras rapporté", "aura rapporté", "aurons rapporté", "aurez rapporté", "auront rapporté" ],
+  "subjonctifPresent": [ "rapporte", "rapportes", "rapporte", "rapportions", "rapportiez", "rapportent" ],
+  "subjonctifImparfait": [ "rapportasse", "rapportasses", "rapportât", "rapportassions", "rapportassiez", "rapportassent" ],
+  "subjonctifPasse": [ "aie rapporté", "aies rapporté", "ait rapporté", "ayons rapporté", "ayez rapporté", "aient rapporté" ],
+  "subjonctifPlusQueParfait": [ "eusse rapporté", "eusses rapporté", "eût rapporté", "eussions rapporté", "eussiez rapporté", "eussent rapporté" ],
+  "conditionnelPresent": [ "rapporterais", "rapporterais", "rapporterait", "rapporterions", "rapporteriez", "rapporteraient" ],
+  "conditionnelPasse": [ "aurais rapporté", "aurais rapporté", "aurait rapporté", "aurions rapporté", "auriez rapporté", "auraient rapporté" ],
+  "conditionnelPasseII": [ "eusse rapporté", "eusses rapporté", "eût rapporté", "eussions rapporté", "eussiez rapporté", "eussent rapporté" ],
+  "imperatif": [ "–", "rapporte !", "–", "rapportons !", "rapportez !", "–" ],
+  "imperatifPasse": [ "–", "aie rapporté !", "–", "ayons rapporté !", "ayez rapporté !", "–" ]
+}

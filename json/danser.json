@@ -1,0 +1,22 @@
+{
+  "infinitif": "danser",
+  "participePresent": "dansant",
+  "participePasse": "dansé",
+  "present": [ "danse", "danses", "danse", "dansons", "dansez", "dansent" ],
+  "imparfait": [ "dansais", "dansais", "dansait", "dansions", "dansiez", "dansaient" ],
+  "passeSimple": [ "dansai", "dansas", "dansa", "dansâmes", "dansâtes", "dansèrent" ],
+  "futurSimple": [ "danserai", "danseras", "dansera", "danserons", "danserez", "danseront" ],
+  "passeCompose": [ "ai dansé", "as dansé", "a dansé", "avons dansé", "avez dansé", "ont dansé" ],
+  "plusQueParfait": [ "avais dansé", "avais dansé", "avait dansé", "avions dansé", "aviez dansé", "avaient dansé" ],
+  "passeAnterieur": [ "eus dansé", "eus dansé", "eut dansé", "eûmes dansé", "eûtes dansé", "eurent dansé" ],
+  "futurAnterieur": [ "aurai dansé", "auras dansé", "aura dansé", "aurons dansé", "aurez dansé", "auront dansé" ],
+  "subjonctifPresent": [ "danse", "danses", "danse", "dansions", "dansiez", "dansent" ],
+  "subjonctifImparfait": [ "dansasse", "dansasses", "dansât", "dansassions", "dansassiez", "dansassent" ],
+  "subjonctifPasse": [ "aie dansé", "aies dansé", "ait dansé", "ayons dansé", "ayez dansé", "aient dansé" ],
+  "subjonctifPlusQueParfait": [ "eusse dansé", "eusses dansé", "eût dansé", "eussions dansé", "eussiez dansé", "eussent dansé" ],
+  "conditionnelPresent": [ "danserais", "danserais", "danserait", "danserions", "danseriez", "danseraient" ],
+  "conditionnelPasse": [ "aurais dansé", "aurais dansé", "aurait dansé", "aurions dansé", "auriez dansé", "auraient dansé" ],
+  "conditionnelPasseII": [ "eusse dansé", "eusses dansé", "eût dansé", "eussions dansé", "eussiez dansé", "eussent dansé" ],
+  "imperatif": [ "–", "danse !", "–", "dansons !", "dansez !", "–" ],
+  "imperatifPasse": [ "–", "aie dansé !", "–", "ayons dansé !", "ayez dansé !", "–" ]
+}

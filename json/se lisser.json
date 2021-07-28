@@ -1,0 +1,22 @@
+{
+  "infinitif": "se lisser",
+  "participePresent": "se lissant",
+  "participePasse": "lissé",
+  "present": [ "me lisse", "te lisses", "se lisse", "nous lissons", "vous lissez", "se lissent" ],
+  "imparfait": [ "me lissais", "te lissais", "se lissait", "nous lissions", "vous lissiez", "se lissaient" ],
+  "passeSimple": [ "me lissai", "te lissas", "se lissa", "nous lissâmes", "vous lissâtes", "se lissèrent" ],
+  "futurSimple": [ "me lisserai", "te lisseras", "se lissera", "nous lisserons", "vous lisserez", "se lisseront" ],
+  "passeCompose": [ "me suis lissé(e)", "t'es lissé(e)", "s'est lissé(e)", "nous sommes lissé(e)s", "vous êtes lissé(e)(s)", "se sont lissé(e)s" ],
+  "plusQueParfait": [ "m'étais lissé(e)", "t'étais lissé(e)", "s'était lissé(e)", "nous étions lissé(e)s", "vous étiez lissé(e)(s)", "s'étaient lissé(e)s" ],
+  "passeAnterieur": [ "me fus lissé(e)", "te fus lissé(e)", "se fut lissé(e)", "nous fûmes lissé(e)s", "vous fûtes lissé(e)(s)", "se furent lissé(e)s" ],
+  "futurAnterieur": [ "me serai lissé(e)", "te seras lissé(e)", "se sera lissé(e)", "nous serons lissé(e)s", "vous serez lissé(e)(s)", "se seront lissé(e)s" ],
+  "subjonctifPresent": [ "me lisse", "te lisses", "se lisse", "nous lissions", "vous lissiez", "se lissent" ],
+  "subjonctifImparfait": [ "me lissasse", "te lissasses", "se lissât", "nous lissassions", "vous lissassiez", "se lissassent" ],
+  "subjonctifPasse": [ "me sois lissé(e)", "te sois lissé(e)", "se soit lissé(e)", "nous soyons lissé(e)s", "vous soyez lissé(e)(s)", "se soient lissé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse lissé(e)", "te fusses lissé(e)", "se fût lissé(e)", "nous fussions lissé(e)s", "vous fussiez lissé(e)(s)", "se fussent lissé(e)s" ],
+  "conditionnelPresent": [ "me lisserais", "te lisserais", "se lisserait", "nous lisserions", "vous lisseriez", "se lisseraient" ],
+  "conditionnelPasse": [ "me serais lissé(e)", "te serais lissé(e)", "se serait lissé(e)", "nous serions lissé(e)s", "vous seriez lissé(e)(s)", "se seraient lissé(e)s" ],
+  "conditionnelPasseII": [ "me fusse lissé(e)", "te fusses lissé(e)", "se fût lissé(e)", "nous fussions lissé(e)s", "vous fussiez lissé(e)(s)", "se fussent lissé(e)s" ],
+  "imperatif": [ "–", "lisse-toi !", "–", "lissons-nous !", "lissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

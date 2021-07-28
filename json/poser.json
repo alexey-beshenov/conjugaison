@@ -1,0 +1,22 @@
+{
+  "infinitif": "poser",
+  "participePresent": "posant",
+  "participePasse": "posé",
+  "present": [ "pose", "poses", "pose", "posons", "posez", "posent" ],
+  "imparfait": [ "posais", "posais", "posait", "posions", "posiez", "posaient" ],
+  "passeSimple": [ "posai", "posas", "posa", "posâmes", "posâtes", "posèrent" ],
+  "futurSimple": [ "poserai", "poseras", "posera", "poserons", "poserez", "poseront" ],
+  "passeCompose": [ "ai posé", "as posé", "a posé", "avons posé", "avez posé", "ont posé" ],
+  "plusQueParfait": [ "avais posé", "avais posé", "avait posé", "avions posé", "aviez posé", "avaient posé" ],
+  "passeAnterieur": [ "eus posé", "eus posé", "eut posé", "eûmes posé", "eûtes posé", "eurent posé" ],
+  "futurAnterieur": [ "aurai posé", "auras posé", "aura posé", "aurons posé", "aurez posé", "auront posé" ],
+  "subjonctifPresent": [ "pose", "poses", "pose", "posions", "posiez", "posent" ],
+  "subjonctifImparfait": [ "posasse", "posasses", "posât", "posassions", "posassiez", "posassent" ],
+  "subjonctifPasse": [ "aie posé", "aies posé", "ait posé", "ayons posé", "ayez posé", "aient posé" ],
+  "subjonctifPlusQueParfait": [ "eusse posé", "eusses posé", "eût posé", "eussions posé", "eussiez posé", "eussent posé" ],
+  "conditionnelPresent": [ "poserais", "poserais", "poserait", "poserions", "poseriez", "poseraient" ],
+  "conditionnelPasse": [ "aurais posé", "aurais posé", "aurait posé", "aurions posé", "auriez posé", "auraient posé" ],
+  "conditionnelPasseII": [ "eusse posé", "eusses posé", "eût posé", "eussions posé", "eussiez posé", "eussent posé" ],
+  "imperatif": [ "–", "pose !", "–", "posons !", "posez !", "–" ],
+  "imperatifPasse": [ "–", "aie posé !", "–", "ayons posé !", "ayez posé !", "–" ]
+}

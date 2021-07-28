@@ -1,0 +1,22 @@
+{
+  "infinitif": "creuser",
+  "participePresent": "creusant",
+  "participePasse": "creusé",
+  "present": [ "creuse", "creuses", "creuse", "creusons", "creusez", "creusent" ],
+  "imparfait": [ "creusais", "creusais", "creusait", "creusions", "creusiez", "creusaient" ],
+  "passeSimple": [ "creusai", "creusas", "creusa", "creusâmes", "creusâtes", "creusèrent" ],
+  "futurSimple": [ "creuserai", "creuseras", "creusera", "creuserons", "creuserez", "creuseront" ],
+  "passeCompose": [ "ai creusé", "as creusé", "a creusé", "avons creusé", "avez creusé", "ont creusé" ],
+  "plusQueParfait": [ "avais creusé", "avais creusé", "avait creusé", "avions creusé", "aviez creusé", "avaient creusé" ],
+  "passeAnterieur": [ "eus creusé", "eus creusé", "eut creusé", "eûmes creusé", "eûtes creusé", "eurent creusé" ],
+  "futurAnterieur": [ "aurai creusé", "auras creusé", "aura creusé", "aurons creusé", "aurez creusé", "auront creusé" ],
+  "subjonctifPresent": [ "creuse", "creuses", "creuse", "creusions", "creusiez", "creusent" ],
+  "subjonctifImparfait": [ "creusasse", "creusasses", "creusât", "creusassions", "creusassiez", "creusassent" ],
+  "subjonctifPasse": [ "aie creusé", "aies creusé", "ait creusé", "ayons creusé", "ayez creusé", "aient creusé" ],
+  "subjonctifPlusQueParfait": [ "eusse creusé", "eusses creusé", "eût creusé", "eussions creusé", "eussiez creusé", "eussent creusé" ],
+  "conditionnelPresent": [ "creuserais", "creuserais", "creuserait", "creuserions", "creuseriez", "creuseraient" ],
+  "conditionnelPasse": [ "aurais creusé", "aurais creusé", "aurait creusé", "aurions creusé", "auriez creusé", "auraient creusé" ],
+  "conditionnelPasseII": [ "eusse creusé", "eusses creusé", "eût creusé", "eussions creusé", "eussiez creusé", "eussent creusé" ],
+  "imperatif": [ "–", "creuse !", "–", "creusons !", "creusez !", "–" ],
+  "imperatifPasse": [ "–", "aie creusé !", "–", "ayons creusé !", "ayez creusé !", "–" ]
+}

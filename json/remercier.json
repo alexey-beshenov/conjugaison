@@ -1,0 +1,22 @@
+{
+  "infinitif": "remercier",
+  "participePresent": "remerciant",
+  "participePasse": "remercié",
+  "present": [ "remercie", "remercies", "remercie", "remercions", "remerciez", "remercient" ],
+  "imparfait": [ "remerciais", "remerciais", "remerciait", "remerciions", "remerciiez", "remerciaient" ],
+  "passeSimple": [ "remerciai", "remercias", "remercia", "remerciâmes", "remerciâtes", "remercièrent" ],
+  "futurSimple": [ "remercierai", "remercieras", "remerciera", "remercierons", "remercierez", "remercieront" ],
+  "passeCompose": [ "ai remercié", "as remercié", "a remercié", "avons remercié", "avez remercié", "ont remercié" ],
+  "plusQueParfait": [ "avais remercié", "avais remercié", "avait remercié", "avions remercié", "aviez remercié", "avaient remercié" ],
+  "passeAnterieur": [ "eus remercié", "eus remercié", "eut remercié", "eûmes remercié", "eûtes remercié", "eurent remercié" ],
+  "futurAnterieur": [ "aurai remercié", "auras remercié", "aura remercié", "aurons remercié", "aurez remercié", "auront remercié" ],
+  "subjonctifPresent": [ "remercie", "remercies", "remercie", "remerciions", "remerciiez", "remercient" ],
+  "subjonctifImparfait": [ "remerciasse", "remerciasses", "remerciât", "remerciassions", "remerciassiez", "remerciassent" ],
+  "subjonctifPasse": [ "aie remercié", "aies remercié", "ait remercié", "ayons remercié", "ayez remercié", "aient remercié" ],
+  "subjonctifPlusQueParfait": [ "eusse remercié", "eusses remercié", "eût remercié", "eussions remercié", "eussiez remercié", "eussent remercié" ],
+  "conditionnelPresent": [ "remercierais", "remercierais", "remercierait", "remercierions", "remercieriez", "remercieraient" ],
+  "conditionnelPasse": [ "aurais remercié", "aurais remercié", "aurait remercié", "aurions remercié", "auriez remercié", "auraient remercié" ],
+  "conditionnelPasseII": [ "eusse remercié", "eusses remercié", "eût remercié", "eussions remercié", "eussiez remercié", "eussent remercié" ],
+  "imperatif": [ "–", "remercie !", "–", "remercions !", "remerciez !", "–" ],
+  "imperatifPasse": [ "–", "aie remercié !", "–", "ayons remercié !", "ayez remercié !", "–" ]
+}

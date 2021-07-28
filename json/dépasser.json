@@ -1,0 +1,22 @@
+{
+  "infinitif": "dépasser",
+  "participePresent": "dépassant",
+  "participePasse": "dépassé",
+  "present": [ "dépasse", "dépasses", "dépasse", "dépassons", "dépassez", "dépassent" ],
+  "imparfait": [ "dépassais", "dépassais", "dépassait", "dépassions", "dépassiez", "dépassaient" ],
+  "passeSimple": [ "dépassai", "dépassas", "dépassa", "dépassâmes", "dépassâtes", "dépassèrent" ],
+  "futurSimple": [ "dépasserai", "dépasseras", "dépassera", "dépasserons", "dépasserez", "dépasseront" ],
+  "passeCompose": [ "ai dépassé", "as dépassé", "a dépassé", "avons dépassé", "avez dépassé", "ont dépassé" ],
+  "plusQueParfait": [ "avais dépassé", "avais dépassé", "avait dépassé", "avions dépassé", "aviez dépassé", "avaient dépassé" ],
+  "passeAnterieur": [ "eus dépassé", "eus dépassé", "eut dépassé", "eûmes dépassé", "eûtes dépassé", "eurent dépassé" ],
+  "futurAnterieur": [ "aurai dépassé", "auras dépassé", "aura dépassé", "aurons dépassé", "aurez dépassé", "auront dépassé" ],
+  "subjonctifPresent": [ "dépasse", "dépasses", "dépasse", "dépassions", "dépassiez", "dépassent" ],
+  "subjonctifImparfait": [ "dépassasse", "dépassasses", "dépassât", "dépassassions", "dépassassiez", "dépassassent" ],
+  "subjonctifPasse": [ "aie dépassé", "aies dépassé", "ait dépassé", "ayons dépassé", "ayez dépassé", "aient dépassé" ],
+  "subjonctifPlusQueParfait": [ "eusse dépassé", "eusses dépassé", "eût dépassé", "eussions dépassé", "eussiez dépassé", "eussent dépassé" ],
+  "conditionnelPresent": [ "dépasserais", "dépasserais", "dépasserait", "dépasserions", "dépasseriez", "dépasseraient" ],
+  "conditionnelPasse": [ "aurais dépassé", "aurais dépassé", "aurait dépassé", "aurions dépassé", "auriez dépassé", "auraient dépassé" ],
+  "conditionnelPasseII": [ "eusse dépassé", "eusses dépassé", "eût dépassé", "eussions dépassé", "eussiez dépassé", "eussent dépassé" ],
+  "imperatif": [ "–", "dépasse !", "–", "dépassons !", "dépassez !", "–" ],
+  "imperatifPasse": [ "–", "aie dépassé !", "–", "ayons dépassé !", "ayez dépassé !", "–" ]
+}

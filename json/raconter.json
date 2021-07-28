@@ -1,0 +1,22 @@
+{
+  "infinitif": "raconter",
+  "participePresent": "racontant",
+  "participePasse": "raconté",
+  "present": [ "raconte", "racontes", "raconte", "racontons", "racontez", "racontent" ],
+  "imparfait": [ "racontais", "racontais", "racontait", "racontions", "racontiez", "racontaient" ],
+  "passeSimple": [ "racontai", "racontas", "raconta", "racontâmes", "racontâtes", "racontèrent" ],
+  "futurSimple": [ "raconterai", "raconteras", "racontera", "raconterons", "raconterez", "raconteront" ],
+  "passeCompose": [ "ai raconté", "as raconté", "a raconté", "avons raconté", "avez raconté", "ont raconté" ],
+  "plusQueParfait": [ "avais raconté", "avais raconté", "avait raconté", "avions raconté", "aviez raconté", "avaient raconté" ],
+  "passeAnterieur": [ "eus raconté", "eus raconté", "eut raconté", "eûmes raconté", "eûtes raconté", "eurent raconté" ],
+  "futurAnterieur": [ "aurai raconté", "auras raconté", "aura raconté", "aurons raconté", "aurez raconté", "auront raconté" ],
+  "subjonctifPresent": [ "raconte", "racontes", "raconte", "racontions", "racontiez", "racontent" ],
+  "subjonctifImparfait": [ "racontasse", "racontasses", "racontât", "racontassions", "racontassiez", "racontassent" ],
+  "subjonctifPasse": [ "aie raconté", "aies raconté", "ait raconté", "ayons raconté", "ayez raconté", "aient raconté" ],
+  "subjonctifPlusQueParfait": [ "eusse raconté", "eusses raconté", "eût raconté", "eussions raconté", "eussiez raconté", "eussent raconté" ],
+  "conditionnelPresent": [ "raconterais", "raconterais", "raconterait", "raconterions", "raconteriez", "raconteraient" ],
+  "conditionnelPasse": [ "aurais raconté", "aurais raconté", "aurait raconté", "aurions raconté", "auriez raconté", "auraient raconté" ],
+  "conditionnelPasseII": [ "eusse raconté", "eusses raconté", "eût raconté", "eussions raconté", "eussiez raconté", "eussent raconté" ],
+  "imperatif": [ "–", "raconte !", "–", "racontons !", "racontez !", "–" ],
+  "imperatifPasse": [ "–", "aie raconté !", "–", "ayons raconté !", "ayez raconté !", "–" ]
+}

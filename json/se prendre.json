@@ -1,0 +1,22 @@
+{
+  "infinitif": "se prendre",
+  "participePresent": "se prenant",
+  "participePasse": "pris",
+  "present": [ "me prends", "te prends", "se prend", "nous prenons", "vous prenez", "se prennent" ],
+  "imparfait": [ "me prenais", "te prenais", "se prenait", "nous prenions", "vous preniez", "se prenaient" ],
+  "passeSimple": [ "me pris", "te pris", "se prit", "nous prîmes", "vous prîtes", "se prirent" ],
+  "futurSimple": [ "me prendrai", "te prendras", "se prendra", "nous prendrons", "vous prendrez", "se prendront" ],
+  "passeCompose": [ "me suis pris(e)", "t'es pris(e)", "s'est pris(e)", "nous sommes pris(es)", "vous êtes pris(e(s))", "se sont pris(es)" ],
+  "plusQueParfait": [ "m'étais pris(e)", "t'étais pris(e)", "s'était pris(e)", "nous étions pris(es)", "vous étiez pris(e(s))", "s'étaient pris(es)" ],
+  "passeAnterieur": [ "me fus pris(e)", "te fus pris(e)", "se fut pris(e)", "nous fûmes pris(es)", "vous fûtes pris(e(s))", "se furent pris(es)" ],
+  "futurAnterieur": [ "me serai pris(e)", "te seras pris(e)", "se sera pris(e)", "nous serons pris(es)", "vous serez pris(e(s))", "se seront pris(es)" ],
+  "subjonctifPresent": [ "me prenne", "te prennes", "se prenne", "nous prenions", "vous preniez", "se prennent" ],
+  "subjonctifImparfait": [ "me prisse", "te prisses", "se prît", "nous prissions", "vous prissiez", "se prissent" ],
+  "subjonctifPasse": [ "me sois pris(e)", "te sois pris(e)", "se soit pris(e)", "nous soyons pris(es)", "vous soyez pris(e(s))", "se soient pris(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse pris(e)", "te fusses pris(e)", "se fût pris(e)", "nous fussions pris(es)", "vous fussiez pris(e(s))", "se fussent pris(es)" ],
+  "conditionnelPresent": [ "me prendrais", "te prendrais", "se prendrait", "nous prendrions", "vous prendriez", "se prendraient" ],
+  "conditionnelPasse": [ "me serais pris(e)", "te serais pris(e)", "se serait pris(e)", "nous serions pris(es)", "vous seriez pris(e(s))", "se seraient pris(es)" ],
+  "conditionnelPasseII": [ "me fusse pris(e)", "te fusses pris(e)", "se fût pris(e)", "nous fussions pris(es)", "vous fussiez pris(e(s))", "se fussent pris(es)" ],
+  "imperatif": [ "–", "prends-toi !", "–", "prenons-nous !", "prenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

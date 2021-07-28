@@ -1,0 +1,22 @@
+{
+  "infinitif": "réélire",
+  "participePresent": "réélisant",
+  "participePasse": "réélu",
+  "present": [ "réélis", "réélis", "réélit", "réélisons", "réélisez", "réélisent" ],
+  "imparfait": [ "réélisais", "réélisais", "réélisait", "réélisions", "réélisiez", "réélisaient" ],
+  "passeSimple": [ "réélus", "réélus", "réélut", "réélûmes", "réélûtes", "réélurent" ],
+  "futurSimple": [ "réélirai", "rééliras", "réélira", "réélirons", "réélirez", "rééliront" ],
+  "passeCompose": [ "ai réélu", "as réélu", "a réélu", "avons réélu", "avez réélu", "ont réélu" ],
+  "plusQueParfait": [ "avais réélu", "avais réélu", "avait réélu", "avions réélu", "aviez réélu", "avaient réélu" ],
+  "passeAnterieur": [ "eus réélu", "eus réélu", "eut réélu", "eûmes réélu", "eûtes réélu", "eurent réélu" ],
+  "futurAnterieur": [ "aurai réélu", "auras réélu", "aura réélu", "aurons réélu", "aurez réélu", "auront réélu" ],
+  "subjonctifPresent": [ "réélise", "réélises", "réélise", "réélisions", "réélisiez", "réélisent" ],
+  "subjonctifImparfait": [ "réélusse", "réélusses", "réélût", "réélussions", "réélussiez", "réélussent" ],
+  "subjonctifPasse": [ "aie réélu", "aies réélu", "ait réélu", "ayons réélu", "ayez réélu", "aient réélu" ],
+  "subjonctifPlusQueParfait": [ "eusse réélu", "eusses réélu", "eût réélu", "eussions réélu", "eussiez réélu", "eussent réélu" ],
+  "conditionnelPresent": [ "réélirais", "réélirais", "réélirait", "réélirions", "rééliriez", "rééliraient" ],
+  "conditionnelPasse": [ "aurais réélu", "aurais réélu", "aurait réélu", "aurions réélu", "auriez réélu", "auraient réélu" ],
+  "conditionnelPasseII": [ "eusse réélu", "eusses réélu", "eût réélu", "eussions réélu", "eussiez réélu", "eussent réélu" ],
+  "imperatif": [ "–", "réélis !", "–", "réélisons !", "réélisez !", "–" ],
+  "imperatifPasse": [ "–", "aie réélu !", "–", "ayons réélu !", "ayez réélu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "avancer",
+  "participePresent": "avançant",
+  "participePasse": "avancé",
+  "present": [ "avance", "avances", "avance", "avançons", "avancez", "avancent" ],
+  "imparfait": [ "avançais", "avançais", "avançait", "avancions", "avanciez", "avançaient" ],
+  "passeSimple": [ "avançai", "avanças", "avança", "avançâmes", "avançâtes", "avancèrent" ],
+  "futurSimple": [ "avancerai", "avanceras", "avancera", "avancerons", "avancerez", "avanceront" ],
+  "passeCompose": [ "ai avancé", "as avancé", "a avancé", "avons avancé", "avez avancé", "ont avancé" ],
+  "plusQueParfait": [ "avais avancé", "avais avancé", "avait avancé", "avions avancé", "aviez avancé", "avaient avancé" ],
+  "passeAnterieur": [ "eus avancé", "eus avancé", "eut avancé", "eûmes avancé", "eûtes avancé", "eurent avancé" ],
+  "futurAnterieur": [ "aurai avancé", "auras avancé", "aura avancé", "aurons avancé", "aurez avancé", "auront avancé" ],
+  "subjonctifPresent": [ "avance", "avances", "avance", "avancions", "avanciez", "avancent" ],
+  "subjonctifImparfait": [ "avançasse", "avançasses", "avançât", "avançassions", "avançassiez", "avançassent" ],
+  "subjonctifPasse": [ "aie avancé", "aies avancé", "ait avancé", "ayons avancé", "ayez avancé", "aient avancé" ],
+  "subjonctifPlusQueParfait": [ "eusse avancé", "eusses avancé", "eût avancé", "eussions avancé", "eussiez avancé", "eussent avancé" ],
+  "conditionnelPresent": [ "avancerais", "avancerais", "avancerait", "avancerions", "avanceriez", "avanceraient" ],
+  "conditionnelPasse": [ "aurais avancé", "aurais avancé", "aurait avancé", "aurions avancé", "auriez avancé", "auraient avancé" ],
+  "conditionnelPasseII": [ "eusse avancé", "eusses avancé", "eût avancé", "eussions avancé", "eussiez avancé", "eussent avancé" ],
+  "imperatif": [ "–", "avance !", "–", "avançons !", "avancez !", "–" ],
+  "imperatifPasse": [ "–", "aie avancé !", "–", "ayons avancé !", "ayez avancé !", "–" ]
+}

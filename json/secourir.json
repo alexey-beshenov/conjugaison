@@ -1,0 +1,22 @@
+{
+  "infinitif": "secourir",
+  "participePresent": "secourant",
+  "participePasse": "secouru",
+  "present": [ "secours", "secours", "secourt", "secourons", "secourez", "secourent" ],
+  "imparfait": [ "secourais", "secourais", "secourait", "secourions", "secouriez", "secouraient" ],
+  "passeSimple": [ "secourus", "secourus", "secourut", "secourûmes", "secourûtes", "secoururent" ],
+  "futurSimple": [ "secourrai", "secourras", "secourra", "secourrons", "secourrez", "secourront" ],
+  "passeCompose": [ "ai secouru", "as secouru", "a secouru", "avons secouru", "avez secouru", "ont secouru" ],
+  "plusQueParfait": [ "avais secouru", "avais secouru", "avait secouru", "avions secouru", "aviez secouru", "avaient secouru" ],
+  "passeAnterieur": [ "eus secouru", "eus secouru", "eut secouru", "eûmes secouru", "eûtes secouru", "eurent secouru" ],
+  "futurAnterieur": [ "aurai secouru", "auras secouru", "aura secouru", "aurons secouru", "aurez secouru", "auront secouru" ],
+  "subjonctifPresent": [ "secoure", "secoures", "secoure", "secourions", "secouriez", "secourent" ],
+  "subjonctifImparfait": [ "secourusse", "secourusses", "secourût", "secourussions", "secourussiez", "secourussent" ],
+  "subjonctifPasse": [ "aie secouru", "aies secouru", "ait secouru", "ayons secouru", "ayez secouru", "aient secouru" ],
+  "subjonctifPlusQueParfait": [ "eusse secouru", "eusses secouru", "eût secouru", "eussions secouru", "eussiez secouru", "eussent secouru" ],
+  "conditionnelPresent": [ "secourrais", "secourrais", "secourrait", "secourrions", "secourriez", "secourraient" ],
+  "conditionnelPasse": [ "aurais secouru", "aurais secouru", "aurait secouru", "aurions secouru", "auriez secouru", "auraient secouru" ],
+  "conditionnelPasseII": [ "eusse secouru", "eusses secouru", "eût secouru", "eussions secouru", "eussiez secouru", "eussent secouru" ],
+  "imperatif": [ "–", "secours !", "–", "secourons !", "secourez !", "–" ],
+  "imperatifPasse": [ "–", "aie secouru !", "–", "ayons secouru !", "ayez secouru !", "–" ]
+}

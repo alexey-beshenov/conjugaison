@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rassoir",
+  "participePresent": "se rasseyant,",
+  "participePasse": "se rassoyant",
+  "present": [ "me rassieds, rassois", "te rassieds, rassois", "se rassied, rassoit", "nous rasseyons, rassoyons", "vous rasseyez, rassoyez", "se rasseyent, rassoient" ],
+  "imparfait": [ "me rasseyais, rassoyais", "te rasseyais, rassoyais", "se rasseyait, rassoyait", "nous rasseyions, rassoyions", "vous rasseyiez, rassoyiez", "se rasseyaient, rassoyaient" ],
+  "passeSimple": [ "me rassis", "te rassis", "se rassit", "nous rassîmes", "vous rassîtes", "se rassirent" ],
+  "futurSimple": [ "me rassiérai, rassoirai, rasseyerai", "te rassiéras, rassoiras, rasseyeras", "se rassiéra, rassoira, rasseyera", "nous rassiérons, rassoirons, rasseyerons", "vous rassiérez, rassoirez, rasseyerez", "se rassiéront, rassoiront, rasseyeront" ],
+  "passeCompose": [ "me suis rassis(e)", "t'es rassis(e)", "s'est rassis(e)", "nous sommes rassis(es)", "vous êtes rassis(e(s))", "se sont rassis(es)" ],
+  "plusQueParfait": [ "m'étais rassis(e)", "t'étais rassis(e)", "s'était rassis(e)", "nous étions rassis(es)", "vous étiez rassis(e(s))", "s'étaient rassis(es)" ],
+  "passeAnterieur": [ "me fus rassis(e)", "te fus rassis(e)", "se fut rassis(e)", "nous fûmes rassis(es)", "vous fûtes rassis(e(s))", "se furent rassis(es)" ],
+  "futurAnterieur": [ "me serai rassis(e)", "te seras rassis(e)", "se sera rassis(e)", "nous serons rassis(es)", "vous serez rassis(e(s))", "se seront rassis(es)" ],
+  "subjonctifPresent": [ "me rasseye, rassoie", "te rasseyes, rassoies", "se rasseye, rassoie", "nous rasseyions, rassoyions", "vous rasseyiez, rassoyiez", "se rasseyent, rassoient" ],
+  "subjonctifImparfait": [ "me rassisse", "te rassisses", "se rassît", "nous rassissions", "vous rassissiez", "se rassissent" ],
+  "subjonctifPasse": [ "me sois rassis(e)", "te sois rassis(e)", "se soit rassis(e)", "nous soyons rassis(es)", "vous soyez rassis(e(s))", "se soient rassis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse rassis(e)", "te fusses rassis(e)", "se fût rassis(e)", "nous fussions rassis(es)", "vous fussiez rassis(e(s))", "se fussent rassis(es)" ],
+  "conditionnelPresent": [ "me rassiérais, rassoirais, rasseyerais", "te rassiérais, rassoirais, rasseyerais", "se rassiérait, rassoirait, rasseyerait", "nous rassiérions, rassoirions, rasseyerions", "vous rassiériez, rassoiriez, rasseyeriez", "se rassiéraient, rassoiraient, rasseyeraient" ],
+  "conditionnelPasse": [ "me serais rassis(e)", "te serais rassis(e)", "se serait rassis(e)", "nous serions rassis(es)", "vous seriez rassis(e(s))", "se seraient rassis(es)" ],
+  "conditionnelPasseII": [ "me fusse rassis(e)", "te fusses rassis(e)", "se fût rassis(e)", "nous fussions rassis(es)", "vous fussiez rassis(e(s))", "se fussent rassis(es)" ],
+  "imperatif": [ "–", "rassieds-toi, rassois-toi !", "–", "rasseyons-nous, rassoyons-nous !", "rasseyez-vous, rassoyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

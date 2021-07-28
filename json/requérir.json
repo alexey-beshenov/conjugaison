@@ -1,0 +1,22 @@
+{
+  "infinitif": "requérir",
+  "participePresent": "requérant",
+  "participePasse": "requis",
+  "present": [ "requiers", "requiers", "requiert", "requérons", "requérez", "requièrent" ],
+  "imparfait": [ "requérais", "requérais", "requérait", "requérions", "requériez", "requéraient" ],
+  "passeSimple": [ "requis", "requis", "requit", "requîmes", "requîtes", "requirent" ],
+  "futurSimple": [ "requerrai", "requerras", "requerra", "requerrons", "requerrez", "requerront" ],
+  "passeCompose": [ "ai requis", "as requis", "a requis", "avons requis", "avez requis", "ont requis" ],
+  "plusQueParfait": [ "avais requis", "avais requis", "avait requis", "avions requis", "aviez requis", "avaient requis" ],
+  "passeAnterieur": [ "eus requis", "eus requis", "eut requis", "eûmes requis", "eûtes requis", "eurent requis" ],
+  "futurAnterieur": [ "aurai requis", "auras requis", "aura requis", "aurons requis", "aurez requis", "auront requis" ],
+  "subjonctifPresent": [ "requière", "requières", "requière", "requérions", "requériez", "requièrent" ],
+  "subjonctifImparfait": [ "requisse", "requisses", "requît", "requissions", "requissiez", "requissent" ],
+  "subjonctifPasse": [ "aie requis", "aies requis", "ait requis", "ayons requis", "ayez requis", "aient requis" ],
+  "subjonctifPlusQueParfait": [ "eusse requis", "eusses requis", "eût requis", "eussions requis", "eussiez requis", "eussent requis" ],
+  "conditionnelPresent": [ "requerrais", "requerrais", "requerrait", "requerrions", "requerriez", "requerraient" ],
+  "conditionnelPasse": [ "aurais requis", "aurais requis", "aurait requis", "aurions requis", "auriez requis", "auraient requis" ],
+  "conditionnelPasseII": [ "eusse requis", "eusses requis", "eût requis", "eussions requis", "eussiez requis", "eussent requis" ],
+  "imperatif": [ "–", "requiers !", "–", "requérons !", "requérez !", "–" ],
+  "imperatifPasse": [ "–", "aie requis !", "–", "ayons requis !", "ayez requis !", "–" ]
+}

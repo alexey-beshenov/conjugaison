@@ -1,0 +1,22 @@
+{
+  "infinitif": "se soumettre",
+  "participePresent": "se soumettant",
+  "participePasse": "soumis",
+  "present": [ "me soumets", "te soumets", "se soumet", "nous soumettons", "vous soumettez", "se soumettent" ],
+  "imparfait": [ "me soumettais", "te soumettais", "se soumettait", "nous soumettions", "vous soumettiez", "se soumettaient" ],
+  "passeSimple": [ "me soumis", "te soumis", "se soumit", "nous soumîmes", "vous soumîtes", "se soumirent" ],
+  "futurSimple": [ "me soumettrai", "te soumettras", "se soumettra", "nous soumettrons", "vous soumettrez", "se soumettront" ],
+  "passeCompose": [ "me suis soumis(e)", "t'es soumis(e)", "s'est soumis(e)", "nous sommes soumis(es)", "vous êtes soumis(e(s))", "se sont soumis(es)" ],
+  "plusQueParfait": [ "m'étais soumis(e)", "t'étais soumis(e)", "s'était soumis(e)", "nous étions soumis(es)", "vous étiez soumis(e(s))", "s'étaient soumis(es)" ],
+  "passeAnterieur": [ "me fus soumis(e)", "te fus soumis(e)", "se fut soumis(e)", "nous fûmes soumis(es)", "vous fûtes soumis(e(s))", "se furent soumis(es)" ],
+  "futurAnterieur": [ "me serai soumis(e)", "te seras soumis(e)", "se sera soumis(e)", "nous serons soumis(es)", "vous serez soumis(e(s))", "se seront soumis(es)" ],
+  "subjonctifPresent": [ "me soumette", "te soumettes", "se soumette", "nous soumettions", "vous soumettiez", "se soumettent" ],
+  "subjonctifImparfait": [ "me soumisse", "te soumisses", "se soumît", "nous soumissions", "vous soumissiez", "se soumissent" ],
+  "subjonctifPasse": [ "me sois soumis(e)", "te sois soumis(e)", "se soit soumis(e)", "nous soyons soumis(es)", "vous soyez soumis(e(s))", "se soient soumis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse soumis(e)", "te fusses soumis(e)", "se fût soumis(e)", "nous fussions soumis(es)", "vous fussiez soumis(e(s))", "se fussent soumis(es)" ],
+  "conditionnelPresent": [ "me soumettrais", "te soumettrais", "se soumettrait", "nous soumettrions", "vous soumettriez", "se soumettraient" ],
+  "conditionnelPasse": [ "me serais soumis(e)", "te serais soumis(e)", "se serait soumis(e)", "nous serions soumis(es)", "vous seriez soumis(e(s))", "se seraient soumis(es)" ],
+  "conditionnelPasseII": [ "me fusse soumis(e)", "te fusses soumis(e)", "se fût soumis(e)", "nous fussions soumis(es)", "vous fussiez soumis(e(s))", "se fussent soumis(es)" ],
+  "imperatif": [ "–", "soumets-toi !", "–", "soumettons-nous !", "soumettez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "regeler",
+  "participePresent": "regelant",
+  "participePasse": "regelé",
+  "present": [ "regèle", "regèles", "regèle", "regelons", "regelez", "regèlent" ],
+  "imparfait": [ "regelais", "regelais", "regelait", "regelions", "regeliez", "regelaient" ],
+  "passeSimple": [ "regelai", "regelas", "regela", "regelâmes", "regelâtes", "regelèrent" ],
+  "futurSimple": [ "regèlerai", "regèleras", "regèlera", "regèlerons", "regèlerez", "regèleront" ],
+  "passeCompose": [ "ai regelé", "as regelé", "a regelé", "avons regelé", "avez regelé", "ont regelé" ],
+  "plusQueParfait": [ "avais regelé", "avais regelé", "avait regelé", "avions regelé", "aviez regelé", "avaient regelé" ],
+  "passeAnterieur": [ "eus regelé", "eus regelé", "eut regelé", "eûmes regelé", "eûtes regelé", "eurent regelé" ],
+  "futurAnterieur": [ "aurai regelé", "auras regelé", "aura regelé", "aurons regelé", "aurez regelé", "auront regelé" ],
+  "subjonctifPresent": [ "regèle", "regèles", "regèle", "regelions", "regeliez", "regèlent" ],
+  "subjonctifImparfait": [ "regelasse", "regelasses", "regelât", "regelassions", "regelassiez", "regelassent" ],
+  "subjonctifPasse": [ "aie regelé", "aies regelé", "ait regelé", "ayons regelé", "ayez regelé", "aient regelé" ],
+  "subjonctifPlusQueParfait": [ "eusse regelé", "eusses regelé", "eût regelé", "eussions regelé", "eussiez regelé", "eussent regelé" ],
+  "conditionnelPresent": [ "regèlerais", "regèlerais", "regèlerait", "regèlerions", "regèleriez", "regèleraient" ],
+  "conditionnelPasse": [ "aurais regelé", "aurais regelé", "aurait regelé", "aurions regelé", "auriez regelé", "auraient regelé" ],
+  "conditionnelPasseII": [ "eusse regelé", "eusses regelé", "eût regelé", "eussions regelé", "eussiez regelé", "eussent regelé" ],
+  "imperatif": [ "–", "regèle !", "–", "regelons !", "regelez !", "–" ],
+  "imperatifPasse": [ "–", "aie regelé !", "–", "ayons regelé !", "ayez regelé !", "–" ]
+}

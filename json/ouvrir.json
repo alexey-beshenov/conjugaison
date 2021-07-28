@@ -1,0 +1,22 @@
+{
+  "infinitif": "ouvrir",
+  "participePresent": "ouvrant",
+  "participePasse": "ouvert",
+  "present": [ "ouvre", "ouvres", "ouvre", "ouvrons", "ouvrez", "ouvrent" ],
+  "imparfait": [ "ouvrais", "ouvrais", "ouvrait", "ouvrions", "ouvriez", "ouvraient" ],
+  "passeSimple": [ "ouvris", "ouvris", "ouvrit", "ouvrîmes", "ouvrîtes", "ouvrirent" ],
+  "futurSimple": [ "ouvrirai", "ouvriras", "ouvrira", "ouvrirons", "ouvrirez", "ouvriront" ],
+  "passeCompose": [ "ai ouvert", "as ouvert", "a ouvert", "avons ouvert", "avez ouvert", "ont ouvert" ],
+  "plusQueParfait": [ "avais ouvert", "avais ouvert", "avait ouvert", "avions ouvert", "aviez ouvert", "avaient ouvert" ],
+  "passeAnterieur": [ "eus ouvert", "eus ouvert", "eut ouvert", "eûmes ouvert", "eûtes ouvert", "eurent ouvert" ],
+  "futurAnterieur": [ "aurai ouvert", "auras ouvert", "aura ouvert", "aurons ouvert", "aurez ouvert", "auront ouvert" ],
+  "subjonctifPresent": [ "ouvre", "ouvres", "ouvre", "ouvrions", "ouvriez", "ouvrent" ],
+  "subjonctifImparfait": [ "ouvrisse", "ouvrisses", "ouvrît", "ouvrissions", "ouvrissiez", "ouvrissent" ],
+  "subjonctifPasse": [ "aie ouvert", "aies ouvert", "ait ouvert", "ayons ouvert", "ayez ouvert", "aient ouvert" ],
+  "subjonctifPlusQueParfait": [ "eusse ouvert", "eusses ouvert", "eût ouvert", "eussions ouvert", "eussiez ouvert", "eussent ouvert" ],
+  "conditionnelPresent": [ "ouvrirais", "ouvrirais", "ouvrirait", "ouvririons", "ouvririez", "ouvriraient" ],
+  "conditionnelPasse": [ "aurais ouvert", "aurais ouvert", "aurait ouvert", "aurions ouvert", "auriez ouvert", "auraient ouvert" ],
+  "conditionnelPasseII": [ "eusse ouvert", "eusses ouvert", "eût ouvert", "eussions ouvert", "eussiez ouvert", "eussent ouvert" ],
+  "imperatif": [ "–", "ouvre !", "–", "ouvrons !", "ouvrez !", "–" ],
+  "imperatifPasse": [ "–", "aie ouvert !", "–", "ayons ouvert !", "ayez ouvert !", "–" ]
+}

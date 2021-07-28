@@ -1,0 +1,22 @@
+{
+  "infinitif": "appeler",
+  "participePresent": "appelant",
+  "participePasse": "appelé",
+  "present": [ "appelle", "appelles", "appelle", "appelons", "appelez", "appellent" ],
+  "imparfait": [ "appelais", "appelais", "appelait", "appelions", "appeliez", "appelaient" ],
+  "passeSimple": [ "appelai", "appelas", "appela", "appelâmes", "appelâtes", "appelèrent" ],
+  "futurSimple": [ "appellerai", "appelleras", "appellera", "appellerons", "appellerez", "appelleront" ],
+  "passeCompose": [ "ai appelé", "as appelé", "a appelé", "avons appelé", "avez appelé", "ont appelé" ],
+  "plusQueParfait": [ "avais appelé", "avais appelé", "avait appelé", "avions appelé", "aviez appelé", "avaient appelé" ],
+  "passeAnterieur": [ "eus appelé", "eus appelé", "eut appelé", "eûmes appelé", "eûtes appelé", "eurent appelé" ],
+  "futurAnterieur": [ "aurai appelé", "auras appelé", "aura appelé", "aurons appelé", "aurez appelé", "auront appelé" ],
+  "subjonctifPresent": [ "appelle", "appelles", "appelle", "appelions", "appeliez", "appellent" ],
+  "subjonctifImparfait": [ "appelasse", "appelasses", "appelât", "appelassions", "appelassiez", "appelassent" ],
+  "subjonctifPasse": [ "aie appelé", "aies appelé", "ait appelé", "ayons appelé", "ayez appelé", "aient appelé" ],
+  "subjonctifPlusQueParfait": [ "eusse appelé", "eusses appelé", "eût appelé", "eussions appelé", "eussiez appelé", "eussent appelé" ],
+  "conditionnelPresent": [ "appellerais", "appellerais", "appellerait", "appellerions", "appelleriez", "appelleraient" ],
+  "conditionnelPasse": [ "aurais appelé", "aurais appelé", "aurait appelé", "aurions appelé", "auriez appelé", "auraient appelé" ],
+  "conditionnelPasseII": [ "eusse appelé", "eusses appelé", "eût appelé", "eussions appelé", "eussiez appelé", "eussent appelé" ],
+  "imperatif": [ "–", "appelle !", "–", "appelons !", "appelez !", "–" ],
+  "imperatifPasse": [ "–", "aie appelé !", "–", "ayons appelé !", "ayez appelé !", "–" ]
+}

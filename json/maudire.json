@@ -1,0 +1,22 @@
+{
+  "infinitif": "maudire",
+  "participePresent": "maudissant",
+  "participePasse": "maudit",
+  "present": [ "maudis", "maudis", "maudit", "maudissons", "maudissez", "maudissent" ],
+  "imparfait": [ "maudissais", "maudissais", "maudissait", "maudissions", "maudissiez", "maudissaient" ],
+  "passeSimple": [ "maudis", "maudis", "maudit", "maudîmes", "maudîtes", "maudirent" ],
+  "futurSimple": [ "maudirai", "maudiras", "maudira", "maudirons", "maudirez", "maudiront" ],
+  "passeCompose": [ "ai maudit", "as maudit", "a maudit", "avons maudit", "avez maudit", "ont maudit" ],
+  "plusQueParfait": [ "avais maudit", "avais maudit", "avait maudit", "avions maudit", "aviez maudit", "avaient maudit" ],
+  "passeAnterieur": [ "eus maudit", "eus maudit", "eut maudit", "eûmes maudit", "eûtes maudit", "eurent maudit" ],
+  "futurAnterieur": [ "aurai maudit", "auras maudit", "aura maudit", "aurons maudit", "aurez maudit", "auront maudit" ],
+  "subjonctifPresent": [ "maudisse", "maudisses", "maudisse", "maudissions", "maudissiez", "maudissent" ],
+  "subjonctifImparfait": [ "maudisse", "maudisses", "maudît", "maudissions", "maudissiez", "maudissent" ],
+  "subjonctifPasse": [ "aie maudit", "aies maudit", "ait maudit", "ayons maudit", "ayez maudit", "aient maudit" ],
+  "subjonctifPlusQueParfait": [ "eusse maudit", "eusses maudit", "eût maudit", "eussions maudit", "eussiez maudit", "eussent maudit" ],
+  "conditionnelPresent": [ "maudirais", "maudirais", "maudirait", "maudirions", "maudiriez", "maudiraient" ],
+  "conditionnelPasse": [ "aurais maudit", "aurais maudit", "aurait maudit", "aurions maudit", "auriez maudit", "auraient maudit" ],
+  "conditionnelPasseII": [ "eusse maudit", "eusses maudit", "eût maudit", "eussions maudit", "eussiez maudit", "eussent maudit" ],
+  "imperatif": [ "–", "maudis !", "–", "maudissons !", "maudissez !", "–" ],
+  "imperatifPasse": [ "–", "aie maudit !", "–", "ayons maudit !", "ayez maudit !", "–" ]
+}

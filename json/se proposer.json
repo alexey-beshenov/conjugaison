@@ -1,0 +1,22 @@
+{
+  "infinitif": "se proposer",
+  "participePresent": "se proposant",
+  "participePasse": "proposé",
+  "present": [ "me propose", "te proposes", "se propose", "nous proposons", "vous proposez", "se proposent" ],
+  "imparfait": [ "me proposais", "te proposais", "se proposait", "nous proposions", "vous proposiez", "se proposaient" ],
+  "passeSimple": [ "me proposai", "te proposas", "se proposa", "nous proposâmes", "vous proposâtes", "se proposèrent" ],
+  "futurSimple": [ "me proposerai", "te proposeras", "se proposera", "nous proposerons", "vous proposerez", "se proposeront" ],
+  "passeCompose": [ "me suis proposé(e)", "t'es proposé(e)", "s'est proposé(e)", "nous sommes proposé(e)s", "vous êtes proposé(e)(s)", "se sont proposé(e)s" ],
+  "plusQueParfait": [ "m'étais proposé(e)", "t'étais proposé(e)", "s'était proposé(e)", "nous étions proposé(e)s", "vous étiez proposé(e)(s)", "s'étaient proposé(e)s" ],
+  "passeAnterieur": [ "me fus proposé(e)", "te fus proposé(e)", "se fut proposé(e)", "nous fûmes proposé(e)s", "vous fûtes proposé(e)(s)", "se furent proposé(e)s" ],
+  "futurAnterieur": [ "me serai proposé(e)", "te seras proposé(e)", "se sera proposé(e)", "nous serons proposé(e)s", "vous serez proposé(e)(s)", "se seront proposé(e)s" ],
+  "subjonctifPresent": [ "me propose", "te proposes", "se propose", "nous proposions", "vous proposiez", "se proposent" ],
+  "subjonctifImparfait": [ "me proposasse", "te proposasses", "se proposât", "nous proposassions", "vous proposassiez", "se proposassent" ],
+  "subjonctifPasse": [ "me sois proposé(e)", "te sois proposé(e)", "se soit proposé(e)", "nous soyons proposé(e)s", "vous soyez proposé(e)(s)", "se soient proposé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse proposé(e)", "te fusses proposé(e)", "se fût proposé(e)", "nous fussions proposé(e)s", "vous fussiez proposé(e)(s)", "se fussent proposé(e)s" ],
+  "conditionnelPresent": [ "me proposerais", "te proposerais", "se proposerait", "nous proposerions", "vous proposeriez", "se proposeraient" ],
+  "conditionnelPasse": [ "me serais proposé(e)", "te serais proposé(e)", "se serait proposé(e)", "nous serions proposé(e)s", "vous seriez proposé(e)(s)", "se seraient proposé(e)s" ],
+  "conditionnelPasseII": [ "me fusse proposé(e)", "te fusses proposé(e)", "se fût proposé(e)", "nous fussions proposé(e)s", "vous fussiez proposé(e)(s)", "se fussent proposé(e)s" ],
+  "imperatif": [ "–", "propose-toi !", "–", "proposons-nous !", "proposez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

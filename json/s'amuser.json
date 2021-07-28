@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'amuser",
+  "participePresent": "s'amusant",
+  "participePasse": "amusé",
+  "present": [ "m'amuse", "t'amuses", "s'amuse", "nous amusons", "vous amusez", "s'amusent" ],
+  "imparfait": [ "m'amusais", "t'amusais", "s'amusait", "nous amusions", "vous amusiez", "s'amusaient" ],
+  "passeSimple": [ "m'amusai", "t'amusas", "s'amusa", "nous amusâmes", "vous amusâtes", "s'amusèrent" ],
+  "futurSimple": [ "m'amuserai", "t'amuseras", "s'amusera", "nous amuserons", "vous amuserez", "s'amuseront" ],
+  "passeCompose": [ "me suis amusé(e)", "t'es amusé(e)", "s'est amusé(e)", "nous sommes amusé(e)s", "vous êtes amusé(e)(s)", "se sont amusé(e)s" ],
+  "plusQueParfait": [ "m'étais amusé(e)", "t'étais amusé(e)", "s'était amusé(e)", "nous étions amusé(e)s", "vous étiez amusé(e)(s)", "s'étaient amusé(e)s" ],
+  "passeAnterieur": [ "me fus amusé(e)", "te fus amusé(e)", "se fut amusé(e)", "nous fûmes amusé(e)s", "vous fûtes amusé(e)(s)", "se furent amusé(e)s" ],
+  "futurAnterieur": [ "me serai amusé(e)", "te seras amusé(e)", "se sera amusé(e)", "nous serons amusé(e)s", "vous serez amusé(e)(s)", "se seront amusé(e)s" ],
+  "subjonctifPresent": [ "m'amuse", "t'amuses", "s'amuse", "nous amusions", "vous amusiez", "s'amusent" ],
+  "subjonctifImparfait": [ "m'amusasse", "t'amusasses", "s'amusât", "nous amusassions", "vous amusassiez", "s'amusassent" ],
+  "subjonctifPasse": [ "me sois amusé(e)", "te sois amusé(e)", "se soit amusé(e)", "nous soyons amusé(e)s", "vous soyez amusé(e)(s)", "se soient amusé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse amusé(e)", "te fusses amusé(e)", "se fût amusé(e)", "nous fussions amusé(e)s", "vous fussiez amusé(e)(s)", "se fussent amusé(e)s" ],
+  "conditionnelPresent": [ "m'amuserais", "t'amuserais", "s'amuserait", "nous amuserions", "vous amuseriez", "s'amuseraient" ],
+  "conditionnelPasse": [ "me serais amusé(e)", "te serais amusé(e)", "se serait amusé(e)", "nous serions amusé(e)s", "vous seriez amusé(e)(s)", "se seraient amusé(e)s" ],
+  "conditionnelPasseII": [ "me fusse amusé(e)", "te fusses amusé(e)", "se fût amusé(e)", "nous fussions amusé(e)s", "vous fussiez amusé(e)(s)", "se fussent amusé(e)s" ],
+  "imperatif": [ "–", "amuse-toi !", "–", "amusons-nous !", "amusez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

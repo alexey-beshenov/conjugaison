@@ -1,0 +1,22 @@
+{
+  "infinitif": "fatiguer",
+  "participePresent": "fatiguant",
+  "participePasse": "fatigué",
+  "present": [ "fatigue", "fatigues", "fatigue", "fatiguons", "fatiguez", "fatiguent" ],
+  "imparfait": [ "fatiguais", "fatiguais", "fatiguait", "fatiguions", "fatiguiez", "fatiguaient" ],
+  "passeSimple": [ "fatiguai", "fatiguas", "fatigua", "fatiguâmes", "fatiguâtes", "fatiguèrent" ],
+  "futurSimple": [ "fatiguerai", "fatigueras", "fatiguera", "fatiguerons", "fatiguerez", "fatigueront" ],
+  "passeCompose": [ "ai fatigué", "as fatigué", "a fatigué", "avons fatigué", "avez fatigué", "ont fatigué" ],
+  "plusQueParfait": [ "avais fatigué", "avais fatigué", "avait fatigué", "avions fatigué", "aviez fatigué", "avaient fatigué" ],
+  "passeAnterieur": [ "eus fatigué", "eus fatigué", "eut fatigué", "eûmes fatigué", "eûtes fatigué", "eurent fatigué" ],
+  "futurAnterieur": [ "aurai fatigué", "auras fatigué", "aura fatigué", "aurons fatigué", "aurez fatigué", "auront fatigué" ],
+  "subjonctifPresent": [ "fatigue", "fatigues", "fatigue", "fatiguions", "fatiguiez", "fatiguent" ],
+  "subjonctifImparfait": [ "fatiguasse", "fatiguasses", "fatiguât", "fatiguassions", "fatiguassiez", "fatiguassent" ],
+  "subjonctifPasse": [ "aie fatigué", "aies fatigué", "ait fatigué", "ayons fatigué", "ayez fatigué", "aient fatigué" ],
+  "subjonctifPlusQueParfait": [ "eusse fatigué", "eusses fatigué", "eût fatigué", "eussions fatigué", "eussiez fatigué", "eussent fatigué" ],
+  "conditionnelPresent": [ "fatiguerais", "fatiguerais", "fatiguerait", "fatiguerions", "fatigueriez", "fatigueraient" ],
+  "conditionnelPasse": [ "aurais fatigué", "aurais fatigué", "aurait fatigué", "aurions fatigué", "auriez fatigué", "auraient fatigué" ],
+  "conditionnelPasseII": [ "eusse fatigué", "eusses fatigué", "eût fatigué", "eussions fatigué", "eussiez fatigué", "eussent fatigué" ],
+  "imperatif": [ "–", "fatigue !", "–", "fatiguons !", "fatiguez !", "–" ],
+  "imperatifPasse": [ "–", "aie fatigué !", "–", "ayons fatigué !", "ayez fatigué !", "–" ]
+}

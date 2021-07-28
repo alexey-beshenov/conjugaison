@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'installer",
+  "participePresent": "s'installant",
+  "participePasse": "installé",
+  "present": [ "m'installe", "t'installes", "s'installe", "nous installons", "vous installez", "s'installent" ],
+  "imparfait": [ "m'installais", "t'installais", "s'installait", "nous installions", "vous installiez", "s'installaient" ],
+  "passeSimple": [ "m'installai", "t'installas", "s'installa", "nous installâmes", "vous installâtes", "s'installèrent" ],
+  "futurSimple": [ "m'installerai", "t'installeras", "s'installera", "nous installerons", "vous installerez", "s'installeront" ],
+  "passeCompose": [ "me suis installé(e)", "t'es installé(e)", "s'est installé(e)", "nous sommes installé(e)s", "vous êtes installé(e)(s)", "se sont installé(e)s" ],
+  "plusQueParfait": [ "m'étais installé(e)", "t'étais installé(e)", "s'était installé(e)", "nous étions installé(e)s", "vous étiez installé(e)(s)", "s'étaient installé(e)s" ],
+  "passeAnterieur": [ "me fus installé(e)", "te fus installé(e)", "se fut installé(e)", "nous fûmes installé(e)s", "vous fûtes installé(e)(s)", "se furent installé(e)s" ],
+  "futurAnterieur": [ "me serai installé(e)", "te seras installé(e)", "se sera installé(e)", "nous serons installé(e)s", "vous serez installé(e)(s)", "se seront installé(e)s" ],
+  "subjonctifPresent": [ "m'installe", "t'installes", "s'installe", "nous installions", "vous installiez", "s'installent" ],
+  "subjonctifImparfait": [ "m'installasse", "t'installasses", "s'installât", "nous installassions", "vous installassiez", "s'installassent" ],
+  "subjonctifPasse": [ "me sois installé(e)", "te sois installé(e)", "se soit installé(e)", "nous soyons installé(e)s", "vous soyez installé(e)(s)", "se soient installé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse installé(e)", "te fusses installé(e)", "se fût installé(e)", "nous fussions installé(e)s", "vous fussiez installé(e)(s)", "se fussent installé(e)s" ],
+  "conditionnelPresent": [ "m'installerais", "t'installerais", "s'installerait", "nous installerions", "vous installeriez", "s'installeraient" ],
+  "conditionnelPasse": [ "me serais installé(e)", "te serais installé(e)", "se serait installé(e)", "nous serions installé(e)s", "vous seriez installé(e)(s)", "se seraient installé(e)s" ],
+  "conditionnelPasseII": [ "me fusse installé(e)", "te fusses installé(e)", "se fût installé(e)", "nous fussions installé(e)s", "vous fussiez installé(e)(s)", "se fussent installé(e)s" ],
+  "imperatif": [ "–", "installe-toi !", "–", "installons-nous !", "installez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

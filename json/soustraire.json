@@ -1,0 +1,22 @@
+{
+  "infinitif": "soustraire",
+  "participePresent": "soustrayant",
+  "participePasse": "soustrait",
+  "present": [ "soustrais", "soustrais", "soustrait", "soustrayons", "soustrayez", "soustraient" ],
+  "imparfait": [ "soustrayais", "soustrayais", "soustrayait", "soustrayions", "soustrayiez", "soustrayaient" ],
+  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
+  "futurSimple": [ "soustrairai", "soustrairas", "soustraira", "soustrairons", "soustrairez", "soustrairont" ],
+  "passeCompose": [ "ai soustrait", "as soustrait", "a soustrait", "avons soustrait", "avez soustrait", "ont soustrait" ],
+  "plusQueParfait": [ "avais soustrait", "avais soustrait", "avait soustrait", "avions soustrait", "aviez soustrait", "avaient soustrait" ],
+  "passeAnterieur": [ "eus soustrait", "eus soustrait", "eut soustrait", "eûmes soustrait", "eûtes soustrait", "eurent soustrait" ],
+  "futurAnterieur": [ "aurai soustrait", "auras soustrait", "aura soustrait", "aurons soustrait", "aurez soustrait", "auront soustrait" ],
+  "subjonctifPresent": [ "soustraie", "soustraies", "soustraie", "soustrayions", "soustrayiez", "soustraient" ],
+  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPasse": [ "aie soustrait", "aies soustrait", "ait soustrait", "ayons soustrait", "ayez soustrait", "aient soustrait" ],
+  "subjonctifPlusQueParfait": [ "eusse soustrait", "eusses soustrait", "eût soustrait", "eussions soustrait", "eussiez soustrait", "eussent soustrait" ],
+  "conditionnelPresent": [ "soustrairais", "soustrairais", "soustrairait", "soustrairions", "soustrairiez", "soustrairaient" ],
+  "conditionnelPasse": [ "aurais soustrait", "aurais soustrait", "aurait soustrait", "aurions soustrait", "auriez soustrait", "auraient soustrait" ],
+  "conditionnelPasseII": [ "eusse soustrait", "eusses soustrait", "eût soustrait", "eussions soustrait", "eussiez soustrait", "eussent soustrait" ],
+  "imperatif": [ "–", "soustrais !", "–", "soustrayons !", "soustrayez !", "–" ],
+  "imperatifPasse": [ "–", "aie soustrait !", "–", "ayons soustrait !", "ayez soustrait !", "–" ]
+}

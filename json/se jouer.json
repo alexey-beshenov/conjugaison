@@ -1,0 +1,22 @@
+{
+  "infinitif": "se jouer",
+  "participePresent": "se jouant",
+  "participePasse": "joué",
+  "present": [ "me joue", "te joues", "se joue", "nous jouons", "vous jouez", "se jouent" ],
+  "imparfait": [ "me jouais", "te jouais", "se jouait", "nous jouions", "vous jouiez", "se jouaient" ],
+  "passeSimple": [ "me jouai", "te jouas", "se joua", "nous jouâmes", "vous jouâtes", "se jouèrent" ],
+  "futurSimple": [ "me jouerai", "te joueras", "se jouera", "nous jouerons", "vous jouerez", "se joueront" ],
+  "passeCompose": [ "me suis joué(e)", "t'es joué(e)", "s'est joué(e)", "nous sommes joué(e)s", "vous êtes joué(e)(s)", "se sont joué(e)s" ],
+  "plusQueParfait": [ "m'étais joué(e)", "t'étais joué(e)", "s'était joué(e)", "nous étions joué(e)s", "vous étiez joué(e)(s)", "s'étaient joué(e)s" ],
+  "passeAnterieur": [ "me fus joué(e)", "te fus joué(e)", "se fut joué(e)", "nous fûmes joué(e)s", "vous fûtes joué(e)(s)", "se furent joué(e)s" ],
+  "futurAnterieur": [ "me serai joué(e)", "te seras joué(e)", "se sera joué(e)", "nous serons joué(e)s", "vous serez joué(e)(s)", "se seront joué(e)s" ],
+  "subjonctifPresent": [ "me joue", "te joues", "se joue", "nous jouions", "vous jouiez", "se jouent" ],
+  "subjonctifImparfait": [ "me jouasse", "te jouasses", "se jouât", "nous jouassions", "vous jouassiez", "se jouassent" ],
+  "subjonctifPasse": [ "me sois joué(e)", "te sois joué(e)", "se soit joué(e)", "nous soyons joué(e)s", "vous soyez joué(e)(s)", "se soient joué(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse joué(e)", "te fusses joué(e)", "se fût joué(e)", "nous fussions joué(e)s", "vous fussiez joué(e)(s)", "se fussent joué(e)s" ],
+  "conditionnelPresent": [ "me jouerais", "te jouerais", "se jouerait", "nous jouerions", "vous joueriez", "se joueraient" ],
+  "conditionnelPasse": [ "me serais joué(e)", "te serais joué(e)", "se serait joué(e)", "nous serions joué(e)s", "vous seriez joué(e)(s)", "se seraient joué(e)s" ],
+  "conditionnelPasseII": [ "me fusse joué(e)", "te fusses joué(e)", "se fût joué(e)", "nous fussions joué(e)s", "vous fussiez joué(e)(s)", "se fussent joué(e)s" ],
+  "imperatif": [ "–", "joue-toi !", "–", "jouons-nous !", "jouez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

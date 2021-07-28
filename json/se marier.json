@@ -1,0 +1,22 @@
+{
+  "infinitif": "se marier",
+  "participePresent": "se mariant",
+  "participePasse": "marié",
+  "present": [ "me marie", "te maries", "se marie", "nous marions", "vous mariez", "se marient" ],
+  "imparfait": [ "me mariais", "te mariais", "se mariait", "nous mariions", "vous mariiez", "se mariaient" ],
+  "passeSimple": [ "me mariai", "te marias", "se maria", "nous mariâmes", "vous mariâtes", "se marièrent" ],
+  "futurSimple": [ "me marierai", "te marieras", "se mariera", "nous marierons", "vous marierez", "se marieront" ],
+  "passeCompose": [ "me suis marié(e)", "t'es marié(e)", "s'est marié(e)", "nous sommes marié(e)s", "vous êtes marié(e)(s)", "se sont marié(e)s" ],
+  "plusQueParfait": [ "m'étais marié(e)", "t'étais marié(e)", "s'était marié(e)", "nous étions marié(e)s", "vous étiez marié(e)(s)", "s'étaient marié(e)s" ],
+  "passeAnterieur": [ "me fus marié(e)", "te fus marié(e)", "se fut marié(e)", "nous fûmes marié(e)s", "vous fûtes marié(e)(s)", "se furent marié(e)s" ],
+  "futurAnterieur": [ "me serai marié(e)", "te seras marié(e)", "se sera marié(e)", "nous serons marié(e)s", "vous serez marié(e)(s)", "se seront marié(e)s" ],
+  "subjonctifPresent": [ "me marie", "te maries", "se marie", "nous mariions", "vous mariiez", "se marient" ],
+  "subjonctifImparfait": [ "me mariasse", "te mariasses", "se mariât", "nous mariassions", "vous mariassiez", "se mariassent" ],
+  "subjonctifPasse": [ "me sois marié(e)", "te sois marié(e)", "se soit marié(e)", "nous soyons marié(e)s", "vous soyez marié(e)(s)", "se soient marié(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse marié(e)", "te fusses marié(e)", "se fût marié(e)", "nous fussions marié(e)s", "vous fussiez marié(e)(s)", "se fussent marié(e)s" ],
+  "conditionnelPresent": [ "me marierais", "te marierais", "se marierait", "nous marierions", "vous marieriez", "se marieraient" ],
+  "conditionnelPasse": [ "me serais marié(e)", "te serais marié(e)", "se serait marié(e)", "nous serions marié(e)s", "vous seriez marié(e)(s)", "se seraient marié(e)s" ],
+  "conditionnelPasseII": [ "me fusse marié(e)", "te fusses marié(e)", "se fût marié(e)", "nous fussions marié(e)s", "vous fussiez marié(e)(s)", "se fussent marié(e)s" ],
+  "imperatif": [ "–", "marie-toi !", "–", "marions-nous !", "mariez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

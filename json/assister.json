@@ -1,0 +1,22 @@
+{
+  "infinitif": "assister",
+  "participePresent": "assistant",
+  "participePasse": "assisté",
+  "present": [ "assiste", "assistes", "assiste", "assistons", "assistez", "assistent" ],
+  "imparfait": [ "assistais", "assistais", "assistait", "assistions", "assistiez", "assistaient" ],
+  "passeSimple": [ "assistai", "assistas", "assista", "assistâmes", "assistâtes", "assistèrent" ],
+  "futurSimple": [ "assisterai", "assisteras", "assistera", "assisterons", "assisterez", "assisteront" ],
+  "passeCompose": [ "ai assisté", "as assisté", "a assisté", "avons assisté", "avez assisté", "ont assisté" ],
+  "plusQueParfait": [ "avais assisté", "avais assisté", "avait assisté", "avions assisté", "aviez assisté", "avaient assisté" ],
+  "passeAnterieur": [ "eus assisté", "eus assisté", "eut assisté", "eûmes assisté", "eûtes assisté", "eurent assisté" ],
+  "futurAnterieur": [ "aurai assisté", "auras assisté", "aura assisté", "aurons assisté", "aurez assisté", "auront assisté" ],
+  "subjonctifPresent": [ "assiste", "assistes", "assiste", "assistions", "assistiez", "assistent" ],
+  "subjonctifImparfait": [ "assistasse", "assistasses", "assistât", "assistassions", "assistassiez", "assistassent" ],
+  "subjonctifPasse": [ "aie assisté", "aies assisté", "ait assisté", "ayons assisté", "ayez assisté", "aient assisté" ],
+  "subjonctifPlusQueParfait": [ "eusse assisté", "eusses assisté", "eût assisté", "eussions assisté", "eussiez assisté", "eussent assisté" ],
+  "conditionnelPresent": [ "assisterais", "assisterais", "assisterait", "assisterions", "assisteriez", "assisteraient" ],
+  "conditionnelPasse": [ "aurais assisté", "aurais assisté", "aurait assisté", "aurions assisté", "auriez assisté", "auraient assisté" ],
+  "conditionnelPasseII": [ "eusse assisté", "eusses assisté", "eût assisté", "eussions assisté", "eussiez assisté", "eussent assisté" ],
+  "imperatif": [ "–", "assiste !", "–", "assistons !", "assistez !", "–" ],
+  "imperatifPasse": [ "–", "aie assisté !", "–", "ayons assisté !", "ayez assisté !", "–" ]
+}

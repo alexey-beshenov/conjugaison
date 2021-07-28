@@ -1,0 +1,22 @@
+{
+  "infinitif": "se requérir",
+  "participePresent": "se requérant",
+  "participePasse": "requis",
+  "present": [ "me requiers", "te requiers", "se requiert", "nous requérons", "vous requérez", "se requièrent" ],
+  "imparfait": [ "me requérais", "te requérais", "se requérait", "nous requérions", "vous requériez", "se requéraient" ],
+  "passeSimple": [ "me requis", "te requis", "se requit", "nous requîmes", "vous requîtes", "se requirent" ],
+  "futurSimple": [ "me requerrai", "te requerras", "se requerra", "nous requerrons", "vous requerrez", "se requerront" ],
+  "passeCompose": [ "me suis requis(e)", "t'es requis(e)", "s'est requis(e)", "nous sommes requis(es)", "vous êtes requis(e(s))", "se sont requis(es)" ],
+  "plusQueParfait": [ "m'étais requis(e)", "t'étais requis(e)", "s'était requis(e)", "nous étions requis(es)", "vous étiez requis(e(s))", "s'étaient requis(es)" ],
+  "passeAnterieur": [ "me fus requis(e)", "te fus requis(e)", "se fut requis(e)", "nous fûmes requis(es)", "vous fûtes requis(e(s))", "se furent requis(es)" ],
+  "futurAnterieur": [ "me serai requis(e)", "te seras requis(e)", "se sera requis(e)", "nous serons requis(es)", "vous serez requis(e(s))", "se seront requis(es)" ],
+  "subjonctifPresent": [ "me requière", "te requières", "se requière", "nous requérions", "vous requériez", "se requièrent" ],
+  "subjonctifImparfait": [ "me requisse", "te requisses", "se requît", "nous requissions", "vous requissiez", "se requissent" ],
+  "subjonctifPasse": [ "me sois requis(e)", "te sois requis(e)", "se soit requis(e)", "nous soyons requis(es)", "vous soyez requis(e(s))", "se soient requis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse requis(e)", "te fusses requis(e)", "se fût requis(e)", "nous fussions requis(es)", "vous fussiez requis(e(s))", "se fussent requis(es)" ],
+  "conditionnelPresent": [ "me requerrais", "te requerrais", "se requerrait", "nous requerrions", "vous requerriez", "se requerraient" ],
+  "conditionnelPasse": [ "me serais requis(e)", "te serais requis(e)", "se serait requis(e)", "nous serions requis(es)", "vous seriez requis(e(s))", "se seraient requis(es)" ],
+  "conditionnelPasseII": [ "me fusse requis(e)", "te fusses requis(e)", "se fût requis(e)", "nous fussions requis(es)", "vous fussiez requis(e(s))", "se fussent requis(es)" ],
+  "imperatif": [ "–", "requiers-toi !", "–", "requérons-nous !", "requérez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

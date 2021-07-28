@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'écarter",
+  "participePresent": "s'écartant",
+  "participePasse": "écarté",
+  "present": [ "m'écarte", "t'écartes", "s'écarte", "nous écartons", "vous écartez", "s'écartent" ],
+  "imparfait": [ "m'écartais", "t'écartais", "s'écartait", "nous écartions", "vous écartiez", "s'écartaient" ],
+  "passeSimple": [ "m'écartai", "t'écartas", "s'écarta", "nous écartâmes", "vous écartâtes", "s'écartèrent" ],
+  "futurSimple": [ "m'écarterai", "t'écarteras", "s'écartera", "nous écarterons", "vous écarterez", "s'écarteront" ],
+  "passeCompose": [ "me suis écarté(e)", "t'es écarté(e)", "s'est écarté(e)", "nous sommes écarté(e)s", "vous êtes écarté(e)(s)", "se sont écarté(e)s" ],
+  "plusQueParfait": [ "m'étais écarté(e)", "t'étais écarté(e)", "s'était écarté(e)", "nous étions écarté(e)s", "vous étiez écarté(e)(s)", "s'étaient écarté(e)s" ],
+  "passeAnterieur": [ "me fus écarté(e)", "te fus écarté(e)", "se fut écarté(e)", "nous fûmes écarté(e)s", "vous fûtes écarté(e)(s)", "se furent écarté(e)s" ],
+  "futurAnterieur": [ "me serai écarté(e)", "te seras écarté(e)", "se sera écarté(e)", "nous serons écarté(e)s", "vous serez écarté(e)(s)", "se seront écarté(e)s" ],
+  "subjonctifPresent": [ "m'écarte", "t'écartes", "s'écarte", "nous écartions", "vous écartiez", "s'écartent" ],
+  "subjonctifImparfait": [ "m'écartasse", "t'écartasses", "s'écartât", "nous écartassions", "vous écartassiez", "s'écartassent" ],
+  "subjonctifPasse": [ "me sois écarté(e)", "te sois écarté(e)", "se soit écarté(e)", "nous soyons écarté(e)s", "vous soyez écarté(e)(s)", "se soient écarté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse écarté(e)", "te fusses écarté(e)", "se fût écarté(e)", "nous fussions écarté(e)s", "vous fussiez écarté(e)(s)", "se fussent écarté(e)s" ],
+  "conditionnelPresent": [ "m'écarterais", "t'écarterais", "s'écarterait", "nous écarterions", "vous écarteriez", "s'écarteraient" ],
+  "conditionnelPasse": [ "me serais écarté(e)", "te serais écarté(e)", "se serait écarté(e)", "nous serions écarté(e)s", "vous seriez écarté(e)(s)", "se seraient écarté(e)s" ],
+  "conditionnelPasseII": [ "me fusse écarté(e)", "te fusses écarté(e)", "se fût écarté(e)", "nous fussions écarté(e)s", "vous fussiez écarté(e)(s)", "se fussent écarté(e)s" ],
+  "imperatif": [ "–", "écarte-toi !", "–", "écartons-nous !", "écartez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

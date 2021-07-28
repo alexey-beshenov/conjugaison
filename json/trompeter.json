@@ -1,0 +1,22 @@
+{
+  "infinitif": "trompeter",
+  "participePresent": "trompetant",
+  "participePasse": "trompeté",
+  "present": [ "trompette", "trompettes", "trompette", "trompetons", "trompetez", "trompettent" ],
+  "imparfait": [ "trompetais", "trompetais", "trompetait", "trompetions", "trompetiez", "trompetaient" ],
+  "passeSimple": [ "trompetai", "trompetas", "trompeta", "trompetâmes", "trompetâtes", "trompetèrent" ],
+  "futurSimple": [ "trompetterai", "trompetteras", "trompettera", "trompetterons", "trompetterez", "trompetteront" ],
+  "passeCompose": [ "ai trompeté", "as trompeté", "a trompeté", "avons trompeté", "avez trompeté", "ont trompeté" ],
+  "plusQueParfait": [ "avais trompeté", "avais trompeté", "avait trompeté", "avions trompeté", "aviez trompeté", "avaient trompeté" ],
+  "passeAnterieur": [ "eus trompeté", "eus trompeté", "eut trompeté", "eûmes trompeté", "eûtes trompeté", "eurent trompeté" ],
+  "futurAnterieur": [ "aurai trompeté", "auras trompeté", "aura trompeté", "aurons trompeté", "aurez trompeté", "auront trompeté" ],
+  "subjonctifPresent": [ "trompette", "trompettes", "trompette", "trompetions", "trompetiez", "trompettent" ],
+  "subjonctifImparfait": [ "trompetasse", "trompetasses", "trompetât", "trompetassions", "trompetassiez", "trompetassent" ],
+  "subjonctifPasse": [ "aie trompeté", "aies trompeté", "ait trompeté", "ayons trompeté", "ayez trompeté", "aient trompeté" ],
+  "subjonctifPlusQueParfait": [ "eusse trompeté", "eusses trompeté", "eût trompeté", "eussions trompeté", "eussiez trompeté", "eussent trompeté" ],
+  "conditionnelPresent": [ "trompetterais", "trompetterais", "trompetterait", "trompetterions", "trompetteriez", "trompetteraient" ],
+  "conditionnelPasse": [ "aurais trompeté", "aurais trompeté", "aurait trompeté", "aurions trompeté", "auriez trompeté", "auraient trompeté" ],
+  "conditionnelPasseII": [ "eusse trompeté", "eusses trompeté", "eût trompeté", "eussions trompeté", "eussiez trompeté", "eussent trompeté" ],
+  "imperatif": [ "–", "trompette !", "–", "trompetons !", "trompetez !", "–" ],
+  "imperatifPasse": [ "–", "aie trompeté !", "–", "ayons trompeté !", "ayez trompeté !", "–" ]
+}

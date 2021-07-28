@@ -1,0 +1,22 @@
+{
+  "infinitif": "se transformer",
+  "participePresent": "se transformant",
+  "participePasse": "transformé",
+  "present": [ "me transforme", "te transformes", "se transforme", "nous transformons", "vous transformez", "se transforment" ],
+  "imparfait": [ "me transformais", "te transformais", "se transformait", "nous transformions", "vous transformiez", "se transformaient" ],
+  "passeSimple": [ "me transformai", "te transformas", "se transforma", "nous transformâmes", "vous transformâtes", "se transformèrent" ],
+  "futurSimple": [ "me transformerai", "te transformeras", "se transformera", "nous transformerons", "vous transformerez", "se transformeront" ],
+  "passeCompose": [ "me suis transformé(e)", "t'es transformé(e)", "s'est transformé(e)", "nous sommes transformé(e)s", "vous êtes transformé(e)(s)", "se sont transformé(e)s" ],
+  "plusQueParfait": [ "m'étais transformé(e)", "t'étais transformé(e)", "s'était transformé(e)", "nous étions transformé(e)s", "vous étiez transformé(e)(s)", "s'étaient transformé(e)s" ],
+  "passeAnterieur": [ "me fus transformé(e)", "te fus transformé(e)", "se fut transformé(e)", "nous fûmes transformé(e)s", "vous fûtes transformé(e)(s)", "se furent transformé(e)s" ],
+  "futurAnterieur": [ "me serai transformé(e)", "te seras transformé(e)", "se sera transformé(e)", "nous serons transformé(e)s", "vous serez transformé(e)(s)", "se seront transformé(e)s" ],
+  "subjonctifPresent": [ "me transforme", "te transformes", "se transforme", "nous transformions", "vous transformiez", "se transforment" ],
+  "subjonctifImparfait": [ "me transformasse", "te transformasses", "se transformât", "nous transformassions", "vous transformassiez", "se transformassent" ],
+  "subjonctifPasse": [ "me sois transformé(e)", "te sois transformé(e)", "se soit transformé(e)", "nous soyons transformé(e)s", "vous soyez transformé(e)(s)", "se soient transformé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse transformé(e)", "te fusses transformé(e)", "se fût transformé(e)", "nous fussions transformé(e)s", "vous fussiez transformé(e)(s)", "se fussent transformé(e)s" ],
+  "conditionnelPresent": [ "me transformerais", "te transformerais", "se transformerait", "nous transformerions", "vous transformeriez", "se transformeraient" ],
+  "conditionnelPasse": [ "me serais transformé(e)", "te serais transformé(e)", "se serait transformé(e)", "nous serions transformé(e)s", "vous seriez transformé(e)(s)", "se seraient transformé(e)s" ],
+  "conditionnelPasseII": [ "me fusse transformé(e)", "te fusses transformé(e)", "se fût transformé(e)", "nous fussions transformé(e)s", "vous fussiez transformé(e)(s)", "se fussent transformé(e)s" ],
+  "imperatif": [ "–", "transforme-toi !", "–", "transformons-nous !", "transformez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

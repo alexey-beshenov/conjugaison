@@ -1,0 +1,22 @@
+{
+  "infinitif": "se reteindre",
+  "participePresent": "se reteignant",
+  "participePasse": "reteint",
+  "present": [ "me reteins", "te reteins", "se reteint", "nous reteignons", "vous reteignez", "se reteignent" ],
+  "imparfait": [ "me reteignais", "te reteignais", "se reteignait", "nous reteignions", "vous reteigniez", "se reteignaient" ],
+  "passeSimple": [ "me reteignis", "te reteignis", "se reteignit", "nous reteignîmes", "vous reteignîtes", "se reteignirent" ],
+  "futurSimple": [ "me reteindrai", "te reteindras", "se reteindra", "nous reteindrons", "vous reteindrez", "se reteindront" ],
+  "passeCompose": [ "me suis reteint(e)", "t'es reteint(e)", "s'est reteint(e)", "nous sommes reteint(e)s", "vous êtes reteint(e)(s)", "se sont reteint(e)s" ],
+  "plusQueParfait": [ "m'étais reteint(e)", "t'étais reteint(e)", "s'était reteint(e)", "nous étions reteint(e)s", "vous étiez reteint(e)(s)", "s'étaient reteint(e)s" ],
+  "passeAnterieur": [ "me fus reteint(e)", "te fus reteint(e)", "se fut reteint(e)", "nous fûmes reteint(e)s", "vous fûtes reteint(e)(s)", "se furent reteint(e)s" ],
+  "futurAnterieur": [ "me serai reteint(e)", "te seras reteint(e)", "se sera reteint(e)", "nous serons reteint(e)s", "vous serez reteint(e)(s)", "se seront reteint(e)s" ],
+  "subjonctifPresent": [ "me reteigne", "te reteignes", "se reteigne", "nous reteignions", "vous reteigniez", "se reteignent" ],
+  "subjonctifImparfait": [ "me reteignisse", "te reteignisses", "se reteignît", "nous reteignissions", "vous reteignissiez", "se reteignissent" ],
+  "subjonctifPasse": [ "me sois reteint(e)", "te sois reteint(e)", "se soit reteint(e)", "nous soyons reteint(e)s", "vous soyez reteint(e)(s)", "se soient reteint(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse reteint(e)", "te fusses reteint(e)", "se fût reteint(e)", "nous fussions reteint(e)s", "vous fussiez reteint(e)(s)", "se fussent reteint(e)s" ],
+  "conditionnelPresent": [ "me reteindrais", "te reteindrais", "se reteindrait", "nous reteindrions", "vous reteindriez", "se reteindraient" ],
+  "conditionnelPasse": [ "me serais reteint(e)", "te serais reteint(e)", "se serait reteint(e)", "nous serions reteint(e)s", "vous seriez reteint(e)(s)", "se seraient reteint(e)s" ],
+  "conditionnelPasseII": [ "me fusse reteint(e)", "te fusses reteint(e)", "se fût reteint(e)", "nous fussions reteint(e)s", "vous fussiez reteint(e)(s)", "se fussent reteint(e)s" ],
+  "imperatif": [ "–", "reteins-toi !", "–", "reteignons-nous !", "reteignez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

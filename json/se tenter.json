@@ -1,0 +1,22 @@
+{
+  "infinitif": "se tenter",
+  "participePresent": "se tentant",
+  "participePasse": "tenté",
+  "present": [ "me tente", "te tentes", "se tente", "nous tentons", "vous tentez", "se tentent" ],
+  "imparfait": [ "me tentais", "te tentais", "se tentait", "nous tentions", "vous tentiez", "se tentaient" ],
+  "passeSimple": [ "me tentai", "te tentas", "se tenta", "nous tentâmes", "vous tentâtes", "se tentèrent" ],
+  "futurSimple": [ "me tenterai", "te tenteras", "se tentera", "nous tenterons", "vous tenterez", "se tenteront" ],
+  "passeCompose": [ "me suis tenté(e)", "t'es tenté(e)", "s'est tenté(e)", "nous sommes tenté(e)s", "vous êtes tenté(e)(s)", "se sont tenté(e)s" ],
+  "plusQueParfait": [ "m'étais tenté(e)", "t'étais tenté(e)", "s'était tenté(e)", "nous étions tenté(e)s", "vous étiez tenté(e)(s)", "s'étaient tenté(e)s" ],
+  "passeAnterieur": [ "me fus tenté(e)", "te fus tenté(e)", "se fut tenté(e)", "nous fûmes tenté(e)s", "vous fûtes tenté(e)(s)", "se furent tenté(e)s" ],
+  "futurAnterieur": [ "me serai tenté(e)", "te seras tenté(e)", "se sera tenté(e)", "nous serons tenté(e)s", "vous serez tenté(e)(s)", "se seront tenté(e)s" ],
+  "subjonctifPresent": [ "me tente", "te tentes", "se tente", "nous tentions", "vous tentiez", "se tentent" ],
+  "subjonctifImparfait": [ "me tentasse", "te tentasses", "se tentât", "nous tentassions", "vous tentassiez", "se tentassent" ],
+  "subjonctifPasse": [ "me sois tenté(e)", "te sois tenté(e)", "se soit tenté(e)", "nous soyons tenté(e)s", "vous soyez tenté(e)(s)", "se soient tenté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse tenté(e)", "te fusses tenté(e)", "se fût tenté(e)", "nous fussions tenté(e)s", "vous fussiez tenté(e)(s)", "se fussent tenté(e)s" ],
+  "conditionnelPresent": [ "me tenterais", "te tenterais", "se tenterait", "nous tenterions", "vous tenteriez", "se tenteraient" ],
+  "conditionnelPasse": [ "me serais tenté(e)", "te serais tenté(e)", "se serait tenté(e)", "nous serions tenté(e)s", "vous seriez tenté(e)(s)", "se seraient tenté(e)s" ],
+  "conditionnelPasseII": [ "me fusse tenté(e)", "te fusses tenté(e)", "se fût tenté(e)", "nous fussions tenté(e)s", "vous fussiez tenté(e)(s)", "se fussent tenté(e)s" ],
+  "imperatif": [ "–", "tente-toi !", "–", "tentons-nous !", "tentez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "écouter",
+  "participePresent": "écoutant",
+  "participePasse": "écouté",
+  "present": [ "écoute", "écoutes", "écoute", "écoutons", "écoutez", "écoutent" ],
+  "imparfait": [ "écoutais", "écoutais", "écoutait", "écoutions", "écoutiez", "écoutaient" ],
+  "passeSimple": [ "écoutai", "écoutas", "écouta", "écoutâmes", "écoutâtes", "écoutèrent" ],
+  "futurSimple": [ "écouterai", "écouteras", "écoutera", "écouterons", "écouterez", "écouteront" ],
+  "passeCompose": [ "ai écouté", "as écouté", "a écouté", "avons écouté", "avez écouté", "ont écouté" ],
+  "plusQueParfait": [ "avais écouté", "avais écouté", "avait écouté", "avions écouté", "aviez écouté", "avaient écouté" ],
+  "passeAnterieur": [ "eus écouté", "eus écouté", "eut écouté", "eûmes écouté", "eûtes écouté", "eurent écouté" ],
+  "futurAnterieur": [ "aurai écouté", "auras écouté", "aura écouté", "aurons écouté", "aurez écouté", "auront écouté" ],
+  "subjonctifPresent": [ "écoute", "écoutes", "écoute", "écoutions", "écoutiez", "écoutent" ],
+  "subjonctifImparfait": [ "écoutasse", "écoutasses", "écoutât", "écoutassions", "écoutassiez", "écoutassent" ],
+  "subjonctifPasse": [ "aie écouté", "aies écouté", "ait écouté", "ayons écouté", "ayez écouté", "aient écouté" ],
+  "subjonctifPlusQueParfait": [ "eusse écouté", "eusses écouté", "eût écouté", "eussions écouté", "eussiez écouté", "eussent écouté" ],
+  "conditionnelPresent": [ "écouterais", "écouterais", "écouterait", "écouterions", "écouteriez", "écouteraient" ],
+  "conditionnelPasse": [ "aurais écouté", "aurais écouté", "aurait écouté", "aurions écouté", "auriez écouté", "auraient écouté" ],
+  "conditionnelPasseII": [ "eusse écouté", "eusses écouté", "eût écouté", "eussions écouté", "eussiez écouté", "eussent écouté" ],
+  "imperatif": [ "–", "écoute !", "–", "écoutons !", "écoutez !", "–" ],
+  "imperatifPasse": [ "–", "aie écouté !", "–", "ayons écouté !", "ayez écouté !", "–" ]
+}

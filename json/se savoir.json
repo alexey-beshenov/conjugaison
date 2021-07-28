@@ -1,0 +1,22 @@
+{
+  "infinitif": "se savoir",
+  "participePresent": "se sachant",
+  "participePasse": "su",
+  "present": [ "me sais", "te sais", "se sait", "nous savons", "vous savez", "se savent" ],
+  "imparfait": [ "me savais", "te savais", "se savait", "nous savions", "vous saviez", "se savaient" ],
+  "passeSimple": [ "me sus", "te sus", "se sut", "nous sûmes", "vous sûtes", "se surent" ],
+  "futurSimple": [ "me saurai", "te sauras", "se saura", "nous saurons", "vous saurez", "se sauront" ],
+  "passeCompose": [ "me suis su(e)", "t'es su(e)", "s'est su(e)", "nous sommes su(e)s", "vous êtes su(e)(s)", "se sont su(e)s" ],
+  "plusQueParfait": [ "m'étais su(e)", "t'étais su(e)", "s'était su(e)", "nous étions su(e)s", "vous étiez su(e)(s)", "s'étaient su(e)s" ],
+  "passeAnterieur": [ "me fus su(e)", "te fus su(e)", "se fut su(e)", "nous fûmes su(e)s", "vous fûtes su(e)(s)", "se furent su(e)s" ],
+  "futurAnterieur": [ "me serai su(e)", "te seras su(e)", "se sera su(e)", "nous serons su(e)s", "vous serez su(e)(s)", "se seront su(e)s" ],
+  "subjonctifPresent": [ "me sache", "te saches", "se sache", "nous sachions", "vous sachiez", "se sachent" ],
+  "subjonctifImparfait": [ "me susse", "te susses", "se sût", "nous sussions", "vous sussiez", "se sussent" ],
+  "subjonctifPasse": [ "me sois su(e)", "te sois su(e)", "se soit su(e)", "nous soyons su(e)s", "vous soyez su(e)(s)", "se soient su(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse su(e)", "te fusses su(e)", "se fût su(e)", "nous fussions su(e)s", "vous fussiez su(e)(s)", "se fussent su(e)s" ],
+  "conditionnelPresent": [ "me saurais", "te saurais", "se saurait", "nous saurions", "vous sauriez", "se sauraient" ],
+  "conditionnelPasse": [ "me serais su(e)", "te serais su(e)", "se serait su(e)", "nous serions su(e)s", "vous seriez su(e)(s)", "se seraient su(e)s" ],
+  "conditionnelPasseII": [ "me fusse su(e)", "te fusses su(e)", "se fût su(e)", "nous fussions su(e)s", "vous fussiez su(e)(s)", "se fussent su(e)s" ],
+  "imperatif": [ "–", "sache-toi !", "–", "sachons-nous !", "sachez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

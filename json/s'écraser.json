@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'écraser",
+  "participePresent": "s'écrasant",
+  "participePasse": "écrasé",
+  "present": [ "m'écrase", "t'écrases", "s'écrase", "nous écrasons", "vous écrasez", "s'écrasent" ],
+  "imparfait": [ "m'écrasais", "t'écrasais", "s'écrasait", "nous écrasions", "vous écrasiez", "s'écrasaient" ],
+  "passeSimple": [ "m'écrasai", "t'écrasas", "s'écrasa", "nous écrasâmes", "vous écrasâtes", "s'écrasèrent" ],
+  "futurSimple": [ "m'écraserai", "t'écraseras", "s'écrasera", "nous écraserons", "vous écraserez", "s'écraseront" ],
+  "passeCompose": [ "me suis écrasé(e)", "t'es écrasé(e)", "s'est écrasé(e)", "nous sommes écrasé(e)s", "vous êtes écrasé(e)(s)", "se sont écrasé(e)s" ],
+  "plusQueParfait": [ "m'étais écrasé(e)", "t'étais écrasé(e)", "s'était écrasé(e)", "nous étions écrasé(e)s", "vous étiez écrasé(e)(s)", "s'étaient écrasé(e)s" ],
+  "passeAnterieur": [ "me fus écrasé(e)", "te fus écrasé(e)", "se fut écrasé(e)", "nous fûmes écrasé(e)s", "vous fûtes écrasé(e)(s)", "se furent écrasé(e)s" ],
+  "futurAnterieur": [ "me serai écrasé(e)", "te seras écrasé(e)", "se sera écrasé(e)", "nous serons écrasé(e)s", "vous serez écrasé(e)(s)", "se seront écrasé(e)s" ],
+  "subjonctifPresent": [ "m'écrase", "t'écrases", "s'écrase", "nous écrasions", "vous écrasiez", "s'écrasent" ],
+  "subjonctifImparfait": [ "m'écrasasse", "t'écrasasses", "s'écrasât", "nous écrasassions", "vous écrasassiez", "s'écrasassent" ],
+  "subjonctifPasse": [ "me sois écrasé(e)", "te sois écrasé(e)", "se soit écrasé(e)", "nous soyons écrasé(e)s", "vous soyez écrasé(e)(s)", "se soient écrasé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse écrasé(e)", "te fusses écrasé(e)", "se fût écrasé(e)", "nous fussions écrasé(e)s", "vous fussiez écrasé(e)(s)", "se fussent écrasé(e)s" ],
+  "conditionnelPresent": [ "m'écraserais", "t'écraserais", "s'écraserait", "nous écraserions", "vous écraseriez", "s'écraseraient" ],
+  "conditionnelPasse": [ "me serais écrasé(e)", "te serais écrasé(e)", "se serait écrasé(e)", "nous serions écrasé(e)s", "vous seriez écrasé(e)(s)", "se seraient écrasé(e)s" ],
+  "conditionnelPasseII": [ "me fusse écrasé(e)", "te fusses écrasé(e)", "se fût écrasé(e)", "nous fussions écrasé(e)s", "vous fussiez écrasé(e)(s)", "se fussent écrasé(e)s" ],
+  "imperatif": [ "–", "écrase-toi !", "–", "écrasons-nous !", "écrasez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

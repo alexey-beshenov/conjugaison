@@ -1,0 +1,22 @@
+{
+  "infinitif": "garder",
+  "participePresent": "gardant",
+  "participePasse": "gardé",
+  "present": [ "garde", "gardes", "garde", "gardons", "gardez", "gardent" ],
+  "imparfait": [ "gardais", "gardais", "gardait", "gardions", "gardiez", "gardaient" ],
+  "passeSimple": [ "gardai", "gardas", "garda", "gardâmes", "gardâtes", "gardèrent" ],
+  "futurSimple": [ "garderai", "garderas", "gardera", "garderons", "garderez", "garderont" ],
+  "passeCompose": [ "ai gardé", "as gardé", "a gardé", "avons gardé", "avez gardé", "ont gardé" ],
+  "plusQueParfait": [ "avais gardé", "avais gardé", "avait gardé", "avions gardé", "aviez gardé", "avaient gardé" ],
+  "passeAnterieur": [ "eus gardé", "eus gardé", "eut gardé", "eûmes gardé", "eûtes gardé", "eurent gardé" ],
+  "futurAnterieur": [ "aurai gardé", "auras gardé", "aura gardé", "aurons gardé", "aurez gardé", "auront gardé" ],
+  "subjonctifPresent": [ "garde", "gardes", "garde", "gardions", "gardiez", "gardent" ],
+  "subjonctifImparfait": [ "gardasse", "gardasses", "gardât", "gardassions", "gardassiez", "gardassent" ],
+  "subjonctifPasse": [ "aie gardé", "aies gardé", "ait gardé", "ayons gardé", "ayez gardé", "aient gardé" ],
+  "subjonctifPlusQueParfait": [ "eusse gardé", "eusses gardé", "eût gardé", "eussions gardé", "eussiez gardé", "eussent gardé" ],
+  "conditionnelPresent": [ "garderais", "garderais", "garderait", "garderions", "garderiez", "garderaient" ],
+  "conditionnelPasse": [ "aurais gardé", "aurais gardé", "aurait gardé", "aurions gardé", "auriez gardé", "auraient gardé" ],
+  "conditionnelPasseII": [ "eusse gardé", "eusses gardé", "eût gardé", "eussions gardé", "eussiez gardé", "eussent gardé" ],
+  "imperatif": [ "–", "garde !", "–", "gardons !", "gardez !", "–" ],
+  "imperatifPasse": [ "–", "aie gardé !", "–", "ayons gardé !", "ayez gardé !", "–" ]
+}

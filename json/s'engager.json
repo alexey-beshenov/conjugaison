@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'engager",
+  "participePresent": "s'engageant",
+  "participePasse": "engagé",
+  "present": [ "m'engage", "t'engages", "s'engage", "nous engageons", "vous engagez", "s'engagent" ],
+  "imparfait": [ "m'engageais", "t'engageais", "s'engageait", "nous engagions", "vous engagiez", "s'engageaient" ],
+  "passeSimple": [ "m'engageai", "t'engageas", "s'engagea", "nous engageâmes", "vous engageâtes", "s'engagèrent" ],
+  "futurSimple": [ "m'engagerai", "t'engageras", "s'engagera", "nous engagerons", "vous engagerez", "s'engageront" ],
+  "passeCompose": [ "me suis engagé(e)", "t'es engagé(e)", "s'est engagé(e)", "nous sommes engagé(e)s", "vous êtes engagé(e)(s)", "se sont engagé(e)s" ],
+  "plusQueParfait": [ "m'étais engagé(e)", "t'étais engagé(e)", "s'était engagé(e)", "nous étions engagé(e)s", "vous étiez engagé(e)(s)", "s'étaient engagé(e)s" ],
+  "passeAnterieur": [ "me fus engagé(e)", "te fus engagé(e)", "se fut engagé(e)", "nous fûmes engagé(e)s", "vous fûtes engagé(e)(s)", "se furent engagé(e)s" ],
+  "futurAnterieur": [ "me serai engagé(e)", "te seras engagé(e)", "se sera engagé(e)", "nous serons engagé(e)s", "vous serez engagé(e)(s)", "se seront engagé(e)s" ],
+  "subjonctifPresent": [ "m'engage", "t'engages", "s'engage", "nous engagions", "vous engagiez", "s'engagent" ],
+  "subjonctifImparfait": [ "m'engageasse", "t'engageasses", "s'engageât", "nous engageassions", "vous engageassiez", "s'engageassent" ],
+  "subjonctifPasse": [ "me sois engagé(e)", "te sois engagé(e)", "se soit engagé(e)", "nous soyons engagé(e)s", "vous soyez engagé(e)(s)", "se soient engagé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse engagé(e)", "te fusses engagé(e)", "se fût engagé(e)", "nous fussions engagé(e)s", "vous fussiez engagé(e)(s)", "se fussent engagé(e)s" ],
+  "conditionnelPresent": [ "m'engagerais", "t'engagerais", "s'engagerait", "nous engagerions", "vous engageriez", "s'engageraient" ],
+  "conditionnelPasse": [ "me serais engagé(e)", "te serais engagé(e)", "se serait engagé(e)", "nous serions engagé(e)s", "vous seriez engagé(e)(s)", "se seraient engagé(e)s" ],
+  "conditionnelPasseII": [ "me fusse engagé(e)", "te fusses engagé(e)", "se fût engagé(e)", "nous fussions engagé(e)s", "vous fussiez engagé(e)(s)", "se fussent engagé(e)s" ],
+  "imperatif": [ "–", "engage-toi !", "–", "engageons-nous !", "engagez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

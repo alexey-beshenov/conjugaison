@@ -1,0 +1,22 @@
+{
+  "infinitif": "oser",
+  "participePresent": "osant",
+  "participePasse": "osé",
+  "present": [ "ose", "oses", "ose", "osons", "osez", "osent" ],
+  "imparfait": [ "osais", "osais", "osait", "osions", "osiez", "osaient" ],
+  "passeSimple": [ "osai", "osas", "osa", "osâmes", "osâtes", "osèrent" ],
+  "futurSimple": [ "oserai", "oseras", "osera", "oserons", "oserez", "oseront" ],
+  "passeCompose": [ "ai osé", "as osé", "a osé", "avons osé", "avez osé", "ont osé" ],
+  "plusQueParfait": [ "avais osé", "avais osé", "avait osé", "avions osé", "aviez osé", "avaient osé" ],
+  "passeAnterieur": [ "eus osé", "eus osé", "eut osé", "eûmes osé", "eûtes osé", "eurent osé" ],
+  "futurAnterieur": [ "aurai osé", "auras osé", "aura osé", "aurons osé", "aurez osé", "auront osé" ],
+  "subjonctifPresent": [ "ose", "oses", "ose", "osions", "osiez", "osent" ],
+  "subjonctifImparfait": [ "osasse", "osasses", "osât", "osassions", "osassiez", "osassent" ],
+  "subjonctifPasse": [ "aie osé", "aies osé", "ait osé", "ayons osé", "ayez osé", "aient osé" ],
+  "subjonctifPlusQueParfait": [ "eusse osé", "eusses osé", "eût osé", "eussions osé", "eussiez osé", "eussent osé" ],
+  "conditionnelPresent": [ "oserais", "oserais", "oserait", "oserions", "oseriez", "oseraient" ],
+  "conditionnelPasse": [ "aurais osé", "aurais osé", "aurait osé", "aurions osé", "auriez osé", "auraient osé" ],
+  "conditionnelPasseII": [ "eusse osé", "eusses osé", "eût osé", "eussions osé", "eussiez osé", "eussent osé" ],
+  "imperatif": [ "–", "ose !", "–", "osons !", "osez !", "–" ],
+  "imperatifPasse": [ "–", "aie osé !", "–", "ayons osé !", "ayez osé !", "–" ]
+}

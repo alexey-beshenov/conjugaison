@@ -1,0 +1,22 @@
+{
+  "infinitif": "se permettre",
+  "participePresent": "se permettant",
+  "participePasse": "permis",
+  "present": [ "me permets", "te permets", "se permet", "nous permettons", "vous permettez", "se permettent" ],
+  "imparfait": [ "me permettais", "te permettais", "se permettait", "nous permettions", "vous permettiez", "se permettaient" ],
+  "passeSimple": [ "me permis", "te permis", "se permit", "nous permîmes", "vous permîtes", "se permirent" ],
+  "futurSimple": [ "me permettrai", "te permettras", "se permettra", "nous permettrons", "vous permettrez", "se permettront" ],
+  "passeCompose": [ "me suis permis", "t'es permis", "s'est permis", "nous sommes permis", "vous êtes permis", "se sont permis" ],
+  "plusQueParfait": [ "m'étais permis", "t'étais permis", "s'était permis", "nous étions permis", "vous étiez permis", "s'étaient permis" ],
+  "passeAnterieur": [ "me fus permis", "te fus permis", "se fut permis", "nous fûmes permis", "vous fûtes permis", "se furent permis" ],
+  "futurAnterieur": [ "me serai permis", "te seras permis", "se sera permis", "nous serons permis", "vous serez permis", "se seront permis" ],
+  "subjonctifPresent": [ "me permette", "te permettes", "se permette", "nous permettions", "vous permettiez", "se permettent" ],
+  "subjonctifImparfait": [ "me permisse", "te permisses", "se permît", "nous permissions", "vous permissiez", "se permissent" ],
+  "subjonctifPasse": [ "me sois permis", "te sois permis", "se soit permis", "nous soyons permis", "vous soyez permis", "se soient permis" ],
+  "subjonctifPlusQueParfait": [ "me fusse permis", "te fusses permis", "se fût permis", "nous fussions permis", "vous fussiez permis", "se fussent permis" ],
+  "conditionnelPresent": [ "me permettrais", "te permettrais", "se permettrait", "nous permettrions", "vous permettriez", "se permettraient" ],
+  "conditionnelPasse": [ "me serais permis", "te serais permis", "se serait permis", "nous serions permis", "vous seriez permis", "se seraient permis" ],
+  "conditionnelPasseII": [ "me fusse permis", "te fusses permis", "se fût permis", "nous fussions permis", "vous fussiez permis", "se fussent permis" ],
+  "imperatif": [ "–", "permets-toi !", "–", "permettons-nous !", "permettez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

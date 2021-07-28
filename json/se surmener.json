@@ -1,0 +1,22 @@
+{
+  "infinitif": "se surmener",
+  "participePresent": "se surmenant",
+  "participePasse": "surmené",
+  "present": [ "me surmène", "te surmènes", "se surmène", "nous surmenons", "vous surmenez", "se surmènent" ],
+  "imparfait": [ "me surmenais", "te surmenais", "se surmenait", "nous surmenions", "vous surmeniez", "se surmenaient" ],
+  "passeSimple": [ "me surmenai", "te surmenas", "se surmena", "nous surmenâmes", "vous surmenâtes", "se surmenèrent" ],
+  "futurSimple": [ "me surmènerai", "te surmèneras", "se surmènera", "nous surmènerons", "vous surmènerez", "se surmèneront" ],
+  "passeCompose": [ "me suis surmené(e)", "t'es surmené(e)", "s'est surmené(e)", "nous sommes surmené(e)s", "vous êtes surmené(e)(s)", "se sont surmené(e)s" ],
+  "plusQueParfait": [ "m'étais surmené(e)", "t'étais surmené(e)", "s'était surmené(e)", "nous étions surmené(e)s", "vous étiez surmené(e)(s)", "s'étaient surmené(e)s" ],
+  "passeAnterieur": [ "me fus surmené(e)", "te fus surmené(e)", "se fut surmené(e)", "nous fûmes surmené(e)s", "vous fûtes surmené(e)(s)", "se furent surmené(e)s" ],
+  "futurAnterieur": [ "me serai surmené(e)", "te seras surmené(e)", "se sera surmené(e)", "nous serons surmené(e)s", "vous serez surmené(e)(s)", "se seront surmené(e)s" ],
+  "subjonctifPresent": [ "me surmène", "te surmènes", "se surmène", "nous surmenions", "vous surmeniez", "se surmènent" ],
+  "subjonctifImparfait": [ "me surmenasse", "te surmenasses", "se surmenât", "nous surmenassions", "vous surmenassiez", "se surmenassent" ],
+  "subjonctifPasse": [ "me sois surmené(e)", "te sois surmené(e)", "se soit surmené(e)", "nous soyons surmené(e)s", "vous soyez surmené(e)(s)", "se soient surmené(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse surmené(e)", "te fusses surmené(e)", "se fût surmené(e)", "nous fussions surmené(e)s", "vous fussiez surmené(e)(s)", "se fussent surmené(e)s" ],
+  "conditionnelPresent": [ "me surmènerais", "te surmènerais", "se surmènerait", "nous surmènerions", "vous surmèneriez", "se surmèneraient" ],
+  "conditionnelPasse": [ "me serais surmené(e)", "te serais surmené(e)", "se serait surmené(e)", "nous serions surmené(e)s", "vous seriez surmené(e)(s)", "se seraient surmené(e)s" ],
+  "conditionnelPasseII": [ "me fusse surmené(e)", "te fusses surmené(e)", "se fût surmené(e)", "nous fussions surmené(e)s", "vous fussiez surmené(e)(s)", "se fussent surmené(e)s" ],
+  "imperatif": [ "–", "surmène-toi !", "–", "surmenons-nous !", "surmenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

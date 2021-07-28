@@ -1,0 +1,22 @@
+{
+  "infinitif": "se risquer",
+  "participePresent": "se risquant",
+  "participePasse": "risqué",
+  "present": [ "me risque", "te risques", "se risque", "nous risquons", "vous risquez", "se risquent" ],
+  "imparfait": [ "me risquais", "te risquais", "se risquait", "nous risquions", "vous risquiez", "se risquaient" ],
+  "passeSimple": [ "me risquai", "te risquas", "se risqua", "nous risquâmes", "vous risquâtes", "se risquèrent" ],
+  "futurSimple": [ "me risquerai", "te risqueras", "se risquera", "nous risquerons", "vous risquerez", "se risqueront" ],
+  "passeCompose": [ "me suis risqué(e)", "t'es risqué(e)", "s'est risqué(e)", "nous sommes risqué(e)s", "vous êtes risqué(e)(s)", "se sont risqué(e)s" ],
+  "plusQueParfait": [ "m'étais risqué(e)", "t'étais risqué(e)", "s'était risqué(e)", "nous étions risqué(e)s", "vous étiez risqué(e)(s)", "s'étaient risqué(e)s" ],
+  "passeAnterieur": [ "me fus risqué(e)", "te fus risqué(e)", "se fut risqué(e)", "nous fûmes risqué(e)s", "vous fûtes risqué(e)(s)", "se furent risqué(e)s" ],
+  "futurAnterieur": [ "me serai risqué(e)", "te seras risqué(e)", "se sera risqué(e)", "nous serons risqué(e)s", "vous serez risqué(e)(s)", "se seront risqué(e)s" ],
+  "subjonctifPresent": [ "me risque", "te risques", "se risque", "nous risquions", "vous risquiez", "se risquent" ],
+  "subjonctifImparfait": [ "me risquasse", "te risquasses", "se risquât", "nous risquassions", "vous risquassiez", "se risquassent" ],
+  "subjonctifPasse": [ "me sois risqué(e)", "te sois risqué(e)", "se soit risqué(e)", "nous soyons risqué(e)s", "vous soyez risqué(e)(s)", "se soient risqué(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse risqué(e)", "te fusses risqué(e)", "se fût risqué(e)", "nous fussions risqué(e)s", "vous fussiez risqué(e)(s)", "se fussent risqué(e)s" ],
+  "conditionnelPresent": [ "me risquerais", "te risquerais", "se risquerait", "nous risquerions", "vous risqueriez", "se risqueraient" ],
+  "conditionnelPasse": [ "me serais risqué(e)", "te serais risqué(e)", "se serait risqué(e)", "nous serions risqué(e)s", "vous seriez risqué(e)(s)", "se seraient risqué(e)s" ],
+  "conditionnelPasseII": [ "me fusse risqué(e)", "te fusses risqué(e)", "se fût risqué(e)", "nous fussions risqué(e)s", "vous fussiez risqué(e)(s)", "se fussent risqué(e)s" ],
+  "imperatif": [ "–", "risque-toi !", "–", "risquons-nous !", "risquez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

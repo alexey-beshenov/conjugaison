@@ -1,0 +1,22 @@
+{
+  "infinitif": "compter",
+  "participePresent": "comptant",
+  "participePasse": "compté",
+  "present": [ "compte", "comptes", "compte", "comptons", "comptez", "comptent" ],
+  "imparfait": [ "comptais", "comptais", "comptait", "comptions", "comptiez", "comptaient" ],
+  "passeSimple": [ "comptai", "comptas", "compta", "comptâmes", "comptâtes", "comptèrent" ],
+  "futurSimple": [ "compterai", "compteras", "comptera", "compterons", "compterez", "compteront" ],
+  "passeCompose": [ "ai compté", "as compté", "a compté", "avons compté", "avez compté", "ont compté" ],
+  "plusQueParfait": [ "avais compté", "avais compté", "avait compté", "avions compté", "aviez compté", "avaient compté" ],
+  "passeAnterieur": [ "eus compté", "eus compté", "eut compté", "eûmes compté", "eûtes compté", "eurent compté" ],
+  "futurAnterieur": [ "aurai compté", "auras compté", "aura compté", "aurons compté", "aurez compté", "auront compté" ],
+  "subjonctifPresent": [ "compte", "comptes", "compte", "comptions", "comptiez", "comptent" ],
+  "subjonctifImparfait": [ "comptasse", "comptasses", "comptât", "comptassions", "comptassiez", "comptassent" ],
+  "subjonctifPasse": [ "aie compté", "aies compté", "ait compté", "ayons compté", "ayez compté", "aient compté" ],
+  "subjonctifPlusQueParfait": [ "eusse compté", "eusses compté", "eût compté", "eussions compté", "eussiez compté", "eussent compté" ],
+  "conditionnelPresent": [ "compterais", "compterais", "compterait", "compterions", "compteriez", "compteraient" ],
+  "conditionnelPasse": [ "aurais compté", "aurais compté", "aurait compté", "aurions compté", "auriez compté", "auraient compté" ],
+  "conditionnelPasseII": [ "eusse compté", "eusses compté", "eût compté", "eussions compté", "eussiez compté", "eussent compté" ],
+  "imperatif": [ "–", "compte !", "–", "comptons !", "comptez !", "–" ],
+  "imperatifPasse": [ "–", "aie compté !", "–", "ayons compté !", "ayez compté !", "–" ]
+}

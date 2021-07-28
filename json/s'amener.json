@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'amener",
+  "participePresent": "s'amenant",
+  "participePasse": "amené",
+  "present": [ "m'amène", "t'amènes", "s'amène", "nous amenons", "vous amenez", "s'amènent" ],
+  "imparfait": [ "m'amenais", "t'amenais", "s'amenait", "nous amenions", "vous ameniez", "s'amenaient" ],
+  "passeSimple": [ "m'amenai", "t'amenas", "s'amena", "nous amenâmes", "vous amenâtes", "s'amenèrent" ],
+  "futurSimple": [ "m'amènerai", "t'amèneras", "s'amènera", "nous amènerons", "vous amènerez", "s'amèneront" ],
+  "passeCompose": [ "me suis amené(e)", "t'es amené(e)", "s'est amené(e)", "nous sommes amené(e)s", "vous êtes amené(e)(s)", "se sont amené(e)s" ],
+  "plusQueParfait": [ "m'étais amené(e)", "t'étais amené(e)", "s'était amené(e)", "nous étions amené(e)s", "vous étiez amené(e)(s)", "s'étaient amené(e)s" ],
+  "passeAnterieur": [ "me fus amené(e)", "te fus amené(e)", "se fut amené(e)", "nous fûmes amené(e)s", "vous fûtes amené(e)(s)", "se furent amené(e)s" ],
+  "futurAnterieur": [ "me serai amené(e)", "te seras amené(e)", "se sera amené(e)", "nous serons amené(e)s", "vous serez amené(e)(s)", "se seront amené(e)s" ],
+  "subjonctifPresent": [ "m'amène", "t'amènes", "s'amène", "nous amenions", "vous ameniez", "s'amènent" ],
+  "subjonctifImparfait": [ "m'amenasse", "t'amenasses", "s'amenât", "nous amenassions", "vous amenassiez", "s'amenassent" ],
+  "subjonctifPasse": [ "me sois amené(e)", "te sois amené(e)", "se soit amené(e)", "nous soyons amené(e)s", "vous soyez amené(e)(s)", "se soient amené(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse amené(e)", "te fusses amené(e)", "se fût amené(e)", "nous fussions amené(e)s", "vous fussiez amené(e)(s)", "se fussent amené(e)s" ],
+  "conditionnelPresent": [ "m'amènerais", "t'amènerais", "s'amènerait", "nous amènerions", "vous amèneriez", "s'amèneraient" ],
+  "conditionnelPasse": [ "me serais amené(e)", "te serais amené(e)", "se serait amené(e)", "nous serions amené(e)s", "vous seriez amené(e)(s)", "se seraient amené(e)s" ],
+  "conditionnelPasseII": [ "me fusse amené(e)", "te fusses amené(e)", "se fût amené(e)", "nous fussions amené(e)s", "vous fussiez amené(e)(s)", "se fussent amené(e)s" ],
+  "imperatif": [ "–", "amène-toi !", "–", "amenons-nous !", "amenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

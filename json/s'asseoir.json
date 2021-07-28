@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'asseoir",
+  "participePresent": "s'asseyant,",
+  "participePasse": "s'assoyant",
+  "present": [ "m'assieds, assois", "t'assieds, assois", "s'assied, assoit", "nous asseyons, assoyons", "vous asseyez, assoyez", "s'asseyent, assoient" ],
+  "imparfait": [ "m'asseyais, assoyais", "t'asseyais, assoyais", "s'asseyait, assoyait", "nous asseyions, assoyions", "vous asseyiez, assoyiez", "s'asseyaient, assoyaient" ],
+  "passeSimple": [ "m'assis", "t'assis", "s'assit", "nous assîmes", "vous assîtes", "s'assirent" ],
+  "futurSimple": [ "m'assiérai, assoirai, asseyerai", "t'assiéras, assoiras, asseyeras", "s'assiéra, assoira, asseyera", "nous assiérons, assoirons, asseyerons", "vous assiérez, assoirez, asseyerez", "s'assiéront, assoiront, asseyeront" ],
+  "passeCompose": [ "me suis assis(e)", "t'es assis(e)", "s'est assis(e)", "nous sommes assis(es)", "vous êtes assis(e(s))", "se sont assis(es)" ],
+  "plusQueParfait": [ "m'étais assis(e)", "t'étais assis(e)", "s'était assis(e)", "nous étions assis(es)", "vous étiez assis(e(s))", "s'étaient assis(es)" ],
+  "passeAnterieur": [ "me fus assis(e)", "te fus assis(e)", "se fut assis(e)", "nous fûmes assis(es)", "vous fûtes assis(e(s))", "se furent assis(es)" ],
+  "futurAnterieur": [ "me serai assis(e)", "te seras assis(e)", "se sera assis(e)", "nous serons assis(es)", "vous serez assis(e(s))", "se seront assis(es)" ],
+  "subjonctifPresent": [ "m'asseye, assoie", "t'asseyes, assoies", "s'asseye, assoie", "nous asseyions, assoyions", "vous asseyiez, assoyiez", "s'asseyent, assoient" ],
+  "subjonctifImparfait": [ "m'assisse", "t'assisses", "s'assît", "nous assissions", "vous assissiez", "s'assissent" ],
+  "subjonctifPasse": [ "me sois assis(e)", "te sois assis(e)", "se soit assis(e)", "nous soyons assis(es)", "vous soyez assis(e(s))", "se soient assis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse assis(e)", "te fusses assis(e)", "se fût assis(e)", "nous fussions assis(es)", "vous fussiez assis(e(s))", "se fussent assis(es)" ],
+  "conditionnelPresent": [ "m'assiérais, assoirais, asseyerais", "t'assiérais, assoirais, asseyerais", "s'assiérait, assoirait, asseyerait", "nous assiérions, assoirions, asseyerions", "vous assiériez, assoiriez, asseyeriez", "s'assiéraient, assoiraient, asseyeraient" ],
+  "conditionnelPasse": [ "me serais assis(e)", "te serais assis(e)", "se serait assis(e)", "nous serions assis(es)", "vous seriez assis(e(s))", "se seraient assis(es)" ],
+  "conditionnelPasseII": [ "me fusse assis(e)", "te fusses assis(e)", "se fût assis(e)", "nous fussions assis(es)", "vous fussiez assis(e(s))", "se fussent assis(es)" ],
+  "imperatif": [ "–", "assieds-toi, assois-toi !", "–", "asseyons-nous, assoyons-nous !", "asseyez-vous, assoyez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

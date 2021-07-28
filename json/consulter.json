@@ -1,0 +1,22 @@
+{
+  "infinitif": "consulter",
+  "participePresent": "consultant",
+  "participePasse": "consulté",
+  "present": [ "consulte", "consultes", "consulte", "consultons", "consultez", "consultent" ],
+  "imparfait": [ "consultais", "consultais", "consultait", "consultions", "consultiez", "consultaient" ],
+  "passeSimple": [ "consultai", "consultas", "consulta", "consultâmes", "consultâtes", "consultèrent" ],
+  "futurSimple": [ "consulterai", "consulteras", "consultera", "consulterons", "consulterez", "consulteront" ],
+  "passeCompose": [ "ai consulté", "as consulté", "a consulté", "avons consulté", "avez consulté", "ont consulté" ],
+  "plusQueParfait": [ "avais consulté", "avais consulté", "avait consulté", "avions consulté", "aviez consulté", "avaient consulté" ],
+  "passeAnterieur": [ "eus consulté", "eus consulté", "eut consulté", "eûmes consulté", "eûtes consulté", "eurent consulté" ],
+  "futurAnterieur": [ "aurai consulté", "auras consulté", "aura consulté", "aurons consulté", "aurez consulté", "auront consulté" ],
+  "subjonctifPresent": [ "consulte", "consultes", "consulte", "consultions", "consultiez", "consultent" ],
+  "subjonctifImparfait": [ "consultasse", "consultasses", "consultât", "consultassions", "consultassiez", "consultassent" ],
+  "subjonctifPasse": [ "aie consulté", "aies consulté", "ait consulté", "ayons consulté", "ayez consulté", "aient consulté" ],
+  "subjonctifPlusQueParfait": [ "eusse consulté", "eusses consulté", "eût consulté", "eussions consulté", "eussiez consulté", "eussent consulté" ],
+  "conditionnelPresent": [ "consulterais", "consulterais", "consulterait", "consulterions", "consulteriez", "consulteraient" ],
+  "conditionnelPasse": [ "aurais consulté", "aurais consulté", "aurait consulté", "aurions consulté", "auriez consulté", "auraient consulté" ],
+  "conditionnelPasseII": [ "eusse consulté", "eusses consulté", "eût consulté", "eussions consulté", "eussiez consulté", "eussent consulté" ],
+  "imperatif": [ "–", "consulte !", "–", "consultons !", "consultez !", "–" ],
+  "imperatifPasse": [ "–", "aie consulté !", "–", "ayons consulté !", "ayez consulté !", "–" ]
+}

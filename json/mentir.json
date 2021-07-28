@@ -1,0 +1,22 @@
+{
+  "infinitif": "mentir",
+  "participePresent": "mentant",
+  "participePasse": "menti",
+  "present": [ "mens", "mens", "ment", "mentons", "mentez", "mentent" ],
+  "imparfait": [ "mentais", "mentais", "mentait", "mentions", "mentiez", "mentaient" ],
+  "passeSimple": [ "mentis", "mentis", "mentit", "mentîmes", "mentîtes", "mentirent" ],
+  "futurSimple": [ "mentirai", "mentiras", "mentira", "mentirons", "mentirez", "mentiront" ],
+  "passeCompose": [ "ai menti", "as menti", "a menti", "avons menti", "avez menti", "ont menti" ],
+  "plusQueParfait": [ "avais menti", "avais menti", "avait menti", "avions menti", "aviez menti", "avaient menti" ],
+  "passeAnterieur": [ "eus menti", "eus menti", "eut menti", "eûmes menti", "eûtes menti", "eurent menti" ],
+  "futurAnterieur": [ "aurai menti", "auras menti", "aura menti", "aurons menti", "aurez menti", "auront menti" ],
+  "subjonctifPresent": [ "mente", "mentes", "mente", "mentions", "mentiez", "mentent" ],
+  "subjonctifImparfait": [ "mentisse", "mentisses", "mentît", "mentissions", "mentissiez", "mentissent" ],
+  "subjonctifPasse": [ "aie menti", "aies menti", "ait menti", "ayons menti", "ayez menti", "aient menti" ],
+  "subjonctifPlusQueParfait": [ "eusse menti", "eusses menti", "eût menti", "eussions menti", "eussiez menti", "eussent menti" ],
+  "conditionnelPresent": [ "mentirais", "mentirais", "mentirait", "mentirions", "mentiriez", "mentiraient" ],
+  "conditionnelPasse": [ "aurais menti", "aurais menti", "aurait menti", "aurions menti", "auriez menti", "auraient menti" ],
+  "conditionnelPasseII": [ "eusse menti", "eusses menti", "eût menti", "eussions menti", "eussiez menti", "eussent menti" ],
+  "imperatif": [ "–", "mens !", "–", "mentons !", "mentez !", "–" ],
+  "imperatifPasse": [ "–", "aie menti !", "–", "ayons menti !", "ayez menti !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "signifier",
+  "participePresent": "signifiant",
+  "participePasse": "signifié",
+  "present": [ "signifie", "signifies", "signifie", "signifions", "signifiez", "signifient" ],
+  "imparfait": [ "signifiais", "signifiais", "signifiait", "signifiions", "signifiiez", "signifiaient" ],
+  "passeSimple": [ "signifiai", "signifias", "signifia", "signifiâmes", "signifiâtes", "signifièrent" ],
+  "futurSimple": [ "signifierai", "signifieras", "signifiera", "signifierons", "signifierez", "signifieront" ],
+  "passeCompose": [ "ai signifié", "as signifié", "a signifié", "avons signifié", "avez signifié", "ont signifié" ],
+  "plusQueParfait": [ "avais signifié", "avais signifié", "avait signifié", "avions signifié", "aviez signifié", "avaient signifié" ],
+  "passeAnterieur": [ "eus signifié", "eus signifié", "eut signifié", "eûmes signifié", "eûtes signifié", "eurent signifié" ],
+  "futurAnterieur": [ "aurai signifié", "auras signifié", "aura signifié", "aurons signifié", "aurez signifié", "auront signifié" ],
+  "subjonctifPresent": [ "signifie", "signifies", "signifie", "signifiions", "signifiiez", "signifient" ],
+  "subjonctifImparfait": [ "signifiasse", "signifiasses", "signifiât", "signifiassions", "signifiassiez", "signifiassent" ],
+  "subjonctifPasse": [ "aie signifié", "aies signifié", "ait signifié", "ayons signifié", "ayez signifié", "aient signifié" ],
+  "subjonctifPlusQueParfait": [ "eusse signifié", "eusses signifié", "eût signifié", "eussions signifié", "eussiez signifié", "eussent signifié" ],
+  "conditionnelPresent": [ "signifierais", "signifierais", "signifierait", "signifierions", "signifieriez", "signifieraient" ],
+  "conditionnelPasse": [ "aurais signifié", "aurais signifié", "aurait signifié", "aurions signifié", "auriez signifié", "auraient signifié" ],
+  "conditionnelPasseII": [ "eusse signifié", "eusses signifié", "eût signifié", "eussions signifié", "eussiez signifié", "eussent signifié" ],
+  "imperatif": [ "–", "signifie !", "–", "signifions !", "signifiez !", "–" ],
+  "imperatifPasse": [ "–", "aie signifié !", "–", "ayons signifié !", "ayez signifié !", "–" ]
+}

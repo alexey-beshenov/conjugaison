@@ -1,0 +1,22 @@
+{
+  "infinitif": "engager",
+  "participePresent": "engageant",
+  "participePasse": "engagé",
+  "present": [ "engage", "engages", "engage", "engageons", "engagez", "engagent" ],
+  "imparfait": [ "engageais", "engageais", "engageait", "engagions", "engagiez", "engageaient" ],
+  "passeSimple": [ "engageai", "engageas", "engagea", "engageâmes", "engageâtes", "engagèrent" ],
+  "futurSimple": [ "engagerai", "engageras", "engagera", "engagerons", "engagerez", "engageront" ],
+  "passeCompose": [ "ai engagé", "as engagé", "a engagé", "avons engagé", "avez engagé", "ont engagé" ],
+  "plusQueParfait": [ "avais engagé", "avais engagé", "avait engagé", "avions engagé", "aviez engagé", "avaient engagé" ],
+  "passeAnterieur": [ "eus engagé", "eus engagé", "eut engagé", "eûmes engagé", "eûtes engagé", "eurent engagé" ],
+  "futurAnterieur": [ "aurai engagé", "auras engagé", "aura engagé", "aurons engagé", "aurez engagé", "auront engagé" ],
+  "subjonctifPresent": [ "engage", "engages", "engage", "engagions", "engagiez", "engagent" ],
+  "subjonctifImparfait": [ "engageasse", "engageasses", "engageât", "engageassions", "engageassiez", "engageassent" ],
+  "subjonctifPasse": [ "aie engagé", "aies engagé", "ait engagé", "ayons engagé", "ayez engagé", "aient engagé" ],
+  "subjonctifPlusQueParfait": [ "eusse engagé", "eusses engagé", "eût engagé", "eussions engagé", "eussiez engagé", "eussent engagé" ],
+  "conditionnelPresent": [ "engagerais", "engagerais", "engagerait", "engagerions", "engageriez", "engageraient" ],
+  "conditionnelPasse": [ "aurais engagé", "aurais engagé", "aurait engagé", "aurions engagé", "auriez engagé", "auraient engagé" ],
+  "conditionnelPasseII": [ "eusse engagé", "eusses engagé", "eût engagé", "eussions engagé", "eussiez engagé", "eussent engagé" ],
+  "imperatif": [ "–", "engage !", "–", "engageons !", "engagez !", "–" ],
+  "imperatifPasse": [ "–", "aie engagé !", "–", "ayons engagé !", "ayez engagé !", "–" ]
+}

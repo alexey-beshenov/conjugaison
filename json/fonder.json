@@ -1,0 +1,22 @@
+{
+  "infinitif": "fonder",
+  "participePresent": "fondant",
+  "participePasse": "fondé",
+  "present": [ "fonde", "fondes", "fonde", "fondons", "fondez", "fondent" ],
+  "imparfait": [ "fondais", "fondais", "fondait", "fondions", "fondiez", "fondaient" ],
+  "passeSimple": [ "fondai", "fondas", "fonda", "fondâmes", "fondâtes", "fondèrent" ],
+  "futurSimple": [ "fonderai", "fonderas", "fondera", "fonderons", "fonderez", "fonderont" ],
+  "passeCompose": [ "ai fondé", "as fondé", "a fondé", "avons fondé", "avez fondé", "ont fondé" ],
+  "plusQueParfait": [ "avais fondé", "avais fondé", "avait fondé", "avions fondé", "aviez fondé", "avaient fondé" ],
+  "passeAnterieur": [ "eus fondé", "eus fondé", "eut fondé", "eûmes fondé", "eûtes fondé", "eurent fondé" ],
+  "futurAnterieur": [ "aurai fondé", "auras fondé", "aura fondé", "aurons fondé", "aurez fondé", "auront fondé" ],
+  "subjonctifPresent": [ "fonde", "fondes", "fonde", "fondions", "fondiez", "fondent" ],
+  "subjonctifImparfait": [ "fondasse", "fondasses", "fondât", "fondassions", "fondassiez", "fondassent" ],
+  "subjonctifPasse": [ "aie fondé", "aies fondé", "ait fondé", "ayons fondé", "ayez fondé", "aient fondé" ],
+  "subjonctifPlusQueParfait": [ "eusse fondé", "eusses fondé", "eût fondé", "eussions fondé", "eussiez fondé", "eussent fondé" ],
+  "conditionnelPresent": [ "fonderais", "fonderais", "fonderait", "fonderions", "fonderiez", "fonderaient" ],
+  "conditionnelPasse": [ "aurais fondé", "aurais fondé", "aurait fondé", "aurions fondé", "auriez fondé", "auraient fondé" ],
+  "conditionnelPasseII": [ "eusse fondé", "eusses fondé", "eût fondé", "eussions fondé", "eussiez fondé", "eussent fondé" ],
+  "imperatif": [ "–", "fonde !", "–", "fondons !", "fondez !", "–" ],
+  "imperatifPasse": [ "–", "aie fondé !", "–", "ayons fondé !", "ayez fondé !", "–" ]
+}

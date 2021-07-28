@@ -1,0 +1,22 @@
+{
+  "infinitif": "se répéter",
+  "participePresent": "se répétant",
+  "participePasse": "répété",
+  "present": [ "me répète", "te répètes", "se répète", "nous répétons", "vous répétez", "se répètent" ],
+  "imparfait": [ "me répétais", "te répétais", "se répétait", "nous répétions", "vous répétiez", "se répétaient" ],
+  "passeSimple": [ "me répétai", "te répétas", "se répéta", "nous répétâmes", "vous répétâtes", "se répétèrent" ],
+  "futurSimple": [ "me répéterai", "te répéteras", "se répétera", "nous répéterons", "vous répéterez", "se répéteront" ],
+  "passeCompose": [ "me suis répété(e)", "t'es répété(e)", "s'est répété(e)", "nous sommes répété(e)s", "vous êtes répété(e)(s)", "se sont répété(e)s" ],
+  "plusQueParfait": [ "m'étais répété(e)", "t'étais répété(e)", "s'était répété(e)", "nous étions répété(e)s", "vous étiez répété(e)(s)", "s'étaient répété(e)s" ],
+  "passeAnterieur": [ "me fus répété(e)", "te fus répété(e)", "se fut répété(e)", "nous fûmes répété(e)s", "vous fûtes répété(e)(s)", "se furent répété(e)s" ],
+  "futurAnterieur": [ "me serai répété(e)", "te seras répété(e)", "se sera répété(e)", "nous serons répété(e)s", "vous serez répété(e)(s)", "se seront répété(e)s" ],
+  "subjonctifPresent": [ "me répète", "te répètes", "se répète", "nous répétions", "vous répétiez", "se répètent" ],
+  "subjonctifImparfait": [ "me répétasse", "te répétasses", "se répétât", "nous répétassions", "vous répétassiez", "se répétassent" ],
+  "subjonctifPasse": [ "me sois répété(e)", "te sois répété(e)", "se soit répété(e)", "nous soyons répété(e)s", "vous soyez répété(e)(s)", "se soient répété(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse répété(e)", "te fusses répété(e)", "se fût répété(e)", "nous fussions répété(e)s", "vous fussiez répété(e)(s)", "se fussent répété(e)s" ],
+  "conditionnelPresent": [ "me répéterais", "te répéterais", "se répéterait", "nous répéterions", "vous répéteriez", "se répéteraient" ],
+  "conditionnelPasse": [ "me serais répété(e)", "te serais répété(e)", "se serait répété(e)", "nous serions répété(e)s", "vous seriez répété(e)(s)", "se seraient répété(e)s" ],
+  "conditionnelPasseII": [ "me fusse répété(e)", "te fusses répété(e)", "se fût répété(e)", "nous fussions répété(e)s", "vous fussiez répété(e)(s)", "se fussent répété(e)s" ],
+  "imperatif": [ "–", "répète-toi !", "–", "répétons-nous !", "répétez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'entretenir",
+  "participePresent": "s'entretenant",
+  "participePasse": "entretenu",
+  "present": [ "m'entretiens", "t'entretiens", "s'entretient", "nous entretenons", "vous entretenez", "s'entretiennent" ],
+  "imparfait": [ "m'entretenais", "t'entretenais", "s'entretenait", "nous entretenions", "vous entreteniez", "s'entretenaient" ],
+  "passeSimple": [ "m'entretins", "t'entretins", "s'entretint", "nous entretînmes", "vous entretîntes", "s'entretinrent" ],
+  "futurSimple": [ "m'entretiendrai", "t'entretiendras", "s'entretiendra", "nous entretiendrons", "vous entretiendrez", "s'entretiendront" ],
+  "passeCompose": [ "me suis entretenu(e)", "t'es entretenu(e)", "s'est entretenu(e)", "nous sommes entretenu(e)s", "vous êtes entretenu(e)(s)", "se sont entretenu(e)s" ],
+  "plusQueParfait": [ "m'étais entretenu(e)", "t'étais entretenu(e)", "s'était entretenu(e)", "nous étions entretenu(e)s", "vous étiez entretenu(e)(s)", "s'étaient entretenu(e)s" ],
+  "passeAnterieur": [ "me fus entretenu(e)", "te fus entretenu(e)", "se fut entretenu(e)", "nous fûmes entretenu(e)s", "vous fûtes entretenu(e)(s)", "se furent entretenu(e)s" ],
+  "futurAnterieur": [ "me serai entretenu(e)", "te seras entretenu(e)", "se sera entretenu(e)", "nous serons entretenu(e)s", "vous serez entretenu(e)(s)", "se seront entretenu(e)s" ],
+  "subjonctifPresent": [ "m'entretienne", "t'entretiennes", "s'entretienne", "nous entretenions", "vous entreteniez", "s'entretiennent" ],
+  "subjonctifImparfait": [ "m'entretinsse", "t'entretinsses", "s'entretînt", "nous entretinssions", "vous entretinssiez", "s'entretinssent" ],
+  "subjonctifPasse": [ "me sois entretenu(e)", "te sois entretenu(e)", "se soit entretenu(e)", "nous soyons entretenu(e)s", "vous soyez entretenu(e)(s)", "se soient entretenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse entretenu(e)", "te fusses entretenu(e)", "se fût entretenu(e)", "nous fussions entretenu(e)s", "vous fussiez entretenu(e)(s)", "se fussent entretenu(e)s" ],
+  "conditionnelPresent": [ "m'entretiendrais", "t'entretiendrais", "s'entretiendrait", "nous entretiendrions", "vous entretiendriez", "s'entretiendraient" ],
+  "conditionnelPasse": [ "me serais entretenu(e)", "te serais entretenu(e)", "se serait entretenu(e)", "nous serions entretenu(e)s", "vous seriez entretenu(e)(s)", "se seraient entretenu(e)s" ],
+  "conditionnelPasseII": [ "me fusse entretenu(e)", "te fusses entretenu(e)", "se fût entretenu(e)", "nous fussions entretenu(e)s", "vous fussiez entretenu(e)(s)", "se fussent entretenu(e)s" ],
+  "imperatif": [ "–", "entretiens-toi !", "–", "entretenons-nous !", "entretenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

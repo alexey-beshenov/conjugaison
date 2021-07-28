@@ -1,0 +1,22 @@
+{
+  "infinitif": "se méprendre",
+  "participePresent": "se méprenant",
+  "participePasse": "mépris",
+  "present": [ "me méprends", "te méprends", "se méprend", "nous méprenons", "vous méprenez", "se méprennent" ],
+  "imparfait": [ "me méprenais", "te méprenais", "se méprenait", "nous méprenions", "vous mépreniez", "se méprenaient" ],
+  "passeSimple": [ "me mépris", "te mépris", "se méprit", "nous méprîmes", "vous méprîtes", "se méprirent" ],
+  "futurSimple": [ "me méprendrai", "te méprendras", "se méprendra", "nous méprendrons", "vous méprendrez", "se méprendront" ],
+  "passeCompose": [ "me suis mépris(e)", "t'es mépris(e)", "s'est mépris(e)", "nous sommes mépris(es)", "vous êtes mépris(e(s))", "se sont mépris(es)" ],
+  "plusQueParfait": [ "m'étais mépris(e)", "t'étais mépris(e)", "s'était mépris(e)", "nous étions mépris(es)", "vous étiez mépris(e(s))", "s'étaient mépris(es)" ],
+  "passeAnterieur": [ "me fus mépris(e)", "te fus mépris(e)", "se fut mépris(e)", "nous fûmes mépris(es)", "vous fûtes mépris(e(s))", "se furent mépris(es)" ],
+  "futurAnterieur": [ "me serai mépris(e)", "te seras mépris(e)", "se sera mépris(e)", "nous serons mépris(es)", "vous serez mépris(e(s))", "se seront mépris(es)" ],
+  "subjonctifPresent": [ "me méprenne", "te méprennes", "se méprenne", "nous méprenions", "vous mépreniez", "se méprennent" ],
+  "subjonctifImparfait": [ "me méprisse", "te méprisses", "se méprît", "nous méprissions", "vous méprissiez", "se méprissent" ],
+  "subjonctifPasse": [ "me sois mépris(e)", "te sois mépris(e)", "se soit mépris(e)", "nous soyons mépris(es)", "vous soyez mépris(e(s))", "se soient mépris(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse mépris(e)", "te fusses mépris(e)", "se fût mépris(e)", "nous fussions mépris(es)", "vous fussiez mépris(e(s))", "se fussent mépris(es)" ],
+  "conditionnelPresent": [ "me méprendrais", "te méprendrais", "se méprendrait", "nous méprendrions", "vous méprendriez", "se méprendraient" ],
+  "conditionnelPasse": [ "me serais mépris(e)", "te serais mépris(e)", "se serait mépris(e)", "nous serions mépris(es)", "vous seriez mépris(e(s))", "se seraient mépris(es)" ],
+  "conditionnelPasseII": [ "me fusse mépris(e)", "te fusses mépris(e)", "se fût mépris(e)", "nous fussions mépris(es)", "vous fussiez mépris(e(s))", "se fussent mépris(es)" ],
+  "imperatif": [ "–", "méprends-toi !", "–", "méprenons-nous !", "méprenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

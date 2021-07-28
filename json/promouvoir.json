@@ -1,0 +1,22 @@
+{
+  "infinitif": "promouvoir",
+  "participePresent": "promouvant",
+  "participePasse": "promu",
+  "present": [ "promeus", "promeus", "promeut", "promouvons", "promouvez", "promeuvent" ],
+  "imparfait": [ "promouvais", "promouvais", "promouvait", "promouvions", "promouviez", "promouvaient" ],
+  "passeSimple": [ "promus", "promus", "promut", "promûmes", "promûtes", "promurent" ],
+  "futurSimple": [ "promouvrai", "promouvras", "promouvra", "promouvrons", "promouvrez", "promouvront" ],
+  "passeCompose": [ "ai promu", "as promu", "a promu", "avons promu", "avez promu", "ont promu" ],
+  "plusQueParfait": [ "avais promu", "avais promu", "avait promu", "avions promu", "aviez promu", "avaient promu" ],
+  "passeAnterieur": [ "eus promu", "eus promu", "eut promu", "eûmes promu", "eûtes promu", "eurent promu" ],
+  "futurAnterieur": [ "aurai promu", "auras promu", "aura promu", "aurons promu", "aurez promu", "auront promu" ],
+  "subjonctifPresent": [ "promeuve", "promeuves", "promeuve", "promouvions", "promouviez", "promeuvent" ],
+  "subjonctifImparfait": [ "promusse", "promusses", "promût", "promussions", "promussiez", "promussent" ],
+  "subjonctifPasse": [ "aie promu", "aies promu", "ait promu", "ayons promu", "ayez promu", "aient promu" ],
+  "subjonctifPlusQueParfait": [ "eusse promu", "eusses promu", "eût promu", "eussions promu", "eussiez promu", "eussent promu" ],
+  "conditionnelPresent": [ "promouvrais", "promouvrais", "promouvrait", "promouvrions", "promouvriez", "promouvraient" ],
+  "conditionnelPasse": [ "aurais promu", "aurais promu", "aurait promu", "aurions promu", "auriez promu", "auraient promu" ],
+  "conditionnelPasseII": [ "eusse promu", "eusses promu", "eût promu", "eussions promu", "eussiez promu", "eussent promu" ],
+  "imperatif": [ "–", "promeus !", "–", "promouvons !", "promouvez !", "–" ],
+  "imperatifPasse": [ "–", "aie promu !", "–", "ayons promu !", "ayez promu !", "–" ]
+}

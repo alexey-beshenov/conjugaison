@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rouler",
+  "participePresent": "se roulant",
+  "participePasse": "roulé",
+  "present": [ "me roule", "te roules", "se roule", "nous roulons", "vous roulez", "se roulent" ],
+  "imparfait": [ "me roulais", "te roulais", "se roulait", "nous roulions", "vous rouliez", "se roulaient" ],
+  "passeSimple": [ "me roulai", "te roulas", "se roula", "nous roulâmes", "vous roulâtes", "se roulèrent" ],
+  "futurSimple": [ "me roulerai", "te rouleras", "se roulera", "nous roulerons", "vous roulerez", "se rouleront" ],
+  "passeCompose": [ "me suis roulé(e)", "t'es roulé(e)", "s'est roulé(e)", "nous sommes roulé(e)s", "vous êtes roulé(e)(s)", "se sont roulé(e)s" ],
+  "plusQueParfait": [ "m'étais roulé(e)", "t'étais roulé(e)", "s'était roulé(e)", "nous étions roulé(e)s", "vous étiez roulé(e)(s)", "s'étaient roulé(e)s" ],
+  "passeAnterieur": [ "me fus roulé(e)", "te fus roulé(e)", "se fut roulé(e)", "nous fûmes roulé(e)s", "vous fûtes roulé(e)(s)", "se furent roulé(e)s" ],
+  "futurAnterieur": [ "me serai roulé(e)", "te seras roulé(e)", "se sera roulé(e)", "nous serons roulé(e)s", "vous serez roulé(e)(s)", "se seront roulé(e)s" ],
+  "subjonctifPresent": [ "me roule", "te roules", "se roule", "nous roulions", "vous rouliez", "se roulent" ],
+  "subjonctifImparfait": [ "me roulasse", "te roulasses", "se roulât", "nous roulassions", "vous roulassiez", "se roulassent" ],
+  "subjonctifPasse": [ "me sois roulé(e)", "te sois roulé(e)", "se soit roulé(e)", "nous soyons roulé(e)s", "vous soyez roulé(e)(s)", "se soient roulé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse roulé(e)", "te fusses roulé(e)", "se fût roulé(e)", "nous fussions roulé(e)s", "vous fussiez roulé(e)(s)", "se fussent roulé(e)s" ],
+  "conditionnelPresent": [ "me roulerais", "te roulerais", "se roulerait", "nous roulerions", "vous rouleriez", "se rouleraient" ],
+  "conditionnelPasse": [ "me serais roulé(e)", "te serais roulé(e)", "se serait roulé(e)", "nous serions roulé(e)s", "vous seriez roulé(e)(s)", "se seraient roulé(e)s" ],
+  "conditionnelPasseII": [ "me fusse roulé(e)", "te fusses roulé(e)", "se fût roulé(e)", "nous fussions roulé(e)s", "vous fussiez roulé(e)(s)", "se fussent roulé(e)s" ],
+  "imperatif": [ "–", "roule-toi !", "–", "roulons-nous !", "roulez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

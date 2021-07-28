@@ -1,0 +1,22 @@
+{
+  "infinitif": "se prêter",
+  "participePresent": "se prêtant",
+  "participePasse": "prêté",
+  "present": [ "me prête", "te prêtes", "se prête", "nous prêtons", "vous prêtez", "se prêtent" ],
+  "imparfait": [ "me prêtais", "te prêtais", "se prêtait", "nous prêtions", "vous prêtiez", "se prêtaient" ],
+  "passeSimple": [ "me prêtai", "te prêtas", "se prêta", "nous prêtâmes", "vous prêtâtes", "se prêtèrent" ],
+  "futurSimple": [ "me prêterai", "te prêteras", "se prêtera", "nous prêterons", "vous prêterez", "se prêteront" ],
+  "passeCompose": [ "me suis prêté(e)", "t'es prêté(e)", "s'est prêté(e)", "nous sommes prêté(e)s", "vous êtes prêté(e)(s)", "se sont prêté(e)s" ],
+  "plusQueParfait": [ "m'étais prêté(e)", "t'étais prêté(e)", "s'était prêté(e)", "nous étions prêté(e)s", "vous étiez prêté(e)(s)", "s'étaient prêté(e)s" ],
+  "passeAnterieur": [ "me fus prêté(e)", "te fus prêté(e)", "se fut prêté(e)", "nous fûmes prêté(e)s", "vous fûtes prêté(e)(s)", "se furent prêté(e)s" ],
+  "futurAnterieur": [ "me serai prêté(e)", "te seras prêté(e)", "se sera prêté(e)", "nous serons prêté(e)s", "vous serez prêté(e)(s)", "se seront prêté(e)s" ],
+  "subjonctifPresent": [ "me prête", "te prêtes", "se prête", "nous prêtions", "vous prêtiez", "se prêtent" ],
+  "subjonctifImparfait": [ "me prêtasse", "te prêtasses", "se prêtât", "nous prêtassions", "vous prêtassiez", "se prêtassent" ],
+  "subjonctifPasse": [ "me sois prêté(e)", "te sois prêté(e)", "se soit prêté(e)", "nous soyons prêté(e)s", "vous soyez prêté(e)(s)", "se soient prêté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse prêté(e)", "te fusses prêté(e)", "se fût prêté(e)", "nous fussions prêté(e)s", "vous fussiez prêté(e)(s)", "se fussent prêté(e)s" ],
+  "conditionnelPresent": [ "me prêterais", "te prêterais", "se prêterait", "nous prêterions", "vous prêteriez", "se prêteraient" ],
+  "conditionnelPasse": [ "me serais prêté(e)", "te serais prêté(e)", "se serait prêté(e)", "nous serions prêté(e)s", "vous seriez prêté(e)(s)", "se seraient prêté(e)s" ],
+  "conditionnelPasseII": [ "me fusse prêté(e)", "te fusses prêté(e)", "se fût prêté(e)", "nous fussions prêté(e)s", "vous fussiez prêté(e)(s)", "se fussent prêté(e)s" ],
+  "imperatif": [ "–", "prête-toi !", "–", "prêtons-nous !", "prêtez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

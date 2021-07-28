@@ -1,0 +1,22 @@
+{
+  "infinitif": "se ramasser",
+  "participePresent": "se ramassant",
+  "participePasse": "ramassé",
+  "present": [ "me ramasse", "te ramasses", "se ramasse", "nous ramassons", "vous ramassez", "se ramassent" ],
+  "imparfait": [ "me ramassais", "te ramassais", "se ramassait", "nous ramassions", "vous ramassiez", "se ramassaient" ],
+  "passeSimple": [ "me ramassai", "te ramassas", "se ramassa", "nous ramassâmes", "vous ramassâtes", "se ramassèrent" ],
+  "futurSimple": [ "me ramasserai", "te ramasseras", "se ramassera", "nous ramasserons", "vous ramasserez", "se ramasseront" ],
+  "passeCompose": [ "me suis ramassé(e)", "t'es ramassé(e)", "s'est ramassé(e)", "nous sommes ramassé(e)s", "vous êtes ramassé(e)(s)", "se sont ramassé(e)s" ],
+  "plusQueParfait": [ "m'étais ramassé(e)", "t'étais ramassé(e)", "s'était ramassé(e)", "nous étions ramassé(e)s", "vous étiez ramassé(e)(s)", "s'étaient ramassé(e)s" ],
+  "passeAnterieur": [ "me fus ramassé(e)", "te fus ramassé(e)", "se fut ramassé(e)", "nous fûmes ramassé(e)s", "vous fûtes ramassé(e)(s)", "se furent ramassé(e)s" ],
+  "futurAnterieur": [ "me serai ramassé(e)", "te seras ramassé(e)", "se sera ramassé(e)", "nous serons ramassé(e)s", "vous serez ramassé(e)(s)", "se seront ramassé(e)s" ],
+  "subjonctifPresent": [ "me ramasse", "te ramasses", "se ramasse", "nous ramassions", "vous ramassiez", "se ramassent" ],
+  "subjonctifImparfait": [ "me ramassasse", "te ramassasses", "se ramassât", "nous ramassassions", "vous ramassassiez", "se ramassassent" ],
+  "subjonctifPasse": [ "me sois ramassé(e)", "te sois ramassé(e)", "se soit ramassé(e)", "nous soyons ramassé(e)s", "vous soyez ramassé(e)(s)", "se soient ramassé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse ramassé(e)", "te fusses ramassé(e)", "se fût ramassé(e)", "nous fussions ramassé(e)s", "vous fussiez ramassé(e)(s)", "se fussent ramassé(e)s" ],
+  "conditionnelPresent": [ "me ramasserais", "te ramasserais", "se ramasserait", "nous ramasserions", "vous ramasseriez", "se ramasseraient" ],
+  "conditionnelPasse": [ "me serais ramassé(e)", "te serais ramassé(e)", "se serait ramassé(e)", "nous serions ramassé(e)s", "vous seriez ramassé(e)(s)", "se seraient ramassé(e)s" ],
+  "conditionnelPasseII": [ "me fusse ramassé(e)", "te fusses ramassé(e)", "se fût ramassé(e)", "nous fussions ramassé(e)s", "vous fussiez ramassé(e)(s)", "se fussent ramassé(e)s" ],
+  "imperatif": [ "–", "ramasse-toi !", "–", "ramassons-nous !", "ramassez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

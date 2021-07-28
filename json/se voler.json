@@ -1,0 +1,22 @@
+{
+  "infinitif": "se voler",
+  "participePresent": "se volant",
+  "participePasse": "volé",
+  "present": [ "me vole", "te voles", "se vole", "nous volons", "vous volez", "se volent" ],
+  "imparfait": [ "me volais", "te volais", "se volait", "nous volions", "vous voliez", "se volaient" ],
+  "passeSimple": [ "me volai", "te volas", "se vola", "nous volâmes", "vous volâtes", "se volèrent" ],
+  "futurSimple": [ "me volerai", "te voleras", "se volera", "nous volerons", "vous volerez", "se voleront" ],
+  "passeCompose": [ "me suis volé(e)", "t'es volé(e)", "s'est volé(e)", "nous sommes volé(e)s", "vous êtes volé(e)(s)", "se sont volé(e)s" ],
+  "plusQueParfait": [ "m'étais volé(e)", "t'étais volé(e)", "s'était volé(e)", "nous étions volé(e)s", "vous étiez volé(e)(s)", "s'étaient volé(e)s" ],
+  "passeAnterieur": [ "me fus volé(e)", "te fus volé(e)", "se fut volé(e)", "nous fûmes volé(e)s", "vous fûtes volé(e)(s)", "se furent volé(e)s" ],
+  "futurAnterieur": [ "me serai volé(e)", "te seras volé(e)", "se sera volé(e)", "nous serons volé(e)s", "vous serez volé(e)(s)", "se seront volé(e)s" ],
+  "subjonctifPresent": [ "me vole", "te voles", "se vole", "nous volions", "vous voliez", "se volent" ],
+  "subjonctifImparfait": [ "me volasse", "te volasses", "se volât", "nous volassions", "vous volassiez", "se volassent" ],
+  "subjonctifPasse": [ "me sois volé(e)", "te sois volé(e)", "se soit volé(e)", "nous soyons volé(e)s", "vous soyez volé(e)(s)", "se soient volé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse volé(e)", "te fusses volé(e)", "se fût volé(e)", "nous fussions volé(e)s", "vous fussiez volé(e)(s)", "se fussent volé(e)s" ],
+  "conditionnelPresent": [ "me volerais", "te volerais", "se volerait", "nous volerions", "vous voleriez", "se voleraient" ],
+  "conditionnelPasse": [ "me serais volé(e)", "te serais volé(e)", "se serait volé(e)", "nous serions volé(e)s", "vous seriez volé(e)(s)", "se seraient volé(e)s" ],
+  "conditionnelPasseII": [ "me fusse volé(e)", "te fusses volé(e)", "se fût volé(e)", "nous fussions volé(e)s", "vous fussiez volé(e)(s)", "se fussent volé(e)s" ],
+  "imperatif": [ "–", "vole-toi !", "–", "volons-nous !", "volez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

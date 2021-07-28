@@ -1,0 +1,22 @@
+{
+  "infinitif": "se réveiller",
+  "participePresent": "se réveillant",
+  "participePasse": "réveillé",
+  "present": [ "me réveille", "te réveilles", "se réveille", "nous réveillons", "vous réveillez", "se réveillent" ],
+  "imparfait": [ "me réveillais", "te réveillais", "se réveillait", "nous réveillions", "vous réveilliez", "se réveillaient" ],
+  "passeSimple": [ "me réveillai", "te réveillas", "se réveilla", "nous réveillâmes", "vous réveillâtes", "se réveillèrent" ],
+  "futurSimple": [ "me réveillerai", "te réveilleras", "se réveillera", "nous réveillerons", "vous réveillerez", "se réveilleront" ],
+  "passeCompose": [ "me suis réveillé(e)", "t'es réveillé(e)", "s'est réveillé(e)", "nous sommes réveillé(e)s", "vous êtes réveillé(e)(s)", "se sont réveillé(e)s" ],
+  "plusQueParfait": [ "m'étais réveillé(e)", "t'étais réveillé(e)", "s'était réveillé(e)", "nous étions réveillé(e)s", "vous étiez réveillé(e)(s)", "s'étaient réveillé(e)s" ],
+  "passeAnterieur": [ "me fus réveillé(e)", "te fus réveillé(e)", "se fut réveillé(e)", "nous fûmes réveillé(e)s", "vous fûtes réveillé(e)(s)", "se furent réveillé(e)s" ],
+  "futurAnterieur": [ "me serai réveillé(e)", "te seras réveillé(e)", "se sera réveillé(e)", "nous serons réveillé(e)s", "vous serez réveillé(e)(s)", "se seront réveillé(e)s" ],
+  "subjonctifPresent": [ "me réveille", "te réveilles", "se réveille", "nous réveillions", "vous réveilliez", "se réveillent" ],
+  "subjonctifImparfait": [ "me réveillasse", "te réveillasses", "se réveillât", "nous réveillassions", "vous réveillassiez", "se réveillassent" ],
+  "subjonctifPasse": [ "me sois réveillé(e)", "te sois réveillé(e)", "se soit réveillé(e)", "nous soyons réveillé(e)s", "vous soyez réveillé(e)(s)", "se soient réveillé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse réveillé(e)", "te fusses réveillé(e)", "se fût réveillé(e)", "nous fussions réveillé(e)s", "vous fussiez réveillé(e)(s)", "se fussent réveillé(e)s" ],
+  "conditionnelPresent": [ "me réveillerais", "te réveillerais", "se réveillerait", "nous réveillerions", "vous réveilleriez", "se réveilleraient" ],
+  "conditionnelPasse": [ "me serais réveillé(e)", "te serais réveillé(e)", "se serait réveillé(e)", "nous serions réveillé(e)s", "vous seriez réveillé(e)(s)", "se seraient réveillé(e)s" ],
+  "conditionnelPasseII": [ "me fusse réveillé(e)", "te fusses réveillé(e)", "se fût réveillé(e)", "nous fussions réveillé(e)s", "vous fussiez réveillé(e)(s)", "se fussent réveillé(e)s" ],
+  "imperatif": [ "–", "réveille-toi !", "–", "réveillons-nous !", "réveillez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

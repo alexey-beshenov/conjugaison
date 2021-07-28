@@ -1,0 +1,22 @@
+{
+  "infinitif": "figurer",
+  "participePresent": "figurant",
+  "participePasse": "figuré",
+  "present": [ "figure", "figures", "figure", "figurons", "figurez", "figurent" ],
+  "imparfait": [ "figurais", "figurais", "figurait", "figurions", "figuriez", "figuraient" ],
+  "passeSimple": [ "figurai", "figuras", "figura", "figurâmes", "figurâtes", "figurèrent" ],
+  "futurSimple": [ "figurerai", "figureras", "figurera", "figurerons", "figurerez", "figureront" ],
+  "passeCompose": [ "ai figuré", "as figuré", "a figuré", "avons figuré", "avez figuré", "ont figuré" ],
+  "plusQueParfait": [ "avais figuré", "avais figuré", "avait figuré", "avions figuré", "aviez figuré", "avaient figuré" ],
+  "passeAnterieur": [ "eus figuré", "eus figuré", "eut figuré", "eûmes figuré", "eûtes figuré", "eurent figuré" ],
+  "futurAnterieur": [ "aurai figuré", "auras figuré", "aura figuré", "aurons figuré", "aurez figuré", "auront figuré" ],
+  "subjonctifPresent": [ "figure", "figures", "figure", "figurions", "figuriez", "figurent" ],
+  "subjonctifImparfait": [ "figurasse", "figurasses", "figurât", "figurassions", "figurassiez", "figurassent" ],
+  "subjonctifPasse": [ "aie figuré", "aies figuré", "ait figuré", "ayons figuré", "ayez figuré", "aient figuré" ],
+  "subjonctifPlusQueParfait": [ "eusse figuré", "eusses figuré", "eût figuré", "eussions figuré", "eussiez figuré", "eussent figuré" ],
+  "conditionnelPresent": [ "figurerais", "figurerais", "figurerait", "figurerions", "figureriez", "figureraient" ],
+  "conditionnelPasse": [ "aurais figuré", "aurais figuré", "aurait figuré", "aurions figuré", "auriez figuré", "auraient figuré" ],
+  "conditionnelPasseII": [ "eusse figuré", "eusses figuré", "eût figuré", "eussions figuré", "eussiez figuré", "eussent figuré" ],
+  "imperatif": [ "–", "figure !", "–", "figurons !", "figurez !", "–" ],
+  "imperatifPasse": [ "–", "aie figuré !", "–", "ayons figuré !", "ayez figuré !", "–" ]
+}

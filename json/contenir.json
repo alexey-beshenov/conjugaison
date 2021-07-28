@@ -1,0 +1,22 @@
+{
+  "infinitif": "contenir",
+  "participePresent": "contenant",
+  "participePasse": "contenu",
+  "present": [ "contiens", "contiens", "contient", "contenons", "contenez", "contiennent" ],
+  "imparfait": [ "contenais", "contenais", "contenait", "contenions", "conteniez", "contenaient" ],
+  "passeSimple": [ "contins", "contins", "contint", "contînmes", "contîntes", "continrent" ],
+  "futurSimple": [ "contiendrai", "contiendras", "contiendra", "contiendrons", "contiendrez", "contiendront" ],
+  "passeCompose": [ "ai contenu", "as contenu", "a contenu", "avons contenu", "avez contenu", "ont contenu" ],
+  "plusQueParfait": [ "avais contenu", "avais contenu", "avait contenu", "avions contenu", "aviez contenu", "avaient contenu" ],
+  "passeAnterieur": [ "eus contenu", "eus contenu", "eut contenu", "eûmes contenu", "eûtes contenu", "eurent contenu" ],
+  "futurAnterieur": [ "aurai contenu", "auras contenu", "aura contenu", "aurons contenu", "aurez contenu", "auront contenu" ],
+  "subjonctifPresent": [ "contienne", "contiennes", "contienne", "contenions", "conteniez", "contiennent" ],
+  "subjonctifImparfait": [ "continsse", "continsses", "contînt", "continssions", "continssiez", "continssent" ],
+  "subjonctifPasse": [ "aie contenu", "aies contenu", "ait contenu", "ayons contenu", "ayez contenu", "aient contenu" ],
+  "subjonctifPlusQueParfait": [ "eusse contenu", "eusses contenu", "eût contenu", "eussions contenu", "eussiez contenu", "eussent contenu" ],
+  "conditionnelPresent": [ "contiendrais", "contiendrais", "contiendrait", "contiendrions", "contiendriez", "contiendraient" ],
+  "conditionnelPasse": [ "aurais contenu", "aurais contenu", "aurait contenu", "aurions contenu", "auriez contenu", "auraient contenu" ],
+  "conditionnelPasseII": [ "eusse contenu", "eusses contenu", "eût contenu", "eussions contenu", "eussiez contenu", "eussent contenu" ],
+  "imperatif": [ "–", "contiens !", "–", "contenons !", "contenez !", "–" ],
+  "imperatifPasse": [ "–", "aie contenu !", "–", "ayons contenu !", "ayez contenu !", "–" ]
+}

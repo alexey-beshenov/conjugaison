@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'attaquer",
+  "participePresent": "s'attaquant",
+  "participePasse": "attaqué",
+  "present": [ "m'attaque", "t'attaques", "s'attaque", "nous attaquons", "vous attaquez", "s'attaquent" ],
+  "imparfait": [ "m'attaquais", "t'attaquais", "s'attaquait", "nous attaquions", "vous attaquiez", "s'attaquaient" ],
+  "passeSimple": [ "m'attaquai", "t'attaquas", "s'attaqua", "nous attaquâmes", "vous attaquâtes", "s'attaquèrent" ],
+  "futurSimple": [ "m'attaquerai", "t'attaqueras", "s'attaquera", "nous attaquerons", "vous attaquerez", "s'attaqueront" ],
+  "passeCompose": [ "me suis attaqué(e)", "t'es attaqué(e)", "s'est attaqué(e)", "nous sommes attaqué(e)s", "vous êtes attaqué(e)(s)", "se sont attaqué(e)s" ],
+  "plusQueParfait": [ "m'étais attaqué(e)", "t'étais attaqué(e)", "s'était attaqué(e)", "nous étions attaqué(e)s", "vous étiez attaqué(e)(s)", "s'étaient attaqué(e)s" ],
+  "passeAnterieur": [ "me fus attaqué(e)", "te fus attaqué(e)", "se fut attaqué(e)", "nous fûmes attaqué(e)s", "vous fûtes attaqué(e)(s)", "se furent attaqué(e)s" ],
+  "futurAnterieur": [ "me serai attaqué(e)", "te seras attaqué(e)", "se sera attaqué(e)", "nous serons attaqué(e)s", "vous serez attaqué(e)(s)", "se seront attaqué(e)s" ],
+  "subjonctifPresent": [ "m'attaque", "t'attaques", "s'attaque", "nous attaquions", "vous attaquiez", "s'attaquent" ],
+  "subjonctifImparfait": [ "m'attaquasse", "t'attaquasses", "s'attaquât", "nous attaquassions", "vous attaquassiez", "s'attaquassent" ],
+  "subjonctifPasse": [ "me sois attaqué(e)", "te sois attaqué(e)", "se soit attaqué(e)", "nous soyons attaqué(e)s", "vous soyez attaqué(e)(s)", "se soient attaqué(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse attaqué(e)", "te fusses attaqué(e)", "se fût attaqué(e)", "nous fussions attaqué(e)s", "vous fussiez attaqué(e)(s)", "se fussent attaqué(e)s" ],
+  "conditionnelPresent": [ "m'attaquerais", "t'attaquerais", "s'attaquerait", "nous attaquerions", "vous attaqueriez", "s'attaqueraient" ],
+  "conditionnelPasse": [ "me serais attaqué(e)", "te serais attaqué(e)", "se serait attaqué(e)", "nous serions attaqué(e)s", "vous seriez attaqué(e)(s)", "se seraient attaqué(e)s" ],
+  "conditionnelPasseII": [ "me fusse attaqué(e)", "te fusses attaqué(e)", "se fût attaqué(e)", "nous fussions attaqué(e)s", "vous fussiez attaqué(e)(s)", "se fussent attaqué(e)s" ],
+  "imperatif": [ "–", "attaque-toi !", "–", "attaquons-nous !", "attaquez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

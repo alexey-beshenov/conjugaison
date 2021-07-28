@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'avancer",
+  "participePresent": "s'avançant",
+  "participePasse": "avancé",
+  "present": [ "m'avance", "t'avances", "s'avance", "nous avançons", "vous avancez", "s'avancent" ],
+  "imparfait": [ "m'avançais", "t'avançais", "s'avançait", "nous avancions", "vous avanciez", "s'avançaient" ],
+  "passeSimple": [ "m'avançai", "t'avanças", "s'avança", "nous avançâmes", "vous avançâtes", "s'avancèrent" ],
+  "futurSimple": [ "m'avancerai", "t'avanceras", "s'avancera", "nous avancerons", "vous avancerez", "s'avanceront" ],
+  "passeCompose": [ "me suis avancé(e)", "t'es avancé(e)", "s'est avancé(e)", "nous sommes avancé(e)s", "vous êtes avancé(e)(s)", "se sont avancé(e)s" ],
+  "plusQueParfait": [ "m'étais avancé(e)", "t'étais avancé(e)", "s'était avancé(e)", "nous étions avancé(e)s", "vous étiez avancé(e)(s)", "s'étaient avancé(e)s" ],
+  "passeAnterieur": [ "me fus avancé(e)", "te fus avancé(e)", "se fut avancé(e)", "nous fûmes avancé(e)s", "vous fûtes avancé(e)(s)", "se furent avancé(e)s" ],
+  "futurAnterieur": [ "me serai avancé(e)", "te seras avancé(e)", "se sera avancé(e)", "nous serons avancé(e)s", "vous serez avancé(e)(s)", "se seront avancé(e)s" ],
+  "subjonctifPresent": [ "m'avance", "t'avances", "s'avance", "nous avancions", "vous avanciez", "s'avancent" ],
+  "subjonctifImparfait": [ "m'avançasse", "t'avançasses", "s'avançât", "nous avançassions", "vous avançassiez", "s'avançassent" ],
+  "subjonctifPasse": [ "me sois avancé(e)", "te sois avancé(e)", "se soit avancé(e)", "nous soyons avancé(e)s", "vous soyez avancé(e)(s)", "se soient avancé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse avancé(e)", "te fusses avancé(e)", "se fût avancé(e)", "nous fussions avancé(e)s", "vous fussiez avancé(e)(s)", "se fussent avancé(e)s" ],
+  "conditionnelPresent": [ "m'avancerais", "t'avancerais", "s'avancerait", "nous avancerions", "vous avanceriez", "s'avanceraient" ],
+  "conditionnelPasse": [ "me serais avancé(e)", "te serais avancé(e)", "se serait avancé(e)", "nous serions avancé(e)s", "vous seriez avancé(e)(s)", "se seraient avancé(e)s" ],
+  "conditionnelPasseII": [ "me fusse avancé(e)", "te fusses avancé(e)", "se fût avancé(e)", "nous fussions avancé(e)s", "vous fussiez avancé(e)(s)", "se fussent avancé(e)s" ],
+  "imperatif": [ "–", "avance-toi !", "–", "avançons-nous !", "avancez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

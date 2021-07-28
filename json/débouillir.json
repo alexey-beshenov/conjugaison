@@ -1,0 +1,22 @@
+{
+  "infinitif": "débouillir",
+  "participePresent": "débouillant",
+  "participePasse": "débouilli",
+  "present": [ "débous", "débous", "débout", "débouillons", "débouillez", "débouillent" ],
+  "imparfait": [ "débouillais", "débouillais", "débouillait", "débouillions", "débouilliez", "débouillaient" ],
+  "passeSimple": [ "débouillis", "débouillis", "débouillit", "débouillîmes", "débouillîtes", "débouillirent" ],
+  "futurSimple": [ "débouillirai", "débouilliras", "débouillira", "débouillirons", "débouillirez", "débouilliront" ],
+  "passeCompose": [ "ai débouilli", "as débouilli", "a débouilli", "avons débouilli", "avez débouilli", "ont débouilli" ],
+  "plusQueParfait": [ "avais débouilli", "avais débouilli", "avait débouilli", "avions débouilli", "aviez débouilli", "avaient débouilli" ],
+  "passeAnterieur": [ "eus débouilli", "eus débouilli", "eut débouilli", "eûmes débouilli", "eûtes débouilli", "eurent débouilli" ],
+  "futurAnterieur": [ "aurai débouilli", "auras débouilli", "aura débouilli", "aurons débouilli", "aurez débouilli", "auront débouilli" ],
+  "subjonctifPresent": [ "débouille", "débouilles", "débouille", "débouillions", "débouilliez", "débouillent" ],
+  "subjonctifImparfait": [ "débouillisse", "débouillisses", "débouillît", "débouillissions", "débouillissiez", "débouillissent" ],
+  "subjonctifPasse": [ "aie débouilli", "aies débouilli", "ait débouilli", "ayons débouilli", "ayez débouilli", "aient débouilli" ],
+  "subjonctifPlusQueParfait": [ "eusse débouilli", "eusses débouilli", "eût débouilli", "eussions débouilli", "eussiez débouilli", "eussent débouilli" ],
+  "conditionnelPresent": [ "débouillirais", "débouillirais", "débouillirait", "débouillirions", "débouilliriez", "débouilliraient" ],
+  "conditionnelPasse": [ "aurais débouilli", "aurais débouilli", "aurait débouilli", "aurions débouilli", "auriez débouilli", "auraient débouilli" ],
+  "conditionnelPasseII": [ "eusse débouilli", "eusses débouilli", "eût débouilli", "eussions débouilli", "eussiez débouilli", "eussent débouilli" ],
+  "imperatif": [ "–", "débous !", "–", "débouillons !", "débouillez !", "–" ],
+  "imperatifPasse": [ "–", "aie débouilli !", "–", "ayons débouilli !", "ayez débouilli !", "–" ]
+}

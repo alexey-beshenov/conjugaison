@@ -1,0 +1,22 @@
+{
+  "infinitif": "se protéger",
+  "participePresent": "se protégeant",
+  "participePasse": "protégé",
+  "present": [ "me protège", "te protèges", "se protège", "nous protégeons", "vous protégez", "se protègent" ],
+  "imparfait": [ "me protégeais", "te protégeais", "se protégeait", "nous protégions", "vous protégiez", "se protégeaient" ],
+  "passeSimple": [ "me protégeai", "te protégeas", "se protégea", "nous protégeâmes", "vous protégeâtes", "se protégèrent" ],
+  "futurSimple": [ "me protégerai", "te protégeras", "se protégera", "nous protégerons", "vous protégerez", "se protégeront" ],
+  "passeCompose": [ "me suis protégé(e)", "t'es protégé(e)", "s'est protégé(e)", "nous sommes protégé(e)s", "vous êtes protégé(e)(s)", "se sont protégé(e)s" ],
+  "plusQueParfait": [ "m'étais protégé(e)", "t'étais protégé(e)", "s'était protégé(e)", "nous étions protégé(e)s", "vous étiez protégé(e)(s)", "s'étaient protégé(e)s" ],
+  "passeAnterieur": [ "me fus protégé(e)", "te fus protégé(e)", "se fut protégé(e)", "nous fûmes protégé(e)s", "vous fûtes protégé(e)(s)", "se furent protégé(e)s" ],
+  "futurAnterieur": [ "me serai protégé(e)", "te seras protégé(e)", "se sera protégé(e)", "nous serons protégé(e)s", "vous serez protégé(e)(s)", "se seront protégé(e)s" ],
+  "subjonctifPresent": [ "me protège", "te protèges", "se protège", "nous protégions", "vous protégiez", "se protègent" ],
+  "subjonctifImparfait": [ "me protégeasse", "te protégeasses", "se protégeât", "nous protégeassions", "vous protégeassiez", "se protégeassent" ],
+  "subjonctifPasse": [ "me sois protégé(e)", "te sois protégé(e)", "se soit protégé(e)", "nous soyons protégé(e)s", "vous soyez protégé(e)(s)", "se soient protégé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse protégé(e)", "te fusses protégé(e)", "se fût protégé(e)", "nous fussions protégé(e)s", "vous fussiez protégé(e)(s)", "se fussent protégé(e)s" ],
+  "conditionnelPresent": [ "me protégerais", "te protégerais", "se protégerait", "nous protégerions", "vous protégeriez", "se protégeraient" ],
+  "conditionnelPasse": [ "me serais protégé(e)", "te serais protégé(e)", "se serait protégé(e)", "nous serions protégé(e)s", "vous seriez protégé(e)(s)", "se seraient protégé(e)s" ],
+  "conditionnelPasseII": [ "me fusse protégé(e)", "te fusses protégé(e)", "se fût protégé(e)", "nous fussions protégé(e)s", "vous fussiez protégé(e)(s)", "se fussent protégé(e)s" ],
+  "imperatif": [ "–", "protège-toi !", "–", "protégeons-nous !", "protégez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

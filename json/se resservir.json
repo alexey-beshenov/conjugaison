@@ -1,0 +1,22 @@
+{
+  "infinitif": "se resservir",
+  "participePresent": "se resservant",
+  "participePasse": "resservi",
+  "present": [ "me ressers", "te ressers", "se ressert", "nous resservons", "vous resservez", "se resservent" ],
+  "imparfait": [ "me resservais", "te resservais", "se resservait", "nous resservions", "vous resserviez", "se resservaient" ],
+  "passeSimple": [ "me resservis", "te resservis", "se resservit", "nous resservîmes", "vous resservîtes", "se resservirent" ],
+  "futurSimple": [ "me resservirai", "te resserviras", "se resservira", "nous resservirons", "vous resservirez", "se resserviront" ],
+  "passeCompose": [ "me suis resservi(e)", "t'es resservi(e)", "s'est resservi(e)", "nous sommes resservi(e)s", "vous êtes resservi(e)(s)", "se sont resservi(e)s" ],
+  "plusQueParfait": [ "m'étais resservi(e)", "t'étais resservi(e)", "s'était resservi(e)", "nous étions resservi(e)s", "vous étiez resservi(e)(s)", "s'étaient resservi(e)s" ],
+  "passeAnterieur": [ "me fus resservi(e)", "te fus resservi(e)", "se fut resservi(e)", "nous fûmes resservi(e)s", "vous fûtes resservi(e)(s)", "se furent resservi(e)s" ],
+  "futurAnterieur": [ "me serai resservi(e)", "te seras resservi(e)", "se sera resservi(e)", "nous serons resservi(e)s", "vous serez resservi(e)(s)", "se seront resservi(e)s" ],
+  "subjonctifPresent": [ "me resserve", "te resserves", "se resserve", "nous resservions", "vous resserviez", "se resservent" ],
+  "subjonctifImparfait": [ "me resservisse", "te resservisses", "se resservît", "nous resservissions", "vous resservissiez", "se resservissent" ],
+  "subjonctifPasse": [ "me sois resservi(e)", "te sois resservi(e)", "se soit resservi(e)", "nous soyons resservi(e)s", "vous soyez resservi(e)(s)", "se soient resservi(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse resservi(e)", "te fusses resservi(e)", "se fût resservi(e)", "nous fussions resservi(e)s", "vous fussiez resservi(e)(s)", "se fussent resservi(e)s" ],
+  "conditionnelPresent": [ "me resservirais", "te resservirais", "se resservirait", "nous resservirions", "vous resserviriez", "se resserviraient" ],
+  "conditionnelPasse": [ "me serais resservi(e)", "te serais resservi(e)", "se serait resservi(e)", "nous serions resservi(e)s", "vous seriez resservi(e)(s)", "se seraient resservi(e)s" ],
+  "conditionnelPasseII": [ "me fusse resservi(e)", "te fusses resservi(e)", "se fût resservi(e)", "nous fussions resservi(e)s", "vous fussiez resservi(e)(s)", "se fussent resservi(e)s" ],
+  "imperatif": [ "–", "ressers-toi !", "–", "resservons-nous !", "resservez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

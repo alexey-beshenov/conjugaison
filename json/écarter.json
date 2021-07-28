@@ -1,0 +1,22 @@
+{
+  "infinitif": "écarter",
+  "participePresent": "écartant",
+  "participePasse": "écarté",
+  "present": [ "écarte", "écartes", "écarte", "écartons", "écartez", "écartent" ],
+  "imparfait": [ "écartais", "écartais", "écartait", "écartions", "écartiez", "écartaient" ],
+  "passeSimple": [ "écartai", "écartas", "écarta", "écartâmes", "écartâtes", "écartèrent" ],
+  "futurSimple": [ "écarterai", "écarteras", "écartera", "écarterons", "écarterez", "écarteront" ],
+  "passeCompose": [ "ai écarté", "as écarté", "a écarté", "avons écarté", "avez écarté", "ont écarté" ],
+  "plusQueParfait": [ "avais écarté", "avais écarté", "avait écarté", "avions écarté", "aviez écarté", "avaient écarté" ],
+  "passeAnterieur": [ "eus écarté", "eus écarté", "eut écarté", "eûmes écarté", "eûtes écarté", "eurent écarté" ],
+  "futurAnterieur": [ "aurai écarté", "auras écarté", "aura écarté", "aurons écarté", "aurez écarté", "auront écarté" ],
+  "subjonctifPresent": [ "écarte", "écartes", "écarte", "écartions", "écartiez", "écartent" ],
+  "subjonctifImparfait": [ "écartasse", "écartasses", "écartât", "écartassions", "écartassiez", "écartassent" ],
+  "subjonctifPasse": [ "aie écarté", "aies écarté", "ait écarté", "ayons écarté", "ayez écarté", "aient écarté" ],
+  "subjonctifPlusQueParfait": [ "eusse écarté", "eusses écarté", "eût écarté", "eussions écarté", "eussiez écarté", "eussent écarté" ],
+  "conditionnelPresent": [ "écarterais", "écarterais", "écarterait", "écarterions", "écarteriez", "écarteraient" ],
+  "conditionnelPasse": [ "aurais écarté", "aurais écarté", "aurait écarté", "aurions écarté", "auriez écarté", "auraient écarté" ],
+  "conditionnelPasseII": [ "eusse écarté", "eusses écarté", "eût écarté", "eussions écarté", "eussiez écarté", "eussent écarté" ],
+  "imperatif": [ "–", "écarte !", "–", "écartons !", "écartez !", "–" ],
+  "imperatifPasse": [ "–", "aie écarté !", "–", "ayons écarté !", "ayez écarté !", "–" ]
+}

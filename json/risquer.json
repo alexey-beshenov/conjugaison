@@ -1,0 +1,22 @@
+{
+  "infinitif": "risquer",
+  "participePresent": "risquant",
+  "participePasse": "risqué",
+  "present": [ "risque", "risques", "risque", "risquons", "risquez", "risquent" ],
+  "imparfait": [ "risquais", "risquais", "risquait", "risquions", "risquiez", "risquaient" ],
+  "passeSimple": [ "risquai", "risquas", "risqua", "risquâmes", "risquâtes", "risquèrent" ],
+  "futurSimple": [ "risquerai", "risqueras", "risquera", "risquerons", "risquerez", "risqueront" ],
+  "passeCompose": [ "ai risqué", "as risqué", "a risqué", "avons risqué", "avez risqué", "ont risqué" ],
+  "plusQueParfait": [ "avais risqué", "avais risqué", "avait risqué", "avions risqué", "aviez risqué", "avaient risqué" ],
+  "passeAnterieur": [ "eus risqué", "eus risqué", "eut risqué", "eûmes risqué", "eûtes risqué", "eurent risqué" ],
+  "futurAnterieur": [ "aurai risqué", "auras risqué", "aura risqué", "aurons risqué", "aurez risqué", "auront risqué" ],
+  "subjonctifPresent": [ "risque", "risques", "risque", "risquions", "risquiez", "risquent" ],
+  "subjonctifImparfait": [ "risquasse", "risquasses", "risquât", "risquassions", "risquassiez", "risquassent" ],
+  "subjonctifPasse": [ "aie risqué", "aies risqué", "ait risqué", "ayons risqué", "ayez risqué", "aient risqué" ],
+  "subjonctifPlusQueParfait": [ "eusse risqué", "eusses risqué", "eût risqué", "eussions risqué", "eussiez risqué", "eussent risqué" ],
+  "conditionnelPresent": [ "risquerais", "risquerais", "risquerait", "risquerions", "risqueriez", "risqueraient" ],
+  "conditionnelPasse": [ "aurais risqué", "aurais risqué", "aurait risqué", "aurions risqué", "auriez risqué", "auraient risqué" ],
+  "conditionnelPasseII": [ "eusse risqué", "eusses risqué", "eût risqué", "eussions risqué", "eussiez risqué", "eussent risqué" ],
+  "imperatif": [ "–", "risque !", "–", "risquons !", "risquez !", "–" ],
+  "imperatifPasse": [ "–", "aie risqué !", "–", "ayons risqué !", "ayez risqué !", "–" ]
+}

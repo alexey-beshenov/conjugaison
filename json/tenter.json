@@ -1,0 +1,22 @@
+{
+  "infinitif": "tenter",
+  "participePresent": "tentant",
+  "participePasse": "tenté",
+  "present": [ "tente", "tentes", "tente", "tentons", "tentez", "tentent" ],
+  "imparfait": [ "tentais", "tentais", "tentait", "tentions", "tentiez", "tentaient" ],
+  "passeSimple": [ "tentai", "tentas", "tenta", "tentâmes", "tentâtes", "tentèrent" ],
+  "futurSimple": [ "tenterai", "tenteras", "tentera", "tenterons", "tenterez", "tenteront" ],
+  "passeCompose": [ "ai tenté", "as tenté", "a tenté", "avons tenté", "avez tenté", "ont tenté" ],
+  "plusQueParfait": [ "avais tenté", "avais tenté", "avait tenté", "avions tenté", "aviez tenté", "avaient tenté" ],
+  "passeAnterieur": [ "eus tenté", "eus tenté", "eut tenté", "eûmes tenté", "eûtes tenté", "eurent tenté" ],
+  "futurAnterieur": [ "aurai tenté", "auras tenté", "aura tenté", "aurons tenté", "aurez tenté", "auront tenté" ],
+  "subjonctifPresent": [ "tente", "tentes", "tente", "tentions", "tentiez", "tentent" ],
+  "subjonctifImparfait": [ "tentasse", "tentasses", "tentât", "tentassions", "tentassiez", "tentassent" ],
+  "subjonctifPasse": [ "aie tenté", "aies tenté", "ait tenté", "ayons tenté", "ayez tenté", "aient tenté" ],
+  "subjonctifPlusQueParfait": [ "eusse tenté", "eusses tenté", "eût tenté", "eussions tenté", "eussiez tenté", "eussent tenté" ],
+  "conditionnelPresent": [ "tenterais", "tenterais", "tenterait", "tenterions", "tenteriez", "tenteraient" ],
+  "conditionnelPasse": [ "aurais tenté", "aurais tenté", "aurait tenté", "aurions tenté", "auriez tenté", "auraient tenté" ],
+  "conditionnelPasseII": [ "eusse tenté", "eusses tenté", "eût tenté", "eussions tenté", "eussiez tenté", "eussent tenté" ],
+  "imperatif": [ "–", "tente !", "–", "tentons !", "tentez !", "–" ],
+  "imperatifPasse": [ "–", "aie tenté !", "–", "ayons tenté !", "ayez tenté !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "sonner",
+  "participePresent": "sonnant",
+  "participePasse": "sonné",
+  "present": [ "sonne", "sonnes", "sonne", "sonnons", "sonnez", "sonnent" ],
+  "imparfait": [ "sonnais", "sonnais", "sonnait", "sonnions", "sonniez", "sonnaient" ],
+  "passeSimple": [ "sonnai", "sonnas", "sonna", "sonnâmes", "sonnâtes", "sonnèrent" ],
+  "futurSimple": [ "sonnerai", "sonneras", "sonnera", "sonnerons", "sonnerez", "sonneront" ],
+  "passeCompose": [ "ai sonné", "as sonné", "a sonné", "avons sonné", "avez sonné", "ont sonné" ],
+  "plusQueParfait": [ "avais sonné", "avais sonné", "avait sonné", "avions sonné", "aviez sonné", "avaient sonné" ],
+  "passeAnterieur": [ "eus sonné", "eus sonné", "eut sonné", "eûmes sonné", "eûtes sonné", "eurent sonné" ],
+  "futurAnterieur": [ "aurai sonné", "auras sonné", "aura sonné", "aurons sonné", "aurez sonné", "auront sonné" ],
+  "subjonctifPresent": [ "sonne", "sonnes", "sonne", "sonnions", "sonniez", "sonnent" ],
+  "subjonctifImparfait": [ "sonnasse", "sonnasses", "sonnât", "sonnassions", "sonnassiez", "sonnassent" ],
+  "subjonctifPasse": [ "aie sonné", "aies sonné", "ait sonné", "ayons sonné", "ayez sonné", "aient sonné" ],
+  "subjonctifPlusQueParfait": [ "eusse sonné", "eusses sonné", "eût sonné", "eussions sonné", "eussiez sonné", "eussent sonné" ],
+  "conditionnelPresent": [ "sonnerais", "sonnerais", "sonnerait", "sonnerions", "sonneriez", "sonneraient" ],
+  "conditionnelPasse": [ "aurais sonné", "aurais sonné", "aurait sonné", "aurions sonné", "auriez sonné", "auraient sonné" ],
+  "conditionnelPasseII": [ "eusse sonné", "eusses sonné", "eût sonné", "eussions sonné", "eussiez sonné", "eussent sonné" ],
+  "imperatif": [ "–", "sonne !", "–", "sonnons !", "sonnez !", "–" ],
+  "imperatifPasse": [ "–", "aie sonné !", "–", "ayons sonné !", "ayez sonné !", "–" ]
+}

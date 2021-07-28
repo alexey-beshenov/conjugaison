@@ -1,0 +1,22 @@
+{
+  "infinitif": "se pouvoir",
+  "participePresent": "se pouvant",
+  "participePasse": "pu",
+  "present": [ "–", "–", "se peut", "–", "–", "–" ],
+  "imparfait": [ "–", "–", "se pouvait", "–", "–", "–" ],
+  "passeSimple": [ "–", "–", "se put", "–", "–", "–" ],
+  "futurSimple": [ "–", "–", "se pourra", "–", "–", "–" ],
+  "passeCompose": [ "–", "–", "s'est pu(e)", "–", "–", "–" ],
+  "plusQueParfait": [ "–", "–", "s'était pu(e)", "–", "–", "–" ],
+  "passeAnterieur": [ "–", "–", "se fut pu(e)", "–", "–", "–" ],
+  "futurAnterieur": [ "–", "–", "se sera pu(e)", "–", "–", "–" ],
+  "subjonctifPresent": [ "–", "–", "se puisse", "–", "–", "–" ],
+  "subjonctifImparfait": [ "–", "–", "se pût", "–", "–", "–" ],
+  "subjonctifPasse": [ "–", "–", "se soit pu(e)", "–", "–", "–" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "se fût pu(e)", "–", "–", "–" ],
+  "conditionnelPresent": [ "–", "–", "se pourrait", "–", "–", "–" ],
+  "conditionnelPasse": [ "–", "–", "se serait pu(e)", "–", "–", "–" ],
+  "conditionnelPasseII": [ "–", "–", "se fût pu(e)", "–", "–", "–" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

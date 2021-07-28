@@ -1,0 +1,22 @@
+{
+  "infinitif": "examiner",
+  "participePresent": "examinant",
+  "participePasse": "examiné",
+  "present": [ "examine", "examines", "examine", "examinons", "examinez", "examinent" ],
+  "imparfait": [ "examinais", "examinais", "examinait", "examinions", "examiniez", "examinaient" ],
+  "passeSimple": [ "examinai", "examinas", "examina", "examinâmes", "examinâtes", "examinèrent" ],
+  "futurSimple": [ "examinerai", "examineras", "examinera", "examinerons", "examinerez", "examineront" ],
+  "passeCompose": [ "ai examiné", "as examiné", "a examiné", "avons examiné", "avez examiné", "ont examiné" ],
+  "plusQueParfait": [ "avais examiné", "avais examiné", "avait examiné", "avions examiné", "aviez examiné", "avaient examiné" ],
+  "passeAnterieur": [ "eus examiné", "eus examiné", "eut examiné", "eûmes examiné", "eûtes examiné", "eurent examiné" ],
+  "futurAnterieur": [ "aurai examiné", "auras examiné", "aura examiné", "aurons examiné", "aurez examiné", "auront examiné" ],
+  "subjonctifPresent": [ "examine", "examines", "examine", "examinions", "examiniez", "examinent" ],
+  "subjonctifImparfait": [ "examinasse", "examinasses", "examinât", "examinassions", "examinassiez", "examinassent" ],
+  "subjonctifPasse": [ "aie examiné", "aies examiné", "ait examiné", "ayons examiné", "ayez examiné", "aient examiné" ],
+  "subjonctifPlusQueParfait": [ "eusse examiné", "eusses examiné", "eût examiné", "eussions examiné", "eussiez examiné", "eussent examiné" ],
+  "conditionnelPresent": [ "examinerais", "examinerais", "examinerait", "examinerions", "examineriez", "examineraient" ],
+  "conditionnelPasse": [ "aurais examiné", "aurais examiné", "aurait examiné", "aurions examiné", "auriez examiné", "auraient examiné" ],
+  "conditionnelPasseII": [ "eusse examiné", "eusses examiné", "eût examiné", "eussions examiné", "eussiez examiné", "eussent examiné" ],
+  "imperatif": [ "–", "examine !", "–", "examinons !", "examinez !", "–" ],
+  "imperatifPasse": [ "–", "aie examiné !", "–", "ayons examiné !", "ayez examiné !", "–" ]
+}

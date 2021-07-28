@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'occuper",
+  "participePresent": "s'occupant",
+  "participePasse": "occupé",
+  "present": [ "m'occupe", "t'occupes", "s'occupe", "nous occupons", "vous occupez", "s'occupent" ],
+  "imparfait": [ "m'occupais", "t'occupais", "s'occupait", "nous occupions", "vous occupiez", "s'occupaient" ],
+  "passeSimple": [ "m'occupai", "t'occupas", "s'occupa", "nous occupâmes", "vous occupâtes", "s'occupèrent" ],
+  "futurSimple": [ "m'occuperai", "t'occuperas", "s'occupera", "nous occuperons", "vous occuperez", "s'occuperont" ],
+  "passeCompose": [ "me suis occupé(e)", "t'es occupé(e)", "s'est occupé(e)", "nous sommes occupé(e)s", "vous êtes occupé(e)(s)", "se sont occupé(e)s" ],
+  "plusQueParfait": [ "m'étais occupé(e)", "t'étais occupé(e)", "s'était occupé(e)", "nous étions occupé(e)s", "vous étiez occupé(e)(s)", "s'étaient occupé(e)s" ],
+  "passeAnterieur": [ "me fus occupé(e)", "te fus occupé(e)", "se fut occupé(e)", "nous fûmes occupé(e)s", "vous fûtes occupé(e)(s)", "se furent occupé(e)s" ],
+  "futurAnterieur": [ "me serai occupé(e)", "te seras occupé(e)", "se sera occupé(e)", "nous serons occupé(e)s", "vous serez occupé(e)(s)", "se seront occupé(e)s" ],
+  "subjonctifPresent": [ "m'occupe", "t'occupes", "s'occupe", "nous occupions", "vous occupiez", "s'occupent" ],
+  "subjonctifImparfait": [ "m'occupasse", "t'occupasses", "s'occupât", "nous occupassions", "vous occupassiez", "s'occupassent" ],
+  "subjonctifPasse": [ "me sois occupé(e)", "te sois occupé(e)", "se soit occupé(e)", "nous soyons occupé(e)s", "vous soyez occupé(e)(s)", "se soient occupé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse occupé(e)", "te fusses occupé(e)", "se fût occupé(e)", "nous fussions occupé(e)s", "vous fussiez occupé(e)(s)", "se fussent occupé(e)s" ],
+  "conditionnelPresent": [ "m'occuperais", "t'occuperais", "s'occuperait", "nous occuperions", "vous occuperiez", "s'occuperaient" ],
+  "conditionnelPasse": [ "me serais occupé(e)", "te serais occupé(e)", "se serait occupé(e)", "nous serions occupé(e)s", "vous seriez occupé(e)(s)", "se seraient occupé(e)s" ],
+  "conditionnelPasseII": [ "me fusse occupé(e)", "te fusses occupé(e)", "se fût occupé(e)", "nous fussions occupé(e)s", "vous fussiez occupé(e)(s)", "se fussent occupé(e)s" ],
+  "imperatif": [ "–", "occupe-toi !", "–", "occupons-nous !", "occupez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

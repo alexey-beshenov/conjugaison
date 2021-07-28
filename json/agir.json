@@ -1,0 +1,22 @@
+{
+  "infinitif": "agir",
+  "participePresent": "agissant",
+  "participePasse": "agi",
+  "present": [ "agis", "agis", "agit", "agissons", "agissez", "agissent" ],
+  "imparfait": [ "agissais", "agissais", "agissait", "agissions", "agissiez", "agissaient" ],
+  "passeSimple": [ "agis", "agis", "agit", "agîmes", "agîtes", "agirent" ],
+  "futurSimple": [ "agirai", "agiras", "agira", "agirons", "agirez", "agiront" ],
+  "passeCompose": [ "ai agi", "as agi", "a agi", "avons agi", "avez agi", "ont agi" ],
+  "plusQueParfait": [ "avais agi", "avais agi", "avait agi", "avions agi", "aviez agi", "avaient agi" ],
+  "passeAnterieur": [ "eus agi", "eus agi", "eut agi", "eûmes agi", "eûtes agi", "eurent agi" ],
+  "futurAnterieur": [ "aurai agi", "auras agi", "aura agi", "aurons agi", "aurez agi", "auront agi" ],
+  "subjonctifPresent": [ "agisse", "agisses", "agisse", "agissions", "agissiez", "agissent" ],
+  "subjonctifImparfait": [ "agisse", "agisses", "agît", "agissions", "agissiez", "agissent" ],
+  "subjonctifPasse": [ "aie agi", "aies agi", "ait agi", "ayons agi", "ayez agi", "aient agi" ],
+  "subjonctifPlusQueParfait": [ "eusse agi", "eusses agi", "eût agi", "eussions agi", "eussiez agi", "eussent agi" ],
+  "conditionnelPresent": [ "agirais", "agirais", "agirait", "agirions", "agiriez", "agiraient" ],
+  "conditionnelPasse": [ "aurais agi", "aurais agi", "aurait agi", "aurions agi", "auriez agi", "auraient agi" ],
+  "conditionnelPasseII": [ "eusse agi", "eusses agi", "eût agi", "eussions agi", "eussiez agi", "eussent agi" ],
+  "imperatif": [ "–", "agis !", "–", "agissons !", "agissez !", "–" ],
+  "imperatifPasse": [ "–", "aie agi !", "–", "ayons agi !", "ayez agi !", "–" ]
+}

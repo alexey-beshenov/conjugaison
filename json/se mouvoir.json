@@ -1,0 +1,22 @@
+{
+  "infinitif": "se mouvoir",
+  "participePresent": "se mouvant",
+  "participePasse": "mû,",
+  "present": [ "me meus", "te meus", "se meut", "nous mouvons", "vous mouvez", "se meuvent" ],
+  "imparfait": [ "me mouvais", "te mouvais", "se mouvait", "nous mouvions", "vous mouviez", "se mouvaient" ],
+  "passeSimple": [ "me mus", "te mus", "se mut", "nous mûmes", "vous mûtes", "se murent" ],
+  "futurSimple": [ "me mouvrai", "te mouvras", "se mouvra", "nous mouvrons", "vous mouvrez", "se mouvront" ],
+  "passeCompose": [ "me suis mû, mue", "t'es mû, mue", "s'est mû, mue", "nous sommes mu(e)s", "vous êtes mû, mu(e)s", "se sont mu(e)s" ],
+  "plusQueParfait": [ "m'étais mû, mue", "t'étais mû, mue", "s'était mû, mue", "nous étions mu(e)s", "vous étiez mû, mu(e)s", "s'étaient mu(e)s" ],
+  "passeAnterieur": [ "me fus mû, mue", "te fus mû, mue", "se fut mû, mue", "nous fûmes mu(e)s", "vous fûtes mû, mu(e)s", "se furent mu(e)s" ],
+  "futurAnterieur": [ "me serai mû, mue", "te seras mû, mue", "se sera mû, mue", "nous serons mu(e)s", "vous serez mû, mu(e)s", "se seront mu(e)s" ],
+  "subjonctifPresent": [ "me meuve", "te meuves", "se meuve", "nous mouvions", "vous mouviez", "se meuvent" ],
+  "subjonctifImparfait": [ "me musse", "te musses", "se mût", "nous mussions", "vous mussiez", "se mussent" ],
+  "subjonctifPasse": [ "me sois mû, mue", "te sois mû, mue", "se soit mû, mue", "nous soyons mu(e)s", "vous soyez mû, mu(e)s", "se soient mu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse mû, mue", "te fusses mû, mue", "se fût mû, mue", "nous fussions mu(e)s", "vous fussiez mû, mu(e)s", "se fussent mu(e)s" ],
+  "conditionnelPresent": [ "me mouvrais", "te mouvrais", "se mouvrait", "nous mouvrions", "vous mouvriez", "se mouvraient" ],
+  "conditionnelPasse": [ "me serais mû, mue", "te serais mû, mue", "se serait mû, mue", "nous serions mu(e)s", "vous seriez mû, mu(e)s", "se seraient mu(e)s" ],
+  "conditionnelPasseII": [ "me fusse mû, mue", "te fusses mû, mue", "se fût mû, mue", "nous fussions mu(e)s", "vous fussiez mû, mu(e)s", "se fussent mu(e)s" ],
+  "imperatif": [ "–", "meus-toi !", "–", "mouvons-nous !", "mouvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

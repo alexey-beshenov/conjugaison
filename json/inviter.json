@@ -1,0 +1,22 @@
+{
+  "infinitif": "inviter",
+  "participePresent": "invitant",
+  "participePasse": "invité",
+  "present": [ "invite", "invites", "invite", "invitons", "invitez", "invitent" ],
+  "imparfait": [ "invitais", "invitais", "invitait", "invitions", "invitiez", "invitaient" ],
+  "passeSimple": [ "invitai", "invitas", "invita", "invitâmes", "invitâtes", "invitèrent" ],
+  "futurSimple": [ "inviterai", "inviteras", "invitera", "inviterons", "inviterez", "inviteront" ],
+  "passeCompose": [ "ai invité", "as invité", "a invité", "avons invité", "avez invité", "ont invité" ],
+  "plusQueParfait": [ "avais invité", "avais invité", "avait invité", "avions invité", "aviez invité", "avaient invité" ],
+  "passeAnterieur": [ "eus invité", "eus invité", "eut invité", "eûmes invité", "eûtes invité", "eurent invité" ],
+  "futurAnterieur": [ "aurai invité", "auras invité", "aura invité", "aurons invité", "aurez invité", "auront invité" ],
+  "subjonctifPresent": [ "invite", "invites", "invite", "invitions", "invitiez", "invitent" ],
+  "subjonctifImparfait": [ "invitasse", "invitasses", "invitât", "invitassions", "invitassiez", "invitassent" ],
+  "subjonctifPasse": [ "aie invité", "aies invité", "ait invité", "ayons invité", "ayez invité", "aient invité" ],
+  "subjonctifPlusQueParfait": [ "eusse invité", "eusses invité", "eût invité", "eussions invité", "eussiez invité", "eussent invité" ],
+  "conditionnelPresent": [ "inviterais", "inviterais", "inviterait", "inviterions", "inviteriez", "inviteraient" ],
+  "conditionnelPasse": [ "aurais invité", "aurais invité", "aurait invité", "aurions invité", "auriez invité", "auraient invité" ],
+  "conditionnelPasseII": [ "eusse invité", "eusses invité", "eût invité", "eussions invité", "eussiez invité", "eussent invité" ],
+  "imperatif": [ "–", "invite !", "–", "invitons !", "invitez !", "–" ],
+  "imperatifPasse": [ "–", "aie invité !", "–", "ayons invité !", "ayez invité !", "–" ]
+}

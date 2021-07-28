@@ -1,0 +1,22 @@
+{
+  "infinitif": "renverser",
+  "participePresent": "renversant",
+  "participePasse": "renversé",
+  "present": [ "renverse", "renverses", "renverse", "renversons", "renversez", "renversent" ],
+  "imparfait": [ "renversais", "renversais", "renversait", "renversions", "renversiez", "renversaient" ],
+  "passeSimple": [ "renversai", "renversas", "renversa", "renversâmes", "renversâtes", "renversèrent" ],
+  "futurSimple": [ "renverserai", "renverseras", "renversera", "renverserons", "renverserez", "renverseront" ],
+  "passeCompose": [ "ai renversé", "as renversé", "a renversé", "avons renversé", "avez renversé", "ont renversé" ],
+  "plusQueParfait": [ "avais renversé", "avais renversé", "avait renversé", "avions renversé", "aviez renversé", "avaient renversé" ],
+  "passeAnterieur": [ "eus renversé", "eus renversé", "eut renversé", "eûmes renversé", "eûtes renversé", "eurent renversé" ],
+  "futurAnterieur": [ "aurai renversé", "auras renversé", "aura renversé", "aurons renversé", "aurez renversé", "auront renversé" ],
+  "subjonctifPresent": [ "renverse", "renverses", "renverse", "renversions", "renversiez", "renversent" ],
+  "subjonctifImparfait": [ "renversasse", "renversasses", "renversât", "renversassions", "renversassiez", "renversassent" ],
+  "subjonctifPasse": [ "aie renversé", "aies renversé", "ait renversé", "ayons renversé", "ayez renversé", "aient renversé" ],
+  "subjonctifPlusQueParfait": [ "eusse renversé", "eusses renversé", "eût renversé", "eussions renversé", "eussiez renversé", "eussent renversé" ],
+  "conditionnelPresent": [ "renverserais", "renverserais", "renverserait", "renverserions", "renverseriez", "renverseraient" ],
+  "conditionnelPasse": [ "aurais renversé", "aurais renversé", "aurait renversé", "aurions renversé", "auriez renversé", "auraient renversé" ],
+  "conditionnelPasseII": [ "eusse renversé", "eusses renversé", "eût renversé", "eussions renversé", "eussiez renversé", "eussent renversé" ],
+  "imperatif": [ "–", "renverse !", "–", "renversons !", "renversez !", "–" ],
+  "imperatifPasse": [ "–", "aie renversé !", "–", "ayons renversé !", "ayez renversé !", "–" ]
+}

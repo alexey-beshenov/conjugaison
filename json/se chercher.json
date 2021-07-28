@@ -1,0 +1,22 @@
+{
+  "infinitif": "se chercher",
+  "participePresent": "se cherchant",
+  "participePasse": "cherché",
+  "present": [ "me cherche", "te cherches", "se cherche", "nous cherchons", "vous cherchez", "se cherchent" ],
+  "imparfait": [ "me cherchais", "te cherchais", "se cherchait", "nous cherchions", "vous cherchiez", "se cherchaient" ],
+  "passeSimple": [ "me cherchai", "te cherchas", "se chercha", "nous cherchâmes", "vous cherchâtes", "se cherchèrent" ],
+  "futurSimple": [ "me chercherai", "te chercheras", "se cherchera", "nous chercherons", "vous chercherez", "se chercheront" ],
+  "passeCompose": [ "me suis cherché(e)", "t'es cherché(e)", "s'est cherché(e)", "nous sommes cherché(e)s", "vous êtes cherché(e)(s)", "se sont cherché(e)s" ],
+  "plusQueParfait": [ "m'étais cherché(e)", "t'étais cherché(e)", "s'était cherché(e)", "nous étions cherché(e)s", "vous étiez cherché(e)(s)", "s'étaient cherché(e)s" ],
+  "passeAnterieur": [ "me fus cherché(e)", "te fus cherché(e)", "se fut cherché(e)", "nous fûmes cherché(e)s", "vous fûtes cherché(e)(s)", "se furent cherché(e)s" ],
+  "futurAnterieur": [ "me serai cherché(e)", "te seras cherché(e)", "se sera cherché(e)", "nous serons cherché(e)s", "vous serez cherché(e)(s)", "se seront cherché(e)s" ],
+  "subjonctifPresent": [ "me cherche", "te cherches", "se cherche", "nous cherchions", "vous cherchiez", "se cherchent" ],
+  "subjonctifImparfait": [ "me cherchasse", "te cherchasses", "se cherchât", "nous cherchassions", "vous cherchassiez", "se cherchassent" ],
+  "subjonctifPasse": [ "me sois cherché(e)", "te sois cherché(e)", "se soit cherché(e)", "nous soyons cherché(e)s", "vous soyez cherché(e)(s)", "se soient cherché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse cherché(e)", "te fusses cherché(e)", "se fût cherché(e)", "nous fussions cherché(e)s", "vous fussiez cherché(e)(s)", "se fussent cherché(e)s" ],
+  "conditionnelPresent": [ "me chercherais", "te chercherais", "se chercherait", "nous chercherions", "vous chercheriez", "se chercheraient" ],
+  "conditionnelPasse": [ "me serais cherché(e)", "te serais cherché(e)", "se serait cherché(e)", "nous serions cherché(e)s", "vous seriez cherché(e)(s)", "se seraient cherché(e)s" ],
+  "conditionnelPasseII": [ "me fusse cherché(e)", "te fusses cherché(e)", "se fût cherché(e)", "nous fussions cherché(e)s", "vous fussiez cherché(e)(s)", "se fussent cherché(e)s" ],
+  "imperatif": [ "–", "cherche-toi !", "–", "cherchons-nous !", "cherchez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

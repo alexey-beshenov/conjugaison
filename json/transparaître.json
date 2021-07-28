@@ -1,0 +1,22 @@
+{
+  "infinitif": "transparaître",
+  "participePresent": "transparaissant",
+  "participePasse": "transparu",
+  "present": [ "transparais", "transparais", "transparaît", "transparaissons", "transparaissez", "transparaissent" ],
+  "imparfait": [ "transparaissais", "transparaissais", "transparaissait", "transparaissions", "transparaissiez", "transparaissaient" ],
+  "passeSimple": [ "transparus", "transparus", "transparut", "transparûmes", "transparûtes", "transparurent" ],
+  "futurSimple": [ "transparaîtrai", "transparaîtras", "transparaîtra", "transparaîtrons", "transparaîtrez", "transparaîtront" ],
+  "passeCompose": [ "ai transparu", "as transparu", "a transparu", "avons transparu", "avez transparu", "ont transparu" ],
+  "plusQueParfait": [ "avais transparu", "avais transparu", "avait transparu", "avions transparu", "aviez transparu", "avaient transparu" ],
+  "passeAnterieur": [ "eus transparu", "eus transparu", "eut transparu", "eûmes transparu", "eûtes transparu", "eurent transparu" ],
+  "futurAnterieur": [ "aurai transparu", "auras transparu", "aura transparu", "aurons transparu", "aurez transparu", "auront transparu" ],
+  "subjonctifPresent": [ "transparaisse", "transparaisses", "transparaisse", "transparaissions", "transparaissiez", "transparaissent" ],
+  "subjonctifImparfait": [ "transparusse", "transparusses", "transparût", "transparussions", "transparussiez", "transparussent" ],
+  "subjonctifPasse": [ "aie transparu", "aies transparu", "ait transparu", "ayons transparu", "ayez transparu", "aient transparu" ],
+  "subjonctifPlusQueParfait": [ "eusse transparu", "eusses transparu", "eût transparu", "eussions transparu", "eussiez transparu", "eussent transparu" ],
+  "conditionnelPresent": [ "transparaîtrais", "transparaîtrais", "transparaîtrait", "transparaîtrions", "transparaîtriez", "transparaîtraient" ],
+  "conditionnelPasse": [ "aurais transparu", "aurais transparu", "aurait transparu", "aurions transparu", "auriez transparu", "auraient transparu" ],
+  "conditionnelPasseII": [ "eusse transparu", "eusses transparu", "eût transparu", "eussions transparu", "eussiez transparu", "eussent transparu" ],
+  "imperatif": [ "–", "transparais !", "–", "transparaissons !", "transparaissez !", "–" ],
+  "imperatifPasse": [ "–", "aie transparu !", "–", "ayons transparu !", "ayez transparu !", "–" ]
+}

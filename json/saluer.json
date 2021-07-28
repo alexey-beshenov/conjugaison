@@ -1,0 +1,22 @@
+{
+  "infinitif": "saluer",
+  "participePresent": "saluant",
+  "participePasse": "salué",
+  "present": [ "salue", "salues", "salue", "saluons", "saluez", "saluent" ],
+  "imparfait": [ "saluais", "saluais", "saluait", "saluions", "saluiez", "saluaient" ],
+  "passeSimple": [ "saluai", "saluas", "salua", "saluâmes", "saluâtes", "saluèrent" ],
+  "futurSimple": [ "saluerai", "salueras", "saluera", "saluerons", "saluerez", "salueront" ],
+  "passeCompose": [ "ai salué", "as salué", "a salué", "avons salué", "avez salué", "ont salué" ],
+  "plusQueParfait": [ "avais salué", "avais salué", "avait salué", "avions salué", "aviez salué", "avaient salué" ],
+  "passeAnterieur": [ "eus salué", "eus salué", "eut salué", "eûmes salué", "eûtes salué", "eurent salué" ],
+  "futurAnterieur": [ "aurai salué", "auras salué", "aura salué", "aurons salué", "aurez salué", "auront salué" ],
+  "subjonctifPresent": [ "salue", "salues", "salue", "saluions", "saluiez", "saluent" ],
+  "subjonctifImparfait": [ "saluasse", "saluasses", "saluât", "saluassions", "saluassiez", "saluassent" ],
+  "subjonctifPasse": [ "aie salué", "aies salué", "ait salué", "ayons salué", "ayez salué", "aient salué" ],
+  "subjonctifPlusQueParfait": [ "eusse salué", "eusses salué", "eût salué", "eussions salué", "eussiez salué", "eussent salué" ],
+  "conditionnelPresent": [ "saluerais", "saluerais", "saluerait", "saluerions", "salueriez", "salueraient" ],
+  "conditionnelPasse": [ "aurais salué", "aurais salué", "aurait salué", "aurions salué", "auriez salué", "auraient salué" ],
+  "conditionnelPasseII": [ "eusse salué", "eusses salué", "eût salué", "eussions salué", "eussiez salué", "eussent salué" ],
+  "imperatif": [ "–", "salue !", "–", "saluons !", "saluez !", "–" ],
+  "imperatifPasse": [ "–", "aie salué !", "–", "ayons salué !", "ayez salué !", "–" ]
+}

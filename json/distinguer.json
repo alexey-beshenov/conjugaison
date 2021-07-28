@@ -1,0 +1,22 @@
+{
+  "infinitif": "distinguer",
+  "participePresent": "distinguant",
+  "participePasse": "distingué",
+  "present": [ "distingue", "distingues", "distingue", "distinguons", "distinguez", "distinguent" ],
+  "imparfait": [ "distinguais", "distinguais", "distinguait", "distinguions", "distinguiez", "distinguaient" ],
+  "passeSimple": [ "distinguai", "distinguas", "distingua", "distinguâmes", "distinguâtes", "distinguèrent" ],
+  "futurSimple": [ "distinguerai", "distingueras", "distinguera", "distinguerons", "distinguerez", "distingueront" ],
+  "passeCompose": [ "ai distingué", "as distingué", "a distingué", "avons distingué", "avez distingué", "ont distingué" ],
+  "plusQueParfait": [ "avais distingué", "avais distingué", "avait distingué", "avions distingué", "aviez distingué", "avaient distingué" ],
+  "passeAnterieur": [ "eus distingué", "eus distingué", "eut distingué", "eûmes distingué", "eûtes distingué", "eurent distingué" ],
+  "futurAnterieur": [ "aurai distingué", "auras distingué", "aura distingué", "aurons distingué", "aurez distingué", "auront distingué" ],
+  "subjonctifPresent": [ "distingue", "distingues", "distingue", "distinguions", "distinguiez", "distinguent" ],
+  "subjonctifImparfait": [ "distinguasse", "distinguasses", "distinguât", "distinguassions", "distinguassiez", "distinguassent" ],
+  "subjonctifPasse": [ "aie distingué", "aies distingué", "ait distingué", "ayons distingué", "ayez distingué", "aient distingué" ],
+  "subjonctifPlusQueParfait": [ "eusse distingué", "eusses distingué", "eût distingué", "eussions distingué", "eussiez distingué", "eussent distingué" ],
+  "conditionnelPresent": [ "distinguerais", "distinguerais", "distinguerait", "distinguerions", "distingueriez", "distingueraient" ],
+  "conditionnelPasse": [ "aurais distingué", "aurais distingué", "aurait distingué", "aurions distingué", "auriez distingué", "auraient distingué" ],
+  "conditionnelPasseII": [ "eusse distingué", "eusses distingué", "eût distingué", "eussions distingué", "eussiez distingué", "eussent distingué" ],
+  "imperatif": [ "–", "distingue !", "–", "distinguons !", "distinguez !", "–" ],
+  "imperatifPasse": [ "–", "aie distingué !", "–", "ayons distingué !", "ayez distingué !", "–" ]
+}

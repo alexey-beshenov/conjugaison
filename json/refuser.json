@@ -1,0 +1,22 @@
+{
+  "infinitif": "refuser",
+  "participePresent": "refusant",
+  "participePasse": "refusé",
+  "present": [ "refuse", "refuses", "refuse", "refusons", "refusez", "refusent" ],
+  "imparfait": [ "refusais", "refusais", "refusait", "refusions", "refusiez", "refusaient" ],
+  "passeSimple": [ "refusai", "refusas", "refusa", "refusâmes", "refusâtes", "refusèrent" ],
+  "futurSimple": [ "refuserai", "refuseras", "refusera", "refuserons", "refuserez", "refuseront" ],
+  "passeCompose": [ "ai refusé", "as refusé", "a refusé", "avons refusé", "avez refusé", "ont refusé" ],
+  "plusQueParfait": [ "avais refusé", "avais refusé", "avait refusé", "avions refusé", "aviez refusé", "avaient refusé" ],
+  "passeAnterieur": [ "eus refusé", "eus refusé", "eut refusé", "eûmes refusé", "eûtes refusé", "eurent refusé" ],
+  "futurAnterieur": [ "aurai refusé", "auras refusé", "aura refusé", "aurons refusé", "aurez refusé", "auront refusé" ],
+  "subjonctifPresent": [ "refuse", "refuses", "refuse", "refusions", "refusiez", "refusent" ],
+  "subjonctifImparfait": [ "refusasse", "refusasses", "refusât", "refusassions", "refusassiez", "refusassent" ],
+  "subjonctifPasse": [ "aie refusé", "aies refusé", "ait refusé", "ayons refusé", "ayez refusé", "aient refusé" ],
+  "subjonctifPlusQueParfait": [ "eusse refusé", "eusses refusé", "eût refusé", "eussions refusé", "eussiez refusé", "eussent refusé" ],
+  "conditionnelPresent": [ "refuserais", "refuserais", "refuserait", "refuserions", "refuseriez", "refuseraient" ],
+  "conditionnelPasse": [ "aurais refusé", "aurais refusé", "aurait refusé", "aurions refusé", "auriez refusé", "auraient refusé" ],
+  "conditionnelPasseII": [ "eusse refusé", "eusses refusé", "eût refusé", "eussions refusé", "eussiez refusé", "eussent refusé" ],
+  "imperatif": [ "–", "refuse !", "–", "refusons !", "refusez !", "–" ],
+  "imperatifPasse": [ "–", "aie refusé !", "–", "ayons refusé !", "ayez refusé !", "–" ]
+}

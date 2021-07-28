@@ -1,0 +1,22 @@
+{
+  "infinitif": "se connaître",
+  "participePresent": "se connaissant",
+  "participePasse": "connu",
+  "present": [ "me connais", "te connais", "se connaît", "nous connaissons", "vous connaissez", "se connaissent" ],
+  "imparfait": [ "me connaissais", "te connaissais", "se connaissait", "nous connaissions", "vous connaissiez", "se connaissaient" ],
+  "passeSimple": [ "me connus", "te connus", "se connut", "nous connûmes", "vous connûtes", "se connurent" ],
+  "futurSimple": [ "me connaîtrai", "te connaîtras", "se connaîtra", "nous connaîtrons", "vous connaîtrez", "se connaîtront" ],
+  "passeCompose": [ "me suis connu(e)", "t'es connu(e)", "s'est connu(e)", "nous sommes connu(e)s", "vous êtes connu(e)(s)", "se sont connu(e)s" ],
+  "plusQueParfait": [ "m'étais connu(e)", "t'étais connu(e)", "s'était connu(e)", "nous étions connu(e)s", "vous étiez connu(e)(s)", "s'étaient connu(e)s" ],
+  "passeAnterieur": [ "me fus connu(e)", "te fus connu(e)", "se fut connu(e)", "nous fûmes connu(e)s", "vous fûtes connu(e)(s)", "se furent connu(e)s" ],
+  "futurAnterieur": [ "me serai connu(e)", "te seras connu(e)", "se sera connu(e)", "nous serons connu(e)s", "vous serez connu(e)(s)", "se seront connu(e)s" ],
+  "subjonctifPresent": [ "me connaisse", "te connaisses", "se connaisse", "nous connaissions", "vous connaissiez", "se connaissent" ],
+  "subjonctifImparfait": [ "me connusse", "te connusses", "se connût", "nous connussions", "vous connussiez", "se connussent" ],
+  "subjonctifPasse": [ "me sois connu(e)", "te sois connu(e)", "se soit connu(e)", "nous soyons connu(e)s", "vous soyez connu(e)(s)", "se soient connu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse connu(e)", "te fusses connu(e)", "se fût connu(e)", "nous fussions connu(e)s", "vous fussiez connu(e)(s)", "se fussent connu(e)s" ],
+  "conditionnelPresent": [ "me connaîtrais", "te connaîtrais", "se connaîtrait", "nous connaîtrions", "vous connaîtriez", "se connaîtraient" ],
+  "conditionnelPasse": [ "me serais connu(e)", "te serais connu(e)", "se serait connu(e)", "nous serions connu(e)s", "vous seriez connu(e)(s)", "se seraient connu(e)s" ],
+  "conditionnelPasseII": [ "me fusse connu(e)", "te fusses connu(e)", "se fût connu(e)", "nous fussions connu(e)s", "vous fussiez connu(e)(s)", "se fussent connu(e)s" ],
+  "imperatif": [ "–", "connais-toi !", "–", "connaissons-nous !", "connaissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

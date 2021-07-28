@@ -1,0 +1,22 @@
+{
+  "infinitif": "se traire",
+  "participePresent": "se trayant",
+  "participePasse": "trait",
+  "present": [ "me trais", "te trais", "se trait", "nous trayons", "vous trayez", "se traient" ],
+  "imparfait": [ "me trayais", "te trayais", "se trayait", "nous trayions", "vous trayiez", "se trayaient" ],
+  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
+  "futurSimple": [ "me trairai", "te trairas", "se traira", "nous trairons", "vous trairez", "se trairont" ],
+  "passeCompose": [ "me suis trait(e)", "t'es trait(e)", "s'est trait(e)", "nous sommes trait(e)s", "vous êtes trait(e)(s)", "se sont trait(e)s" ],
+  "plusQueParfait": [ "m'étais trait(e)", "t'étais trait(e)", "s'était trait(e)", "nous étions trait(e)s", "vous étiez trait(e)(s)", "s'étaient trait(e)s" ],
+  "passeAnterieur": [ "me fus trait(e)", "te fus trait(e)", "se fut trait(e)", "nous fûmes trait(e)s", "vous fûtes trait(e)(s)", "se furent trait(e)s" ],
+  "futurAnterieur": [ "me serai trait(e)", "te seras trait(e)", "se sera trait(e)", "nous serons trait(e)s", "vous serez trait(e)(s)", "se seront trait(e)s" ],
+  "subjonctifPresent": [ "me traie", "te traies", "se traie", "nous trayions", "vous trayiez", "se traient" ],
+  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPasse": [ "me sois trait(e)", "te sois trait(e)", "se soit trait(e)", "nous soyons trait(e)s", "vous soyez trait(e)(s)", "se soient trait(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse trait(e)", "te fusses trait(e)", "se fût trait(e)", "nous fussions trait(e)s", "vous fussiez trait(e)(s)", "se fussent trait(e)s" ],
+  "conditionnelPresent": [ "me trairais", "te trairais", "se trairait", "nous trairions", "vous trairiez", "se trairaient" ],
+  "conditionnelPasse": [ "me serais trait(e)", "te serais trait(e)", "se serait trait(e)", "nous serions trait(e)s", "vous seriez trait(e)(s)", "se seraient trait(e)s" ],
+  "conditionnelPasseII": [ "me fusse trait(e)", "te fusses trait(e)", "se fût trait(e)", "nous fussions trait(e)s", "vous fussiez trait(e)(s)", "se fussent trait(e)s" ],
+  "imperatif": [ "–", "trais-toi !", "–", "trayons-nous !", "trayez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

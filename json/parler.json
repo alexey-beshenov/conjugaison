@@ -1,0 +1,22 @@
+{
+  "infinitif": "parler",
+  "participePresent": "parlant",
+  "participePasse": "parlé",
+  "present": [ "parle", "parles", "parle", "parlons", "parlez", "parlent" ],
+  "imparfait": [ "parlais", "parlais", "parlait", "parlions", "parliez", "parlaient" ],
+  "passeSimple": [ "parlai", "parlas", "parla", "parlâmes", "parlâtes", "parlèrent" ],
+  "futurSimple": [ "parlerai", "parleras", "parlera", "parlerons", "parlerez", "parleront" ],
+  "passeCompose": [ "ai parlé", "as parlé", "a parlé", "avons parlé", "avez parlé", "ont parlé" ],
+  "plusQueParfait": [ "avais parlé", "avais parlé", "avait parlé", "avions parlé", "aviez parlé", "avaient parlé" ],
+  "passeAnterieur": [ "eus parlé", "eus parlé", "eut parlé", "eûmes parlé", "eûtes parlé", "eurent parlé" ],
+  "futurAnterieur": [ "aurai parlé", "auras parlé", "aura parlé", "aurons parlé", "aurez parlé", "auront parlé" ],
+  "subjonctifPresent": [ "parle", "parles", "parle", "parlions", "parliez", "parlent" ],
+  "subjonctifImparfait": [ "parlasse", "parlasses", "parlât", "parlassions", "parlassiez", "parlassent" ],
+  "subjonctifPasse": [ "aie parlé", "aies parlé", "ait parlé", "ayons parlé", "ayez parlé", "aient parlé" ],
+  "subjonctifPlusQueParfait": [ "eusse parlé", "eusses parlé", "eût parlé", "eussions parlé", "eussiez parlé", "eussent parlé" ],
+  "conditionnelPresent": [ "parlerais", "parlerais", "parlerait", "parlerions", "parleriez", "parleraient" ],
+  "conditionnelPasse": [ "aurais parlé", "aurais parlé", "aurait parlé", "aurions parlé", "auriez parlé", "auraient parlé" ],
+  "conditionnelPasseII": [ "eusse parlé", "eusses parlé", "eût parlé", "eussions parlé", "eussiez parlé", "eussent parlé" ],
+  "imperatif": [ "–", "parle !", "–", "parlons !", "parlez !", "–" ],
+  "imperatifPasse": [ "–", "aie parlé !", "–", "ayons parlé !", "ayez parlé !", "–" ]
+}

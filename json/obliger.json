@@ -1,0 +1,22 @@
+{
+  "infinitif": "obliger",
+  "participePresent": "obligeant",
+  "participePasse": "obligé",
+  "present": [ "oblige", "obliges", "oblige", "obligeons", "obligez", "obligent" ],
+  "imparfait": [ "obligeais", "obligeais", "obligeait", "obligions", "obligiez", "obligeaient" ],
+  "passeSimple": [ "obligeai", "obligeas", "obligea", "obligeâmes", "obligeâtes", "obligèrent" ],
+  "futurSimple": [ "obligerai", "obligeras", "obligera", "obligerons", "obligerez", "obligeront" ],
+  "passeCompose": [ "ai obligé", "as obligé", "a obligé", "avons obligé", "avez obligé", "ont obligé" ],
+  "plusQueParfait": [ "avais obligé", "avais obligé", "avait obligé", "avions obligé", "aviez obligé", "avaient obligé" ],
+  "passeAnterieur": [ "eus obligé", "eus obligé", "eut obligé", "eûmes obligé", "eûtes obligé", "eurent obligé" ],
+  "futurAnterieur": [ "aurai obligé", "auras obligé", "aura obligé", "aurons obligé", "aurez obligé", "auront obligé" ],
+  "subjonctifPresent": [ "oblige", "obliges", "oblige", "obligions", "obligiez", "obligent" ],
+  "subjonctifImparfait": [ "obligeasse", "obligeasses", "obligeât", "obligeassions", "obligeassiez", "obligeassent" ],
+  "subjonctifPasse": [ "aie obligé", "aies obligé", "ait obligé", "ayons obligé", "ayez obligé", "aient obligé" ],
+  "subjonctifPlusQueParfait": [ "eusse obligé", "eusses obligé", "eût obligé", "eussions obligé", "eussiez obligé", "eussent obligé" ],
+  "conditionnelPresent": [ "obligerais", "obligerais", "obligerait", "obligerions", "obligeriez", "obligeraient" ],
+  "conditionnelPasse": [ "aurais obligé", "aurais obligé", "aurait obligé", "aurions obligé", "auriez obligé", "auraient obligé" ],
+  "conditionnelPasseII": [ "eusse obligé", "eusses obligé", "eût obligé", "eussions obligé", "eussiez obligé", "eussent obligé" ],
+  "imperatif": [ "–", "oblige !", "–", "obligeons !", "obligez !", "–" ],
+  "imperatifPasse": [ "–", "aie obligé !", "–", "ayons obligé !", "ayez obligé !", "–" ]
+}

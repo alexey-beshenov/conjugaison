@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'approcher",
+  "participePresent": "s'approchant",
+  "participePasse": "approché",
+  "present": [ "m'approche", "t'approches", "s'approche", "nous approchons", "vous approchez", "s'approchent" ],
+  "imparfait": [ "m'approchais", "t'approchais", "s'approchait", "nous approchions", "vous approchiez", "s'approchaient" ],
+  "passeSimple": [ "m'approchai", "t'approchas", "s'approcha", "nous approchâmes", "vous approchâtes", "s'approchèrent" ],
+  "futurSimple": [ "m'approcherai", "t'approcheras", "s'approchera", "nous approcherons", "vous approcherez", "s'approcheront" ],
+  "passeCompose": [ "me suis approché(e)", "t'es approché(e)", "s'est approché(e)", "nous sommes approché(e)s", "vous êtes approché(e)(s)", "se sont approché(e)s" ],
+  "plusQueParfait": [ "m'étais approché(e)", "t'étais approché(e)", "s'était approché(e)", "nous étions approché(e)s", "vous étiez approché(e)(s)", "s'étaient approché(e)s" ],
+  "passeAnterieur": [ "me fus approché(e)", "te fus approché(e)", "se fut approché(e)", "nous fûmes approché(e)s", "vous fûtes approché(e)(s)", "se furent approché(e)s" ],
+  "futurAnterieur": [ "me serai approché(e)", "te seras approché(e)", "se sera approché(e)", "nous serons approché(e)s", "vous serez approché(e)(s)", "se seront approché(e)s" ],
+  "subjonctifPresent": [ "m'approche", "t'approches", "s'approche", "nous approchions", "vous approchiez", "s'approchent" ],
+  "subjonctifImparfait": [ "m'approchasse", "t'approchasses", "s'approchât", "nous approchassions", "vous approchassiez", "s'approchassent" ],
+  "subjonctifPasse": [ "me sois approché(e)", "te sois approché(e)", "se soit approché(e)", "nous soyons approché(e)s", "vous soyez approché(e)(s)", "se soient approché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse approché(e)", "te fusses approché(e)", "se fût approché(e)", "nous fussions approché(e)s", "vous fussiez approché(e)(s)", "se fussent approché(e)s" ],
+  "conditionnelPresent": [ "m'approcherais", "t'approcherais", "s'approcherait", "nous approcherions", "vous approcheriez", "s'approcheraient" ],
+  "conditionnelPasse": [ "me serais approché(e)", "te serais approché(e)", "se serait approché(e)", "nous serions approché(e)s", "vous seriez approché(e)(s)", "se seraient approché(e)s" ],
+  "conditionnelPasseII": [ "me fusse approché(e)", "te fusses approché(e)", "se fût approché(e)", "nous fussions approché(e)s", "vous fussiez approché(e)(s)", "se fussent approché(e)s" ],
+  "imperatif": [ "–", "approche-toi !", "–", "approchons-nous !", "approchez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

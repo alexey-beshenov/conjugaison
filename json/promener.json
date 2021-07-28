@@ -1,0 +1,22 @@
+{
+  "infinitif": "promener",
+  "participePresent": "promenant",
+  "participePasse": "promené",
+  "present": [ "promène", "promènes", "promène", "promenons", "promenez", "promènent" ],
+  "imparfait": [ "promenais", "promenais", "promenait", "promenions", "promeniez", "promenaient" ],
+  "passeSimple": [ "promenai", "promenas", "promena", "promenâmes", "promenâtes", "promenèrent" ],
+  "futurSimple": [ "promènerai", "promèneras", "promènera", "promènerons", "promènerez", "promèneront" ],
+  "passeCompose": [ "ai promené", "as promené", "a promené", "avons promené", "avez promené", "ont promené" ],
+  "plusQueParfait": [ "avais promené", "avais promené", "avait promené", "avions promené", "aviez promené", "avaient promené" ],
+  "passeAnterieur": [ "eus promené", "eus promené", "eut promené", "eûmes promené", "eûtes promené", "eurent promené" ],
+  "futurAnterieur": [ "aurai promené", "auras promené", "aura promené", "aurons promené", "aurez promené", "auront promené" ],
+  "subjonctifPresent": [ "promène", "promènes", "promène", "promenions", "promeniez", "promènent" ],
+  "subjonctifImparfait": [ "promenasse", "promenasses", "promenât", "promenassions", "promenassiez", "promenassent" ],
+  "subjonctifPasse": [ "aie promené", "aies promené", "ait promené", "ayons promené", "ayez promené", "aient promené" ],
+  "subjonctifPlusQueParfait": [ "eusse promené", "eusses promené", "eût promené", "eussions promené", "eussiez promené", "eussent promené" ],
+  "conditionnelPresent": [ "promènerais", "promènerais", "promènerait", "promènerions", "promèneriez", "promèneraient" ],
+  "conditionnelPasse": [ "aurais promené", "aurais promené", "aurait promené", "aurions promené", "auriez promené", "auraient promené" ],
+  "conditionnelPasseII": [ "eusse promené", "eusses promené", "eût promené", "eussions promené", "eussiez promené", "eussent promené" ],
+  "imperatif": [ "–", "promène !", "–", "promenons !", "promenez !", "–" ],
+  "imperatifPasse": [ "–", "aie promené !", "–", "ayons promené !", "ayez promené !", "–" ]
+}

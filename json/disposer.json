@@ -1,0 +1,22 @@
+{
+  "infinitif": "disposer",
+  "participePresent": "disposant",
+  "participePasse": "disposé",
+  "present": [ "dispose", "disposes", "dispose", "disposons", "disposez", "disposent" ],
+  "imparfait": [ "disposais", "disposais", "disposait", "disposions", "disposiez", "disposaient" ],
+  "passeSimple": [ "disposai", "disposas", "disposa", "disposâmes", "disposâtes", "disposèrent" ],
+  "futurSimple": [ "disposerai", "disposeras", "disposera", "disposerons", "disposerez", "disposeront" ],
+  "passeCompose": [ "ai disposé", "as disposé", "a disposé", "avons disposé", "avez disposé", "ont disposé" ],
+  "plusQueParfait": [ "avais disposé", "avais disposé", "avait disposé", "avions disposé", "aviez disposé", "avaient disposé" ],
+  "passeAnterieur": [ "eus disposé", "eus disposé", "eut disposé", "eûmes disposé", "eûtes disposé", "eurent disposé" ],
+  "futurAnterieur": [ "aurai disposé", "auras disposé", "aura disposé", "aurons disposé", "aurez disposé", "auront disposé" ],
+  "subjonctifPresent": [ "dispose", "disposes", "dispose", "disposions", "disposiez", "disposent" ],
+  "subjonctifImparfait": [ "disposasse", "disposasses", "disposât", "disposassions", "disposassiez", "disposassent" ],
+  "subjonctifPasse": [ "aie disposé", "aies disposé", "ait disposé", "ayons disposé", "ayez disposé", "aient disposé" ],
+  "subjonctifPlusQueParfait": [ "eusse disposé", "eusses disposé", "eût disposé", "eussions disposé", "eussiez disposé", "eussent disposé" ],
+  "conditionnelPresent": [ "disposerais", "disposerais", "disposerait", "disposerions", "disposeriez", "disposeraient" ],
+  "conditionnelPasse": [ "aurais disposé", "aurais disposé", "aurait disposé", "aurions disposé", "auriez disposé", "auraient disposé" ],
+  "conditionnelPasseII": [ "eusse disposé", "eusses disposé", "eût disposé", "eussions disposé", "eussiez disposé", "eussent disposé" ],
+  "imperatif": [ "–", "dispose !", "–", "disposons !", "disposez !", "–" ],
+  "imperatifPasse": [ "–", "aie disposé !", "–", "ayons disposé !", "ayez disposé !", "–" ]
+}

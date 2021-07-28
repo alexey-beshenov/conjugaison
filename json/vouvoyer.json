@@ -1,0 +1,22 @@
+{
+  "infinitif": "vouvoyer",
+  "participePresent": "vouvoyant",
+  "participePasse": "vouvoyé",
+  "present": [ "vouvoie", "vouvoies", "vouvoie", "vouvoyons", "vouvoyez", "vouvoient" ],
+  "imparfait": [ "vouvoyais", "vouvoyais", "vouvoyait", "vouvoyions", "vouvoyiez", "vouvoyaient" ],
+  "passeSimple": [ "vouvoyai", "vouvoyas", "vouvoya", "vouvoyâmes", "vouvoyâtes", "vouvoyèrent" ],
+  "futurSimple": [ "vouvoierai", "vouvoieras", "vouvoiera", "vouvoierons", "vouvoierez", "vouvoieront" ],
+  "passeCompose": [ "ai vouvoyé", "as vouvoyé", "a vouvoyé", "avons vouvoyé", "avez vouvoyé", "ont vouvoyé" ],
+  "plusQueParfait": [ "avais vouvoyé", "avais vouvoyé", "avait vouvoyé", "avions vouvoyé", "aviez vouvoyé", "avaient vouvoyé" ],
+  "passeAnterieur": [ "eus vouvoyé", "eus vouvoyé", "eut vouvoyé", "eûmes vouvoyé", "eûtes vouvoyé", "eurent vouvoyé" ],
+  "futurAnterieur": [ "aurai vouvoyé", "auras vouvoyé", "aura vouvoyé", "aurons vouvoyé", "aurez vouvoyé", "auront vouvoyé" ],
+  "subjonctifPresent": [ "vouvoie", "vouvoies", "vouvoie", "vouvoyions", "vouvoyiez", "vouvoient" ],
+  "subjonctifImparfait": [ "vouvoyasse", "vouvoyasses", "vouvoyât", "vouvoyassions", "vouvoyassiez", "vouvoyassent" ],
+  "subjonctifPasse": [ "aie vouvoyé", "aies vouvoyé", "ait vouvoyé", "ayons vouvoyé", "ayez vouvoyé", "aient vouvoyé" ],
+  "subjonctifPlusQueParfait": [ "eusse vouvoyé", "eusses vouvoyé", "eût vouvoyé", "eussions vouvoyé", "eussiez vouvoyé", "eussent vouvoyé" ],
+  "conditionnelPresent": [ "vouvoierais", "vouvoierais", "vouvoierait", "vouvoierions", "vouvoieriez", "vouvoieraient" ],
+  "conditionnelPasse": [ "aurais vouvoyé", "aurais vouvoyé", "aurait vouvoyé", "aurions vouvoyé", "auriez vouvoyé", "auraient vouvoyé" ],
+  "conditionnelPasseII": [ "eusse vouvoyé", "eusses vouvoyé", "eût vouvoyé", "eussions vouvoyé", "eussiez vouvoyé", "eussent vouvoyé" ],
+  "imperatif": [ "–", "vouvoie !", "–", "vouvoyons !", "vouvoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie vouvoyé !", "–", "ayons vouvoyé !", "ayez vouvoyé !", "–" ]
+}

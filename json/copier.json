@@ -1,0 +1,22 @@
+{
+  "infinitif": "copier",
+  "participePresent": "copiant",
+  "participePasse": "copié",
+  "present": [ "copie", "copies", "copie", "copions", "copiez", "copient" ],
+  "imparfait": [ "copiais", "copiais", "copiait", "copiions", "copiiez", "copiaient" ],
+  "passeSimple": [ "copiai", "copias", "copia", "copiâmes", "copiâtes", "copièrent" ],
+  "futurSimple": [ "copierai", "copieras", "copiera", "copierons", "copierez", "copieront" ],
+  "passeCompose": [ "ai copié", "as copié", "a copié", "avons copié", "avez copié", "ont copié" ],
+  "plusQueParfait": [ "avais copié", "avais copié", "avait copié", "avions copié", "aviez copié", "avaient copié" ],
+  "passeAnterieur": [ "eus copié", "eus copié", "eut copié", "eûmes copié", "eûtes copié", "eurent copié" ],
+  "futurAnterieur": [ "aurai copié", "auras copié", "aura copié", "aurons copié", "aurez copié", "auront copié" ],
+  "subjonctifPresent": [ "copie", "copies", "copie", "copiions", "copiiez", "copient" ],
+  "subjonctifImparfait": [ "copiasse", "copiasses", "copiât", "copiassions", "copiassiez", "copiassent" ],
+  "subjonctifPasse": [ "aie copié", "aies copié", "ait copié", "ayons copié", "ayez copié", "aient copié" ],
+  "subjonctifPlusQueParfait": [ "eusse copié", "eusses copié", "eût copié", "eussions copié", "eussiez copié", "eussent copié" ],
+  "conditionnelPresent": [ "copierais", "copierais", "copierait", "copierions", "copieriez", "copieraient" ],
+  "conditionnelPasse": [ "aurais copié", "aurais copié", "aurait copié", "aurions copié", "auriez copié", "auraient copié" ],
+  "conditionnelPasseII": [ "eusse copié", "eusses copié", "eût copié", "eussions copié", "eussiez copié", "eussent copié" ],
+  "imperatif": [ "–", "copie !", "–", "copions !", "copiez !", "–" ],
+  "imperatifPasse": [ "–", "aie copié !", "–", "ayons copié !", "ayez copié !", "–" ]
+}

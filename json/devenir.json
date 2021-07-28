@@ -1,0 +1,22 @@
+{
+  "infinitif": "devenir",
+  "participePresent": "devenant",
+  "participePasse": "devenu",
+  "present": [ "deviens", "deviens", "devient", "devenons", "devenez", "deviennent" ],
+  "imparfait": [ "devenais", "devenais", "devenait", "devenions", "deveniez", "devenaient" ],
+  "passeSimple": [ "devins", "devins", "devint", "devînmes", "devîntes", "devinrent" ],
+  "futurSimple": [ "deviendrai", "deviendras", "deviendra", "deviendrons", "deviendrez", "deviendront" ],
+  "passeCompose": [ "suis devenu(e)", "es devenu(e)", "est devenu(e)", "sommes devenu(e)s", "êtes devenu(e)(s)", "sont devenu(e)s" ],
+  "plusQueParfait": [ "étais devenu(e)", "étais devenu(e)", "était devenu(e)", "étions devenu(e)s", "étiez devenu(e)(s)", "étaient devenu(e)s" ],
+  "passeAnterieur": [ "fus devenu(e)", "fus devenu(e)", "fut devenu(e)", "fûmes devenu(e)s", "fûtes devenu(e)(s)", "furent devenu(e)s" ],
+  "futurAnterieur": [ "serai devenu(e)", "seras devenu(e)", "sera devenu(e)", "serons devenu(e)s", "serez devenu(e)(s)", "seront devenu(e)s" ],
+  "subjonctifPresent": [ "devienne", "deviennes", "devienne", "devenions", "deveniez", "deviennent" ],
+  "subjonctifImparfait": [ "devinsse", "devinsses", "devînt", "devinssions", "devinssiez", "devinssent" ],
+  "subjonctifPasse": [ "sois devenu(e)", "sois devenu(e)", "soit devenu(e)", "soyons devenu(e)s", "soyez devenu(e)(s)", "soient devenu(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse devenu(e)", "fusses devenu(e)", "fût devenu(e)", "fussions devenu(e)s", "fussiez devenu(e)(s)", "fussent devenu(e)s" ],
+  "conditionnelPresent": [ "deviendrais", "deviendrais", "deviendrait", "deviendrions", "deviendriez", "deviendraient" ],
+  "conditionnelPasse": [ "serais devenu(e)", "serais devenu(e)", "serait devenu(e)", "serions devenu(e)s", "seriez devenu(e)(s)", "seraient devenu(e)s" ],
+  "conditionnelPasseII": [ "fusse devenu(e)", "fusses devenu(e)", "fût devenu(e)", "fussions devenu(e)s", "fussiez devenu(e)(s)", "fussent devenu(e)s" ],
+  "imperatif": [ "–", "deviens !", "–", "devenons !", "devenez !", "–" ],
+  "imperatifPasse": [ "–", "sois devenu(e) !", "–", "soyons devenu(e)s !", "soyez devenu(e)(s) !", "–" ]
+}

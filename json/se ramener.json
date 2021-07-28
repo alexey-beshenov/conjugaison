@@ -1,0 +1,22 @@
+{
+  "infinitif": "se ramener",
+  "participePresent": "se ramenant",
+  "participePasse": "ramené",
+  "present": [ "me ramène", "te ramènes", "se ramène", "nous ramenons", "vous ramenez", "se ramènent" ],
+  "imparfait": [ "me ramenais", "te ramenais", "se ramenait", "nous ramenions", "vous rameniez", "se ramenaient" ],
+  "passeSimple": [ "me ramenai", "te ramenas", "se ramena", "nous ramenâmes", "vous ramenâtes", "se ramenèrent" ],
+  "futurSimple": [ "me ramènerai", "te ramèneras", "se ramènera", "nous ramènerons", "vous ramènerez", "se ramèneront" ],
+  "passeCompose": [ "me suis ramené(e)", "t'es ramené(e)", "s'est ramené(e)", "nous sommes ramené(e)s", "vous êtes ramené(e)(s)", "se sont ramené(e)s" ],
+  "plusQueParfait": [ "m'étais ramené(e)", "t'étais ramené(e)", "s'était ramené(e)", "nous étions ramené(e)s", "vous étiez ramené(e)(s)", "s'étaient ramené(e)s" ],
+  "passeAnterieur": [ "me fus ramené(e)", "te fus ramené(e)", "se fut ramené(e)", "nous fûmes ramené(e)s", "vous fûtes ramené(e)(s)", "se furent ramené(e)s" ],
+  "futurAnterieur": [ "me serai ramené(e)", "te seras ramené(e)", "se sera ramené(e)", "nous serons ramené(e)s", "vous serez ramené(e)(s)", "se seront ramené(e)s" ],
+  "subjonctifPresent": [ "me ramène", "te ramènes", "se ramène", "nous ramenions", "vous rameniez", "se ramènent" ],
+  "subjonctifImparfait": [ "me ramenasse", "te ramenasses", "se ramenât", "nous ramenassions", "vous ramenassiez", "se ramenassent" ],
+  "subjonctifPasse": [ "me sois ramené(e)", "te sois ramené(e)", "se soit ramené(e)", "nous soyons ramené(e)s", "vous soyez ramené(e)(s)", "se soient ramené(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse ramené(e)", "te fusses ramené(e)", "se fût ramené(e)", "nous fussions ramené(e)s", "vous fussiez ramené(e)(s)", "se fussent ramené(e)s" ],
+  "conditionnelPresent": [ "me ramènerais", "te ramènerais", "se ramènerait", "nous ramènerions", "vous ramèneriez", "se ramèneraient" ],
+  "conditionnelPasse": [ "me serais ramené(e)", "te serais ramené(e)", "se serait ramené(e)", "nous serions ramené(e)s", "vous seriez ramené(e)(s)", "se seraient ramené(e)s" ],
+  "conditionnelPasseII": [ "me fusse ramené(e)", "te fusses ramené(e)", "se fût ramené(e)", "nous fussions ramené(e)s", "vous fussiez ramené(e)(s)", "se fussent ramené(e)s" ],
+  "imperatif": [ "–", "ramène-toi !", "–", "ramenons-nous !", "ramenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

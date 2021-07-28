@@ -1,0 +1,22 @@
+{
+  "infinitif": "se toucher",
+  "participePresent": "se touchant",
+  "participePasse": "touché",
+  "present": [ "me touche", "te touches", "se touche", "nous touchons", "vous touchez", "se touchent" ],
+  "imparfait": [ "me touchais", "te touchais", "se touchait", "nous touchions", "vous touchiez", "se touchaient" ],
+  "passeSimple": [ "me touchai", "te touchas", "se toucha", "nous touchâmes", "vous touchâtes", "se touchèrent" ],
+  "futurSimple": [ "me toucherai", "te toucheras", "se touchera", "nous toucherons", "vous toucherez", "se toucheront" ],
+  "passeCompose": [ "me suis touché(e)", "t'es touché(e)", "s'est touché(e)", "nous sommes touché(e)s", "vous êtes touché(e)(s)", "se sont touché(e)s" ],
+  "plusQueParfait": [ "m'étais touché(e)", "t'étais touché(e)", "s'était touché(e)", "nous étions touché(e)s", "vous étiez touché(e)(s)", "s'étaient touché(e)s" ],
+  "passeAnterieur": [ "me fus touché(e)", "te fus touché(e)", "se fut touché(e)", "nous fûmes touché(e)s", "vous fûtes touché(e)(s)", "se furent touché(e)s" ],
+  "futurAnterieur": [ "me serai touché(e)", "te seras touché(e)", "se sera touché(e)", "nous serons touché(e)s", "vous serez touché(e)(s)", "se seront touché(e)s" ],
+  "subjonctifPresent": [ "me touche", "te touches", "se touche", "nous touchions", "vous touchiez", "se touchent" ],
+  "subjonctifImparfait": [ "me touchasse", "te touchasses", "se touchât", "nous touchassions", "vous touchassiez", "se touchassent" ],
+  "subjonctifPasse": [ "me sois touché(e)", "te sois touché(e)", "se soit touché(e)", "nous soyons touché(e)s", "vous soyez touché(e)(s)", "se soient touché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse touché(e)", "te fusses touché(e)", "se fût touché(e)", "nous fussions touché(e)s", "vous fussiez touché(e)(s)", "se fussent touché(e)s" ],
+  "conditionnelPresent": [ "me toucherais", "te toucherais", "se toucherait", "nous toucherions", "vous toucheriez", "se toucheraient" ],
+  "conditionnelPasse": [ "me serais touché(e)", "te serais touché(e)", "se serait touché(e)", "nous serions touché(e)s", "vous seriez touché(e)(s)", "se seraient touché(e)s" ],
+  "conditionnelPasseII": [ "me fusse touché(e)", "te fusses touché(e)", "se fût touché(e)", "nous fussions touché(e)s", "vous fussiez touché(e)(s)", "se fussent touché(e)s" ],
+  "imperatif": [ "–", "touche-toi !", "–", "touchons-nous !", "touchez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

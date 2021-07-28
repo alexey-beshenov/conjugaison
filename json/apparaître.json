@@ -1,0 +1,22 @@
+{
+  "infinitif": "apparaître",
+  "participePresent": "apparaissant",
+  "participePasse": "apparu",
+  "present": [ "apparais", "apparais", "apparaît", "apparaissons", "apparaissez", "apparaissent" ],
+  "imparfait": [ "apparaissais", "apparaissais", "apparaissait", "apparaissions", "apparaissiez", "apparaissaient" ],
+  "passeSimple": [ "apparus", "apparus", "apparut", "apparûmes", "apparûtes", "apparurent" ],
+  "futurSimple": [ "apparaîtrai", "apparaîtras", "apparaîtra", "apparaîtrons", "apparaîtrez", "apparaîtront" ],
+  "passeCompose": [ "suis apparu(e)", "es apparu(e)", "est apparu(e)", "sommes apparu(e)s", "êtes apparu(e)(s)", "sont apparu(e)s" ],
+  "plusQueParfait": [ "étais apparu(e)", "étais apparu(e)", "était apparu(e)", "étions apparu(e)s", "étiez apparu(e)(s)", "étaient apparu(e)s" ],
+  "passeAnterieur": [ "fus apparu(e)", "fus apparu(e)", "fut apparu(e)", "fûmes apparu(e)s", "fûtes apparu(e)(s)", "furent apparu(e)s" ],
+  "futurAnterieur": [ "serai apparu(e)", "seras apparu(e)", "sera apparu(e)", "serons apparu(e)s", "serez apparu(e)(s)", "seront apparu(e)s" ],
+  "subjonctifPresent": [ "apparaisse", "apparaisses", "apparaisse", "apparaissions", "apparaissiez", "apparaissent" ],
+  "subjonctifImparfait": [ "apparusse", "apparusses", "apparût", "apparussions", "apparussiez", "apparussent" ],
+  "subjonctifPasse": [ "sois apparu(e)", "sois apparu(e)", "soit apparu(e)", "soyons apparu(e)s", "soyez apparu(e)(s)", "soient apparu(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse apparu(e)", "fusses apparu(e)", "fût apparu(e)", "fussions apparu(e)s", "fussiez apparu(e)(s)", "fussent apparu(e)s" ],
+  "conditionnelPresent": [ "apparaîtrais", "apparaîtrais", "apparaîtrait", "apparaîtrions", "apparaîtriez", "apparaîtraient" ],
+  "conditionnelPasse": [ "serais apparu(e)", "serais apparu(e)", "serait apparu(e)", "serions apparu(e)s", "seriez apparu(e)(s)", "seraient apparu(e)s" ],
+  "conditionnelPasseII": [ "fusse apparu(e)", "fusses apparu(e)", "fût apparu(e)", "fussions apparu(e)s", "fussiez apparu(e)(s)", "fussent apparu(e)s" ],
+  "imperatif": [ "–", "apparais !", "–", "apparaissons !", "apparaissez !", "–" ],
+  "imperatifPasse": [ "–", "sois apparu(e) !", "–", "soyons apparu(e)s !", "soyez apparu(e)(s) !", "–" ]
+}

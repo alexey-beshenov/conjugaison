@@ -1,0 +1,22 @@
+{
+  "infinitif": "rendormir",
+  "participePresent": "rendormant",
+  "participePasse": "rendormi",
+  "present": [ "rendors", "rendors", "rendort", "rendormons", "rendormez", "rendorment" ],
+  "imparfait": [ "rendormais", "rendormais", "rendormait", "rendormions", "rendormiez", "rendormaient" ],
+  "passeSimple": [ "rendormis", "rendormis", "rendormit", "rendormîmes", "rendormîtes", "rendormirent" ],
+  "futurSimple": [ "rendormirai", "rendormiras", "rendormira", "rendormirons", "rendormirez", "rendormiront" ],
+  "passeCompose": [ "ai rendormi", "as rendormi", "a rendormi", "avons rendormi", "avez rendormi", "ont rendormi" ],
+  "plusQueParfait": [ "avais rendormi", "avais rendormi", "avait rendormi", "avions rendormi", "aviez rendormi", "avaient rendormi" ],
+  "passeAnterieur": [ "eus rendormi", "eus rendormi", "eut rendormi", "eûmes rendormi", "eûtes rendormi", "eurent rendormi" ],
+  "futurAnterieur": [ "aurai rendormi", "auras rendormi", "aura rendormi", "aurons rendormi", "aurez rendormi", "auront rendormi" ],
+  "subjonctifPresent": [ "rendorme", "rendormes", "rendorme", "rendormions", "rendormiez", "rendorment" ],
+  "subjonctifImparfait": [ "rendormisse", "rendormisses", "rendormît", "rendormissions", "rendormissiez", "rendormissent" ],
+  "subjonctifPasse": [ "aie rendormi", "aies rendormi", "ait rendormi", "ayons rendormi", "ayez rendormi", "aient rendormi" ],
+  "subjonctifPlusQueParfait": [ "eusse rendormi", "eusses rendormi", "eût rendormi", "eussions rendormi", "eussiez rendormi", "eussent rendormi" ],
+  "conditionnelPresent": [ "rendormirais", "rendormirais", "rendormirait", "rendormirions", "rendormiriez", "rendormiraient" ],
+  "conditionnelPasse": [ "aurais rendormi", "aurais rendormi", "aurait rendormi", "aurions rendormi", "auriez rendormi", "auraient rendormi" ],
+  "conditionnelPasseII": [ "eusse rendormi", "eusses rendormi", "eût rendormi", "eussions rendormi", "eussiez rendormi", "eussent rendormi" ],
+  "imperatif": [ "–", "rendors !", "–", "rendormons !", "rendormez !", "–" ],
+  "imperatifPasse": [ "–", "aie rendormi !", "–", "ayons rendormi !", "ayez rendormi !", "–" ]
+}

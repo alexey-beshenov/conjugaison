@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rêver",
+  "participePresent": "se rêvant",
+  "participePasse": "rêvé",
+  "present": [ "me rêve", "te rêves", "se rêve", "nous rêvons", "vous rêvez", "se rêvent" ],
+  "imparfait": [ "me rêvais", "te rêvais", "se rêvait", "nous rêvions", "vous rêviez", "se rêvaient" ],
+  "passeSimple": [ "me rêvai", "te rêvas", "se rêva", "nous rêvâmes", "vous rêvâtes", "se rêvèrent" ],
+  "futurSimple": [ "me rêverai", "te rêveras", "se rêvera", "nous rêverons", "vous rêverez", "se rêveront" ],
+  "passeCompose": [ "me suis rêvé(e)", "t'es rêvé(e)", "s'est rêvé(e)", "nous sommes rêvé(e)s", "vous êtes rêvé(e)(s)", "se sont rêvé(e)s" ],
+  "plusQueParfait": [ "m'étais rêvé(e)", "t'étais rêvé(e)", "s'était rêvé(e)", "nous étions rêvé(e)s", "vous étiez rêvé(e)(s)", "s'étaient rêvé(e)s" ],
+  "passeAnterieur": [ "me fus rêvé(e)", "te fus rêvé(e)", "se fut rêvé(e)", "nous fûmes rêvé(e)s", "vous fûtes rêvé(e)(s)", "se furent rêvé(e)s" ],
+  "futurAnterieur": [ "me serai rêvé(e)", "te seras rêvé(e)", "se sera rêvé(e)", "nous serons rêvé(e)s", "vous serez rêvé(e)(s)", "se seront rêvé(e)s" ],
+  "subjonctifPresent": [ "me rêve", "te rêves", "se rêve", "nous rêvions", "vous rêviez", "se rêvent" ],
+  "subjonctifImparfait": [ "me rêvasse", "te rêvasses", "se rêvât", "nous rêvassions", "vous rêvassiez", "se rêvassent" ],
+  "subjonctifPasse": [ "me sois rêvé(e)", "te sois rêvé(e)", "se soit rêvé(e)", "nous soyons rêvé(e)s", "vous soyez rêvé(e)(s)", "se soient rêvé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rêvé(e)", "te fusses rêvé(e)", "se fût rêvé(e)", "nous fussions rêvé(e)s", "vous fussiez rêvé(e)(s)", "se fussent rêvé(e)s" ],
+  "conditionnelPresent": [ "me rêverais", "te rêverais", "se rêverait", "nous rêverions", "vous rêveriez", "se rêveraient" ],
+  "conditionnelPasse": [ "me serais rêvé(e)", "te serais rêvé(e)", "se serait rêvé(e)", "nous serions rêvé(e)s", "vous seriez rêvé(e)(s)", "se seraient rêvé(e)s" ],
+  "conditionnelPasseII": [ "me fusse rêvé(e)", "te fusses rêvé(e)", "se fût rêvé(e)", "nous fussions rêvé(e)s", "vous fussiez rêvé(e)(s)", "se fussent rêvé(e)s" ],
+  "imperatif": [ "–", "rêve-toi !", "–", "rêvons-nous !", "rêvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

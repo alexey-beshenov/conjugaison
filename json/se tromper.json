@@ -1,0 +1,22 @@
+{
+  "infinitif": "se tromper",
+  "participePresent": "se trompant",
+  "participePasse": "trompé",
+  "present": [ "me trompe", "te trompes", "se trompe", "nous trompons", "vous trompez", "se trompent" ],
+  "imparfait": [ "me trompais", "te trompais", "se trompait", "nous trompions", "vous trompiez", "se trompaient" ],
+  "passeSimple": [ "me trompai", "te trompas", "se trompa", "nous trompâmes", "vous trompâtes", "se trompèrent" ],
+  "futurSimple": [ "me tromperai", "te tromperas", "se trompera", "nous tromperons", "vous tromperez", "se tromperont" ],
+  "passeCompose": [ "me suis trompé(e)", "t'es trompé(e)", "s'est trompé(e)", "nous sommes trompé(e)s", "vous êtes trompé(e)(s)", "se sont trompé(e)s" ],
+  "plusQueParfait": [ "m'étais trompé(e)", "t'étais trompé(e)", "s'était trompé(e)", "nous étions trompé(e)s", "vous étiez trompé(e)(s)", "s'étaient trompé(e)s" ],
+  "passeAnterieur": [ "me fus trompé(e)", "te fus trompé(e)", "se fut trompé(e)", "nous fûmes trompé(e)s", "vous fûtes trompé(e)(s)", "se furent trompé(e)s" ],
+  "futurAnterieur": [ "me serai trompé(e)", "te seras trompé(e)", "se sera trompé(e)", "nous serons trompé(e)s", "vous serez trompé(e)(s)", "se seront trompé(e)s" ],
+  "subjonctifPresent": [ "me trompe", "te trompes", "se trompe", "nous trompions", "vous trompiez", "se trompent" ],
+  "subjonctifImparfait": [ "me trompasse", "te trompasses", "se trompât", "nous trompassions", "vous trompassiez", "se trompassent" ],
+  "subjonctifPasse": [ "me sois trompé(e)", "te sois trompé(e)", "se soit trompé(e)", "nous soyons trompé(e)s", "vous soyez trompé(e)(s)", "se soient trompé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse trompé(e)", "te fusses trompé(e)", "se fût trompé(e)", "nous fussions trompé(e)s", "vous fussiez trompé(e)(s)", "se fussent trompé(e)s" ],
+  "conditionnelPresent": [ "me tromperais", "te tromperais", "se tromperait", "nous tromperions", "vous tromperiez", "se tromperaient" ],
+  "conditionnelPasse": [ "me serais trompé(e)", "te serais trompé(e)", "se serait trompé(e)", "nous serions trompé(e)s", "vous seriez trompé(e)(s)", "se seraient trompé(e)s" ],
+  "conditionnelPasseII": [ "me fusse trompé(e)", "te fusses trompé(e)", "se fût trompé(e)", "nous fussions trompé(e)s", "vous fussiez trompé(e)(s)", "se fussent trompé(e)s" ],
+  "imperatif": [ "–", "trompe-toi !", "–", "trompons-nous !", "trompez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

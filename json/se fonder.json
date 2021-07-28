@@ -1,0 +1,22 @@
+{
+  "infinitif": "se fonder",
+  "participePresent": "se fondant",
+  "participePasse": "fondé",
+  "present": [ "me fonde", "te fondes", "se fonde", "nous fondons", "vous fondez", "se fondent" ],
+  "imparfait": [ "me fondais", "te fondais", "se fondait", "nous fondions", "vous fondiez", "se fondaient" ],
+  "passeSimple": [ "me fondai", "te fondas", "se fonda", "nous fondâmes", "vous fondâtes", "se fondèrent" ],
+  "futurSimple": [ "me fonderai", "te fonderas", "se fondera", "nous fonderons", "vous fonderez", "se fonderont" ],
+  "passeCompose": [ "me suis fondé(e)", "t'es fondé(e)", "s'est fondé(e)", "nous sommes fondé(e)s", "vous êtes fondé(e)(s)", "se sont fondé(e)s" ],
+  "plusQueParfait": [ "m'étais fondé(e)", "t'étais fondé(e)", "s'était fondé(e)", "nous étions fondé(e)s", "vous étiez fondé(e)(s)", "s'étaient fondé(e)s" ],
+  "passeAnterieur": [ "me fus fondé(e)", "te fus fondé(e)", "se fut fondé(e)", "nous fûmes fondé(e)s", "vous fûtes fondé(e)(s)", "se furent fondé(e)s" ],
+  "futurAnterieur": [ "me serai fondé(e)", "te seras fondé(e)", "se sera fondé(e)", "nous serons fondé(e)s", "vous serez fondé(e)(s)", "se seront fondé(e)s" ],
+  "subjonctifPresent": [ "me fonde", "te fondes", "se fonde", "nous fondions", "vous fondiez", "se fondent" ],
+  "subjonctifImparfait": [ "me fondasse", "te fondasses", "se fondât", "nous fondassions", "vous fondassiez", "se fondassent" ],
+  "subjonctifPasse": [ "me sois fondé(e)", "te sois fondé(e)", "se soit fondé(e)", "nous soyons fondé(e)s", "vous soyez fondé(e)(s)", "se soient fondé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse fondé(e)", "te fusses fondé(e)", "se fût fondé(e)", "nous fussions fondé(e)s", "vous fussiez fondé(e)(s)", "se fussent fondé(e)s" ],
+  "conditionnelPresent": [ "me fonderais", "te fonderais", "se fonderait", "nous fonderions", "vous fonderiez", "se fonderaient" ],
+  "conditionnelPasse": [ "me serais fondé(e)", "te serais fondé(e)", "se serait fondé(e)", "nous serions fondé(e)s", "vous seriez fondé(e)(s)", "se seraient fondé(e)s" ],
+  "conditionnelPasseII": [ "me fusse fondé(e)", "te fusses fondé(e)", "se fût fondé(e)", "nous fussions fondé(e)s", "vous fussiez fondé(e)(s)", "se fussent fondé(e)s" ],
+  "imperatif": [ "–", "fonde-toi !", "–", "fondons-nous !", "fondez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

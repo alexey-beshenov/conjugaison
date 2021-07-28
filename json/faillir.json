@@ -1,0 +1,22 @@
+{
+  "infinitif": "faillir",
+  "participePresent": "faillissant,",
+  "participePasse": "faillant",
+  "present": [ "faillis, faux *old spelling", "faillis, faux", "faillit, faut", "faillissons, faillons", "faillissez, faillez", "faillissent, faillent" ],
+  "imparfait": [ "faillissais, faillais", "faillissais, faillais", "faillissait, faillait", "faillissions, faillions", "faillissiez, failliez", "faillissaient, faillaient" ],
+  "passeSimple": [ "faillis", "faillis", "faillit", "faillîmes", "faillîtes", "faillirent" ],
+  "futurSimple": [ "faillirai, faudrai", "failliras, faudras", "faillira, faudra", "faillirons, faudrons", "faillirez, faudrez", "failliront, faudront" ],
+  "passeCompose": [ "ai failli", "as failli", "a failli", "avons failli", "avez failli", "ont failli" ],
+  "plusQueParfait": [ "avais failli", "avais failli", "avait failli", "avions failli", "aviez failli", "avaient failli" ],
+  "passeAnterieur": [ "eus failli", "eus failli", "eut failli", "eûmes failli", "eûtes failli", "eurent failli" ],
+  "futurAnterieur": [ "aurai failli", "auras failli", "aura failli", "aurons failli", "aurez failli", "auront failli" ],
+  "subjonctifPresent": [ "faillisse, faille", "faillisses, failles", "faillisse, faille", "faillissions, faillions", "faillissiez, failliez", "faillissent, faillent" ],
+  "subjonctifImparfait": [ "faillisse", "faillisses", "faillît", "faillissions", "faillissiez", "faillissent" ],
+  "subjonctifPasse": [ "aie failli", "aies failli", "ait failli", "ayons failli", "ayez failli", "aient failli" ],
+  "subjonctifPlusQueParfait": [ "eusse failli", "eusses failli", "eût failli", "eussions failli", "eussiez failli", "eussent failli" ],
+  "conditionnelPresent": [ "faillirais, faudrais", "faillirais, faudrais", "faillirait, faudrait", "faillirions, faudrions", "failliriez, faudriez", "failliraient, faudraient" ],
+  "conditionnelPasse": [ "aurais failli", "aurais failli", "aurait failli", "aurions failli", "auriez failli", "auraient failli" ],
+  "conditionnelPasseII": [ "eusse failli", "eusses failli", "eût failli", "eussions failli", "eussiez failli", "eussent failli" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

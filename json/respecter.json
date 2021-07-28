@@ -1,0 +1,22 @@
+{
+  "infinitif": "respecter",
+  "participePresent": "respectant",
+  "participePasse": "respecté",
+  "present": [ "respecte", "respectes", "respecte", "respectons", "respectez", "respectent" ],
+  "imparfait": [ "respectais", "respectais", "respectait", "respections", "respectiez", "respectaient" ],
+  "passeSimple": [ "respectai", "respectas", "respecta", "respectâmes", "respectâtes", "respectèrent" ],
+  "futurSimple": [ "respecterai", "respecteras", "respectera", "respecterons", "respecterez", "respecteront" ],
+  "passeCompose": [ "ai respecté", "as respecté", "a respecté", "avons respecté", "avez respecté", "ont respecté" ],
+  "plusQueParfait": [ "avais respecté", "avais respecté", "avait respecté", "avions respecté", "aviez respecté", "avaient respecté" ],
+  "passeAnterieur": [ "eus respecté", "eus respecté", "eut respecté", "eûmes respecté", "eûtes respecté", "eurent respecté" ],
+  "futurAnterieur": [ "aurai respecté", "auras respecté", "aura respecté", "aurons respecté", "aurez respecté", "auront respecté" ],
+  "subjonctifPresent": [ "respecte", "respectes", "respecte", "respections", "respectiez", "respectent" ],
+  "subjonctifImparfait": [ "respectasse", "respectasses", "respectât", "respectassions", "respectassiez", "respectassent" ],
+  "subjonctifPasse": [ "aie respecté", "aies respecté", "ait respecté", "ayons respecté", "ayez respecté", "aient respecté" ],
+  "subjonctifPlusQueParfait": [ "eusse respecté", "eusses respecté", "eût respecté", "eussions respecté", "eussiez respecté", "eussent respecté" ],
+  "conditionnelPresent": [ "respecterais", "respecterais", "respecterait", "respecterions", "respecteriez", "respecteraient" ],
+  "conditionnelPasse": [ "aurais respecté", "aurais respecté", "aurait respecté", "aurions respecté", "auriez respecté", "auraient respecté" ],
+  "conditionnelPasseII": [ "eusse respecté", "eusses respecté", "eût respecté", "eussions respecté", "eussiez respecté", "eussent respecté" ],
+  "imperatif": [ "–", "respecte !", "–", "respectons !", "respectez !", "–" ],
+  "imperatifPasse": [ "–", "aie respecté !", "–", "ayons respecté !", "ayez respecté !", "–" ]
+}

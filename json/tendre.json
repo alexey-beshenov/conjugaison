@@ -1,0 +1,22 @@
+{
+  "infinitif": "tendre",
+  "participePresent": "tendant",
+  "participePasse": "tendu",
+  "present": [ "tends", "tends", "tend", "tendons", "tendez", "tendent" ],
+  "imparfait": [ "tendais", "tendais", "tendait", "tendions", "tendiez", "tendaient" ],
+  "passeSimple": [ "tendis", "tendis", "tendit", "tendîmes", "tendîtes", "tendirent" ],
+  "futurSimple": [ "tendrai", "tendras", "tendra", "tendrons", "tendrez", "tendront" ],
+  "passeCompose": [ "ai tendu", "as tendu", "a tendu", "avons tendu", "avez tendu", "ont tendu" ],
+  "plusQueParfait": [ "avais tendu", "avais tendu", "avait tendu", "avions tendu", "aviez tendu", "avaient tendu" ],
+  "passeAnterieur": [ "eus tendu", "eus tendu", "eut tendu", "eûmes tendu", "eûtes tendu", "eurent tendu" ],
+  "futurAnterieur": [ "aurai tendu", "auras tendu", "aura tendu", "aurons tendu", "aurez tendu", "auront tendu" ],
+  "subjonctifPresent": [ "tende", "tendes", "tende", "tendions", "tendiez", "tendent" ],
+  "subjonctifImparfait": [ "tendisse", "tendisses", "tendît", "tendissions", "tendissiez", "tendissent" ],
+  "subjonctifPasse": [ "aie tendu", "aies tendu", "ait tendu", "ayons tendu", "ayez tendu", "aient tendu" ],
+  "subjonctifPlusQueParfait": [ "eusse tendu", "eusses tendu", "eût tendu", "eussions tendu", "eussiez tendu", "eussent tendu" ],
+  "conditionnelPresent": [ "tendrais", "tendrais", "tendrait", "tendrions", "tendriez", "tendraient" ],
+  "conditionnelPasse": [ "aurais tendu", "aurais tendu", "aurait tendu", "aurions tendu", "auriez tendu", "auraient tendu" ],
+  "conditionnelPasseII": [ "eusse tendu", "eusses tendu", "eût tendu", "eussions tendu", "eussiez tendu", "eussent tendu" ],
+  "imperatif": [ "–", "tends !", "–", "tendons !", "tendez !", "–" ],
+  "imperatifPasse": [ "–", "aie tendu !", "–", "ayons tendu !", "ayez tendu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "arrêter",
+  "participePresent": "arrêtant",
+  "participePasse": "arrêté",
+  "present": [ "arrête", "arrêtes", "arrête", "arrêtons", "arrêtez", "arrêtent" ],
+  "imparfait": [ "arrêtais", "arrêtais", "arrêtait", "arrêtions", "arrêtiez", "arrêtaient" ],
+  "passeSimple": [ "arrêtai", "arrêtas", "arrêta", "arrêtâmes", "arrêtâtes", "arrêtèrent" ],
+  "futurSimple": [ "arrêterai", "arrêteras", "arrêtera", "arrêterons", "arrêterez", "arrêteront" ],
+  "passeCompose": [ "ai arrêté", "as arrêté", "a arrêté", "avons arrêté", "avez arrêté", "ont arrêté" ],
+  "plusQueParfait": [ "avais arrêté", "avais arrêté", "avait arrêté", "avions arrêté", "aviez arrêté", "avaient arrêté" ],
+  "passeAnterieur": [ "eus arrêté", "eus arrêté", "eut arrêté", "eûmes arrêté", "eûtes arrêté", "eurent arrêté" ],
+  "futurAnterieur": [ "aurai arrêté", "auras arrêté", "aura arrêté", "aurons arrêté", "aurez arrêté", "auront arrêté" ],
+  "subjonctifPresent": [ "arrête", "arrêtes", "arrête", "arrêtions", "arrêtiez", "arrêtent" ],
+  "subjonctifImparfait": [ "arrêtasse", "arrêtasses", "arrêtât", "arrêtassions", "arrêtassiez", "arrêtassent" ],
+  "subjonctifPasse": [ "aie arrêté", "aies arrêté", "ait arrêté", "ayons arrêté", "ayez arrêté", "aient arrêté" ],
+  "subjonctifPlusQueParfait": [ "eusse arrêté", "eusses arrêté", "eût arrêté", "eussions arrêté", "eussiez arrêté", "eussent arrêté" ],
+  "conditionnelPresent": [ "arrêterais", "arrêterais", "arrêterait", "arrêterions", "arrêteriez", "arrêteraient" ],
+  "conditionnelPasse": [ "aurais arrêté", "aurais arrêté", "aurait arrêté", "aurions arrêté", "auriez arrêté", "auraient arrêté" ],
+  "conditionnelPasseII": [ "eusse arrêté", "eusses arrêté", "eût arrêté", "eussions arrêté", "eussiez arrêté", "eussent arrêté" ],
+  "imperatif": [ "–", "arrête !", "–", "arrêtons !", "arrêtez !", "–" ],
+  "imperatifPasse": [ "–", "aie arrêté !", "–", "ayons arrêté !", "ayez arrêté !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'attirer",
+  "participePresent": "s'attirant",
+  "participePasse": "attiré",
+  "present": [ "m'attire", "t'attires", "s'attire", "nous attirons", "vous attirez", "s'attirent" ],
+  "imparfait": [ "m'attirais", "t'attirais", "s'attirait", "nous attirions", "vous attiriez", "s'attiraient" ],
+  "passeSimple": [ "m'attirai", "t'attiras", "s'attira", "nous attirâmes", "vous attirâtes", "s'attirèrent" ],
+  "futurSimple": [ "m'attirerai", "t'attireras", "s'attirera", "nous attirerons", "vous attirerez", "s'attireront" ],
+  "passeCompose": [ "me suis attiré(e)", "t'es attiré(e)", "s'est attiré(e)", "nous sommes attiré(e)s", "vous êtes attiré(e)(s)", "se sont attiré(e)s" ],
+  "plusQueParfait": [ "m'étais attiré(e)", "t'étais attiré(e)", "s'était attiré(e)", "nous étions attiré(e)s", "vous étiez attiré(e)(s)", "s'étaient attiré(e)s" ],
+  "passeAnterieur": [ "me fus attiré(e)", "te fus attiré(e)", "se fut attiré(e)", "nous fûmes attiré(e)s", "vous fûtes attiré(e)(s)", "se furent attiré(e)s" ],
+  "futurAnterieur": [ "me serai attiré(e)", "te seras attiré(e)", "se sera attiré(e)", "nous serons attiré(e)s", "vous serez attiré(e)(s)", "se seront attiré(e)s" ],
+  "subjonctifPresent": [ "m'attire", "t'attires", "s'attire", "nous attirions", "vous attiriez", "s'attirent" ],
+  "subjonctifImparfait": [ "m'attirasse", "t'attirasses", "s'attirât", "nous attirassions", "vous attirassiez", "s'attirassent" ],
+  "subjonctifPasse": [ "me sois attiré(e)", "te sois attiré(e)", "se soit attiré(e)", "nous soyons attiré(e)s", "vous soyez attiré(e)(s)", "se soient attiré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse attiré(e)", "te fusses attiré(e)", "se fût attiré(e)", "nous fussions attiré(e)s", "vous fussiez attiré(e)(s)", "se fussent attiré(e)s" ],
+  "conditionnelPresent": [ "m'attirerais", "t'attirerais", "s'attirerait", "nous attirerions", "vous attireriez", "s'attireraient" ],
+  "conditionnelPasse": [ "me serais attiré(e)", "te serais attiré(e)", "se serait attiré(e)", "nous serions attiré(e)s", "vous seriez attiré(e)(s)", "se seraient attiré(e)s" ],
+  "conditionnelPasseII": [ "me fusse attiré(e)", "te fusses attiré(e)", "se fût attiré(e)", "nous fussions attiré(e)s", "vous fussiez attiré(e)(s)", "se fussent attiré(e)s" ],
+  "imperatif": [ "–", "attire-toi !", "–", "attirons-nous !", "attirez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

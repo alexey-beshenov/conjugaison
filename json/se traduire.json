@@ -1,0 +1,22 @@
+{
+  "infinitif": "se traduire",
+  "participePresent": "se traduisant",
+  "participePasse": "traduit",
+  "present": [ "me traduis", "te traduis", "se traduit", "nous traduisons", "vous traduisez", "se traduisent" ],
+  "imparfait": [ "me traduisais", "te traduisais", "se traduisait", "nous traduisions", "vous traduisiez", "se traduisaient" ],
+  "passeSimple": [ "me traduisis", "te traduisis", "se traduisit", "nous traduisîmes", "vous traduisîtes", "se traduisirent" ],
+  "futurSimple": [ "me traduirai", "te traduiras", "se traduira", "nous traduirons", "vous traduirez", "se traduiront" ],
+  "passeCompose": [ "me suis traduit(e)", "t'es traduit(e)", "s'est traduit(e)", "nous sommes traduit(e)s", "vous êtes traduit(e)(s)", "se sont traduit(e)s" ],
+  "plusQueParfait": [ "m'étais traduit(e)", "t'étais traduit(e)", "s'était traduit(e)", "nous étions traduit(e)s", "vous étiez traduit(e)(s)", "s'étaient traduit(e)s" ],
+  "passeAnterieur": [ "me fus traduit(e)", "te fus traduit(e)", "se fut traduit(e)", "nous fûmes traduit(e)s", "vous fûtes traduit(e)(s)", "se furent traduit(e)s" ],
+  "futurAnterieur": [ "me serai traduit(e)", "te seras traduit(e)", "se sera traduit(e)", "nous serons traduit(e)s", "vous serez traduit(e)(s)", "se seront traduit(e)s" ],
+  "subjonctifPresent": [ "me traduise", "te traduises", "se traduise", "nous traduisions", "vous traduisiez", "se traduisent" ],
+  "subjonctifImparfait": [ "me traduisisse", "te traduisisses", "se traduisît", "nous traduisissions", "vous traduisissiez", "se traduisissent" ],
+  "subjonctifPasse": [ "me sois traduit(e)", "te sois traduit(e)", "se soit traduit(e)", "nous soyons traduit(e)s", "vous soyez traduit(e)(s)", "se soient traduit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse traduit(e)", "te fusses traduit(e)", "se fût traduit(e)", "nous fussions traduit(e)s", "vous fussiez traduit(e)(s)", "se fussent traduit(e)s" ],
+  "conditionnelPresent": [ "me traduirais", "te traduirais", "se traduirait", "nous traduirions", "vous traduiriez", "se traduiraient" ],
+  "conditionnelPasse": [ "me serais traduit(e)", "te serais traduit(e)", "se serait traduit(e)", "nous serions traduit(e)s", "vous seriez traduit(e)(s)", "se seraient traduit(e)s" ],
+  "conditionnelPasseII": [ "me fusse traduit(e)", "te fusses traduit(e)", "se fût traduit(e)", "nous fussions traduit(e)s", "vous fussiez traduit(e)(s)", "se fussent traduit(e)s" ],
+  "imperatif": [ "–", "traduis-toi !", "–", "traduisons-nous !", "traduisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

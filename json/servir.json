@@ -1,0 +1,22 @@
+{
+  "infinitif": "servir",
+  "participePresent": "servant",
+  "participePasse": "servi",
+  "present": [ "sers", "sers", "sert", "servons", "servez", "servent" ],
+  "imparfait": [ "servais", "servais", "servait", "servions", "serviez", "servaient" ],
+  "passeSimple": [ "servis", "servis", "servit", "servîmes", "servîtes", "servirent" ],
+  "futurSimple": [ "servirai", "serviras", "servira", "servirons", "servirez", "serviront" ],
+  "passeCompose": [ "ai servi", "as servi", "a servi", "avons servi", "avez servi", "ont servi" ],
+  "plusQueParfait": [ "avais servi", "avais servi", "avait servi", "avions servi", "aviez servi", "avaient servi" ],
+  "passeAnterieur": [ "eus servi", "eus servi", "eut servi", "eûmes servi", "eûtes servi", "eurent servi" ],
+  "futurAnterieur": [ "aurai servi", "auras servi", "aura servi", "aurons servi", "aurez servi", "auront servi" ],
+  "subjonctifPresent": [ "serve", "serves", "serve", "servions", "serviez", "servent" ],
+  "subjonctifImparfait": [ "servisse", "servisses", "servît", "servissions", "servissiez", "servissent" ],
+  "subjonctifPasse": [ "aie servi", "aies servi", "ait servi", "ayons servi", "ayez servi", "aient servi" ],
+  "subjonctifPlusQueParfait": [ "eusse servi", "eusses servi", "eût servi", "eussions servi", "eussiez servi", "eussent servi" ],
+  "conditionnelPresent": [ "servirais", "servirais", "servirait", "servirions", "serviriez", "serviraient" ],
+  "conditionnelPasse": [ "aurais servi", "aurais servi", "aurait servi", "aurions servi", "auriez servi", "auraient servi" ],
+  "conditionnelPasseII": [ "eusse servi", "eusses servi", "eût servi", "eussions servi", "eussiez servi", "eussent servi" ],
+  "imperatif": [ "–", "sers !", "–", "servons !", "servez !", "–" ],
+  "imperatifPasse": [ "–", "aie servi !", "–", "ayons servi !", "ayez servi !", "–" ]
+}

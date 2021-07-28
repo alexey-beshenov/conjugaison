@@ -1,0 +1,22 @@
+{
+  "infinitif": "songer",
+  "participePresent": "songeant",
+  "participePasse": "songé",
+  "present": [ "songe", "songes", "songe", "songeons", "songez", "songent" ],
+  "imparfait": [ "songeais", "songeais", "songeait", "songions", "songiez", "songeaient" ],
+  "passeSimple": [ "songeai", "songeas", "songea", "songeâmes", "songeâtes", "songèrent" ],
+  "futurSimple": [ "songerai", "songeras", "songera", "songerons", "songerez", "songeront" ],
+  "passeCompose": [ "ai songé", "as songé", "a songé", "avons songé", "avez songé", "ont songé" ],
+  "plusQueParfait": [ "avais songé", "avais songé", "avait songé", "avions songé", "aviez songé", "avaient songé" ],
+  "passeAnterieur": [ "eus songé", "eus songé", "eut songé", "eûmes songé", "eûtes songé", "eurent songé" ],
+  "futurAnterieur": [ "aurai songé", "auras songé", "aura songé", "aurons songé", "aurez songé", "auront songé" ],
+  "subjonctifPresent": [ "songe", "songes", "songe", "songions", "songiez", "songent" ],
+  "subjonctifImparfait": [ "songeasse", "songeasses", "songeât", "songeassions", "songeassiez", "songeassent" ],
+  "subjonctifPasse": [ "aie songé", "aies songé", "ait songé", "ayons songé", "ayez songé", "aient songé" ],
+  "subjonctifPlusQueParfait": [ "eusse songé", "eusses songé", "eût songé", "eussions songé", "eussiez songé", "eussent songé" ],
+  "conditionnelPresent": [ "songerais", "songerais", "songerait", "songerions", "songeriez", "songeraient" ],
+  "conditionnelPasse": [ "aurais songé", "aurais songé", "aurait songé", "aurions songé", "auriez songé", "auraient songé" ],
+  "conditionnelPasseII": [ "eusse songé", "eusses songé", "eût songé", "eussions songé", "eussiez songé", "eussent songé" ],
+  "imperatif": [ "–", "songe !", "–", "songeons !", "songez !", "–" ],
+  "imperatifPasse": [ "–", "aie songé !", "–", "ayons songé !", "ayez songé !", "–" ]
+}

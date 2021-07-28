@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'entraîner",
+  "participePresent": "s'entraînant",
+  "participePasse": "entraîné",
+  "present": [ "m'entraîne", "t'entraînes", "s'entraîne", "nous entraînons", "vous entraînez", "s'entraînent" ],
+  "imparfait": [ "m'entraînais", "t'entraînais", "s'entraînait", "nous entraînions", "vous entraîniez", "s'entraînaient" ],
+  "passeSimple": [ "m'entraînai", "t'entraînas", "s'entraîna", "nous entraînâmes", "vous entraînâtes", "s'entraînèrent" ],
+  "futurSimple": [ "m'entraînerai", "t'entraîneras", "s'entraînera", "nous entraînerons", "vous entraînerez", "s'entraîneront" ],
+  "passeCompose": [ "me suis entraîné(e)", "t'es entraîné(e)", "s'est entraîné(e)", "nous sommes entraîné(e)s", "vous êtes entraîné(e)(s)", "se sont entraîné(e)s" ],
+  "plusQueParfait": [ "m'étais entraîné(e)", "t'étais entraîné(e)", "s'était entraîné(e)", "nous étions entraîné(e)s", "vous étiez entraîné(e)(s)", "s'étaient entraîné(e)s" ],
+  "passeAnterieur": [ "me fus entraîné(e)", "te fus entraîné(e)", "se fut entraîné(e)", "nous fûmes entraîné(e)s", "vous fûtes entraîné(e)(s)", "se furent entraîné(e)s" ],
+  "futurAnterieur": [ "me serai entraîné(e)", "te seras entraîné(e)", "se sera entraîné(e)", "nous serons entraîné(e)s", "vous serez entraîné(e)(s)", "se seront entraîné(e)s" ],
+  "subjonctifPresent": [ "m'entraîne", "t'entraînes", "s'entraîne", "nous entraînions", "vous entraîniez", "s'entraînent" ],
+  "subjonctifImparfait": [ "m'entraînasse", "t'entraînasses", "s'entraînât", "nous entraînassions", "vous entraînassiez", "s'entraînassent" ],
+  "subjonctifPasse": [ "me sois entraîné(e)", "te sois entraîné(e)", "se soit entraîné(e)", "nous soyons entraîné(e)s", "vous soyez entraîné(e)(s)", "se soient entraîné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse entraîné(e)", "te fusses entraîné(e)", "se fût entraîné(e)", "nous fussions entraîné(e)s", "vous fussiez entraîné(e)(s)", "se fussent entraîné(e)s" ],
+  "conditionnelPresent": [ "m'entraînerais", "t'entraînerais", "s'entraînerait", "nous entraînerions", "vous entraîneriez", "s'entraîneraient" ],
+  "conditionnelPasse": [ "me serais entraîné(e)", "te serais entraîné(e)", "se serait entraîné(e)", "nous serions entraîné(e)s", "vous seriez entraîné(e)(s)", "se seraient entraîné(e)s" ],
+  "conditionnelPasseII": [ "me fusse entraîné(e)", "te fusses entraîné(e)", "se fût entraîné(e)", "nous fussions entraîné(e)s", "vous fussiez entraîné(e)(s)", "se fussent entraîné(e)s" ],
+  "imperatif": [ "–", "entraîne-toi !", "–", "entraînons-nous !", "entraînez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

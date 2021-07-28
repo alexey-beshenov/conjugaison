@@ -1,0 +1,22 @@
+{
+  "infinitif": "offrir",
+  "participePresent": "offrant",
+  "participePasse": "offert",
+  "present": [ "offre", "offres", "offre", "offrons", "offrez", "offrent" ],
+  "imparfait": [ "offrais", "offrais", "offrait", "offrions", "offriez", "offraient" ],
+  "passeSimple": [ "offris", "offris", "offrit", "offrîmes", "offrîtes", "offrirent" ],
+  "futurSimple": [ "offrirai", "offriras", "offrira", "offrirons", "offrirez", "offriront" ],
+  "passeCompose": [ "ai offert", "as offert", "a offert", "avons offert", "avez offert", "ont offert" ],
+  "plusQueParfait": [ "avais offert", "avais offert", "avait offert", "avions offert", "aviez offert", "avaient offert" ],
+  "passeAnterieur": [ "eus offert", "eus offert", "eut offert", "eûmes offert", "eûtes offert", "eurent offert" ],
+  "futurAnterieur": [ "aurai offert", "auras offert", "aura offert", "aurons offert", "aurez offert", "auront offert" ],
+  "subjonctifPresent": [ "offre", "offres", "offre", "offrions", "offriez", "offrent" ],
+  "subjonctifImparfait": [ "offrisse", "offrisses", "offrît", "offrissions", "offrissiez", "offrissent" ],
+  "subjonctifPasse": [ "aie offert", "aies offert", "ait offert", "ayons offert", "ayez offert", "aient offert" ],
+  "subjonctifPlusQueParfait": [ "eusse offert", "eusses offert", "eût offert", "eussions offert", "eussiez offert", "eussent offert" ],
+  "conditionnelPresent": [ "offrirais", "offrirais", "offrirait", "offririons", "offririez", "offriraient" ],
+  "conditionnelPasse": [ "aurais offert", "aurais offert", "aurait offert", "aurions offert", "auriez offert", "auraient offert" ],
+  "conditionnelPasseII": [ "eusse offert", "eusses offert", "eût offert", "eussions offert", "eussiez offert", "eussent offert" ],
+  "imperatif": [ "–", "offre !", "–", "offrons !", "offrez !", "–" ],
+  "imperatifPasse": [ "–", "aie offert !", "–", "ayons offert !", "ayez offert !", "–" ]
+}

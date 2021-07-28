@@ -1,0 +1,22 @@
+{
+  "infinitif": "enfoncer",
+  "participePresent": "enfonçant",
+  "participePasse": "enfoncé",
+  "present": [ "enfonce", "enfonces", "enfonce", "enfonçons", "enfoncez", "enfoncent" ],
+  "imparfait": [ "enfonçais", "enfonçais", "enfonçait", "enfoncions", "enfonciez", "enfonçaient" ],
+  "passeSimple": [ "enfonçai", "enfonças", "enfonça", "enfonçâmes", "enfonçâtes", "enfoncèrent" ],
+  "futurSimple": [ "enfoncerai", "enfonceras", "enfoncera", "enfoncerons", "enfoncerez", "enfonceront" ],
+  "passeCompose": [ "ai enfoncé", "as enfoncé", "a enfoncé", "avons enfoncé", "avez enfoncé", "ont enfoncé" ],
+  "plusQueParfait": [ "avais enfoncé", "avais enfoncé", "avait enfoncé", "avions enfoncé", "aviez enfoncé", "avaient enfoncé" ],
+  "passeAnterieur": [ "eus enfoncé", "eus enfoncé", "eut enfoncé", "eûmes enfoncé", "eûtes enfoncé", "eurent enfoncé" ],
+  "futurAnterieur": [ "aurai enfoncé", "auras enfoncé", "aura enfoncé", "aurons enfoncé", "aurez enfoncé", "auront enfoncé" ],
+  "subjonctifPresent": [ "enfonce", "enfonces", "enfonce", "enfoncions", "enfonciez", "enfoncent" ],
+  "subjonctifImparfait": [ "enfonçasse", "enfonçasses", "enfonçât", "enfonçassions", "enfonçassiez", "enfonçassent" ],
+  "subjonctifPasse": [ "aie enfoncé", "aies enfoncé", "ait enfoncé", "ayons enfoncé", "ayez enfoncé", "aient enfoncé" ],
+  "subjonctifPlusQueParfait": [ "eusse enfoncé", "eusses enfoncé", "eût enfoncé", "eussions enfoncé", "eussiez enfoncé", "eussent enfoncé" ],
+  "conditionnelPresent": [ "enfoncerais", "enfoncerais", "enfoncerait", "enfoncerions", "enfonceriez", "enfonceraient" ],
+  "conditionnelPasse": [ "aurais enfoncé", "aurais enfoncé", "aurait enfoncé", "aurions enfoncé", "auriez enfoncé", "auraient enfoncé" ],
+  "conditionnelPasseII": [ "eusse enfoncé", "eusses enfoncé", "eût enfoncé", "eussions enfoncé", "eussiez enfoncé", "eussent enfoncé" ],
+  "imperatif": [ "–", "enfonce !", "–", "enfonçons !", "enfoncez !", "–" ],
+  "imperatifPasse": [ "–", "aie enfoncé !", "–", "ayons enfoncé !", "ayez enfoncé !", "–" ]
+}

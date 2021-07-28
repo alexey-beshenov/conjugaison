@@ -1,0 +1,22 @@
+{
+  "infinitif": "venir",
+  "participePresent": "venant",
+  "participePasse": "venu",
+  "present": [ "viens", "viens", "vient", "venons", "venez", "viennent" ],
+  "imparfait": [ "venais", "venais", "venait", "venions", "veniez", "venaient" ],
+  "passeSimple": [ "vins", "vins", "vint", "vînmes", "vîntes", "vinrent" ],
+  "futurSimple": [ "viendrai", "viendras", "viendra", "viendrons", "viendrez", "viendront" ],
+  "passeCompose": [ "suis venu(e)", "es venu(e)", "est venu(e)", "sommes venu(e)s", "êtes venu(e)(s)", "sont venu(e)s" ],
+  "plusQueParfait": [ "étais venu(e)", "étais venu(e)", "était venu(e)", "étions venu(e)s", "étiez venu(e)(s)", "étaient venu(e)s" ],
+  "passeAnterieur": [ "fus venu(e)", "fus venu(e)", "fut venu(e)", "fûmes venu(e)s", "fûtes venu(e)(s)", "furent venu(e)s" ],
+  "futurAnterieur": [ "serai venu(e)", "seras venu(e)", "sera venu(e)", "serons venu(e)s", "serez venu(e)(s)", "seront venu(e)s" ],
+  "subjonctifPresent": [ "vienne", "viennes", "vienne", "venions", "veniez", "viennent" ],
+  "subjonctifImparfait": [ "vinsse", "vinsses", "vînt", "vinssions", "vinssiez", "vinssent" ],
+  "subjonctifPasse": [ "sois venu(e)", "sois venu(e)", "soit venu(e)", "soyons venu(e)s", "soyez venu(e)(s)", "soient venu(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse venu(e)", "fusses venu(e)", "fût venu(e)", "fussions venu(e)s", "fussiez venu(e)(s)", "fussent venu(e)s" ],
+  "conditionnelPresent": [ "viendrais", "viendrais", "viendrait", "viendrions", "viendriez", "viendraient" ],
+  "conditionnelPasse": [ "serais venu(e)", "serais venu(e)", "serait venu(e)", "serions venu(e)s", "seriez venu(e)(s)", "seraient venu(e)s" ],
+  "conditionnelPasseII": [ "fusse venu(e)", "fusses venu(e)", "fût venu(e)", "fussions venu(e)s", "fussiez venu(e)(s)", "fussent venu(e)s" ],
+  "imperatif": [ "–", "viens !", "–", "venons !", "venez !", "–" ],
+  "imperatifPasse": [ "–", "sois venu(e) !", "–", "soyons venu(e)s !", "soyez venu(e)(s) !", "–" ]
+}

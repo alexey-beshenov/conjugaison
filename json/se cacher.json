@@ -1,0 +1,22 @@
+{
+  "infinitif": "se cacher",
+  "participePresent": "se cachant",
+  "participePasse": "caché",
+  "present": [ "me cache", "te caches", "se cache", "nous cachons", "vous cachez", "se cachent" ],
+  "imparfait": [ "me cachais", "te cachais", "se cachait", "nous cachions", "vous cachiez", "se cachaient" ],
+  "passeSimple": [ "me cachai", "te cachas", "se cacha", "nous cachâmes", "vous cachâtes", "se cachèrent" ],
+  "futurSimple": [ "me cacherai", "te cacheras", "se cachera", "nous cacherons", "vous cacherez", "se cacheront" ],
+  "passeCompose": [ "me suis caché(e)", "t'es caché(e)", "s'est caché(e)", "nous sommes caché(e)s", "vous êtes caché(e)(s)", "se sont caché(e)s" ],
+  "plusQueParfait": [ "m'étais caché(e)", "t'étais caché(e)", "s'était caché(e)", "nous étions caché(e)s", "vous étiez caché(e)(s)", "s'étaient caché(e)s" ],
+  "passeAnterieur": [ "me fus caché(e)", "te fus caché(e)", "se fut caché(e)", "nous fûmes caché(e)s", "vous fûtes caché(e)(s)", "se furent caché(e)s" ],
+  "futurAnterieur": [ "me serai caché(e)", "te seras caché(e)", "se sera caché(e)", "nous serons caché(e)s", "vous serez caché(e)(s)", "se seront caché(e)s" ],
+  "subjonctifPresent": [ "me cache", "te caches", "se cache", "nous cachions", "vous cachiez", "se cachent" ],
+  "subjonctifImparfait": [ "me cachasse", "te cachasses", "se cachât", "nous cachassions", "vous cachassiez", "se cachassent" ],
+  "subjonctifPasse": [ "me sois caché(e)", "te sois caché(e)", "se soit caché(e)", "nous soyons caché(e)s", "vous soyez caché(e)(s)", "se soient caché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse caché(e)", "te fusses caché(e)", "se fût caché(e)", "nous fussions caché(e)s", "vous fussiez caché(e)(s)", "se fussent caché(e)s" ],
+  "conditionnelPresent": [ "me cacherais", "te cacherais", "se cacherait", "nous cacherions", "vous cacheriez", "se cacheraient" ],
+  "conditionnelPasse": [ "me serais caché(e)", "te serais caché(e)", "se serait caché(e)", "nous serions caché(e)s", "vous seriez caché(e)(s)", "se seraient caché(e)s" ],
+  "conditionnelPasseII": [ "me fusse caché(e)", "te fusses caché(e)", "se fût caché(e)", "nous fussions caché(e)s", "vous fussiez caché(e)(s)", "se fussent caché(e)s" ],
+  "imperatif": [ "–", "cache-toi !", "–", "cachons-nous !", "cachez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

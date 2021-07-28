@@ -1,0 +1,22 @@
+{
+  "infinitif": "surmener",
+  "participePresent": "surmenant",
+  "participePasse": "surmené",
+  "present": [ "surmène", "surmènes", "surmène", "surmenons", "surmenez", "surmènent" ],
+  "imparfait": [ "surmenais", "surmenais", "surmenait", "surmenions", "surmeniez", "surmenaient" ],
+  "passeSimple": [ "surmenai", "surmenas", "surmena", "surmenâmes", "surmenâtes", "surmenèrent" ],
+  "futurSimple": [ "surmènerai", "surmèneras", "surmènera", "surmènerons", "surmènerez", "surmèneront" ],
+  "passeCompose": [ "ai surmené", "as surmené", "a surmené", "avons surmené", "avez surmené", "ont surmené" ],
+  "plusQueParfait": [ "avais surmené", "avais surmené", "avait surmené", "avions surmené", "aviez surmené", "avaient surmené" ],
+  "passeAnterieur": [ "eus surmené", "eus surmené", "eut surmené", "eûmes surmené", "eûtes surmené", "eurent surmené" ],
+  "futurAnterieur": [ "aurai surmené", "auras surmené", "aura surmené", "aurons surmené", "aurez surmené", "auront surmené" ],
+  "subjonctifPresent": [ "surmène", "surmènes", "surmène", "surmenions", "surmeniez", "surmènent" ],
+  "subjonctifImparfait": [ "surmenasse", "surmenasses", "surmenât", "surmenassions", "surmenassiez", "surmenassent" ],
+  "subjonctifPasse": [ "aie surmené", "aies surmené", "ait surmené", "ayons surmené", "ayez surmené", "aient surmené" ],
+  "subjonctifPlusQueParfait": [ "eusse surmené", "eusses surmené", "eût surmené", "eussions surmené", "eussiez surmené", "eussent surmené" ],
+  "conditionnelPresent": [ "surmènerais", "surmènerais", "surmènerait", "surmènerions", "surmèneriez", "surmèneraient" ],
+  "conditionnelPasse": [ "aurais surmené", "aurais surmené", "aurait surmené", "aurions surmené", "auriez surmené", "auraient surmené" ],
+  "conditionnelPasseII": [ "eusse surmené", "eusses surmené", "eût surmené", "eussions surmené", "eussiez surmené", "eussent surmené" ],
+  "imperatif": [ "–", "surmène !", "–", "surmenons !", "surmenez !", "–" ],
+  "imperatifPasse": [ "–", "aie surmené !", "–", "ayons surmené !", "ayez surmené !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "diriger",
+  "participePresent": "dirigeant",
+  "participePasse": "dirigé",
+  "present": [ "dirige", "diriges", "dirige", "dirigeons", "dirigez", "dirigent" ],
+  "imparfait": [ "dirigeais", "dirigeais", "dirigeait", "dirigions", "dirigiez", "dirigeaient" ],
+  "passeSimple": [ "dirigeai", "dirigeas", "dirigea", "dirigeâmes", "dirigeâtes", "dirigèrent" ],
+  "futurSimple": [ "dirigerai", "dirigeras", "dirigera", "dirigerons", "dirigerez", "dirigeront" ],
+  "passeCompose": [ "ai dirigé", "as dirigé", "a dirigé", "avons dirigé", "avez dirigé", "ont dirigé" ],
+  "plusQueParfait": [ "avais dirigé", "avais dirigé", "avait dirigé", "avions dirigé", "aviez dirigé", "avaient dirigé" ],
+  "passeAnterieur": [ "eus dirigé", "eus dirigé", "eut dirigé", "eûmes dirigé", "eûtes dirigé", "eurent dirigé" ],
+  "futurAnterieur": [ "aurai dirigé", "auras dirigé", "aura dirigé", "aurons dirigé", "aurez dirigé", "auront dirigé" ],
+  "subjonctifPresent": [ "dirige", "diriges", "dirige", "dirigions", "dirigiez", "dirigent" ],
+  "subjonctifImparfait": [ "dirigeasse", "dirigeasses", "dirigeât", "dirigeassions", "dirigeassiez", "dirigeassent" ],
+  "subjonctifPasse": [ "aie dirigé", "aies dirigé", "ait dirigé", "ayons dirigé", "ayez dirigé", "aient dirigé" ],
+  "subjonctifPlusQueParfait": [ "eusse dirigé", "eusses dirigé", "eût dirigé", "eussions dirigé", "eussiez dirigé", "eussent dirigé" ],
+  "conditionnelPresent": [ "dirigerais", "dirigerais", "dirigerait", "dirigerions", "dirigeriez", "dirigeraient" ],
+  "conditionnelPasse": [ "aurais dirigé", "aurais dirigé", "aurait dirigé", "aurions dirigé", "auriez dirigé", "auraient dirigé" ],
+  "conditionnelPasseII": [ "eusse dirigé", "eusses dirigé", "eût dirigé", "eussions dirigé", "eussiez dirigé", "eussent dirigé" ],
+  "imperatif": [ "–", "dirige !", "–", "dirigeons !", "dirigez !", "–" ],
+  "imperatifPasse": [ "–", "aie dirigé !", "–", "ayons dirigé !", "ayez dirigé !", "–" ]
+}

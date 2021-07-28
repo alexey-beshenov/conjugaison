@@ -1,0 +1,22 @@
+{
+  "infinitif": "avoir",
+  "participePresent": "ayant",
+  "participePasse": "eu",
+  "present": [ "ai", "as", "a", "avons", "avez", "ont" ],
+  "imparfait": [ "avais", "avais", "avait", "avions", "aviez", "avaient" ],
+  "passeSimple": [ "eus", "eus", "eut", "eûmes", "eûtes", "eurent" ],
+  "futurSimple": [ "aurai", "auras", "aura", "aurons", "aurez", "auront" ],
+  "passeCompose": [ "ai eu", "as eu", "a eu", "avons eu", "avez eu", "ont eu" ],
+  "plusQueParfait": [ "avais eu", "avais eu", "avait eu", "avions eu", "aviez eu", "avaient eu" ],
+  "passeAnterieur": [ "eus eu", "eus eu", "eut eu", "eûmes eu", "eûtes eu", "eurent eu" ],
+  "futurAnterieur": [ "aurai eu", "auras eu", "aura eu", "aurons eu", "aurez eu", "auront eu" ],
+  "subjonctifPresent": [ "aie", "aies", "ait", "ayons", "ayez", "aient" ],
+  "subjonctifImparfait": [ "eusse", "eusses", "eût", "eussions", "eussiez", "eussent" ],
+  "subjonctifPasse": [ "aie eu", "aies eu", "ait eu", "ayons eu", "ayez eu", "aient eu" ],
+  "subjonctifPlusQueParfait": [ "eusse eu", "eusses eu", "eût eu", "eussions eu", "eussiez eu", "eussent eu" ],
+  "conditionnelPresent": [ "aurais", "aurais", "aurait", "aurions", "auriez", "auraient" ],
+  "conditionnelPasse": [ "aurais eu", "aurais eu", "aurait eu", "aurions eu", "auriez eu", "auraient eu" ],
+  "conditionnelPasseII": [ "eusse eu", "eusses eu", "eût eu", "eussions eu", "eussiez eu", "eussent eu" ],
+  "imperatif": [ "–", "aie !", "–", "ayons !", "ayez !", "–" ],
+  "imperatifPasse": [ "–", "aie eu !", "–", "ayons eu !", "ayez eu !", "–" ]
+}

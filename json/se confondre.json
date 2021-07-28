@@ -1,0 +1,22 @@
+{
+  "infinitif": "se confondre",
+  "participePresent": "se confondant",
+  "participePasse": "confondu",
+  "present": [ "me confonds", "te confonds", "se confond", "nous confondons", "vous confondez", "se confondent" ],
+  "imparfait": [ "me confondais", "te confondais", "se confondait", "nous confondions", "vous confondiez", "se confondaient" ],
+  "passeSimple": [ "me confondis", "te confondis", "se confondit", "nous confondîmes", "vous confondîtes", "se confondirent" ],
+  "futurSimple": [ "me confondrai", "te confondras", "se confondra", "nous confondrons", "vous confondrez", "se confondront" ],
+  "passeCompose": [ "me suis confondu(e)", "t'es confondu(e)", "s'est confondu(e)", "nous sommes confondu(e)s", "vous êtes confondu(e)(s)", "se sont confondu(e)s" ],
+  "plusQueParfait": [ "m'étais confondu(e)", "t'étais confondu(e)", "s'était confondu(e)", "nous étions confondu(e)s", "vous étiez confondu(e)(s)", "s'étaient confondu(e)s" ],
+  "passeAnterieur": [ "me fus confondu(e)", "te fus confondu(e)", "se fut confondu(e)", "nous fûmes confondu(e)s", "vous fûtes confondu(e)(s)", "se furent confondu(e)s" ],
+  "futurAnterieur": [ "me serai confondu(e)", "te seras confondu(e)", "se sera confondu(e)", "nous serons confondu(e)s", "vous serez confondu(e)(s)", "se seront confondu(e)s" ],
+  "subjonctifPresent": [ "me confonde", "te confondes", "se confonde", "nous confondions", "vous confondiez", "se confondent" ],
+  "subjonctifImparfait": [ "me confondisse", "te confondisses", "se confondît", "nous confondissions", "vous confondissiez", "se confondissent" ],
+  "subjonctifPasse": [ "me sois confondu(e)", "te sois confondu(e)", "se soit confondu(e)", "nous soyons confondu(e)s", "vous soyez confondu(e)(s)", "se soient confondu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse confondu(e)", "te fusses confondu(e)", "se fût confondu(e)", "nous fussions confondu(e)s", "vous fussiez confondu(e)(s)", "se fussent confondu(e)s" ],
+  "conditionnelPresent": [ "me confondrais", "te confondrais", "se confondrait", "nous confondrions", "vous confondriez", "se confondraient" ],
+  "conditionnelPasse": [ "me serais confondu(e)", "te serais confondu(e)", "se serait confondu(e)", "nous serions confondu(e)s", "vous seriez confondu(e)(s)", "se seraient confondu(e)s" ],
+  "conditionnelPasseII": [ "me fusse confondu(e)", "te fusses confondu(e)", "se fût confondu(e)", "nous fussions confondu(e)s", "vous fussiez confondu(e)(s)", "se fussent confondu(e)s" ],
+  "imperatif": [ "–", "confonds-toi !", "–", "confondons-nous !", "confondez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

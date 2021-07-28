@@ -1,0 +1,22 @@
+{
+  "infinitif": "surfaire",
+  "participePresent": "surfaisant",
+  "participePasse": "surfait",
+  "present": [ "surfais", "surfais", "surfait", "surfaisons", "surfaites", "surfont" ],
+  "imparfait": [ "surfaisais", "surfaisais", "surfaisait", "surfaisions", "surfaisiez", "surfaisaient" ],
+  "passeSimple": [ "surfis", "surfis", "surfit", "surfîmes", "surfîtes", "surfirent" ],
+  "futurSimple": [ "surferai", "surferas", "surfera", "surferons", "surferez", "surferont" ],
+  "passeCompose": [ "ai surfait", "as surfait", "a surfait", "avons surfait", "avez surfait", "ont surfait" ],
+  "plusQueParfait": [ "avais surfait", "avais surfait", "avait surfait", "avions surfait", "aviez surfait", "avaient surfait" ],
+  "passeAnterieur": [ "eus surfait", "eus surfait", "eut surfait", "eûmes surfait", "eûtes surfait", "eurent surfait" ],
+  "futurAnterieur": [ "aurai surfait", "auras surfait", "aura surfait", "aurons surfait", "aurez surfait", "auront surfait" ],
+  "subjonctifPresent": [ "surfasse", "surfasses", "surfasse", "surfassions", "surfassiez", "surfassent" ],
+  "subjonctifImparfait": [ "surfisse", "surfisses", "surfît", "surfissions", "surfissiez", "surfissent" ],
+  "subjonctifPasse": [ "aie surfait", "aies surfait", "ait surfait", "ayons surfait", "ayez surfait", "aient surfait" ],
+  "subjonctifPlusQueParfait": [ "eusse surfait", "eusses surfait", "eût surfait", "eussions surfait", "eussiez surfait", "eussent surfait" ],
+  "conditionnelPresent": [ "surferais", "surferais", "surferait", "surferions", "surferiez", "surferaient" ],
+  "conditionnelPasse": [ "aurais surfait", "aurais surfait", "aurait surfait", "aurions surfait", "auriez surfait", "auraient surfait" ],
+  "conditionnelPasseII": [ "eusse surfait", "eusses surfait", "eût surfait", "eussions surfait", "eussiez surfait", "eussent surfait" ],
+  "imperatif": [ "–", "surfais !", "–", "surfaisons !", "surfaites !", "–" ],
+  "imperatifPasse": [ "–", "aie surfait !", "–", "ayons surfait !", "ayez surfait !", "–" ]
+}

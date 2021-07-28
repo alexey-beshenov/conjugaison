@@ -1,0 +1,22 @@
+{
+  "infinitif": "se retirer",
+  "participePresent": "se retirant",
+  "participePasse": "retiré",
+  "present": [ "me retire", "te retires", "se retire", "nous retirons", "vous retirez", "se retirent" ],
+  "imparfait": [ "me retirais", "te retirais", "se retirait", "nous retirions", "vous retiriez", "se retiraient" ],
+  "passeSimple": [ "me retirai", "te retiras", "se retira", "nous retirâmes", "vous retirâtes", "se retirèrent" ],
+  "futurSimple": [ "me retirerai", "te retireras", "se retirera", "nous retirerons", "vous retirerez", "se retireront" ],
+  "passeCompose": [ "me suis retiré(e)", "t'es retiré(e)", "s'est retiré(e)", "nous sommes retiré(e)s", "vous êtes retiré(e)(s)", "se sont retiré(e)s" ],
+  "plusQueParfait": [ "m'étais retiré(e)", "t'étais retiré(e)", "s'était retiré(e)", "nous étions retiré(e)s", "vous étiez retiré(e)(s)", "s'étaient retiré(e)s" ],
+  "passeAnterieur": [ "me fus retiré(e)", "te fus retiré(e)", "se fut retiré(e)", "nous fûmes retiré(e)s", "vous fûtes retiré(e)(s)", "se furent retiré(e)s" ],
+  "futurAnterieur": [ "me serai retiré(e)", "te seras retiré(e)", "se sera retiré(e)", "nous serons retiré(e)s", "vous serez retiré(e)(s)", "se seront retiré(e)s" ],
+  "subjonctifPresent": [ "me retire", "te retires", "se retire", "nous retirions", "vous retiriez", "se retirent" ],
+  "subjonctifImparfait": [ "me retirasse", "te retirasses", "se retirât", "nous retirassions", "vous retirassiez", "se retirassent" ],
+  "subjonctifPasse": [ "me sois retiré(e)", "te sois retiré(e)", "se soit retiré(e)", "nous soyons retiré(e)s", "vous soyez retiré(e)(s)", "se soient retiré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse retiré(e)", "te fusses retiré(e)", "se fût retiré(e)", "nous fussions retiré(e)s", "vous fussiez retiré(e)(s)", "se fussent retiré(e)s" ],
+  "conditionnelPresent": [ "me retirerais", "te retirerais", "se retirerait", "nous retirerions", "vous retireriez", "se retireraient" ],
+  "conditionnelPasse": [ "me serais retiré(e)", "te serais retiré(e)", "se serait retiré(e)", "nous serions retiré(e)s", "vous seriez retiré(e)(s)", "se seraient retiré(e)s" ],
+  "conditionnelPasseII": [ "me fusse retiré(e)", "te fusses retiré(e)", "se fût retiré(e)", "nous fussions retiré(e)s", "vous fussiez retiré(e)(s)", "se fussent retiré(e)s" ],
+  "imperatif": [ "–", "retire-toi !", "–", "retirons-nous !", "retirez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

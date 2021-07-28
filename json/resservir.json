@@ -1,0 +1,22 @@
+{
+  "infinitif": "resservir",
+  "participePresent": "resservant",
+  "participePasse": "resservi",
+  "present": [ "ressers", "ressers", "ressert", "resservons", "resservez", "resservent" ],
+  "imparfait": [ "resservais", "resservais", "resservait", "resservions", "resserviez", "resservaient" ],
+  "passeSimple": [ "resservis", "resservis", "resservit", "resservîmes", "resservîtes", "resservirent" ],
+  "futurSimple": [ "resservirai", "resserviras", "resservira", "resservirons", "resservirez", "resserviront" ],
+  "passeCompose": [ "ai resservi", "as resservi", "a resservi", "avons resservi", "avez resservi", "ont resservi" ],
+  "plusQueParfait": [ "avais resservi", "avais resservi", "avait resservi", "avions resservi", "aviez resservi", "avaient resservi" ],
+  "passeAnterieur": [ "eus resservi", "eus resservi", "eut resservi", "eûmes resservi", "eûtes resservi", "eurent resservi" ],
+  "futurAnterieur": [ "aurai resservi", "auras resservi", "aura resservi", "aurons resservi", "aurez resservi", "auront resservi" ],
+  "subjonctifPresent": [ "resserve", "resserves", "resserve", "resservions", "resserviez", "resservent" ],
+  "subjonctifImparfait": [ "resservisse", "resservisses", "resservît", "resservissions", "resservissiez", "resservissent" ],
+  "subjonctifPasse": [ "aie resservi", "aies resservi", "ait resservi", "ayons resservi", "ayez resservi", "aient resservi" ],
+  "subjonctifPlusQueParfait": [ "eusse resservi", "eusses resservi", "eût resservi", "eussions resservi", "eussiez resservi", "eussent resservi" ],
+  "conditionnelPresent": [ "resservirais", "resservirais", "resservirait", "resservirions", "resserviriez", "resserviraient" ],
+  "conditionnelPasse": [ "aurais resservi", "aurais resservi", "aurait resservi", "aurions resservi", "auriez resservi", "auraient resservi" ],
+  "conditionnelPasseII": [ "eusse resservi", "eusses resservi", "eût resservi", "eussions resservi", "eussiez resservi", "eussent resservi" ],
+  "imperatif": [ "–", "ressers !", "–", "resservons !", "resservez !", "–" ],
+  "imperatifPasse": [ "–", "aie resservi !", "–", "ayons resservi !", "ayez resservi !", "–" ]
+}

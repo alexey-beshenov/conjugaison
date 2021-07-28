@@ -1,0 +1,22 @@
+{
+  "infinitif": "zézayer",
+  "participePresent": "zézayant",
+  "participePasse": "zézayé",
+  "present": [ "zézaie, zézaye", "zézaies, zézayes", "zézaie, zézaye", "zézayons", "zézayez", "zézaient, zézayent" ],
+  "imparfait": [ "zézayais", "zézayais", "zézayait", "zézayions", "zézayiez", "zézayaient" ],
+  "passeSimple": [ "zézayai", "zézayas", "zézaya", "zézayâmes", "zézayâtes", "zézayèrent" ],
+  "futurSimple": [ "zézaierai, zézayerai", "zézaieras, zézayeras", "zézaiera, zézayera", "zézaierons, zézayerons", "zézaierez, zézayerez", "zézaieront, zézayeront" ],
+  "passeCompose": [ "ai zézayé", "as zézayé", "a zézayé", "avons zézayé", "avez zézayé", "ont zézayé" ],
+  "plusQueParfait": [ "avais zézayé", "avais zézayé", "avait zézayé", "avions zézayé", "aviez zézayé", "avaient zézayé" ],
+  "passeAnterieur": [ "eus zézayé", "eus zézayé", "eut zézayé", "eûmes zézayé", "eûtes zézayé", "eurent zézayé" ],
+  "futurAnterieur": [ "aurai zézayé", "auras zézayé", "aura zézayé", "aurons zézayé", "aurez zézayé", "auront zézayé" ],
+  "subjonctifPresent": [ "zézaie, zézaye", "zézaies, zézayes", "zézaie, zézaye", "zézayions", "zézayiez", "zézaient, zézayent" ],
+  "subjonctifImparfait": [ "zézayasse", "zézayasses", "zézayât", "zézayassions", "zézayassiez", "zézayassent" ],
+  "subjonctifPasse": [ "aie zézayé", "aies zézayé", "ait zézayé", "ayons zézayé", "ayez zézayé", "aient zézayé" ],
+  "subjonctifPlusQueParfait": [ "eusse zézayé", "eusses zézayé", "eût zézayé", "eussions zézayé", "eussiez zézayé", "eussent zézayé" ],
+  "conditionnelPresent": [ "zézaierais, zézayerais", "zézaierais, zézayerais", "zézaierait, zézayerait", "zézaierions, zézayerions", "zézaieriez, zézayeriez", "zézaieraient, zézayeraient" ],
+  "conditionnelPasse": [ "aurais zézayé", "aurais zézayé", "aurait zézayé", "aurions zézayé", "auriez zézayé", "auraient zézayé" ],
+  "conditionnelPasseII": [ "eusse zézayé", "eusses zézayé", "eût zézayé", "eussions zézayé", "eussiez zézayé", "eussent zézayé" ],
+  "imperatif": [ "–", "zézaie, zézaye !", "–", "zézayons !", "zézayez !", "–" ],
+  "imperatifPasse": [ "–", "aie zézayé !", "–", "ayons zézayé !", "ayez zézayé !", "–" ]
+}

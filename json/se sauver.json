@@ -1,0 +1,22 @@
+{
+  "infinitif": "se sauver",
+  "participePresent": "se sauvant",
+  "participePasse": "sauvé",
+  "present": [ "me sauve", "te sauves", "se sauve", "nous sauvons", "vous sauvez", "se sauvent" ],
+  "imparfait": [ "me sauvais", "te sauvais", "se sauvait", "nous sauvions", "vous sauviez", "se sauvaient" ],
+  "passeSimple": [ "me sauvai", "te sauvas", "se sauva", "nous sauvâmes", "vous sauvâtes", "se sauvèrent" ],
+  "futurSimple": [ "me sauverai", "te sauveras", "se sauvera", "nous sauverons", "vous sauverez", "se sauveront" ],
+  "passeCompose": [ "me suis sauvé(e)", "t'es sauvé(e)", "s'est sauvé(e)", "nous sommes sauvé(e)s", "vous êtes sauvé(e)(s)", "se sont sauvé(e)s" ],
+  "plusQueParfait": [ "m'étais sauvé(e)", "t'étais sauvé(e)", "s'était sauvé(e)", "nous étions sauvé(e)s", "vous étiez sauvé(e)(s)", "s'étaient sauvé(e)s" ],
+  "passeAnterieur": [ "me fus sauvé(e)", "te fus sauvé(e)", "se fut sauvé(e)", "nous fûmes sauvé(e)s", "vous fûtes sauvé(e)(s)", "se furent sauvé(e)s" ],
+  "futurAnterieur": [ "me serai sauvé(e)", "te seras sauvé(e)", "se sera sauvé(e)", "nous serons sauvé(e)s", "vous serez sauvé(e)(s)", "se seront sauvé(e)s" ],
+  "subjonctifPresent": [ "me sauve", "te sauves", "se sauve", "nous sauvions", "vous sauviez", "se sauvent" ],
+  "subjonctifImparfait": [ "me sauvasse", "te sauvasses", "se sauvât", "nous sauvassions", "vous sauvassiez", "se sauvassent" ],
+  "subjonctifPasse": [ "me sois sauvé(e)", "te sois sauvé(e)", "se soit sauvé(e)", "nous soyons sauvé(e)s", "vous soyez sauvé(e)(s)", "se soient sauvé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse sauvé(e)", "te fusses sauvé(e)", "se fût sauvé(e)", "nous fussions sauvé(e)s", "vous fussiez sauvé(e)(s)", "se fussent sauvé(e)s" ],
+  "conditionnelPresent": [ "me sauverais", "te sauverais", "se sauverait", "nous sauverions", "vous sauveriez", "se sauveraient" ],
+  "conditionnelPasse": [ "me serais sauvé(e)", "te serais sauvé(e)", "se serait sauvé(e)", "nous serions sauvé(e)s", "vous seriez sauvé(e)(s)", "se seraient sauvé(e)s" ],
+  "conditionnelPasseII": [ "me fusse sauvé(e)", "te fusses sauvé(e)", "se fût sauvé(e)", "nous fussions sauvé(e)s", "vous fussiez sauvé(e)(s)", "se fussent sauvé(e)s" ],
+  "imperatif": [ "–", "sauve-toi !", "–", "sauvons-nous !", "sauvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

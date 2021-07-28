@@ -1,0 +1,22 @@
+{
+  "infinitif": "reculer",
+  "participePresent": "reculant",
+  "participePasse": "reculé",
+  "present": [ "recule", "recules", "recule", "reculons", "reculez", "reculent" ],
+  "imparfait": [ "reculais", "reculais", "reculait", "reculions", "reculiez", "reculaient" ],
+  "passeSimple": [ "reculai", "reculas", "recula", "reculâmes", "reculâtes", "reculèrent" ],
+  "futurSimple": [ "reculerai", "reculeras", "reculera", "reculerons", "reculerez", "reculeront" ],
+  "passeCompose": [ "ai reculé", "as reculé", "a reculé", "avons reculé", "avez reculé", "ont reculé" ],
+  "plusQueParfait": [ "avais reculé", "avais reculé", "avait reculé", "avions reculé", "aviez reculé", "avaient reculé" ],
+  "passeAnterieur": [ "eus reculé", "eus reculé", "eut reculé", "eûmes reculé", "eûtes reculé", "eurent reculé" ],
+  "futurAnterieur": [ "aurai reculé", "auras reculé", "aura reculé", "aurons reculé", "aurez reculé", "auront reculé" ],
+  "subjonctifPresent": [ "recule", "recules", "recule", "reculions", "reculiez", "reculent" ],
+  "subjonctifImparfait": [ "reculasse", "reculasses", "reculât", "reculassions", "reculassiez", "reculassent" ],
+  "subjonctifPasse": [ "aie reculé", "aies reculé", "ait reculé", "ayons reculé", "ayez reculé", "aient reculé" ],
+  "subjonctifPlusQueParfait": [ "eusse reculé", "eusses reculé", "eût reculé", "eussions reculé", "eussiez reculé", "eussent reculé" ],
+  "conditionnelPresent": [ "reculerais", "reculerais", "reculerait", "reculerions", "reculeriez", "reculeraient" ],
+  "conditionnelPasse": [ "aurais reculé", "aurais reculé", "aurait reculé", "aurions reculé", "auriez reculé", "auraient reculé" ],
+  "conditionnelPasseII": [ "eusse reculé", "eusses reculé", "eût reculé", "eussions reculé", "eussiez reculé", "eussent reculé" ],
+  "imperatif": [ "–", "recule !", "–", "reculons !", "reculez !", "–" ],
+  "imperatifPasse": [ "–", "aie reculé !", "–", "ayons reculé !", "ayez reculé !", "–" ]
+}

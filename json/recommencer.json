@@ -1,0 +1,22 @@
+{
+  "infinitif": "recommencer",
+  "participePresent": "recommençant",
+  "participePasse": "recommencé",
+  "present": [ "recommence", "recommences", "recommence", "recommençons", "recommencez", "recommencent" ],
+  "imparfait": [ "recommençais", "recommençais", "recommençait", "recommencions", "recommenciez", "recommençaient" ],
+  "passeSimple": [ "recommençai", "recommenças", "recommença", "recommençâmes", "recommençâtes", "recommencèrent" ],
+  "futurSimple": [ "recommencerai", "recommenceras", "recommencera", "recommencerons", "recommencerez", "recommenceront" ],
+  "passeCompose": [ "ai recommencé", "as recommencé", "a recommencé", "avons recommencé", "avez recommencé", "ont recommencé" ],
+  "plusQueParfait": [ "avais recommencé", "avais recommencé", "avait recommencé", "avions recommencé", "aviez recommencé", "avaient recommencé" ],
+  "passeAnterieur": [ "eus recommencé", "eus recommencé", "eut recommencé", "eûmes recommencé", "eûtes recommencé", "eurent recommencé" ],
+  "futurAnterieur": [ "aurai recommencé", "auras recommencé", "aura recommencé", "aurons recommencé", "aurez recommencé", "auront recommencé" ],
+  "subjonctifPresent": [ "recommence", "recommences", "recommence", "recommencions", "recommenciez", "recommencent" ],
+  "subjonctifImparfait": [ "recommençasse", "recommençasses", "recommençât", "recommençassions", "recommençassiez", "recommençassent" ],
+  "subjonctifPasse": [ "aie recommencé", "aies recommencé", "ait recommencé", "ayons recommencé", "ayez recommencé", "aient recommencé" ],
+  "subjonctifPlusQueParfait": [ "eusse recommencé", "eusses recommencé", "eût recommencé", "eussions recommencé", "eussiez recommencé", "eussent recommencé" ],
+  "conditionnelPresent": [ "recommencerais", "recommencerais", "recommencerait", "recommencerions", "recommenceriez", "recommenceraient" ],
+  "conditionnelPasse": [ "aurais recommencé", "aurais recommencé", "aurait recommencé", "aurions recommencé", "auriez recommencé", "auraient recommencé" ],
+  "conditionnelPasseII": [ "eusse recommencé", "eusses recommencé", "eût recommencé", "eussions recommencé", "eussiez recommencé", "eussent recommencé" ],
+  "imperatif": [ "–", "recommence !", "–", "recommençons !", "recommencez !", "–" ],
+  "imperatifPasse": [ "–", "aie recommencé !", "–", "ayons recommencé !", "ayez recommencé !", "–" ]
+}

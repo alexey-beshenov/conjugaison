@@ -1,0 +1,22 @@
+{
+  "infinitif": "paraître",
+  "participePresent": "paraissant",
+  "participePasse": "paru",
+  "present": [ "parais", "parais", "paraît", "paraissons", "paraissez", "paraissent" ],
+  "imparfait": [ "paraissais", "paraissais", "paraissait", "paraissions", "paraissiez", "paraissaient" ],
+  "passeSimple": [ "parus", "parus", "parut", "parûmes", "parûtes", "parurent" ],
+  "futurSimple": [ "paraîtrai", "paraîtras", "paraîtra", "paraîtrons", "paraîtrez", "paraîtront" ],
+  "passeCompose": [ "ai paru", "as paru", "a paru", "avons paru", "avez paru", "ont paru" ],
+  "plusQueParfait": [ "avais paru", "avais paru", "avait paru", "avions paru", "aviez paru", "avaient paru" ],
+  "passeAnterieur": [ "eus paru", "eus paru", "eut paru", "eûmes paru", "eûtes paru", "eurent paru" ],
+  "futurAnterieur": [ "aurai paru", "auras paru", "aura paru", "aurons paru", "aurez paru", "auront paru" ],
+  "subjonctifPresent": [ "paraisse", "paraisses", "paraisse", "paraissions", "paraissiez", "paraissent" ],
+  "subjonctifImparfait": [ "parusse", "parusses", "parût", "parussions", "parussiez", "parussent" ],
+  "subjonctifPasse": [ "aie paru", "aies paru", "ait paru", "ayons paru", "ayez paru", "aient paru" ],
+  "subjonctifPlusQueParfait": [ "eusse paru", "eusses paru", "eût paru", "eussions paru", "eussiez paru", "eussent paru" ],
+  "conditionnelPresent": [ "paraîtrais", "paraîtrais", "paraîtrait", "paraîtrions", "paraîtriez", "paraîtraient" ],
+  "conditionnelPasse": [ "aurais paru", "aurais paru", "aurait paru", "aurions paru", "auriez paru", "auraient paru" ],
+  "conditionnelPasseII": [ "eusse paru", "eusses paru", "eût paru", "eussions paru", "eussiez paru", "eussent paru" ],
+  "imperatif": [ "–", "parais !", "–", "paraissons !", "paraissez !", "–" ],
+  "imperatifPasse": [ "–", "aie paru !", "–", "ayons paru !", "ayez paru !", "–" ]
+}

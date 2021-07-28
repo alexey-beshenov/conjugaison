@@ -1,0 +1,22 @@
+{
+  "infinitif": "battre",
+  "participePresent": "battant",
+  "participePasse": "battu",
+  "present": [ "bats", "bats", "bat", "battons", "battez", "battent" ],
+  "imparfait": [ "battais", "battais", "battait", "battions", "battiez", "battaient" ],
+  "passeSimple": [ "battis", "battis", "battit", "battîmes", "battîtes", "battirent" ],
+  "futurSimple": [ "battrai", "battras", "battra", "battrons", "battrez", "battront" ],
+  "passeCompose": [ "ai battu", "as battu", "a battu", "avons battu", "avez battu", "ont battu" ],
+  "plusQueParfait": [ "avais battu", "avais battu", "avait battu", "avions battu", "aviez battu", "avaient battu" ],
+  "passeAnterieur": [ "eus battu", "eus battu", "eut battu", "eûmes battu", "eûtes battu", "eurent battu" ],
+  "futurAnterieur": [ "aurai battu", "auras battu", "aura battu", "aurons battu", "aurez battu", "auront battu" ],
+  "subjonctifPresent": [ "batte", "battes", "batte", "battions", "battiez", "battent" ],
+  "subjonctifImparfait": [ "battisse", "battisses", "battît", "battissions", "battissiez", "battissent" ],
+  "subjonctifPasse": [ "aie battu", "aies battu", "ait battu", "ayons battu", "ayez battu", "aient battu" ],
+  "subjonctifPlusQueParfait": [ "eusse battu", "eusses battu", "eût battu", "eussions battu", "eussiez battu", "eussent battu" ],
+  "conditionnelPresent": [ "battrais", "battrais", "battrait", "battrions", "battriez", "battraient" ],
+  "conditionnelPasse": [ "aurais battu", "aurais battu", "aurait battu", "aurions battu", "auriez battu", "auraient battu" ],
+  "conditionnelPasseII": [ "eusse battu", "eusses battu", "eût battu", "eussions battu", "eussiez battu", "eussent battu" ],
+  "imperatif": [ "–", "bats !", "–", "battons !", "battez !", "–" ],
+  "imperatifPasse": [ "–", "aie battu !", "–", "ayons battu !", "ayez battu !", "–" ]
+}

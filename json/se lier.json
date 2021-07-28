@@ -1,0 +1,22 @@
+{
+  "infinitif": "se lier",
+  "participePresent": "se liant",
+  "participePasse": "lié",
+  "present": [ "me lie", "te lies", "se lie", "nous lions", "vous liez", "se lient" ],
+  "imparfait": [ "me liais", "te liais", "se liait", "nous liions", "vous liiez", "se liaient" ],
+  "passeSimple": [ "me liai", "te lias", "se lia", "nous liâmes", "vous liâtes", "se lièrent" ],
+  "futurSimple": [ "me lierai", "te lieras", "se liera", "nous lierons", "vous lierez", "se lieront" ],
+  "passeCompose": [ "me suis lié(e)", "t'es lié(e)", "s'est lié(e)", "nous sommes lié(e)s", "vous êtes lié(e)(s)", "se sont lié(e)s" ],
+  "plusQueParfait": [ "m'étais lié(e)", "t'étais lié(e)", "s'était lié(e)", "nous étions lié(e)s", "vous étiez lié(e)(s)", "s'étaient lié(e)s" ],
+  "passeAnterieur": [ "me fus lié(e)", "te fus lié(e)", "se fut lié(e)", "nous fûmes lié(e)s", "vous fûtes lié(e)(s)", "se furent lié(e)s" ],
+  "futurAnterieur": [ "me serai lié(e)", "te seras lié(e)", "se sera lié(e)", "nous serons lié(e)s", "vous serez lié(e)(s)", "se seront lié(e)s" ],
+  "subjonctifPresent": [ "me lie", "te lies", "se lie", "nous liions", "vous liiez", "se lient" ],
+  "subjonctifImparfait": [ "me liasse", "te liasses", "se liât", "nous liassions", "vous liassiez", "se liassent" ],
+  "subjonctifPasse": [ "me sois lié(e)", "te sois lié(e)", "se soit lié(e)", "nous soyons lié(e)s", "vous soyez lié(e)(s)", "se soient lié(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse lié(e)", "te fusses lié(e)", "se fût lié(e)", "nous fussions lié(e)s", "vous fussiez lié(e)(s)", "se fussent lié(e)s" ],
+  "conditionnelPresent": [ "me lierais", "te lierais", "se lierait", "nous lierions", "vous lieriez", "se lieraient" ],
+  "conditionnelPasse": [ "me serais lié(e)", "te serais lié(e)", "se serait lié(e)", "nous serions lié(e)s", "vous seriez lié(e)(s)", "se seraient lié(e)s" ],
+  "conditionnelPasseII": [ "me fusse lié(e)", "te fusses lié(e)", "se fût lié(e)", "nous fussions lié(e)s", "vous fussiez lié(e)(s)", "se fussent lié(e)s" ],
+  "imperatif": [ "–", "lie-toi !", "–", "lions-nous !", "liez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

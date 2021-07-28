@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'empêcher",
+  "participePresent": "s'empêchant",
+  "participePasse": "empêché",
+  "present": [ "m'empêche", "t'empêches", "s'empêche", "nous empêchons", "vous empêchez", "s'empêchent" ],
+  "imparfait": [ "m'empêchais", "t'empêchais", "s'empêchait", "nous empêchions", "vous empêchiez", "s'empêchaient" ],
+  "passeSimple": [ "m'empêchai", "t'empêchas", "s'empêcha", "nous empêchâmes", "vous empêchâtes", "s'empêchèrent" ],
+  "futurSimple": [ "m'empêcherai", "t'empêcheras", "s'empêchera", "nous empêcherons", "vous empêcherez", "s'empêcheront" ],
+  "passeCompose": [ "me suis empêché(e)", "t'es empêché(e)", "s'est empêché(e)", "nous sommes empêché(e)s", "vous êtes empêché(e)(s)", "se sont empêché(e)s" ],
+  "plusQueParfait": [ "m'étais empêché(e)", "t'étais empêché(e)", "s'était empêché(e)", "nous étions empêché(e)s", "vous étiez empêché(e)(s)", "s'étaient empêché(e)s" ],
+  "passeAnterieur": [ "me fus empêché(e)", "te fus empêché(e)", "se fut empêché(e)", "nous fûmes empêché(e)s", "vous fûtes empêché(e)(s)", "se furent empêché(e)s" ],
+  "futurAnterieur": [ "me serai empêché(e)", "te seras empêché(e)", "se sera empêché(e)", "nous serons empêché(e)s", "vous serez empêché(e)(s)", "se seront empêché(e)s" ],
+  "subjonctifPresent": [ "m'empêche", "t'empêches", "s'empêche", "nous empêchions", "vous empêchiez", "s'empêchent" ],
+  "subjonctifImparfait": [ "m'empêchasse", "t'empêchasses", "s'empêchât", "nous empêchassions", "vous empêchassiez", "s'empêchassent" ],
+  "subjonctifPasse": [ "me sois empêché(e)", "te sois empêché(e)", "se soit empêché(e)", "nous soyons empêché(e)s", "vous soyez empêché(e)(s)", "se soient empêché(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse empêché(e)", "te fusses empêché(e)", "se fût empêché(e)", "nous fussions empêché(e)s", "vous fussiez empêché(e)(s)", "se fussent empêché(e)s" ],
+  "conditionnelPresent": [ "m'empêcherais", "t'empêcherais", "s'empêcherait", "nous empêcherions", "vous empêcheriez", "s'empêcheraient" ],
+  "conditionnelPasse": [ "me serais empêché(e)", "te serais empêché(e)", "se serait empêché(e)", "nous serions empêché(e)s", "vous seriez empêché(e)(s)", "se seraient empêché(e)s" ],
+  "conditionnelPasseII": [ "me fusse empêché(e)", "te fusses empêché(e)", "se fût empêché(e)", "nous fussions empêché(e)s", "vous fussiez empêché(e)(s)", "se fussent empêché(e)s" ],
+  "imperatif": [ "–", "empêche-toi !", "–", "empêchons-nous !", "empêchez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

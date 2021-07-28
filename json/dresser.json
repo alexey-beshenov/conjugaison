@@ -1,0 +1,22 @@
+{
+  "infinitif": "dresser",
+  "participePresent": "dressant",
+  "participePasse": "dressé",
+  "present": [ "dresse", "dresses", "dresse", "dressons", "dressez", "dressent" ],
+  "imparfait": [ "dressais", "dressais", "dressait", "dressions", "dressiez", "dressaient" ],
+  "passeSimple": [ "dressai", "dressas", "dressa", "dressâmes", "dressâtes", "dressèrent" ],
+  "futurSimple": [ "dresserai", "dresseras", "dressera", "dresserons", "dresserez", "dresseront" ],
+  "passeCompose": [ "ai dressé", "as dressé", "a dressé", "avons dressé", "avez dressé", "ont dressé" ],
+  "plusQueParfait": [ "avais dressé", "avais dressé", "avait dressé", "avions dressé", "aviez dressé", "avaient dressé" ],
+  "passeAnterieur": [ "eus dressé", "eus dressé", "eut dressé", "eûmes dressé", "eûtes dressé", "eurent dressé" ],
+  "futurAnterieur": [ "aurai dressé", "auras dressé", "aura dressé", "aurons dressé", "aurez dressé", "auront dressé" ],
+  "subjonctifPresent": [ "dresse", "dresses", "dresse", "dressions", "dressiez", "dressent" ],
+  "subjonctifImparfait": [ "dressasse", "dressasses", "dressât", "dressassions", "dressassiez", "dressassent" ],
+  "subjonctifPasse": [ "aie dressé", "aies dressé", "ait dressé", "ayons dressé", "ayez dressé", "aient dressé" ],
+  "subjonctifPlusQueParfait": [ "eusse dressé", "eusses dressé", "eût dressé", "eussions dressé", "eussiez dressé", "eussent dressé" ],
+  "conditionnelPresent": [ "dresserais", "dresserais", "dresserait", "dresserions", "dresseriez", "dresseraient" ],
+  "conditionnelPasse": [ "aurais dressé", "aurais dressé", "aurait dressé", "aurions dressé", "auriez dressé", "auraient dressé" ],
+  "conditionnelPasseII": [ "eusse dressé", "eusses dressé", "eût dressé", "eussions dressé", "eussiez dressé", "eussent dressé" ],
+  "imperatif": [ "–", "dresse !", "–", "dressons !", "dressez !", "–" ],
+  "imperatifPasse": [ "–", "aie dressé !", "–", "ayons dressé !", "ayez dressé !", "–" ]
+}

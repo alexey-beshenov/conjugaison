@@ -1,0 +1,22 @@
+{
+  "infinitif": "reparaître",
+  "participePresent": "reparaissant",
+  "participePasse": "reparu",
+  "present": [ "reparais", "reparais", "reparaît", "reparaissons", "reparaissez", "reparaissent" ],
+  "imparfait": [ "reparaissais", "reparaissais", "reparaissait", "reparaissions", "reparaissiez", "reparaissaient" ],
+  "passeSimple": [ "reparus", "reparus", "reparut", "reparûmes", "reparûtes", "reparurent" ],
+  "futurSimple": [ "reparaîtrai", "reparaîtras", "reparaîtra", "reparaîtrons", "reparaîtrez", "reparaîtront" ],
+  "passeCompose": [ "suis reparu(e)", "es reparu(e)", "est reparu(e)", "sommes reparu(e)s", "êtes reparu(e)(s)", "sont reparu(e)s" ],
+  "plusQueParfait": [ "étais reparu(e)", "étais reparu(e)", "était reparu(e)", "étions reparu(e)s", "étiez reparu(e)(s)", "étaient reparu(e)s" ],
+  "passeAnterieur": [ "fus reparu(e)", "fus reparu(e)", "fut reparu(e)", "fûmes reparu(e)s", "fûtes reparu(e)(s)", "furent reparu(e)s" ],
+  "futurAnterieur": [ "serai reparu(e)", "seras reparu(e)", "sera reparu(e)", "serons reparu(e)s", "serez reparu(e)(s)", "seront reparu(e)s" ],
+  "subjonctifPresent": [ "reparaisse", "reparaisses", "reparaisse", "reparaissions", "reparaissiez", "reparaissent" ],
+  "subjonctifImparfait": [ "reparusse", "reparusses", "reparût", "reparussions", "reparussiez", "reparussent" ],
+  "subjonctifPasse": [ "sois reparu(e)", "sois reparu(e)", "soit reparu(e)", "soyons reparu(e)s", "soyez reparu(e)(s)", "soient reparu(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse reparu(e)", "fusses reparu(e)", "fût reparu(e)", "fussions reparu(e)s", "fussiez reparu(e)(s)", "fussent reparu(e)s" ],
+  "conditionnelPresent": [ "reparaîtrais", "reparaîtrais", "reparaîtrait", "reparaîtrions", "reparaîtriez", "reparaîtraient" ],
+  "conditionnelPasse": [ "serais reparu(e)", "serais reparu(e)", "serait reparu(e)", "serions reparu(e)s", "seriez reparu(e)(s)", "seraient reparu(e)s" ],
+  "conditionnelPasseII": [ "fusse reparu(e)", "fusses reparu(e)", "fût reparu(e)", "fussions reparu(e)s", "fussiez reparu(e)(s)", "fussent reparu(e)s" ],
+  "imperatif": [ "–", "reparais !", "–", "reparaissons !", "reparaissez !", "–" ],
+  "imperatifPasse": [ "–", "sois reparu(e) !", "–", "soyons reparu(e)s !", "soyez reparu(e)(s) !", "–" ]
+}

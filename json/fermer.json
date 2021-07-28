@@ -1,0 +1,22 @@
+{
+  "infinitif": "fermer",
+  "participePresent": "fermant",
+  "participePasse": "fermé",
+  "present": [ "ferme", "fermes", "ferme", "fermons", "fermez", "ferment" ],
+  "imparfait": [ "fermais", "fermais", "fermait", "fermions", "fermiez", "fermaient" ],
+  "passeSimple": [ "fermai", "fermas", "ferma", "fermâmes", "fermâtes", "fermèrent" ],
+  "futurSimple": [ "fermerai", "fermeras", "fermera", "fermerons", "fermerez", "fermeront" ],
+  "passeCompose": [ "ai fermé", "as fermé", "a fermé", "avons fermé", "avez fermé", "ont fermé" ],
+  "plusQueParfait": [ "avais fermé", "avais fermé", "avait fermé", "avions fermé", "aviez fermé", "avaient fermé" ],
+  "passeAnterieur": [ "eus fermé", "eus fermé", "eut fermé", "eûmes fermé", "eûtes fermé", "eurent fermé" ],
+  "futurAnterieur": [ "aurai fermé", "auras fermé", "aura fermé", "aurons fermé", "aurez fermé", "auront fermé" ],
+  "subjonctifPresent": [ "ferme", "fermes", "ferme", "fermions", "fermiez", "ferment" ],
+  "subjonctifImparfait": [ "fermasse", "fermasses", "fermât", "fermassions", "fermassiez", "fermassent" ],
+  "subjonctifPasse": [ "aie fermé", "aies fermé", "ait fermé", "ayons fermé", "ayez fermé", "aient fermé" ],
+  "subjonctifPlusQueParfait": [ "eusse fermé", "eusses fermé", "eût fermé", "eussions fermé", "eussiez fermé", "eussent fermé" ],
+  "conditionnelPresent": [ "fermerais", "fermerais", "fermerait", "fermerions", "fermeriez", "fermeraient" ],
+  "conditionnelPasse": [ "aurais fermé", "aurais fermé", "aurait fermé", "aurions fermé", "auriez fermé", "auraient fermé" ],
+  "conditionnelPasseII": [ "eusse fermé", "eusses fermé", "eût fermé", "eussions fermé", "eussiez fermé", "eussent fermé" ],
+  "imperatif": [ "–", "ferme !", "–", "fermons !", "fermez !", "–" ],
+  "imperatifPasse": [ "–", "aie fermé !", "–", "ayons fermé !", "ayez fermé !", "–" ]
+}

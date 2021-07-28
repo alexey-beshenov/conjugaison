@@ -1,0 +1,22 @@
+{
+  "infinitif": "agiter",
+  "participePresent": "agitant",
+  "participePasse": "agité",
+  "present": [ "agite", "agites", "agite", "agitons", "agitez", "agitent" ],
+  "imparfait": [ "agitais", "agitais", "agitait", "agitions", "agitiez", "agitaient" ],
+  "passeSimple": [ "agitai", "agitas", "agita", "agitâmes", "agitâtes", "agitèrent" ],
+  "futurSimple": [ "agiterai", "agiteras", "agitera", "agiterons", "agiterez", "agiteront" ],
+  "passeCompose": [ "ai agité", "as agité", "a agité", "avons agité", "avez agité", "ont agité" ],
+  "plusQueParfait": [ "avais agité", "avais agité", "avait agité", "avions agité", "aviez agité", "avaient agité" ],
+  "passeAnterieur": [ "eus agité", "eus agité", "eut agité", "eûmes agité", "eûtes agité", "eurent agité" ],
+  "futurAnterieur": [ "aurai agité", "auras agité", "aura agité", "aurons agité", "aurez agité", "auront agité" ],
+  "subjonctifPresent": [ "agite", "agites", "agite", "agitions", "agitiez", "agitent" ],
+  "subjonctifImparfait": [ "agitasse", "agitasses", "agitât", "agitassions", "agitassiez", "agitassent" ],
+  "subjonctifPasse": [ "aie agité", "aies agité", "ait agité", "ayons agité", "ayez agité", "aient agité" ],
+  "subjonctifPlusQueParfait": [ "eusse agité", "eusses agité", "eût agité", "eussions agité", "eussiez agité", "eussent agité" ],
+  "conditionnelPresent": [ "agiterais", "agiterais", "agiterait", "agiterions", "agiteriez", "agiteraient" ],
+  "conditionnelPasse": [ "aurais agité", "aurais agité", "aurait agité", "aurions agité", "auriez agité", "auraient agité" ],
+  "conditionnelPasseII": [ "eusse agité", "eusses agité", "eût agité", "eussions agité", "eussiez agité", "eussent agité" ],
+  "imperatif": [ "–", "agite !", "–", "agitons !", "agitez !", "–" ],
+  "imperatifPasse": [ "–", "aie agité !", "–", "ayons agité !", "ayez agité !", "–" ]
+}

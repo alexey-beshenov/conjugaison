@@ -1,0 +1,22 @@
+{
+  "infinitif": "décroître",
+  "participePresent": "décroissant",
+  "participePasse": "décru",
+  "present": [ "décrois", "décrois", "décroît", "décroissons", "décroissez", "décroissent" ],
+  "imparfait": [ "décroissais", "décroissais", "décroissait", "décroissions", "décroissiez", "décroissaient" ],
+  "passeSimple": [ "décrus", "décrus", "décrut", "décrûmes", "décrûtes", "décrurent" ],
+  "futurSimple": [ "décroîtrai", "décroîtras", "décroîtra", "décroîtrons", "décroîtrez", "décroîtront" ],
+  "passeCompose": [ "ai décru", "as décru", "a décru", "avons décru", "avez décru", "ont décru" ],
+  "plusQueParfait": [ "avais décru", "avais décru", "avait décru", "avions décru", "aviez décru", "avaient décru" ],
+  "passeAnterieur": [ "eus décru", "eus décru", "eut décru", "eûmes décru", "eûtes décru", "eurent décru" ],
+  "futurAnterieur": [ "aurai décru", "auras décru", "aura décru", "aurons décru", "aurez décru", "auront décru" ],
+  "subjonctifPresent": [ "décroisse", "décroisses", "décroisse", "décroissions", "décroissiez", "décroissent" ],
+  "subjonctifImparfait": [ "décrusse", "décrusses", "décrût", "décrussions", "décrussiez", "décrussent" ],
+  "subjonctifPasse": [ "aie décru", "aies décru", "ait décru", "ayons décru", "ayez décru", "aient décru" ],
+  "subjonctifPlusQueParfait": [ "eusse décru", "eusses décru", "eût décru", "eussions décru", "eussiez décru", "eussent décru" ],
+  "conditionnelPresent": [ "décroîtrais", "décroîtrais", "décroîtrait", "décroîtrions", "décroîtriez", "décroîtraient" ],
+  "conditionnelPasse": [ "aurais décru", "aurais décru", "aurait décru", "aurions décru", "auriez décru", "auraient décru" ],
+  "conditionnelPasseII": [ "eusse décru", "eusses décru", "eût décru", "eussions décru", "eussiez décru", "eussent décru" ],
+  "imperatif": [ "–", "décrois !", "–", "décroissons !", "décroissez !", "–" ],
+  "imperatifPasse": [ "–", "aie décru !", "–", "ayons décru !", "ayez décru !", "–" ]
+}

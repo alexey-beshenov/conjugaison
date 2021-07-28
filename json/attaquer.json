@@ -1,0 +1,22 @@
+{
+  "infinitif": "attaquer",
+  "participePresent": "attaquant",
+  "participePasse": "attaqué",
+  "present": [ "attaque", "attaques", "attaque", "attaquons", "attaquez", "attaquent" ],
+  "imparfait": [ "attaquais", "attaquais", "attaquait", "attaquions", "attaquiez", "attaquaient" ],
+  "passeSimple": [ "attaquai", "attaquas", "attaqua", "attaquâmes", "attaquâtes", "attaquèrent" ],
+  "futurSimple": [ "attaquerai", "attaqueras", "attaquera", "attaquerons", "attaquerez", "attaqueront" ],
+  "passeCompose": [ "ai attaqué", "as attaqué", "a attaqué", "avons attaqué", "avez attaqué", "ont attaqué" ],
+  "plusQueParfait": [ "avais attaqué", "avais attaqué", "avait attaqué", "avions attaqué", "aviez attaqué", "avaient attaqué" ],
+  "passeAnterieur": [ "eus attaqué", "eus attaqué", "eut attaqué", "eûmes attaqué", "eûtes attaqué", "eurent attaqué" ],
+  "futurAnterieur": [ "aurai attaqué", "auras attaqué", "aura attaqué", "aurons attaqué", "aurez attaqué", "auront attaqué" ],
+  "subjonctifPresent": [ "attaque", "attaques", "attaque", "attaquions", "attaquiez", "attaquent" ],
+  "subjonctifImparfait": [ "attaquasse", "attaquasses", "attaquât", "attaquassions", "attaquassiez", "attaquassent" ],
+  "subjonctifPasse": [ "aie attaqué", "aies attaqué", "ait attaqué", "ayons attaqué", "ayez attaqué", "aient attaqué" ],
+  "subjonctifPlusQueParfait": [ "eusse attaqué", "eusses attaqué", "eût attaqué", "eussions attaqué", "eussiez attaqué", "eussent attaqué" ],
+  "conditionnelPresent": [ "attaquerais", "attaquerais", "attaquerait", "attaquerions", "attaqueriez", "attaqueraient" ],
+  "conditionnelPasse": [ "aurais attaqué", "aurais attaqué", "aurait attaqué", "aurions attaqué", "auriez attaqué", "auraient attaqué" ],
+  "conditionnelPasseII": [ "eusse attaqué", "eusses attaqué", "eût attaqué", "eussions attaqué", "eussiez attaqué", "eussent attaqué" ],
+  "imperatif": [ "–", "attaque !", "–", "attaquons !", "attaquez !", "–" ],
+  "imperatifPasse": [ "–", "aie attaqué !", "–", "ayons attaqué !", "ayez attaqué !", "–" ]
+}

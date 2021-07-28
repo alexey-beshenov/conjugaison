@@ -1,0 +1,22 @@
+{
+  "infinitif": "résister",
+  "participePresent": "résistant",
+  "participePasse": "résisté",
+  "present": [ "résiste", "résistes", "résiste", "résistons", "résistez", "résistent" ],
+  "imparfait": [ "résistais", "résistais", "résistait", "résistions", "résistiez", "résistaient" ],
+  "passeSimple": [ "résistai", "résistas", "résista", "résistâmes", "résistâtes", "résistèrent" ],
+  "futurSimple": [ "résisterai", "résisteras", "résistera", "résisterons", "résisterez", "résisteront" ],
+  "passeCompose": [ "ai résisté", "as résisté", "a résisté", "avons résisté", "avez résisté", "ont résisté" ],
+  "plusQueParfait": [ "avais résisté", "avais résisté", "avait résisté", "avions résisté", "aviez résisté", "avaient résisté" ],
+  "passeAnterieur": [ "eus résisté", "eus résisté", "eut résisté", "eûmes résisté", "eûtes résisté", "eurent résisté" ],
+  "futurAnterieur": [ "aurai résisté", "auras résisté", "aura résisté", "aurons résisté", "aurez résisté", "auront résisté" ],
+  "subjonctifPresent": [ "résiste", "résistes", "résiste", "résistions", "résistiez", "résistent" ],
+  "subjonctifImparfait": [ "résistasse", "résistasses", "résistât", "résistassions", "résistassiez", "résistassent" ],
+  "subjonctifPasse": [ "aie résisté", "aies résisté", "ait résisté", "ayons résisté", "ayez résisté", "aient résisté" ],
+  "subjonctifPlusQueParfait": [ "eusse résisté", "eusses résisté", "eût résisté", "eussions résisté", "eussiez résisté", "eussent résisté" ],
+  "conditionnelPresent": [ "résisterais", "résisterais", "résisterait", "résisterions", "résisteriez", "résisteraient" ],
+  "conditionnelPasse": [ "aurais résisté", "aurais résisté", "aurait résisté", "aurions résisté", "auriez résisté", "auraient résisté" ],
+  "conditionnelPasseII": [ "eusse résisté", "eusses résisté", "eût résisté", "eussions résisté", "eussiez résisté", "eussent résisté" ],
+  "imperatif": [ "–", "résiste !", "–", "résistons !", "résistez !", "–" ],
+  "imperatifPasse": [ "–", "aie résisté !", "–", "ayons résisté !", "ayez résisté !", "–" ]
+}

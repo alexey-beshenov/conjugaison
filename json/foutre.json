@@ -1,0 +1,22 @@
+{
+  "infinitif": "foutre",
+  "participePresent": "foutant",
+  "participePasse": "foutu",
+  "present": [ "fous", "fous", "fout", "foutons", "foutez", "foutent" ],
+  "imparfait": [ "foutais", "foutais", "foutait", "foutions", "foutiez", "foutaient" ],
+  "passeSimple": [ "foutis", "foutis", "foutit", "foutîmes", "foutîtes", "foutirent" ],
+  "futurSimple": [ "foutrai", "foutras", "foutra", "foutrons", "foutrez", "foutront" ],
+  "passeCompose": [ "ai foutu", "as foutu", "a foutu", "avons foutu", "avez foutu", "ont foutu" ],
+  "plusQueParfait": [ "avais foutu", "avais foutu", "avait foutu", "avions foutu", "aviez foutu", "avaient foutu" ],
+  "passeAnterieur": [ "eus foutu", "eus foutu", "eut foutu", "eûmes foutu", "eûtes foutu", "eurent foutu" ],
+  "futurAnterieur": [ "aurai foutu", "auras foutu", "aura foutu", "aurons foutu", "aurez foutu", "auront foutu" ],
+  "subjonctifPresent": [ "foute", "foutes", "foute", "foutions", "foutiez", "foutent" ],
+  "subjonctifImparfait": [ "foutisse", "foutisses", "foutît", "foutissions", "foutissiez", "foutissent" ],
+  "subjonctifPasse": [ "aie foutu", "aies foutu", "ait foutu", "ayons foutu", "ayez foutu", "aient foutu" ],
+  "subjonctifPlusQueParfait": [ "eusse foutu", "eusses foutu", "eût foutu", "eussions foutu", "eussiez foutu", "eussent foutu" ],
+  "conditionnelPresent": [ "foutrais", "foutrais", "foutrait", "foutrions", "foutriez", "foutraient" ],
+  "conditionnelPasse": [ "aurais foutu", "aurais foutu", "aurait foutu", "aurions foutu", "auriez foutu", "auraient foutu" ],
+  "conditionnelPasseII": [ "eusse foutu", "eusses foutu", "eût foutu", "eussions foutu", "eussiez foutu", "eussent foutu" ],
+  "imperatif": [ "–", "fous !", "–", "foutons !", "foutez !", "–" ],
+  "imperatifPasse": [ "–", "aie foutu !", "–", "ayons foutu !", "ayez foutu !", "–" ]
+}

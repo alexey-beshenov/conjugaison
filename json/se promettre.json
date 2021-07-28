@@ -1,0 +1,22 @@
+{
+  "infinitif": "se promettre",
+  "participePresent": "se promettant",
+  "participePasse": "promis",
+  "present": [ "me promets", "te promets", "se promet", "nous promettons", "vous promettez", "se promettent" ],
+  "imparfait": [ "me promettais", "te promettais", "se promettait", "nous promettions", "vous promettiez", "se promettaient" ],
+  "passeSimple": [ "me promis", "te promis", "se promit", "nous promîmes", "vous promîtes", "se promirent" ],
+  "futurSimple": [ "me promettrai", "te promettras", "se promettra", "nous promettrons", "vous promettrez", "se promettront" ],
+  "passeCompose": [ "me suis promis(e)", "t'es promis(e)", "s'est promis(e)", "nous sommes promis(es)", "vous êtes promis(e(s))", "se sont promis(es)" ],
+  "plusQueParfait": [ "m'étais promis(e)", "t'étais promis(e)", "s'était promis(e)", "nous étions promis(es)", "vous étiez promis(e(s))", "s'étaient promis(es)" ],
+  "passeAnterieur": [ "me fus promis(e)", "te fus promis(e)", "se fut promis(e)", "nous fûmes promis(es)", "vous fûtes promis(e(s))", "se furent promis(es)" ],
+  "futurAnterieur": [ "me serai promis(e)", "te seras promis(e)", "se sera promis(e)", "nous serons promis(es)", "vous serez promis(e(s))", "se seront promis(es)" ],
+  "subjonctifPresent": [ "me promette", "te promettes", "se promette", "nous promettions", "vous promettiez", "se promettent" ],
+  "subjonctifImparfait": [ "me promisse", "te promisses", "se promît", "nous promissions", "vous promissiez", "se promissent" ],
+  "subjonctifPasse": [ "me sois promis(e)", "te sois promis(e)", "se soit promis(e)", "nous soyons promis(es)", "vous soyez promis(e(s))", "se soient promis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse promis(e)", "te fusses promis(e)", "se fût promis(e)", "nous fussions promis(es)", "vous fussiez promis(e(s))", "se fussent promis(es)" ],
+  "conditionnelPresent": [ "me promettrais", "te promettrais", "se promettrait", "nous promettrions", "vous promettriez", "se promettraient" ],
+  "conditionnelPasse": [ "me serais promis(e)", "te serais promis(e)", "se serait promis(e)", "nous serions promis(es)", "vous seriez promis(e(s))", "se seraient promis(es)" ],
+  "conditionnelPasseII": [ "me fusse promis(e)", "te fusses promis(e)", "se fût promis(e)", "nous fussions promis(es)", "vous fussiez promis(e(s))", "se fussent promis(es)" ],
+  "imperatif": [ "–", "promets-toi !", "–", "promettons-nous !", "promettez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

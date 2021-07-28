@@ -1,0 +1,22 @@
+{
+  "infinitif": "se commencer",
+  "participePresent": "se commençant",
+  "participePasse": "commencé",
+  "present": [ "me commence", "te commences", "se commence", "nous commençons", "vous commencez", "se commencent" ],
+  "imparfait": [ "me commençais", "te commençais", "se commençait", "nous commencions", "vous commenciez", "se commençaient" ],
+  "passeSimple": [ "me commençai", "te commenças", "se commença", "nous commençâmes", "vous commençâtes", "se commencèrent" ],
+  "futurSimple": [ "me commencerai", "te commenceras", "se commencera", "nous commencerons", "vous commencerez", "se commenceront" ],
+  "passeCompose": [ "me suis commencé(e)", "t'es commencé(e)", "s'est commencé(e)", "nous sommes commencé(e)s", "vous êtes commencé(e)(s)", "se sont commencé(e)s" ],
+  "plusQueParfait": [ "m'étais commencé(e)", "t'étais commencé(e)", "s'était commencé(e)", "nous étions commencé(e)s", "vous étiez commencé(e)(s)", "s'étaient commencé(e)s" ],
+  "passeAnterieur": [ "me fus commencé(e)", "te fus commencé(e)", "se fut commencé(e)", "nous fûmes commencé(e)s", "vous fûtes commencé(e)(s)", "se furent commencé(e)s" ],
+  "futurAnterieur": [ "me serai commencé(e)", "te seras commencé(e)", "se sera commencé(e)", "nous serons commencé(e)s", "vous serez commencé(e)(s)", "se seront commencé(e)s" ],
+  "subjonctifPresent": [ "me commence", "te commences", "se commence", "nous commencions", "vous commenciez", "se commencent" ],
+  "subjonctifImparfait": [ "me commençasse", "te commençasses", "se commençât", "nous commençassions", "vous commençassiez", "se commençassent" ],
+  "subjonctifPasse": [ "me sois commencé(e)", "te sois commencé(e)", "se soit commencé(e)", "nous soyons commencé(e)s", "vous soyez commencé(e)(s)", "se soient commencé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse commencé(e)", "te fusses commencé(e)", "se fût commencé(e)", "nous fussions commencé(e)s", "vous fussiez commencé(e)(s)", "se fussent commencé(e)s" ],
+  "conditionnelPresent": [ "me commencerais", "te commencerais", "se commencerait", "nous commencerions", "vous commenceriez", "se commenceraient" ],
+  "conditionnelPasse": [ "me serais commencé(e)", "te serais commencé(e)", "se serait commencé(e)", "nous serions commencé(e)s", "vous seriez commencé(e)(s)", "se seraient commencé(e)s" ],
+  "conditionnelPasseII": [ "me fusse commencé(e)", "te fusses commencé(e)", "se fût commencé(e)", "nous fussions commencé(e)s", "vous fussiez commencé(e)(s)", "se fussent commencé(e)s" ],
+  "imperatif": [ "–", "commence-toi !", "–", "commençons-nous !", "commencez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

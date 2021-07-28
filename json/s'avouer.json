@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'avouer",
+  "participePresent": "s'avouant",
+  "participePasse": "avoué",
+  "present": [ "m'avoue", "t'avoues", "s'avoue", "nous avouons", "vous avouez", "s'avouent" ],
+  "imparfait": [ "m'avouais", "t'avouais", "s'avouait", "nous avouions", "vous avouiez", "s'avouaient" ],
+  "passeSimple": [ "m'avouai", "t'avouas", "s'avoua", "nous avouâmes", "vous avouâtes", "s'avouèrent" ],
+  "futurSimple": [ "m'avouerai", "t'avoueras", "s'avouera", "nous avouerons", "vous avouerez", "s'avoueront" ],
+  "passeCompose": [ "me suis avoué(e)", "t'es avoué(e)", "s'est avoué(e)", "nous sommes avoué(e)s", "vous êtes avoué(e)(s)", "se sont avoué(e)s" ],
+  "plusQueParfait": [ "m'étais avoué(e)", "t'étais avoué(e)", "s'était avoué(e)", "nous étions avoué(e)s", "vous étiez avoué(e)(s)", "s'étaient avoué(e)s" ],
+  "passeAnterieur": [ "me fus avoué(e)", "te fus avoué(e)", "se fut avoué(e)", "nous fûmes avoué(e)s", "vous fûtes avoué(e)(s)", "se furent avoué(e)s" ],
+  "futurAnterieur": [ "me serai avoué(e)", "te seras avoué(e)", "se sera avoué(e)", "nous serons avoué(e)s", "vous serez avoué(e)(s)", "se seront avoué(e)s" ],
+  "subjonctifPresent": [ "m'avoue", "t'avoues", "s'avoue", "nous avouions", "vous avouiez", "s'avouent" ],
+  "subjonctifImparfait": [ "m'avouasse", "t'avouasses", "s'avouât", "nous avouassions", "vous avouassiez", "s'avouassent" ],
+  "subjonctifPasse": [ "me sois avoué(e)", "te sois avoué(e)", "se soit avoué(e)", "nous soyons avoué(e)s", "vous soyez avoué(e)(s)", "se soient avoué(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse avoué(e)", "te fusses avoué(e)", "se fût avoué(e)", "nous fussions avoué(e)s", "vous fussiez avoué(e)(s)", "se fussent avoué(e)s" ],
+  "conditionnelPresent": [ "m'avouerais", "t'avouerais", "s'avouerait", "nous avouerions", "vous avoueriez", "s'avoueraient" ],
+  "conditionnelPasse": [ "me serais avoué(e)", "te serais avoué(e)", "se serait avoué(e)", "nous serions avoué(e)s", "vous seriez avoué(e)(s)", "se seraient avoué(e)s" ],
+  "conditionnelPasseII": [ "me fusse avoué(e)", "te fusses avoué(e)", "se fût avoué(e)", "nous fussions avoué(e)s", "vous fussiez avoué(e)(s)", "se fussent avoué(e)s" ],
+  "imperatif": [ "–", "avoue-toi !", "–", "avouons-nous !", "avouez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

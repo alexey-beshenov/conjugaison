@@ -1,0 +1,22 @@
+{
+  "infinitif": "surveiller",
+  "participePresent": "surveillant",
+  "participePasse": "surveillé",
+  "present": [ "surveille", "surveilles", "surveille", "surveillons", "surveillez", "surveillent" ],
+  "imparfait": [ "surveillais", "surveillais", "surveillait", "surveillions", "surveilliez", "surveillaient" ],
+  "passeSimple": [ "surveillai", "surveillas", "surveilla", "surveillâmes", "surveillâtes", "surveillèrent" ],
+  "futurSimple": [ "surveillerai", "surveilleras", "surveillera", "surveillerons", "surveillerez", "surveilleront" ],
+  "passeCompose": [ "ai surveillé", "as surveillé", "a surveillé", "avons surveillé", "avez surveillé", "ont surveillé" ],
+  "plusQueParfait": [ "avais surveillé", "avais surveillé", "avait surveillé", "avions surveillé", "aviez surveillé", "avaient surveillé" ],
+  "passeAnterieur": [ "eus surveillé", "eus surveillé", "eut surveillé", "eûmes surveillé", "eûtes surveillé", "eurent surveillé" ],
+  "futurAnterieur": [ "aurai surveillé", "auras surveillé", "aura surveillé", "aurons surveillé", "aurez surveillé", "auront surveillé" ],
+  "subjonctifPresent": [ "surveille", "surveilles", "surveille", "surveillions", "surveilliez", "surveillent" ],
+  "subjonctifImparfait": [ "surveillasse", "surveillasses", "surveillât", "surveillassions", "surveillassiez", "surveillassent" ],
+  "subjonctifPasse": [ "aie surveillé", "aies surveillé", "ait surveillé", "ayons surveillé", "ayez surveillé", "aient surveillé" ],
+  "subjonctifPlusQueParfait": [ "eusse surveillé", "eusses surveillé", "eût surveillé", "eussions surveillé", "eussiez surveillé", "eussent surveillé" ],
+  "conditionnelPresent": [ "surveillerais", "surveillerais", "surveillerait", "surveillerions", "surveilleriez", "surveilleraient" ],
+  "conditionnelPasse": [ "aurais surveillé", "aurais surveillé", "aurait surveillé", "aurions surveillé", "auriez surveillé", "auraient surveillé" ],
+  "conditionnelPasseII": [ "eusse surveillé", "eusses surveillé", "eût surveillé", "eussions surveillé", "eussiez surveillé", "eussent surveillé" ],
+  "imperatif": [ "–", "surveille !", "–", "surveillons !", "surveillez !", "–" ],
+  "imperatifPasse": [ "–", "aie surveillé !", "–", "ayons surveillé !", "ayez surveillé !", "–" ]
+}

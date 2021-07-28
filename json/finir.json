@@ -1,0 +1,22 @@
+{
+  "infinitif": "finir",
+  "participePresent": "finissant",
+  "participePasse": "fini",
+  "present": [ "finis", "finis", "finit", "finissons", "finissez", "finissent" ],
+  "imparfait": [ "finissais", "finissais", "finissait", "finissions", "finissiez", "finissaient" ],
+  "passeSimple": [ "finis", "finis", "finit", "finîmes", "finîtes", "finirent" ],
+  "futurSimple": [ "finirai", "finiras", "finira", "finirons", "finirez", "finiront" ],
+  "passeCompose": [ "ai fini", "as fini", "a fini", "avons fini", "avez fini", "ont fini" ],
+  "plusQueParfait": [ "avais fini", "avais fini", "avait fini", "avions fini", "aviez fini", "avaient fini" ],
+  "passeAnterieur": [ "eus fini", "eus fini", "eut fini", "eûmes fini", "eûtes fini", "eurent fini" ],
+  "futurAnterieur": [ "aurai fini", "auras fini", "aura fini", "aurons fini", "aurez fini", "auront fini" ],
+  "subjonctifPresent": [ "finisse", "finisses", "finisse", "finissions", "finissiez", "finissent" ],
+  "subjonctifImparfait": [ "finisse", "finisses", "finît", "finissions", "finissiez", "finissent" ],
+  "subjonctifPasse": [ "aie fini", "aies fini", "ait fini", "ayons fini", "ayez fini", "aient fini" ],
+  "subjonctifPlusQueParfait": [ "eusse fini", "eusses fini", "eût fini", "eussions fini", "eussiez fini", "eussent fini" ],
+  "conditionnelPresent": [ "finirais", "finirais", "finirait", "finirions", "finiriez", "finiraient" ],
+  "conditionnelPasse": [ "aurais fini", "aurais fini", "aurait fini", "aurions fini", "auriez fini", "auraient fini" ],
+  "conditionnelPasseII": [ "eusse fini", "eusses fini", "eût fini", "eussions fini", "eussiez fini", "eussent fini" ],
+  "imperatif": [ "–", "finis !", "–", "finissons !", "finissez !", "–" ],
+  "imperatifPasse": [ "–", "aie fini !", "–", "ayons fini !", "ayez fini !", "–" ]
+}

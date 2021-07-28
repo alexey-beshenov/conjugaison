@@ -1,0 +1,22 @@
+{
+  "infinitif": "se répandre",
+  "participePresent": "se répandant",
+  "participePasse": "répandu",
+  "present": [ "me répands", "te répands", "se répand", "nous répandons", "vous répandez", "se répandent" ],
+  "imparfait": [ "me répandais", "te répandais", "se répandait", "nous répandions", "vous répandiez", "se répandaient" ],
+  "passeSimple": [ "me répandis", "te répandis", "se répandit", "nous répandîmes", "vous répandîtes", "se répandirent" ],
+  "futurSimple": [ "me répandrai", "te répandras", "se répandra", "nous répandrons", "vous répandrez", "se répandront" ],
+  "passeCompose": [ "me suis répandu(e)", "t'es répandu(e)", "s'est répandu(e)", "nous sommes répandu(e)s", "vous êtes répandu(e)(s)", "se sont répandu(e)s" ],
+  "plusQueParfait": [ "m'étais répandu(e)", "t'étais répandu(e)", "s'était répandu(e)", "nous étions répandu(e)s", "vous étiez répandu(e)(s)", "s'étaient répandu(e)s" ],
+  "passeAnterieur": [ "me fus répandu(e)", "te fus répandu(e)", "se fut répandu(e)", "nous fûmes répandu(e)s", "vous fûtes répandu(e)(s)", "se furent répandu(e)s" ],
+  "futurAnterieur": [ "me serai répandu(e)", "te seras répandu(e)", "se sera répandu(e)", "nous serons répandu(e)s", "vous serez répandu(e)(s)", "se seront répandu(e)s" ],
+  "subjonctifPresent": [ "me répande", "te répandes", "se répande", "nous répandions", "vous répandiez", "se répandent" ],
+  "subjonctifImparfait": [ "me répandisse", "te répandisses", "se répandît", "nous répandissions", "vous répandissiez", "se répandissent" ],
+  "subjonctifPasse": [ "me sois répandu(e)", "te sois répandu(e)", "se soit répandu(e)", "nous soyons répandu(e)s", "vous soyez répandu(e)(s)", "se soient répandu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse répandu(e)", "te fusses répandu(e)", "se fût répandu(e)", "nous fussions répandu(e)s", "vous fussiez répandu(e)(s)", "se fussent répandu(e)s" ],
+  "conditionnelPresent": [ "me répandrais", "te répandrais", "se répandrait", "nous répandrions", "vous répandriez", "se répandraient" ],
+  "conditionnelPasse": [ "me serais répandu(e)", "te serais répandu(e)", "se serait répandu(e)", "nous serions répandu(e)s", "vous seriez répandu(e)(s)", "se seraient répandu(e)s" ],
+  "conditionnelPasseII": [ "me fusse répandu(e)", "te fusses répandu(e)", "se fût répandu(e)", "nous fussions répandu(e)s", "vous fussiez répandu(e)(s)", "se fussent répandu(e)s" ],
+  "imperatif": [ "–", "répands-toi !", "–", "répandons-nous !", "répandez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

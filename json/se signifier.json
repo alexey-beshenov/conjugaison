@@ -1,0 +1,22 @@
+{
+  "infinitif": "se signifier",
+  "participePresent": "se signifiant",
+  "participePasse": "signifié",
+  "present": [ "me signifie", "te signifies", "se signifie", "nous signifions", "vous signifiez", "se signifient" ],
+  "imparfait": [ "me signifiais", "te signifiais", "se signifiait", "nous signifiions", "vous signifiiez", "se signifiaient" ],
+  "passeSimple": [ "me signifiai", "te signifias", "se signifia", "nous signifiâmes", "vous signifiâtes", "se signifièrent" ],
+  "futurSimple": [ "me signifierai", "te signifieras", "se signifiera", "nous signifierons", "vous signifierez", "se signifieront" ],
+  "passeCompose": [ "me suis signifié(e)", "t'es signifié(e)", "s'est signifié(e)", "nous sommes signifié(e)s", "vous êtes signifié(e)(s)", "se sont signifié(e)s" ],
+  "plusQueParfait": [ "m'étais signifié(e)", "t'étais signifié(e)", "s'était signifié(e)", "nous étions signifié(e)s", "vous étiez signifié(e)(s)", "s'étaient signifié(e)s" ],
+  "passeAnterieur": [ "me fus signifié(e)", "te fus signifié(e)", "se fut signifié(e)", "nous fûmes signifié(e)s", "vous fûtes signifié(e)(s)", "se furent signifié(e)s" ],
+  "futurAnterieur": [ "me serai signifié(e)", "te seras signifié(e)", "se sera signifié(e)", "nous serons signifié(e)s", "vous serez signifié(e)(s)", "se seront signifié(e)s" ],
+  "subjonctifPresent": [ "me signifie", "te signifies", "se signifie", "nous signifiions", "vous signifiiez", "se signifient" ],
+  "subjonctifImparfait": [ "me signifiasse", "te signifiasses", "se signifiât", "nous signifiassions", "vous signifiassiez", "se signifiassent" ],
+  "subjonctifPasse": [ "me sois signifié(e)", "te sois signifié(e)", "se soit signifié(e)", "nous soyons signifié(e)s", "vous soyez signifié(e)(s)", "se soient signifié(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse signifié(e)", "te fusses signifié(e)", "se fût signifié(e)", "nous fussions signifié(e)s", "vous fussiez signifié(e)(s)", "se fussent signifié(e)s" ],
+  "conditionnelPresent": [ "me signifierais", "te signifierais", "se signifierait", "nous signifierions", "vous signifieriez", "se signifieraient" ],
+  "conditionnelPasse": [ "me serais signifié(e)", "te serais signifié(e)", "se serait signifié(e)", "nous serions signifié(e)s", "vous seriez signifié(e)(s)", "se seraient signifié(e)s" ],
+  "conditionnelPasseII": [ "me fusse signifié(e)", "te fusses signifié(e)", "se fût signifié(e)", "nous fussions signifié(e)s", "vous fussiez signifié(e)(s)", "se fussent signifié(e)s" ],
+  "imperatif": [ "–", "signifie-toi !", "–", "signifions-nous !", "signifiez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

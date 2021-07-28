@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'entendre",
+  "participePresent": "s'entendant",
+  "participePasse": "entendu",
+  "present": [ "m'entends", "t'entends", "s'entend", "nous entendons", "vous entendez", "s'entendent" ],
+  "imparfait": [ "m'entendais", "t'entendais", "s'entendait", "nous entendions", "vous entendiez", "s'entendaient" ],
+  "passeSimple": [ "m'entendis", "t'entendis", "s'entendit", "nous entendîmes", "vous entendîtes", "s'entendirent" ],
+  "futurSimple": [ "m'entendrai", "t'entendras", "s'entendra", "nous entendrons", "vous entendrez", "s'entendront" ],
+  "passeCompose": [ "me suis entendu(e)", "t'es entendu(e)", "s'est entendu(e)", "nous sommes entendu(e)s", "vous êtes entendu(e)(s)", "se sont entendu(e)s" ],
+  "plusQueParfait": [ "m'étais entendu(e)", "t'étais entendu(e)", "s'était entendu(e)", "nous étions entendu(e)s", "vous étiez entendu(e)(s)", "s'étaient entendu(e)s" ],
+  "passeAnterieur": [ "me fus entendu(e)", "te fus entendu(e)", "se fut entendu(e)", "nous fûmes entendu(e)s", "vous fûtes entendu(e)(s)", "se furent entendu(e)s" ],
+  "futurAnterieur": [ "me serai entendu(e)", "te seras entendu(e)", "se sera entendu(e)", "nous serons entendu(e)s", "vous serez entendu(e)(s)", "se seront entendu(e)s" ],
+  "subjonctifPresent": [ "m'entende", "t'entendes", "s'entende", "nous entendions", "vous entendiez", "s'entendent" ],
+  "subjonctifImparfait": [ "m'entendisse", "t'entendisses", "s'entendît", "nous entendissions", "vous entendissiez", "s'entendissent" ],
+  "subjonctifPasse": [ "me sois entendu(e)", "te sois entendu(e)", "se soit entendu(e)", "nous soyons entendu(e)s", "vous soyez entendu(e)(s)", "se soient entendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse entendu(e)", "te fusses entendu(e)", "se fût entendu(e)", "nous fussions entendu(e)s", "vous fussiez entendu(e)(s)", "se fussent entendu(e)s" ],
+  "conditionnelPresent": [ "m'entendrais", "t'entendrais", "s'entendrait", "nous entendrions", "vous entendriez", "s'entendraient" ],
+  "conditionnelPasse": [ "me serais entendu(e)", "te serais entendu(e)", "se serait entendu(e)", "nous serions entendu(e)s", "vous seriez entendu(e)(s)", "se seraient entendu(e)s" ],
+  "conditionnelPasseII": [ "me fusse entendu(e)", "te fusses entendu(e)", "se fût entendu(e)", "nous fussions entendu(e)s", "vous fussiez entendu(e)(s)", "se fussent entendu(e)s" ],
+  "imperatif": [ "–", "entends-toi !", "–", "entendons-nous !", "entendez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "taire",
+  "participePresent": "taisant",
+  "participePasse": "tu",
+  "present": [ "tais", "tais", "tait", "taisons", "taisez", "taisent" ],
+  "imparfait": [ "taisais", "taisais", "taisait", "taisions", "taisiez", "taisaient" ],
+  "passeSimple": [ "tus", "tus", "tut", "tûmes", "tûtes", "turent" ],
+  "futurSimple": [ "tairai", "tairas", "taira", "tairons", "tairez", "tairont" ],
+  "passeCompose": [ "ai tu", "as tu", "a tu", "avons tu", "avez tu", "ont tu" ],
+  "plusQueParfait": [ "avais tu", "avais tu", "avait tu", "avions tu", "aviez tu", "avaient tu" ],
+  "passeAnterieur": [ "eus tu", "eus tu", "eut tu", "eûmes tu", "eûtes tu", "eurent tu" ],
+  "futurAnterieur": [ "aurai tu", "auras tu", "aura tu", "aurons tu", "aurez tu", "auront tu" ],
+  "subjonctifPresent": [ "taise", "taises", "taise", "taisions", "taisiez", "taisent" ],
+  "subjonctifImparfait": [ "tusse", "tusses", "tût", "tussions", "tussiez", "tussent" ],
+  "subjonctifPasse": [ "aie tu", "aies tu", "ait tu", "ayons tu", "ayez tu", "aient tu" ],
+  "subjonctifPlusQueParfait": [ "eusse tu", "eusses tu", "eût tu", "eussions tu", "eussiez tu", "eussent tu" ],
+  "conditionnelPresent": [ "tairais", "tairais", "tairait", "tairions", "tairiez", "tairaient" ],
+  "conditionnelPasse": [ "aurais tu", "aurais tu", "aurait tu", "aurions tu", "auriez tu", "auraient tu" ],
+  "conditionnelPasseII": [ "eusse tu", "eusses tu", "eût tu", "eussions tu", "eussiez tu", "eussent tu" ],
+  "imperatif": [ "–", "tais !", "–", "taisons !", "taisez !", "–" ],
+  "imperatifPasse": [ "–", "aie tu !", "–", "ayons tu !", "ayez tu !", "–" ]
+}

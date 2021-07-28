@@ -1,0 +1,22 @@
+{
+  "infinitif": "plonger",
+  "participePresent": "plongeant",
+  "participePasse": "plongé",
+  "present": [ "plonge", "plonges", "plonge", "plongeons", "plongez", "plongent" ],
+  "imparfait": [ "plongeais", "plongeais", "plongeait", "plongions", "plongiez", "plongeaient" ],
+  "passeSimple": [ "plongeai", "plongeas", "plongea", "plongeâmes", "plongeâtes", "plongèrent" ],
+  "futurSimple": [ "plongerai", "plongeras", "plongera", "plongerons", "plongerez", "plongeront" ],
+  "passeCompose": [ "ai plongé", "as plongé", "a plongé", "avons plongé", "avez plongé", "ont plongé" ],
+  "plusQueParfait": [ "avais plongé", "avais plongé", "avait plongé", "avions plongé", "aviez plongé", "avaient plongé" ],
+  "passeAnterieur": [ "eus plongé", "eus plongé", "eut plongé", "eûmes plongé", "eûtes plongé", "eurent plongé" ],
+  "futurAnterieur": [ "aurai plongé", "auras plongé", "aura plongé", "aurons plongé", "aurez plongé", "auront plongé" ],
+  "subjonctifPresent": [ "plonge", "plonges", "plonge", "plongions", "plongiez", "plongent" ],
+  "subjonctifImparfait": [ "plongeasse", "plongeasses", "plongeât", "plongeassions", "plongeassiez", "plongeassent" ],
+  "subjonctifPasse": [ "aie plongé", "aies plongé", "ait plongé", "ayons plongé", "ayez plongé", "aient plongé" ],
+  "subjonctifPlusQueParfait": [ "eusse plongé", "eusses plongé", "eût plongé", "eussions plongé", "eussiez plongé", "eussent plongé" ],
+  "conditionnelPresent": [ "plongerais", "plongerais", "plongerait", "plongerions", "plongeriez", "plongeraient" ],
+  "conditionnelPasse": [ "aurais plongé", "aurais plongé", "aurait plongé", "aurions plongé", "auriez plongé", "auraient plongé" ],
+  "conditionnelPasseII": [ "eusse plongé", "eusses plongé", "eût plongé", "eussions plongé", "eussiez plongé", "eussent plongé" ],
+  "imperatif": [ "–", "plonge !", "–", "plongeons !", "plongez !", "–" ],
+  "imperatifPasse": [ "–", "aie plongé !", "–", "ayons plongé !", "ayez plongé !", "–" ]
+}

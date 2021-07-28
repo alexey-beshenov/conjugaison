@@ -1,0 +1,22 @@
+{
+  "infinitif": "traiter",
+  "participePresent": "traitant",
+  "participePasse": "traité",
+  "present": [ "traite", "traites", "traite", "traitons", "traitez", "traitent" ],
+  "imparfait": [ "traitais", "traitais", "traitait", "traitions", "traitiez", "traitaient" ],
+  "passeSimple": [ "traitai", "traitas", "traita", "traitâmes", "traitâtes", "traitèrent" ],
+  "futurSimple": [ "traiterai", "traiteras", "traitera", "traiterons", "traiterez", "traiteront" ],
+  "passeCompose": [ "ai traité", "as traité", "a traité", "avons traité", "avez traité", "ont traité" ],
+  "plusQueParfait": [ "avais traité", "avais traité", "avait traité", "avions traité", "aviez traité", "avaient traité" ],
+  "passeAnterieur": [ "eus traité", "eus traité", "eut traité", "eûmes traité", "eûtes traité", "eurent traité" ],
+  "futurAnterieur": [ "aurai traité", "auras traité", "aura traité", "aurons traité", "aurez traité", "auront traité" ],
+  "subjonctifPresent": [ "traite", "traites", "traite", "traitions", "traitiez", "traitent" ],
+  "subjonctifImparfait": [ "traitasse", "traitasses", "traitât", "traitassions", "traitassiez", "traitassent" ],
+  "subjonctifPasse": [ "aie traité", "aies traité", "ait traité", "ayons traité", "ayez traité", "aient traité" ],
+  "subjonctifPlusQueParfait": [ "eusse traité", "eusses traité", "eût traité", "eussions traité", "eussiez traité", "eussent traité" ],
+  "conditionnelPresent": [ "traiterais", "traiterais", "traiterait", "traiterions", "traiteriez", "traiteraient" ],
+  "conditionnelPasse": [ "aurais traité", "aurais traité", "aurait traité", "aurions traité", "auriez traité", "auraient traité" ],
+  "conditionnelPasseII": [ "eusse traité", "eusses traité", "eût traité", "eussions traité", "eussiez traité", "eussent traité" ],
+  "imperatif": [ "–", "traite !", "–", "traitons !", "traitez !", "–" ],
+  "imperatifPasse": [ "–", "aie traité !", "–", "ayons traité !", "ayez traité !", "–" ]
+}

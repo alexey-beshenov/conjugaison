@@ -1,0 +1,22 @@
+{
+  "infinitif": "se dire",
+  "participePresent": "se disant",
+  "participePasse": "dit",
+  "present": [ "me dis", "te dis", "se dit", "nous disons", "vous dites", "se disent" ],
+  "imparfait": [ "me disais", "te disais", "se disait", "nous disions", "vous disiez", "se disaient" ],
+  "passeSimple": [ "me dis", "te dis", "se dit", "nous dîmes", "vous dîtes", "se dirent" ],
+  "futurSimple": [ "me dirai", "te diras", "se dira", "nous dirons", "vous direz", "se diront" ],
+  "passeCompose": [ "me suis dit", "t'es dit", "s'est dit", "nous sommes dit", "vous êtes dit", "se sont dit" ],
+  "plusQueParfait": [ "m'étais dit", "t'étais dit", "s'était dit", "nous étions dit", "vous étiez dit", "s'étaient dit" ],
+  "passeAnterieur": [ "me fus dit", "te fus dit", "se fut dit", "nous fûmes dit", "vous fûtes dit", "se furent dit" ],
+  "futurAnterieur": [ "me serai dit", "te seras dit", "se sera dit", "nous serons dit", "vous serez dit", "se seront dit" ],
+  "subjonctifPresent": [ "me dise", "te dises", "se dise", "nous disions", "vous disiez", "se disent" ],
+  "subjonctifImparfait": [ "me disse", "te disses", "se dît", "nous dissions", "vous dissiez", "se dissent" ],
+  "subjonctifPasse": [ "me sois dit", "te sois dit", "se soit dit", "nous soyons dit", "vous soyez dit", "se soient dit" ],
+  "subjonctifPlusQueParfait": [ "me fusse dit", "te fusses dit", "se fût dit", "nous fussions dit", "vous fussiez dit", "se fussent dit" ],
+  "conditionnelPresent": [ "me dirais", "te dirais", "se dirait", "nous dirions", "vous diriez", "se diraient" ],
+  "conditionnelPasse": [ "me serais dit", "te serais dit", "se serait dit", "nous serions dit", "vous seriez dit", "se seraient dit" ],
+  "conditionnelPasseII": [ "me fusse dit", "te fusses dit", "se fût dit", "nous fussions dit", "vous fussiez dit", "se fussent dit" ],
+  "imperatif": [ "–", "dis-toi !", "–", "disons-nous !", "dites-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

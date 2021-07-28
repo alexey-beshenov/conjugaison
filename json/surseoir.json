@@ -1,0 +1,22 @@
+{
+  "infinitif": "surseoir",
+  "participePresent": "sursoyant",
+  "participePasse": "sursis",
+  "present": [ "sursois", "sursois", "sursoit", "sursoyons", "sursoyez", "sursoient" ],
+  "imparfait": [ "sursoyais", "sursoyais", "sursoyait", "sursoyions", "sursoyiez", "sursoyaient" ],
+  "passeSimple": [ "sursis", "sursis", "sursit", "sursîmes", "sursîtes", "sursirent" ],
+  "futurSimple": [ "surseoirai", "surseoiras", "surseoira", "surseoirons", "surseoirez", "surseoiront" ],
+  "passeCompose": [ "ai sursis", "as sursis", "a sursis", "avons sursis", "avez sursis", "ont sursis" ],
+  "plusQueParfait": [ "avais sursis", "avais sursis", "avait sursis", "avions sursis", "aviez sursis", "avaient sursis" ],
+  "passeAnterieur": [ "eus sursis", "eus sursis", "eut sursis", "eûmes sursis", "eûtes sursis", "eurent sursis" ],
+  "futurAnterieur": [ "aurai sursis", "auras sursis", "aura sursis", "aurons sursis", "aurez sursis", "auront sursis" ],
+  "subjonctifPresent": [ "sursoie", "sursoies", "sursoie", "sursoyions", "sursoyiez", "sursoient" ],
+  "subjonctifImparfait": [ "sursisse", "sursisses", "sursît", "sursissions", "sursissiez", "sursissent" ],
+  "subjonctifPasse": [ "aie sursis", "aies sursis", "ait sursis", "ayons sursis", "ayez sursis", "aient sursis" ],
+  "subjonctifPlusQueParfait": [ "eusse sursis", "eusses sursis", "eût sursis", "eussions sursis", "eussiez sursis", "eussent sursis" ],
+  "conditionnelPresent": [ "surseoirais", "surseoirais", "surseoirait", "surseoirions", "surseoiriez", "surseoiraient" ],
+  "conditionnelPasse": [ "aurais sursis", "aurais sursis", "aurait sursis", "aurions sursis", "auriez sursis", "auraient sursis" ],
+  "conditionnelPasseII": [ "eusse sursis", "eusses sursis", "eût sursis", "eussions sursis", "eussiez sursis", "eussent sursis" ],
+  "imperatif": [ "–", "sursois !", "–", "sursoyons !", "sursoyez !", "–" ],
+  "imperatifPasse": [ "–", "aie sursis !", "–", "ayons sursis !", "ayez sursis !", "–" ]
+}

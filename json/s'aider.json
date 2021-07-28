@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'aider",
+  "participePresent": "s'aidant",
+  "participePasse": "aidé",
+  "present": [ "m'aide", "t'aides", "s'aide", "nous aidons", "vous aidez", "s'aident" ],
+  "imparfait": [ "m'aidais", "t'aidais", "s'aidait", "nous aidions", "vous aidiez", "s'aidaient" ],
+  "passeSimple": [ "m'aidai", "t'aidas", "s'aida", "nous aidâmes", "vous aidâtes", "s'aidèrent" ],
+  "futurSimple": [ "m'aiderai", "t'aideras", "s'aidera", "nous aiderons", "vous aiderez", "s'aideront" ],
+  "passeCompose": [ "me suis aidé(e)", "t'es aidé(e)", "s'est aidé(e)", "nous sommes aidé(e)s", "vous êtes aidé(e)(s)", "se sont aidé(e)s" ],
+  "plusQueParfait": [ "m'étais aidé(e)", "t'étais aidé(e)", "s'était aidé(e)", "nous étions aidé(e)s", "vous étiez aidé(e)(s)", "s'étaient aidé(e)s" ],
+  "passeAnterieur": [ "me fus aidé(e)", "te fus aidé(e)", "se fut aidé(e)", "nous fûmes aidé(e)s", "vous fûtes aidé(e)(s)", "se furent aidé(e)s" ],
+  "futurAnterieur": [ "me serai aidé(e)", "te seras aidé(e)", "se sera aidé(e)", "nous serons aidé(e)s", "vous serez aidé(e)(s)", "se seront aidé(e)s" ],
+  "subjonctifPresent": [ "m'aide", "t'aides", "s'aide", "nous aidions", "vous aidiez", "s'aident" ],
+  "subjonctifImparfait": [ "m'aidasse", "t'aidasses", "s'aidât", "nous aidassions", "vous aidassiez", "s'aidassent" ],
+  "subjonctifPasse": [ "me sois aidé(e)", "te sois aidé(e)", "se soit aidé(e)", "nous soyons aidé(e)s", "vous soyez aidé(e)(s)", "se soient aidé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse aidé(e)", "te fusses aidé(e)", "se fût aidé(e)", "nous fussions aidé(e)s", "vous fussiez aidé(e)(s)", "se fussent aidé(e)s" ],
+  "conditionnelPresent": [ "m'aiderais", "t'aiderais", "s'aiderait", "nous aiderions", "vous aideriez", "s'aideraient" ],
+  "conditionnelPasse": [ "me serais aidé(e)", "te serais aidé(e)", "se serait aidé(e)", "nous serions aidé(e)s", "vous seriez aidé(e)(s)", "se seraient aidé(e)s" ],
+  "conditionnelPasseII": [ "me fusse aidé(e)", "te fusses aidé(e)", "se fût aidé(e)", "nous fussions aidé(e)s", "vous fussiez aidé(e)(s)", "se fussent aidé(e)s" ],
+  "imperatif": [ "–", "aide-toi !", "–", "aidons-nous !", "aidez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se répondre",
+  "participePresent": "se répondant",
+  "participePasse": "répondu",
+  "present": [ "me réponds", "te réponds", "se répond", "nous répondons", "vous répondez", "se répondent" ],
+  "imparfait": [ "me répondais", "te répondais", "se répondait", "nous répondions", "vous répondiez", "se répondaient" ],
+  "passeSimple": [ "me répondis", "te répondis", "se répondit", "nous répondîmes", "vous répondîtes", "se répondirent" ],
+  "futurSimple": [ "me répondrai", "te répondras", "se répondra", "nous répondrons", "vous répondrez", "se répondront" ],
+  "passeCompose": [ "me suis répondu", "t'es répondu", "s'est répondu", "nous sommes répondu", "vous êtes répondu", "se sont répondu" ],
+  "plusQueParfait": [ "m'étais répondu", "t'étais répondu", "s'était répondu", "nous étions répondu", "vous étiez répondu", "s'étaient répondu" ],
+  "passeAnterieur": [ "me fus répondu", "te fus répondu", "se fut répondu", "nous fûmes répondu", "vous fûtes répondu", "se furent répondu" ],
+  "futurAnterieur": [ "me serai répondu", "te seras répondu", "se sera répondu", "nous serons répondu", "vous serez répondu", "se seront répondu" ],
+  "subjonctifPresent": [ "me réponde", "te répondes", "se réponde", "nous répondions", "vous répondiez", "se répondent" ],
+  "subjonctifImparfait": [ "me répondisse", "te répondisses", "se répondît", "nous répondissions", "vous répondissiez", "se répondissent" ],
+  "subjonctifPasse": [ "me sois répondu", "te sois répondu", "se soit répondu", "nous soyons répondu", "vous soyez répondu", "se soient répondu" ],
+  "subjonctifPlusQueParfait": [ "me fusse répondu", "te fusses répondu", "se fût répondu", "nous fussions répondu", "vous fussiez répondu", "se fussent répondu" ],
+  "conditionnelPresent": [ "me répondrais", "te répondrais", "se répondrait", "nous répondrions", "vous répondriez", "se répondraient" ],
+  "conditionnelPasse": [ "me serais répondu", "te serais répondu", "se serait répondu", "nous serions répondu", "vous seriez répondu", "se seraient répondu" ],
+  "conditionnelPasseII": [ "me fusse répondu", "te fusses répondu", "se fût répondu", "nous fussions répondu", "vous fussiez répondu", "se fussent répondu" ],
+  "imperatif": [ "–", "réponds-toi !", "–", "répondons-nous !", "répondez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

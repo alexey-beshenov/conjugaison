@@ -1,0 +1,22 @@
+{
+  "infinitif": "étaler",
+  "participePresent": "étalant",
+  "participePasse": "étalé",
+  "present": [ "étale", "étales", "étale", "étalons", "étalez", "étalent" ],
+  "imparfait": [ "étalais", "étalais", "étalait", "étalions", "étaliez", "étalaient" ],
+  "passeSimple": [ "étalai", "étalas", "étala", "étalâmes", "étalâtes", "étalèrent" ],
+  "futurSimple": [ "étalerai", "étaleras", "étalera", "étalerons", "étalerez", "étaleront" ],
+  "passeCompose": [ "ai étalé", "as étalé", "a étalé", "avons étalé", "avez étalé", "ont étalé" ],
+  "plusQueParfait": [ "avais étalé", "avais étalé", "avait étalé", "avions étalé", "aviez étalé", "avaient étalé" ],
+  "passeAnterieur": [ "eus étalé", "eus étalé", "eut étalé", "eûmes étalé", "eûtes étalé", "eurent étalé" ],
+  "futurAnterieur": [ "aurai étalé", "auras étalé", "aura étalé", "aurons étalé", "aurez étalé", "auront étalé" ],
+  "subjonctifPresent": [ "étale", "étales", "étale", "étalions", "étaliez", "étalent" ],
+  "subjonctifImparfait": [ "étalasse", "étalasses", "étalât", "étalassions", "étalassiez", "étalassent" ],
+  "subjonctifPasse": [ "aie étalé", "aies étalé", "ait étalé", "ayons étalé", "ayez étalé", "aient étalé" ],
+  "subjonctifPlusQueParfait": [ "eusse étalé", "eusses étalé", "eût étalé", "eussions étalé", "eussiez étalé", "eussent étalé" ],
+  "conditionnelPresent": [ "étalerais", "étalerais", "étalerait", "étalerions", "étaleriez", "étaleraient" ],
+  "conditionnelPasse": [ "aurais étalé", "aurais étalé", "aurait étalé", "aurions étalé", "auriez étalé", "auraient étalé" ],
+  "conditionnelPasseII": [ "eusse étalé", "eusses étalé", "eût étalé", "eussions étalé", "eussiez étalé", "eussent étalé" ],
+  "imperatif": [ "–", "étale !", "–", "étalons !", "étalez !", "–" ],
+  "imperatifPasse": [ "–", "aie étalé !", "–", "ayons étalé !", "ayez étalé !", "–" ]
+}

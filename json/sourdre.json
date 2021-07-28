@@ -1,0 +1,17 @@
+{
+  "infinitif": "sourdre",
+  "participePresent": "–",
+  "participePasse": "–",
+  "present": [ "–", "–", "sourd", "–", "–", "sourdent" ],
+  "imparfait": [ "–", "–", "sourdait", "–", "–", "sourdaient" ],
+  "passeSimple": [ "–", "–", "sourdit", "–", "–", "sourdirent" ],
+  "futurSimple": [ "–", "–", "sourdra", "–", "–", "sourdront" ],
+  "subjonctifPresent": [ "–", "–", "sourde", "–", "–", "sourdent" ],
+  "subjonctifImparfait": [ "–", "–", "sourdît", "–", "–", "sourdissent" ],
+  "subjonctifPresent": [ "–", "–", "sourdrait", "–", "–", "sourdraient" ],
+  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPresent": [ "–", "–", "sourde", "–", "–", "sourdent" ],
+  "subjonctifImparfait": [ "–", "–", "sourdît", "–", "–", "sourdissent" ],
+  "conditionnelPresent": [ "–", "–", "sourdrait", "–", "–", "sourdraient" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ]
+}

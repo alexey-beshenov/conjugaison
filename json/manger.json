@@ -1,0 +1,22 @@
+{
+  "infinitif": "manger",
+  "participePresent": "mangeant",
+  "participePasse": "mangé",
+  "present": [ "mange", "manges", "mange", "mangeons", "mangez", "mangent" ],
+  "imparfait": [ "mangeais", "mangeais", "mangeait", "mangions", "mangiez", "mangeaient" ],
+  "passeSimple": [ "mangeai", "mangeas", "mangea", "mangeâmes", "mangeâtes", "mangèrent" ],
+  "futurSimple": [ "mangerai", "mangeras", "mangera", "mangerons", "mangerez", "mangeront" ],
+  "passeCompose": [ "ai mangé", "as mangé", "a mangé", "avons mangé", "avez mangé", "ont mangé" ],
+  "plusQueParfait": [ "avais mangé", "avais mangé", "avait mangé", "avions mangé", "aviez mangé", "avaient mangé" ],
+  "passeAnterieur": [ "eus mangé", "eus mangé", "eut mangé", "eûmes mangé", "eûtes mangé", "eurent mangé" ],
+  "futurAnterieur": [ "aurai mangé", "auras mangé", "aura mangé", "aurons mangé", "aurez mangé", "auront mangé" ],
+  "subjonctifPresent": [ "mange", "manges", "mange", "mangions", "mangiez", "mangent" ],
+  "subjonctifImparfait": [ "mangeasse", "mangeasses", "mangeât", "mangeassions", "mangeassiez", "mangeassent" ],
+  "subjonctifPasse": [ "aie mangé", "aies mangé", "ait mangé", "ayons mangé", "ayez mangé", "aient mangé" ],
+  "subjonctifPlusQueParfait": [ "eusse mangé", "eusses mangé", "eût mangé", "eussions mangé", "eussiez mangé", "eussent mangé" ],
+  "conditionnelPresent": [ "mangerais", "mangerais", "mangerait", "mangerions", "mangeriez", "mangeraient" ],
+  "conditionnelPasse": [ "aurais mangé", "aurais mangé", "aurait mangé", "aurions mangé", "auriez mangé", "auraient mangé" ],
+  "conditionnelPasseII": [ "eusse mangé", "eusses mangé", "eût mangé", "eussions mangé", "eussiez mangé", "eussent mangé" ],
+  "imperatif": [ "–", "mange !", "–", "mangeons !", "mangez !", "–" ],
+  "imperatifPasse": [ "–", "aie mangé !", "–", "ayons mangé !", "ayez mangé !", "–" ]
+}

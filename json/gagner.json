@@ -1,0 +1,22 @@
+{
+  "infinitif": "gagner",
+  "participePresent": "gagnant",
+  "participePasse": "gagné",
+  "present": [ "gagne", "gagnes", "gagne", "gagnons", "gagnez", "gagnent" ],
+  "imparfait": [ "gagnais", "gagnais", "gagnait", "gagnions", "gagniez", "gagnaient" ],
+  "passeSimple": [ "gagnai", "gagnas", "gagna", "gagnâmes", "gagnâtes", "gagnèrent" ],
+  "futurSimple": [ "gagnerai", "gagneras", "gagnera", "gagnerons", "gagnerez", "gagneront" ],
+  "passeCompose": [ "ai gagné", "as gagné", "a gagné", "avons gagné", "avez gagné", "ont gagné" ],
+  "plusQueParfait": [ "avais gagné", "avais gagné", "avait gagné", "avions gagné", "aviez gagné", "avaient gagné" ],
+  "passeAnterieur": [ "eus gagné", "eus gagné", "eut gagné", "eûmes gagné", "eûtes gagné", "eurent gagné" ],
+  "futurAnterieur": [ "aurai gagné", "auras gagné", "aura gagné", "aurons gagné", "aurez gagné", "auront gagné" ],
+  "subjonctifPresent": [ "gagne", "gagnes", "gagne", "gagnions", "gagniez", "gagnent" ],
+  "subjonctifImparfait": [ "gagnasse", "gagnasses", "gagnât", "gagnassions", "gagnassiez", "gagnassent" ],
+  "subjonctifPasse": [ "aie gagné", "aies gagné", "ait gagné", "ayons gagné", "ayez gagné", "aient gagné" ],
+  "subjonctifPlusQueParfait": [ "eusse gagné", "eusses gagné", "eût gagné", "eussions gagné", "eussiez gagné", "eussent gagné" ],
+  "conditionnelPresent": [ "gagnerais", "gagnerais", "gagnerait", "gagnerions", "gagneriez", "gagneraient" ],
+  "conditionnelPasse": [ "aurais gagné", "aurais gagné", "aurait gagné", "aurions gagné", "auriez gagné", "auraient gagné" ],
+  "conditionnelPasseII": [ "eusse gagné", "eusses gagné", "eût gagné", "eussions gagné", "eussiez gagné", "eussent gagné" ],
+  "imperatif": [ "–", "gagne !", "–", "gagnons !", "gagnez !", "–" ],
+  "imperatifPasse": [ "–", "aie gagné !", "–", "ayons gagné !", "ayez gagné !", "–" ]
+}

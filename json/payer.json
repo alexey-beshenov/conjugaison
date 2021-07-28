@@ -1,0 +1,22 @@
+{
+  "infinitif": "payer",
+  "participePresent": "payant",
+  "participePasse": "payé",
+  "present": [ "paie, paye", "paies, payes", "paie, paye", "payons", "payez", "paient, payent" ],
+  "imparfait": [ "payais", "payais", "payait", "payions", "payiez", "payaient" ],
+  "passeSimple": [ "payai", "payas", "paya", "payâmes", "payâtes", "payèrent" ],
+  "futurSimple": [ "paierai, payerai", "paieras, payeras", "paiera, payera", "paierons, payerons", "paierez, payerez", "paieront, payeront" ],
+  "passeCompose": [ "ai payé", "as payé", "a payé", "avons payé", "avez payé", "ont payé" ],
+  "plusQueParfait": [ "avais payé", "avais payé", "avait payé", "avions payé", "aviez payé", "avaient payé" ],
+  "passeAnterieur": [ "eus payé", "eus payé", "eut payé", "eûmes payé", "eûtes payé", "eurent payé" ],
+  "futurAnterieur": [ "aurai payé", "auras payé", "aura payé", "aurons payé", "aurez payé", "auront payé" ],
+  "subjonctifPresent": [ "paie, paye", "paies, payes", "paie, paye", "payions", "payiez", "paient, payent" ],
+  "subjonctifImparfait": [ "payasse", "payasses", "payât", "payassions", "payassiez", "payassent" ],
+  "subjonctifPasse": [ "aie payé", "aies payé", "ait payé", "ayons payé", "ayez payé", "aient payé" ],
+  "subjonctifPlusQueParfait": [ "eusse payé", "eusses payé", "eût payé", "eussions payé", "eussiez payé", "eussent payé" ],
+  "conditionnelPresent": [ "paierais, payerais", "paierais, payerais", "paierait, payerait", "paierions, payerions", "paieriez, payeriez", "paieraient, payeraient" ],
+  "conditionnelPasse": [ "aurais payé", "aurais payé", "aurait payé", "aurions payé", "auriez payé", "auraient payé" ],
+  "conditionnelPasseII": [ "eusse payé", "eusses payé", "eût payé", "eussions payé", "eussiez payé", "eussent payé" ],
+  "imperatif": [ "–", "paie, paye !", "–", "payons !", "payez !", "–" ],
+  "imperatifPasse": [ "–", "aie payé !", "–", "ayons payé !", "ayez payé !", "–" ]
+}

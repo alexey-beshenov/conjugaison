@@ -1,0 +1,22 @@
+{
+  "infinitif": "se prouver",
+  "participePresent": "se prouvant",
+  "participePasse": "prouvé",
+  "present": [ "me prouve", "te prouves", "se prouve", "nous prouvons", "vous prouvez", "se prouvent" ],
+  "imparfait": [ "me prouvais", "te prouvais", "se prouvait", "nous prouvions", "vous prouviez", "se prouvaient" ],
+  "passeSimple": [ "me prouvai", "te prouvas", "se prouva", "nous prouvâmes", "vous prouvâtes", "se prouvèrent" ],
+  "futurSimple": [ "me prouverai", "te prouveras", "se prouvera", "nous prouverons", "vous prouverez", "se prouveront" ],
+  "passeCompose": [ "me suis prouvé(e)", "t'es prouvé(e)", "s'est prouvé(e)", "nous sommes prouvé(e)s", "vous êtes prouvé(e)(s)", "se sont prouvé(e)s" ],
+  "plusQueParfait": [ "m'étais prouvé(e)", "t'étais prouvé(e)", "s'était prouvé(e)", "nous étions prouvé(e)s", "vous étiez prouvé(e)(s)", "s'étaient prouvé(e)s" ],
+  "passeAnterieur": [ "me fus prouvé(e)", "te fus prouvé(e)", "se fut prouvé(e)", "nous fûmes prouvé(e)s", "vous fûtes prouvé(e)(s)", "se furent prouvé(e)s" ],
+  "futurAnterieur": [ "me serai prouvé(e)", "te seras prouvé(e)", "se sera prouvé(e)", "nous serons prouvé(e)s", "vous serez prouvé(e)(s)", "se seront prouvé(e)s" ],
+  "subjonctifPresent": [ "me prouve", "te prouves", "se prouve", "nous prouvions", "vous prouviez", "se prouvent" ],
+  "subjonctifImparfait": [ "me prouvasse", "te prouvasses", "se prouvât", "nous prouvassions", "vous prouvassiez", "se prouvassent" ],
+  "subjonctifPasse": [ "me sois prouvé(e)", "te sois prouvé(e)", "se soit prouvé(e)", "nous soyons prouvé(e)s", "vous soyez prouvé(e)(s)", "se soient prouvé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse prouvé(e)", "te fusses prouvé(e)", "se fût prouvé(e)", "nous fussions prouvé(e)s", "vous fussiez prouvé(e)(s)", "se fussent prouvé(e)s" ],
+  "conditionnelPresent": [ "me prouverais", "te prouverais", "se prouverait", "nous prouverions", "vous prouveriez", "se prouveraient" ],
+  "conditionnelPasse": [ "me serais prouvé(e)", "te serais prouvé(e)", "se serait prouvé(e)", "nous serions prouvé(e)s", "vous seriez prouvé(e)(s)", "se seraient prouvé(e)s" ],
+  "conditionnelPasseII": [ "me fusse prouvé(e)", "te fusses prouvé(e)", "se fût prouvé(e)", "nous fussions prouvé(e)s", "vous fussiez prouvé(e)(s)", "se fussent prouvé(e)s" ],
+  "imperatif": [ "–", "prouve-toi !", "–", "prouvons-nous !", "prouvez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

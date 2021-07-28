@@ -1,0 +1,22 @@
+{
+  "infinitif": "se vouloir",
+  "participePresent": "se voulant",
+  "participePasse": "voulu",
+  "present": [ "me veux", "te veux", "se veut", "nous voulons", "vous voulez", "se veulent" ],
+  "imparfait": [ "me voulais", "te voulais", "se voulait", "nous voulions", "vous vouliez", "se voulaient" ],
+  "passeSimple": [ "me voulus", "te voulus", "se voulut", "nous voulûmes", "vous voulûtes", "se voulurent" ],
+  "futurSimple": [ "me voudrai", "te voudras", "se voudra", "nous voudrons", "vous voudrez", "se voudront" ],
+  "passeCompose": [ "me suis voulu(e)", "t'es voulu(e)", "s'est voulu(e)", "nous sommes voulu(e)s", "vous êtes voulu(e)(s)", "se sont voulu(e)s" ],
+  "plusQueParfait": [ "m'étais voulu(e)", "t'étais voulu(e)", "s'était voulu(e)", "nous étions voulu(e)s", "vous étiez voulu(e)(s)", "s'étaient voulu(e)s" ],
+  "passeAnterieur": [ "me fus voulu(e)", "te fus voulu(e)", "se fut voulu(e)", "nous fûmes voulu(e)s", "vous fûtes voulu(e)(s)", "se furent voulu(e)s" ],
+  "futurAnterieur": [ "me serai voulu(e)", "te seras voulu(e)", "se sera voulu(e)", "nous serons voulu(e)s", "vous serez voulu(e)(s)", "se seront voulu(e)s" ],
+  "subjonctifPresent": [ "me veuille", "te veuilles", "se veuille", "nous voulions", "vous vouliez", "se veuillent" ],
+  "subjonctifImparfait": [ "me voulusse", "te voulusses", "se voulût", "nous voulussions", "vous voulussiez", "se voulussent" ],
+  "subjonctifPasse": [ "me sois voulu(e)", "te sois voulu(e)", "se soit voulu(e)", "nous soyons voulu(e)s", "vous soyez voulu(e)(s)", "se soient voulu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse voulu(e)", "te fusses voulu(e)", "se fût voulu(e)", "nous fussions voulu(e)s", "vous fussiez voulu(e)(s)", "se fussent voulu(e)s" ],
+  "conditionnelPresent": [ "me voudrais", "te voudrais", "se voudrait", "nous voudrions", "vous voudriez", "se voudraient" ],
+  "conditionnelPasse": [ "me serais voulu(e)", "te serais voulu(e)", "se serait voulu(e)", "nous serions voulu(e)s", "vous seriez voulu(e)(s)", "se seraient voulu(e)s" ],
+  "conditionnelPasseII": [ "me fusse voulu(e)", "te fusses voulu(e)", "se fût voulu(e)", "nous fussions voulu(e)s", "vous fussiez voulu(e)(s)", "se fussent voulu(e)s" ],
+  "imperatif": [ "–", "veuille-toi, veux-toi !", "–", "veuillons-nous, voulons-nous !", "veuillez-vous, voulez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

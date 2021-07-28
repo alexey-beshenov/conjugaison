@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'éclater",
+  "participePresent": "s'éclatant",
+  "participePasse": "éclaté",
+  "present": [ "m'éclate", "t'éclates", "s'éclate", "nous éclatons", "vous éclatez", "s'éclatent" ],
+  "imparfait": [ "m'éclatais", "t'éclatais", "s'éclatait", "nous éclations", "vous éclatiez", "s'éclataient" ],
+  "passeSimple": [ "m'éclatai", "t'éclatas", "s'éclata", "nous éclatâmes", "vous éclatâtes", "s'éclatèrent" ],
+  "futurSimple": [ "m'éclaterai", "t'éclateras", "s'éclatera", "nous éclaterons", "vous éclaterez", "s'éclateront" ],
+  "passeCompose": [ "me suis éclaté(e)", "t'es éclaté(e)", "s'est éclaté(e)", "nous sommes éclaté(e)s", "vous êtes éclaté(e)(s)", "se sont éclaté(e)s" ],
+  "plusQueParfait": [ "m'étais éclaté(e)", "t'étais éclaté(e)", "s'était éclaté(e)", "nous étions éclaté(e)s", "vous étiez éclaté(e)(s)", "s'étaient éclaté(e)s" ],
+  "passeAnterieur": [ "me fus éclaté(e)", "te fus éclaté(e)", "se fut éclaté(e)", "nous fûmes éclaté(e)s", "vous fûtes éclaté(e)(s)", "se furent éclaté(e)s" ],
+  "futurAnterieur": [ "me serai éclaté(e)", "te seras éclaté(e)", "se sera éclaté(e)", "nous serons éclaté(e)s", "vous serez éclaté(e)(s)", "se seront éclaté(e)s" ],
+  "subjonctifPresent": [ "m'éclate", "t'éclates", "s'éclate", "nous éclations", "vous éclatiez", "s'éclatent" ],
+  "subjonctifImparfait": [ "m'éclatasse", "t'éclatasses", "s'éclatât", "nous éclatassions", "vous éclatassiez", "s'éclatassent" ],
+  "subjonctifPasse": [ "me sois éclaté(e)", "te sois éclaté(e)", "se soit éclaté(e)", "nous soyons éclaté(e)s", "vous soyez éclaté(e)(s)", "se soient éclaté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse éclaté(e)", "te fusses éclaté(e)", "se fût éclaté(e)", "nous fussions éclaté(e)s", "vous fussiez éclaté(e)(s)", "se fussent éclaté(e)s" ],
+  "conditionnelPresent": [ "m'éclaterais", "t'éclaterais", "s'éclaterait", "nous éclaterions", "vous éclateriez", "s'éclateraient" ],
+  "conditionnelPasse": [ "me serais éclaté(e)", "te serais éclaté(e)", "se serait éclaté(e)", "nous serions éclaté(e)s", "vous seriez éclaté(e)(s)", "se seraient éclaté(e)s" ],
+  "conditionnelPasseII": [ "me fusse éclaté(e)", "te fusses éclaté(e)", "se fût éclaté(e)", "nous fussions éclaté(e)s", "vous fussiez éclaté(e)(s)", "se fussent éclaté(e)s" ],
+  "imperatif": [ "–", "éclate-toi !", "–", "éclatons-nous !", "éclatez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

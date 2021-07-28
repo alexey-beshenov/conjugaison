@@ -1,0 +1,22 @@
+{
+  "infinitif": "jeter",
+  "participePresent": "jetant",
+  "participePasse": "jeté",
+  "present": [ "jette", "jettes", "jette", "jetons", "jetez", "jettent" ],
+  "imparfait": [ "jetais", "jetais", "jetait", "jetions", "jetiez", "jetaient" ],
+  "passeSimple": [ "jetai", "jetas", "jeta", "jetâmes", "jetâtes", "jetèrent" ],
+  "futurSimple": [ "jetterai", "jetteras", "jettera", "jetterons", "jetterez", "jetteront" ],
+  "passeCompose": [ "ai jeté", "as jeté", "a jeté", "avons jeté", "avez jeté", "ont jeté" ],
+  "plusQueParfait": [ "avais jeté", "avais jeté", "avait jeté", "avions jeté", "aviez jeté", "avaient jeté" ],
+  "passeAnterieur": [ "eus jeté", "eus jeté", "eut jeté", "eûmes jeté", "eûtes jeté", "eurent jeté" ],
+  "futurAnterieur": [ "aurai jeté", "auras jeté", "aura jeté", "aurons jeté", "aurez jeté", "auront jeté" ],
+  "subjonctifPresent": [ "jette", "jettes", "jette", "jetions", "jetiez", "jettent" ],
+  "subjonctifImparfait": [ "jetasse", "jetasses", "jetât", "jetassions", "jetassiez", "jetassent" ],
+  "subjonctifPasse": [ "aie jeté", "aies jeté", "ait jeté", "ayons jeté", "ayez jeté", "aient jeté" ],
+  "subjonctifPlusQueParfait": [ "eusse jeté", "eusses jeté", "eût jeté", "eussions jeté", "eussiez jeté", "eussent jeté" ],
+  "conditionnelPresent": [ "jetterais", "jetterais", "jetterait", "jetterions", "jetteriez", "jetteraient" ],
+  "conditionnelPasse": [ "aurais jeté", "aurais jeté", "aurait jeté", "aurions jeté", "auriez jeté", "auraient jeté" ],
+  "conditionnelPasseII": [ "eusse jeté", "eusses jeté", "eût jeté", "eussions jeté", "eussiez jeté", "eussent jeté" ],
+  "imperatif": [ "–", "jette !", "–", "jetons !", "jetez !", "–" ],
+  "imperatifPasse": [ "–", "aie jeté !", "–", "ayons jeté !", "ayez jeté !", "–" ]
+}

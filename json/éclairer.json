@@ -1,0 +1,22 @@
+{
+  "infinitif": "éclairer",
+  "participePresent": "éclairant",
+  "participePasse": "éclairé",
+  "present": [ "éclaire", "éclaires", "éclaire", "éclairons", "éclairez", "éclairent" ],
+  "imparfait": [ "éclairais", "éclairais", "éclairait", "éclairions", "éclairiez", "éclairaient" ],
+  "passeSimple": [ "éclairai", "éclairas", "éclaira", "éclairâmes", "éclairâtes", "éclairèrent" ],
+  "futurSimple": [ "éclairerai", "éclaireras", "éclairera", "éclairerons", "éclairerez", "éclaireront" ],
+  "passeCompose": [ "ai éclairé", "as éclairé", "a éclairé", "avons éclairé", "avez éclairé", "ont éclairé" ],
+  "plusQueParfait": [ "avais éclairé", "avais éclairé", "avait éclairé", "avions éclairé", "aviez éclairé", "avaient éclairé" ],
+  "passeAnterieur": [ "eus éclairé", "eus éclairé", "eut éclairé", "eûmes éclairé", "eûtes éclairé", "eurent éclairé" ],
+  "futurAnterieur": [ "aurai éclairé", "auras éclairé", "aura éclairé", "aurons éclairé", "aurez éclairé", "auront éclairé" ],
+  "subjonctifPresent": [ "éclaire", "éclaires", "éclaire", "éclairions", "éclairiez", "éclairent" ],
+  "subjonctifImparfait": [ "éclairasse", "éclairasses", "éclairât", "éclairassions", "éclairassiez", "éclairassent" ],
+  "subjonctifPasse": [ "aie éclairé", "aies éclairé", "ait éclairé", "ayons éclairé", "ayez éclairé", "aient éclairé" ],
+  "subjonctifPlusQueParfait": [ "eusse éclairé", "eusses éclairé", "eût éclairé", "eussions éclairé", "eussiez éclairé", "eussent éclairé" ],
+  "conditionnelPresent": [ "éclairerais", "éclairerais", "éclairerait", "éclairerions", "éclaireriez", "éclaireraient" ],
+  "conditionnelPasse": [ "aurais éclairé", "aurais éclairé", "aurait éclairé", "aurions éclairé", "auriez éclairé", "auraient éclairé" ],
+  "conditionnelPasseII": [ "eusse éclairé", "eusses éclairé", "eût éclairé", "eussions éclairé", "eussiez éclairé", "eussent éclairé" ],
+  "imperatif": [ "–", "éclaire !", "–", "éclairons !", "éclairez !", "–" ],
+  "imperatifPasse": [ "–", "aie éclairé !", "–", "ayons éclairé !", "ayez éclairé !", "–" ]
+}

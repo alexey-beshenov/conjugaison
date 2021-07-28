@@ -1,0 +1,22 @@
+{
+  "infinitif": "se réclamer",
+  "participePresent": "se réclamant",
+  "participePasse": "réclamé",
+  "present": [ "me réclame", "te réclames", "se réclame", "nous réclamons", "vous réclamez", "se réclament" ],
+  "imparfait": [ "me réclamais", "te réclamais", "se réclamait", "nous réclamions", "vous réclamiez", "se réclamaient" ],
+  "passeSimple": [ "me réclamai", "te réclamas", "se réclama", "nous réclamâmes", "vous réclamâtes", "se réclamèrent" ],
+  "futurSimple": [ "me réclamerai", "te réclameras", "se réclamera", "nous réclamerons", "vous réclamerez", "se réclameront" ],
+  "passeCompose": [ "me suis réclamé(e)", "t'es réclamé(e)", "s'est réclamé(e)", "nous sommes réclamé(e)s", "vous êtes réclamé(e)(s)", "se sont réclamé(e)s" ],
+  "plusQueParfait": [ "m'étais réclamé(e)", "t'étais réclamé(e)", "s'était réclamé(e)", "nous étions réclamé(e)s", "vous étiez réclamé(e)(s)", "s'étaient réclamé(e)s" ],
+  "passeAnterieur": [ "me fus réclamé(e)", "te fus réclamé(e)", "se fut réclamé(e)", "nous fûmes réclamé(e)s", "vous fûtes réclamé(e)(s)", "se furent réclamé(e)s" ],
+  "futurAnterieur": [ "me serai réclamé(e)", "te seras réclamé(e)", "se sera réclamé(e)", "nous serons réclamé(e)s", "vous serez réclamé(e)(s)", "se seront réclamé(e)s" ],
+  "subjonctifPresent": [ "me réclame", "te réclames", "se réclame", "nous réclamions", "vous réclamiez", "se réclament" ],
+  "subjonctifImparfait": [ "me réclamasse", "te réclamasses", "se réclamât", "nous réclamassions", "vous réclamassiez", "se réclamassent" ],
+  "subjonctifPasse": [ "me sois réclamé(e)", "te sois réclamé(e)", "se soit réclamé(e)", "nous soyons réclamé(e)s", "vous soyez réclamé(e)(s)", "se soient réclamé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse réclamé(e)", "te fusses réclamé(e)", "se fût réclamé(e)", "nous fussions réclamé(e)s", "vous fussiez réclamé(e)(s)", "se fussent réclamé(e)s" ],
+  "conditionnelPresent": [ "me réclamerais", "te réclamerais", "se réclamerait", "nous réclamerions", "vous réclameriez", "se réclameraient" ],
+  "conditionnelPasse": [ "me serais réclamé(e)", "te serais réclamé(e)", "se serait réclamé(e)", "nous serions réclamé(e)s", "vous seriez réclamé(e)(s)", "se seraient réclamé(e)s" ],
+  "conditionnelPasseII": [ "me fusse réclamé(e)", "te fusses réclamé(e)", "se fût réclamé(e)", "nous fussions réclamé(e)s", "vous fussiez réclamé(e)(s)", "se fussent réclamé(e)s" ],
+  "imperatif": [ "–", "réclame-toi !", "–", "réclamons-nous !", "réclamez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

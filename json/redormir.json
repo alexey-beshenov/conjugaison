@@ -1,0 +1,22 @@
+{
+  "infinitif": "redormir",
+  "participePresent": "redormant",
+  "participePasse": "redormi",
+  "present": [ "redors", "redors", "redort", "redormons", "redormez", "redorment" ],
+  "imparfait": [ "redormais", "redormais", "redormait", "redormions", "redormiez", "redormaient" ],
+  "passeSimple": [ "redormis", "redormis", "redormit", "redormîmes", "redormîtes", "redormirent" ],
+  "futurSimple": [ "redormirai", "redormiras", "redormira", "redormirons", "redormirez", "redormiront" ],
+  "passeCompose": [ "ai redormi", "as redormi", "a redormi", "avons redormi", "avez redormi", "ont redormi" ],
+  "plusQueParfait": [ "avais redormi", "avais redormi", "avait redormi", "avions redormi", "aviez redormi", "avaient redormi" ],
+  "passeAnterieur": [ "eus redormi", "eus redormi", "eut redormi", "eûmes redormi", "eûtes redormi", "eurent redormi" ],
+  "futurAnterieur": [ "aurai redormi", "auras redormi", "aura redormi", "aurons redormi", "aurez redormi", "auront redormi" ],
+  "subjonctifPresent": [ "redorme", "redormes", "redorme", "redormions", "redormiez", "redorment" ],
+  "subjonctifImparfait": [ "redormisse", "redormisses", "redormît", "redormissions", "redormissiez", "redormissent" ],
+  "subjonctifPasse": [ "aie redormi", "aies redormi", "ait redormi", "ayons redormi", "ayez redormi", "aient redormi" ],
+  "subjonctifPlusQueParfait": [ "eusse redormi", "eusses redormi", "eût redormi", "eussions redormi", "eussiez redormi", "eussent redormi" ],
+  "conditionnelPresent": [ "redormirais", "redormirais", "redormirait", "redormirions", "redormiriez", "redormiraient" ],
+  "conditionnelPasse": [ "aurais redormi", "aurais redormi", "aurait redormi", "aurions redormi", "auriez redormi", "auraient redormi" ],
+  "conditionnelPasseII": [ "eusse redormi", "eusses redormi", "eût redormi", "eussions redormi", "eussiez redormi", "eussent redormi" ],
+  "imperatif": [ "–", "redors !", "–", "redormons !", "redormez !", "–" ],
+  "imperatifPasse": [ "–", "aie redormi !", "–", "ayons redormi !", "ayez redormi !", "–" ]
+}

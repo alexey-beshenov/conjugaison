@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'arrêter",
+  "participePresent": "s'arrêtant",
+  "participePasse": "arrêté",
+  "present": [ "m'arrête", "t'arrêtes", "s'arrête", "nous arrêtons", "vous arrêtez", "s'arrêtent" ],
+  "imparfait": [ "m'arrêtais", "t'arrêtais", "s'arrêtait", "nous arrêtions", "vous arrêtiez", "s'arrêtaient" ],
+  "passeSimple": [ "m'arrêtai", "t'arrêtas", "s'arrêta", "nous arrêtâmes", "vous arrêtâtes", "s'arrêtèrent" ],
+  "futurSimple": [ "m'arrêterai", "t'arrêteras", "s'arrêtera", "nous arrêterons", "vous arrêterez", "s'arrêteront" ],
+  "passeCompose": [ "me suis arrêté(e)", "t'es arrêté(e)", "s'est arrêté(e)", "nous sommes arrêté(e)s", "vous êtes arrêté(e)(s)", "se sont arrêté(e)s" ],
+  "plusQueParfait": [ "m'étais arrêté(e)", "t'étais arrêté(e)", "s'était arrêté(e)", "nous étions arrêté(e)s", "vous étiez arrêté(e)(s)", "s'étaient arrêté(e)s" ],
+  "passeAnterieur": [ "me fus arrêté(e)", "te fus arrêté(e)", "se fut arrêté(e)", "nous fûmes arrêté(e)s", "vous fûtes arrêté(e)(s)", "se furent arrêté(e)s" ],
+  "futurAnterieur": [ "me serai arrêté(e)", "te seras arrêté(e)", "se sera arrêté(e)", "nous serons arrêté(e)s", "vous serez arrêté(e)(s)", "se seront arrêté(e)s" ],
+  "subjonctifPresent": [ "m'arrête", "t'arrêtes", "s'arrête", "nous arrêtions", "vous arrêtiez", "s'arrêtent" ],
+  "subjonctifImparfait": [ "m'arrêtasse", "t'arrêtasses", "s'arrêtât", "nous arrêtassions", "vous arrêtassiez", "s'arrêtassent" ],
+  "subjonctifPasse": [ "me sois arrêté(e)", "te sois arrêté(e)", "se soit arrêté(e)", "nous soyons arrêté(e)s", "vous soyez arrêté(e)(s)", "se soient arrêté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse arrêté(e)", "te fusses arrêté(e)", "se fût arrêté(e)", "nous fussions arrêté(e)s", "vous fussiez arrêté(e)(s)", "se fussent arrêté(e)s" ],
+  "conditionnelPresent": [ "m'arrêterais", "t'arrêterais", "s'arrêterait", "nous arrêterions", "vous arrêteriez", "s'arrêteraient" ],
+  "conditionnelPasse": [ "me serais arrêté(e)", "te serais arrêté(e)", "se serait arrêté(e)", "nous serions arrêté(e)s", "vous seriez arrêté(e)(s)", "se seraient arrêté(e)s" ],
+  "conditionnelPasseII": [ "me fusse arrêté(e)", "te fusses arrêté(e)", "se fût arrêté(e)", "nous fussions arrêté(e)s", "vous fussiez arrêté(e)(s)", "se fussent arrêté(e)s" ],
+  "imperatif": [ "–", "arrête-toi !", "–", "arrêtons-nous !", "arrêtez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

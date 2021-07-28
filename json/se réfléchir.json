@@ -1,0 +1,22 @@
+{
+  "infinitif": "se réfléchir",
+  "participePresent": "se réfléchissant",
+  "participePasse": "réfléchi",
+  "present": [ "me réfléchis", "te réfléchis", "se réfléchit", "nous réfléchissons", "vous réfléchissez", "se réfléchissent" ],
+  "imparfait": [ "me réfléchissais", "te réfléchissais", "se réfléchissait", "nous réfléchissions", "vous réfléchissiez", "se réfléchissaient" ],
+  "passeSimple": [ "me réfléchis", "te réfléchis", "se réfléchit", "nous réfléchîmes", "vous réfléchîtes", "se réfléchirent" ],
+  "futurSimple": [ "me réfléchirai", "te réfléchiras", "se réfléchira", "nous réfléchirons", "vous réfléchirez", "se réfléchiront" ],
+  "passeCompose": [ "me suis réfléchi(e)", "t'es réfléchi(e)", "s'est réfléchi(e)", "nous sommes réfléchi(e)s", "vous êtes réfléchi(e)(s)", "se sont réfléchi(e)s" ],
+  "plusQueParfait": [ "m'étais réfléchi(e)", "t'étais réfléchi(e)", "s'était réfléchi(e)", "nous étions réfléchi(e)s", "vous étiez réfléchi(e)(s)", "s'étaient réfléchi(e)s" ],
+  "passeAnterieur": [ "me fus réfléchi(e)", "te fus réfléchi(e)", "se fut réfléchi(e)", "nous fûmes réfléchi(e)s", "vous fûtes réfléchi(e)(s)", "se furent réfléchi(e)s" ],
+  "futurAnterieur": [ "me serai réfléchi(e)", "te seras réfléchi(e)", "se sera réfléchi(e)", "nous serons réfléchi(e)s", "vous serez réfléchi(e)(s)", "se seront réfléchi(e)s" ],
+  "subjonctifPresent": [ "me réfléchisse", "te réfléchisses", "se réfléchisse", "nous réfléchissions", "vous réfléchissiez", "se réfléchissent" ],
+  "subjonctifImparfait": [ "me réfléchisse", "te réfléchisses", "se réfléchît", "nous réfléchissions", "vous réfléchissiez", "se réfléchissent" ],
+  "subjonctifPasse": [ "me sois réfléchi(e)", "te sois réfléchi(e)", "se soit réfléchi(e)", "nous soyons réfléchi(e)s", "vous soyez réfléchi(e)(s)", "se soient réfléchi(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse réfléchi(e)", "te fusses réfléchi(e)", "se fût réfléchi(e)", "nous fussions réfléchi(e)s", "vous fussiez réfléchi(e)(s)", "se fussent réfléchi(e)s" ],
+  "conditionnelPresent": [ "me réfléchirais", "te réfléchirais", "se réfléchirait", "nous réfléchirions", "vous réfléchiriez", "se réfléchiraient" ],
+  "conditionnelPasse": [ "me serais réfléchi(e)", "te serais réfléchi(e)", "se serait réfléchi(e)", "nous serions réfléchi(e)s", "vous seriez réfléchi(e)(s)", "se seraient réfléchi(e)s" ],
+  "conditionnelPasseII": [ "me fusse réfléchi(e)", "te fusses réfléchi(e)", "se fût réfléchi(e)", "nous fussions réfléchi(e)s", "vous fussiez réfléchi(e)(s)", "se fussent réfléchi(e)s" ],
+  "imperatif": [ "–", "réfléchis-toi !", "–", "réfléchissons-nous !", "réfléchissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "forcer",
+  "participePresent": "forçant",
+  "participePasse": "forcé",
+  "present": [ "force", "forces", "force", "forçons", "forcez", "forcent" ],
+  "imparfait": [ "forçais", "forçais", "forçait", "forcions", "forciez", "forçaient" ],
+  "passeSimple": [ "forçai", "forças", "força", "forçâmes", "forçâtes", "forcèrent" ],
+  "futurSimple": [ "forcerai", "forceras", "forcera", "forcerons", "forcerez", "forceront" ],
+  "passeCompose": [ "ai forcé", "as forcé", "a forcé", "avons forcé", "avez forcé", "ont forcé" ],
+  "plusQueParfait": [ "avais forcé", "avais forcé", "avait forcé", "avions forcé", "aviez forcé", "avaient forcé" ],
+  "passeAnterieur": [ "eus forcé", "eus forcé", "eut forcé", "eûmes forcé", "eûtes forcé", "eurent forcé" ],
+  "futurAnterieur": [ "aurai forcé", "auras forcé", "aura forcé", "aurons forcé", "aurez forcé", "auront forcé" ],
+  "subjonctifPresent": [ "force", "forces", "force", "forcions", "forciez", "forcent" ],
+  "subjonctifImparfait": [ "forçasse", "forçasses", "forçât", "forçassions", "forçassiez", "forçassent" ],
+  "subjonctifPasse": [ "aie forcé", "aies forcé", "ait forcé", "ayons forcé", "ayez forcé", "aient forcé" ],
+  "subjonctifPlusQueParfait": [ "eusse forcé", "eusses forcé", "eût forcé", "eussions forcé", "eussiez forcé", "eussent forcé" ],
+  "conditionnelPresent": [ "forcerais", "forcerais", "forcerait", "forcerions", "forceriez", "forceraient" ],
+  "conditionnelPasse": [ "aurais forcé", "aurais forcé", "aurait forcé", "aurions forcé", "auriez forcé", "auraient forcé" ],
+  "conditionnelPasseII": [ "eusse forcé", "eusses forcé", "eût forcé", "eussions forcé", "eussiez forcé", "eussent forcé" ],
+  "imperatif": [ "–", "force !", "–", "forçons !", "forcez !", "–" ],
+  "imperatifPasse": [ "–", "aie forcé !", "–", "ayons forcé !", "ayez forcé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'étonner",
+  "participePresent": "s'étonnant",
+  "participePasse": "étonné",
+  "present": [ "m'étonne", "t'étonnes", "s'étonne", "nous étonnons", "vous étonnez", "s'étonnent" ],
+  "imparfait": [ "m'étonnais", "t'étonnais", "s'étonnait", "nous étonnions", "vous étonniez", "s'étonnaient" ],
+  "passeSimple": [ "m'étonnai", "t'étonnas", "s'étonna", "nous étonnâmes", "vous étonnâtes", "s'étonnèrent" ],
+  "futurSimple": [ "m'étonnerai", "t'étonneras", "s'étonnera", "nous étonnerons", "vous étonnerez", "s'étonneront" ],
+  "passeCompose": [ "me suis étonné(e)", "t'es étonné(e)", "s'est étonné(e)", "nous sommes étonné(e)s", "vous êtes étonné(e)(s)", "se sont étonné(e)s" ],
+  "plusQueParfait": [ "m'étais étonné(e)", "t'étais étonné(e)", "s'était étonné(e)", "nous étions étonné(e)s", "vous étiez étonné(e)(s)", "s'étaient étonné(e)s" ],
+  "passeAnterieur": [ "me fus étonné(e)", "te fus étonné(e)", "se fut étonné(e)", "nous fûmes étonné(e)s", "vous fûtes étonné(e)(s)", "se furent étonné(e)s" ],
+  "futurAnterieur": [ "me serai étonné(e)", "te seras étonné(e)", "se sera étonné(e)", "nous serons étonné(e)s", "vous serez étonné(e)(s)", "se seront étonné(e)s" ],
+  "subjonctifPresent": [ "m'étonne", "t'étonnes", "s'étonne", "nous étonnions", "vous étonniez", "s'étonnent" ],
+  "subjonctifImparfait": [ "m'étonnasse", "t'étonnasses", "s'étonnât", "nous étonnassions", "vous étonnassiez", "s'étonnassent" ],
+  "subjonctifPasse": [ "me sois étonné(e)", "te sois étonné(e)", "se soit étonné(e)", "nous soyons étonné(e)s", "vous soyez étonné(e)(s)", "se soient étonné(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse étonné(e)", "te fusses étonné(e)", "se fût étonné(e)", "nous fussions étonné(e)s", "vous fussiez étonné(e)(s)", "se fussent étonné(e)s" ],
+  "conditionnelPresent": [ "m'étonnerais", "t'étonnerais", "s'étonnerait", "nous étonnerions", "vous étonneriez", "s'étonneraient" ],
+  "conditionnelPasse": [ "me serais étonné(e)", "te serais étonné(e)", "se serait étonné(e)", "nous serions étonné(e)s", "vous seriez étonné(e)(s)", "se seraient étonné(e)s" ],
+  "conditionnelPasseII": [ "me fusse étonné(e)", "te fusses étonné(e)", "se fût étonné(e)", "nous fussions étonné(e)s", "vous fussiez étonné(e)(s)", "se fussent étonné(e)s" ],
+  "imperatif": [ "–", "étonne-toi !", "–", "étonnons-nous !", "étonnez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

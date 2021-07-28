@@ -1,0 +1,22 @@
+{
+  "infinitif": "surprendre",
+  "participePresent": "surprenant",
+  "participePasse": "surpris",
+  "present": [ "surprends", "surprends", "surprend", "surprenons", "surprenez", "surprennent" ],
+  "imparfait": [ "surprenais", "surprenais", "surprenait", "surprenions", "surpreniez", "surprenaient" ],
+  "passeSimple": [ "surpris", "surpris", "surprit", "surprîmes", "surprîtes", "surprirent" ],
+  "futurSimple": [ "surprendrai", "surprendras", "surprendra", "surprendrons", "surprendrez", "surprendront" ],
+  "passeCompose": [ "ai surpris", "as surpris", "a surpris", "avons surpris", "avez surpris", "ont surpris" ],
+  "plusQueParfait": [ "avais surpris", "avais surpris", "avait surpris", "avions surpris", "aviez surpris", "avaient surpris" ],
+  "passeAnterieur": [ "eus surpris", "eus surpris", "eut surpris", "eûmes surpris", "eûtes surpris", "eurent surpris" ],
+  "futurAnterieur": [ "aurai surpris", "auras surpris", "aura surpris", "aurons surpris", "aurez surpris", "auront surpris" ],
+  "subjonctifPresent": [ "surprenne", "surprennes", "surprenne", "surprenions", "surpreniez", "surprennent" ],
+  "subjonctifImparfait": [ "surprisse", "surprisses", "surprît", "surprissions", "surprissiez", "surprissent" ],
+  "subjonctifPasse": [ "aie surpris", "aies surpris", "ait surpris", "ayons surpris", "ayez surpris", "aient surpris" ],
+  "subjonctifPlusQueParfait": [ "eusse surpris", "eusses surpris", "eût surpris", "eussions surpris", "eussiez surpris", "eussent surpris" ],
+  "conditionnelPresent": [ "surprendrais", "surprendrais", "surprendrait", "surprendrions", "surprendriez", "surprendraient" ],
+  "conditionnelPasse": [ "aurais surpris", "aurais surpris", "aurait surpris", "aurions surpris", "auriez surpris", "auraient surpris" ],
+  "conditionnelPasseII": [ "eusse surpris", "eusses surpris", "eût surpris", "eussions surpris", "eussiez surpris", "eussent surpris" ],
+  "imperatif": [ "–", "surprends !", "–", "surprenons !", "surprenez !", "–" ],
+  "imperatifPasse": [ "–", "aie surpris !", "–", "ayons surpris !", "ayez surpris !", "–" ]
+}

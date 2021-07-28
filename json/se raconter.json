@@ -1,0 +1,22 @@
+{
+  "infinitif": "se raconter",
+  "participePresent": "se racontant",
+  "participePasse": "raconté",
+  "present": [ "me raconte", "te racontes", "se raconte", "nous racontons", "vous racontez", "se racontent" ],
+  "imparfait": [ "me racontais", "te racontais", "se racontait", "nous racontions", "vous racontiez", "se racontaient" ],
+  "passeSimple": [ "me racontai", "te racontas", "se raconta", "nous racontâmes", "vous racontâtes", "se racontèrent" ],
+  "futurSimple": [ "me raconterai", "te raconteras", "se racontera", "nous raconterons", "vous raconterez", "se raconteront" ],
+  "passeCompose": [ "me suis raconté", "t'es raconté", "s'est raconté", "nous sommes raconté", "vous êtes raconté", "se sont raconté" ],
+  "plusQueParfait": [ "m'étais raconté", "t'étais raconté", "s'était raconté", "nous étions raconté", "vous étiez raconté", "s'étaient raconté" ],
+  "passeAnterieur": [ "me fus raconté", "te fus raconté", "se fut raconté", "nous fûmes raconté", "vous fûtes raconté", "se furent raconté" ],
+  "futurAnterieur": [ "me serai raconté", "te seras raconté", "se sera raconté", "nous serons raconté", "vous serez raconté", "se seront raconté" ],
+  "subjonctifPresent": [ "me raconte", "te racontes", "se raconte", "nous racontions", "vous racontiez", "se racontent" ],
+  "subjonctifImparfait": [ "me racontasse", "te racontasses", "se racontât", "nous racontassions", "vous racontassiez", "se racontassent" ],
+  "subjonctifPasse": [ "me sois raconté", "te sois raconté", "se soit raconté", "nous soyons raconté", "vous soyez raconté", "se soient raconté" ],
+  "subjonctifPlusQueParfait": [ "me fusse raconté", "te fusses raconté", "se fût raconté", "nous fussions raconté", "vous fussiez raconté", "se fussent raconté" ],
+  "conditionnelPresent": [ "me raconterais", "te raconterais", "se raconterait", "nous raconterions", "vous raconteriez", "se raconteraient" ],
+  "conditionnelPasse": [ "me serais raconté", "te serais raconté", "se serait raconté", "nous serions raconté", "vous seriez raconté", "se seraient raconté" ],
+  "conditionnelPasseII": [ "me fusse raconté", "te fusses raconté", "se fût raconté", "nous fussions raconté", "vous fussiez raconté", "se fussent raconté" ],
+  "imperatif": [ "–", "raconte-toi !", "–", "racontons-nous !", "racontez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

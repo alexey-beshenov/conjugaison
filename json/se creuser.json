@@ -1,0 +1,22 @@
+{
+  "infinitif": "se creuser",
+  "participePresent": "se creusant",
+  "participePasse": "creusé",
+  "present": [ "me creuse", "te creuses", "se creuse", "nous creusons", "vous creusez", "se creusent" ],
+  "imparfait": [ "me creusais", "te creusais", "se creusait", "nous creusions", "vous creusiez", "se creusaient" ],
+  "passeSimple": [ "me creusai", "te creusas", "se creusa", "nous creusâmes", "vous creusâtes", "se creusèrent" ],
+  "futurSimple": [ "me creuserai", "te creuseras", "se creusera", "nous creuserons", "vous creuserez", "se creuseront" ],
+  "passeCompose": [ "me suis creusé(e)", "t'es creusé(e)", "s'est creusé(e)", "nous sommes creusé(e)s", "vous êtes creusé(e)(s)", "se sont creusé(e)s" ],
+  "plusQueParfait": [ "m'étais creusé(e)", "t'étais creusé(e)", "s'était creusé(e)", "nous étions creusé(e)s", "vous étiez creusé(e)(s)", "s'étaient creusé(e)s" ],
+  "passeAnterieur": [ "me fus creusé(e)", "te fus creusé(e)", "se fut creusé(e)", "nous fûmes creusé(e)s", "vous fûtes creusé(e)(s)", "se furent creusé(e)s" ],
+  "futurAnterieur": [ "me serai creusé(e)", "te seras creusé(e)", "se sera creusé(e)", "nous serons creusé(e)s", "vous serez creusé(e)(s)", "se seront creusé(e)s" ],
+  "subjonctifPresent": [ "me creuse", "te creuses", "se creuse", "nous creusions", "vous creusiez", "se creusent" ],
+  "subjonctifImparfait": [ "me creusasse", "te creusasses", "se creusât", "nous creusassions", "vous creusassiez", "se creusassent" ],
+  "subjonctifPasse": [ "me sois creusé(e)", "te sois creusé(e)", "se soit creusé(e)", "nous soyons creusé(e)s", "vous soyez creusé(e)(s)", "se soient creusé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse creusé(e)", "te fusses creusé(e)", "se fût creusé(e)", "nous fussions creusé(e)s", "vous fussiez creusé(e)(s)", "se fussent creusé(e)s" ],
+  "conditionnelPresent": [ "me creuserais", "te creuserais", "se creuserait", "nous creuserions", "vous creuseriez", "se creuseraient" ],
+  "conditionnelPasse": [ "me serais creusé(e)", "te serais creusé(e)", "se serait creusé(e)", "nous serions creusé(e)s", "vous seriez creusé(e)(s)", "se seraient creusé(e)s" ],
+  "conditionnelPasseII": [ "me fusse creusé(e)", "te fusses creusé(e)", "se fût creusé(e)", "nous fussions creusé(e)s", "vous fussiez creusé(e)(s)", "se fussent creusé(e)s" ],
+  "imperatif": [ "–", "creuse-toi !", "–", "creusons-nous !", "creusez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "lutter",
+  "participePresent": "luttant",
+  "participePasse": "lutté",
+  "present": [ "lutte", "luttes", "lutte", "luttons", "luttez", "luttent" ],
+  "imparfait": [ "luttais", "luttais", "luttait", "luttions", "luttiez", "luttaient" ],
+  "passeSimple": [ "luttai", "luttas", "lutta", "luttâmes", "luttâtes", "luttèrent" ],
+  "futurSimple": [ "lutterai", "lutteras", "luttera", "lutterons", "lutterez", "lutteront" ],
+  "passeCompose": [ "ai lutté", "as lutté", "a lutté", "avons lutté", "avez lutté", "ont lutté" ],
+  "plusQueParfait": [ "avais lutté", "avais lutté", "avait lutté", "avions lutté", "aviez lutté", "avaient lutté" ],
+  "passeAnterieur": [ "eus lutté", "eus lutté", "eut lutté", "eûmes lutté", "eûtes lutté", "eurent lutté" ],
+  "futurAnterieur": [ "aurai lutté", "auras lutté", "aura lutté", "aurons lutté", "aurez lutté", "auront lutté" ],
+  "subjonctifPresent": [ "lutte", "luttes", "lutte", "luttions", "luttiez", "luttent" ],
+  "subjonctifImparfait": [ "luttasse", "luttasses", "luttât", "luttassions", "luttassiez", "luttassent" ],
+  "subjonctifPasse": [ "aie lutté", "aies lutté", "ait lutté", "ayons lutté", "ayez lutté", "aient lutté" ],
+  "subjonctifPlusQueParfait": [ "eusse lutté", "eusses lutté", "eût lutté", "eussions lutté", "eussiez lutté", "eussent lutté" ],
+  "conditionnelPresent": [ "lutterais", "lutterais", "lutterait", "lutterions", "lutteriez", "lutteraient" ],
+  "conditionnelPasse": [ "aurais lutté", "aurais lutté", "aurait lutté", "aurions lutté", "auriez lutté", "auraient lutté" ],
+  "conditionnelPasseII": [ "eusse lutté", "eusses lutté", "eût lutté", "eussions lutté", "eussiez lutté", "eussent lutté" ],
+  "imperatif": [ "–", "lutte !", "–", "luttons !", "luttez !", "–" ],
+  "imperatifPasse": [ "–", "aie lutté !", "–", "ayons lutté !", "ayez lutté !", "–" ]
+}

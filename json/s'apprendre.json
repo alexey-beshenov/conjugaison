@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'apprendre",
+  "participePresent": "s'apprenant",
+  "participePasse": "appris",
+  "present": [ "m'apprends", "t'apprends", "s'apprend", "nous apprenons", "vous apprenez", "s'apprennent" ],
+  "imparfait": [ "m'apprenais", "t'apprenais", "s'apprenait", "nous apprenions", "vous appreniez", "s'apprenaient" ],
+  "passeSimple": [ "m'appris", "t'appris", "s'apprit", "nous apprîmes", "vous apprîtes", "s'apprirent" ],
+  "futurSimple": [ "m'apprendrai", "t'apprendras", "s'apprendra", "nous apprendrons", "vous apprendrez", "s'apprendront" ],
+  "passeCompose": [ "me suis appris(e)", "t'es appris(e)", "s'est appris(e)", "nous sommes appris(es)", "vous êtes appris(e(s))", "se sont appris(es)" ],
+  "plusQueParfait": [ "m'étais appris(e)", "t'étais appris(e)", "s'était appris(e)", "nous étions appris(es)", "vous étiez appris(e(s))", "s'étaient appris(es)" ],
+  "passeAnterieur": [ "me fus appris(e)", "te fus appris(e)", "se fut appris(e)", "nous fûmes appris(es)", "vous fûtes appris(e(s))", "se furent appris(es)" ],
+  "futurAnterieur": [ "me serai appris(e)", "te seras appris(e)", "se sera appris(e)", "nous serons appris(es)", "vous serez appris(e(s))", "se seront appris(es)" ],
+  "subjonctifPresent": [ "m'apprenne", "t'apprennes", "s'apprenne", "nous apprenions", "vous appreniez", "s'apprennent" ],
+  "subjonctifImparfait": [ "m'apprisse", "t'apprisses", "s'apprît", "nous apprissions", "vous apprissiez", "s'apprissent" ],
+  "subjonctifPasse": [ "me sois appris(e)", "te sois appris(e)", "se soit appris(e)", "nous soyons appris(es)", "vous soyez appris(e(s))", "se soient appris(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse appris(e)", "te fusses appris(e)", "se fût appris(e)", "nous fussions appris(es)", "vous fussiez appris(e(s))", "se fussent appris(es)" ],
+  "conditionnelPresent": [ "m'apprendrais", "t'apprendrais", "s'apprendrait", "nous apprendrions", "vous apprendriez", "s'apprendraient" ],
+  "conditionnelPasse": [ "me serais appris(e)", "te serais appris(e)", "se serait appris(e)", "nous serions appris(es)", "vous seriez appris(e(s))", "se seraient appris(es)" ],
+  "conditionnelPasseII": [ "me fusse appris(e)", "te fusses appris(e)", "se fût appris(e)", "nous fussions appris(es)", "vous fussiez appris(e(s))", "se fussent appris(es)" ],
+  "imperatif": [ "–", "apprends-toi !", "–", "apprenons-nous !", "apprenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

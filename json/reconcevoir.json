@@ -1,0 +1,22 @@
+{
+  "infinitif": "reconcevoir",
+  "participePresent": "reconcevant",
+  "participePasse": "reconçu",
+  "present": [ "reconçois", "reconçois", "reconçoit", "reconcevons", "reconcevez", "reconçoivent" ],
+  "imparfait": [ "reconcevais", "reconcevais", "reconcevait", "reconcevions", "reconceviez", "reconcevaient" ],
+  "passeSimple": [ "reconçus", "reconçus", "reconçut", "reconçûmes", "reconçûtes", "reconçurent" ],
+  "futurSimple": [ "reconcevrai", "reconcevras", "reconcevra", "reconcevrons", "reconcevrez", "reconcevront" ],
+  "passeCompose": [ "ai reconçu", "as reconçu", "a reconçu", "avons reconçu", "avez reconçu", "ont reconçu" ],
+  "plusQueParfait": [ "avais reconçu", "avais reconçu", "avait reconçu", "avions reconçu", "aviez reconçu", "avaient reconçu" ],
+  "passeAnterieur": [ "eus reconçu", "eus reconçu", "eut reconçu", "eûmes reconçu", "eûtes reconçu", "eurent reconçu" ],
+  "futurAnterieur": [ "aurai reconçu", "auras reconçu", "aura reconçu", "aurons reconçu", "aurez reconçu", "auront reconçu" ],
+  "subjonctifPresent": [ "reconçoive", "reconçoives", "reconçoive", "reconcevions", "reconceviez", "reconçoivent" ],
+  "subjonctifImparfait": [ "reconçusse", "reconçusses", "reconçût", "reconçussions", "reconçussiez", "reconçussent" ],
+  "subjonctifPasse": [ "aie reconçu", "aies reconçu", "ait reconçu", "ayons reconçu", "ayez reconçu", "aient reconçu" ],
+  "subjonctifPlusQueParfait": [ "eusse reconçu", "eusses reconçu", "eût reconçu", "eussions reconçu", "eussiez reconçu", "eussent reconçu" ],
+  "conditionnelPresent": [ "reconcevrais", "reconcevrais", "reconcevrait", "reconcevrions", "reconcevriez", "reconcevraient" ],
+  "conditionnelPasse": [ "aurais reconçu", "aurais reconçu", "aurait reconçu", "aurions reconçu", "auriez reconçu", "auraient reconçu" ],
+  "conditionnelPasseII": [ "eusse reconçu", "eusses reconçu", "eût reconçu", "eussions reconçu", "eussiez reconçu", "eussent reconçu" ],
+  "imperatif": [ "–", "reconçois !", "–", "reconcevons !", "reconcevez !", "–" ],
+  "imperatifPasse": [ "–", "aie reconçu !", "–", "ayons reconçu !", "ayez reconçu !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se mettre",
+  "participePresent": "se mettant",
+  "participePasse": "mis",
+  "present": [ "me mets", "te mets", "se met", "nous mettons", "vous mettez", "se mettent" ],
+  "imparfait": [ "me mettais", "te mettais", "se mettait", "nous mettions", "vous mettiez", "se mettaient" ],
+  "passeSimple": [ "me mis", "te mis", "se mit", "nous mîmes", "vous mîtes", "se mirent" ],
+  "futurSimple": [ "me mettrai", "te mettras", "se mettra", "nous mettrons", "vous mettrez", "se mettront" ],
+  "passeCompose": [ "me suis mis(e)", "t'es mis(e)", "s'est mis(e)", "nous sommes mis(es)", "vous êtes mis(e(s))", "se sont mis(es)" ],
+  "plusQueParfait": [ "m'étais mis(e)", "t'étais mis(e)", "s'était mis(e)", "nous étions mis(es)", "vous étiez mis(e(s))", "s'étaient mis(es)" ],
+  "passeAnterieur": [ "me fus mis(e)", "te fus mis(e)", "se fut mis(e)", "nous fûmes mis(es)", "vous fûtes mis(e(s))", "se furent mis(es)" ],
+  "futurAnterieur": [ "me serai mis(e)", "te seras mis(e)", "se sera mis(e)", "nous serons mis(es)", "vous serez mis(e(s))", "se seront mis(es)" ],
+  "subjonctifPresent": [ "me mette", "te mettes", "se mette", "nous mettions", "vous mettiez", "se mettent" ],
+  "subjonctifImparfait": [ "me misse", "te misses", "se mît", "nous missions", "vous missiez", "se missent" ],
+  "subjonctifPasse": [ "me sois mis(e)", "te sois mis(e)", "se soit mis(e)", "nous soyons mis(es)", "vous soyez mis(e(s))", "se soient mis(es)" ],
+  "subjonctifPlusQueParfait": [ "me fusse mis(e)", "te fusses mis(e)", "se fût mis(e)", "nous fussions mis(es)", "vous fussiez mis(e(s))", "se fussent mis(es)" ],
+  "conditionnelPresent": [ "me mettrais", "te mettrais", "se mettrait", "nous mettrions", "vous mettriez", "se mettraient" ],
+  "conditionnelPasse": [ "me serais mis(e)", "te serais mis(e)", "se serait mis(e)", "nous serions mis(es)", "vous seriez mis(e(s))", "se seraient mis(es)" ],
+  "conditionnelPasseII": [ "me fusse mis(e)", "te fusses mis(e)", "se fût mis(e)", "nous fussions mis(es)", "vous fussiez mis(e(s))", "se fussent mis(es)" ],
+  "imperatif": [ "–", "mets-toi !", "–", "mettons-nous !", "mettez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "renoncer",
+  "participePresent": "renonçant",
+  "participePasse": "renoncé",
+  "present": [ "renonce", "renonces", "renonce", "renonçons", "renoncez", "renoncent" ],
+  "imparfait": [ "renonçais", "renonçais", "renonçait", "renoncions", "renonciez", "renonçaient" ],
+  "passeSimple": [ "renonçai", "renonças", "renonça", "renonçâmes", "renonçâtes", "renoncèrent" ],
+  "futurSimple": [ "renoncerai", "renonceras", "renoncera", "renoncerons", "renoncerez", "renonceront" ],
+  "passeCompose": [ "ai renoncé", "as renoncé", "a renoncé", "avons renoncé", "avez renoncé", "ont renoncé" ],
+  "plusQueParfait": [ "avais renoncé", "avais renoncé", "avait renoncé", "avions renoncé", "aviez renoncé", "avaient renoncé" ],
+  "passeAnterieur": [ "eus renoncé", "eus renoncé", "eut renoncé", "eûmes renoncé", "eûtes renoncé", "eurent renoncé" ],
+  "futurAnterieur": [ "aurai renoncé", "auras renoncé", "aura renoncé", "aurons renoncé", "aurez renoncé", "auront renoncé" ],
+  "subjonctifPresent": [ "renonce", "renonces", "renonce", "renoncions", "renonciez", "renoncent" ],
+  "subjonctifImparfait": [ "renonçasse", "renonçasses", "renonçât", "renonçassions", "renonçassiez", "renonçassent" ],
+  "subjonctifPasse": [ "aie renoncé", "aies renoncé", "ait renoncé", "ayons renoncé", "ayez renoncé", "aient renoncé" ],
+  "subjonctifPlusQueParfait": [ "eusse renoncé", "eusses renoncé", "eût renoncé", "eussions renoncé", "eussiez renoncé", "eussent renoncé" ],
+  "conditionnelPresent": [ "renoncerais", "renoncerais", "renoncerait", "renoncerions", "renonceriez", "renonceraient" ],
+  "conditionnelPasse": [ "aurais renoncé", "aurais renoncé", "aurait renoncé", "aurions renoncé", "auriez renoncé", "auraient renoncé" ],
+  "conditionnelPasseII": [ "eusse renoncé", "eusses renoncé", "eût renoncé", "eussions renoncé", "eussiez renoncé", "eussent renoncé" ],
+  "imperatif": [ "–", "renonce !", "–", "renonçons !", "renoncez !", "–" ],
+  "imperatifPasse": [ "–", "aie renoncé !", "–", "ayons renoncé !", "ayez renoncé !", "–" ]
+}

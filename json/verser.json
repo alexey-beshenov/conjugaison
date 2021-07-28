@@ -1,0 +1,22 @@
+{
+  "infinitif": "verser",
+  "participePresent": "versant",
+  "participePasse": "versé",
+  "present": [ "verse", "verses", "verse", "versons", "versez", "versent" ],
+  "imparfait": [ "versais", "versais", "versait", "versions", "versiez", "versaient" ],
+  "passeSimple": [ "versai", "versas", "versa", "versâmes", "versâtes", "versèrent" ],
+  "futurSimple": [ "verserai", "verseras", "versera", "verserons", "verserez", "verseront" ],
+  "passeCompose": [ "ai versé", "as versé", "a versé", "avons versé", "avez versé", "ont versé" ],
+  "plusQueParfait": [ "avais versé", "avais versé", "avait versé", "avions versé", "aviez versé", "avaient versé" ],
+  "passeAnterieur": [ "eus versé", "eus versé", "eut versé", "eûmes versé", "eûtes versé", "eurent versé" ],
+  "futurAnterieur": [ "aurai versé", "auras versé", "aura versé", "aurons versé", "aurez versé", "auront versé" ],
+  "subjonctifPresent": [ "verse", "verses", "verse", "versions", "versiez", "versent" ],
+  "subjonctifImparfait": [ "versasse", "versasses", "versât", "versassions", "versassiez", "versassent" ],
+  "subjonctifPasse": [ "aie versé", "aies versé", "ait versé", "ayons versé", "ayez versé", "aient versé" ],
+  "subjonctifPlusQueParfait": [ "eusse versé", "eusses versé", "eût versé", "eussions versé", "eussiez versé", "eussent versé" ],
+  "conditionnelPresent": [ "verserais", "verserais", "verserait", "verserions", "verseriez", "verseraient" ],
+  "conditionnelPasse": [ "aurais versé", "aurais versé", "aurait versé", "aurions versé", "auriez versé", "auraient versé" ],
+  "conditionnelPasseII": [ "eusse versé", "eusses versé", "eût versé", "eussions versé", "eussiez versé", "eussent versé" ],
+  "imperatif": [ "–", "verse !", "–", "versons !", "versez !", "–" ],
+  "imperatifPasse": [ "–", "aie versé !", "–", "ayons versé !", "ayez versé !", "–" ]
+}

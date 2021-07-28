@@ -1,0 +1,22 @@
+{
+  "infinitif": "interrompre",
+  "participePresent": "interrompant",
+  "participePasse": "interrompu",
+  "present": [ "interromps", "interromps", "interrompt", "interrompons", "interrompez", "interrompent" ],
+  "imparfait": [ "interrompais", "interrompais", "interrompait", "interrompions", "interrompiez", "interrompaient" ],
+  "passeSimple": [ "interrompis", "interrompis", "interrompit", "interrompîmes", "interrompîtes", "interrompirent" ],
+  "futurSimple": [ "interromprai", "interrompras", "interrompra", "interromprons", "interromprez", "interrompront" ],
+  "passeCompose": [ "ai interrompu", "as interrompu", "a interrompu", "avons interrompu", "avez interrompu", "ont interrompu" ],
+  "plusQueParfait": [ "avais interrompu", "avais interrompu", "avait interrompu", "avions interrompu", "aviez interrompu", "avaient interrompu" ],
+  "passeAnterieur": [ "eus interrompu", "eus interrompu", "eut interrompu", "eûmes interrompu", "eûtes interrompu", "eurent interrompu" ],
+  "futurAnterieur": [ "aurai interrompu", "auras interrompu", "aura interrompu", "aurons interrompu", "aurez interrompu", "auront interrompu" ],
+  "subjonctifPresent": [ "interrompe", "interrompes", "interrompe", "interrompions", "interrompiez", "interrompent" ],
+  "subjonctifImparfait": [ "interrompisse", "interrompisses", "interrompît", "interrompissions", "interrompissiez", "interrompissent" ],
+  "subjonctifPasse": [ "aie interrompu", "aies interrompu", "ait interrompu", "ayons interrompu", "ayez interrompu", "aient interrompu" ],
+  "subjonctifPlusQueParfait": [ "eusse interrompu", "eusses interrompu", "eût interrompu", "eussions interrompu", "eussiez interrompu", "eussent interrompu" ],
+  "conditionnelPresent": [ "interromprais", "interromprais", "interromprait", "interromprions", "interrompriez", "interrompraient" ],
+  "conditionnelPasse": [ "aurais interrompu", "aurais interrompu", "aurait interrompu", "aurions interrompu", "auriez interrompu", "auraient interrompu" ],
+  "conditionnelPasseII": [ "eusse interrompu", "eusses interrompu", "eût interrompu", "eussions interrompu", "eussiez interrompu", "eussent interrompu" ],
+  "imperatif": [ "–", "interromps !", "–", "interrompons !", "interrompez !", "–" ],
+  "imperatifPasse": [ "–", "aie interrompu !", "–", "ayons interrompu !", "ayez interrompu !", "–" ]
+}

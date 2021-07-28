@@ -1,0 +1,22 @@
+{
+  "infinitif": "étendre",
+  "participePresent": "étendant",
+  "participePasse": "étendu",
+  "present": [ "étends", "étends", "étend", "étendons", "étendez", "étendent" ],
+  "imparfait": [ "étendais", "étendais", "étendait", "étendions", "étendiez", "étendaient" ],
+  "passeSimple": [ "étendis", "étendis", "étendit", "étendîmes", "étendîtes", "étendirent" ],
+  "futurSimple": [ "étendrai", "étendras", "étendra", "étendrons", "étendrez", "étendront" ],
+  "passeCompose": [ "ai étendu", "as étendu", "a étendu", "avons étendu", "avez étendu", "ont étendu" ],
+  "plusQueParfait": [ "avais étendu", "avais étendu", "avait étendu", "avions étendu", "aviez étendu", "avaient étendu" ],
+  "passeAnterieur": [ "eus étendu", "eus étendu", "eut étendu", "eûmes étendu", "eûtes étendu", "eurent étendu" ],
+  "futurAnterieur": [ "aurai étendu", "auras étendu", "aura étendu", "aurons étendu", "aurez étendu", "auront étendu" ],
+  "subjonctifPresent": [ "étende", "étendes", "étende", "étendions", "étendiez", "étendent" ],
+  "subjonctifImparfait": [ "étendisse", "étendisses", "étendît", "étendissions", "étendissiez", "étendissent" ],
+  "subjonctifPasse": [ "aie étendu", "aies étendu", "ait étendu", "ayons étendu", "ayez étendu", "aient étendu" ],
+  "subjonctifPlusQueParfait": [ "eusse étendu", "eusses étendu", "eût étendu", "eussions étendu", "eussiez étendu", "eussent étendu" ],
+  "conditionnelPresent": [ "étendrais", "étendrais", "étendrait", "étendrions", "étendriez", "étendraient" ],
+  "conditionnelPasse": [ "aurais étendu", "aurais étendu", "aurait étendu", "aurions étendu", "auriez étendu", "auraient étendu" ],
+  "conditionnelPasseII": [ "eusse étendu", "eusses étendu", "eût étendu", "eussions étendu", "eussiez étendu", "eussent étendu" ],
+  "imperatif": [ "–", "étends !", "–", "étendons !", "étendez !", "–" ],
+  "imperatifPasse": [ "–", "aie étendu !", "–", "ayons étendu !", "ayez étendu !", "–" ]
+}

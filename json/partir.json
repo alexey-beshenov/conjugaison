@@ -1,0 +1,22 @@
+{
+  "infinitif": "partir",
+  "participePresent": "partant",
+  "participePasse": "parti",
+  "present": [ "pars", "pars", "part", "partons", "partez", "partent" ],
+  "imparfait": [ "partais", "partais", "partait", "partions", "partiez", "partaient" ],
+  "passeSimple": [ "partis", "partis", "partit", "partîmes", "partîtes", "partirent" ],
+  "futurSimple": [ "partirai", "partiras", "partira", "partirons", "partirez", "partiront" ],
+  "passeCompose": [ "suis parti(e)", "es parti(e)", "est parti(e)", "sommes parti(e)s", "êtes parti(e)(s)", "sont parti(e)s" ],
+  "plusQueParfait": [ "étais parti(e)", "étais parti(e)", "était parti(e)", "étions parti(e)s", "étiez parti(e)(s)", "étaient parti(e)s" ],
+  "passeAnterieur": [ "fus parti(e)", "fus parti(e)", "fut parti(e)", "fûmes parti(e)s", "fûtes parti(e)(s)", "furent parti(e)s" ],
+  "futurAnterieur": [ "serai parti(e)", "seras parti(e)", "sera parti(e)", "serons parti(e)s", "serez parti(e)(s)", "seront parti(e)s" ],
+  "subjonctifPresent": [ "parte", "partes", "parte", "partions", "partiez", "partent" ],
+  "subjonctifImparfait": [ "partisse", "partisses", "partît", "partissions", "partissiez", "partissent" ],
+  "subjonctifPasse": [ "sois parti(e)", "sois parti(e)", "soit parti(e)", "soyons parti(e)s", "soyez parti(e)(s)", "soient parti(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse parti(e)", "fusses parti(e)", "fût parti(e)", "fussions parti(e)s", "fussiez parti(e)(s)", "fussent parti(e)s" ],
+  "conditionnelPresent": [ "partirais", "partirais", "partirait", "partirions", "partiriez", "partiraient" ],
+  "conditionnelPasse": [ "serais parti(e)", "serais parti(e)", "serait parti(e)", "serions parti(e)s", "seriez parti(e)(s)", "seraient parti(e)s" ],
+  "conditionnelPasseII": [ "fusse parti(e)", "fusses parti(e)", "fût parti(e)", "fussions parti(e)s", "fussiez parti(e)(s)", "fussent parti(e)s" ],
+  "imperatif": [ "–", "pars !", "–", "partons !", "partez !", "–" ],
+  "imperatifPasse": [ "–", "sois parti(e) !", "–", "soyons parti(e)s !", "soyez parti(e)(s) !", "–" ]
+}

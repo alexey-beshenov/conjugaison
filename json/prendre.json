@@ -1,0 +1,22 @@
+{
+  "infinitif": "prendre",
+  "participePresent": "prenant",
+  "participePasse": "pris",
+  "present": [ "prends", "prends", "prend", "prenons", "prenez", "prennent" ],
+  "imparfait": [ "prenais", "prenais", "prenait", "prenions", "preniez", "prenaient" ],
+  "passeSimple": [ "pris", "pris", "prit", "prîmes", "prîtes", "prirent" ],
+  "futurSimple": [ "prendrai", "prendras", "prendra", "prendrons", "prendrez", "prendront" ],
+  "passeCompose": [ "ai pris", "as pris", "a pris", "avons pris", "avez pris", "ont pris" ],
+  "plusQueParfait": [ "avais pris", "avais pris", "avait pris", "avions pris", "aviez pris", "avaient pris" ],
+  "passeAnterieur": [ "eus pris", "eus pris", "eut pris", "eûmes pris", "eûtes pris", "eurent pris" ],
+  "futurAnterieur": [ "aurai pris", "auras pris", "aura pris", "aurons pris", "aurez pris", "auront pris" ],
+  "subjonctifPresent": [ "prenne", "prennes", "prenne", "prenions", "preniez", "prennent" ],
+  "subjonctifImparfait": [ "prisse", "prisses", "prît", "prissions", "prissiez", "prissent" ],
+  "subjonctifPasse": [ "aie pris", "aies pris", "ait pris", "ayons pris", "ayez pris", "aient pris" ],
+  "subjonctifPlusQueParfait": [ "eusse pris", "eusses pris", "eût pris", "eussions pris", "eussiez pris", "eussent pris" ],
+  "conditionnelPresent": [ "prendrais", "prendrais", "prendrait", "prendrions", "prendriez", "prendraient" ],
+  "conditionnelPasse": [ "aurais pris", "aurais pris", "aurait pris", "aurions pris", "auriez pris", "auraient pris" ],
+  "conditionnelPasseII": [ "eusse pris", "eusses pris", "eût pris", "eussions pris", "eussiez pris", "eussent pris" ],
+  "imperatif": [ "–", "prends !", "–", "prenons !", "prenez !", "–" ],
+  "imperatifPasse": [ "–", "aie pris !", "–", "ayons pris !", "ayez pris !", "–" ]
+}

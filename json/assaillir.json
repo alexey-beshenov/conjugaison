@@ -1,0 +1,22 @@
+{
+  "infinitif": "assaillir",
+  "participePresent": "assaillant",
+  "participePasse": "assailli",
+  "present": [ "assaille", "assailles", "assaille", "assaillons", "assaillez", "assaillent" ],
+  "imparfait": [ "assaillais", "assaillais", "assaillait", "assaillions", "assailliez", "assaillaient" ],
+  "passeSimple": [ "assaillis", "assaillis", "assaillit", "assaillîmes", "assaillîtes", "assaillirent" ],
+  "futurSimple": [ "assaillirai", "assailliras", "assaillira", "assaillirons", "assaillirez", "assailliront" ],
+  "passeCompose": [ "ai assailli", "as assailli", "a assailli", "avons assailli", "avez assailli", "ont assailli" ],
+  "plusQueParfait": [ "avais assailli", "avais assailli", "avait assailli", "avions assailli", "aviez assailli", "avaient assailli" ],
+  "passeAnterieur": [ "eus assailli", "eus assailli", "eut assailli", "eûmes assailli", "eûtes assailli", "eurent assailli" ],
+  "futurAnterieur": [ "aurai assailli", "auras assailli", "aura assailli", "aurons assailli", "aurez assailli", "auront assailli" ],
+  "subjonctifPresent": [ "assaille", "assailles", "assaille", "assaillions", "assailliez", "assaillent" ],
+  "subjonctifImparfait": [ "assaillisse", "assaillisses", "assaillît", "assaillissions", "assaillissiez", "assaillissent" ],
+  "subjonctifPasse": [ "aie assailli", "aies assailli", "ait assailli", "ayons assailli", "ayez assailli", "aient assailli" ],
+  "subjonctifPlusQueParfait": [ "eusse assailli", "eusses assailli", "eût assailli", "eussions assailli", "eussiez assailli", "eussent assailli" ],
+  "conditionnelPresent": [ "assaillirais", "assaillirais", "assaillirait", "assaillirions", "assailliriez", "assailliraient" ],
+  "conditionnelPasse": [ "aurais assailli", "aurais assailli", "aurait assailli", "aurions assailli", "auriez assailli", "auraient assailli" ],
+  "conditionnelPasseII": [ "eusse assailli", "eusses assailli", "eût assailli", "eussions assailli", "eussiez assailli", "eussent assailli" ],
+  "imperatif": [ "–", "assaille !", "–", "assaillons !", "assaillez !", "–" ],
+  "imperatifPasse": [ "–", "aie assailli !", "–", "ayons assailli !", "ayez assailli !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "mener",
+  "participePresent": "menant",
+  "participePasse": "mené",
+  "present": [ "mène", "mènes", "mène", "menons", "menez", "mènent" ],
+  "imparfait": [ "menais", "menais", "menait", "menions", "meniez", "menaient" ],
+  "passeSimple": [ "menai", "menas", "mena", "menâmes", "menâtes", "menèrent" ],
+  "futurSimple": [ "mènerai", "mèneras", "mènera", "mènerons", "mènerez", "mèneront" ],
+  "passeCompose": [ "ai mené", "as mené", "a mené", "avons mené", "avez mené", "ont mené" ],
+  "plusQueParfait": [ "avais mené", "avais mené", "avait mené", "avions mené", "aviez mené", "avaient mené" ],
+  "passeAnterieur": [ "eus mené", "eus mené", "eut mené", "eûmes mené", "eûtes mené", "eurent mené" ],
+  "futurAnterieur": [ "aurai mené", "auras mené", "aura mené", "aurons mené", "aurez mené", "auront mené" ],
+  "subjonctifPresent": [ "mène", "mènes", "mène", "menions", "meniez", "mènent" ],
+  "subjonctifImparfait": [ "menasse", "menasses", "menât", "menassions", "menassiez", "menassent" ],
+  "subjonctifPasse": [ "aie mené", "aies mené", "ait mené", "ayons mené", "ayez mené", "aient mené" ],
+  "subjonctifPlusQueParfait": [ "eusse mené", "eusses mené", "eût mené", "eussions mené", "eussiez mené", "eussent mené" ],
+  "conditionnelPresent": [ "mènerais", "mènerais", "mènerait", "mènerions", "mèneriez", "mèneraient" ],
+  "conditionnelPasse": [ "aurais mené", "aurais mené", "aurait mené", "aurions mené", "auriez mené", "auraient mené" ],
+  "conditionnelPasseII": [ "eusse mené", "eusses mené", "eût mené", "eussions mené", "eussiez mené", "eussent mené" ],
+  "imperatif": [ "–", "mène !", "–", "menons !", "menez !", "–" ],
+  "imperatifPasse": [ "–", "aie mené !", "–", "ayons mené !", "ayez mené !", "–" ]
+}

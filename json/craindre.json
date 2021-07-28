@@ -1,0 +1,22 @@
+{
+  "infinitif": "craindre",
+  "participePresent": "craignant",
+  "participePasse": "craint",
+  "present": [ "crains", "crains", "craint", "craignons", "craignez", "craignent" ],
+  "imparfait": [ "craignais", "craignais", "craignait", "craignions", "craigniez", "craignaient" ],
+  "passeSimple": [ "craignis", "craignis", "craignit", "craignîmes", "craignîtes", "craignirent" ],
+  "futurSimple": [ "craindrai", "craindras", "craindra", "craindrons", "craindrez", "craindront" ],
+  "passeCompose": [ "ai craint", "as craint", "a craint", "avons craint", "avez craint", "ont craint" ],
+  "plusQueParfait": [ "avais craint", "avais craint", "avait craint", "avions craint", "aviez craint", "avaient craint" ],
+  "passeAnterieur": [ "eus craint", "eus craint", "eut craint", "eûmes craint", "eûtes craint", "eurent craint" ],
+  "futurAnterieur": [ "aurai craint", "auras craint", "aura craint", "aurons craint", "aurez craint", "auront craint" ],
+  "subjonctifPresent": [ "craigne", "craignes", "craigne", "craignions", "craigniez", "craignent" ],
+  "subjonctifImparfait": [ "craignisse", "craignisses", "craignît", "craignissions", "craignissiez", "craignissent" ],
+  "subjonctifPasse": [ "aie craint", "aies craint", "ait craint", "ayons craint", "ayez craint", "aient craint" ],
+  "subjonctifPlusQueParfait": [ "eusse craint", "eusses craint", "eût craint", "eussions craint", "eussiez craint", "eussent craint" ],
+  "conditionnelPresent": [ "craindrais", "craindrais", "craindrait", "craindrions", "craindriez", "craindraient" ],
+  "conditionnelPasse": [ "aurais craint", "aurais craint", "aurait craint", "aurions craint", "auriez craint", "auraient craint" ],
+  "conditionnelPasseII": [ "eusse craint", "eusses craint", "eût craint", "eussions craint", "eussiez craint", "eussent craint" ],
+  "imperatif": [ "–", "crains !", "–", "craignons !", "craignez !", "–" ],
+  "imperatifPasse": [ "–", "aie craint !", "–", "ayons craint !", "ayez craint !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "jouer",
+  "participePresent": "jouant",
+  "participePasse": "joué",
+  "present": [ "joue", "joues", "joue", "jouons", "jouez", "jouent" ],
+  "imparfait": [ "jouais", "jouais", "jouait", "jouions", "jouiez", "jouaient" ],
+  "passeSimple": [ "jouai", "jouas", "joua", "jouâmes", "jouâtes", "jouèrent" ],
+  "futurSimple": [ "jouerai", "joueras", "jouera", "jouerons", "jouerez", "joueront" ],
+  "passeCompose": [ "ai joué", "as joué", "a joué", "avons joué", "avez joué", "ont joué" ],
+  "plusQueParfait": [ "avais joué", "avais joué", "avait joué", "avions joué", "aviez joué", "avaient joué" ],
+  "passeAnterieur": [ "eus joué", "eus joué", "eut joué", "eûmes joué", "eûtes joué", "eurent joué" ],
+  "futurAnterieur": [ "aurai joué", "auras joué", "aura joué", "aurons joué", "aurez joué", "auront joué" ],
+  "subjonctifPresent": [ "joue", "joues", "joue", "jouions", "jouiez", "jouent" ],
+  "subjonctifImparfait": [ "jouasse", "jouasses", "jouât", "jouassions", "jouassiez", "jouassent" ],
+  "subjonctifPasse": [ "aie joué", "aies joué", "ait joué", "ayons joué", "ayez joué", "aient joué" ],
+  "subjonctifPlusQueParfait": [ "eusse joué", "eusses joué", "eût joué", "eussions joué", "eussiez joué", "eussent joué" ],
+  "conditionnelPresent": [ "jouerais", "jouerais", "jouerait", "jouerions", "joueriez", "joueraient" ],
+  "conditionnelPasse": [ "aurais joué", "aurais joué", "aurait joué", "aurions joué", "auriez joué", "auraient joué" ],
+  "conditionnelPasseII": [ "eusse joué", "eusses joué", "eût joué", "eussions joué", "eussiez joué", "eussent joué" ],
+  "imperatif": [ "–", "joue !", "–", "jouons !", "jouez !", "–" ],
+  "imperatifPasse": [ "–", "aie joué !", "–", "ayons joué !", "ayez joué !", "–" ]
+}

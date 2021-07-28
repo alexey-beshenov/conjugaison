@@ -1,0 +1,22 @@
+{
+  "infinitif": "attirer",
+  "participePresent": "attirant",
+  "participePasse": "attiré",
+  "present": [ "attire", "attires", "attire", "attirons", "attirez", "attirent" ],
+  "imparfait": [ "attirais", "attirais", "attirait", "attirions", "attiriez", "attiraient" ],
+  "passeSimple": [ "attirai", "attiras", "attira", "attirâmes", "attirâtes", "attirèrent" ],
+  "futurSimple": [ "attirerai", "attireras", "attirera", "attirerons", "attirerez", "attireront" ],
+  "passeCompose": [ "ai attiré", "as attiré", "a attiré", "avons attiré", "avez attiré", "ont attiré" ],
+  "plusQueParfait": [ "avais attiré", "avais attiré", "avait attiré", "avions attiré", "aviez attiré", "avaient attiré" ],
+  "passeAnterieur": [ "eus attiré", "eus attiré", "eut attiré", "eûmes attiré", "eûtes attiré", "eurent attiré" ],
+  "futurAnterieur": [ "aurai attiré", "auras attiré", "aura attiré", "aurons attiré", "aurez attiré", "auront attiré" ],
+  "subjonctifPresent": [ "attire", "attires", "attire", "attirions", "attiriez", "attirent" ],
+  "subjonctifImparfait": [ "attirasse", "attirasses", "attirât", "attirassions", "attirassiez", "attirassent" ],
+  "subjonctifPasse": [ "aie attiré", "aies attiré", "ait attiré", "ayons attiré", "ayez attiré", "aient attiré" ],
+  "subjonctifPlusQueParfait": [ "eusse attiré", "eusses attiré", "eût attiré", "eussions attiré", "eussiez attiré", "eussent attiré" ],
+  "conditionnelPresent": [ "attirerais", "attirerais", "attirerait", "attirerions", "attireriez", "attireraient" ],
+  "conditionnelPasse": [ "aurais attiré", "aurais attiré", "aurait attiré", "aurions attiré", "auriez attiré", "auraient attiré" ],
+  "conditionnelPasseII": [ "eusse attiré", "eusses attiré", "eût attiré", "eussions attiré", "eussiez attiré", "eussent attiré" ],
+  "imperatif": [ "–", "attire !", "–", "attirons !", "attirez !", "–" ],
+  "imperatifPasse": [ "–", "aie attiré !", "–", "ayons attiré !", "ayez attiré !", "–" ]
+}

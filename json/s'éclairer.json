@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'éclairer",
+  "participePresent": "s'éclairant",
+  "participePasse": "éclairé",
+  "present": [ "m'éclaire", "t'éclaires", "s'éclaire", "nous éclairons", "vous éclairez", "s'éclairent" ],
+  "imparfait": [ "m'éclairais", "t'éclairais", "s'éclairait", "nous éclairions", "vous éclairiez", "s'éclairaient" ],
+  "passeSimple": [ "m'éclairai", "t'éclairas", "s'éclaira", "nous éclairâmes", "vous éclairâtes", "s'éclairèrent" ],
+  "futurSimple": [ "m'éclairerai", "t'éclaireras", "s'éclairera", "nous éclairerons", "vous éclairerez", "s'éclaireront" ],
+  "passeCompose": [ "me suis éclairé(e)", "t'es éclairé(e)", "s'est éclairé(e)", "nous sommes éclairé(e)s", "vous êtes éclairé(e)(s)", "se sont éclairé(e)s" ],
+  "plusQueParfait": [ "m'étais éclairé(e)", "t'étais éclairé(e)", "s'était éclairé(e)", "nous étions éclairé(e)s", "vous étiez éclairé(e)(s)", "s'étaient éclairé(e)s" ],
+  "passeAnterieur": [ "me fus éclairé(e)", "te fus éclairé(e)", "se fut éclairé(e)", "nous fûmes éclairé(e)s", "vous fûtes éclairé(e)(s)", "se furent éclairé(e)s" ],
+  "futurAnterieur": [ "me serai éclairé(e)", "te seras éclairé(e)", "se sera éclairé(e)", "nous serons éclairé(e)s", "vous serez éclairé(e)(s)", "se seront éclairé(e)s" ],
+  "subjonctifPresent": [ "m'éclaire", "t'éclaires", "s'éclaire", "nous éclairions", "vous éclairiez", "s'éclairent" ],
+  "subjonctifImparfait": [ "m'éclairasse", "t'éclairasses", "s'éclairât", "nous éclairassions", "vous éclairassiez", "s'éclairassent" ],
+  "subjonctifPasse": [ "me sois éclairé(e)", "te sois éclairé(e)", "se soit éclairé(e)", "nous soyons éclairé(e)s", "vous soyez éclairé(e)(s)", "se soient éclairé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse éclairé(e)", "te fusses éclairé(e)", "se fût éclairé(e)", "nous fussions éclairé(e)s", "vous fussiez éclairé(e)(s)", "se fussent éclairé(e)s" ],
+  "conditionnelPresent": [ "m'éclairerais", "t'éclairerais", "s'éclairerait", "nous éclairerions", "vous éclaireriez", "s'éclaireraient" ],
+  "conditionnelPasse": [ "me serais éclairé(e)", "te serais éclairé(e)", "se serait éclairé(e)", "nous serions éclairé(e)s", "vous seriez éclairé(e)(s)", "se seraient éclairé(e)s" ],
+  "conditionnelPasseII": [ "me fusse éclairé(e)", "te fusses éclairé(e)", "se fût éclairé(e)", "nous fussions éclairé(e)s", "vous fussiez éclairé(e)(s)", "se fussent éclairé(e)s" ],
+  "imperatif": [ "–", "éclaire-toi !", "–", "éclairons-nous !", "éclairez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

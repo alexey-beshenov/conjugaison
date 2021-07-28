@@ -1,0 +1,22 @@
+{
+  "infinitif": "réussir",
+  "participePresent": "réussissant",
+  "participePasse": "réussi",
+  "present": [ "réussis", "réussis", "réussit", "réussissons", "réussissez", "réussissent" ],
+  "imparfait": [ "réussissais", "réussissais", "réussissait", "réussissions", "réussissiez", "réussissaient" ],
+  "passeSimple": [ "réussis", "réussis", "réussit", "réussîmes", "réussîtes", "réussirent" ],
+  "futurSimple": [ "réussirai", "réussiras", "réussira", "réussirons", "réussirez", "réussiront" ],
+  "passeCompose": [ "ai réussi", "as réussi", "a réussi", "avons réussi", "avez réussi", "ont réussi" ],
+  "plusQueParfait": [ "avais réussi", "avais réussi", "avait réussi", "avions réussi", "aviez réussi", "avaient réussi" ],
+  "passeAnterieur": [ "eus réussi", "eus réussi", "eut réussi", "eûmes réussi", "eûtes réussi", "eurent réussi" ],
+  "futurAnterieur": [ "aurai réussi", "auras réussi", "aura réussi", "aurons réussi", "aurez réussi", "auront réussi" ],
+  "subjonctifPresent": [ "réussisse", "réussisses", "réussisse", "réussissions", "réussissiez", "réussissent" ],
+  "subjonctifImparfait": [ "réussisse", "réussisses", "réussît", "réussissions", "réussissiez", "réussissent" ],
+  "subjonctifPasse": [ "aie réussi", "aies réussi", "ait réussi", "ayons réussi", "ayez réussi", "aient réussi" ],
+  "subjonctifPlusQueParfait": [ "eusse réussi", "eusses réussi", "eût réussi", "eussions réussi", "eussiez réussi", "eussent réussi" ],
+  "conditionnelPresent": [ "réussirais", "réussirais", "réussirait", "réussirions", "réussiriez", "réussiraient" ],
+  "conditionnelPasse": [ "aurais réussi", "aurais réussi", "aurait réussi", "aurions réussi", "auriez réussi", "auraient réussi" ],
+  "conditionnelPasseII": [ "eusse réussi", "eusses réussi", "eût réussi", "eussions réussi", "eussiez réussi", "eussent réussi" ],
+  "imperatif": [ "–", "réussis !", "–", "réussissons !", "réussissez !", "–" ],
+  "imperatifPasse": [ "–", "aie réussi !", "–", "ayons réussi !", "ayez réussi !", "–" ]
+}

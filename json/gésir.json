@@ -1,0 +1,22 @@
+{
+  "infinitif": "gésir",
+  "participePresent": "gisant",
+  "participePasse": "–",
+  "present": [ "gis", "gis", "gît", "gisons", "gisez", "gisent" ],
+  "imparfait": [ "gisais", "gisais", "gisait", "gisions", "gisiez", "gisaient" ],
+  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
+  "futurSimple": [ "gîrai, gésirai", "gîras, gésiras", "gîra, gésira", "gîrons, gésirons", "gîrez, gésirez", "gîront, gésiront" ],
+  "passeCompose": [ "–", "–", "–", "–", "–", "–" ],
+  "plusQueParfait": [ "–", "–", "–", "–", "–", "–" ],
+  "passeAnterieur": [ "–", "–", "–", "–", "–", "–" ],
+  "futurAnterieur": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPasse": [ "–", "–", "–", "–", "–", "–" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "–", "–", "–", "–" ],
+  "conditionnelPresent": [ "–", "–", "–", "–", "–", "–" ],
+  "conditionnelPasse": [ "–", "–", "–", "–", "–", "–" ],
+  "conditionnelPasseII": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatif": [ "–", "gis !", "–", "gisons !", "gisez !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

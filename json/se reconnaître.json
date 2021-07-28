@@ -1,0 +1,22 @@
+{
+  "infinitif": "se reconnaître",
+  "participePresent": "se reconnaissant",
+  "participePasse": "reconnu",
+  "present": [ "me reconnais", "te reconnais", "se reconnaît", "nous reconnaissons", "vous reconnaissez", "se reconnaissent" ],
+  "imparfait": [ "me reconnaissais", "te reconnaissais", "se reconnaissait", "nous reconnaissions", "vous reconnaissiez", "se reconnaissaient" ],
+  "passeSimple": [ "me reconnus", "te reconnus", "se reconnut", "nous reconnûmes", "vous reconnûtes", "se reconnurent" ],
+  "futurSimple": [ "me reconnaîtrai", "te reconnaîtras", "se reconnaîtra", "nous reconnaîtrons", "vous reconnaîtrez", "se reconnaîtront" ],
+  "passeCompose": [ "me suis reconnu(e)", "t'es reconnu(e)", "s'est reconnu(e)", "nous sommes reconnu(e)s", "vous êtes reconnu(e)(s)", "se sont reconnu(e)s" ],
+  "plusQueParfait": [ "m'étais reconnu(e)", "t'étais reconnu(e)", "s'était reconnu(e)", "nous étions reconnu(e)s", "vous étiez reconnu(e)(s)", "s'étaient reconnu(e)s" ],
+  "passeAnterieur": [ "me fus reconnu(e)", "te fus reconnu(e)", "se fut reconnu(e)", "nous fûmes reconnu(e)s", "vous fûtes reconnu(e)(s)", "se furent reconnu(e)s" ],
+  "futurAnterieur": [ "me serai reconnu(e)", "te seras reconnu(e)", "se sera reconnu(e)", "nous serons reconnu(e)s", "vous serez reconnu(e)(s)", "se seront reconnu(e)s" ],
+  "subjonctifPresent": [ "me reconnaisse", "te reconnaisses", "se reconnaisse", "nous reconnaissions", "vous reconnaissiez", "se reconnaissent" ],
+  "subjonctifImparfait": [ "me reconnusse", "te reconnusses", "se reconnût", "nous reconnussions", "vous reconnussiez", "se reconnussent" ],
+  "subjonctifPasse": [ "me sois reconnu(e)", "te sois reconnu(e)", "se soit reconnu(e)", "nous soyons reconnu(e)s", "vous soyez reconnu(e)(s)", "se soient reconnu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse reconnu(e)", "te fusses reconnu(e)", "se fût reconnu(e)", "nous fussions reconnu(e)s", "vous fussiez reconnu(e)(s)", "se fussent reconnu(e)s" ],
+  "conditionnelPresent": [ "me reconnaîtrais", "te reconnaîtrais", "se reconnaîtrait", "nous reconnaîtrions", "vous reconnaîtriez", "se reconnaîtraient" ],
+  "conditionnelPasse": [ "me serais reconnu(e)", "te serais reconnu(e)", "se serait reconnu(e)", "nous serions reconnu(e)s", "vous seriez reconnu(e)(s)", "se seraient reconnu(e)s" ],
+  "conditionnelPasseII": [ "me fusse reconnu(e)", "te fusses reconnu(e)", "se fût reconnu(e)", "nous fussions reconnu(e)s", "vous fussiez reconnu(e)(s)", "se fussent reconnu(e)s" ],
+  "imperatif": [ "–", "reconnais-toi !", "–", "reconnaissons-nous !", "reconnaissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

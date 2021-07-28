@@ -1,0 +1,22 @@
+{
+  "infinitif": "se traiter",
+  "participePresent": "se traitant",
+  "participePasse": "traité",
+  "present": [ "me traite", "te traites", "se traite", "nous traitons", "vous traitez", "se traitent" ],
+  "imparfait": [ "me traitais", "te traitais", "se traitait", "nous traitions", "vous traitiez", "se traitaient" ],
+  "passeSimple": [ "me traitai", "te traitas", "se traita", "nous traitâmes", "vous traitâtes", "se traitèrent" ],
+  "futurSimple": [ "me traiterai", "te traiteras", "se traitera", "nous traiterons", "vous traiterez", "se traiteront" ],
+  "passeCompose": [ "me suis traité(e)", "t'es traité(e)", "s'est traité(e)", "nous sommes traité(e)s", "vous êtes traité(e)(s)", "se sont traité(e)s" ],
+  "plusQueParfait": [ "m'étais traité(e)", "t'étais traité(e)", "s'était traité(e)", "nous étions traité(e)s", "vous étiez traité(e)(s)", "s'étaient traité(e)s" ],
+  "passeAnterieur": [ "me fus traité(e)", "te fus traité(e)", "se fut traité(e)", "nous fûmes traité(e)s", "vous fûtes traité(e)(s)", "se furent traité(e)s" ],
+  "futurAnterieur": [ "me serai traité(e)", "te seras traité(e)", "se sera traité(e)", "nous serons traité(e)s", "vous serez traité(e)(s)", "se seront traité(e)s" ],
+  "subjonctifPresent": [ "me traite", "te traites", "se traite", "nous traitions", "vous traitiez", "se traitent" ],
+  "subjonctifImparfait": [ "me traitasse", "te traitasses", "se traitât", "nous traitassions", "vous traitassiez", "se traitassent" ],
+  "subjonctifPasse": [ "me sois traité(e)", "te sois traité(e)", "se soit traité(e)", "nous soyons traité(e)s", "vous soyez traité(e)(s)", "se soient traité(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse traité(e)", "te fusses traité(e)", "se fût traité(e)", "nous fussions traité(e)s", "vous fussiez traité(e)(s)", "se fussent traité(e)s" ],
+  "conditionnelPresent": [ "me traiterais", "te traiterais", "se traiterait", "nous traiterions", "vous traiteriez", "se traiteraient" ],
+  "conditionnelPasse": [ "me serais traité(e)", "te serais traité(e)", "se serait traité(e)", "nous serions traité(e)s", "vous seriez traité(e)(s)", "se seraient traité(e)s" ],
+  "conditionnelPasseII": [ "me fusse traité(e)", "te fusses traité(e)", "se fût traité(e)", "nous fussions traité(e)s", "vous fussiez traité(e)(s)", "se fussent traité(e)s" ],
+  "imperatif": [ "–", "traite-toi !", "–", "traitons-nous !", "traitez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

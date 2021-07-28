@@ -1,0 +1,22 @@
+{
+  "infinitif": "considérer",
+  "participePresent": "considérant",
+  "participePasse": "considéré",
+  "present": [ "considère", "considères", "considère", "considérons", "considérez", "considèrent" ],
+  "imparfait": [ "considérais", "considérais", "considérait", "considérions", "considériez", "considéraient" ],
+  "passeSimple": [ "considérai", "considéras", "considéra", "considérâmes", "considérâtes", "considérèrent" ],
+  "futurSimple": [ "considérerai", "considéreras", "considérera", "considérerons", "considérerez", "considéreront" ],
+  "passeCompose": [ "ai considéré", "as considéré", "a considéré", "avons considéré", "avez considéré", "ont considéré" ],
+  "plusQueParfait": [ "avais considéré", "avais considéré", "avait considéré", "avions considéré", "aviez considéré", "avaient considéré" ],
+  "passeAnterieur": [ "eus considéré", "eus considéré", "eut considéré", "eûmes considéré", "eûtes considéré", "eurent considéré" ],
+  "futurAnterieur": [ "aurai considéré", "auras considéré", "aura considéré", "aurons considéré", "aurez considéré", "auront considéré" ],
+  "subjonctifPresent": [ "considère", "considères", "considère", "considérions", "considériez", "considèrent" ],
+  "subjonctifImparfait": [ "considérasse", "considérasses", "considérât", "considérassions", "considérassiez", "considérassent" ],
+  "subjonctifPasse": [ "aie considéré", "aies considéré", "ait considéré", "ayons considéré", "ayez considéré", "aient considéré" ],
+  "subjonctifPlusQueParfait": [ "eusse considéré", "eusses considéré", "eût considéré", "eussions considéré", "eussiez considéré", "eussent considéré" ],
+  "conditionnelPresent": [ "considérerais", "considérerais", "considérerait", "considérerions", "considéreriez", "considéreraient" ],
+  "conditionnelPasse": [ "aurais considéré", "aurais considéré", "aurait considéré", "aurions considéré", "auriez considéré", "auraient considéré" ],
+  "conditionnelPasseII": [ "eusse considéré", "eusses considéré", "eût considéré", "eussions considéré", "eussiez considéré", "eussent considéré" ],
+  "imperatif": [ "–", "considère !", "–", "considérons !", "considérez !", "–" ],
+  "imperatifPasse": [ "–", "aie considéré !", "–", "ayons considéré !", "ayez considéré !", "–" ]
+}

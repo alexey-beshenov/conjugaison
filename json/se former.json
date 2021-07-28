@@ -1,0 +1,22 @@
+{
+  "infinitif": "se former",
+  "participePresent": "se formant",
+  "participePasse": "formé",
+  "present": [ "me forme", "te formes", "se forme", "nous formons", "vous formez", "se forment" ],
+  "imparfait": [ "me formais", "te formais", "se formait", "nous formions", "vous formiez", "se formaient" ],
+  "passeSimple": [ "me formai", "te formas", "se forma", "nous formâmes", "vous formâtes", "se formèrent" ],
+  "futurSimple": [ "me formerai", "te formeras", "se formera", "nous formerons", "vous formerez", "se formeront" ],
+  "passeCompose": [ "me suis formé(e)", "t'es formé(e)", "s'est formé(e)", "nous sommes formé(e)s", "vous êtes formé(e)(s)", "se sont formé(e)s" ],
+  "plusQueParfait": [ "m'étais formé(e)", "t'étais formé(e)", "s'était formé(e)", "nous étions formé(e)s", "vous étiez formé(e)(s)", "s'étaient formé(e)s" ],
+  "passeAnterieur": [ "me fus formé(e)", "te fus formé(e)", "se fut formé(e)", "nous fûmes formé(e)s", "vous fûtes formé(e)(s)", "se furent formé(e)s" ],
+  "futurAnterieur": [ "me serai formé(e)", "te seras formé(e)", "se sera formé(e)", "nous serons formé(e)s", "vous serez formé(e)(s)", "se seront formé(e)s" ],
+  "subjonctifPresent": [ "me forme", "te formes", "se forme", "nous formions", "vous formiez", "se forment" ],
+  "subjonctifImparfait": [ "me formasse", "te formasses", "se formât", "nous formassions", "vous formassiez", "se formassent" ],
+  "subjonctifPasse": [ "me sois formé(e)", "te sois formé(e)", "se soit formé(e)", "nous soyons formé(e)s", "vous soyez formé(e)(s)", "se soient formé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse formé(e)", "te fusses formé(e)", "se fût formé(e)", "nous fussions formé(e)s", "vous fussiez formé(e)(s)", "se fussent formé(e)s" ],
+  "conditionnelPresent": [ "me formerais", "te formerais", "se formerait", "nous formerions", "vous formeriez", "se formeraient" ],
+  "conditionnelPasse": [ "me serais formé(e)", "te serais formé(e)", "se serait formé(e)", "nous serions formé(e)s", "vous seriez formé(e)(s)", "se seraient formé(e)s" ],
+  "conditionnelPasseII": [ "me fusse formé(e)", "te fusses formé(e)", "se fût formé(e)", "nous fussions formé(e)s", "vous fussiez formé(e)(s)", "se fussent formé(e)s" ],
+  "imperatif": [ "–", "forme-toi !", "–", "formons-nous !", "formez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

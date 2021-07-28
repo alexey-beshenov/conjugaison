@@ -1,0 +1,22 @@
+{
+  "infinitif": "se convenir",
+  "participePresent": "se convenant",
+  "participePasse": "convenu",
+  "present": [ "me conviens", "te conviens", "se convient", "nous convenons", "vous convenez", "se conviennent" ],
+  "imparfait": [ "me convenais", "te convenais", "se convenait", "nous convenions", "vous conveniez", "se convenaient" ],
+  "passeSimple": [ "me convins", "te convins", "se convint", "nous convînmes", "vous convîntes", "se convinrent" ],
+  "futurSimple": [ "me conviendrai", "te conviendras", "se conviendra", "nous conviendrons", "vous conviendrez", "se conviendront" ],
+  "passeCompose": [ "me suis convenu", "t'es convenu", "s'est convenu", "nous sommes convenu", "vous êtes convenu", "se sont convenu" ],
+  "plusQueParfait": [ "m'étais convenu", "t'étais convenu", "s'était convenu", "nous étions convenu", "vous étiez convenu", "s'étaient convenu" ],
+  "passeAnterieur": [ "me fus convenu", "te fus convenu", "se fut convenu", "nous fûmes convenu", "vous fûtes convenu", "se furent convenu" ],
+  "futurAnterieur": [ "me serai convenu", "te seras convenu", "se sera convenu", "nous serons convenu", "vous serez convenu", "se seront convenu" ],
+  "subjonctifPresent": [ "me convienne", "te conviennes", "se convienne", "nous convenions", "vous conveniez", "se conviennent" ],
+  "subjonctifImparfait": [ "me convinsse", "te convinsses", "se convînt", "nous convinssions", "vous convinssiez", "se convinssent" ],
+  "subjonctifPasse": [ "me sois convenu", "te sois convenu", "se soit convenu", "nous soyons convenu", "vous soyez convenu", "se soient convenu" ],
+  "subjonctifPlusQueParfait": [ "me fusse convenu", "te fusses convenu", "se fût convenu", "nous fussions convenu", "vous fussiez convenu", "se fussent convenu" ],
+  "conditionnelPresent": [ "me conviendrais", "te conviendrais", "se conviendrait", "nous conviendrions", "vous conviendriez", "se conviendraient" ],
+  "conditionnelPasse": [ "me serais convenu", "te serais convenu", "se serait convenu", "nous serions convenu", "vous seriez convenu", "se seraient convenu" ],
+  "conditionnelPasseII": [ "me fusse convenu", "te fusses convenu", "se fût convenu", "nous fussions convenu", "vous fussiez convenu", "se fussent convenu" ],
+  "imperatif": [ "–", "conviens-toi !", "–", "convenons-nous !", "convenez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

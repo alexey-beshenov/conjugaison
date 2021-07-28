@@ -1,0 +1,22 @@
+{
+  "infinitif": "resavoir",
+  "participePresent": "resachant",
+  "participePasse": "resu",
+  "present": [ "resais", "resais", "resait", "resavons", "resavez", "resavent" ],
+  "imparfait": [ "resavais", "resavais", "resavait", "resavions", "resaviez", "resavaient" ],
+  "passeSimple": [ "resus", "resus", "resut", "resûmes", "resûtes", "resurent" ],
+  "futurSimple": [ "resaurai", "resauras", "resaura", "resaurons", "resaurez", "resauront" ],
+  "passeCompose": [ "ai resu", "as resu", "a resu", "avons resu", "avez resu", "ont resu" ],
+  "plusQueParfait": [ "avais resu", "avais resu", "avait resu", "avions resu", "aviez resu", "avaient resu" ],
+  "passeAnterieur": [ "eus resu", "eus resu", "eut resu", "eûmes resu", "eûtes resu", "eurent resu" ],
+  "futurAnterieur": [ "aurai resu", "auras resu", "aura resu", "aurons resu", "aurez resu", "auront resu" ],
+  "subjonctifPresent": [ "resache", "resaches", "resache", "resachions", "resachiez", "resachent" ],
+  "subjonctifImparfait": [ "resusse", "resusses", "resût", "resussions", "resussiez", "resussent" ],
+  "subjonctifPasse": [ "aie resu", "aies resu", "ait resu", "ayons resu", "ayez resu", "aient resu" ],
+  "subjonctifPlusQueParfait": [ "eusse resu", "eusses resu", "eût resu", "eussions resu", "eussiez resu", "eussent resu" ],
+  "conditionnelPresent": [ "resaurais", "resaurais", "resaurait", "resaurions", "resauriez", "resauraient" ],
+  "conditionnelPasse": [ "aurais resu", "aurais resu", "aurait resu", "aurions resu", "auriez resu", "auraient resu" ],
+  "conditionnelPasseII": [ "eusse resu", "eusses resu", "eût resu", "eussions resu", "eussiez resu", "eussent resu" ],
+  "imperatif": [ "–", "resache !", "–", "resachons !", "resachez !", "–" ],
+  "imperatifPasse": [ "–", "aie resu !", "–", "ayons resu !", "ayez resu !", "–" ]
+}

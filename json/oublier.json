@@ -1,0 +1,22 @@
+{
+  "infinitif": "oublier",
+  "participePresent": "oubliant",
+  "participePasse": "oublié",
+  "present": [ "oublie", "oublies", "oublie", "oublions", "oubliez", "oublient" ],
+  "imparfait": [ "oubliais", "oubliais", "oubliait", "oubliions", "oubliiez", "oubliaient" ],
+  "passeSimple": [ "oubliai", "oublias", "oublia", "oubliâmes", "oubliâtes", "oublièrent" ],
+  "futurSimple": [ "oublierai", "oublieras", "oubliera", "oublierons", "oublierez", "oublieront" ],
+  "passeCompose": [ "ai oublié", "as oublié", "a oublié", "avons oublié", "avez oublié", "ont oublié" ],
+  "plusQueParfait": [ "avais oublié", "avais oublié", "avait oublié", "avions oublié", "aviez oublié", "avaient oublié" ],
+  "passeAnterieur": [ "eus oublié", "eus oublié", "eut oublié", "eûmes oublié", "eûtes oublié", "eurent oublié" ],
+  "futurAnterieur": [ "aurai oublié", "auras oublié", "aura oublié", "aurons oublié", "aurez oublié", "auront oublié" ],
+  "subjonctifPresent": [ "oublie", "oublies", "oublie", "oubliions", "oubliiez", "oublient" ],
+  "subjonctifImparfait": [ "oubliasse", "oubliasses", "oubliât", "oubliassions", "oubliassiez", "oubliassent" ],
+  "subjonctifPasse": [ "aie oublié", "aies oublié", "ait oublié", "ayons oublié", "ayez oublié", "aient oublié" ],
+  "subjonctifPlusQueParfait": [ "eusse oublié", "eusses oublié", "eût oublié", "eussions oublié", "eussiez oublié", "eussent oublié" ],
+  "conditionnelPresent": [ "oublierais", "oublierais", "oublierait", "oublierions", "oublieriez", "oublieraient" ],
+  "conditionnelPasse": [ "aurais oublié", "aurais oublié", "aurait oublié", "aurions oublié", "auriez oublié", "auraient oublié" ],
+  "conditionnelPasseII": [ "eusse oublié", "eusses oublié", "eût oublié", "eussions oublié", "eussiez oublié", "eussent oublié" ],
+  "imperatif": [ "–", "oublie !", "–", "oublions !", "oubliez !", "–" ],
+  "imperatifPasse": [ "–", "aie oublié !", "–", "ayons oublié !", "ayez oublié !", "–" ]
+}

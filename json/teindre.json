@@ -1,0 +1,22 @@
+{
+  "infinitif": "teindre",
+  "participePresent": "teignant",
+  "participePasse": "teint",
+  "present": [ "teins", "teins", "teint", "teignons", "teignez", "teignent" ],
+  "imparfait": [ "teignais", "teignais", "teignait", "teignions", "teigniez", "teignaient" ],
+  "passeSimple": [ "teignis", "teignis", "teignit", "teignîmes", "teignîtes", "teignirent" ],
+  "futurSimple": [ "teindrai", "teindras", "teindra", "teindrons", "teindrez", "teindront" ],
+  "passeCompose": [ "ai teint", "as teint", "a teint", "avons teint", "avez teint", "ont teint" ],
+  "plusQueParfait": [ "avais teint", "avais teint", "avait teint", "avions teint", "aviez teint", "avaient teint" ],
+  "passeAnterieur": [ "eus teint", "eus teint", "eut teint", "eûmes teint", "eûtes teint", "eurent teint" ],
+  "futurAnterieur": [ "aurai teint", "auras teint", "aura teint", "aurons teint", "aurez teint", "auront teint" ],
+  "subjonctifPresent": [ "teigne", "teignes", "teigne", "teignions", "teigniez", "teignent" ],
+  "subjonctifImparfait": [ "teignisse", "teignisses", "teignît", "teignissions", "teignissiez", "teignissent" ],
+  "subjonctifPasse": [ "aie teint", "aies teint", "ait teint", "ayons teint", "ayez teint", "aient teint" ],
+  "subjonctifPlusQueParfait": [ "eusse teint", "eusses teint", "eût teint", "eussions teint", "eussiez teint", "eussent teint" ],
+  "conditionnelPresent": [ "teindrais", "teindrais", "teindrait", "teindrions", "teindriez", "teindraient" ],
+  "conditionnelPasse": [ "aurais teint", "aurais teint", "aurait teint", "aurions teint", "auriez teint", "auraient teint" ],
+  "conditionnelPasseII": [ "eusse teint", "eusses teint", "eût teint", "eussions teint", "eussiez teint", "eussent teint" ],
+  "imperatif": [ "–", "teins !", "–", "teignons !", "teignez !", "–" ],
+  "imperatifPasse": [ "–", "aie teint !", "–", "ayons teint !", "ayez teint !", "–" ]
+}

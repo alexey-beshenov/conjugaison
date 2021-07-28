@@ -1,0 +1,22 @@
+{
+  "infinitif": "se secourir",
+  "participePresent": "se secourant",
+  "participePasse": "secouru",
+  "present": [ "me secours", "te secours", "se secourt", "nous secourons", "vous secourez", "se secourent" ],
+  "imparfait": [ "me secourais", "te secourais", "se secourait", "nous secourions", "vous secouriez", "se secouraient" ],
+  "passeSimple": [ "me secourus", "te secourus", "se secourut", "nous secourûmes", "vous secourûtes", "se secoururent" ],
+  "futurSimple": [ "me secourrai", "te secourras", "se secourra", "nous secourrons", "vous secourrez", "se secourront" ],
+  "passeCompose": [ "me suis secouru(e)", "t'es secouru(e)", "s'est secouru(e)", "nous sommes secouru(e)s", "vous êtes secouru(e)(s)", "se sont secouru(e)s" ],
+  "plusQueParfait": [ "m'étais secouru(e)", "t'étais secouru(e)", "s'était secouru(e)", "nous étions secouru(e)s", "vous étiez secouru(e)(s)", "s'étaient secouru(e)s" ],
+  "passeAnterieur": [ "me fus secouru(e)", "te fus secouru(e)", "se fut secouru(e)", "nous fûmes secouru(e)s", "vous fûtes secouru(e)(s)", "se furent secouru(e)s" ],
+  "futurAnterieur": [ "me serai secouru(e)", "te seras secouru(e)", "se sera secouru(e)", "nous serons secouru(e)s", "vous serez secouru(e)(s)", "se seront secouru(e)s" ],
+  "subjonctifPresent": [ "me secoure", "te secoures", "se secoure", "nous secourions", "vous secouriez", "se secourent" ],
+  "subjonctifImparfait": [ "me secourusse", "te secourusses", "se secourût", "nous secourussions", "vous secourussiez", "se secourussent" ],
+  "subjonctifPasse": [ "me sois secouru(e)", "te sois secouru(e)", "se soit secouru(e)", "nous soyons secouru(e)s", "vous soyez secouru(e)(s)", "se soient secouru(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse secouru(e)", "te fusses secouru(e)", "se fût secouru(e)", "nous fussions secouru(e)s", "vous fussiez secouru(e)(s)", "se fussent secouru(e)s" ],
+  "conditionnelPresent": [ "me secourrais", "te secourrais", "se secourrait", "nous secourrions", "vous secourriez", "se secourraient" ],
+  "conditionnelPasse": [ "me serais secouru(e)", "te serais secouru(e)", "se serait secouru(e)", "nous serions secouru(e)s", "vous seriez secouru(e)(s)", "se seraient secouru(e)s" ],
+  "conditionnelPasseII": [ "me fusse secouru(e)", "te fusses secouru(e)", "se fût secouru(e)", "nous fussions secouru(e)s", "vous fussiez secouru(e)(s)", "se fussent secouru(e)s" ],
+  "imperatif": [ "–", "secours-toi !", "–", "secourons-nous !", "secourez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

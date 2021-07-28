@@ -1,0 +1,22 @@
+{
+  "infinitif": "se sauter",
+  "participePresent": "se sautant",
+  "participePasse": "sauté",
+  "present": [ "–", "–", "se saute", "nous sautons", "vous sautez", "se sautent" ],
+  "imparfait": [ "–", "–", "se sautait", "nous sautions", "vous sautiez", "se sautaient" ],
+  "passeSimple": [ "–", "–", "se sauta", "nous sautâmes", "vous sautâtes", "se sautèrent" ],
+  "futurSimple": [ "–", "–", "se sautera", "nous sauterons", "vous sauterez", "se sauteront" ],
+  "passeCompose": [ "–", "–", "s'est sauté(e)s", "nous sommes sauté(e)s", "vous êtes sauté(e)(s)", "se sont sauté(e)s" ],
+  "plusQueParfait": [ "–", "–", "s'était sauté(e)s", "nous étions sauté(e)s", "vous étiez sauté(e)(s)", "s'étaient sauté(e)s" ],
+  "passeAnterieur": [ "–", "–", "se fut sauté(e)s", "nous fûmes sauté(e)s", "vous fûtes sauté(e)(s)", "se furent sauté(e)s" ],
+  "futurAnterieur": [ "–", "–", "se sera sauté(e)s", "nous serons sauté(e)s", "vous serez sauté(e)(s)", "se seront sauté(e)s" ],
+  "subjonctifPresent": [ "–", "–", "se saute", "nous sautions", "vous sautiez", "se sautent" ],
+  "subjonctifImparfait": [ "–", "–", "se sautât", "nous sautassions", "vous sautassiez", "se sautassent" ],
+  "subjonctifPasse": [ "–", "–", "se soit sauté(e)s", "nous soyons sauté(e)s", "vous soyez sauté(e)(s)", "se soient sauté(e)s" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "se fût sauté(e)s", "nous fussions sauté(e)s", "vous fussiez sauté(e)(s)", "se fussent sauté(e)s" ],
+  "conditionnelPresent": [ "–", "–", "se sauterait", "nous sauterions", "vous sauteriez", "se sauteraient" ],
+  "conditionnelPasse": [ "–", "–", "se serait sauté(e)s", "nous serions sauté(e)s", "vous seriez sauté(e)(s)", "se seraient sauté(e)s" ],
+  "conditionnelPasseII": [ "–", "–", "se fût sauté(e)s", "nous fussions sauté(e)s", "vous fussiez sauté(e)(s)", "se fussent sauté(e)s" ],
+  "imperatif": [ "–", "–", "–", "sautons-nous !", "sautez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

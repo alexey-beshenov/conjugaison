@@ -1,0 +1,22 @@
+{
+  "infinitif": "quitter",
+  "participePresent": "quittant",
+  "participePasse": "quitté",
+  "present": [ "quitte", "quittes", "quitte", "quittons", "quittez", "quittent" ],
+  "imparfait": [ "quittais", "quittais", "quittait", "quittions", "quittiez", "quittaient" ],
+  "passeSimple": [ "quittai", "quittas", "quitta", "quittâmes", "quittâtes", "quittèrent" ],
+  "futurSimple": [ "quitterai", "quitteras", "quittera", "quitterons", "quitterez", "quitteront" ],
+  "passeCompose": [ "ai quitté", "as quitté", "a quitté", "avons quitté", "avez quitté", "ont quitté" ],
+  "plusQueParfait": [ "avais quitté", "avais quitté", "avait quitté", "avions quitté", "aviez quitté", "avaient quitté" ],
+  "passeAnterieur": [ "eus quitté", "eus quitté", "eut quitté", "eûmes quitté", "eûtes quitté", "eurent quitté" ],
+  "futurAnterieur": [ "aurai quitté", "auras quitté", "aura quitté", "aurons quitté", "aurez quitté", "auront quitté" ],
+  "subjonctifPresent": [ "quitte", "quittes", "quitte", "quittions", "quittiez", "quittent" ],
+  "subjonctifImparfait": [ "quittasse", "quittasses", "quittât", "quittassions", "quittassiez", "quittassent" ],
+  "subjonctifPasse": [ "aie quitté", "aies quitté", "ait quitté", "ayons quitté", "ayez quitté", "aient quitté" ],
+  "subjonctifPlusQueParfait": [ "eusse quitté", "eusses quitté", "eût quitté", "eussions quitté", "eussiez quitté", "eussent quitté" ],
+  "conditionnelPresent": [ "quitterais", "quitterais", "quitterait", "quitterions", "quitteriez", "quitteraient" ],
+  "conditionnelPasse": [ "aurais quitté", "aurais quitté", "aurait quitté", "aurions quitté", "auriez quitté", "auraient quitté" ],
+  "conditionnelPasseII": [ "eusse quitté", "eusses quitté", "eût quitté", "eussions quitté", "eussiez quitté", "eussent quitté" ],
+  "imperatif": [ "–", "quitte !", "–", "quittons !", "quittez !", "–" ],
+  "imperatifPasse": [ "–", "aie quitté !", "–", "ayons quitté !", "ayez quitté !", "–" ]
+}

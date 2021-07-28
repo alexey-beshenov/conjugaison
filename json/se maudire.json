@@ -1,0 +1,22 @@
+{
+  "infinitif": "se maudire",
+  "participePresent": "se maudissant",
+  "participePasse": "maudit",
+  "present": [ "me maudis", "te maudis", "se maudit", "nous maudissons", "vous maudissez", "se maudissent" ],
+  "imparfait": [ "me maudissais", "te maudissais", "se maudissait", "nous maudissions", "vous maudissiez", "se maudissaient" ],
+  "passeSimple": [ "me maudis", "te maudis", "se maudit", "nous maudîmes", "vous maudîtes", "se maudirent" ],
+  "futurSimple": [ "me maudirai", "te maudiras", "se maudira", "nous maudirons", "vous maudirez", "se maudiront" ],
+  "passeCompose": [ "me suis maudit(e)", "t'es maudit(e)", "s'est maudit(e)", "nous sommes maudit(e)s", "vous êtes maudit(e)(s)", "se sont maudit(e)s" ],
+  "plusQueParfait": [ "m'étais maudit(e)", "t'étais maudit(e)", "s'était maudit(e)", "nous étions maudit(e)s", "vous étiez maudit(e)(s)", "s'étaient maudit(e)s" ],
+  "passeAnterieur": [ "me fus maudit(e)", "te fus maudit(e)", "se fut maudit(e)", "nous fûmes maudit(e)s", "vous fûtes maudit(e)(s)", "se furent maudit(e)s" ],
+  "futurAnterieur": [ "me serai maudit(e)", "te seras maudit(e)", "se sera maudit(e)", "nous serons maudit(e)s", "vous serez maudit(e)(s)", "se seront maudit(e)s" ],
+  "subjonctifPresent": [ "me maudisse", "te maudisses", "se maudisse", "nous maudissions", "vous maudissiez", "se maudissent" ],
+  "subjonctifImparfait": [ "me maudisse", "te maudisses", "se maudît", "nous maudissions", "vous maudissiez", "se maudissent" ],
+  "subjonctifPasse": [ "me sois maudit(e)", "te sois maudit(e)", "se soit maudit(e)", "nous soyons maudit(e)s", "vous soyez maudit(e)(s)", "se soient maudit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse maudit(e)", "te fusses maudit(e)", "se fût maudit(e)", "nous fussions maudit(e)s", "vous fussiez maudit(e)(s)", "se fussent maudit(e)s" ],
+  "conditionnelPresent": [ "me maudirais", "te maudirais", "se maudirait", "nous maudirions", "vous maudiriez", "se maudiraient" ],
+  "conditionnelPasse": [ "me serais maudit(e)", "te serais maudit(e)", "se serait maudit(e)", "nous serions maudit(e)s", "vous seriez maudit(e)(s)", "se seraient maudit(e)s" ],
+  "conditionnelPasseII": [ "me fusse maudit(e)", "te fusses maudit(e)", "se fût maudit(e)", "nous fussions maudit(e)s", "vous fussiez maudit(e)(s)", "se fussent maudit(e)s" ],
+  "imperatif": [ "–", "maudis-toi !", "–", "maudissons-nous !", "maudissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

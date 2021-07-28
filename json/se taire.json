@@ -1,0 +1,22 @@
+{
+  "infinitif": "se taire",
+  "participePresent": "se taisant",
+  "participePasse": "tu",
+  "present": [ "me tais", "te tais", "se tait", "nous taisons", "vous taisez", "se taisent" ],
+  "imparfait": [ "me taisais", "te taisais", "se taisait", "nous taisions", "vous taisiez", "se taisaient" ],
+  "passeSimple": [ "me tus", "te tus", "se tut", "nous tûmes", "vous tûtes", "se turent" ],
+  "futurSimple": [ "me tairai", "te tairas", "se taira", "nous tairons", "vous tairez", "se tairont" ],
+  "passeCompose": [ "me suis tu(e)", "t'es tu(e)", "s'est tu(e)", "nous sommes tu(e)s", "vous êtes tu(e)(s)", "se sont tu(e)s" ],
+  "plusQueParfait": [ "m'étais tu(e)", "t'étais tu(e)", "s'était tu(e)", "nous étions tu(e)s", "vous étiez tu(e)(s)", "s'étaient tu(e)s" ],
+  "passeAnterieur": [ "me fus tu(e)", "te fus tu(e)", "se fut tu(e)", "nous fûmes tu(e)s", "vous fûtes tu(e)(s)", "se furent tu(e)s" ],
+  "futurAnterieur": [ "me serai tu(e)", "te seras tu(e)", "se sera tu(e)", "nous serons tu(e)s", "vous serez tu(e)(s)", "se seront tu(e)s" ],
+  "subjonctifPresent": [ "me taise", "te taises", "se taise", "nous taisions", "vous taisiez", "se taisent" ],
+  "subjonctifImparfait": [ "me tusse", "te tusses", "se tût", "nous tussions", "vous tussiez", "se tussent" ],
+  "subjonctifPasse": [ "me sois tu(e)", "te sois tu(e)", "se soit tu(e)", "nous soyons tu(e)s", "vous soyez tu(e)(s)", "se soient tu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse tu(e)", "te fusses tu(e)", "se fût tu(e)", "nous fussions tu(e)s", "vous fussiez tu(e)(s)", "se fussent tu(e)s" ],
+  "conditionnelPresent": [ "me tairais", "te tairais", "se tairait", "nous tairions", "vous tairiez", "se tairaient" ],
+  "conditionnelPasse": [ "me serais tu(e)", "te serais tu(e)", "se serait tu(e)", "nous serions tu(e)s", "vous seriez tu(e)(s)", "se seraient tu(e)s" ],
+  "conditionnelPasseII": [ "me fusse tu(e)", "te fusses tu(e)", "se fût tu(e)", "nous fussions tu(e)s", "vous fussiez tu(e)(s)", "se fussent tu(e)s" ],
+  "imperatif": [ "–", "tais-toi !", "–", "taisons-nous !", "taisez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

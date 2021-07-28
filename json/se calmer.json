@@ -1,0 +1,22 @@
+{
+  "infinitif": "se calmer",
+  "participePresent": "se calmant",
+  "participePasse": "calmé",
+  "present": [ "me calme", "te calmes", "se calme", "nous calmons", "vous calmez", "se calment" ],
+  "imparfait": [ "me calmais", "te calmais", "se calmait", "nous calmions", "vous calmiez", "se calmaient" ],
+  "passeSimple": [ "me calmai", "te calmas", "se calma", "nous calmâmes", "vous calmâtes", "se calmèrent" ],
+  "futurSimple": [ "me calmerai", "te calmeras", "se calmera", "nous calmerons", "vous calmerez", "se calmeront" ],
+  "passeCompose": [ "me suis calmé(e)", "t'es calmé(e)", "s'est calmé(e)", "nous sommes calmé(e)s", "vous êtes calmé(e)(s)", "se sont calmé(e)s" ],
+  "plusQueParfait": [ "m'étais calmé(e)", "t'étais calmé(e)", "s'était calmé(e)", "nous étions calmé(e)s", "vous étiez calmé(e)(s)", "s'étaient calmé(e)s" ],
+  "passeAnterieur": [ "me fus calmé(e)", "te fus calmé(e)", "se fut calmé(e)", "nous fûmes calmé(e)s", "vous fûtes calmé(e)(s)", "se furent calmé(e)s" ],
+  "futurAnterieur": [ "me serai calmé(e)", "te seras calmé(e)", "se sera calmé(e)", "nous serons calmé(e)s", "vous serez calmé(e)(s)", "se seront calmé(e)s" ],
+  "subjonctifPresent": [ "me calme", "te calmes", "se calme", "nous calmions", "vous calmiez", "se calment" ],
+  "subjonctifImparfait": [ "me calmasse", "te calmasses", "se calmât", "nous calmassions", "vous calmassiez", "se calmassent" ],
+  "subjonctifPasse": [ "me sois calmé(e)", "te sois calmé(e)", "se soit calmé(e)", "nous soyons calmé(e)s", "vous soyez calmé(e)(s)", "se soient calmé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse calmé(e)", "te fusses calmé(e)", "se fût calmé(e)", "nous fussions calmé(e)s", "vous fussiez calmé(e)(s)", "se fussent calmé(e)s" ],
+  "conditionnelPresent": [ "me calmerais", "te calmerais", "se calmerait", "nous calmerions", "vous calmeriez", "se calmeraient" ],
+  "conditionnelPasse": [ "me serais calmé(e)", "te serais calmé(e)", "se serait calmé(e)", "nous serions calmé(e)s", "vous seriez calmé(e)(s)", "se seraient calmé(e)s" ],
+  "conditionnelPasseII": [ "me fusse calmé(e)", "te fusses calmé(e)", "se fût calmé(e)", "nous fussions calmé(e)s", "vous fussiez calmé(e)(s)", "se fussent calmé(e)s" ],
+  "imperatif": [ "–", "calme-toi !", "–", "calmons-nous !", "calmez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

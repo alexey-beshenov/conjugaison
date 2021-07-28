@@ -1,0 +1,22 @@
+{
+  "infinitif": "se choisir",
+  "participePresent": "se choisissant",
+  "participePasse": "choisi",
+  "present": [ "me choisis", "te choisis", "se choisit", "nous choisissons", "vous choisissez", "se choisissent" ],
+  "imparfait": [ "me choisissais", "te choisissais", "se choisissait", "nous choisissions", "vous choisissiez", "se choisissaient" ],
+  "passeSimple": [ "me choisis", "te choisis", "se choisit", "nous choisîmes", "vous choisîtes", "se choisirent" ],
+  "futurSimple": [ "me choisirai", "te choisiras", "se choisira", "nous choisirons", "vous choisirez", "se choisiront" ],
+  "passeCompose": [ "me suis choisi(e)", "t'es choisi(e)", "s'est choisi(e)", "nous sommes choisi(e)s", "vous êtes choisi(e)(s)", "se sont choisi(e)s" ],
+  "plusQueParfait": [ "m'étais choisi(e)", "t'étais choisi(e)", "s'était choisi(e)", "nous étions choisi(e)s", "vous étiez choisi(e)(s)", "s'étaient choisi(e)s" ],
+  "passeAnterieur": [ "me fus choisi(e)", "te fus choisi(e)", "se fut choisi(e)", "nous fûmes choisi(e)s", "vous fûtes choisi(e)(s)", "se furent choisi(e)s" ],
+  "futurAnterieur": [ "me serai choisi(e)", "te seras choisi(e)", "se sera choisi(e)", "nous serons choisi(e)s", "vous serez choisi(e)(s)", "se seront choisi(e)s" ],
+  "subjonctifPresent": [ "me choisisse", "te choisisses", "se choisisse", "nous choisissions", "vous choisissiez", "se choisissent" ],
+  "subjonctifImparfait": [ "me choisisse", "te choisisses", "se choisît", "nous choisissions", "vous choisissiez", "se choisissent" ],
+  "subjonctifPasse": [ "me sois choisi(e)", "te sois choisi(e)", "se soit choisi(e)", "nous soyons choisi(e)s", "vous soyez choisi(e)(s)", "se soient choisi(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse choisi(e)", "te fusses choisi(e)", "se fût choisi(e)", "nous fussions choisi(e)s", "vous fussiez choisi(e)(s)", "se fussent choisi(e)s" ],
+  "conditionnelPresent": [ "me choisirais", "te choisirais", "se choisirait", "nous choisirions", "vous choisiriez", "se choisiraient" ],
+  "conditionnelPasse": [ "me serais choisi(e)", "te serais choisi(e)", "se serait choisi(e)", "nous serions choisi(e)s", "vous seriez choisi(e)(s)", "se seraient choisi(e)s" ],
+  "conditionnelPasseII": [ "me fusse choisi(e)", "te fusses choisi(e)", "se fût choisi(e)", "nous fussions choisi(e)s", "vous fussiez choisi(e)(s)", "se fussent choisi(e)s" ],
+  "imperatif": [ "–", "choisis-toi !", "–", "choisissons-nous !", "choisissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

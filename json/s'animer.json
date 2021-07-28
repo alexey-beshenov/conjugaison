@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'animer",
+  "participePresent": "s'animant",
+  "participePasse": "animé",
+  "present": [ "m'anime", "t'animes", "s'anime", "nous animons", "vous animez", "s'animent" ],
+  "imparfait": [ "m'animais", "t'animais", "s'animait", "nous animions", "vous animiez", "s'animaient" ],
+  "passeSimple": [ "m'animai", "t'animas", "s'anima", "nous animâmes", "vous animâtes", "s'animèrent" ],
+  "futurSimple": [ "m'animerai", "t'animeras", "s'animera", "nous animerons", "vous animerez", "s'animeront" ],
+  "passeCompose": [ "me suis animé(e)", "t'es animé(e)", "s'est animé(e)", "nous sommes animé(e)s", "vous êtes animé(e)(s)", "se sont animé(e)s" ],
+  "plusQueParfait": [ "m'étais animé(e)", "t'étais animé(e)", "s'était animé(e)", "nous étions animé(e)s", "vous étiez animé(e)(s)", "s'étaient animé(e)s" ],
+  "passeAnterieur": [ "me fus animé(e)", "te fus animé(e)", "se fut animé(e)", "nous fûmes animé(e)s", "vous fûtes animé(e)(s)", "se furent animé(e)s" ],
+  "futurAnterieur": [ "me serai animé(e)", "te seras animé(e)", "se sera animé(e)", "nous serons animé(e)s", "vous serez animé(e)(s)", "se seront animé(e)s" ],
+  "subjonctifPresent": [ "m'anime", "t'animes", "s'anime", "nous animions", "vous animiez", "s'animent" ],
+  "subjonctifImparfait": [ "m'animasse", "t'animasses", "s'animât", "nous animassions", "vous animassiez", "s'animassent" ],
+  "subjonctifPasse": [ "me sois animé(e)", "te sois animé(e)", "se soit animé(e)", "nous soyons animé(e)s", "vous soyez animé(e)(s)", "se soient animé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse animé(e)", "te fusses animé(e)", "se fût animé(e)", "nous fussions animé(e)s", "vous fussiez animé(e)(s)", "se fussent animé(e)s" ],
+  "conditionnelPresent": [ "m'animerais", "t'animerais", "s'animerait", "nous animerions", "vous animeriez", "s'animeraient" ],
+  "conditionnelPasse": [ "me serais animé(e)", "te serais animé(e)", "se serait animé(e)", "nous serions animé(e)s", "vous seriez animé(e)(s)", "se seraient animé(e)s" ],
+  "conditionnelPasseII": [ "me fusse animé(e)", "te fusses animé(e)", "se fût animé(e)", "nous fussions animé(e)s", "vous fussiez animé(e)(s)", "se fussent animé(e)s" ],
+  "imperatif": [ "–", "anime-toi !", "–", "animons-nous !", "animez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

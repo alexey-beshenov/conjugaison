@@ -1,0 +1,22 @@
+{
+  "infinitif": "se saisir",
+  "participePresent": "se saisissant",
+  "participePasse": "saisi",
+  "present": [ "me saisis", "te saisis", "se saisit", "nous saisissons", "vous saisissez", "se saisissent" ],
+  "imparfait": [ "me saisissais", "te saisissais", "se saisissait", "nous saisissions", "vous saisissiez", "se saisissaient" ],
+  "passeSimple": [ "me saisis", "te saisis", "se saisit", "nous saisîmes", "vous saisîtes", "se saisirent" ],
+  "futurSimple": [ "me saisirai", "te saisiras", "se saisira", "nous saisirons", "vous saisirez", "se saisiront" ],
+  "passeCompose": [ "me suis saisi(e)", "t'es saisi(e)", "s'est saisi(e)", "nous sommes saisi(e)s", "vous êtes saisi(e)(s)", "se sont saisi(e)s" ],
+  "plusQueParfait": [ "m'étais saisi(e)", "t'étais saisi(e)", "s'était saisi(e)", "nous étions saisi(e)s", "vous étiez saisi(e)(s)", "s'étaient saisi(e)s" ],
+  "passeAnterieur": [ "me fus saisi(e)", "te fus saisi(e)", "se fut saisi(e)", "nous fûmes saisi(e)s", "vous fûtes saisi(e)(s)", "se furent saisi(e)s" ],
+  "futurAnterieur": [ "me serai saisi(e)", "te seras saisi(e)", "se sera saisi(e)", "nous serons saisi(e)s", "vous serez saisi(e)(s)", "se seront saisi(e)s" ],
+  "subjonctifPresent": [ "me saisisse", "te saisisses", "se saisisse", "nous saisissions", "vous saisissiez", "se saisissent" ],
+  "subjonctifImparfait": [ "me saisisse", "te saisisses", "se saisît", "nous saisissions", "vous saisissiez", "se saisissent" ],
+  "subjonctifPasse": [ "me sois saisi(e)", "te sois saisi(e)", "se soit saisi(e)", "nous soyons saisi(e)s", "vous soyez saisi(e)(s)", "se soient saisi(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse saisi(e)", "te fusses saisi(e)", "se fût saisi(e)", "nous fussions saisi(e)s", "vous fussiez saisi(e)(s)", "se fussent saisi(e)s" ],
+  "conditionnelPresent": [ "me saisirais", "te saisirais", "se saisirait", "nous saisirions", "vous saisiriez", "se saisiraient" ],
+  "conditionnelPasse": [ "me serais saisi(e)", "te serais saisi(e)", "se serait saisi(e)", "nous serions saisi(e)s", "vous seriez saisi(e)(s)", "se seraient saisi(e)s" ],
+  "conditionnelPasseII": [ "me fusse saisi(e)", "te fusses saisi(e)", "se fût saisi(e)", "nous fussions saisi(e)s", "vous fussiez saisi(e)(s)", "se fussent saisi(e)s" ],
+  "imperatif": [ "–", "saisis-toi !", "–", "saisissons-nous !", "saisissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "souvenir",
+  "participePresent": "souvenant",
+  "participePasse": "souvenu",
+  "present": [ "–", "–", "souvient", "–", "–", "–" ],
+  "imparfait": [ "–", "–", "souvenait", "–", "–", "–" ],
+  "passeSimple": [ "–", "–", "souvint", "–", "–", "–" ],
+  "futurSimple": [ "–", "–", "souviendra", "–", "–", "–" ],
+  "passeCompose": [ "–", "–", "est souvenu(e)", "–", "–", "–" ],
+  "plusQueParfait": [ "–", "–", "était souvenu(e)", "–", "–", "–" ],
+  "passeAnterieur": [ "–", "–", "fut souvenu(e)", "–", "–", "–" ],
+  "futurAnterieur": [ "–", "–", "sera souvenu(e)", "–", "–", "–" ],
+  "subjonctifPresent": [ "–", "–", "souvienne", "–", "–", "–" ],
+  "subjonctifImparfait": [ "–", "–", "souvînt", "–", "–", "–" ],
+  "subjonctifPasse": [ "–", "–", "soit souvenu(e)", "–", "–", "–" ],
+  "subjonctifPlusQueParfait": [ "–", "–", "fût souvenu(e)", "–", "–", "–" ],
+  "conditionnelPresent": [ "–", "–", "souviendrait", "–", "–", "–" ],
+  "conditionnelPasse": [ "–", "–", "serait souvenu(e)", "–", "–", "–" ],
+  "conditionnelPasseII": [ "–", "–", "fût souvenu(e)", "–", "–", "–" ],
+  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

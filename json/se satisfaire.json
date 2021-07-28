@@ -1,0 +1,22 @@
+{
+  "infinitif": "se satisfaire",
+  "participePresent": "se satisfaisant",
+  "participePasse": "satisfait",
+  "present": [ "me satisfais", "te satisfais", "se satisfait", "nous satisfaisons", "vous satisfaites", "se satisfont" ],
+  "imparfait": [ "me satisfaisais", "te satisfaisais", "se satisfaisait", "nous satisfaisions", "vous satisfaisiez", "se satisfaisaient" ],
+  "passeSimple": [ "me satisfis", "te satisfis", "se satisfit", "nous satisfîmes", "vous satisfîtes", "se satisfirent" ],
+  "futurSimple": [ "me satisferai", "te satisferas", "se satisfera", "nous satisferons", "vous satisferez", "se satisferont" ],
+  "passeCompose": [ "me suis satisfait(e)", "t'es satisfait(e)", "s'est satisfait(e)", "nous sommes satisfait(e)s", "vous êtes satisfait(e)(s)", "se sont satisfait(e)s" ],
+  "plusQueParfait": [ "m'étais satisfait(e)", "t'étais satisfait(e)", "s'était satisfait(e)", "nous étions satisfait(e)s", "vous étiez satisfait(e)(s)", "s'étaient satisfait(e)s" ],
+  "passeAnterieur": [ "me fus satisfait(e)", "te fus satisfait(e)", "se fut satisfait(e)", "nous fûmes satisfait(e)s", "vous fûtes satisfait(e)(s)", "se furent satisfait(e)s" ],
+  "futurAnterieur": [ "me serai satisfait(e)", "te seras satisfait(e)", "se sera satisfait(e)", "nous serons satisfait(e)s", "vous serez satisfait(e)(s)", "se seront satisfait(e)s" ],
+  "subjonctifPresent": [ "me satisfasse", "te satisfasses", "se satisfasse", "nous satisfassions", "vous satisfassiez", "se satisfassent" ],
+  "subjonctifImparfait": [ "me satisfisse", "te satisfisses", "se satisfît", "nous satisfissions", "vous satisfissiez", "se satisfissent" ],
+  "subjonctifPasse": [ "me sois satisfait(e)", "te sois satisfait(e)", "se soit satisfait(e)", "nous soyons satisfait(e)s", "vous soyez satisfait(e)(s)", "se soient satisfait(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse satisfait(e)", "te fusses satisfait(e)", "se fût satisfait(e)", "nous fussions satisfait(e)s", "vous fussiez satisfait(e)(s)", "se fussent satisfait(e)s" ],
+  "conditionnelPresent": [ "me satisferais", "te satisferais", "se satisferait", "nous satisferions", "vous satisferiez", "se satisferaient" ],
+  "conditionnelPasse": [ "me serais satisfait(e)", "te serais satisfait(e)", "se serait satisfait(e)", "nous serions satisfait(e)s", "vous seriez satisfait(e)(s)", "se seraient satisfait(e)s" ],
+  "conditionnelPasseII": [ "me fusse satisfait(e)", "te fusses satisfait(e)", "se fût satisfait(e)", "nous fussions satisfait(e)s", "vous fussiez satisfait(e)(s)", "se fussent satisfait(e)s" ],
+  "imperatif": [ "–", "satisfais-toi !", "–", "satisfaisons-nous !", "satisfaites-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

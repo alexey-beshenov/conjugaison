@@ -1,0 +1,22 @@
+{
+  "infinitif": "se remarquer",
+  "participePresent": "se remarquant",
+  "participePasse": "remarqué",
+  "present": [ "me remarque", "te remarques", "se remarque", "nous remarquons", "vous remarquez", "se remarquent" ],
+  "imparfait": [ "me remarquais", "te remarquais", "se remarquait", "nous remarquions", "vous remarquiez", "se remarquaient" ],
+  "passeSimple": [ "me remarquai", "te remarquas", "se remarqua", "nous remarquâmes", "vous remarquâtes", "se remarquèrent" ],
+  "futurSimple": [ "me remarquerai", "te remarqueras", "se remarquera", "nous remarquerons", "vous remarquerez", "se remarqueront" ],
+  "passeCompose": [ "me suis remarqué(e)", "t'es remarqué(e)", "s'est remarqué(e)", "nous sommes remarqué(e)s", "vous êtes remarqué(e)(s)", "se sont remarqué(e)s" ],
+  "plusQueParfait": [ "m'étais remarqué(e)", "t'étais remarqué(e)", "s'était remarqué(e)", "nous étions remarqué(e)s", "vous étiez remarqué(e)(s)", "s'étaient remarqué(e)s" ],
+  "passeAnterieur": [ "me fus remarqué(e)", "te fus remarqué(e)", "se fut remarqué(e)", "nous fûmes remarqué(e)s", "vous fûtes remarqué(e)(s)", "se furent remarqué(e)s" ],
+  "futurAnterieur": [ "me serai remarqué(e)", "te seras remarqué(e)", "se sera remarqué(e)", "nous serons remarqué(e)s", "vous serez remarqué(e)(s)", "se seront remarqué(e)s" ],
+  "subjonctifPresent": [ "me remarque", "te remarques", "se remarque", "nous remarquions", "vous remarquiez", "se remarquent" ],
+  "subjonctifImparfait": [ "me remarquasse", "te remarquasses", "se remarquât", "nous remarquassions", "vous remarquassiez", "se remarquassent" ],
+  "subjonctifPasse": [ "me sois remarqué(e)", "te sois remarqué(e)", "se soit remarqué(e)", "nous soyons remarqué(e)s", "vous soyez remarqué(e)(s)", "se soient remarqué(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse remarqué(e)", "te fusses remarqué(e)", "se fût remarqué(e)", "nous fussions remarqué(e)s", "vous fussiez remarqué(e)(s)", "se fussent remarqué(e)s" ],
+  "conditionnelPresent": [ "me remarquerais", "te remarquerais", "se remarquerait", "nous remarquerions", "vous remarqueriez", "se remarqueraient" ],
+  "conditionnelPasse": [ "me serais remarqué(e)", "te serais remarqué(e)", "se serait remarqué(e)", "nous serions remarqué(e)s", "vous seriez remarqué(e)(s)", "se seraient remarqué(e)s" ],
+  "conditionnelPasseII": [ "me fusse remarqué(e)", "te fusses remarqué(e)", "se fût remarqué(e)", "nous fussions remarqué(e)s", "vous fussiez remarqué(e)(s)", "se fussent remarqué(e)s" ],
+  "imperatif": [ "–", "remarque-toi !", "–", "remarquons-nous !", "remarquez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

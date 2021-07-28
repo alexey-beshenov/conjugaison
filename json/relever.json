@@ -1,0 +1,22 @@
+{
+  "infinitif": "relever",
+  "participePresent": "relevant",
+  "participePasse": "relevé",
+  "present": [ "relève", "relèves", "relève", "relevons", "relevez", "relèvent" ],
+  "imparfait": [ "relevais", "relevais", "relevait", "relevions", "releviez", "relevaient" ],
+  "passeSimple": [ "relevai", "relevas", "releva", "relevâmes", "relevâtes", "relevèrent" ],
+  "futurSimple": [ "relèverai", "relèveras", "relèvera", "relèverons", "relèverez", "relèveront" ],
+  "passeCompose": [ "ai relevé", "as relevé", "a relevé", "avons relevé", "avez relevé", "ont relevé" ],
+  "plusQueParfait": [ "avais relevé", "avais relevé", "avait relevé", "avions relevé", "aviez relevé", "avaient relevé" ],
+  "passeAnterieur": [ "eus relevé", "eus relevé", "eut relevé", "eûmes relevé", "eûtes relevé", "eurent relevé" ],
+  "futurAnterieur": [ "aurai relevé", "auras relevé", "aura relevé", "aurons relevé", "aurez relevé", "auront relevé" ],
+  "subjonctifPresent": [ "relève", "relèves", "relève", "relevions", "releviez", "relèvent" ],
+  "subjonctifImparfait": [ "relevasse", "relevasses", "relevât", "relevassions", "relevassiez", "relevassent" ],
+  "subjonctifPasse": [ "aie relevé", "aies relevé", "ait relevé", "ayons relevé", "ayez relevé", "aient relevé" ],
+  "subjonctifPlusQueParfait": [ "eusse relevé", "eusses relevé", "eût relevé", "eussions relevé", "eussiez relevé", "eussent relevé" ],
+  "conditionnelPresent": [ "relèverais", "relèverais", "relèverait", "relèverions", "relèveriez", "relèveraient" ],
+  "conditionnelPasse": [ "aurais relevé", "aurais relevé", "aurait relevé", "aurions relevé", "auriez relevé", "auraient relevé" ],
+  "conditionnelPasseII": [ "eusse relevé", "eusses relevé", "eût relevé", "eussions relevé", "eussiez relevé", "eussent relevé" ],
+  "imperatif": [ "–", "relève !", "–", "relevons !", "relevez !", "–" ],
+  "imperatifPasse": [ "–", "aie relevé !", "–", "ayons relevé !", "ayez relevé !", "–" ]
+}

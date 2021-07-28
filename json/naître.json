@@ -1,0 +1,22 @@
+{
+  "infinitif": "naître",
+  "participePresent": "naissant",
+  "participePasse": "né",
+  "present": [ "nais", "nais", "naît", "naissons", "naissez", "naissent" ],
+  "imparfait": [ "naissais", "naissais", "naissait", "naissions", "naissiez", "naissaient" ],
+  "passeSimple": [ "naquis", "naquis", "naquit", "naquîmes", "naquîtes", "naquirent" ],
+  "futurSimple": [ "naîtrai", "naîtras", "naîtra", "naîtrons", "naîtrez", "naîtront" ],
+  "passeCompose": [ "suis né(e)", "es né(e)", "est né(e)", "sommes né(e)s", "êtes né(e)(s)", "sont né(e)s" ],
+  "plusQueParfait": [ "étais né(e)", "étais né(e)", "était né(e)", "étions né(e)s", "étiez né(e)(s)", "étaient né(e)s" ],
+  "passeAnterieur": [ "fus né(e)", "fus né(e)", "fut né(e)", "fûmes né(e)s", "fûtes né(e)(s)", "furent né(e)s" ],
+  "futurAnterieur": [ "serai né(e)", "seras né(e)", "sera né(e)", "serons né(e)s", "serez né(e)(s)", "seront né(e)s" ],
+  "subjonctifPresent": [ "naisse", "naisses", "naisse", "naissions", "naissiez", "naissent" ],
+  "subjonctifImparfait": [ "naquisse", "naquisses", "naquît", "naquissions", "naquissiez", "naquissent" ],
+  "subjonctifPasse": [ "sois né(e)", "sois né(e)", "soit né(e)", "soyons né(e)s", "soyez né(e)(s)", "soient né(e)s" ],
+  "subjonctifPlusQueParfait": [ "fusse né(e)", "fusses né(e)", "fût né(e)", "fussions né(e)s", "fussiez né(e)(s)", "fussent né(e)s" ],
+  "conditionnelPresent": [ "naîtrais", "naîtrais", "naîtrait", "naîtrions", "naîtriez", "naîtraient" ],
+  "conditionnelPasse": [ "serais né(e)", "serais né(e)", "serait né(e)", "serions né(e)s", "seriez né(e)(s)", "seraient né(e)s" ],
+  "conditionnelPasseII": [ "fusse né(e)", "fusses né(e)", "fût né(e)", "fussions né(e)s", "fussiez né(e)(s)", "fussent né(e)s" ],
+  "imperatif": [ "–", "nais !", "–", "naissons !", "naissez !", "–" ],
+  "imperatifPasse": [ "–", "sois né(e) !", "–", "soyons né(e)s !", "soyez né(e)(s) !", "–" ]
+}

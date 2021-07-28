@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rapporter",
+  "participePresent": "se rapportant",
+  "participePasse": "rapporté",
+  "present": [ "me rapporte", "te rapportes", "se rapporte", "nous rapportons", "vous rapportez", "se rapportent" ],
+  "imparfait": [ "me rapportais", "te rapportais", "se rapportait", "nous rapportions", "vous rapportiez", "se rapportaient" ],
+  "passeSimple": [ "me rapportai", "te rapportas", "se rapporta", "nous rapportâmes", "vous rapportâtes", "se rapportèrent" ],
+  "futurSimple": [ "me rapporterai", "te rapporteras", "se rapportera", "nous rapporterons", "vous rapporterez", "se rapporteront" ],
+  "passeCompose": [ "me suis rapporté(e)", "t'es rapporté(e)", "s'est rapporté(e)", "nous sommes rapporté(e)s", "vous êtes rapporté(e)(s)", "se sont rapporté(e)s" ],
+  "plusQueParfait": [ "m'étais rapporté(e)", "t'étais rapporté(e)", "s'était rapporté(e)", "nous étions rapporté(e)s", "vous étiez rapporté(e)(s)", "s'étaient rapporté(e)s" ],
+  "passeAnterieur": [ "me fus rapporté(e)", "te fus rapporté(e)", "se fut rapporté(e)", "nous fûmes rapporté(e)s", "vous fûtes rapporté(e)(s)", "se furent rapporté(e)s" ],
+  "futurAnterieur": [ "me serai rapporté(e)", "te seras rapporté(e)", "se sera rapporté(e)", "nous serons rapporté(e)s", "vous serez rapporté(e)(s)", "se seront rapporté(e)s" ],
+  "subjonctifPresent": [ "me rapporte", "te rapportes", "se rapporte", "nous rapportions", "vous rapportiez", "se rapportent" ],
+  "subjonctifImparfait": [ "me rapportasse", "te rapportasses", "se rapportât", "nous rapportassions", "vous rapportassiez", "se rapportassent" ],
+  "subjonctifPasse": [ "me sois rapporté(e)", "te sois rapporté(e)", "se soit rapporté(e)", "nous soyons rapporté(e)s", "vous soyez rapporté(e)(s)", "se soient rapporté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rapporté(e)", "te fusses rapporté(e)", "se fût rapporté(e)", "nous fussions rapporté(e)s", "vous fussiez rapporté(e)(s)", "se fussent rapporté(e)s" ],
+  "conditionnelPresent": [ "me rapporterais", "te rapporterais", "se rapporterait", "nous rapporterions", "vous rapporteriez", "se rapporteraient" ],
+  "conditionnelPasse": [ "me serais rapporté(e)", "te serais rapporté(e)", "se serait rapporté(e)", "nous serions rapporté(e)s", "vous seriez rapporté(e)(s)", "se seraient rapporté(e)s" ],
+  "conditionnelPasseII": [ "me fusse rapporté(e)", "te fusses rapporté(e)", "se fût rapporté(e)", "nous fussions rapporté(e)s", "vous fussiez rapporté(e)(s)", "se fussent rapporté(e)s" ],
+  "imperatif": [ "–", "rapporte-toi !", "–", "rapportons-nous !", "rapportez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

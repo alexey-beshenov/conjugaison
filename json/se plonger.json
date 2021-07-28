@@ -1,0 +1,22 @@
+{
+  "infinitif": "se plonger",
+  "participePresent": "se plongeant",
+  "participePasse": "plongé",
+  "present": [ "me plonge", "te plonges", "se plonge", "nous plongeons", "vous plongez", "se plongent" ],
+  "imparfait": [ "me plongeais", "te plongeais", "se plongeait", "nous plongions", "vous plongiez", "se plongeaient" ],
+  "passeSimple": [ "me plongeai", "te plongeas", "se plongea", "nous plongeâmes", "vous plongeâtes", "se plongèrent" ],
+  "futurSimple": [ "me plongerai", "te plongeras", "se plongera", "nous plongerons", "vous plongerez", "se plongeront" ],
+  "passeCompose": [ "me suis plongé(e)", "t'es plongé(e)", "s'est plongé(e)", "nous sommes plongé(e)s", "vous êtes plongé(e)(s)", "se sont plongé(e)s" ],
+  "plusQueParfait": [ "m'étais plongé(e)", "t'étais plongé(e)", "s'était plongé(e)", "nous étions plongé(e)s", "vous étiez plongé(e)(s)", "s'étaient plongé(e)s" ],
+  "passeAnterieur": [ "me fus plongé(e)", "te fus plongé(e)", "se fut plongé(e)", "nous fûmes plongé(e)s", "vous fûtes plongé(e)(s)", "se furent plongé(e)s" ],
+  "futurAnterieur": [ "me serai plongé(e)", "te seras plongé(e)", "se sera plongé(e)", "nous serons plongé(e)s", "vous serez plongé(e)(s)", "se seront plongé(e)s" ],
+  "subjonctifPresent": [ "me plonge", "te plonges", "se plonge", "nous plongions", "vous plongiez", "se plongent" ],
+  "subjonctifImparfait": [ "me plongeasse", "te plongeasses", "se plongeât", "nous plongeassions", "vous plongeassiez", "se plongeassent" ],
+  "subjonctifPasse": [ "me sois plongé(e)", "te sois plongé(e)", "se soit plongé(e)", "nous soyons plongé(e)s", "vous soyez plongé(e)(s)", "se soient plongé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse plongé(e)", "te fusses plongé(e)", "se fût plongé(e)", "nous fussions plongé(e)s", "vous fussiez plongé(e)(s)", "se fussent plongé(e)s" ],
+  "conditionnelPresent": [ "me plongerais", "te plongerais", "se plongerait", "nous plongerions", "vous plongeriez", "se plongeraient" ],
+  "conditionnelPasse": [ "me serais plongé(e)", "te serais plongé(e)", "se serait plongé(e)", "nous serions plongé(e)s", "vous seriez plongé(e)(s)", "se seraient plongé(e)s" ],
+  "conditionnelPasseII": [ "me fusse plongé(e)", "te fusses plongé(e)", "se fût plongé(e)", "nous fussions plongé(e)s", "vous fussiez plongé(e)(s)", "se fussent plongé(e)s" ],
+  "imperatif": [ "–", "plonge-toi !", "–", "plongeons-nous !", "plongez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

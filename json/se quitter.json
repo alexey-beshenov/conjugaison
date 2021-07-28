@@ -1,0 +1,22 @@
+{
+  "infinitif": "se quitter",
+  "participePresent": "se quittant",
+  "participePasse": "quitté",
+  "present": [ "me quitte", "te quittes", "se quitte", "nous quittons", "vous quittez", "se quittent" ],
+  "imparfait": [ "me quittais", "te quittais", "se quittait", "nous quittions", "vous quittiez", "se quittaient" ],
+  "passeSimple": [ "me quittai", "te quittas", "se quitta", "nous quittâmes", "vous quittâtes", "se quittèrent" ],
+  "futurSimple": [ "me quitterai", "te quitteras", "se quittera", "nous quitterons", "vous quitterez", "se quitteront" ],
+  "passeCompose": [ "me suis quitté(e)", "t'es quitté(e)", "s'est quitté(e)", "nous sommes quitté(e)s", "vous êtes quitté(e)(s)", "se sont quitté(e)s" ],
+  "plusQueParfait": [ "m'étais quitté(e)", "t'étais quitté(e)", "s'était quitté(e)", "nous étions quitté(e)s", "vous étiez quitté(e)(s)", "s'étaient quitté(e)s" ],
+  "passeAnterieur": [ "me fus quitté(e)", "te fus quitté(e)", "se fut quitté(e)", "nous fûmes quitté(e)s", "vous fûtes quitté(e)(s)", "se furent quitté(e)s" ],
+  "futurAnterieur": [ "me serai quitté(e)", "te seras quitté(e)", "se sera quitté(e)", "nous serons quitté(e)s", "vous serez quitté(e)(s)", "se seront quitté(e)s" ],
+  "subjonctifPresent": [ "me quitte", "te quittes", "se quitte", "nous quittions", "vous quittiez", "se quittent" ],
+  "subjonctifImparfait": [ "me quittasse", "te quittasses", "se quittât", "nous quittassions", "vous quittassiez", "se quittassent" ],
+  "subjonctifPasse": [ "me sois quitté(e)", "te sois quitté(e)", "se soit quitté(e)", "nous soyons quitté(e)s", "vous soyez quitté(e)(s)", "se soient quitté(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse quitté(e)", "te fusses quitté(e)", "se fût quitté(e)", "nous fussions quitté(e)s", "vous fussiez quitté(e)(s)", "se fussent quitté(e)s" ],
+  "conditionnelPresent": [ "me quitterais", "te quitterais", "se quitterait", "nous quitterions", "vous quitteriez", "se quitteraient" ],
+  "conditionnelPasse": [ "me serais quitté(e)", "te serais quitté(e)", "se serait quitté(e)", "nous serions quitté(e)s", "vous seriez quitté(e)(s)", "se seraient quitté(e)s" ],
+  "conditionnelPasseII": [ "me fusse quitté(e)", "te fusses quitté(e)", "se fût quitté(e)", "nous fussions quitté(e)s", "vous fussiez quitté(e)(s)", "se fussent quitté(e)s" ],
+  "imperatif": [ "–", "quitte-toi !", "–", "quittons-nous !", "quittez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'ignorer",
+  "participePresent": "s'ignorant",
+  "participePasse": "ignoré",
+  "present": [ "m'ignore", "t'ignores", "s'ignore", "nous ignorons", "vous ignorez", "s'ignorent" ],
+  "imparfait": [ "m'ignorais", "t'ignorais", "s'ignorait", "nous ignorions", "vous ignoriez", "s'ignoraient" ],
+  "passeSimple": [ "m'ignorai", "t'ignoras", "s'ignora", "nous ignorâmes", "vous ignorâtes", "s'ignorèrent" ],
+  "futurSimple": [ "m'ignorerai", "t'ignoreras", "s'ignorera", "nous ignorerons", "vous ignorerez", "s'ignoreront" ],
+  "passeCompose": [ "me suis ignoré(e)", "t'es ignoré(e)", "s'est ignoré(e)", "nous sommes ignoré(e)s", "vous êtes ignoré(e)(s)", "se sont ignoré(e)s" ],
+  "plusQueParfait": [ "m'étais ignoré(e)", "t'étais ignoré(e)", "s'était ignoré(e)", "nous étions ignoré(e)s", "vous étiez ignoré(e)(s)", "s'étaient ignoré(e)s" ],
+  "passeAnterieur": [ "me fus ignoré(e)", "te fus ignoré(e)", "se fut ignoré(e)", "nous fûmes ignoré(e)s", "vous fûtes ignoré(e)(s)", "se furent ignoré(e)s" ],
+  "futurAnterieur": [ "me serai ignoré(e)", "te seras ignoré(e)", "se sera ignoré(e)", "nous serons ignoré(e)s", "vous serez ignoré(e)(s)", "se seront ignoré(e)s" ],
+  "subjonctifPresent": [ "m'ignore", "t'ignores", "s'ignore", "nous ignorions", "vous ignoriez", "s'ignorent" ],
+  "subjonctifImparfait": [ "m'ignorasse", "t'ignorasses", "s'ignorât", "nous ignorassions", "vous ignorassiez", "s'ignorassent" ],
+  "subjonctifPasse": [ "me sois ignoré(e)", "te sois ignoré(e)", "se soit ignoré(e)", "nous soyons ignoré(e)s", "vous soyez ignoré(e)(s)", "se soient ignoré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse ignoré(e)", "te fusses ignoré(e)", "se fût ignoré(e)", "nous fussions ignoré(e)s", "vous fussiez ignoré(e)(s)", "se fussent ignoré(e)s" ],
+  "conditionnelPresent": [ "m'ignorerais", "t'ignorerais", "s'ignorerait", "nous ignorerions", "vous ignoreriez", "s'ignoreraient" ],
+  "conditionnelPasse": [ "me serais ignoré(e)", "te serais ignoré(e)", "se serait ignoré(e)", "nous serions ignoré(e)s", "vous seriez ignoré(e)(s)", "se seraient ignoré(e)s" ],
+  "conditionnelPasseII": [ "me fusse ignoré(e)", "te fusses ignoré(e)", "se fût ignoré(e)", "nous fussions ignoré(e)s", "vous fussiez ignoré(e)(s)", "se fussent ignoré(e)s" ],
+  "imperatif": [ "–", "ignore-toi !", "–", "ignorons-nous !", "ignorez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

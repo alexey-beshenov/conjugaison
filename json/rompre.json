@@ -1,0 +1,22 @@
+{
+  "infinitif": "rompre",
+  "participePresent": "rompant",
+  "participePasse": "rompu",
+  "present": [ "romps", "romps", "rompt", "rompons", "rompez", "rompent" ],
+  "imparfait": [ "rompais", "rompais", "rompait", "rompions", "rompiez", "rompaient" ],
+  "passeSimple": [ "rompis", "rompis", "rompit", "rompîmes", "rompîtes", "rompirent" ],
+  "futurSimple": [ "romprai", "rompras", "rompra", "romprons", "romprez", "rompront" ],
+  "passeCompose": [ "ai rompu", "as rompu", "a rompu", "avons rompu", "avez rompu", "ont rompu" ],
+  "plusQueParfait": [ "avais rompu", "avais rompu", "avait rompu", "avions rompu", "aviez rompu", "avaient rompu" ],
+  "passeAnterieur": [ "eus rompu", "eus rompu", "eut rompu", "eûmes rompu", "eûtes rompu", "eurent rompu" ],
+  "futurAnterieur": [ "aurai rompu", "auras rompu", "aura rompu", "aurons rompu", "aurez rompu", "auront rompu" ],
+  "subjonctifPresent": [ "rompe", "rompes", "rompe", "rompions", "rompiez", "rompent" ],
+  "subjonctifImparfait": [ "rompisse", "rompisses", "rompît", "rompissions", "rompissiez", "rompissent" ],
+  "subjonctifPasse": [ "aie rompu", "aies rompu", "ait rompu", "ayons rompu", "ayez rompu", "aient rompu" ],
+  "subjonctifPlusQueParfait": [ "eusse rompu", "eusses rompu", "eût rompu", "eussions rompu", "eussiez rompu", "eussent rompu" ],
+  "conditionnelPresent": [ "romprais", "romprais", "romprait", "romprions", "rompriez", "rompraient" ],
+  "conditionnelPasse": [ "aurais rompu", "aurais rompu", "aurait rompu", "aurions rompu", "auriez rompu", "auraient rompu" ],
+  "conditionnelPasseII": [ "eusse rompu", "eusses rompu", "eût rompu", "eussions rompu", "eussiez rompu", "eussent rompu" ],
+  "imperatif": [ "–", "romps !", "–", "rompons !", "rompez !", "–" ],
+  "imperatifPasse": [ "–", "aie rompu !", "–", "ayons rompu !", "ayez rompu !", "–" ]
+}

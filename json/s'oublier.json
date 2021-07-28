@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'oublier",
+  "participePresent": "s'oubliant",
+  "participePasse": "oublié",
+  "present": [ "m'oublie", "t'oublies", "s'oublie", "nous oublions", "vous oubliez", "s'oublient" ],
+  "imparfait": [ "m'oubliais", "t'oubliais", "s'oubliait", "nous oubliions", "vous oubliiez", "s'oubliaient" ],
+  "passeSimple": [ "m'oubliai", "t'oublias", "s'oublia", "nous oubliâmes", "vous oubliâtes", "s'oublièrent" ],
+  "futurSimple": [ "m'oublierai", "t'oublieras", "s'oubliera", "nous oublierons", "vous oublierez", "s'oublieront" ],
+  "passeCompose": [ "me suis oublié(e)", "t'es oublié(e)", "s'est oublié(e)", "nous sommes oublié(e)s", "vous êtes oublié(e)(s)", "se sont oublié(e)s" ],
+  "plusQueParfait": [ "m'étais oublié(e)", "t'étais oublié(e)", "s'était oublié(e)", "nous étions oublié(e)s", "vous étiez oublié(e)(s)", "s'étaient oublié(e)s" ],
+  "passeAnterieur": [ "me fus oublié(e)", "te fus oublié(e)", "se fut oublié(e)", "nous fûmes oublié(e)s", "vous fûtes oublié(e)(s)", "se furent oublié(e)s" ],
+  "futurAnterieur": [ "me serai oublié(e)", "te seras oublié(e)", "se sera oublié(e)", "nous serons oublié(e)s", "vous serez oublié(e)(s)", "se seront oublié(e)s" ],
+  "subjonctifPresent": [ "m'oublie", "t'oublies", "s'oublie", "nous oubliions", "vous oubliiez", "s'oublient" ],
+  "subjonctifImparfait": [ "m'oubliasse", "t'oubliasses", "s'oubliât", "nous oubliassions", "vous oubliassiez", "s'oubliassent" ],
+  "subjonctifPasse": [ "me sois oublié(e)", "te sois oublié(e)", "se soit oublié(e)", "nous soyons oublié(e)s", "vous soyez oublié(e)(s)", "se soient oublié(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse oublié(e)", "te fusses oublié(e)", "se fût oublié(e)", "nous fussions oublié(e)s", "vous fussiez oublié(e)(s)", "se fussent oublié(e)s" ],
+  "conditionnelPresent": [ "m'oublierais", "t'oublierais", "s'oublierait", "nous oublierions", "vous oublieriez", "s'oublieraient" ],
+  "conditionnelPasse": [ "me serais oublié(e)", "te serais oublié(e)", "se serait oublié(e)", "nous serions oublié(e)s", "vous seriez oublié(e)(s)", "se seraient oublié(e)s" ],
+  "conditionnelPasseII": [ "me fusse oublié(e)", "te fusses oublié(e)", "se fût oublié(e)", "nous fussions oublié(e)s", "vous fussiez oublié(e)(s)", "se fussent oublié(e)s" ],
+  "imperatif": [ "–", "oublie-toi !", "–", "oublions-nous !", "oubliez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

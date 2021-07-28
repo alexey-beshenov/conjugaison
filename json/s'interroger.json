@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'interroger",
+  "participePresent": "s'interrogeant",
+  "participePasse": "interrogé",
+  "present": [ "m'interroge", "t'interroges", "s'interroge", "nous interrogeons", "vous interrogez", "s'interrogent" ],
+  "imparfait": [ "m'interrogeais", "t'interrogeais", "s'interrogeait", "nous interrogions", "vous interrogiez", "s'interrogeaient" ],
+  "passeSimple": [ "m'interrogeai", "t'interrogeas", "s'interrogea", "nous interrogeâmes", "vous interrogeâtes", "s'interrogèrent" ],
+  "futurSimple": [ "m'interrogerai", "t'interrogeras", "s'interrogera", "nous interrogerons", "vous interrogerez", "s'interrogeront" ],
+  "passeCompose": [ "me suis interrogé(e)", "t'es interrogé(e)", "s'est interrogé(e)", "nous sommes interrogé(e)s", "vous êtes interrogé(e)(s)", "se sont interrogé(e)s" ],
+  "plusQueParfait": [ "m'étais interrogé(e)", "t'étais interrogé(e)", "s'était interrogé(e)", "nous étions interrogé(e)s", "vous étiez interrogé(e)(s)", "s'étaient interrogé(e)s" ],
+  "passeAnterieur": [ "me fus interrogé(e)", "te fus interrogé(e)", "se fut interrogé(e)", "nous fûmes interrogé(e)s", "vous fûtes interrogé(e)(s)", "se furent interrogé(e)s" ],
+  "futurAnterieur": [ "me serai interrogé(e)", "te seras interrogé(e)", "se sera interrogé(e)", "nous serons interrogé(e)s", "vous serez interrogé(e)(s)", "se seront interrogé(e)s" ],
+  "subjonctifPresent": [ "m'interroge", "t'interroges", "s'interroge", "nous interrogions", "vous interrogiez", "s'interrogent" ],
+  "subjonctifImparfait": [ "m'interrogeasse", "t'interrogeasses", "s'interrogeât", "nous interrogeassions", "vous interrogeassiez", "s'interrogeassent" ],
+  "subjonctifPasse": [ "me sois interrogé(e)", "te sois interrogé(e)", "se soit interrogé(e)", "nous soyons interrogé(e)s", "vous soyez interrogé(e)(s)", "se soient interrogé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse interrogé(e)", "te fusses interrogé(e)", "se fût interrogé(e)", "nous fussions interrogé(e)s", "vous fussiez interrogé(e)(s)", "se fussent interrogé(e)s" ],
+  "conditionnelPresent": [ "m'interrogerais", "t'interrogerais", "s'interrogerait", "nous interrogerions", "vous interrogeriez", "s'interrogeraient" ],
+  "conditionnelPasse": [ "me serais interrogé(e)", "te serais interrogé(e)", "se serait interrogé(e)", "nous serions interrogé(e)s", "vous seriez interrogé(e)(s)", "se seraient interrogé(e)s" ],
+  "conditionnelPasseII": [ "me fusse interrogé(e)", "te fusses interrogé(e)", "se fût interrogé(e)", "nous fussions interrogé(e)s", "vous fussiez interrogé(e)(s)", "se fussent interrogé(e)s" ],
+  "imperatif": [ "–", "interroge-toi !", "–", "interrogeons-nous !", "interrogez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

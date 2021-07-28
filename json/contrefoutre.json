@@ -1,0 +1,22 @@
+{
+  "infinitif": "se contrefoutre",
+  "participePresent": "se contrefoutant",
+  "participePasse": "contrefoutu",
+  "present": [ "me contrefous", "te contrefous", "se contrefout", "nous contrefoutons", "vous contrefoutez", "se contrefoutent" ],
+  "imparfait": [ "me contrefoutais", "te contrefoutais", "se contrefoutait", "nous contrefoutions", "vous contrefoutiez", "se contrefoutaient" ],
+  "passeSimple": [ "me contrefoutis", "te contrefoutis", "se contrefoutit", "nous contrefoutîmes", "vous contrefoutîtes", "se contrefoutirent" ],
+  "futurSimple": [ "me contrefoutrai", "te contrefoutras", "se contrefoutra", "nous contrefoutrons", "vous contrefoutrez", "se contrefoutront" ],
+  "passeCompose": [ "me suis contrefoutu(e)", "t'es contrefoutu(e)", "s'est contrefoutu(e)", "nous sommes contrefoutu(e)s", "vous êtes contrefoutu(e)(s)", "se sont contrefoutu(e)s" ],
+  "plusQueParfait": [ "m'étais contrefoutu(e)", "t'étais contrefoutu(e)", "s'était contrefoutu(e)", "nous étions contrefoutu(e)s", "vous étiez contrefoutu(e)(s)", "s'étaient contrefoutu(e)s" ],
+  "passeAnterieur": [ "me fus contrefoutu(e)", "te fus contrefoutu(e)", "se fut contrefoutu(e)", "nous fûmes contrefoutu(e)s", "vous fûtes contrefoutu(e)(s)", "se furent contrefoutu(e)s" ],
+  "futurAnterieur": [ "me serai contrefoutu(e)", "te seras contrefoutu(e)", "se sera contrefoutu(e)", "nous serons contrefoutu(e)s", "vous serez contrefoutu(e)(s)", "se seront contrefoutu(e)s" ],
+  "subjonctifPresent": [ "me contrefoute", "te contrefoutes", "se contrefoute", "nous contrefoutions", "vous contrefoutiez", "se contrefoutent" ],
+  "subjonctifImparfait": [ "me contrefoutisse", "te contrefoutisses", "se contrefoutît", "nous contrefoutissions", "vous contrefoutissiez", "se contrefoutissent" ],
+  "subjonctifPasse": [ "me sois contrefoutu(e)", "te sois contrefoutu(e)", "se soit contrefoutu(e)", "nous soyons contrefoutu(e)s", "vous soyez contrefoutu(e)(s)", "se soient contrefoutu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse contrefoutu(e)", "te fusses contrefoutu(e)", "se fût contrefoutu(e)", "nous fussions contrefoutu(e)s", "vous fussiez contrefoutu(e)(s)", "se fussent contrefoutu(e)s" ],
+  "conditionnelPresent": [ "me contrefoutrais", "te contrefoutrais", "se contrefoutrait", "nous contrefoutrions", "vous contrefoutriez", "se contrefoutraient" ],
+  "conditionnelPasse": [ "me serais contrefoutu(e)", "te serais contrefoutu(e)", "se serait contrefoutu(e)", "nous serions contrefoutu(e)s", "vous seriez contrefoutu(e)(s)", "se seraient contrefoutu(e)s" ],
+  "conditionnelPasseII": [ "me fusse contrefoutu(e)", "te fusses contrefoutu(e)", "se fût contrefoutu(e)", "nous fussions contrefoutu(e)s", "vous fussiez contrefoutu(e)(s)", "se fussent contrefoutu(e)s" ],
+  "imperatif": [ "–", "contrefous-toi !", "–", "contrefoutons-nous !", "contrefoutez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

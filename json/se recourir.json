@@ -1,0 +1,22 @@
+{
+  "infinitif": "se recourir",
+  "participePresent": "se recourant",
+  "participePasse": "recouru",
+  "present": [ "me recours", "te recours", "se recourt", "nous recourons", "vous recourez", "se recourent" ],
+  "imparfait": [ "me recourais", "te recourais", "se recourait", "nous recourions", "vous recouriez", "se recouraient" ],
+  "passeSimple": [ "me recourus", "te recourus", "se recourut", "nous recourûmes", "vous recourûtes", "se recoururent" ],
+  "futurSimple": [ "me recourrai", "te recourras", "se recourra", "nous recourrons", "vous recourrez", "se recourront" ],
+  "passeCompose": [ "me suis recouru(e)", "t'es recouru(e)", "s'est recouru(e)", "nous sommes recouru(e)s", "vous êtes recouru(e)(s)", "se sont recouru(e)s" ],
+  "plusQueParfait": [ "m'étais recouru(e)", "t'étais recouru(e)", "s'était recouru(e)", "nous étions recouru(e)s", "vous étiez recouru(e)(s)", "s'étaient recouru(e)s" ],
+  "passeAnterieur": [ "me fus recouru(e)", "te fus recouru(e)", "se fut recouru(e)", "nous fûmes recouru(e)s", "vous fûtes recouru(e)(s)", "se furent recouru(e)s" ],
+  "futurAnterieur": [ "me serai recouru(e)", "te seras recouru(e)", "se sera recouru(e)", "nous serons recouru(e)s", "vous serez recouru(e)(s)", "se seront recouru(e)s" ],
+  "subjonctifPresent": [ "me recoure", "te recoures", "se recoure", "nous recourions", "vous recouriez", "se recourent" ],
+  "subjonctifImparfait": [ "me recourusse", "te recourusses", "se recourût", "nous recourussions", "vous recourussiez", "se recourussent" ],
+  "subjonctifPasse": [ "me sois recouru(e)", "te sois recouru(e)", "se soit recouru(e)", "nous soyons recouru(e)s", "vous soyez recouru(e)(s)", "se soient recouru(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse recouru(e)", "te fusses recouru(e)", "se fût recouru(e)", "nous fussions recouru(e)s", "vous fussiez recouru(e)(s)", "se fussent recouru(e)s" ],
+  "conditionnelPresent": [ "me recourrais", "te recourrais", "se recourrait", "nous recourrions", "vous recourriez", "se recourraient" ],
+  "conditionnelPasse": [ "me serais recouru(e)", "te serais recouru(e)", "se serait recouru(e)", "nous serions recouru(e)s", "vous seriez recouru(e)(s)", "se seraient recouru(e)s" ],
+  "conditionnelPasseII": [ "me fusse recouru(e)", "te fusses recouru(e)", "se fût recouru(e)", "nous fussions recouru(e)s", "vous fussiez recouru(e)(s)", "se fussent recouru(e)s" ],
+  "imperatif": [ "–", "recours-toi !", "–", "recourons-nous !", "recourez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

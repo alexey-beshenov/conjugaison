@@ -1,0 +1,22 @@
+{
+  "infinitif": "observer",
+  "participePresent": "observant",
+  "participePasse": "observé",
+  "present": [ "observe", "observes", "observe", "observons", "observez", "observent" ],
+  "imparfait": [ "observais", "observais", "observait", "observions", "observiez", "observaient" ],
+  "passeSimple": [ "observai", "observas", "observa", "observâmes", "observâtes", "observèrent" ],
+  "futurSimple": [ "observerai", "observeras", "observera", "observerons", "observerez", "observeront" ],
+  "passeCompose": [ "ai observé", "as observé", "a observé", "avons observé", "avez observé", "ont observé" ],
+  "plusQueParfait": [ "avais observé", "avais observé", "avait observé", "avions observé", "aviez observé", "avaient observé" ],
+  "passeAnterieur": [ "eus observé", "eus observé", "eut observé", "eûmes observé", "eûtes observé", "eurent observé" ],
+  "futurAnterieur": [ "aurai observé", "auras observé", "aura observé", "aurons observé", "aurez observé", "auront observé" ],
+  "subjonctifPresent": [ "observe", "observes", "observe", "observions", "observiez", "observent" ],
+  "subjonctifImparfait": [ "observasse", "observasses", "observât", "observassions", "observassiez", "observassent" ],
+  "subjonctifPasse": [ "aie observé", "aies observé", "ait observé", "ayons observé", "ayez observé", "aient observé" ],
+  "subjonctifPlusQueParfait": [ "eusse observé", "eusses observé", "eût observé", "eussions observé", "eussiez observé", "eussent observé" ],
+  "conditionnelPresent": [ "observerais", "observerais", "observerait", "observerions", "observeriez", "observeraient" ],
+  "conditionnelPasse": [ "aurais observé", "aurais observé", "aurait observé", "aurions observé", "auriez observé", "auraient observé" ],
+  "conditionnelPasseII": [ "eusse observé", "eusses observé", "eût observé", "eussions observé", "eussiez observé", "eussent observé" ],
+  "imperatif": [ "–", "observe !", "–", "observons !", "observez !", "–" ],
+  "imperatifPasse": [ "–", "aie observé !", "–", "ayons observé !", "ayez observé !", "–" ]
+}

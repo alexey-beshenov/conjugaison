@@ -1,0 +1,22 @@
+{
+  "infinitif": "cueillir",
+  "participePresent": "cueillant",
+  "participePasse": "cueilli",
+  "present": [ "cueille", "cueilles", "cueille", "cueillons", "cueillez", "cueillent" ],
+  "imparfait": [ "cueillais", "cueillais", "cueillait", "cueillions", "cueilliez", "cueillaient" ],
+  "passeSimple": [ "cueillis", "cueillis", "cueillit", "cueillîmes", "cueillîtes", "cueillirent" ],
+  "futurSimple": [ "cueillerai", "cueilleras", "cueillera", "cueillerons", "cueillerez", "cueilleront" ],
+  "passeCompose": [ "ai cueilli", "as cueilli", "a cueilli", "avons cueilli", "avez cueilli", "ont cueilli" ],
+  "plusQueParfait": [ "avais cueilli", "avais cueilli", "avait cueilli", "avions cueilli", "aviez cueilli", "avaient cueilli" ],
+  "passeAnterieur": [ "eus cueilli", "eus cueilli", "eut cueilli", "eûmes cueilli", "eûtes cueilli", "eurent cueilli" ],
+  "futurAnterieur": [ "aurai cueilli", "auras cueilli", "aura cueilli", "aurons cueilli", "aurez cueilli", "auront cueilli" ],
+  "subjonctifPresent": [ "cueille", "cueilles", "cueille", "cueillions", "cueilliez", "cueillent" ],
+  "subjonctifImparfait": [ "cueillisse", "cueillisses", "cueillît", "cueillissions", "cueillissiez", "cueillissent" ],
+  "subjonctifPasse": [ "aie cueilli", "aies cueilli", "ait cueilli", "ayons cueilli", "ayez cueilli", "aient cueilli" ],
+  "subjonctifPlusQueParfait": [ "eusse cueilli", "eusses cueilli", "eût cueilli", "eussions cueilli", "eussiez cueilli", "eussent cueilli" ],
+  "conditionnelPresent": [ "cueillerais", "cueillerais", "cueillerait", "cueillerions", "cueilleriez", "cueilleraient" ],
+  "conditionnelPasse": [ "aurais cueilli", "aurais cueilli", "aurait cueilli", "aurions cueilli", "auriez cueilli", "auraient cueilli" ],
+  "conditionnelPasseII": [ "eusse cueilli", "eusses cueilli", "eût cueilli", "eussions cueilli", "eussiez cueilli", "eussent cueilli" ],
+  "imperatif": [ "–", "cueille !", "–", "cueillons !", "cueillez !", "–" ],
+  "imperatifPasse": [ "–", "aie cueilli !", "–", "ayons cueilli !", "ayez cueilli !", "–" ]
+}

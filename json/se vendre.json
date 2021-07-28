@@ -1,0 +1,22 @@
+{
+  "infinitif": "se vendre",
+  "participePresent": "se vendant",
+  "participePasse": "vendu",
+  "present": [ "me vends", "te vends", "se vend", "nous vendons", "vous vendez", "se vendent" ],
+  "imparfait": [ "me vendais", "te vendais", "se vendait", "nous vendions", "vous vendiez", "se vendaient" ],
+  "passeSimple": [ "me vendis", "te vendis", "se vendit", "nous vendîmes", "vous vendîtes", "se vendirent" ],
+  "futurSimple": [ "me vendrai", "te vendras", "se vendra", "nous vendrons", "vous vendrez", "se vendront" ],
+  "passeCompose": [ "me suis vendu(e)", "t'es vendu(e)", "s'est vendu(e)", "nous sommes vendu(e)s", "vous êtes vendu(e)(s)", "se sont vendu(e)s" ],
+  "plusQueParfait": [ "m'étais vendu(e)", "t'étais vendu(e)", "s'était vendu(e)", "nous étions vendu(e)s", "vous étiez vendu(e)(s)", "s'étaient vendu(e)s" ],
+  "passeAnterieur": [ "me fus vendu(e)", "te fus vendu(e)", "se fut vendu(e)", "nous fûmes vendu(e)s", "vous fûtes vendu(e)(s)", "se furent vendu(e)s" ],
+  "futurAnterieur": [ "me serai vendu(e)", "te seras vendu(e)", "se sera vendu(e)", "nous serons vendu(e)s", "vous serez vendu(e)(s)", "se seront vendu(e)s" ],
+  "subjonctifPresent": [ "me vende", "te vendes", "se vende", "nous vendions", "vous vendiez", "se vendent" ],
+  "subjonctifImparfait": [ "me vendisse", "te vendisses", "se vendît", "nous vendissions", "vous vendissiez", "se vendissent" ],
+  "subjonctifPasse": [ "me sois vendu(e)", "te sois vendu(e)", "se soit vendu(e)", "nous soyons vendu(e)s", "vous soyez vendu(e)(s)", "se soient vendu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse vendu(e)", "te fusses vendu(e)", "se fût vendu(e)", "nous fussions vendu(e)s", "vous fussiez vendu(e)(s)", "se fussent vendu(e)s" ],
+  "conditionnelPresent": [ "me vendrais", "te vendrais", "se vendrait", "nous vendrions", "vous vendriez", "se vendraient" ],
+  "conditionnelPasse": [ "me serais vendu(e)", "te serais vendu(e)", "se serait vendu(e)", "nous serions vendu(e)s", "vous seriez vendu(e)(s)", "se seraient vendu(e)s" ],
+  "conditionnelPasseII": [ "me fusse vendu(e)", "te fusses vendu(e)", "se fût vendu(e)", "nous fussions vendu(e)s", "vous fussiez vendu(e)(s)", "se fussent vendu(e)s" ],
+  "imperatif": [ "–", "vends-toi !", "–", "vendons-nous !", "vendez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

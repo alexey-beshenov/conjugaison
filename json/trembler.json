@@ -1,0 +1,22 @@
+{
+  "infinitif": "trembler",
+  "participePresent": "tremblant",
+  "participePasse": "tremblé",
+  "present": [ "tremble", "trembles", "tremble", "tremblons", "tremblez", "tremblent" ],
+  "imparfait": [ "tremblais", "tremblais", "tremblait", "tremblions", "trembliez", "tremblaient" ],
+  "passeSimple": [ "tremblai", "tremblas", "trembla", "tremblâmes", "tremblâtes", "tremblèrent" ],
+  "futurSimple": [ "tremblerai", "trembleras", "tremblera", "tremblerons", "tremblerez", "trembleront" ],
+  "passeCompose": [ "ai tremblé", "as tremblé", "a tremblé", "avons tremblé", "avez tremblé", "ont tremblé" ],
+  "plusQueParfait": [ "avais tremblé", "avais tremblé", "avait tremblé", "avions tremblé", "aviez tremblé", "avaient tremblé" ],
+  "passeAnterieur": [ "eus tremblé", "eus tremblé", "eut tremblé", "eûmes tremblé", "eûtes tremblé", "eurent tremblé" ],
+  "futurAnterieur": [ "aurai tremblé", "auras tremblé", "aura tremblé", "aurons tremblé", "aurez tremblé", "auront tremblé" ],
+  "subjonctifPresent": [ "tremble", "trembles", "tremble", "tremblions", "trembliez", "tremblent" ],
+  "subjonctifImparfait": [ "tremblasse", "tremblasses", "tremblât", "tremblassions", "tremblassiez", "tremblassent" ],
+  "subjonctifPasse": [ "aie tremblé", "aies tremblé", "ait tremblé", "ayons tremblé", "ayez tremblé", "aient tremblé" ],
+  "subjonctifPlusQueParfait": [ "eusse tremblé", "eusses tremblé", "eût tremblé", "eussions tremblé", "eussiez tremblé", "eussent tremblé" ],
+  "conditionnelPresent": [ "tremblerais", "tremblerais", "tremblerait", "tremblerions", "trembleriez", "trembleraient" ],
+  "conditionnelPasse": [ "aurais tremblé", "aurais tremblé", "aurait tremblé", "aurions tremblé", "auriez tremblé", "auraient tremblé" ],
+  "conditionnelPasseII": [ "eusse tremblé", "eusses tremblé", "eût tremblé", "eussions tremblé", "eussiez tremblé", "eussent tremblé" ],
+  "imperatif": [ "–", "tremble !", "–", "tremblons !", "tremblez !", "–" ],
+  "imperatifPasse": [ "–", "aie tremblé !", "–", "ayons tremblé !", "ayez tremblé !", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "convaincre",
+  "participePresent": "convainquant",
+  "participePasse": "convaincu",
+  "present": [ "convaincs", "convaincs", "convainc", "convainquons", "convainquez", "convainquent" ],
+  "imparfait": [ "convainquais", "convainquais", "convainquait", "convainquions", "convainquiez", "convainquaient" ],
+  "passeSimple": [ "convainquis", "convainquis", "convainquit", "convainquîmes", "convainquîtes", "convainquirent" ],
+  "futurSimple": [ "convaincrai", "convaincras", "convaincra", "convaincrons", "convaincrez", "convaincront" ],
+  "passeCompose": [ "ai convaincu", "as convaincu", "a convaincu", "avons convaincu", "avez convaincu", "ont convaincu" ],
+  "plusQueParfait": [ "avais convaincu", "avais convaincu", "avait convaincu", "avions convaincu", "aviez convaincu", "avaient convaincu" ],
+  "passeAnterieur": [ "eus convaincu", "eus convaincu", "eut convaincu", "eûmes convaincu", "eûtes convaincu", "eurent convaincu" ],
+  "futurAnterieur": [ "aurai convaincu", "auras convaincu", "aura convaincu", "aurons convaincu", "aurez convaincu", "auront convaincu" ],
+  "subjonctifPresent": [ "convainque", "convainques", "convainque", "convainquions", "convainquiez", "convainquent" ],
+  "subjonctifImparfait": [ "convainquisse", "convainquisses", "convainquît", "convainquissions", "convainquissiez", "convainquissent" ],
+  "subjonctifPasse": [ "aie convaincu", "aies convaincu", "ait convaincu", "ayons convaincu", "ayez convaincu", "aient convaincu" ],
+  "subjonctifPlusQueParfait": [ "eusse convaincu", "eusses convaincu", "eût convaincu", "eussions convaincu", "eussiez convaincu", "eussent convaincu" ],
+  "conditionnelPresent": [ "convaincrais", "convaincrais", "convaincrait", "convaincrions", "convaincriez", "convaincraient" ],
+  "conditionnelPasse": [ "aurais convaincu", "aurais convaincu", "aurait convaincu", "aurions convaincu", "auriez convaincu", "auraient convaincu" ],
+  "conditionnelPasseII": [ "eusse convaincu", "eusses convaincu", "eût convaincu", "eussions convaincu", "eussiez convaincu", "eussent convaincu" ],
+  "imperatif": [ "–", "convaincs !", "–", "convainquons !", "convainquez !", "–" ],
+  "imperatifPasse": [ "–", "aie convaincu !", "–", "ayons convaincu !", "ayez convaincu !", "–" ]
+}

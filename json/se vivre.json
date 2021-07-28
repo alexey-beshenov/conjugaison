@@ -1,0 +1,22 @@
+{
+  "infinitif": "se vivre",
+  "participePresent": "se vivant",
+  "participePasse": "vécu",
+  "present": [ "me vis", "te vis", "se vit", "nous vivons", "vous vivez", "se vivent" ],
+  "imparfait": [ "me vivais", "te vivais", "se vivait", "nous vivions", "vous viviez", "se vivaient" ],
+  "passeSimple": [ "me vécus", "te vécus", "se vécut", "nous vécûmes", "vous vécûtes", "se vécurent" ],
+  "futurSimple": [ "me vivrai", "te vivras", "se vivra", "nous vivrons", "vous vivrez", "se vivront" ],
+  "passeCompose": [ "me suis vécu(e)", "t'es vécu(e)", "s'est vécu(e)", "nous sommes vécu(e)s", "vous êtes vécu(e)(s)", "se sont vécu(e)s" ],
+  "plusQueParfait": [ "m'étais vécu(e)", "t'étais vécu(e)", "s'était vécu(e)", "nous étions vécu(e)s", "vous étiez vécu(e)(s)", "s'étaient vécu(e)s" ],
+  "passeAnterieur": [ "me fus vécu(e)", "te fus vécu(e)", "se fut vécu(e)", "nous fûmes vécu(e)s", "vous fûtes vécu(e)(s)", "se furent vécu(e)s" ],
+  "futurAnterieur": [ "me serai vécu(e)", "te seras vécu(e)", "se sera vécu(e)", "nous serons vécu(e)s", "vous serez vécu(e)(s)", "se seront vécu(e)s" ],
+  "subjonctifPresent": [ "me vive", "te vives", "se vive", "nous vivions", "vous viviez", "se vivent" ],
+  "subjonctifImparfait": [ "me vécusse", "te vécusses", "se vécût", "nous vécussions", "vous vécussiez", "se vécussent" ],
+  "subjonctifPasse": [ "me sois vécu(e)", "te sois vécu(e)", "se soit vécu(e)", "nous soyons vécu(e)s", "vous soyez vécu(e)(s)", "se soient vécu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse vécu(e)", "te fusses vécu(e)", "se fût vécu(e)", "nous fussions vécu(e)s", "vous fussiez vécu(e)(s)", "se fussent vécu(e)s" ],
+  "conditionnelPresent": [ "me vivrais", "te vivrais", "se vivrait", "nous vivrions", "vous vivriez", "se vivraient" ],
+  "conditionnelPasse": [ "me serais vécu(e)", "te serais vécu(e)", "se serait vécu(e)", "nous serions vécu(e)s", "vous seriez vécu(e)(s)", "se seraient vécu(e)s" ],
+  "conditionnelPasseII": [ "me fusse vécu(e)", "te fusses vécu(e)", "se fût vécu(e)", "nous fussions vécu(e)s", "vous fussiez vécu(e)(s)", "se fussent vécu(e)s" ],
+  "imperatif": [ "–", "vis-toi !", "–", "vivons-nous !", "vivez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

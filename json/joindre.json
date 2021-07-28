@@ -1,0 +1,22 @@
+{
+  "infinitif": "joindre",
+  "participePresent": "joignant",
+  "participePasse": "joint",
+  "present": [ "joins", "joins", "joint", "joignons", "joignez", "joignent" ],
+  "imparfait": [ "joignais", "joignais", "joignait", "joignions", "joigniez", "joignaient" ],
+  "passeSimple": [ "joignis", "joignis", "joignit", "joignîmes", "joignîtes", "joignirent" ],
+  "futurSimple": [ "joindrai", "joindras", "joindra", "joindrons", "joindrez", "joindront" ],
+  "passeCompose": [ "ai joint", "as joint", "a joint", "avons joint", "avez joint", "ont joint" ],
+  "plusQueParfait": [ "avais joint", "avais joint", "avait joint", "avions joint", "aviez joint", "avaient joint" ],
+  "passeAnterieur": [ "eus joint", "eus joint", "eut joint", "eûmes joint", "eûtes joint", "eurent joint" ],
+  "futurAnterieur": [ "aurai joint", "auras joint", "aura joint", "aurons joint", "aurez joint", "auront joint" ],
+  "subjonctifPresent": [ "joigne", "joignes", "joigne", "joignions", "joigniez", "joignent" ],
+  "subjonctifImparfait": [ "joignisse", "joignisses", "joignît", "joignissions", "joignissiez", "joignissent" ],
+  "subjonctifPasse": [ "aie joint", "aies joint", "ait joint", "ayons joint", "ayez joint", "aient joint" ],
+  "subjonctifPlusQueParfait": [ "eusse joint", "eusses joint", "eût joint", "eussions joint", "eussiez joint", "eussent joint" ],
+  "conditionnelPresent": [ "joindrais", "joindrais", "joindrait", "joindrions", "joindriez", "joindraient" ],
+  "conditionnelPasse": [ "aurais joint", "aurais joint", "aurait joint", "aurions joint", "auriez joint", "auraient joint" ],
+  "conditionnelPasseII": [ "eusse joint", "eusses joint", "eût joint", "eussions joint", "eussiez joint", "eussent joint" ],
+  "imperatif": [ "–", "joins !", "–", "joignons !", "joignez !", "–" ],
+  "imperatifPasse": [ "–", "aie joint !", "–", "ayons joint !", "ayez joint !", "–" ]
+}

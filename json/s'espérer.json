@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'espérer",
+  "participePresent": "s'espérant",
+  "participePasse": "espéré",
+  "present": [ "m'espère", "t'espères", "s'espère", "nous espérons", "vous espérez", "s'espèrent" ],
+  "imparfait": [ "m'espérais", "t'espérais", "s'espérait", "nous espérions", "vous espériez", "s'espéraient" ],
+  "passeSimple": [ "m'espérai", "t'espéras", "s'espéra", "nous espérâmes", "vous espérâtes", "s'espérèrent" ],
+  "futurSimple": [ "m'espérerai", "t'espéreras", "s'espérera", "nous espérerons", "vous espérerez", "s'espéreront" ],
+  "passeCompose": [ "me suis espéré(e)", "t'es espéré(e)", "s'est espéré(e)", "nous sommes espéré(e)s", "vous êtes espéré(e)(s)", "se sont espéré(e)s" ],
+  "plusQueParfait": [ "m'étais espéré(e)", "t'étais espéré(e)", "s'était espéré(e)", "nous étions espéré(e)s", "vous étiez espéré(e)(s)", "s'étaient espéré(e)s" ],
+  "passeAnterieur": [ "me fus espéré(e)", "te fus espéré(e)", "se fut espéré(e)", "nous fûmes espéré(e)s", "vous fûtes espéré(e)(s)", "se furent espéré(e)s" ],
+  "futurAnterieur": [ "me serai espéré(e)", "te seras espéré(e)", "se sera espéré(e)", "nous serons espéré(e)s", "vous serez espéré(e)(s)", "se seront espéré(e)s" ],
+  "subjonctifPresent": [ "m'espère", "t'espères", "s'espère", "nous espérions", "vous espériez", "s'espèrent" ],
+  "subjonctifImparfait": [ "m'espérasse", "t'espérasses", "s'espérât", "nous espérassions", "vous espérassiez", "s'espérassent" ],
+  "subjonctifPasse": [ "me sois espéré(e)", "te sois espéré(e)", "se soit espéré(e)", "nous soyons espéré(e)s", "vous soyez espéré(e)(s)", "se soient espéré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse espéré(e)", "te fusses espéré(e)", "se fût espéré(e)", "nous fussions espéré(e)s", "vous fussiez espéré(e)(s)", "se fussent espéré(e)s" ],
+  "conditionnelPresent": [ "m'espérerais", "t'espérerais", "s'espérerait", "nous espérerions", "vous espéreriez", "s'espéreraient" ],
+  "conditionnelPasse": [ "me serais espéré(e)", "te serais espéré(e)", "se serait espéré(e)", "nous serions espéré(e)s", "vous seriez espéré(e)(s)", "se seraient espéré(e)s" ],
+  "conditionnelPasseII": [ "me fusse espéré(e)", "te fusses espéré(e)", "se fût espéré(e)", "nous fussions espéré(e)s", "vous fussiez espéré(e)(s)", "se fussent espéré(e)s" ],
+  "imperatif": [ "–", "espère-toi !", "–", "espérons-nous !", "espérez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

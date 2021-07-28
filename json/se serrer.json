@@ -1,0 +1,22 @@
+{
+  "infinitif": "se serrer",
+  "participePresent": "se serrant",
+  "participePasse": "serré",
+  "present": [ "me serre", "te serres", "se serre", "nous serrons", "vous serrez", "se serrent" ],
+  "imparfait": [ "me serrais", "te serrais", "se serrait", "nous serrions", "vous serriez", "se serraient" ],
+  "passeSimple": [ "me serrai", "te serras", "se serra", "nous serrâmes", "vous serrâtes", "se serrèrent" ],
+  "futurSimple": [ "me serrerai", "te serreras", "se serrera", "nous serrerons", "vous serrerez", "se serreront" ],
+  "passeCompose": [ "me suis serré(e)", "t'es serré(e)", "s'est serré(e)", "nous sommes serré(e)s", "vous êtes serré(e)(s)", "se sont serré(e)s" ],
+  "plusQueParfait": [ "m'étais serré(e)", "t'étais serré(e)", "s'était serré(e)", "nous étions serré(e)s", "vous étiez serré(e)(s)", "s'étaient serré(e)s" ],
+  "passeAnterieur": [ "me fus serré(e)", "te fus serré(e)", "se fut serré(e)", "nous fûmes serré(e)s", "vous fûtes serré(e)(s)", "se furent serré(e)s" ],
+  "futurAnterieur": [ "me serai serré(e)", "te seras serré(e)", "se sera serré(e)", "nous serons serré(e)s", "vous serez serré(e)(s)", "se seront serré(e)s" ],
+  "subjonctifPresent": [ "me serre", "te serres", "se serre", "nous serrions", "vous serriez", "se serrent" ],
+  "subjonctifImparfait": [ "me serrasse", "te serrasses", "se serrât", "nous serrassions", "vous serrassiez", "se serrassent" ],
+  "subjonctifPasse": [ "me sois serré(e)", "te sois serré(e)", "se soit serré(e)", "nous soyons serré(e)s", "vous soyez serré(e)(s)", "se soient serré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse serré(e)", "te fusses serré(e)", "se fût serré(e)", "nous fussions serré(e)s", "vous fussiez serré(e)(s)", "se fussent serré(e)s" ],
+  "conditionnelPresent": [ "me serrerais", "te serrerais", "se serrerait", "nous serrerions", "vous serreriez", "se serreraient" ],
+  "conditionnelPasse": [ "me serais serré(e)", "te serais serré(e)", "se serait serré(e)", "nous serions serré(e)s", "vous seriez serré(e)(s)", "se seraient serré(e)s" ],
+  "conditionnelPasseII": [ "me fusse serré(e)", "te fusses serré(e)", "se fût serré(e)", "nous fussions serré(e)s", "vous fussiez serré(e)(s)", "se fussent serré(e)s" ],
+  "imperatif": [ "–", "serre-toi !", "–", "serrons-nous !", "serrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

@@ -1,0 +1,22 @@
+{
+  "infinitif": "se transcrire",
+  "participePresent": "se transcrivant",
+  "participePasse": "transcrit",
+  "present": [ "me transcris", "te transcris", "se transcrit", "nous transcrivons", "vous transcrivez", "se transcrivent" ],
+  "imparfait": [ "me transcrivais", "te transcrivais", "se transcrivait", "nous transcrivions", "vous transcriviez", "se transcrivaient" ],
+  "passeSimple": [ "me transcrivis", "te transcrivis", "se transcrivit", "nous transcrivîmes", "vous transcrivîtes", "se transcrivirent" ],
+  "futurSimple": [ "me transcrirai", "te transcriras", "se transcrira", "nous transcrirons", "vous transcrirez", "se transcriront" ],
+  "passeCompose": [ "me suis transcrit(e)", "t'es transcrit(e)", "s'est transcrit(e)", "nous sommes transcrit(e)s", "vous êtes transcrit(e)(s)", "se sont transcrit(e)s" ],
+  "plusQueParfait": [ "m'étais transcrit(e)", "t'étais transcrit(e)", "s'était transcrit(e)", "nous étions transcrit(e)s", "vous étiez transcrit(e)(s)", "s'étaient transcrit(e)s" ],
+  "passeAnterieur": [ "me fus transcrit(e)", "te fus transcrit(e)", "se fut transcrit(e)", "nous fûmes transcrit(e)s", "vous fûtes transcrit(e)(s)", "se furent transcrit(e)s" ],
+  "futurAnterieur": [ "me serai transcrit(e)", "te seras transcrit(e)", "se sera transcrit(e)", "nous serons transcrit(e)s", "vous serez transcrit(e)(s)", "se seront transcrit(e)s" ],
+  "subjonctifPresent": [ "me transcrive", "te transcrives", "se transcrive", "nous transcrivions", "vous transcriviez", "se transcrivent" ],
+  "subjonctifImparfait": [ "me transcrivisse", "te transcrivisses", "se transcrivît", "nous transcrivissions", "vous transcrivissiez", "se transcrivissent" ],
+  "subjonctifPasse": [ "me sois transcrit(e)", "te sois transcrit(e)", "se soit transcrit(e)", "nous soyons transcrit(e)s", "vous soyez transcrit(e)(s)", "se soient transcrit(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse transcrit(e)", "te fusses transcrit(e)", "se fût transcrit(e)", "nous fussions transcrit(e)s", "vous fussiez transcrit(e)(s)", "se fussent transcrit(e)s" ],
+  "conditionnelPresent": [ "me transcrirais", "te transcrirais", "se transcrirait", "nous transcririons", "vous transcririez", "se transcriraient" ],
+  "conditionnelPasse": [ "me serais transcrit(e)", "te serais transcrit(e)", "se serait transcrit(e)", "nous serions transcrit(e)s", "vous seriez transcrit(e)(s)", "se seraient transcrit(e)s" ],
+  "conditionnelPasseII": [ "me fusse transcrit(e)", "te fusses transcrit(e)", "se fût transcrit(e)", "nous fussions transcrit(e)s", "vous fussiez transcrit(e)(s)", "se fussent transcrit(e)s" ],
+  "imperatif": [ "–", "transcris-toi !", "–", "transcrivons-nous !", "transcrivez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

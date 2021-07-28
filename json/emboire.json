@@ -1,0 +1,22 @@
+{
+  "infinitif": "emboire",
+  "participePresent": "embuvant",
+  "participePasse": "embu",
+  "present": [ "embois", "embois", "emboit", "embuvons", "embuvez", "emboivent" ],
+  "imparfait": [ "embuvais", "embuvais", "embuvait", "embuvions", "embuviez", "embuvaient" ],
+  "passeSimple": [ "embus", "embus", "embut", "embûmes", "embûtes", "emburent" ],
+  "futurSimple": [ "emboirai", "emboiras", "emboira", "emboirons", "emboirez", "emboiront" ],
+  "passeCompose": [ "ai embu", "as embu", "a embu", "avons embu", "avez embu", "ont embu" ],
+  "plusQueParfait": [ "avais embu", "avais embu", "avait embu", "avions embu", "aviez embu", "avaient embu" ],
+  "passeAnterieur": [ "eus embu", "eus embu", "eut embu", "eûmes embu", "eûtes embu", "eurent embu" ],
+  "futurAnterieur": [ "aurai embu", "auras embu", "aura embu", "aurons embu", "aurez embu", "auront embu" ],
+  "subjonctifPresent": [ "emboive", "emboives", "emboive", "embuvions", "embuviez", "emboivent" ],
+  "subjonctifImparfait": [ "embusse", "embusses", "embût", "embussions", "embussiez", "embussent" ],
+  "subjonctifPasse": [ "aie embu", "aies embu", "ait embu", "ayons embu", "ayez embu", "aient embu" ],
+  "subjonctifPlusQueParfait": [ "eusse embu", "eusses embu", "eût embu", "eussions embu", "eussiez embu", "eussent embu" ],
+  "conditionnelPresent": [ "emboirais", "emboirais", "emboirait", "emboirions", "emboiriez", "emboiraient" ],
+  "conditionnelPasse": [ "aurais embu", "aurais embu", "aurait embu", "aurions embu", "auriez embu", "auraient embu" ],
+  "conditionnelPasseII": [ "eusse embu", "eusses embu", "eût embu", "eussions embu", "eussiez embu", "eussent embu" ],
+  "imperatif": [ "–", "embois !", "–", "embuvons !", "embuvez !", "–" ],
+  "imperatifPasse": [ "–", "aie embu !", "–", "ayons embu !", "ayez embu !", "–" ]
+}

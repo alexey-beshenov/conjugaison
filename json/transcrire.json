@@ -1,0 +1,22 @@
+{
+  "infinitif": "transcrire",
+  "participePresent": "transcrivant",
+  "participePasse": "transcrit",
+  "present": [ "transcris", "transcris", "transcrit", "transcrivons", "transcrivez", "transcrivent" ],
+  "imparfait": [ "transcrivais", "transcrivais", "transcrivait", "transcrivions", "transcriviez", "transcrivaient" ],
+  "passeSimple": [ "transcrivis", "transcrivis", "transcrivit", "transcrivîmes", "transcrivîtes", "transcrivirent" ],
+  "futurSimple": [ "transcrirai", "transcriras", "transcrira", "transcrirons", "transcrirez", "transcriront" ],
+  "passeCompose": [ "ai transcrit", "as transcrit", "a transcrit", "avons transcrit", "avez transcrit", "ont transcrit" ],
+  "plusQueParfait": [ "avais transcrit", "avais transcrit", "avait transcrit", "avions transcrit", "aviez transcrit", "avaient transcrit" ],
+  "passeAnterieur": [ "eus transcrit", "eus transcrit", "eut transcrit", "eûmes transcrit", "eûtes transcrit", "eurent transcrit" ],
+  "futurAnterieur": [ "aurai transcrit", "auras transcrit", "aura transcrit", "aurons transcrit", "aurez transcrit", "auront transcrit" ],
+  "subjonctifPresent": [ "transcrive", "transcrives", "transcrive", "transcrivions", "transcriviez", "transcrivent" ],
+  "subjonctifImparfait": [ "transcrivisse", "transcrivisses", "transcrivît", "transcrivissions", "transcrivissiez", "transcrivissent" ],
+  "subjonctifPasse": [ "aie transcrit", "aies transcrit", "ait transcrit", "ayons transcrit", "ayez transcrit", "aient transcrit" ],
+  "subjonctifPlusQueParfait": [ "eusse transcrit", "eusses transcrit", "eût transcrit", "eussions transcrit", "eussiez transcrit", "eussent transcrit" ],
+  "conditionnelPresent": [ "transcrirais", "transcrirais", "transcrirait", "transcririons", "transcririez", "transcriraient" ],
+  "conditionnelPasse": [ "aurais transcrit", "aurais transcrit", "aurait transcrit", "aurions transcrit", "auriez transcrit", "auraient transcrit" ],
+  "conditionnelPasseII": [ "eusse transcrit", "eusses transcrit", "eût transcrit", "eussions transcrit", "eussiez transcrit", "eussent transcrit" ],
+  "imperatif": [ "–", "transcris !", "–", "transcrivons !", "transcrivez !", "–" ],
+  "imperatifPasse": [ "–", "aie transcrit !", "–", "ayons transcrit !", "ayez transcrit !", "–" ]
+}

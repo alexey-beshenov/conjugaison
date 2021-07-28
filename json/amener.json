@@ -1,0 +1,22 @@
+{
+  "infinitif": "amener",
+  "participePresent": "amenant",
+  "participePasse": "amené",
+  "present": [ "amène", "amènes", "amène", "amenons", "amenez", "amènent" ],
+  "imparfait": [ "amenais", "amenais", "amenait", "amenions", "ameniez", "amenaient" ],
+  "passeSimple": [ "amenai", "amenas", "amena", "amenâmes", "amenâtes", "amenèrent" ],
+  "futurSimple": [ "amènerai", "amèneras", "amènera", "amènerons", "amènerez", "amèneront" ],
+  "passeCompose": [ "ai amené", "as amené", "a amené", "avons amené", "avez amené", "ont amené" ],
+  "plusQueParfait": [ "avais amené", "avais amené", "avait amené", "avions amené", "aviez amené", "avaient amené" ],
+  "passeAnterieur": [ "eus amené", "eus amené", "eut amené", "eûmes amené", "eûtes amené", "eurent amené" ],
+  "futurAnterieur": [ "aurai amené", "auras amené", "aura amené", "aurons amené", "aurez amené", "auront amené" ],
+  "subjonctifPresent": [ "amène", "amènes", "amène", "amenions", "ameniez", "amènent" ],
+  "subjonctifImparfait": [ "amenasse", "amenasses", "amenât", "amenassions", "amenassiez", "amenassent" ],
+  "subjonctifPasse": [ "aie amené", "aies amené", "ait amené", "ayons amené", "ayez amené", "aient amené" ],
+  "subjonctifPlusQueParfait": [ "eusse amené", "eusses amené", "eût amené", "eussions amené", "eussiez amené", "eussent amené" ],
+  "conditionnelPresent": [ "amènerais", "amènerais", "amènerait", "amènerions", "amèneriez", "amèneraient" ],
+  "conditionnelPasse": [ "aurais amené", "aurais amené", "aurait amené", "aurions amené", "auriez amené", "auraient amené" ],
+  "conditionnelPasseII": [ "eusse amené", "eusses amené", "eût amené", "eussions amené", "eussiez amené", "eussent amené" ],
+  "imperatif": [ "–", "amène !", "–", "amenons !", "amenez !", "–" ],
+  "imperatifPasse": [ "–", "aie amené !", "–", "ayons amené !", "ayez amené !", "–" ]
+}

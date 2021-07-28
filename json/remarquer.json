@@ -1,0 +1,22 @@
+{
+  "infinitif": "remarquer",
+  "participePresent": "remarquant",
+  "participePasse": "remarqué",
+  "present": [ "remarque", "remarques", "remarque", "remarquons", "remarquez", "remarquent" ],
+  "imparfait": [ "remarquais", "remarquais", "remarquait", "remarquions", "remarquiez", "remarquaient" ],
+  "passeSimple": [ "remarquai", "remarquas", "remarqua", "remarquâmes", "remarquâtes", "remarquèrent" ],
+  "futurSimple": [ "remarquerai", "remarqueras", "remarquera", "remarquerons", "remarquerez", "remarqueront" ],
+  "passeCompose": [ "ai remarqué", "as remarqué", "a remarqué", "avons remarqué", "avez remarqué", "ont remarqué" ],
+  "plusQueParfait": [ "avais remarqué", "avais remarqué", "avait remarqué", "avions remarqué", "aviez remarqué", "avaient remarqué" ],
+  "passeAnterieur": [ "eus remarqué", "eus remarqué", "eut remarqué", "eûmes remarqué", "eûtes remarqué", "eurent remarqué" ],
+  "futurAnterieur": [ "aurai remarqué", "auras remarqué", "aura remarqué", "aurons remarqué", "aurez remarqué", "auront remarqué" ],
+  "subjonctifPresent": [ "remarque", "remarques", "remarque", "remarquions", "remarquiez", "remarquent" ],
+  "subjonctifImparfait": [ "remarquasse", "remarquasses", "remarquât", "remarquassions", "remarquassiez", "remarquassent" ],
+  "subjonctifPasse": [ "aie remarqué", "aies remarqué", "ait remarqué", "ayons remarqué", "ayez remarqué", "aient remarqué" ],
+  "subjonctifPlusQueParfait": [ "eusse remarqué", "eusses remarqué", "eût remarqué", "eussions remarqué", "eussiez remarqué", "eussent remarqué" ],
+  "conditionnelPresent": [ "remarquerais", "remarquerais", "remarquerait", "remarquerions", "remarqueriez", "remarqueraient" ],
+  "conditionnelPasse": [ "aurais remarqué", "aurais remarqué", "aurait remarqué", "aurions remarqué", "auriez remarqué", "auraient remarqué" ],
+  "conditionnelPasseII": [ "eusse remarqué", "eusses remarqué", "eût remarqué", "eussions remarqué", "eussiez remarqué", "eussent remarqué" ],
+  "imperatif": [ "–", "remarque !", "–", "remarquons !", "remarquez !", "–" ],
+  "imperatifPasse": [ "–", "aie remarqué !", "–", "ayons remarqué !", "ayez remarqué !", "–" ]
+}

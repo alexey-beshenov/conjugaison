@@ -1,0 +1,22 @@
+{
+  "infinitif": "se finir",
+  "participePresent": "se finissant",
+  "participePasse": "fini",
+  "present": [ "me finis", "te finis", "se finit", "nous finissons", "vous finissez", "se finissent" ],
+  "imparfait": [ "me finissais", "te finissais", "se finissait", "nous finissions", "vous finissiez", "se finissaient" ],
+  "passeSimple": [ "me finis", "te finis", "se finit", "nous finîmes", "vous finîtes", "se finirent" ],
+  "futurSimple": [ "me finirai", "te finiras", "se finira", "nous finirons", "vous finirez", "se finiront" ],
+  "passeCompose": [ "me suis fini(e)", "t'es fini(e)", "s'est fini(e)", "nous sommes fini(e)s", "vous êtes fini(e)(s)", "se sont fini(e)s" ],
+  "plusQueParfait": [ "m'étais fini(e)", "t'étais fini(e)", "s'était fini(e)", "nous étions fini(e)s", "vous étiez fini(e)(s)", "s'étaient fini(e)s" ],
+  "passeAnterieur": [ "me fus fini(e)", "te fus fini(e)", "se fut fini(e)", "nous fûmes fini(e)s", "vous fûtes fini(e)(s)", "se furent fini(e)s" ],
+  "futurAnterieur": [ "me serai fini(e)", "te seras fini(e)", "se sera fini(e)", "nous serons fini(e)s", "vous serez fini(e)(s)", "se seront fini(e)s" ],
+  "subjonctifPresent": [ "me finisse", "te finisses", "se finisse", "nous finissions", "vous finissiez", "se finissent" ],
+  "subjonctifImparfait": [ "me finisse", "te finisses", "se finît", "nous finissions", "vous finissiez", "se finissent" ],
+  "subjonctifPasse": [ "me sois fini(e)", "te sois fini(e)", "se soit fini(e)", "nous soyons fini(e)s", "vous soyez fini(e)(s)", "se soient fini(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse fini(e)", "te fusses fini(e)", "se fût fini(e)", "nous fussions fini(e)s", "vous fussiez fini(e)(s)", "se fussent fini(e)s" ],
+  "conditionnelPresent": [ "me finirais", "te finirais", "se finirait", "nous finirions", "vous finiriez", "se finiraient" ],
+  "conditionnelPasse": [ "me serais fini(e)", "te serais fini(e)", "se serait fini(e)", "nous serions fini(e)s", "vous seriez fini(e)(s)", "se seraient fini(e)s" ],
+  "conditionnelPasseII": [ "me fusse fini(e)", "te fusses fini(e)", "se fût fini(e)", "nous fussions fini(e)s", "vous fussiez fini(e)(s)", "se fussent fini(e)s" ],
+  "imperatif": [ "–", "finis-toi !", "–", "finissons-nous !", "finissez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

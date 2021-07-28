@@ -1,0 +1,22 @@
+{
+  "infinitif": "rendre",
+  "participePresent": "rendant",
+  "participePasse": "rendu",
+  "present": [ "rends", "rends", "rend", "rendons", "rendez", "rendent" ],
+  "imparfait": [ "rendais", "rendais", "rendait", "rendions", "rendiez", "rendaient" ],
+  "passeSimple": [ "rendis", "rendis", "rendit", "rendîmes", "rendîtes", "rendirent" ],
+  "futurSimple": [ "rendrai", "rendras", "rendra", "rendrons", "rendrez", "rendront" ],
+  "passeCompose": [ "ai rendu", "as rendu", "a rendu", "avons rendu", "avez rendu", "ont rendu" ],
+  "plusQueParfait": [ "avais rendu", "avais rendu", "avait rendu", "avions rendu", "aviez rendu", "avaient rendu" ],
+  "passeAnterieur": [ "eus rendu", "eus rendu", "eut rendu", "eûmes rendu", "eûtes rendu", "eurent rendu" ],
+  "futurAnterieur": [ "aurai rendu", "auras rendu", "aura rendu", "aurons rendu", "aurez rendu", "auront rendu" ],
+  "subjonctifPresent": [ "rende", "rendes", "rende", "rendions", "rendiez", "rendent" ],
+  "subjonctifImparfait": [ "rendisse", "rendisses", "rendît", "rendissions", "rendissiez", "rendissent" ],
+  "subjonctifPasse": [ "aie rendu", "aies rendu", "ait rendu", "ayons rendu", "ayez rendu", "aient rendu" ],
+  "subjonctifPlusQueParfait": [ "eusse rendu", "eusses rendu", "eût rendu", "eussions rendu", "eussiez rendu", "eussent rendu" ],
+  "conditionnelPresent": [ "rendrais", "rendrais", "rendrait", "rendrions", "rendriez", "rendraient" ],
+  "conditionnelPasse": [ "aurais rendu", "aurais rendu", "aurait rendu", "aurions rendu", "auriez rendu", "auraient rendu" ],
+  "conditionnelPasseII": [ "eusse rendu", "eusses rendu", "eût rendu", "eussions rendu", "eussiez rendu", "eussent rendu" ],
+  "imperatif": [ "–", "rends !", "–", "rendons !", "rendez !", "–" ],
+  "imperatifPasse": [ "–", "aie rendu !", "–", "ayons rendu !", "ayez rendu !", "–" ]
+}

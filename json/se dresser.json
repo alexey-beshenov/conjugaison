@@ -1,0 +1,22 @@
+{
+  "infinitif": "se dresser",
+  "participePresent": "se dressant",
+  "participePasse": "dressé",
+  "present": [ "me dresse", "te dresses", "se dresse", "nous dressons", "vous dressez", "se dressent" ],
+  "imparfait": [ "me dressais", "te dressais", "se dressait", "nous dressions", "vous dressiez", "se dressaient" ],
+  "passeSimple": [ "me dressai", "te dressas", "se dressa", "nous dressâmes", "vous dressâtes", "se dressèrent" ],
+  "futurSimple": [ "me dresserai", "te dresseras", "se dressera", "nous dresserons", "vous dresserez", "se dresseront" ],
+  "passeCompose": [ "me suis dressé(e)", "t'es dressé(e)", "s'est dressé(e)", "nous sommes dressé(e)s", "vous êtes dressé(e)(s)", "se sont dressé(e)s" ],
+  "plusQueParfait": [ "m'étais dressé(e)", "t'étais dressé(e)", "s'était dressé(e)", "nous étions dressé(e)s", "vous étiez dressé(e)(s)", "s'étaient dressé(e)s" ],
+  "passeAnterieur": [ "me fus dressé(e)", "te fus dressé(e)", "se fut dressé(e)", "nous fûmes dressé(e)s", "vous fûtes dressé(e)(s)", "se furent dressé(e)s" ],
+  "futurAnterieur": [ "me serai dressé(e)", "te seras dressé(e)", "se sera dressé(e)", "nous serons dressé(e)s", "vous serez dressé(e)(s)", "se seront dressé(e)s" ],
+  "subjonctifPresent": [ "me dresse", "te dresses", "se dresse", "nous dressions", "vous dressiez", "se dressent" ],
+  "subjonctifImparfait": [ "me dressasse", "te dressasses", "se dressât", "nous dressassions", "vous dressassiez", "se dressassent" ],
+  "subjonctifPasse": [ "me sois dressé(e)", "te sois dressé(e)", "se soit dressé(e)", "nous soyons dressé(e)s", "vous soyez dressé(e)(s)", "se soient dressé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse dressé(e)", "te fusses dressé(e)", "se fût dressé(e)", "nous fussions dressé(e)s", "vous fussiez dressé(e)(s)", "se fussent dressé(e)s" ],
+  "conditionnelPresent": [ "me dresserais", "te dresserais", "se dresserait", "nous dresserions", "vous dresseriez", "se dresseraient" ],
+  "conditionnelPasse": [ "me serais dressé(e)", "te serais dressé(e)", "se serait dressé(e)", "nous serions dressé(e)s", "vous seriez dressé(e)(s)", "se seraient dressé(e)s" ],
+  "conditionnelPasseII": [ "me fusse dressé(e)", "te fusses dressé(e)", "se fût dressé(e)", "nous fussions dressé(e)s", "vous fussiez dressé(e)(s)", "se fussent dressé(e)s" ],
+  "imperatif": [ "–", "dresse-toi !", "–", "dressons-nous !", "dressez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

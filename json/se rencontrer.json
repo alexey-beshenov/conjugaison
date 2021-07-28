@@ -1,0 +1,22 @@
+{
+  "infinitif": "se rencontrer",
+  "participePresent": "se rencontrant",
+  "participePasse": "rencontré",
+  "present": [ "me rencontre", "te rencontres", "se rencontre", "nous rencontrons", "vous rencontrez", "se rencontrent" ],
+  "imparfait": [ "me rencontrais", "te rencontrais", "se rencontrait", "nous rencontrions", "vous rencontriez", "se rencontraient" ],
+  "passeSimple": [ "me rencontrai", "te rencontras", "se rencontra", "nous rencontrâmes", "vous rencontrâtes", "se rencontrèrent" ],
+  "futurSimple": [ "me rencontrerai", "te rencontreras", "se rencontrera", "nous rencontrerons", "vous rencontrerez", "se rencontreront" ],
+  "passeCompose": [ "me suis rencontré(e)", "t'es rencontré(e)", "s'est rencontré(e)", "nous sommes rencontré(e)s", "vous êtes rencontré(e)(s)", "se sont rencontré(e)s" ],
+  "plusQueParfait": [ "m'étais rencontré(e)", "t'étais rencontré(e)", "s'était rencontré(e)", "nous étions rencontré(e)s", "vous étiez rencontré(e)(s)", "s'étaient rencontré(e)s" ],
+  "passeAnterieur": [ "me fus rencontré(e)", "te fus rencontré(e)", "se fut rencontré(e)", "nous fûmes rencontré(e)s", "vous fûtes rencontré(e)(s)", "se furent rencontré(e)s" ],
+  "futurAnterieur": [ "me serai rencontré(e)", "te seras rencontré(e)", "se sera rencontré(e)", "nous serons rencontré(e)s", "vous serez rencontré(e)(s)", "se seront rencontré(e)s" ],
+  "subjonctifPresent": [ "me rencontre", "te rencontres", "se rencontre", "nous rencontrions", "vous rencontriez", "se rencontrent" ],
+  "subjonctifImparfait": [ "me rencontrasse", "te rencontrasses", "se rencontrât", "nous rencontrassions", "vous rencontrassiez", "se rencontrassent" ],
+  "subjonctifPasse": [ "me sois rencontré(e)", "te sois rencontré(e)", "se soit rencontré(e)", "nous soyons rencontré(e)s", "vous soyez rencontré(e)(s)", "se soient rencontré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse rencontré(e)", "te fusses rencontré(e)", "se fût rencontré(e)", "nous fussions rencontré(e)s", "vous fussiez rencontré(e)(s)", "se fussent rencontré(e)s" ],
+  "conditionnelPresent": [ "me rencontrerais", "te rencontrerais", "se rencontrerait", "nous rencontrerions", "vous rencontreriez", "se rencontreraient" ],
+  "conditionnelPasse": [ "me serais rencontré(e)", "te serais rencontré(e)", "se serait rencontré(e)", "nous serions rencontré(e)s", "vous seriez rencontré(e)(s)", "se seraient rencontré(e)s" ],
+  "conditionnelPasseII": [ "me fusse rencontré(e)", "te fusses rencontré(e)", "se fût rencontré(e)", "nous fussions rencontré(e)s", "vous fussiez rencontré(e)(s)", "se fussent rencontré(e)s" ],
+  "imperatif": [ "–", "rencontre-toi !", "–", "rencontrons-nous !", "rencontrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

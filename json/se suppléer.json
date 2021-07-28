@@ -1,0 +1,22 @@
+{
+  "infinitif": "se suppléer",
+  "participePresent": "se suppléant",
+  "participePasse": "suppléé",
+  "present": [ "me supplée", "te supplées", "se supplée", "nous suppléons", "vous suppléez", "se suppléent" ],
+  "imparfait": [ "me suppléais", "te suppléais", "se suppléait", "nous suppléions", "vous suppléiez", "se suppléaient" ],
+  "passeSimple": [ "me suppléai", "te suppléas", "se suppléa", "nous suppléâmes", "vous suppléâtes", "se suppléèrent" ],
+  "futurSimple": [ "me suppléerai", "te suppléeras", "se suppléera", "nous suppléerons", "vous suppléerez", "se suppléeront" ],
+  "passeCompose": [ "me suis suppléé(e)", "t'es suppléé(e)", "s'est suppléé(e)", "nous sommes suppléé(e)s", "vous êtes suppléé(e)(s)", "se sont suppléé(e)s" ],
+  "plusQueParfait": [ "m'étais suppléé(e)", "t'étais suppléé(e)", "s'était suppléé(e)", "nous étions suppléé(e)s", "vous étiez suppléé(e)(s)", "s'étaient suppléé(e)s" ],
+  "passeAnterieur": [ "me fus suppléé(e)", "te fus suppléé(e)", "se fut suppléé(e)", "nous fûmes suppléé(e)s", "vous fûtes suppléé(e)(s)", "se furent suppléé(e)s" ],
+  "futurAnterieur": [ "me serai suppléé(e)", "te seras suppléé(e)", "se sera suppléé(e)", "nous serons suppléé(e)s", "vous serez suppléé(e)(s)", "se seront suppléé(e)s" ],
+  "subjonctifPresent": [ "me supplée", "te supplées", "se supplée", "nous suppléions", "vous suppléiez", "se suppléent" ],
+  "subjonctifImparfait": [ "me suppléasse", "te suppléasses", "se suppléât", "nous suppléassions", "vous suppléassiez", "se suppléassent" ],
+  "subjonctifPasse": [ "me sois suppléé(e)", "te sois suppléé(e)", "se soit suppléé(e)", "nous soyons suppléé(e)s", "vous soyez suppléé(e)(s)", "se soient suppléé(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse suppléé(e)", "te fusses suppléé(e)", "se fût suppléé(e)", "nous fussions suppléé(e)s", "vous fussiez suppléé(e)(s)", "se fussent suppléé(e)s" ],
+  "conditionnelPresent": [ "me suppléerais", "te suppléerais", "se suppléerait", "nous suppléerions", "vous suppléeriez", "se suppléeraient" ],
+  "conditionnelPasse": [ "me serais suppléé(e)", "te serais suppléé(e)", "se serait suppléé(e)", "nous serions suppléé(e)s", "vous seriez suppléé(e)(s)", "se seraient suppléé(e)s" ],
+  "conditionnelPasseII": [ "me fusse suppléé(e)", "te fusses suppléé(e)", "se fût suppléé(e)", "nous fussions suppléé(e)s", "vous fussiez suppléé(e)(s)", "se fussent suppléé(e)s" ],
+  "imperatif": [ "–", "supplée-toi !", "–", "suppléons-nous !", "suppléez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

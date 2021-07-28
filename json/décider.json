@@ -1,0 +1,22 @@
+{
+  "infinitif": "décider",
+  "participePresent": "décidant",
+  "participePasse": "décidé",
+  "present": [ "décide", "décides", "décide", "décidons", "décidez", "décident" ],
+  "imparfait": [ "décidais", "décidais", "décidait", "décidions", "décidiez", "décidaient" ],
+  "passeSimple": [ "décidai", "décidas", "décida", "décidâmes", "décidâtes", "décidèrent" ],
+  "futurSimple": [ "déciderai", "décideras", "décidera", "déciderons", "déciderez", "décideront" ],
+  "passeCompose": [ "ai décidé", "as décidé", "a décidé", "avons décidé", "avez décidé", "ont décidé" ],
+  "plusQueParfait": [ "avais décidé", "avais décidé", "avait décidé", "avions décidé", "aviez décidé", "avaient décidé" ],
+  "passeAnterieur": [ "eus décidé", "eus décidé", "eut décidé", "eûmes décidé", "eûtes décidé", "eurent décidé" ],
+  "futurAnterieur": [ "aurai décidé", "auras décidé", "aura décidé", "aurons décidé", "aurez décidé", "auront décidé" ],
+  "subjonctifPresent": [ "décide", "décides", "décide", "décidions", "décidiez", "décident" ],
+  "subjonctifImparfait": [ "décidasse", "décidasses", "décidât", "décidassions", "décidassiez", "décidassent" ],
+  "subjonctifPasse": [ "aie décidé", "aies décidé", "ait décidé", "ayons décidé", "ayez décidé", "aient décidé" ],
+  "subjonctifPlusQueParfait": [ "eusse décidé", "eusses décidé", "eût décidé", "eussions décidé", "eussiez décidé", "eussent décidé" ],
+  "conditionnelPresent": [ "déciderais", "déciderais", "déciderait", "déciderions", "décideriez", "décideraient" ],
+  "conditionnelPasse": [ "aurais décidé", "aurais décidé", "aurait décidé", "aurions décidé", "auriez décidé", "auraient décidé" ],
+  "conditionnelPasseII": [ "eusse décidé", "eusses décidé", "eût décidé", "eussions décidé", "eussiez décidé", "eussent décidé" ],
+  "imperatif": [ "–", "décide !", "–", "décidons !", "décidez !", "–" ],
+  "imperatifPasse": [ "–", "aie décidé !", "–", "ayons décidé !", "ayez décidé !", "–" ]
+}

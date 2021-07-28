@@ -1,0 +1,22 @@
+{
+  "infinitif": "vouloir",
+  "participePresent": "voulant",
+  "participePasse": "voulu",
+  "present": [ "veux", "veux", "veut", "voulons", "voulez", "veulent" ],
+  "imparfait": [ "voulais", "voulais", "voulait", "voulions", "vouliez", "voulaient" ],
+  "passeSimple": [ "voulus", "voulus", "voulut", "voulûmes", "voulûtes", "voulurent" ],
+  "futurSimple": [ "voudrai", "voudras", "voudra", "voudrons", "voudrez", "voudront" ],
+  "passeCompose": [ "ai voulu", "as voulu", "a voulu", "avons voulu", "avez voulu", "ont voulu" ],
+  "plusQueParfait": [ "avais voulu", "avais voulu", "avait voulu", "avions voulu", "aviez voulu", "avaient voulu" ],
+  "passeAnterieur": [ "eus voulu", "eus voulu", "eut voulu", "eûmes voulu", "eûtes voulu", "eurent voulu" ],
+  "futurAnterieur": [ "aurai voulu", "auras voulu", "aura voulu", "aurons voulu", "aurez voulu", "auront voulu" ],
+  "subjonctifPresent": [ "veuille", "veuilles", "veuille", "voulions", "vouliez", "veuillent" ],
+  "subjonctifImparfait": [ "voulusse", "voulusses", "voulût", "voulussions", "voulussiez", "voulussent" ],
+  "subjonctifPasse": [ "aie voulu", "aies voulu", "ait voulu", "ayons voulu", "ayez voulu", "aient voulu" ],
+  "subjonctifPlusQueParfait": [ "eusse voulu", "eusses voulu", "eût voulu", "eussions voulu", "eussiez voulu", "eussent voulu" ],
+  "conditionnelPresent": [ "voudrais", "voudrais", "voudrait", "voudrions", "voudriez", "voudraient" ],
+  "conditionnelPasse": [ "aurais voulu", "aurais voulu", "aurait voulu", "aurions voulu", "auriez voulu", "auraient voulu" ],
+  "conditionnelPasseII": [ "eusse voulu", "eusses voulu", "eût voulu", "eussions voulu", "eussiez voulu", "eussent voulu" ],
+  "imperatif": [ "–", "veuille, veux !", "–", "veuillons, voulons !", "veuillez, voulez !", "–" ],
+  "imperatifPasse": [ "–", "aie voulu !", "–", "ayons voulu !", "ayez voulu !", "–" ]
+}

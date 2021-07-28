@@ -1,0 +1,22 @@
+{
+  "infinitif": "se battre",
+  "participePresent": "se battant",
+  "participePasse": "battu",
+  "present": [ "me bats", "te bats", "se bat", "nous battons", "vous battez", "se battent" ],
+  "imparfait": [ "me battais", "te battais", "se battait", "nous battions", "vous battiez", "se battaient" ],
+  "passeSimple": [ "me battis", "te battis", "se battit", "nous battîmes", "vous battîtes", "se battirent" ],
+  "futurSimple": [ "me battrai", "te battras", "se battra", "nous battrons", "vous battrez", "se battront" ],
+  "passeCompose": [ "me suis battu(e)", "t'es battu(e)", "s'est battu(e)", "nous sommes battu(e)s", "vous êtes battu(e)(s)", "se sont battu(e)s" ],
+  "plusQueParfait": [ "m'étais battu(e)", "t'étais battu(e)", "s'était battu(e)", "nous étions battu(e)s", "vous étiez battu(e)(s)", "s'étaient battu(e)s" ],
+  "passeAnterieur": [ "me fus battu(e)", "te fus battu(e)", "se fut battu(e)", "nous fûmes battu(e)s", "vous fûtes battu(e)(s)", "se furent battu(e)s" ],
+  "futurAnterieur": [ "me serai battu(e)", "te seras battu(e)", "se sera battu(e)", "nous serons battu(e)s", "vous serez battu(e)(s)", "se seront battu(e)s" ],
+  "subjonctifPresent": [ "me batte", "te battes", "se batte", "nous battions", "vous battiez", "se battent" ],
+  "subjonctifImparfait": [ "me battisse", "te battisses", "se battît", "nous battissions", "vous battissiez", "se battissent" ],
+  "subjonctifPasse": [ "me sois battu(e)", "te sois battu(e)", "se soit battu(e)", "nous soyons battu(e)s", "vous soyez battu(e)(s)", "se soient battu(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse battu(e)", "te fusses battu(e)", "se fût battu(e)", "nous fussions battu(e)s", "vous fussiez battu(e)(s)", "se fussent battu(e)s" ],
+  "conditionnelPresent": [ "me battrais", "te battrais", "se battrait", "nous battrions", "vous battriez", "se battraient" ],
+  "conditionnelPasse": [ "me serais battu(e)", "te serais battu(e)", "se serait battu(e)", "nous serions battu(e)s", "vous seriez battu(e)(s)", "se seraient battu(e)s" ],
+  "conditionnelPasseII": [ "me fusse battu(e)", "te fusses battu(e)", "se fût battu(e)", "nous fussions battu(e)s", "vous fussiez battu(e)(s)", "se fussent battu(e)s" ],
+  "imperatif": [ "–", "bats-toi !", "–", "battons-nous !", "battez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

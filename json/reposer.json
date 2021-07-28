@@ -1,0 +1,22 @@
+{
+  "infinitif": "reposer",
+  "participePresent": "reposant",
+  "participePasse": "reposé",
+  "present": [ "repose", "reposes", "repose", "reposons", "reposez", "reposent" ],
+  "imparfait": [ "reposais", "reposais", "reposait", "reposions", "reposiez", "reposaient" ],
+  "passeSimple": [ "reposai", "reposas", "reposa", "reposâmes", "reposâtes", "reposèrent" ],
+  "futurSimple": [ "reposerai", "reposeras", "reposera", "reposerons", "reposerez", "reposeront" ],
+  "passeCompose": [ "ai reposé", "as reposé", "a reposé", "avons reposé", "avez reposé", "ont reposé" ],
+  "plusQueParfait": [ "avais reposé", "avais reposé", "avait reposé", "avions reposé", "aviez reposé", "avaient reposé" ],
+  "passeAnterieur": [ "eus reposé", "eus reposé", "eut reposé", "eûmes reposé", "eûtes reposé", "eurent reposé" ],
+  "futurAnterieur": [ "aurai reposé", "auras reposé", "aura reposé", "aurons reposé", "aurez reposé", "auront reposé" ],
+  "subjonctifPresent": [ "repose", "reposes", "repose", "reposions", "reposiez", "reposent" ],
+  "subjonctifImparfait": [ "reposasse", "reposasses", "reposât", "reposassions", "reposassiez", "reposassent" ],
+  "subjonctifPasse": [ "aie reposé", "aies reposé", "ait reposé", "ayons reposé", "ayez reposé", "aient reposé" ],
+  "subjonctifPlusQueParfait": [ "eusse reposé", "eusses reposé", "eût reposé", "eussions reposé", "eussiez reposé", "eussent reposé" ],
+  "conditionnelPresent": [ "reposerais", "reposerais", "reposerait", "reposerions", "reposeriez", "reposeraient" ],
+  "conditionnelPasse": [ "aurais reposé", "aurais reposé", "aurait reposé", "aurions reposé", "auriez reposé", "auraient reposé" ],
+  "conditionnelPasseII": [ "eusse reposé", "eusses reposé", "eût reposé", "eussions reposé", "eussiez reposé", "eussent reposé" ],
+  "imperatif": [ "–", "repose !", "–", "reposons !", "reposez !", "–" ],
+  "imperatifPasse": [ "–", "aie reposé !", "–", "ayons reposé !", "ayez reposé !", "–" ]
+}

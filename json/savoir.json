@@ -1,0 +1,22 @@
+{
+  "infinitif": "savoir",
+  "participePresent": "sachant",
+  "participePasse": "su",
+  "present": [ "sais", "sais", "sait", "savons", "savez", "savent" ],
+  "imparfait": [ "savais", "savais", "savait", "savions", "saviez", "savaient" ],
+  "passeSimple": [ "sus", "sus", "sut", "sûmes", "sûtes", "surent" ],
+  "futurSimple": [ "saurai", "sauras", "saura", "saurons", "saurez", "sauront" ],
+  "passeCompose": [ "ai su", "as su", "a su", "avons su", "avez su", "ont su" ],
+  "plusQueParfait": [ "avais su", "avais su", "avait su", "avions su", "aviez su", "avaient su" ],
+  "passeAnterieur": [ "eus su", "eus su", "eut su", "eûmes su", "eûtes su", "eurent su" ],
+  "futurAnterieur": [ "aurai su", "auras su", "aura su", "aurons su", "aurez su", "auront su" ],
+  "subjonctifPresent": [ "sache", "saches", "sache", "sachions", "sachiez", "sachent" ],
+  "subjonctifImparfait": [ "susse", "susses", "sût", "sussions", "sussiez", "sussent" ],
+  "subjonctifPasse": [ "aie su", "aies su", "ait su", "ayons su", "ayez su", "aient su" ],
+  "subjonctifPlusQueParfait": [ "eusse su", "eusses su", "eût su", "eussions su", "eussiez su", "eussent su" ],
+  "conditionnelPresent": [ "saurais", "saurais", "saurait", "saurions", "sauriez", "sauraient" ],
+  "conditionnelPasse": [ "aurais su", "aurais su", "aurait su", "aurions su", "auriez su", "auraient su" ],
+  "conditionnelPasseII": [ "eusse su", "eusses su", "eût su", "eussions su", "eussiez su", "eussent su" ],
+  "imperatif": [ "–", "sache !", "–", "sachons !", "sachez !", "–" ],
+  "imperatifPasse": [ "–", "aie su !", "–", "ayons su !", "ayez su !", "–" ]
+}

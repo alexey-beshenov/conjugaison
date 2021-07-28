@@ -1,0 +1,22 @@
+{
+  "infinitif": "attendre",
+  "participePresent": "attendant",
+  "participePasse": "attendu",
+  "present": [ "attends", "attends", "attend", "attendons", "attendez", "attendent" ],
+  "imparfait": [ "attendais", "attendais", "attendait", "attendions", "attendiez", "attendaient" ],
+  "passeSimple": [ "attendis", "attendis", "attendit", "attendîmes", "attendîtes", "attendirent" ],
+  "futurSimple": [ "attendrai", "attendras", "attendra", "attendrons", "attendrez", "attendront" ],
+  "passeCompose": [ "ai attendu", "as attendu", "a attendu", "avons attendu", "avez attendu", "ont attendu" ],
+  "plusQueParfait": [ "avais attendu", "avais attendu", "avait attendu", "avions attendu", "aviez attendu", "avaient attendu" ],
+  "passeAnterieur": [ "eus attendu", "eus attendu", "eut attendu", "eûmes attendu", "eûtes attendu", "eurent attendu" ],
+  "futurAnterieur": [ "aurai attendu", "auras attendu", "aura attendu", "aurons attendu", "aurez attendu", "auront attendu" ],
+  "subjonctifPresent": [ "attende", "attendes", "attende", "attendions", "attendiez", "attendent" ],
+  "subjonctifImparfait": [ "attendisse", "attendisses", "attendît", "attendissions", "attendissiez", "attendissent" ],
+  "subjonctifPasse": [ "aie attendu", "aies attendu", "ait attendu", "ayons attendu", "ayez attendu", "aient attendu" ],
+  "subjonctifPlusQueParfait": [ "eusse attendu", "eusses attendu", "eût attendu", "eussions attendu", "eussiez attendu", "eussent attendu" ],
+  "conditionnelPresent": [ "attendrais", "attendrais", "attendrait", "attendrions", "attendriez", "attendraient" ],
+  "conditionnelPasse": [ "aurais attendu", "aurais attendu", "aurait attendu", "aurions attendu", "auriez attendu", "auraient attendu" ],
+  "conditionnelPasseII": [ "eusse attendu", "eusses attendu", "eût attendu", "eussions attendu", "eussiez attendu", "eussent attendu" ],
+  "imperatif": [ "–", "attends !", "–", "attendons !", "attendez !", "–" ],
+  "imperatifPasse": [ "–", "aie attendu !", "–", "ayons attendu !", "ayez attendu !", "–" ]
+}

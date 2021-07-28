@@ -1,0 +1,22 @@
+{
+  "infinitif": "troubler",
+  "participePresent": "troublant",
+  "participePasse": "troublé",
+  "present": [ "trouble", "troubles", "trouble", "troublons", "troublez", "troublent" ],
+  "imparfait": [ "troublais", "troublais", "troublait", "troublions", "troubliez", "troublaient" ],
+  "passeSimple": [ "troublai", "troublas", "troubla", "troublâmes", "troublâtes", "troublèrent" ],
+  "futurSimple": [ "troublerai", "troubleras", "troublera", "troublerons", "troublerez", "troubleront" ],
+  "passeCompose": [ "ai troublé", "as troublé", "a troublé", "avons troublé", "avez troublé", "ont troublé" ],
+  "plusQueParfait": [ "avais troublé", "avais troublé", "avait troublé", "avions troublé", "aviez troublé", "avaient troublé" ],
+  "passeAnterieur": [ "eus troublé", "eus troublé", "eut troublé", "eûmes troublé", "eûtes troublé", "eurent troublé" ],
+  "futurAnterieur": [ "aurai troublé", "auras troublé", "aura troublé", "aurons troublé", "aurez troublé", "auront troublé" ],
+  "subjonctifPresent": [ "trouble", "troubles", "trouble", "troublions", "troubliez", "troublent" ],
+  "subjonctifImparfait": [ "troublasse", "troublasses", "troublât", "troublassions", "troublassiez", "troublassent" ],
+  "subjonctifPasse": [ "aie troublé", "aies troublé", "ait troublé", "ayons troublé", "ayez troublé", "aient troublé" ],
+  "subjonctifPlusQueParfait": [ "eusse troublé", "eusses troublé", "eût troublé", "eussions troublé", "eussiez troublé", "eussent troublé" ],
+  "conditionnelPresent": [ "troublerais", "troublerais", "troublerait", "troublerions", "troubleriez", "troubleraient" ],
+  "conditionnelPasse": [ "aurais troublé", "aurais troublé", "aurait troublé", "aurions troublé", "auriez troublé", "auraient troublé" ],
+  "conditionnelPasseII": [ "eusse troublé", "eusses troublé", "eût troublé", "eussions troublé", "eussiez troublé", "eussent troublé" ],
+  "imperatif": [ "–", "trouble !", "–", "troublons !", "troublez !", "–" ],
+  "imperatifPasse": [ "–", "aie troublé !", "–", "ayons troublé !", "ayez troublé !", "–" ]
+}

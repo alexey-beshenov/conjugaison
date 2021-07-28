@@ -1,0 +1,22 @@
+{
+  "infinitif": "s'inspirer",
+  "participePresent": "s'inspirant",
+  "participePasse": "inspiré",
+  "present": [ "m'inspire", "t'inspires", "s'inspire", "nous inspirons", "vous inspirez", "s'inspirent" ],
+  "imparfait": [ "m'inspirais", "t'inspirais", "s'inspirait", "nous inspirions", "vous inspiriez", "s'inspiraient" ],
+  "passeSimple": [ "m'inspirai", "t'inspiras", "s'inspira", "nous inspirâmes", "vous inspirâtes", "s'inspirèrent" ],
+  "futurSimple": [ "m'inspirerai", "t'inspireras", "s'inspirera", "nous inspirerons", "vous inspirerez", "s'inspireront" ],
+  "passeCompose": [ "me suis inspiré(e)", "t'es inspiré(e)", "s'est inspiré(e)", "nous sommes inspiré(e)s", "vous êtes inspiré(e)(s)", "se sont inspiré(e)s" ],
+  "plusQueParfait": [ "m'étais inspiré(e)", "t'étais inspiré(e)", "s'était inspiré(e)", "nous étions inspiré(e)s", "vous étiez inspiré(e)(s)", "s'étaient inspiré(e)s" ],
+  "passeAnterieur": [ "me fus inspiré(e)", "te fus inspiré(e)", "se fut inspiré(e)", "nous fûmes inspiré(e)s", "vous fûtes inspiré(e)(s)", "se furent inspiré(e)s" ],
+  "futurAnterieur": [ "me serai inspiré(e)", "te seras inspiré(e)", "se sera inspiré(e)", "nous serons inspiré(e)s", "vous serez inspiré(e)(s)", "se seront inspiré(e)s" ],
+  "subjonctifPresent": [ "m'inspire", "t'inspires", "s'inspire", "nous inspirions", "vous inspiriez", "s'inspirent" ],
+  "subjonctifImparfait": [ "m'inspirasse", "t'inspirasses", "s'inspirât", "nous inspirassions", "vous inspirassiez", "s'inspirassent" ],
+  "subjonctifPasse": [ "me sois inspiré(e)", "te sois inspiré(e)", "se soit inspiré(e)", "nous soyons inspiré(e)s", "vous soyez inspiré(e)(s)", "se soient inspiré(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse inspiré(e)", "te fusses inspiré(e)", "se fût inspiré(e)", "nous fussions inspiré(e)s", "vous fussiez inspiré(e)(s)", "se fussent inspiré(e)s" ],
+  "conditionnelPresent": [ "m'inspirerais", "t'inspirerais", "s'inspirerait", "nous inspirerions", "vous inspireriez", "s'inspireraient" ],
+  "conditionnelPasse": [ "me serais inspiré(e)", "te serais inspiré(e)", "se serait inspiré(e)", "nous serions inspiré(e)s", "vous seriez inspiré(e)(s)", "se seraient inspiré(e)s" ],
+  "conditionnelPasseII": [ "me fusse inspiré(e)", "te fusses inspiré(e)", "se fût inspiré(e)", "nous fussions inspiré(e)s", "vous fussiez inspiré(e)(s)", "se fussent inspiré(e)s" ],
+  "imperatif": [ "–", "inspire-toi !", "–", "inspirons-nous !", "inspirez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

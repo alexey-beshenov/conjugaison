@@ -1,0 +1,22 @@
+{
+  "infinitif": "se couvrir",
+  "participePresent": "se couvrant",
+  "participePasse": "couvert",
+  "present": [ "me couvre", "te couvres", "se couvre", "nous couvrons", "vous couvrez", "se couvrent" ],
+  "imparfait": [ "me couvrais", "te couvrais", "se couvrait", "nous couvrions", "vous couvriez", "se couvraient" ],
+  "passeSimple": [ "me couvris", "te couvris", "se couvrit", "nous couvrîmes", "vous couvrîtes", "se couvrirent" ],
+  "futurSimple": [ "me couvrirai", "te couvriras", "se couvrira", "nous couvrirons", "vous couvrirez", "se couvriront" ],
+  "passeCompose": [ "me suis couvert(e)", "t'es couvert(e)", "s'est couvert(e)", "nous sommes couvert(e)s", "vous êtes couvert(e)(s)", "se sont couvert(e)s" ],
+  "plusQueParfait": [ "m'étais couvert(e)", "t'étais couvert(e)", "s'était couvert(e)", "nous étions couvert(e)s", "vous étiez couvert(e)(s)", "s'étaient couvert(e)s" ],
+  "passeAnterieur": [ "me fus couvert(e)", "te fus couvert(e)", "se fut couvert(e)", "nous fûmes couvert(e)s", "vous fûtes couvert(e)(s)", "se furent couvert(e)s" ],
+  "futurAnterieur": [ "me serai couvert(e)", "te seras couvert(e)", "se sera couvert(e)", "nous serons couvert(e)s", "vous serez couvert(e)(s)", "se seront couvert(e)s" ],
+  "subjonctifPresent": [ "me couvre", "te couvres", "se couvre", "nous couvrions", "vous couvriez", "se couvrent" ],
+  "subjonctifImparfait": [ "me couvrisse", "te couvrisses", "se couvrît", "nous couvrissions", "vous couvrissiez", "se couvrissent" ],
+  "subjonctifPasse": [ "me sois couvert(e)", "te sois couvert(e)", "se soit couvert(e)", "nous soyons couvert(e)s", "vous soyez couvert(e)(s)", "se soient couvert(e)s" ],
+  "subjonctifPlusQueParfait": [ "me fusse couvert(e)", "te fusses couvert(e)", "se fût couvert(e)", "nous fussions couvert(e)s", "vous fussiez couvert(e)(s)", "se fussent couvert(e)s" ],
+  "conditionnelPresent": [ "me couvrirais", "te couvrirais", "se couvrirait", "nous couvririons", "vous couvririez", "se couvriraient" ],
+  "conditionnelPasse": [ "me serais couvert(e)", "te serais couvert(e)", "se serait couvert(e)", "nous serions couvert(e)s", "vous seriez couvert(e)(s)", "se seraient couvert(e)s" ],
+  "conditionnelPasseII": [ "me fusse couvert(e)", "te fusses couvert(e)", "se fût couvert(e)", "nous fussions couvert(e)s", "vous fussiez couvert(e)(s)", "se fussent couvert(e)s" ],
+  "imperatif": [ "–", "couvre-toi !", "–", "couvrons-nous !", "couvrez-vous !", "–" ],
+  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+}

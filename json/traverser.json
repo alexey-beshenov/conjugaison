@@ -1,0 +1,22 @@
+{
+  "infinitif": "traverser",
+  "participePresent": "traversant",
+  "participePasse": "traversé",
+  "present": [ "traverse", "traverses", "traverse", "traversons", "traversez", "traversent" ],
+  "imparfait": [ "traversais", "traversais", "traversait", "traversions", "traversiez", "traversaient" ],
+  "passeSimple": [ "traversai", "traversas", "traversa", "traversâmes", "traversâtes", "traversèrent" ],
+  "futurSimple": [ "traverserai", "traverseras", "traversera", "traverserons", "traverserez", "traverseront" ],
+  "passeCompose": [ "ai traversé", "as traversé", "a traversé", "avons traversé", "avez traversé", "ont traversé" ],
+  "plusQueParfait": [ "avais traversé", "avais traversé", "avait traversé", "avions traversé", "aviez traversé", "avaient traversé" ],
+  "passeAnterieur": [ "eus traversé", "eus traversé", "eut traversé", "eûmes traversé", "eûtes traversé", "eurent traversé" ],
+  "futurAnterieur": [ "aurai traversé", "auras traversé", "aura traversé", "aurons traversé", "aurez traversé", "auront traversé" ],
+  "subjonctifPresent": [ "traverse", "traverses", "traverse", "traversions", "traversiez", "traversent" ],
+  "subjonctifImparfait": [ "traversasse", "traversasses", "traversât", "traversassions", "traversassiez", "traversassent" ],
+  "subjonctifPasse": [ "aie traversé", "aies traversé", "ait traversé", "ayons traversé", "ayez traversé", "aient traversé" ],
+  "subjonctifPlusQueParfait": [ "eusse traversé", "eusses traversé", "eût traversé", "eussions traversé", "eussiez traversé", "eussent traversé" ],
+  "conditionnelPresent": [ "traverserais", "traverserais", "traverserait", "traverserions", "traverseriez", "traverseraient" ],
+  "conditionnelPasse": [ "aurais traversé", "aurais traversé", "aurait traversé", "aurions traversé", "auriez traversé", "auraient traversé" ],
+  "conditionnelPasseII": [ "eusse traversé", "eusses traversé", "eût traversé", "eussions traversé", "eussiez traversé", "eussent traversé" ],
+  "imperatif": [ "–", "traverse !", "–", "traversons !", "traversez !", "–" ],
+  "imperatifPasse": [ "–", "aie traversé !", "–", "ayons traversé !", "ayez traversé !", "–" ]
+}
