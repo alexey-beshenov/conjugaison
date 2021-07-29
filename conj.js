@@ -148,7 +148,13 @@ function updateConjugationFromJSON(data) {
 	const td = document.createElement("td");
 
 	th.textContent = subj[i];
-	td.textContent = data[currentTense][i];
+
+	if (data.hasOwnProperty(currentTense)) {
+	    td.textContent = data[currentTense][i];
+	}
+	else {
+	    td.textContent = "–";
+	}
 
 	tr.appendChild(th);
 	tr.appendChild(td);
