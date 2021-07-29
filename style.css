@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700;800&display=swap');
+
+/* ---------------------------------------------------------------------- */
+
+body {
+    background: #eee;
+    color: #000;
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    background: #fff;
+    height: 100%;
+    margin: auto;
+    max-width: 400px;
+    padding: 10px;
+}
+
+/* ---------------------------------------------------------------------- */
+
+#tense-list {
+    display: block;
+    font-size: 80%;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+#tense-list li {
+    display: inline-block;
+}
+
+#tense-list a, #tense-list a:visited {
+    background: #eed;
+    border-radius: 5px;
+    color: #000;
+    display: inline-block;
+    margin: 0 5px 5px 0;
+    padding: 6px;
+    text-decoration: none;
+}
+
+#tense-list a:hover,
+#tense-list li.active a,
+#tense-list li.active a:visited {
+    background: #ffb;
+}
+
+/* ---------------------------------------------------------------------- */
+
+#verb-list {
+    background: #eee;
+    margin: 0 -10px;
+    padding: 10px;
+}
+
+#verb-list h2 {
+    font-size: 200%;
+}
+
+#verb-list ul {
+    display: block;
+    font-size: 80%;
+    margin: 0 0 1em 0;
+    padding: 0;
+}
+
+#verb-list ul li {
+    display: inline-block;
+}
+
+#verb-list ul a, #verb-list ul a:visited {
+    background: #fdf;
+    border-radius: 5px;
+    color: #000;
+    display: inline-block;
+    margin: 0 5px 5px 0;
+    padding: 6px;
+    text-decoration: none;
+}
+
+#verb-list ul a:hover {
+    background: #ffb;
+}
+
+/* ---------------------------------------------------------------------- */
+
+table th {
+    text-align: right;
+    font-weight: normal;
+    color: #888;
+}
+
+table td {
+    text-aign: left;
+}
+
+table {
+    margin: 1em 0;
+}
+
+/* ---------------------------------------------------------------------- */
+
+h1, h2 {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #999;
+    font-size: 120%;
+}
+
+h2 {
+    font-size: 300%;
+}
