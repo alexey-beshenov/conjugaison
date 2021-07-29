@@ -143,31 +143,44 @@ function setVerb(verb) {
 
 //------------------------------------------------------------
 
-function updateConjugationFromJSON(data) {
-    const conjDiv = document.getElementById("conj");
-    conjDiv.textContent = '';
-
+// Create body > #conj > #conj-table
+function createConjugationTable() {
     const table = document.createElement("table");
+    table.setAttribute("id", "conj-table");
 
     for (let i=0; i < subj.length; i++) {
 	const tr = document.createElement("tr");
 	const th = document.createElement("th");
-	const td = document.createElement("td");
-
 	th.textContent = subj[i];
-
-	if (data.hasOwnProperty(currentTense)) {
-	    td.textContent = data[currentTense][i];
-	}
-	else {
-	    td.textContent = "–";
-	}
+	const td = document.createElement("td");
+	td.setAttribute("id", "conj-" + i);
 
 	tr.appendChild(th);
 	tr.appendChild(td);
 	table.appendChild(tr);
     }
-    conjDiv.appendChild(table);
+
+    document.getElementById("conj").appendChild(table);
+}
+
+// Fill #conj-table with information
+function updateConjugationFromJSON(data) {
+    var table = document.getElementById("conj-table");
+
+    if (table === null) {
+	createConjugationTable();
+	table = document.getElementById("conj-table");
+    }
+ 
+    for (let i=0; i < subj.length; i++) {
+	if (data.hasOwnProperty(currentTense)) {
+	    const td = document.getElementById("conj-" + i);
+	    td.textContent = data[currentTense][i];
+	}
+	else {
+	    td.textContent = "–";
+	}
+    }
 }
 
 //------------------------------------------------------------
