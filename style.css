@@ -122,3 +122,16 @@ h2 {
 div.opaque {
     opacity: 0.1
 }
+
+/* ---------------------------------------------------------------------- */
+
+.copyleft {
+    display: inline-block;
+    transform: rotateY(180deg);
+}
+
+#footer {
+    color: #666;
+    font-size: 80%;
+    padding: 3em 0 0 0;
+}
