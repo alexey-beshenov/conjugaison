@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me forcerais", "te forcerais", "se forcerait", "nous forcerions", "vous forceriez", "se forceraient" ],
   "conditionnelPasse": [ "me serais forcé(e)", "te serais forcé(e)", "se serait forcé(e)", "nous serions forcé(e)s", "vous seriez forcé(e)(s)", "se seraient forcé(e)s" ],
   "conditionnelPasseII": [ "me fusse forcé(e)", "te fusses forcé(e)", "se fût forcé(e)", "nous fussions forcé(e)s", "vous fussiez forcé(e)(s)", "se fussent forcé(e)s" ],
-  "imperatif": [ "–", "force-toi !", "–", "forçons-nous !", "forcez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "force-toi !", "–", "forçons-nous !", "forcez-vous !", "–" ]
 }

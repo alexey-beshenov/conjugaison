@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me toucherais", "te toucherais", "se toucherait", "nous toucherions", "vous toucheriez", "se toucheraient" ],
   "conditionnelPasse": [ "me serais touché(e)", "te serais touché(e)", "se serait touché(e)", "nous serions touché(e)s", "vous seriez touché(e)(s)", "se seraient touché(e)s" ],
   "conditionnelPasseII": [ "me fusse touché(e)", "te fusses touché(e)", "se fût touché(e)", "nous fussions touché(e)s", "vous fussiez touché(e)(s)", "se fussent touché(e)s" ],
-  "imperatif": [ "–", "touche-toi !", "–", "touchons-nous !", "touchez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "touche-toi !", "–", "touchons-nous !", "touchez-vous !", "–" ]
 }

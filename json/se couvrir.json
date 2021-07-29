@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me couvrirais", "te couvrirais", "se couvrirait", "nous couvririons", "vous couvririez", "se couvriraient" ],
   "conditionnelPasse": [ "me serais couvert(e)", "te serais couvert(e)", "se serait couvert(e)", "nous serions couvert(e)s", "vous seriez couvert(e)(s)", "se seraient couvert(e)s" ],
   "conditionnelPasseII": [ "me fusse couvert(e)", "te fusses couvert(e)", "se fût couvert(e)", "nous fussions couvert(e)s", "vous fussiez couvert(e)(s)", "se fussent couvert(e)s" ],
-  "imperatif": [ "–", "couvre-toi !", "–", "couvrons-nous !", "couvrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "couvre-toi !", "–", "couvrons-nous !", "couvrez-vous !", "–" ]
 }

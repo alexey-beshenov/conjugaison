@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me pencherais", "te pencherais", "se pencherait", "nous pencherions", "vous pencheriez", "se pencheraient" ],
   "conditionnelPasse": [ "me serais penché(e)", "te serais penché(e)", "se serait penché(e)", "nous serions penché(e)s", "vous seriez penché(e)(s)", "se seraient penché(e)s" ],
   "conditionnelPasseII": [ "me fusse penché(e)", "te fusses penché(e)", "se fût penché(e)", "nous fussions penché(e)s", "vous fussiez penché(e)(s)", "se fussent penché(e)s" ],
-  "imperatif": [ "–", "penche-toi !", "–", "penchons-nous !", "penchez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "penche-toi !", "–", "penchons-nous !", "penchez-vous !", "–" ]
 }

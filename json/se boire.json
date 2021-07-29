@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me boirais", "te boirais", "se boirait", "nous boirions", "vous boiriez", "se boiraient" ],
   "conditionnelPasse": [ "me serais bu(e)", "te serais bu(e)", "se serait bu(e)", "nous serions bu(e)s", "vous seriez bu(e)(s)", "se seraient bu(e)s" ],
   "conditionnelPasseII": [ "me fusse bu(e)", "te fusses bu(e)", "se fût bu(e)", "nous fussions bu(e)s", "vous fussiez bu(e)(s)", "se fussent bu(e)s" ],
-  "imperatif": [ "–", "bois-toi !", "–", "buvons-nous !", "buvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "bois-toi !", "–", "buvons-nous !", "buvez-vous !", "–" ]
 }

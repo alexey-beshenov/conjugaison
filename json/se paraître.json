@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me paraîtrais", "te paraîtrais", "se paraîtrait", "nous paraîtrions", "vous paraîtriez", "se paraîtraient" ],
   "conditionnelPasse": [ "me serais paru(e)", "te serais paru(e)", "se serait paru(e)", "nous serions paru(e)s", "vous seriez paru(e)(s)", "se seraient paru(e)s" ],
   "conditionnelPasseII": [ "me fusse paru(e)", "te fusses paru(e)", "se fût paru(e)", "nous fussions paru(e)s", "vous fussiez paru(e)(s)", "se fussent paru(e)s" ],
-  "imperatif": [ "–", "parais-toi !", "–", "paraissons-nous !", "paraissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "parais-toi !", "–", "paraissons-nous !", "paraissez-vous !", "–" ]
 }

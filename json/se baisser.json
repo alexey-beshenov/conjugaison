@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me baisserais", "te baisserais", "se baisserait", "nous baisserions", "vous baisseriez", "se baisseraient" ],
   "conditionnelPasse": [ "me serais baissé(e)", "te serais baissé(e)", "se serait baissé(e)", "nous serions baissé(e)s", "vous seriez baissé(e)(s)", "se seraient baissé(e)s" ],
   "conditionnelPasseII": [ "me fusse baissé(e)", "te fusses baissé(e)", "se fût baissé(e)", "nous fussions baissé(e)s", "vous fussiez baissé(e)(s)", "se fussent baissé(e)s" ],
-  "imperatif": [ "–", "baisse-toi !", "–", "baissons-nous !", "baissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "baisse-toi !", "–", "baissons-nous !", "baissez-vous !", "–" ]
 }

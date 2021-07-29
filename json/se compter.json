@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me compterais", "te compterais", "se compterait", "nous compterions", "vous compteriez", "se compteraient" ],
   "conditionnelPasse": [ "me serais compté(e)", "te serais compté(e)", "se serait compté(e)", "nous serions compté(e)s", "vous seriez compté(e)(s)", "se seraient compté(e)s" ],
   "conditionnelPasseII": [ "me fusse compté(e)", "te fusses compté(e)", "se fût compté(e)", "nous fussions compté(e)s", "vous fussiez compté(e)(s)", "se fussent compté(e)s" ],
-  "imperatif": [ "–", "compte-toi !", "–", "comptons-nous !", "comptez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "compte-toi !", "–", "comptons-nous !", "comptez-vous !", "–" ]
 }

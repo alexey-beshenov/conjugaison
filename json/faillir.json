@@ -16,7 +16,5 @@
   "subjonctifPlusQueParfait": [ "eusse failli", "eusses failli", "eût failli", "eussions failli", "eussiez failli", "eussent failli" ],
   "conditionnelPresent": [ "faillirais, faudrais", "faillirais, faudrais", "faillirait, faudrait", "faillirions, faudrions", "failliriez, faudriez", "failliraient, faudraient" ],
   "conditionnelPasse": [ "aurais failli", "aurais failli", "aurait failli", "aurions failli", "auriez failli", "auraient failli" ],
-  "conditionnelPasseII": [ "eusse failli", "eusses failli", "eût failli", "eussions failli", "eussiez failli", "eussent failli" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPasseII": [ "eusse failli", "eusses failli", "eût failli", "eussions failli", "eussiez failli", "eussent failli" ]
 }

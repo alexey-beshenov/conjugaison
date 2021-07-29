@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me confondrais", "te confondrais", "se confondrait", "nous confondrions", "vous confondriez", "se confondraient" ],
   "conditionnelPasse": [ "me serais confondu(e)", "te serais confondu(e)", "se serait confondu(e)", "nous serions confondu(e)s", "vous seriez confondu(e)(s)", "se seraient confondu(e)s" ],
   "conditionnelPasseII": [ "me fusse confondu(e)", "te fusses confondu(e)", "se fût confondu(e)", "nous fussions confondu(e)s", "vous fussiez confondu(e)(s)", "se fussent confondu(e)s" ],
-  "imperatif": [ "–", "confonds-toi !", "–", "confondons-nous !", "confondez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "confonds-toi !", "–", "confondons-nous !", "confondez-vous !", "–" ]
 }

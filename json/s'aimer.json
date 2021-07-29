@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'aimerais", "t'aimerais", "s'aimerait", "nous aimerions", "vous aimeriez", "s'aimeraient" ],
   "conditionnelPasse": [ "me serais aimé(e)", "te serais aimé(e)", "se serait aimé(e)", "nous serions aimé(e)s", "vous seriez aimé(e)(s)", "se seraient aimé(e)s" ],
   "conditionnelPasseII": [ "me fusse aimé(e)", "te fusses aimé(e)", "se fût aimé(e)", "nous fussions aimé(e)s", "vous fussiez aimé(e)(s)", "se fussent aimé(e)s" ],
-  "imperatif": [ "–", "aime-toi !", "–", "aimons-nous !", "aimez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "aime-toi !", "–", "aimons-nous !", "aimez-vous !", "–" ]
 }

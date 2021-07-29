@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me traiterais", "te traiterais", "se traiterait", "nous traiterions", "vous traiteriez", "se traiteraient" ],
   "conditionnelPasse": [ "me serais traité(e)", "te serais traité(e)", "se serait traité(e)", "nous serions traité(e)s", "vous seriez traité(e)(s)", "se seraient traité(e)s" ],
   "conditionnelPasseII": [ "me fusse traité(e)", "te fusses traité(e)", "se fût traité(e)", "nous fussions traité(e)s", "vous fussiez traité(e)(s)", "se fussent traité(e)s" ],
-  "imperatif": [ "–", "traite-toi !", "–", "traitons-nous !", "traitez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "traite-toi !", "–", "traitons-nous !", "traitez-vous !", "–" ]
 }

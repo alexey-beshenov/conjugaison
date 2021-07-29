@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me douterais", "te douterais", "se douterait", "nous douterions", "vous douteriez", "se douteraient" ],
   "conditionnelPasse": [ "me serais douté(e)", "te serais douté(e)", "se serait douté(e)", "nous serions douté(e)s", "vous seriez douté(e)(s)", "se seraient douté(e)s" ],
   "conditionnelPasseII": [ "me fusse douté(e)", "te fusses douté(e)", "se fût douté(e)", "nous fussions douté(e)s", "vous fussiez douté(e)(s)", "se fussent douté(e)s" ],
-  "imperatif": [ "–", "doute-toi !", "–", "doutons-nous !", "doutez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "doute-toi !", "–", "doutons-nous !", "doutez-vous !", "–" ]
 }

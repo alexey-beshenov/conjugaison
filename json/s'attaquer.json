@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'attaquerais", "t'attaquerais", "s'attaquerait", "nous attaquerions", "vous attaqueriez", "s'attaqueraient" ],
   "conditionnelPasse": [ "me serais attaqué(e)", "te serais attaqué(e)", "se serait attaqué(e)", "nous serions attaqué(e)s", "vous seriez attaqué(e)(s)", "se seraient attaqué(e)s" ],
   "conditionnelPasseII": [ "me fusse attaqué(e)", "te fusses attaqué(e)", "se fût attaqué(e)", "nous fussions attaqué(e)s", "vous fussiez attaqué(e)(s)", "se fussent attaqué(e)s" ],
-  "imperatif": [ "–", "attaque-toi !", "–", "attaquons-nous !", "attaquez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "attaque-toi !", "–", "attaquons-nous !", "attaquez-vous !", "–" ]
 }

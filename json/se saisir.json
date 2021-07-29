@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me saisirais", "te saisirais", "se saisirait", "nous saisirions", "vous saisiriez", "se saisiraient" ],
   "conditionnelPasse": [ "me serais saisi(e)", "te serais saisi(e)", "se serait saisi(e)", "nous serions saisi(e)s", "vous seriez saisi(e)(s)", "se seraient saisi(e)s" ],
   "conditionnelPasseII": [ "me fusse saisi(e)", "te fusses saisi(e)", "se fût saisi(e)", "nous fussions saisi(e)s", "vous fussiez saisi(e)(s)", "se fussent saisi(e)s" ],
-  "imperatif": [ "–", "saisis-toi !", "–", "saisissons-nous !", "saisissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "saisis-toi !", "–", "saisissons-nous !", "saisissez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me renverrais", "te renverrais", "se renverrait", "nous renverrions", "vous renverriez", "se renverraient" ],
   "conditionnelPasse": [ "me serais renvoyé(e)", "te serais renvoyé(e)", "se serait renvoyé(e)", "nous serions renvoyé(e)s", "vous seriez renvoyé(e)(s)", "se seraient renvoyé(e)s" ],
   "conditionnelPasseII": [ "me fusse renvoyé(e)", "te fusses renvoyé(e)", "se fût renvoyé(e)", "nous fussions renvoyé(e)s", "vous fussiez renvoyé(e)(s)", "se fussent renvoyé(e)s" ],
-  "imperatif": [ "–", "renvoie-toi !", "–", "renvoyons-nous !", "renvoyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "renvoie-toi !", "–", "renvoyons-nous !", "renvoyez-vous !", "–" ]
 }

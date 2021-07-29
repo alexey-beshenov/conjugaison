@@ -3,20 +3,12 @@
   "participePresent": "–",
   "participePasse": "stupéfait",
   "present": [ "–", "–", "stupéfait", "–", "–", "–" ],
-  "imparfait": [ "–", "–", "–", "–", "–", "–" ],
-  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
-  "futurSimple": [ "–", "–", "–", "–", "–", "–" ],
   "passeCompose": [ "ai stupéfait", "as stupéfait", "a stupéfait", "avons stupéfait", "avez stupéfait", "ont stupéfait" ],
   "plusQueParfait": [ "avais stupéfait", "avais stupéfait", "avait stupéfait", "avions stupéfait", "aviez stupéfait", "avaient stupéfait" ],
   "passeAnterieur": [ "eus stupéfait", "eus stupéfait", "eut stupéfait", "eûmes stupéfait", "eûtes stupéfait", "eurent stupéfait" ],
   "futurAnterieur": [ "aurai stupéfait", "auras stupéfait", "aura stupéfait", "aurons stupéfait", "aurez stupéfait", "auront stupéfait" ],
-  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPasse": [ "aie stupéfait", "aies stupéfait", "ait stupéfait", "ayons stupéfait", "ayez stupéfait", "aient stupéfait" ],
   "subjonctifPlusQueParfait": [ "eusse stupéfait", "eusses stupéfait", "eût stupéfait", "eussions stupéfait", "eussiez stupéfait", "eussent stupéfait" ],
-  "conditionnelPresent": [ "–", "–", "–", "–", "–", "–" ],
   "conditionnelPasse": [ "aurais stupéfait", "aurais stupéfait", "aurait stupéfait", "aurions stupéfait", "auriez stupéfait", "auraient stupéfait" ],
-  "conditionnelPasseII": [ "eusse stupéfait", "eusses stupéfait", "eût stupéfait", "eussions stupéfait", "eussiez stupéfait", "eussent stupéfait" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPasseII": [ "eusse stupéfait", "eusses stupéfait", "eût stupéfait", "eussions stupéfait", "eussiez stupéfait", "eussent stupéfait" ]
 }

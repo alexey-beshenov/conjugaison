@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me répéterais", "te répéterais", "se répéterait", "nous répéterions", "vous répéteriez", "se répéteraient" ],
   "conditionnelPasse": [ "me serais répété(e)", "te serais répété(e)", "se serait répété(e)", "nous serions répété(e)s", "vous seriez répété(e)(s)", "se seraient répété(e)s" ],
   "conditionnelPasseII": [ "me fusse répété(e)", "te fusses répété(e)", "se fût répété(e)", "nous fussions répété(e)s", "vous fussiez répété(e)(s)", "se fussent répété(e)s" ],
-  "imperatif": [ "–", "répète-toi !", "–", "répétons-nous !", "répétez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "répète-toi !", "–", "répétons-nous !", "répétez-vous !", "–" ]
 }

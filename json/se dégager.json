@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me dégagerais", "te dégagerais", "se dégagerait", "nous dégagerions", "vous dégageriez", "se dégageraient" ],
   "conditionnelPasse": [ "me serais dégagé(e)", "te serais dégagé(e)", "se serait dégagé(e)", "nous serions dégagé(e)s", "vous seriez dégagé(e)(s)", "se seraient dégagé(e)s" ],
   "conditionnelPasseII": [ "me fusse dégagé(e)", "te fusses dégagé(e)", "se fût dégagé(e)", "nous fussions dégagé(e)s", "vous fussiez dégagé(e)(s)", "se fussent dégagé(e)s" ],
-  "imperatif": [ "–", "dégage-toi !", "–", "dégageons-nous !", "dégagez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "dégage-toi !", "–", "dégageons-nous !", "dégagez-vous !", "–" ]
 }

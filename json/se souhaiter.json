@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me souhaiterais", "te souhaiterais", "se souhaiterait", "nous souhaiterions", "vous souhaiteriez", "se souhaiteraient" ],
   "conditionnelPasse": [ "me serais souhaité(e)", "te serais souhaité(e)", "se serait souhaité(e)", "nous serions souhaité(e)s", "vous seriez souhaité(e)(s)", "se seraient souhaité(e)s" ],
   "conditionnelPasseII": [ "me fusse souhaité(e)", "te fusses souhaité(e)", "se fût souhaité(e)", "nous fussions souhaité(e)s", "vous fussiez souhaité(e)(s)", "se fussent souhaité(e)s" ],
-  "imperatif": [ "–", "souhaite-toi !", "–", "souhaitons-nous !", "souhaitez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "souhaite-toi !", "–", "souhaitons-nous !", "souhaitez-vous !", "–" ]
 }

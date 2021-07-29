@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me promettrais", "te promettrais", "se promettrait", "nous promettrions", "vous promettriez", "se promettraient" ],
   "conditionnelPasse": [ "me serais promis(e)", "te serais promis(e)", "se serait promis(e)", "nous serions promis(es)", "vous seriez promis(e(s))", "se seraient promis(es)" ],
   "conditionnelPasseII": [ "me fusse promis(e)", "te fusses promis(e)", "se fût promis(e)", "nous fussions promis(es)", "vous fussiez promis(e(s))", "se fussent promis(es)" ],
-  "imperatif": [ "–", "promets-toi !", "–", "promettons-nous !", "promettez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "promets-toi !", "–", "promettons-nous !", "promettez-vous !", "–" ]
 }

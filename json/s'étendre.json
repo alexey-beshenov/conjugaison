@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'étendrais", "t'étendrais", "s'étendrait", "nous étendrions", "vous étendriez", "s'étendraient" ],
   "conditionnelPasse": [ "me serais étendu(e)", "te serais étendu(e)", "se serait étendu(e)", "nous serions étendu(e)s", "vous seriez étendu(e)(s)", "se seraient étendu(e)s" ],
   "conditionnelPasseII": [ "me fusse étendu(e)", "te fusses étendu(e)", "se fût étendu(e)", "nous fussions étendu(e)s", "vous fussiez étendu(e)(s)", "se fussent étendu(e)s" ],
-  "imperatif": [ "–", "étends-toi !", "–", "étendons-nous !", "étendez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "étends-toi !", "–", "étendons-nous !", "étendez-vous !", "–" ]
 }

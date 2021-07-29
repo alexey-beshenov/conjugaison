@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'enfuirais", "t'enfuirais", "s'enfuirait", "nous enfuirions", "vous enfuiriez", "s'enfuiraient" ],
   "conditionnelPasse": [ "me serais enfui(e)", "te serais enfui(e)", "se serait enfui(e)", "nous serions enfui(e)s", "vous seriez enfui(e)(s)", "se seraient enfui(e)s" ],
   "conditionnelPasseII": [ "me fusse enfui(e)", "te fusses enfui(e)", "se fût enfui(e)", "nous fussions enfui(e)s", "vous fussiez enfui(e)(s)", "se fussent enfui(e)s" ],
-  "imperatif": [ "–", "enfuis-toi !", "–", "enfuyons-nous !", "enfuyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "enfuis-toi !", "–", "enfuyons-nous !", "enfuyez-vous !", "–" ]
 }

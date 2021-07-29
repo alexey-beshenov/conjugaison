@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "–", "–", "s'entrebattrait", "nous entrebattrions", "vous entrebattriez", "s'entrebattraient" ],
   "conditionnelPasse": [ "–", "–", "se serait entrebattu(e)s", "nous serions entrebattu(e)s", "vous seriez entrebattu(e)(s)", "se seraient entrebattu(e)s" ],
   "conditionnelPasseII": [ "–", "–", "se fût entrebattu(e)s", "nous fussions entrebattu(e)s", "vous fussiez entrebattu(e)(s)", "se fussent entrebattu(e)s" ],
-  "imperatif": [ "–", "–", "–", "entrebattons-nous !", "entrebattez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "–", "–", "entrebattons-nous !", "entrebattez-vous !", "–" ]
 }

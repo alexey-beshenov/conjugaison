@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me plongerais", "te plongerais", "se plongerait", "nous plongerions", "vous plongeriez", "se plongeraient" ],
   "conditionnelPasse": [ "me serais plongé(e)", "te serais plongé(e)", "se serait plongé(e)", "nous serions plongé(e)s", "vous seriez plongé(e)(s)", "se seraient plongé(e)s" ],
   "conditionnelPasseII": [ "me fusse plongé(e)", "te fusses plongé(e)", "se fût plongé(e)", "nous fussions plongé(e)s", "vous fussiez plongé(e)(s)", "se fussent plongé(e)s" ],
-  "imperatif": [ "–", "plonge-toi !", "–", "plongeons-nous !", "plongez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "plonge-toi !", "–", "plongeons-nous !", "plongez-vous !", "–" ]
 }

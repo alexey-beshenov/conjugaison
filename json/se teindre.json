@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me teindrais", "te teindrais", "se teindrait", "nous teindrions", "vous teindriez", "se teindraient" ],
   "conditionnelPasse": [ "me serais teint(e)", "te serais teint(e)", "se serait teint(e)", "nous serions teint(e)s", "vous seriez teint(e)(s)", "se seraient teint(e)s" ],
   "conditionnelPasseII": [ "me fusse teint(e)", "te fusses teint(e)", "se fût teint(e)", "nous fussions teint(e)s", "vous fussiez teint(e)(s)", "se fussent teint(e)s" ],
-  "imperatif": [ "–", "teins-toi !", "–", "teignons-nous !", "teignez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "teins-toi !", "–", "teignons-nous !", "teignez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me prévoirais", "te prévoirais", "se prévoirait", "nous prévoirions", "vous prévoiriez", "se prévoiraient" ],
   "conditionnelPasse": [ "me serais prévu(e)", "te serais prévu(e)", "se serait prévu(e)", "nous serions prévu(e)s", "vous seriez prévu(e)(s)", "se seraient prévu(e)s" ],
   "conditionnelPasseII": [ "me fusse prévu(e)", "te fusses prévu(e)", "se fût prévu(e)", "nous fussions prévu(e)s", "vous fussiez prévu(e)(s)", "se fussent prévu(e)s" ],
-  "imperatif": [ "–", "prévois-toi !", "–", "prévoyons-nous !", "prévoyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "prévois-toi !", "–", "prévoyons-nous !", "prévoyez-vous !", "–" ]
 }

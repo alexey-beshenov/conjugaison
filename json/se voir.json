@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me verrais", "te verrais", "se verrait", "nous verrions", "vous verriez", "se verraient" ],
   "conditionnelPasse": [ "me serais vu(e)", "te serais vu(e)", "se serait vu(e)", "nous serions vu(e)s", "vous seriez vu(e)(s)", "se seraient vu(e)s" ],
   "conditionnelPasseII": [ "me fusse vu(e)", "te fusses vu(e)", "se fût vu(e)", "nous fussions vu(e)s", "vous fussiez vu(e)(s)", "se fussent vu(e)s" ],
-  "imperatif": [ "–", "vois-toi !", "–", "voyons-nous !", "voyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "vois-toi !", "–", "voyons-nous !", "voyez-vous !", "–" ]
 }

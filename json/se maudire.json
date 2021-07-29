@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me maudirais", "te maudirais", "se maudirait", "nous maudirions", "vous maudiriez", "se maudiraient" ],
   "conditionnelPasse": [ "me serais maudit(e)", "te serais maudit(e)", "se serait maudit(e)", "nous serions maudit(e)s", "vous seriez maudit(e)(s)", "se seraient maudit(e)s" ],
   "conditionnelPasseII": [ "me fusse maudit(e)", "te fusses maudit(e)", "se fût maudit(e)", "nous fussions maudit(e)s", "vous fussiez maudit(e)(s)", "se fussent maudit(e)s" ],
-  "imperatif": [ "–", "maudis-toi !", "–", "maudissons-nous !", "maudissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "maudis-toi !", "–", "maudissons-nous !", "maudissez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'interrogerais", "t'interrogerais", "s'interrogerait", "nous interrogerions", "vous interrogeriez", "s'interrogeraient" ],
   "conditionnelPasse": [ "me serais interrogé(e)", "te serais interrogé(e)", "se serait interrogé(e)", "nous serions interrogé(e)s", "vous seriez interrogé(e)(s)", "se seraient interrogé(e)s" ],
   "conditionnelPasseII": [ "me fusse interrogé(e)", "te fusses interrogé(e)", "se fût interrogé(e)", "nous fussions interrogé(e)s", "vous fussiez interrogé(e)(s)", "se fussent interrogé(e)s" ],
-  "imperatif": [ "–", "interroge-toi !", "–", "interrogeons-nous !", "interrogez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "interroge-toi !", "–", "interrogeons-nous !", "interrogez-vous !", "–" ]
 }

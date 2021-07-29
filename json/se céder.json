@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me céderais", "te céderais", "se céderait", "nous céderions", "vous céderiez", "se céderaient" ],
   "conditionnelPasse": [ "me serais cédé(e)", "te serais cédé(e)", "se serait cédé(e)", "nous serions cédé(e)s", "vous seriez cédé(e)(s)", "se seraient cédé(e)s" ],
   "conditionnelPasseII": [ "me fusse cédé(e)", "te fusses cédé(e)", "se fût cédé(e)", "nous fussions cédé(e)s", "vous fussiez cédé(e)(s)", "se fussent cédé(e)s" ],
-  "imperatif": [ "–", "cède-toi !", "–", "cédons-nous !", "cédez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "cède-toi !", "–", "cédons-nous !", "cédez-vous !", "–" ]
 }

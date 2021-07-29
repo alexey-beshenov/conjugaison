@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me remercierais", "te remercierais", "se remercierait", "nous remercierions", "vous remercieriez", "se remercieraient" ],
   "conditionnelPasse": [ "me serais remercié(e)", "te serais remercié(e)", "se serait remercié(e)", "nous serions remercié(e)s", "vous seriez remercié(e)(s)", "se seraient remercié(e)s" ],
   "conditionnelPasseII": [ "me fusse remercié(e)", "te fusses remercié(e)", "se fût remercié(e)", "nous fussions remercié(e)s", "vous fussiez remercié(e)(s)", "se fussent remercié(e)s" ],
-  "imperatif": [ "–", "remercie-toi !", "–", "remercions-nous !", "remerciez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "remercie-toi !", "–", "remercions-nous !", "remerciez-vous !", "–" ]
 }

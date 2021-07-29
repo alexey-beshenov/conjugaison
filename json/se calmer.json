@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me calmerais", "te calmerais", "se calmerait", "nous calmerions", "vous calmeriez", "se calmeraient" ],
   "conditionnelPasse": [ "me serais calmé(e)", "te serais calmé(e)", "se serait calmé(e)", "nous serions calmé(e)s", "vous seriez calmé(e)(s)", "se seraient calmé(e)s" ],
   "conditionnelPasseII": [ "me fusse calmé(e)", "te fusses calmé(e)", "se fût calmé(e)", "nous fussions calmé(e)s", "vous fussiez calmé(e)(s)", "se fussent calmé(e)s" ],
-  "imperatif": [ "–", "calme-toi !", "–", "calmons-nous !", "calmez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "calme-toi !", "–", "calmons-nous !", "calmez-vous !", "–" ]
 }

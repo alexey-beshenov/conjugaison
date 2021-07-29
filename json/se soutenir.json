@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me soutiendrais", "te soutiendrais", "se soutiendrait", "nous soutiendrions", "vous soutiendriez", "se soutiendraient" ],
   "conditionnelPasse": [ "me serais soutenu(e)", "te serais soutenu(e)", "se serait soutenu(e)", "nous serions soutenu(e)s", "vous seriez soutenu(e)(s)", "se seraient soutenu(e)s" ],
   "conditionnelPasseII": [ "me fusse soutenu(e)", "te fusses soutenu(e)", "se fût soutenu(e)", "nous fussions soutenu(e)s", "vous fussiez soutenu(e)(s)", "se fussent soutenu(e)s" ],
-  "imperatif": [ "–", "soutiens-toi !", "–", "soutenons-nous !", "soutenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "soutiens-toi !", "–", "soutenons-nous !", "soutenez-vous !", "–" ]
 }

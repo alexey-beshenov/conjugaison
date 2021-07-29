@@ -3,7 +3,6 @@
   "participePresent": "–",
   "participePasse": "déchu",
   "present": [ "déchois", "déchois", "déchoit", "déchoyons", "déchoyez", "déchoient" ],
-  "imparfait": [ "–", "–", "–", "–", "–", "–" ],
   "passeSimple": [ "déchus", "déchus", "déchut", "déchûmes", "déchûtes", "déchurent" ],
   "futurSimple": [ "déchoirai", "déchoiras", "déchoira", "déchoirons", "déchoirez", "déchoiront" ],
   "passeCompose": [ "ai déchu", "as déchu", "a déchu", "avons déchu", "avez déchu", "ont déchu" ],
@@ -16,7 +15,5 @@
   "subjonctifPlusQueParfait": [ "eusse déchu", "eusses déchu", "eût déchu", "eussions déchu", "eussiez déchu", "eussent déchu" ],
   "conditionnelPresent": [ "déchoirais", "déchoirais", "déchoirait", "déchoirions", "déchoiriez", "déchoiraient" ],
   "conditionnelPasse": [ "aurais déchu", "aurais déchu", "aurait déchu", "aurions déchu", "auriez déchu", "auraient déchu" ],
-  "conditionnelPasseII": [ "eusse déchu", "eusses déchu", "eût déchu", "eussions déchu", "eussiez déchu", "eussent déchu" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPasseII": [ "eusse déchu", "eusses déchu", "eût déchu", "eussions déchu", "eussiez déchu", "eussent déchu" ]
 }

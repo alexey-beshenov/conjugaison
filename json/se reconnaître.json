@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me reconnaîtrais", "te reconnaîtrais", "se reconnaîtrait", "nous reconnaîtrions", "vous reconnaîtriez", "se reconnaîtraient" ],
   "conditionnelPasse": [ "me serais reconnu(e)", "te serais reconnu(e)", "se serait reconnu(e)", "nous serions reconnu(e)s", "vous seriez reconnu(e)(s)", "se seraient reconnu(e)s" ],
   "conditionnelPasseII": [ "me fusse reconnu(e)", "te fusses reconnu(e)", "se fût reconnu(e)", "nous fussions reconnu(e)s", "vous fussiez reconnu(e)(s)", "se fussent reconnu(e)s" ],
-  "imperatif": [ "–", "reconnais-toi !", "–", "reconnaissons-nous !", "reconnaissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "reconnais-toi !", "–", "reconnaissons-nous !", "reconnaissez-vous !", "–" ]
 }

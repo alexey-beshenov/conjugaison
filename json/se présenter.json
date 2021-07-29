@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me présenterais", "te présenterais", "se présenterait", "nous présenterions", "vous présenteriez", "se présenteraient" ],
   "conditionnelPasse": [ "me serais présenté(e)", "te serais présenté(e)", "se serait présenté(e)", "nous serions présenté(e)s", "vous seriez présenté(e)(s)", "se seraient présenté(e)s" ],
   "conditionnelPasseII": [ "me fusse présenté(e)", "te fusses présenté(e)", "se fût présenté(e)", "nous fussions présenté(e)s", "vous fussiez présenté(e)(s)", "se fussent présenté(e)s" ],
-  "imperatif": [ "–", "présente-toi !", "–", "présentons-nous !", "présentez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "présente-toi !", "–", "présentons-nous !", "présentez-vous !", "–" ]
 }

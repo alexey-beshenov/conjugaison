@@ -16,7 +16,5 @@
   "subjonctifPlusQueParfait": [ "eusse pu", "eusses pu", "eût pu", "eussions pu", "eussiez pu", "eussent pu" ],
   "conditionnelPresent": [ "pourrais", "pourrais", "pourrait", "pourrions", "pourriez", "pourraient" ],
   "conditionnelPasse": [ "aurais pu", "aurais pu", "aurait pu", "aurions pu", "auriez pu", "auraient pu" ],
-  "conditionnelPasseII": [ "eusse pu", "eusses pu", "eût pu", "eussions pu", "eussiez pu", "eussent pu" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPasseII": [ "eusse pu", "eusses pu", "eût pu", "eussions pu", "eussiez pu", "eussent pu" ]
 }

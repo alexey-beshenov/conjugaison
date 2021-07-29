@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me relirais", "te relirais", "se relirait", "nous relirions", "vous reliriez", "se reliraient" ],
   "conditionnelPasse": [ "me serais relu(e)", "te serais relu(e)", "se serait relu(e)", "nous serions relu(e)s", "vous seriez relu(e)(s)", "se seraient relu(e)s" ],
   "conditionnelPasseII": [ "me fusse relu(e)", "te fusses relu(e)", "se fût relu(e)", "nous fussions relu(e)s", "vous fussiez relu(e)(s)", "se fussent relu(e)s" ],
-  "imperatif": [ "–", "relis-toi !", "–", "relisons-nous !", "relisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "relis-toi !", "–", "relisons-nous !", "relisez-vous !", "–" ]
 }

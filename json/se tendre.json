@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me tendrais", "te tendrais", "se tendrait", "nous tendrions", "vous tendriez", "se tendraient" ],
   "conditionnelPasse": [ "me serais tendu(e)", "te serais tendu(e)", "se serait tendu(e)", "nous serions tendu(e)s", "vous seriez tendu(e)(s)", "se seraient tendu(e)s" ],
   "conditionnelPasseII": [ "me fusse tendu(e)", "te fusses tendu(e)", "se fût tendu(e)", "nous fussions tendu(e)s", "vous fussiez tendu(e)(s)", "se fussent tendu(e)s" ],
-  "imperatif": [ "–", "tends-toi !", "–", "tendons-nous !", "tendez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "tends-toi !", "–", "tendons-nous !", "tendez-vous !", "–" ]
 }

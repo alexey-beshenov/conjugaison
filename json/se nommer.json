@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me nommerais", "te nommerais", "se nommerait", "nous nommerions", "vous nommeriez", "se nommeraient" ],
   "conditionnelPasse": [ "me serais nommé(e)", "te serais nommé(e)", "se serait nommé(e)", "nous serions nommé(e)s", "vous seriez nommé(e)(s)", "se seraient nommé(e)s" ],
   "conditionnelPasseII": [ "me fusse nommé(e)", "te fusses nommé(e)", "se fût nommé(e)", "nous fussions nommé(e)s", "vous fussiez nommé(e)(s)", "se fussent nommé(e)s" ],
-  "imperatif": [ "–", "nomme-toi !", "–", "nommons-nous !", "nommez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "nomme-toi !", "–", "nommons-nous !", "nommez-vous !", "–" ]
 }

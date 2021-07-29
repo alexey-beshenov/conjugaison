@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me suffirais", "te suffirais", "se suffirait", "nous suffirions", "vous suffiriez", "se suffiraient" ],
   "conditionnelPasse": [ "me serais suffi", "te serais suffi", "se serait suffi", "nous serions suffi", "vous seriez suffi", "se seraient suffi" ],
   "conditionnelPasseII": [ "me fusse suffi", "te fusses suffi", "se fût suffi", "nous fussions suffi", "vous fussiez suffi", "se fussent suffi" ],
-  "imperatif": [ "–", "suffis-toi !", "–", "suffisons-nous !", "suffisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "suffis-toi !", "–", "suffisons-nous !", "suffisez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'enfoncerais", "t'enfoncerais", "s'enfoncerait", "nous enfoncerions", "vous enfonceriez", "s'enfonceraient" ],
   "conditionnelPasse": [ "me serais enfoncé(e)", "te serais enfoncé(e)", "se serait enfoncé(e)", "nous serions enfoncé(e)s", "vous seriez enfoncé(e)(s)", "se seraient enfoncé(e)s" ],
   "conditionnelPasseII": [ "me fusse enfoncé(e)", "te fusses enfoncé(e)", "se fût enfoncé(e)", "nous fussions enfoncé(e)s", "vous fussiez enfoncé(e)(s)", "se fussent enfoncé(e)s" ],
-  "imperatif": [ "–", "enfonce-toi !", "–", "enfonçons-nous !", "enfoncez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "enfonce-toi !", "–", "enfonçons-nous !", "enfoncez-vous !", "–" ]
 }

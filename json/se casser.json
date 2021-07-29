@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me casserais", "te casserais", "se casserait", "nous casserions", "vous casseriez", "se casseraient" ],
   "conditionnelPasse": [ "me serais cassé(e)", "te serais cassé(e)", "se serait cassé(e)", "nous serions cassé(e)s", "vous seriez cassé(e)(s)", "se seraient cassé(e)s" ],
   "conditionnelPasseII": [ "me fusse cassé(e)", "te fusses cassé(e)", "se fût cassé(e)", "nous fussions cassé(e)s", "vous fussiez cassé(e)(s)", "se fussent cassé(e)s" ],
-  "imperatif": [ "–", "casse-toi !", "–", "cassons-nous !", "cassez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "casse-toi !", "–", "cassons-nous !", "cassez-vous !", "–" ]
 }

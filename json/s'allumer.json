@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'allumerais", "t'allumerais", "s'allumerait", "nous allumerions", "vous allumeriez", "s'allumeraient" ],
   "conditionnelPasse": [ "me serais allumé(e)", "te serais allumé(e)", "se serait allumé(e)", "nous serions allumé(e)s", "vous seriez allumé(e)(s)", "se seraient allumé(e)s" ],
   "conditionnelPasseII": [ "me fusse allumé(e)", "te fusses allumé(e)", "se fût allumé(e)", "nous fussions allumé(e)s", "vous fussiez allumé(e)(s)", "se fussent allumé(e)s" ],
-  "imperatif": [ "–", "allume-toi !", "–", "allumons-nous !", "allumez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "allume-toi !", "–", "allumons-nous !", "allumez-vous !", "–" ]
 }

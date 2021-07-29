@@ -2,21 +2,12 @@
   "infinitif": "reclure",
   "participePresent": "recluant",
   "participePasse": "reclus",
-  "present": [ "–", "–", "–", "–", "–", "–" ],
-  "imparfait": [ "–", "–", "–", "–", "–", "–" ],
-  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
-  "futurSimple": [ "–", "–", "–", "–", "–", "–" ],
   "passeCompose": [ "ai reclus", "as reclus", "a reclus", "avons reclus", "avez reclus", "ont reclus" ],
   "plusQueParfait": [ "avais reclus", "avais reclus", "avait reclus", "avions reclus", "aviez reclus", "avaient reclus" ],
   "passeAnterieur": [ "eus reclus", "eus reclus", "eut reclus", "eûmes reclus", "eûtes reclus", "eurent reclus" ],
   "futurAnterieur": [ "aurai reclus", "auras reclus", "aura reclus", "aurons reclus", "aurez reclus", "auront reclus" ],
-  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPasse": [ "aie reclus", "aies reclus", "ait reclus", "ayons reclus", "ayez reclus", "aient reclus" ],
   "subjonctifPlusQueParfait": [ "eusse reclus", "eusses reclus", "eût reclus", "eussions reclus", "eussiez reclus", "eussent reclus" ],
-  "conditionnelPresent": [ "–", "–", "–", "–", "–", "–" ],
   "conditionnelPasse": [ "aurais reclus", "aurais reclus", "aurait reclus", "aurions reclus", "auriez reclus", "auraient reclus" ],
-  "conditionnelPasseII": [ "eusse reclus", "eusses reclus", "eût reclus", "eussions reclus", "eussiez reclus", "eussent reclus" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPasseII": [ "eusse reclus", "eusses reclus", "eût reclus", "eussions reclus", "eussiez reclus", "eussent reclus" ]
 }

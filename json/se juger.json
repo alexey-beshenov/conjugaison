@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me jugerais", "te jugerais", "se jugerait", "nous jugerions", "vous jugeriez", "se jugeraient" ],
   "conditionnelPasse": [ "me serais jugé(e)", "te serais jugé(e)", "se serait jugé(e)", "nous serions jugé(e)s", "vous seriez jugé(e)(s)", "se seraient jugé(e)s" ],
   "conditionnelPasseII": [ "me fusse jugé(e)", "te fusses jugé(e)", "se fût jugé(e)", "nous fussions jugé(e)s", "vous fussiez jugé(e)(s)", "se fussent jugé(e)s" ],
-  "imperatif": [ "–", "juge-toi !", "–", "jugeons-nous !", "jugez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "juge-toi !", "–", "jugeons-nous !", "jugez-vous !", "–" ]
 }

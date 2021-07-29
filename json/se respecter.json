@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me respecterais", "te respecterais", "se respecterait", "nous respecterions", "vous respecteriez", "se respecteraient" ],
   "conditionnelPasse": [ "me serais respecté(e)", "te serais respecté(e)", "se serait respecté(e)", "nous serions respecté(e)s", "vous seriez respecté(e)(s)", "se seraient respecté(e)s" ],
   "conditionnelPasseII": [ "me fusse respecté(e)", "te fusses respecté(e)", "se fût respecté(e)", "nous fussions respecté(e)s", "vous fussiez respecté(e)(s)", "se fussent respecté(e)s" ],
-  "imperatif": [ "–", "respecte-toi !", "–", "respectons-nous !", "respectez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "respecte-toi !", "–", "respectons-nous !", "respectez-vous !", "–" ]
 }

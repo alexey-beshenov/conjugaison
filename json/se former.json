@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me formerais", "te formerais", "se formerait", "nous formerions", "vous formeriez", "se formeraient" ],
   "conditionnelPasse": [ "me serais formé(e)", "te serais formé(e)", "se serait formé(e)", "nous serions formé(e)s", "vous seriez formé(e)(s)", "se seraient formé(e)s" ],
   "conditionnelPasseII": [ "me fusse formé(e)", "te fusses formé(e)", "se fût formé(e)", "nous fussions formé(e)s", "vous fussiez formé(e)(s)", "se fussent formé(e)s" ],
-  "imperatif": [ "–", "forme-toi !", "–", "formons-nous !", "formez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "forme-toi !", "–", "formons-nous !", "formez-vous !", "–" ]
 }

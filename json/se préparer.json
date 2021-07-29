@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me préparerais", "te préparerais", "se préparerait", "nous préparerions", "vous prépareriez", "se prépareraient" ],
   "conditionnelPasse": [ "me serais préparé(e)", "te serais préparé(e)", "se serait préparé(e)", "nous serions préparé(e)s", "vous seriez préparé(e)(s)", "se seraient préparé(e)s" ],
   "conditionnelPasseII": [ "me fusse préparé(e)", "te fusses préparé(e)", "se fût préparé(e)", "nous fussions préparé(e)s", "vous fussiez préparé(e)(s)", "se fussent préparé(e)s" ],
-  "imperatif": [ "–", "prépare-toi !", "–", "préparons-nous !", "préparez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "prépare-toi !", "–", "préparons-nous !", "préparez-vous !", "–" ]
 }

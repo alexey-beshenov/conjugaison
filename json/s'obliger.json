@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'obligerais", "t'obligerais", "s'obligerait", "nous obligerions", "vous obligeriez", "s'obligeraient" ],
   "conditionnelPasse": [ "me serais obligé(e)", "te serais obligé(e)", "se serait obligé(e)", "nous serions obligé(e)s", "vous seriez obligé(e)(s)", "se seraient obligé(e)s" ],
   "conditionnelPasseII": [ "me fusse obligé(e)", "te fusses obligé(e)", "se fût obligé(e)", "nous fussions obligé(e)s", "vous fussiez obligé(e)(s)", "se fussent obligé(e)s" ],
-  "imperatif": [ "–", "oblige-toi !", "–", "obligeons-nous !", "obligez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "oblige-toi !", "–", "obligeons-nous !", "obligez-vous !", "–" ]
 }

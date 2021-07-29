@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rebouillirais", "te rebouillirais", "se rebouillirait", "nous rebouillirions", "vous rebouilliriez", "se rebouilliraient" ],
   "conditionnelPasse": [ "me serais rebouilli(e)", "te serais rebouilli(e)", "se serait rebouilli(e)", "nous serions rebouilli(e)s", "vous seriez rebouilli(e)(s)", "se seraient rebouilli(e)s" ],
   "conditionnelPasseII": [ "me fusse rebouilli(e)", "te fusses rebouilli(e)", "se fût rebouilli(e)", "nous fussions rebouilli(e)s", "vous fussiez rebouilli(e)(s)", "se fussent rebouilli(e)s" ],
-  "imperatif": [ "–", "rebous-toi !", "–", "rebouillons-nous !", "rebouillez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rebous-toi !", "–", "rebouillons-nous !", "rebouillez-vous !", "–" ]
 }

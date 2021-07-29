@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me revaudrais", "te revaudrais", "se revaudrait", "nous revaudrions", "vous revaudriez", "se revaudraient" ],
   "conditionnelPasse": [ "me serais revalu(e)", "te serais revalu(e)", "se serait revalu(e)", "nous serions revalu(e)s", "vous seriez revalu(e)(s)", "se seraient revalu(e)s" ],
   "conditionnelPasseII": [ "me fusse revalu(e)", "te fusses revalu(e)", "se fût revalu(e)", "nous fussions revalu(e)s", "vous fussiez revalu(e)(s)", "se fussent revalu(e)s" ],
-  "imperatif": [ "–", "revaux-toi !", "–", "revalons-nous !", "revalez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "revaux-toi !", "–", "revalons-nous !", "revalez-vous !", "–" ]
 }

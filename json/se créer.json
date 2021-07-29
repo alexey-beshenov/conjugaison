@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me créerais", "te créerais", "se créerait", "nous créerions", "vous créeriez", "se créeraient" ],
   "conditionnelPasse": [ "me serais créé(e)", "te serais créé(e)", "se serait créé(e)", "nous serions créé(e)s", "vous seriez créé(e)(s)", "se seraient créé(e)s" ],
   "conditionnelPasseII": [ "me fusse créé(e)", "te fusses créé(e)", "se fût créé(e)", "nous fussions créé(e)s", "vous fussiez créé(e)(s)", "se fussent créé(e)s" ],
-  "imperatif": [ "–", "crée-toi !", "–", "créons-nous !", "créez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "crée-toi !", "–", "créons-nous !", "créez-vous !", "–" ]
 }

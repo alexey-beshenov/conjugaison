@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me suivrais", "te suivrais", "se suivrait", "nous suivrions", "vous suivriez", "se suivraient" ],
   "conditionnelPasse": [ "me serais suivi(e)", "te serais suivi(e)", "se serait suivi(e)", "nous serions suivi(e)s", "vous seriez suivi(e)(s)", "se seraient suivi(e)s" ],
   "conditionnelPasseII": [ "me fusse suivi(e)", "te fusses suivi(e)", "se fût suivi(e)", "nous fussions suivi(e)s", "vous fussiez suivi(e)(s)", "se fussent suivi(e)s" ],
-  "imperatif": [ "–", "suis-toi !", "–", "suivons-nous !", "suivez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "suis-toi !", "–", "suivons-nous !", "suivez-vous !", "–" ]
 }

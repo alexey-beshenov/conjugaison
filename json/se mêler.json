@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me mêlerais", "te mêlerais", "se mêlerait", "nous mêlerions", "vous mêleriez", "se mêleraient" ],
   "conditionnelPasse": [ "me serais mêlé(e)", "te serais mêlé(e)", "se serait mêlé(e)", "nous serions mêlé(e)s", "vous seriez mêlé(e)(s)", "se seraient mêlé(e)s" ],
   "conditionnelPasseII": [ "me fusse mêlé(e)", "te fusses mêlé(e)", "se fût mêlé(e)", "nous fussions mêlé(e)s", "vous fussiez mêlé(e)(s)", "se fussent mêlé(e)s" ],
-  "imperatif": [ "–", "mêle-toi !", "–", "mêlons-nous !", "mêlez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "mêle-toi !", "–", "mêlons-nous !", "mêlez-vous !", "–" ]
 }

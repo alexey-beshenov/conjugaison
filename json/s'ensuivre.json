@@ -16,7 +16,5 @@
   "subjonctifPlusQueParfait": [ "–", "–", "se fût ensuivi(e)", "–", "–", "se fussent ensuivi(e)s" ],
   "conditionnelPresent": [ "–", "–", "s'ensuivrait", "–", "–", "s'ensuivraient" ],
   "conditionnelPasse": [ "–", "–", "se serait ensuivi(e)", "–", "–", "se seraient ensuivi(e)s" ],
-  "conditionnelPasseII": [ "–", "–", "se fût ensuivi(e)", "–", "–", "se fussent ensuivi(e)s" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPasseII": [ "–", "–", "se fût ensuivi(e)", "–", "–", "se fussent ensuivi(e)s" ]
 }

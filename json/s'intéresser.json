@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'intéresserais", "t'intéresserais", "s'intéresserait", "nous intéresserions", "vous intéresseriez", "s'intéresseraient" ],
   "conditionnelPasse": [ "me serais intéressé(e)", "te serais intéressé(e)", "se serait intéressé(e)", "nous serions intéressé(e)s", "vous seriez intéressé(e)(s)", "se seraient intéressé(e)s" ],
   "conditionnelPasseII": [ "me fusse intéressé(e)", "te fusses intéressé(e)", "se fût intéressé(e)", "nous fussions intéressé(e)s", "vous fussiez intéressé(e)(s)", "se fussent intéressé(e)s" ],
-  "imperatif": [ "–", "intéresse-toi !", "–", "intéressons-nous !", "intéressez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "intéresse-toi !", "–", "intéressons-nous !", "intéressez-vous !", "–" ]
 }

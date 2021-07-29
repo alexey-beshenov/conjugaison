@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'annoncerais", "t'annoncerais", "s'annoncerait", "nous annoncerions", "vous annonceriez", "s'annonceraient" ],
   "conditionnelPasse": [ "me serais annoncé(e)", "te serais annoncé(e)", "se serait annoncé(e)", "nous serions annoncé(e)s", "vous seriez annoncé(e)(s)", "se seraient annoncé(e)s" ],
   "conditionnelPasseII": [ "me fusse annoncé(e)", "te fusses annoncé(e)", "se fût annoncé(e)", "nous fussions annoncé(e)s", "vous fussiez annoncé(e)(s)", "se fussent annoncé(e)s" ],
-  "imperatif": [ "–", "annonce-toi !", "–", "annonçons-nous !", "annoncez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "annonce-toi !", "–", "annonçons-nous !", "annoncez-vous !", "–" ]
 }

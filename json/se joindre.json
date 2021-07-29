@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me joindrais", "te joindrais", "se joindrait", "nous joindrions", "vous joindriez", "se joindraient" ],
   "conditionnelPasse": [ "me serais joint(e)", "te serais joint(e)", "se serait joint(e)", "nous serions joint(e)s", "vous seriez joint(e)(s)", "se seraient joint(e)s" ],
   "conditionnelPasseII": [ "me fusse joint(e)", "te fusses joint(e)", "se fût joint(e)", "nous fussions joint(e)s", "vous fussiez joint(e)(s)", "se fussent joint(e)s" ],
-  "imperatif": [ "–", "joins-toi !", "–", "joignons-nous !", "joignez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "joins-toi !", "–", "joignons-nous !", "joignez-vous !", "–" ]
 }

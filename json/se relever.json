@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me relèverais", "te relèverais", "se relèverait", "nous relèverions", "vous relèveriez", "se relèveraient" ],
   "conditionnelPasse": [ "me serais relevé(e)", "te serais relevé(e)", "se serait relevé(e)", "nous serions relevé(e)s", "vous seriez relevé(e)(s)", "se seraient relevé(e)s" ],
   "conditionnelPasseII": [ "me fusse relevé(e)", "te fusses relevé(e)", "se fût relevé(e)", "nous fussions relevé(e)s", "vous fussiez relevé(e)(s)", "se fussent relevé(e)s" ],
-  "imperatif": [ "–", "relève-toi !", "–", "relevons-nous !", "relevez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "relève-toi !", "–", "relevons-nous !", "relevez-vous !", "–" ]
 }

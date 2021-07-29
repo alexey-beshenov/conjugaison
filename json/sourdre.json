@@ -9,9 +9,7 @@
   "subjonctifPresent": [ "–", "–", "sourde", "–", "–", "sourdent" ],
   "subjonctifImparfait": [ "–", "–", "sourdît", "–", "–", "sourdissent" ],
   "subjonctifPresent": [ "–", "–", "sourdrait", "–", "–", "sourdraient" ],
-  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPresent": [ "–", "–", "sourde", "–", "–", "sourdent" ],
   "subjonctifImparfait": [ "–", "–", "sourdît", "–", "–", "sourdissent" ],
-  "conditionnelPresent": [ "–", "–", "sourdrait", "–", "–", "sourdraient" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPresent": [ "–", "–", "sourdrait", "–", "–", "sourdraient" ]
 }

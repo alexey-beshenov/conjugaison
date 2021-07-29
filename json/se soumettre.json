@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me soumettrais", "te soumettrais", "se soumettrait", "nous soumettrions", "vous soumettriez", "se soumettraient" ],
   "conditionnelPasse": [ "me serais soumis(e)", "te serais soumis(e)", "se serait soumis(e)", "nous serions soumis(es)", "vous seriez soumis(e(s))", "se seraient soumis(es)" ],
   "conditionnelPasseII": [ "me fusse soumis(e)", "te fusses soumis(e)", "se fût soumis(e)", "nous fussions soumis(es)", "vous fussiez soumis(e(s))", "se fussent soumis(es)" ],
-  "imperatif": [ "–", "soumets-toi !", "–", "soumettons-nous !", "soumettez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "soumets-toi !", "–", "soumettons-nous !", "soumettez-vous !", "–" ]
 }

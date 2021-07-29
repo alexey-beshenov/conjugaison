@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me permettrais", "te permettrais", "se permettrait", "nous permettrions", "vous permettriez", "se permettraient" ],
   "conditionnelPasse": [ "me serais permis", "te serais permis", "se serait permis", "nous serions permis", "vous seriez permis", "se seraient permis" ],
   "conditionnelPasseII": [ "me fusse permis", "te fusses permis", "se fût permis", "nous fussions permis", "vous fussiez permis", "se fussent permis" ],
-  "imperatif": [ "–", "permets-toi !", "–", "permettons-nous !", "permettez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "permets-toi !", "–", "permettons-nous !", "permettez-vous !", "–" ]
 }

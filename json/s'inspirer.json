@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'inspirerais", "t'inspirerais", "s'inspirerait", "nous inspirerions", "vous inspireriez", "s'inspireraient" ],
   "conditionnelPasse": [ "me serais inspiré(e)", "te serais inspiré(e)", "se serait inspiré(e)", "nous serions inspiré(e)s", "vous seriez inspiré(e)(s)", "se seraient inspiré(e)s" ],
   "conditionnelPasseII": [ "me fusse inspiré(e)", "te fusses inspiré(e)", "se fût inspiré(e)", "nous fussions inspiré(e)s", "vous fussiez inspiré(e)(s)", "se fussent inspiré(e)s" ],
-  "imperatif": [ "–", "inspire-toi !", "–", "inspirons-nous !", "inspirez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "inspire-toi !", "–", "inspirons-nous !", "inspirez-vous !", "–" ]
 }

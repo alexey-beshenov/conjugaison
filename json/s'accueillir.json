@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'accueillerais", "t'accueillerais", "s'accueillerait", "nous accueillerions", "vous accueilleriez", "s'accueilleraient" ],
   "conditionnelPasse": [ "me serais accueilli(e)", "te serais accueilli(e)", "se serait accueilli(e)", "nous serions accueilli(e)s", "vous seriez accueilli(e)(s)", "se seraient accueilli(e)s" ],
   "conditionnelPasseII": [ "me fusse accueilli(e)", "te fusses accueilli(e)", "se fût accueilli(e)", "nous fussions accueilli(e)s", "vous fussiez accueilli(e)(s)", "se fussent accueilli(e)s" ],
-  "imperatif": [ "–", "accueille-toi !", "–", "accueillons-nous !", "accueillez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "accueille-toi !", "–", "accueillons-nous !", "accueillez-vous !", "–" ]
 }

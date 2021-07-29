@@ -9,9 +9,7 @@
   "subjonctifPresent": [ "me meure", "te meures", "se meure", "nous mourions", "vous mouriez", "se meurent" ],
   "subjonctifImparfait": [ "me mourusse", "te mourusses", "se mourût", "nous mourussions", "vous mourussiez", "se mourussent" ],
   "subjonctifPresent": [ "me mourrais", "te mourrais", "se mourrait", "nous mourrions", "vous mourriez", "se mourraient" ],
-  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPresent": [ "me meure", "te meures", "se meure", "nous mourions", "vous mouriez", "se meurent" ],
   "subjonctifImparfait": [ "me mourusse", "te mourusses", "se mourût", "nous mourussions", "vous mourussiez", "se mourussent" ],
-  "conditionnelPresent": [ "me mourrais", "te mourrais", "se mourrait", "nous mourrions", "vous mourriez", "se mourraient" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPresent": [ "me mourrais", "te mourrais", "se mourrait", "nous mourrions", "vous mourriez", "se mourraient" ]
 }

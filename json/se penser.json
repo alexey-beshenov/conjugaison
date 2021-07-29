@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me penserais", "te penserais", "se penserait", "nous penserions", "vous penseriez", "se penseraient" ],
   "conditionnelPasse": [ "me serais pensé(e)", "te serais pensé(e)", "se serait pensé(e)", "nous serions pensé(e)s", "vous seriez pensé(e)(s)", "se seraient pensé(e)s" ],
   "conditionnelPasseII": [ "me fusse pensé(e)", "te fusses pensé(e)", "se fût pensé(e)", "nous fussions pensé(e)s", "vous fussiez pensé(e)(s)", "se fussent pensé(e)s" ],
-  "imperatif": [ "–", "pense-toi !", "–", "pensons-nous !", "pensez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "pense-toi !", "–", "pensons-nous !", "pensez-vous !", "–" ]
 }

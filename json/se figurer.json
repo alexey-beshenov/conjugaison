@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me figurerais", "te figurerais", "se figurerait", "nous figurerions", "vous figureriez", "se figureraient" ],
   "conditionnelPasse": [ "me serais figuré(e)", "te serais figuré(e)", "se serait figuré(e)", "nous serions figuré(e)s", "vous seriez figuré(e)(s)", "se seraient figuré(e)s" ],
   "conditionnelPasseII": [ "me fusse figuré(e)", "te fusses figuré(e)", "se fût figuré(e)", "nous fussions figuré(e)s", "vous fussiez figuré(e)(s)", "se fussent figuré(e)s" ],
-  "imperatif": [ "–", "figure-toi !", "–", "figurons-nous !", "figurez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "figure-toi !", "–", "figurons-nous !", "figurez-vous !", "–" ]
 }

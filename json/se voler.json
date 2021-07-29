@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me volerais", "te volerais", "se volerait", "nous volerions", "vous voleriez", "se voleraient" ],
   "conditionnelPasse": [ "me serais volé(e)", "te serais volé(e)", "se serait volé(e)", "nous serions volé(e)s", "vous seriez volé(e)(s)", "se seraient volé(e)s" ],
   "conditionnelPasseII": [ "me fusse volé(e)", "te fusses volé(e)", "se fût volé(e)", "nous fussions volé(e)s", "vous fussiez volé(e)(s)", "se fussent volé(e)s" ],
-  "imperatif": [ "–", "vole-toi !", "–", "volons-nous !", "volez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "vole-toi !", "–", "volons-nous !", "volez-vous !", "–" ]
 }

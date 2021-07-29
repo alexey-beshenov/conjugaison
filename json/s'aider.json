@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'aiderais", "t'aiderais", "s'aiderait", "nous aiderions", "vous aideriez", "s'aideraient" ],
   "conditionnelPasse": [ "me serais aidé(e)", "te serais aidé(e)", "se serait aidé(e)", "nous serions aidé(e)s", "vous seriez aidé(e)(s)", "se seraient aidé(e)s" ],
   "conditionnelPasseII": [ "me fusse aidé(e)", "te fusses aidé(e)", "se fût aidé(e)", "nous fussions aidé(e)s", "vous fussiez aidé(e)(s)", "se fussent aidé(e)s" ],
-  "imperatif": [ "–", "aide-toi !", "–", "aidons-nous !", "aidez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "aide-toi !", "–", "aidons-nous !", "aidez-vous !", "–" ]
 }

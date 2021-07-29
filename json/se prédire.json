@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me prédirais", "te prédirais", "se prédirait", "nous prédirions", "vous prédiriez", "se prédiraient" ],
   "conditionnelPasse": [ "me serais prédit(e)", "te serais prédit(e)", "se serait prédit(e)", "nous serions prédit(e)s", "vous seriez prédit(e)(s)", "se seraient prédit(e)s" ],
   "conditionnelPasseII": [ "me fusse prédit(e)", "te fusses prédit(e)", "se fût prédit(e)", "nous fussions prédit(e)s", "vous fussiez prédit(e)(s)", "se fussent prédit(e)s" ],
-  "imperatif": [ "–", "prédis-toi !", "–", "prédisons-nous !", "prédisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "prédis-toi !", "–", "prédisons-nous !", "prédisez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'accrocherais", "t'accrocherais", "s'accrocherait", "nous accrocherions", "vous accrocheriez", "s'accrocheraient" ],
   "conditionnelPasse": [ "me serais accroché(e)", "te serais accroché(e)", "se serait accroché(e)", "nous serions accroché(e)s", "vous seriez accroché(e)(s)", "se seraient accroché(e)s" ],
   "conditionnelPasseII": [ "me fusse accroché(e)", "te fusses accroché(e)", "se fût accroché(e)", "nous fussions accroché(e)s", "vous fussiez accroché(e)(s)", "se fussent accroché(e)s" ],
-  "imperatif": [ "–", "accroche-toi !", "–", "accrochons-nous !", "accrochez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "accroche-toi !", "–", "accrochons-nous !", "accrochez-vous !", "–" ]
 }

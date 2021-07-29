@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'effacerais", "t'effacerais", "s'effacerait", "nous effacerions", "vous effaceriez", "s'effaceraient" ],
   "conditionnelPasse": [ "me serais effacé(e)", "te serais effacé(e)", "se serait effacé(e)", "nous serions effacé(e)s", "vous seriez effacé(e)(s)", "se seraient effacé(e)s" ],
   "conditionnelPasseII": [ "me fusse effacé(e)", "te fusses effacé(e)", "se fût effacé(e)", "nous fussions effacé(e)s", "vous fussiez effacé(e)(s)", "se fussent effacé(e)s" ],
-  "imperatif": [ "–", "efface-toi !", "–", "effaçons-nous !", "effacez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "efface-toi !", "–", "effaçons-nous !", "effacez-vous !", "–" ]
 }

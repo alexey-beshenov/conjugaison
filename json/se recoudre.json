@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me recoudrais", "te recoudrais", "se recoudrait", "nous recoudrions", "vous recoudriez", "se recoudraient" ],
   "conditionnelPasse": [ "me serais recousu(e)", "te serais recousu(e)", "se serait recousu(e)", "nous serions recousu(e)s", "vous seriez recousu(e)(s)", "se seraient recousu(e)s" ],
   "conditionnelPasseII": [ "me fusse recousu(e)", "te fusses recousu(e)", "se fût recousu(e)", "nous fussions recousu(e)s", "vous fussiez recousu(e)(s)", "se fussent recousu(e)s" ],
-  "imperatif": [ "–", "recouds-toi !", "–", "recousons-nous !", "recousez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "recouds-toi !", "–", "recousons-nous !", "recousez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me dévêtirais", "te dévêtirais", "se dévêtirait", "nous dévêtirions", "vous dévêtiriez", "se dévêtiraient" ],
   "conditionnelPasse": [ "me serais dévêtu(e)", "te serais dévêtu(e)", "se serait dévêtu(e)", "nous serions dévêtu(e)s", "vous seriez dévêtu(e)(s)", "se seraient dévêtu(e)s" ],
   "conditionnelPasseII": [ "me fusse dévêtu(e)", "te fusses dévêtu(e)", "se fût dévêtu(e)", "nous fussions dévêtu(e)s", "vous fussiez dévêtu(e)(s)", "se fussent dévêtu(e)s" ],
-  "imperatif": [ "–", "dévêts-toi !", "–", "dévêtons-nous !", "dévêtez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "dévêts-toi !", "–", "dévêtons-nous !", "dévêtez-vous !", "–" ]
 }

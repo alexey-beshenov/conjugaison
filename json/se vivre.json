@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me vivrais", "te vivrais", "se vivrait", "nous vivrions", "vous vivriez", "se vivraient" ],
   "conditionnelPasse": [ "me serais vécu(e)", "te serais vécu(e)", "se serait vécu(e)", "nous serions vécu(e)s", "vous seriez vécu(e)(s)", "se seraient vécu(e)s" ],
   "conditionnelPasseII": [ "me fusse vécu(e)", "te fusses vécu(e)", "se fût vécu(e)", "nous fussions vécu(e)s", "vous fussiez vécu(e)(s)", "se fussent vécu(e)s" ],
-  "imperatif": [ "–", "vis-toi !", "–", "vivons-nous !", "vivez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "vis-toi !", "–", "vivons-nous !", "vivez-vous !", "–" ]
 }

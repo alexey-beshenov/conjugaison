@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'écrirais", "t'écrirais", "s'écrirait", "nous écririons", "vous écririez", "s'écriraient" ],
   "conditionnelPasse": [ "me serais écrit", "te serais écrit", "se serait écrit", "nous serions écrit", "vous seriez écrit", "se seraient écrit" ],
   "conditionnelPasseII": [ "me fusse écrit", "te fusses écrit", "se fût écrit", "nous fussions écrit", "vous fussiez écrit", "se fussent écrit" ],
-  "imperatif": [ "–", "écris-toi !", "–", "écrivons-nous !", "écrivez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "écris-toi !", "–", "écrivons-nous !", "écrivez-vous !", "–" ]
 }

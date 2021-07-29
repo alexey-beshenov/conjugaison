@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me posséderais", "te posséderais", "se posséderait", "nous posséderions", "vous posséderiez", "se posséderaient" ],
   "conditionnelPasse": [ "me serais possédé(e)", "te serais possédé(e)", "se serait possédé(e)", "nous serions possédé(e)s", "vous seriez possédé(e)(s)", "se seraient possédé(e)s" ],
   "conditionnelPasseII": [ "me fusse possédé(e)", "te fusses possédé(e)", "se fût possédé(e)", "nous fussions possédé(e)s", "vous fussiez possédé(e)(s)", "se fussent possédé(e)s" ],
-  "imperatif": [ "–", "possède-toi !", "–", "possédons-nous !", "possédez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "possède-toi !", "–", "possédons-nous !", "possédez-vous !", "–" ]
 }

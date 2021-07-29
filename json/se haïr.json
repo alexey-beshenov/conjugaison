@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me haïrais", "te haïrais", "se haïrait", "nous haïrions", "vous haïriez", "se haïraient" ],
   "conditionnelPasse": [ "me serais haï(e)", "te serais haï(e)", "se serait haï(e)", "nous serions haï(e)s", "vous seriez haï(e)(s)", "se seraient haï(e)s" ],
   "conditionnelPasseII": [ "me fusse haï(e)", "te fusses haï(e)", "se fût haï(e)", "nous fussions haï(e)s", "vous fussiez haï(e)(s)", "se fussent haï(e)s" ],
-  "imperatif": [ "–", "hais-toi !", "–", "haïssons-nous !", "haïssez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "hais-toi !", "–", "haïssons-nous !", "haïssez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me réunirais", "te réunirais", "se réunirait", "nous réunirions", "vous réuniriez", "se réuniraient" ],
   "conditionnelPasse": [ "me serais réuni(e)", "te serais réuni(e)", "se serait réuni(e)", "nous serions réuni(e)s", "vous seriez réuni(e)(s)", "se seraient réuni(e)s" ],
   "conditionnelPasseII": [ "me fusse réuni(e)", "te fusses réuni(e)", "se fût réuni(e)", "nous fussions réuni(e)s", "vous fussiez réuni(e)(s)", "se fussent réuni(e)s" ],
-  "imperatif": [ "–", "réunis-toi !", "–", "réunissons-nous !", "réunissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "réunis-toi !", "–", "réunissons-nous !", "réunissez-vous !", "–" ]
 }

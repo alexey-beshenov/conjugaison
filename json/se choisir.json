@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me choisirais", "te choisirais", "se choisirait", "nous choisirions", "vous choisiriez", "se choisiraient" ],
   "conditionnelPasse": [ "me serais choisi(e)", "te serais choisi(e)", "se serait choisi(e)", "nous serions choisi(e)s", "vous seriez choisi(e)(s)", "se seraient choisi(e)s" ],
   "conditionnelPasseII": [ "me fusse choisi(e)", "te fusses choisi(e)", "se fût choisi(e)", "nous fussions choisi(e)s", "vous fussiez choisi(e)(s)", "se fussent choisi(e)s" ],
-  "imperatif": [ "–", "choisis-toi !", "–", "choisissons-nous !", "choisissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "choisis-toi !", "–", "choisissons-nous !", "choisissez-vous !", "–" ]
 }

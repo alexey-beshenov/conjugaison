@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me mouvrais", "te mouvrais", "se mouvrait", "nous mouvrions", "vous mouvriez", "se mouvraient" ],
   "conditionnelPasse": [ "me serais mû, mue", "te serais mû, mue", "se serait mû, mue", "nous serions mu(e)s", "vous seriez mû, mu(e)s", "se seraient mu(e)s" ],
   "conditionnelPasseII": [ "me fusse mû, mue", "te fusses mû, mue", "se fût mû, mue", "nous fussions mu(e)s", "vous fussiez mû, mu(e)s", "se fussent mu(e)s" ],
-  "imperatif": [ "–", "meus-toi !", "–", "mouvons-nous !", "mouvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "meus-toi !", "–", "mouvons-nous !", "mouvez-vous !", "–" ]
 }

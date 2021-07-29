@@ -16,7 +16,5 @@
   "subjonctifPlusQueParfait": [ "–", "–", "eût plu", "–", "–", "eussent plu" ],
   "conditionnelPresent": [ "–", "–", "pleuvrait", "–", "–", "pleuvraient" ],
   "conditionnelPasse": [ "–", "–", "aurait plu", "–", "–", "auraient plu" ],
-  "conditionnelPasseII": [ "–", "–", "eût plu", "–", "–", "eussent plu" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPasseII": [ "–", "–", "eût plu", "–", "–", "eussent plu" ]
 }

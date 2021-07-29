@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me recommencerais", "te recommencerais", "se recommencerait", "nous recommencerions", "vous recommenceriez", "se recommenceraient" ],
   "conditionnelPasse": [ "me serais recommencé(e)", "te serais recommencé(e)", "se serait recommencé(e)", "nous serions recommencé(e)s", "vous seriez recommencé(e)(s)", "se seraient recommencé(e)s" ],
   "conditionnelPasseII": [ "me fusse recommencé(e)", "te fusses recommencé(e)", "se fût recommencé(e)", "nous fussions recommencé(e)s", "vous fussiez recommencé(e)(s)", "se fussent recommencé(e)s" ],
-  "imperatif": [ "–", "recommence-toi !", "–", "recommençons-nous !", "recommencez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "recommence-toi !", "–", "recommençons-nous !", "recommencez-vous !", "–" ]
 }

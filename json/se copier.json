@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me copierais", "te copierais", "se copierait", "nous copierions", "vous copieriez", "se copieraient" ],
   "conditionnelPasse": [ "me serais copié(e)", "te serais copié(e)", "se serait copié(e)", "nous serions copié(e)s", "vous seriez copié(e)(s)", "se seraient copié(e)s" ],
   "conditionnelPasseII": [ "me fusse copié(e)", "te fusses copié(e)", "se fût copié(e)", "nous fussions copié(e)s", "vous fussiez copié(e)(s)", "se fussent copié(e)s" ],
-  "imperatif": [ "–", "copie-toi !", "–", "copions-nous !", "copiez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "copie-toi !", "–", "copions-nous !", "copiez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'expliquerais", "t'expliquerais", "s'expliquerait", "nous expliquerions", "vous expliqueriez", "s'expliqueraient" ],
   "conditionnelPasse": [ "me serais expliqué(e)", "te serais expliqué(e)", "se serait expliqué(e)", "nous serions expliqué(e)s", "vous seriez expliqué(e)(s)", "se seraient expliqué(e)s" ],
   "conditionnelPasseII": [ "me fusse expliqué(e)", "te fusses expliqué(e)", "se fût expliqué(e)", "nous fussions expliqué(e)s", "vous fussiez expliqué(e)(s)", "se fussent expliqué(e)s" ],
-  "imperatif": [ "–", "explique-toi !", "–", "expliquons-nous !", "expliquez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "explique-toi !", "–", "expliquons-nous !", "expliquez-vous !", "–" ]
 }

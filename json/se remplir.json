@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me remplirais", "te remplirais", "se remplirait", "nous remplirions", "vous rempliriez", "se rempliraient" ],
   "conditionnelPasse": [ "me serais rempli(e)", "te serais rempli(e)", "se serait rempli(e)", "nous serions rempli(e)s", "vous seriez rempli(e)(s)", "se seraient rempli(e)s" ],
   "conditionnelPasseII": [ "me fusse rempli(e)", "te fusses rempli(e)", "se fût rempli(e)", "nous fussions rempli(e)s", "vous fussiez rempli(e)(s)", "se fussent rempli(e)s" ],
-  "imperatif": [ "–", "remplis-toi !", "–", "remplissons-nous !", "remplissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "remplis-toi !", "–", "remplissons-nous !", "remplissez-vous !", "–" ]
 }

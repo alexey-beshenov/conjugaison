@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rendormirais", "te rendormirais", "se rendormirait", "nous rendormirions", "vous rendormiriez", "se rendormiraient" ],
   "conditionnelPasse": [ "me serais rendormi(e)", "te serais rendormi(e)", "se serait rendormi(e)", "nous serions rendormi(e)s", "vous seriez rendormi(e)(s)", "se seraient rendormi(e)s" ],
   "conditionnelPasseII": [ "me fusse rendormi(e)", "te fusses rendormi(e)", "se fût rendormi(e)", "nous fussions rendormi(e)s", "vous fussiez rendormi(e)(s)", "se fussent rendormi(e)s" ],
-  "imperatif": [ "–", "rendors-toi !", "–", "rendormons-nous !", "rendormez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rendors-toi !", "–", "rendormons-nous !", "rendormez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me coulerais", "te coulerais", "se coulerait", "nous coulerions", "vous couleriez", "se couleraient" ],
   "conditionnelPasse": [ "me serais coulé(e)", "te serais coulé(e)", "se serait coulé(e)", "nous serions coulé(e)s", "vous seriez coulé(e)(s)", "se seraient coulé(e)s" ],
   "conditionnelPasseII": [ "me fusse coulé(e)", "te fusses coulé(e)", "se fût coulé(e)", "nous fussions coulé(e)s", "vous fussiez coulé(e)(s)", "se fussent coulé(e)s" ],
-  "imperatif": [ "–", "coule-toi !", "–", "coulons-nous !", "coulez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "coule-toi !", "–", "coulons-nous !", "coulez-vous !", "–" ]
 }

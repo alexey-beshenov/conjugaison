@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me finirais", "te finirais", "se finirait", "nous finirions", "vous finiriez", "se finiraient" ],
   "conditionnelPasse": [ "me serais fini(e)", "te serais fini(e)", "se serait fini(e)", "nous serions fini(e)s", "vous seriez fini(e)(s)", "se seraient fini(e)s" ],
   "conditionnelPasseII": [ "me fusse fini(e)", "te fusses fini(e)", "se fût fini(e)", "nous fussions fini(e)s", "vous fussiez fini(e)(s)", "se fussent fini(e)s" ],
-  "imperatif": [ "–", "finis-toi !", "–", "finissons-nous !", "finissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "finis-toi !", "–", "finissons-nous !", "finissez-vous !", "–" ]
 }

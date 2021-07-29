@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rapporterais", "te rapporterais", "se rapporterait", "nous rapporterions", "vous rapporteriez", "se rapporteraient" ],
   "conditionnelPasse": [ "me serais rapporté(e)", "te serais rapporté(e)", "se serait rapporté(e)", "nous serions rapporté(e)s", "vous seriez rapporté(e)(s)", "se seraient rapporté(e)s" ],
   "conditionnelPasseII": [ "me fusse rapporté(e)", "te fusses rapporté(e)", "se fût rapporté(e)", "nous fussions rapporté(e)s", "vous fussiez rapporté(e)(s)", "se fussent rapporté(e)s" ],
-  "imperatif": [ "–", "rapporte-toi !", "–", "rapportons-nous !", "rapportez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rapporte-toi !", "–", "rapportons-nous !", "rapportez-vous !", "–" ]
 }

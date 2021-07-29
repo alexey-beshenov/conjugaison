@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me remonterais", "te remonterais", "se remonterait", "nous remonterions", "vous remonteriez", "se remonteraient" ],
   "conditionnelPasse": [ "me serais remonté(e)", "te serais remonté(e)", "se serait remonté(e)", "nous serions remonté(e)s", "vous seriez remonté(e)(s)", "se seraient remonté(e)s" ],
   "conditionnelPasseII": [ "me fusse remonté(e)", "te fusses remonté(e)", "se fût remonté(e)", "nous fussions remonté(e)s", "vous fussiez remonté(e)(s)", "se fussent remonté(e)s" ],
-  "imperatif": [ "–", "remonte-toi !", "–", "remontons-nous !", "remontez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "remonte-toi !", "–", "remontons-nous !", "remontez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me remarquerais", "te remarquerais", "se remarquerait", "nous remarquerions", "vous remarqueriez", "se remarqueraient" ],
   "conditionnelPasse": [ "me serais remarqué(e)", "te serais remarqué(e)", "se serait remarqué(e)", "nous serions remarqué(e)s", "vous seriez remarqué(e)(s)", "se seraient remarqué(e)s" ],
   "conditionnelPasseII": [ "me fusse remarqué(e)", "te fusses remarqué(e)", "se fût remarqué(e)", "nous fussions remarqué(e)s", "vous fussiez remarqué(e)(s)", "se fussent remarqué(e)s" ],
-  "imperatif": [ "–", "remarque-toi !", "–", "remarquons-nous !", "remarquez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "remarque-toi !", "–", "remarquons-nous !", "remarquez-vous !", "–" ]
 }

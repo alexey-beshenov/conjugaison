@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me recevrais", "te recevrais", "se recevrait", "nous recevrions", "vous recevriez", "se recevraient" ],
   "conditionnelPasse": [ "me serais reçu(e)", "te serais reçu(e)", "se serait reçu(e)", "nous serions reçu(e)s", "vous seriez reçu(e)(s)", "se seraient reçu(e)s" ],
   "conditionnelPasseII": [ "me fusse reçu(e)", "te fusses reçu(e)", "se fût reçu(e)", "nous fussions reçu(e)s", "vous fussiez reçu(e)(s)", "se fussent reçu(e)s" ],
-  "imperatif": [ "–", "reçois-toi !", "–", "recevons-nous !", "recevez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "reçois-toi !", "–", "recevons-nous !", "recevez-vous !", "–" ]
 }

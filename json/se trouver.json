@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me trouverais", "te trouverais", "se trouverait", "nous trouverions", "vous trouveriez", "se trouveraient" ],
   "conditionnelPasse": [ "me serais trouvé(e)", "te serais trouvé(e)", "se serait trouvé(e)", "nous serions trouvé(e)s", "vous seriez trouvé(e)(s)", "se seraient trouvé(e)s" ],
   "conditionnelPasseII": [ "me fusse trouvé(e)", "te fusses trouvé(e)", "se fût trouvé(e)", "nous fussions trouvé(e)s", "vous fussiez trouvé(e)(s)", "se fussent trouvé(e)s" ],
-  "imperatif": [ "–", "trouve-toi !", "–", "trouvons-nous !", "trouvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "trouve-toi !", "–", "trouvons-nous !", "trouvez-vous !", "–" ]
 }

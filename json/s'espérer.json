@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'espérerais", "t'espérerais", "s'espérerait", "nous espérerions", "vous espéreriez", "s'espéreraient" ],
   "conditionnelPasse": [ "me serais espéré(e)", "te serais espéré(e)", "se serait espéré(e)", "nous serions espéré(e)s", "vous seriez espéré(e)(s)", "se seraient espéré(e)s" ],
   "conditionnelPasseII": [ "me fusse espéré(e)", "te fusses espéré(e)", "se fût espéré(e)", "nous fussions espéré(e)s", "vous fussiez espéré(e)(s)", "se fussent espéré(e)s" ],
-  "imperatif": [ "–", "espère-toi !", "–", "espérons-nous !", "espérez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "espère-toi !", "–", "espérons-nous !", "espérez-vous !", "–" ]
 }

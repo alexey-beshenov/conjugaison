@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'éteindrais", "t'éteindrais", "s'éteindrait", "nous éteindrions", "vous éteindriez", "s'éteindraient" ],
   "conditionnelPasse": [ "me serais éteint(e)", "te serais éteint(e)", "se serait éteint(e)", "nous serions éteint(e)s", "vous seriez éteint(e)(s)", "se seraient éteint(e)s" ],
   "conditionnelPasseII": [ "me fusse éteint(e)", "te fusses éteint(e)", "se fût éteint(e)", "nous fussions éteint(e)s", "vous fussiez éteint(e)(s)", "se fussent éteint(e)s" ],
-  "imperatif": [ "–", "éteins-toi !", "–", "éteignons-nous !", "éteignez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "éteins-toi !", "–", "éteignons-nous !", "éteignez-vous !", "–" ]
 }

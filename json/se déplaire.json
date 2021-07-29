@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me déplairais", "te déplairais", "se déplairait", "nous déplairions", "vous déplairiez", "se déplairaient" ],
   "conditionnelPasse": [ "me serais déplu", "te serais déplu", "se serait déplu", "nous serions déplu", "vous seriez déplu", "se seraient déplu" ],
   "conditionnelPasseII": [ "me fusse déplu", "te fusses déplu", "se fût déplu", "nous fussions déplu", "vous fussiez déplu", "se fussent déplu" ],
-  "imperatif": [ "–", "déplais-toi !", "–", "déplaisons-nous !", "déplaisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "déplais-toi !", "–", "déplaisons-nous !", "déplaisez-vous !", "–" ]
 }

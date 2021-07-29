@@ -4,19 +4,16 @@
   "participePasse": "soustrait",
   "present": [ "me soustrais", "te soustrais", "se soustrait", "nous soustrayons", "vous soustrayez", "se soustraient" ],
   "imparfait": [ "me soustrayais", "te soustrayais", "se soustrayait", "nous soustrayions", "vous soustrayiez", "se soustrayaient" ],
-  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
   "futurSimple": [ "me soustrairai", "te soustrairas", "se soustraira", "nous soustrairons", "vous soustrairez", "se soustrairont" ],
   "passeCompose": [ "me suis soustrait(e)", "t'es soustrait(e)", "s'est soustrait(e)", "nous sommes soustrait(e)s", "vous êtes soustrait(e)(s)", "se sont soustrait(e)s" ],
   "plusQueParfait": [ "m'étais soustrait(e)", "t'étais soustrait(e)", "s'était soustrait(e)", "nous étions soustrait(e)s", "vous étiez soustrait(e)(s)", "s'étaient soustrait(e)s" ],
   "passeAnterieur": [ "me fus soustrait(e)", "te fus soustrait(e)", "se fut soustrait(e)", "nous fûmes soustrait(e)s", "vous fûtes soustrait(e)(s)", "se furent soustrait(e)s" ],
   "futurAnterieur": [ "me serai soustrait(e)", "te seras soustrait(e)", "se sera soustrait(e)", "nous serons soustrait(e)s", "vous serez soustrait(e)(s)", "se seront soustrait(e)s" ],
   "subjonctifPresent": [ "me soustraie", "te soustraies", "se soustraie", "nous soustrayions", "vous soustrayiez", "se soustraient" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPasse": [ "me sois soustrait(e)", "te sois soustrait(e)", "se soit soustrait(e)", "nous soyons soustrait(e)s", "vous soyez soustrait(e)(s)", "se soient soustrait(e)s" ],
   "subjonctifPlusQueParfait": [ "me fusse soustrait(e)", "te fusses soustrait(e)", "se fût soustrait(e)", "nous fussions soustrait(e)s", "vous fussiez soustrait(e)(s)", "se fussent soustrait(e)s" ],
   "conditionnelPresent": [ "me soustrairais", "te soustrairais", "se soustrairait", "nous soustrairions", "vous soustrairiez", "se soustrairaient" ],
   "conditionnelPasse": [ "me serais soustrait(e)", "te serais soustrait(e)", "se serait soustrait(e)", "nous serions soustrait(e)s", "vous seriez soustrait(e)(s)", "se seraient soustrait(e)s" ],
   "conditionnelPasseII": [ "me fusse soustrait(e)", "te fusses soustrait(e)", "se fût soustrait(e)", "nous fussions soustrait(e)s", "vous fussiez soustrait(e)(s)", "se fussent soustrait(e)s" ],
-  "imperatif": [ "–", "soustrais-toi !", "–", "soustrayons-nous !", "soustrayez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "soustrais-toi !", "–", "soustrayons-nous !", "soustrayez-vous !", "–" ]
 }

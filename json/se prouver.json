@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me prouverais", "te prouverais", "se prouverait", "nous prouverions", "vous prouveriez", "se prouveraient" ],
   "conditionnelPasse": [ "me serais prouvé(e)", "te serais prouvé(e)", "se serait prouvé(e)", "nous serions prouvé(e)s", "vous seriez prouvé(e)(s)", "se seraient prouvé(e)s" ],
   "conditionnelPasseII": [ "me fusse prouvé(e)", "te fusses prouvé(e)", "se fût prouvé(e)", "nous fussions prouvé(e)s", "vous fussiez prouvé(e)(s)", "se fussent prouvé(e)s" ],
-  "imperatif": [ "–", "prouve-toi !", "–", "prouvons-nous !", "prouvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "prouve-toi !", "–", "prouvons-nous !", "prouvez-vous !", "–" ]
 }

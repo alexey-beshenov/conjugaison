@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'occlurais", "t'occlurais", "s'occlurait", "nous occlurions", "vous occluriez", "s'occluraient" ],
   "conditionnelPasse": [ "me serais occlus(e)", "te serais occlus(e)", "se serait occlus(e)", "nous serions occlus(es)", "vous seriez occlus(e(s))", "se seraient occlus(es)" ],
   "conditionnelPasseII": [ "me fusse occlus(e)", "te fusses occlus(e)", "se fût occlus(e)", "nous fussions occlus(es)", "vous fussiez occlus(e(s))", "se fussent occlus(es)" ],
-  "imperatif": [ "–", "occlus-toi !", "–", "occluons-nous !", "occluez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "occlus-toi !", "–", "occluons-nous !", "occluez-vous !", "–" ]
 }

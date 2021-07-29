@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'élèverais", "t'élèverais", "s'élèverait", "nous élèverions", "vous élèveriez", "s'élèveraient" ],
   "conditionnelPasse": [ "me serais élevé(e)", "te serais élevé(e)", "se serait élevé(e)", "nous serions élevé(e)s", "vous seriez élevé(e)(s)", "se seraient élevé(e)s" ],
   "conditionnelPasseII": [ "me fusse élevé(e)", "te fusses élevé(e)", "se fût élevé(e)", "nous fussions élevé(e)s", "vous fussiez élevé(e)(s)", "se fussent élevé(e)s" ],
-  "imperatif": [ "–", "élève-toi !", "–", "élevons-nous !", "élevez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "élève-toi !", "–", "élevons-nous !", "élevez-vous !", "–" ]
 }

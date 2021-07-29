@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me demanderais", "te demanderais", "se demanderait", "nous demanderions", "vous demanderiez", "se demanderaient" ],
   "conditionnelPasse": [ "me serais demandé(e)", "te serais demandé(e)", "se serait demandé(e)", "nous serions demandé(e)s", "vous seriez demandé(e)(s)", "se seraient demandé(e)s" ],
   "conditionnelPasseII": [ "me fusse demandé(e)", "te fusses demandé(e)", "se fût demandé(e)", "nous fussions demandé(e)s", "vous fussiez demandé(e)(s)", "se fussent demandé(e)s" ],
-  "imperatif": [ "–", "demande-toi !", "–", "demandons-nous !", "demandez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "demande-toi !", "–", "demandons-nous !", "demandez-vous !", "–" ]
 }

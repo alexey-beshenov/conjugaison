@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me troublerais", "te troublerais", "se troublerait", "nous troublerions", "vous troubleriez", "se troubleraient" ],
   "conditionnelPasse": [ "me serais troublé(e)", "te serais troublé(e)", "se serait troublé(e)", "nous serions troublé(e)s", "vous seriez troublé(e)(s)", "se seraient troublé(e)s" ],
   "conditionnelPasseII": [ "me fusse troublé(e)", "te fusses troublé(e)", "se fût troublé(e)", "nous fussions troublé(e)s", "vous fussiez troublé(e)(s)", "se fussent troublé(e)s" ],
-  "imperatif": [ "–", "trouble-toi !", "–", "troublons-nous !", "troublez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "trouble-toi !", "–", "troublons-nous !", "troublez-vous !", "–" ]
 }

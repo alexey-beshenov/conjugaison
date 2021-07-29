@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me servirais", "te servirais", "se servirait", "nous servirions", "vous serviriez", "se serviraient" ],
   "conditionnelPasse": [ "me serais servi(e)", "te serais servi(e)", "se serait servi(e)", "nous serions servi(e)s", "vous seriez servi(e)(s)", "se seraient servi(e)s" ],
   "conditionnelPasseII": [ "me fusse servi(e)", "te fusses servi(e)", "se fût servi(e)", "nous fussions servi(e)s", "vous fussiez servi(e)(s)", "se fussent servi(e)s" ],
-  "imperatif": [ "–", "sers-toi !", "–", "servons-nous !", "servez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "sers-toi !", "–", "servons-nous !", "servez-vous !", "–" ]
 }

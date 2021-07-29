@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'écouterais", "t'écouterais", "s'écouterait", "nous écouterions", "vous écouteriez", "s'écouteraient" ],
   "conditionnelPasse": [ "me serais écouté(e)", "te serais écouté(e)", "se serait écouté(e)", "nous serions écouté(e)s", "vous seriez écouté(e)(s)", "se seraient écouté(e)s" ],
   "conditionnelPasseII": [ "me fusse écouté(e)", "te fusses écouté(e)", "se fût écouté(e)", "nous fussions écouté(e)s", "vous fussiez écouté(e)(s)", "se fussent écouté(e)s" ],
-  "imperatif": [ "–", "écoute-toi !", "–", "écoutons-nous !", "écoutez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "écoute-toi !", "–", "écoutons-nous !", "écoutez-vous !", "–" ]
 }

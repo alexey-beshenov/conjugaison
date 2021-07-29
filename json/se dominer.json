@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me dominerais", "te dominerais", "se dominerait", "nous dominerions", "vous domineriez", "se domineraient" ],
   "conditionnelPasse": [ "me serais dominé(e)", "te serais dominé(e)", "se serait dominé(e)", "nous serions dominé(e)s", "vous seriez dominé(e)(s)", "se seraient dominé(e)s" ],
   "conditionnelPasseII": [ "me fusse dominé(e)", "te fusses dominé(e)", "se fût dominé(e)", "nous fussions dominé(e)s", "vous fussiez dominé(e)(s)", "se fussent dominé(e)s" ],
-  "imperatif": [ "–", "domine-toi !", "–", "dominons-nous !", "dominez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "domine-toi !", "–", "dominons-nous !", "dominez-vous !", "–" ]
 }

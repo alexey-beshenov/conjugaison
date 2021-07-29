@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me souffrirais", "te souffrirais", "se souffrirait", "nous souffririons", "vous souffririez", "se souffriraient" ],
   "conditionnelPasse": [ "me serais souffert(e)", "te serais souffert(e)", "se serait souffert(e)", "nous serions souffert(e)s", "vous seriez souffert(e)(s)", "se seraient souffert(e)s" ],
   "conditionnelPasseII": [ "me fusse souffert(e)", "te fusses souffert(e)", "se fût souffert(e)", "nous fussions souffert(e)s", "vous fussiez souffert(e)(s)", "se fussent souffert(e)s" ],
-  "imperatif": [ "–", "souffre-toi !", "–", "souffrons-nous !", "souffrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "souffre-toi !", "–", "souffrons-nous !", "souffrez-vous !", "–" ]
 }

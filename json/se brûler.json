@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me brûlerais", "te brûlerais", "se brûlerait", "nous brûlerions", "vous brûleriez", "se brûleraient" ],
   "conditionnelPasse": [ "me serais brûlé(e)", "te serais brûlé(e)", "se serait brûlé(e)", "nous serions brûlé(e)s", "vous seriez brûlé(e)(s)", "se seraient brûlé(e)s" ],
   "conditionnelPasseII": [ "me fusse brûlé(e)", "te fusses brûlé(e)", "se fût brûlé(e)", "nous fussions brûlé(e)s", "vous fussiez brûlé(e)(s)", "se fussent brûlé(e)s" ],
-  "imperatif": [ "–", "brûle-toi !", "–", "brûlons-nous !", "brûlez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "brûle-toi !", "–", "brûlons-nous !", "brûlez-vous !", "–" ]
 }

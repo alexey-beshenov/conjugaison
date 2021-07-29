@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me dresserais", "te dresserais", "se dresserait", "nous dresserions", "vous dresseriez", "se dresseraient" ],
   "conditionnelPasse": [ "me serais dressé(e)", "te serais dressé(e)", "se serait dressé(e)", "nous serions dressé(e)s", "vous seriez dressé(e)(s)", "se seraient dressé(e)s" ],
   "conditionnelPasseII": [ "me fusse dressé(e)", "te fusses dressé(e)", "se fût dressé(e)", "nous fussions dressé(e)s", "vous fussiez dressé(e)(s)", "se fussent dressé(e)s" ],
-  "imperatif": [ "–", "dresse-toi !", "–", "dressons-nous !", "dressez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "dresse-toi !", "–", "dressons-nous !", "dressez-vous !", "–" ]
 }

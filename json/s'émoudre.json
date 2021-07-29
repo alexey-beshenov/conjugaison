@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'émoudrais", "t'émoudrais", "s'émoudrait", "nous émoudrions", "vous émoudriez", "s'émoudraient" ],
   "conditionnelPasse": [ "me serais émoulu(e)", "te serais émoulu(e)", "se serait émoulu(e)", "nous serions émoulu(e)s", "vous seriez émoulu(e)(s)", "se seraient émoulu(e)s" ],
   "conditionnelPasseII": [ "me fusse émoulu(e)", "te fusses émoulu(e)", "se fût émoulu(e)", "nous fussions émoulu(e)s", "vous fussiez émoulu(e)(s)", "se fussent émoulu(e)s" ],
-  "imperatif": [ "–", "émouds-toi !", "–", "émoulons-nous !", "émoulez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "émouds-toi !", "–", "émoulons-nous !", "émoulez-vous !", "–" ]
 }

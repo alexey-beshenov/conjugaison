@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me transformerais", "te transformerais", "se transformerait", "nous transformerions", "vous transformeriez", "se transformeraient" ],
   "conditionnelPasse": [ "me serais transformé(e)", "te serais transformé(e)", "se serait transformé(e)", "nous serions transformé(e)s", "vous seriez transformé(e)(s)", "se seraient transformé(e)s" ],
   "conditionnelPasseII": [ "me fusse transformé(e)", "te fusses transformé(e)", "se fût transformé(e)", "nous fussions transformé(e)s", "vous fussiez transformé(e)(s)", "se fussent transformé(e)s" ],
-  "imperatif": [ "–", "transforme-toi !", "–", "transformons-nous !", "transformez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "transforme-toi !", "–", "transformons-nous !", "transformez-vous !", "–" ]
 }

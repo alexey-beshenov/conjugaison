@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me reculerais", "te reculerais", "se reculerait", "nous reculerions", "vous reculeriez", "se reculeraient" ],
   "conditionnelPasse": [ "me serais reculé(e)", "te serais reculé(e)", "se serait reculé(e)", "nous serions reculé(e)s", "vous seriez reculé(e)(s)", "se seraient reculé(e)s" ],
   "conditionnelPasseII": [ "me fusse reculé(e)", "te fusses reculé(e)", "se fût reculé(e)", "nous fussions reculé(e)s", "vous fussiez reculé(e)(s)", "se fussent reculé(e)s" ],
-  "imperatif": [ "–", "recule-toi !", "–", "reculons-nous !", "reculez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "recule-toi !", "–", "reculons-nous !", "reculez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'inquiéterais", "t'inquiéterais", "s'inquiéterait", "nous inquiéterions", "vous inquiéteriez", "s'inquiéteraient" ],
   "conditionnelPasse": [ "me serais inquiété(e)", "te serais inquiété(e)", "se serait inquiété(e)", "nous serions inquiété(e)s", "vous seriez inquiété(e)(s)", "se seraient inquiété(e)s" ],
   "conditionnelPasseII": [ "me fusse inquiété(e)", "te fusses inquiété(e)", "se fût inquiété(e)", "nous fussions inquiété(e)s", "vous fussiez inquiété(e)(s)", "se fussent inquiété(e)s" ],
-  "imperatif": [ "–", "inquiète-toi !", "–", "inquiétons-nous !", "inquiétez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "inquiète-toi !", "–", "inquiétons-nous !", "inquiétez-vous !", "–" ]
 }

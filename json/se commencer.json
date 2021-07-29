@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me commencerais", "te commencerais", "se commencerait", "nous commencerions", "vous commenceriez", "se commenceraient" ],
   "conditionnelPasse": [ "me serais commencé(e)", "te serais commencé(e)", "se serait commencé(e)", "nous serions commencé(e)s", "vous seriez commencé(e)(s)", "se seraient commencé(e)s" ],
   "conditionnelPasseII": [ "me fusse commencé(e)", "te fusses commencé(e)", "se fût commencé(e)", "nous fussions commencé(e)s", "vous fussiez commencé(e)(s)", "se fussent commencé(e)s" ],
-  "imperatif": [ "–", "commence-toi !", "–", "commençons-nous !", "commencez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "commence-toi !", "–", "commençons-nous !", "commencez-vous !", "–" ]
 }

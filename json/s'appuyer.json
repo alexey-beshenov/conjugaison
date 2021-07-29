@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'appuierais", "t'appuierais", "s'appuierait", "nous appuierions", "vous appuieriez", "s'appuieraient" ],
   "conditionnelPasse": [ "me serais appuyé(e)", "te serais appuyé(e)", "se serait appuyé(e)", "nous serions appuyé(e)s", "vous seriez appuyé(e)(s)", "se seraient appuyé(e)s" ],
   "conditionnelPasseII": [ "me fusse appuyé(e)", "te fusses appuyé(e)", "se fût appuyé(e)", "nous fussions appuyé(e)s", "vous fussiez appuyé(e)(s)", "se fussent appuyé(e)s" ],
-  "imperatif": [ "–", "appuie-toi !", "–", "appuyons-nous !", "appuyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "appuie-toi !", "–", "appuyons-nous !", "appuyez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'apprendrais", "t'apprendrais", "s'apprendrait", "nous apprendrions", "vous apprendriez", "s'apprendraient" ],
   "conditionnelPasse": [ "me serais appris(e)", "te serais appris(e)", "se serait appris(e)", "nous serions appris(es)", "vous seriez appris(e(s))", "se seraient appris(es)" ],
   "conditionnelPasseII": [ "me fusse appris(e)", "te fusses appris(e)", "se fût appris(e)", "nous fussions appris(es)", "vous fussiez appris(e(s))", "se fussent appris(es)" ],
-  "imperatif": [ "–", "apprends-toi !", "–", "apprenons-nous !", "apprenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "apprends-toi !", "–", "apprenons-nous !", "apprenez-vous !", "–" ]
 }

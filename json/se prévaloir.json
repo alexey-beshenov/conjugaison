@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me prévaudrais", "te prévaudrais", "se prévaudrait", "nous prévaudrions", "vous prévaudriez", "se prévaudraient" ],
   "conditionnelPasse": [ "me serais prévalu(e)", "te serais prévalu(e)", "se serait prévalu(e)", "nous serions prévalu(e)s", "vous seriez prévalu(e)(s)", "se seraient prévalu(e)s" ],
   "conditionnelPasseII": [ "me fusse prévalu(e)", "te fusses prévalu(e)", "se fût prévalu(e)", "nous fussions prévalu(e)s", "vous fussiez prévalu(e)(s)", "se fussent prévalu(e)s" ],
-  "imperatif": [ "–", "prévaux-toi !", "–", "prévalons-nous !", "prévalez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "prévaux-toi !", "–", "prévalons-nous !", "prévalez-vous !", "–" ]
 }

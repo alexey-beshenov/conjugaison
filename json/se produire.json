@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me produirais", "te produirais", "se produirait", "nous produirions", "vous produiriez", "se produiraient" ],
   "conditionnelPasse": [ "me serais produit(e)", "te serais produit(e)", "se serait produit(e)", "nous serions produit(e)s", "vous seriez produit(e)(s)", "se seraient produit(e)s" ],
   "conditionnelPasseII": [ "me fusse produit(e)", "te fusses produit(e)", "se fût produit(e)", "nous fussions produit(e)s", "vous fussiez produit(e)(s)", "se fussent produit(e)s" ],
-  "imperatif": [ "–", "produis-toi !", "–", "produisons-nous !", "produisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "produis-toi !", "–", "produisons-nous !", "produisez-vous !", "–" ]
 }

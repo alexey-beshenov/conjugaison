@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me reparaîtrais", "te reparaîtrais", "se reparaîtrait", "nous reparaîtrions", "vous reparaîtriez", "se reparaîtraient" ],
   "conditionnelPasse": [ "me serais reparu(e)", "te serais reparu(e)", "se serait reparu(e)", "nous serions reparu(e)s", "vous seriez reparu(e)(s)", "se seraient reparu(e)s" ],
   "conditionnelPasseII": [ "me fusse reparu(e)", "te fusses reparu(e)", "se fût reparu(e)", "nous fussions reparu(e)s", "vous fussiez reparu(e)(s)", "se fussent reparu(e)s" ],
-  "imperatif": [ "–", "reparais-toi !", "–", "reparaissons-nous !", "reparaissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "reparais-toi !", "–", "reparaissons-nous !", "reparaissez-vous !", "–" ]
 }

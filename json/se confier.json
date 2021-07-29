@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me confierais", "te confierais", "se confierait", "nous confierions", "vous confieriez", "se confieraient" ],
   "conditionnelPasse": [ "me serais confié(e)", "te serais confié(e)", "se serait confié(e)", "nous serions confié(e)s", "vous seriez confié(e)(s)", "se seraient confié(e)s" ],
   "conditionnelPasseII": [ "me fusse confié(e)", "te fusses confié(e)", "se fût confié(e)", "nous fussions confié(e)s", "vous fussiez confié(e)(s)", "se fussent confié(e)s" ],
-  "imperatif": [ "–", "confie-toi !", "–", "confions-nous !", "confiez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "confie-toi !", "–", "confions-nous !", "confiez-vous !", "–" ]
 }

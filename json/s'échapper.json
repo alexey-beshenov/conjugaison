@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'échapperais", "t'échapperais", "s'échapperait", "nous échapperions", "vous échapperiez", "s'échapperaient" ],
   "conditionnelPasse": [ "me serais échappé(e)", "te serais échappé(e)", "se serait échappé(e)", "nous serions échappé(e)s", "vous seriez échappé(e)(s)", "se seraient échappé(e)s" ],
   "conditionnelPasseII": [ "me fusse échappé(e)", "te fusses échappé(e)", "se fût échappé(e)", "nous fussions échappé(e)s", "vous fussiez échappé(e)(s)", "se fussent échappé(e)s" ],
-  "imperatif": [ "–", "échappe-toi !", "–", "échappons-nous !", "échappez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "échappe-toi !", "–", "échappons-nous !", "échappez-vous !", "–" ]
 }

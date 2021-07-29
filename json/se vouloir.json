@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me voudrais", "te voudrais", "se voudrait", "nous voudrions", "vous voudriez", "se voudraient" ],
   "conditionnelPasse": [ "me serais voulu(e)", "te serais voulu(e)", "se serait voulu(e)", "nous serions voulu(e)s", "vous seriez voulu(e)(s)", "se seraient voulu(e)s" ],
   "conditionnelPasseII": [ "me fusse voulu(e)", "te fusses voulu(e)", "se fût voulu(e)", "nous fussions voulu(e)s", "vous fussiez voulu(e)(s)", "se fussent voulu(e)s" ],
-  "imperatif": [ "–", "veuille-toi, veux-toi !", "–", "veuillons-nous, voulons-nous !", "veuillez-vous, voulez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "veuille-toi, veux-toi !", "–", "veuillons-nous, voulons-nous !", "veuillez-vous, voulez-vous !", "–" ]
 }

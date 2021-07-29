@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me pendrais", "te pendrais", "se pendrait", "nous pendrions", "vous pendriez", "se pendraient" ],
   "conditionnelPasse": [ "me serais pendu(e)", "te serais pendu(e)", "se serait pendu(e)", "nous serions pendu(e)s", "vous seriez pendu(e)(s)", "se seraient pendu(e)s" ],
   "conditionnelPasseII": [ "me fusse pendu(e)", "te fusses pendu(e)", "se fût pendu(e)", "nous fussions pendu(e)s", "vous fussiez pendu(e)(s)", "se fussent pendu(e)s" ],
-  "imperatif": [ "–", "pends-toi !", "–", "pendons-nous !", "pendez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "pends-toi !", "–", "pendons-nous !", "pendez-vous !", "–" ]
 }

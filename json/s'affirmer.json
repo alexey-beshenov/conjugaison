@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'affirmerais", "t'affirmerais", "s'affirmerait", "nous affirmerions", "vous affirmeriez", "s'affirmeraient" ],
   "conditionnelPasse": [ "me serais affirmé(e)", "te serais affirmé(e)", "se serait affirmé(e)", "nous serions affirmé(e)s", "vous seriez affirmé(e)(s)", "se seraient affirmé(e)s" ],
   "conditionnelPasseII": [ "me fusse affirmé(e)", "te fusses affirmé(e)", "se fût affirmé(e)", "nous fussions affirmé(e)s", "vous fussiez affirmé(e)(s)", "se fussent affirmé(e)s" ],
-  "imperatif": [ "–", "affirme-toi !", "–", "affirmons-nous !", "affirmez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "affirme-toi !", "–", "affirmons-nous !", "affirmez-vous !", "–" ]
 }

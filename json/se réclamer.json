@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me réclamerais", "te réclamerais", "se réclamerait", "nous réclamerions", "vous réclameriez", "se réclameraient" ],
   "conditionnelPasse": [ "me serais réclamé(e)", "te serais réclamé(e)", "se serait réclamé(e)", "nous serions réclamé(e)s", "vous seriez réclamé(e)(s)", "se seraient réclamé(e)s" ],
   "conditionnelPasseII": [ "me fusse réclamé(e)", "te fusses réclamé(e)", "se fût réclamé(e)", "nous fussions réclamé(e)s", "vous fussiez réclamé(e)(s)", "se fussent réclamé(e)s" ],
-  "imperatif": [ "–", "réclame-toi !", "–", "réclamons-nous !", "réclamez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "réclame-toi !", "–", "réclamons-nous !", "réclamez-vous !", "–" ]
 }

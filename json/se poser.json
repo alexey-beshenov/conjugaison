@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me poserais", "te poserais", "se poserait", "nous poserions", "vous poseriez", "se poseraient" ],
   "conditionnelPasse": [ "me serais posé(e)", "te serais posé(e)", "se serait posé(e)", "nous serions posé(e)s", "vous seriez posé(e)(s)", "se seraient posé(e)s" ],
   "conditionnelPasseII": [ "me fusse posé(e)", "te fusses posé(e)", "se fût posé(e)", "nous fussions posé(e)s", "vous fussiez posé(e)(s)", "se fussent posé(e)s" ],
-  "imperatif": [ "–", "pose-toi !", "–", "posons-nous !", "posez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "pose-toi !", "–", "posons-nous !", "posez-vous !", "–" ]
 }

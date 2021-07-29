@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me lisserais", "te lisserais", "se lisserait", "nous lisserions", "vous lisseriez", "se lisseraient" ],
   "conditionnelPasse": [ "me serais lissé(e)", "te serais lissé(e)", "se serait lissé(e)", "nous serions lissé(e)s", "vous seriez lissé(e)(s)", "se seraient lissé(e)s" ],
   "conditionnelPasseII": [ "me fusse lissé(e)", "te fusses lissé(e)", "se fût lissé(e)", "nous fussions lissé(e)s", "vous fussiez lissé(e)(s)", "se fussent lissé(e)s" ],
-  "imperatif": [ "–", "lisse-toi !", "–", "lissons-nous !", "lissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "lisse-toi !", "–", "lissons-nous !", "lissez-vous !", "–" ]
 }

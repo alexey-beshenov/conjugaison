@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me soulèverais", "te soulèverais", "se soulèverait", "nous soulèverions", "vous soulèveriez", "se soulèveraient" ],
   "conditionnelPasse": [ "me serais soulevé(e)", "te serais soulevé(e)", "se serait soulevé(e)", "nous serions soulevé(e)s", "vous seriez soulevé(e)(s)", "se seraient soulevé(e)s" ],
   "conditionnelPasseII": [ "me fusse soulevé(e)", "te fusses soulevé(e)", "se fût soulevé(e)", "nous fussions soulevé(e)s", "vous fussiez soulevé(e)(s)", "se fussent soulevé(e)s" ],
-  "imperatif": [ "–", "soulève-toi !", "–", "soulevons-nous !", "soulevez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "soulève-toi !", "–", "soulevons-nous !", "soulevez-vous !", "–" ]
 }

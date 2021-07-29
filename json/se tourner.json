@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me tournerais", "te tournerais", "se tournerait", "nous tournerions", "vous tourneriez", "se tourneraient" ],
   "conditionnelPasse": [ "me serais tourné(e)", "te serais tourné(e)", "se serait tourné(e)", "nous serions tourné(e)s", "vous seriez tourné(e)(s)", "se seraient tourné(e)s" ],
   "conditionnelPasseII": [ "me fusse tourné(e)", "te fusses tourné(e)", "se fût tourné(e)", "nous fussions tourné(e)s", "vous fussiez tourné(e)(s)", "se fussent tourné(e)s" ],
-  "imperatif": [ "–", "tourne-toi !", "–", "tournons-nous !", "tournez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "tourne-toi !", "–", "tournons-nous !", "tournez-vous !", "–" ]
 }

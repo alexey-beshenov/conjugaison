@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me décrirais", "te décrirais", "se décrirait", "nous décririons", "vous décririez", "se décriraient" ],
   "conditionnelPasse": [ "me serais décrit(e)", "te serais décrit(e)", "se serait décrit(e)", "nous serions décrit(e)s", "vous seriez décrit(e)(s)", "se seraient décrit(e)s" ],
   "conditionnelPasseII": [ "me fusse décrit(e)", "te fusses décrit(e)", "se fût décrit(e)", "nous fussions décrit(e)s", "vous fussiez décrit(e)(s)", "se fussent décrit(e)s" ],
-  "imperatif": [ "–", "décris-toi !", "–", "décrivons-nous !", "décrivez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "décris-toi !", "–", "décrivons-nous !", "décrivez-vous !", "–" ]
 }

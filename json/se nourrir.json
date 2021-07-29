@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me nourrirais", "te nourrirais", "se nourrirait", "nous nourririons", "vous nourririez", "se nourriraient" ],
   "conditionnelPasse": [ "me serais nourri(e)", "te serais nourri(e)", "se serait nourri(e)", "nous serions nourri(e)s", "vous seriez nourri(e)(s)", "se seraient nourri(e)s" ],
   "conditionnelPasseII": [ "me fusse nourri(e)", "te fusses nourri(e)", "se fût nourri(e)", "nous fussions nourri(e)s", "vous fussiez nourri(e)(s)", "se fussent nourri(e)s" ],
-  "imperatif": [ "–", "nourris-toi !", "–", "nourrissons-nous !", "nourrissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "nourris-toi !", "–", "nourrissons-nous !", "nourrissez-vous !", "–" ]
 }

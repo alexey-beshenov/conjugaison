@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me repaîtrais", "te repaîtrais", "se repaîtrait", "nous repaîtrions", "vous repaîtriez", "se repaîtraient" ],
   "conditionnelPasse": [ "me serais repu(e)", "te serais repu(e)", "se serait repu(e)", "nous serions repu(e)s", "vous seriez repu(e)(s)", "se seraient repu(e)s" ],
   "conditionnelPasseII": [ "me fusse repu(e)", "te fusses repu(e)", "se fût repu(e)", "nous fussions repu(e)s", "vous fussiez repu(e)(s)", "se fussent repu(e)s" ],
-  "imperatif": [ "–", "repais-toi !", "–", "repaissons-nous !", "repaissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "repais-toi !", "–", "repaissons-nous !", "repaissez-vous !", "–" ]
 }

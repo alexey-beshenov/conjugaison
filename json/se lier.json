@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me lierais", "te lierais", "se lierait", "nous lierions", "vous lieriez", "se lieraient" ],
   "conditionnelPasse": [ "me serais lié(e)", "te serais lié(e)", "se serait lié(e)", "nous serions lié(e)s", "vous seriez lié(e)(s)", "se seraient lié(e)s" ],
   "conditionnelPasseII": [ "me fusse lié(e)", "te fusses lié(e)", "se fût lié(e)", "nous fussions lié(e)s", "vous fussiez lié(e)(s)", "se fussent lié(e)s" ],
-  "imperatif": [ "–", "lie-toi !", "–", "lions-nous !", "liez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "lie-toi !", "–", "lions-nous !", "liez-vous !", "–" ]
 }

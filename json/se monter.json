@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me monterais", "te monterais", "se monterait", "nous monterions", "vous monteriez", "se monteraient" ],
   "conditionnelPasse": [ "me serais monté(e)", "te serais monté(e)", "se serait monté(e)", "nous serions monté(e)s", "vous seriez monté(e)(s)", "se seraient monté(e)s" ],
   "conditionnelPasseII": [ "me fusse monté(e)", "te fusses monté(e)", "se fût monté(e)", "nous fussions monté(e)s", "vous fussiez monté(e)(s)", "se fussent monté(e)s" ],
-  "imperatif": [ "–", "monte-toi !", "–", "montons-nous !", "montez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "monte-toi !", "–", "montons-nous !", "montez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me marierais", "te marierais", "se marierait", "nous marierions", "vous marieriez", "se marieraient" ],
   "conditionnelPasse": [ "me serais marié(e)", "te serais marié(e)", "se serait marié(e)", "nous serions marié(e)s", "vous seriez marié(e)(s)", "se seraient marié(e)s" ],
   "conditionnelPasseII": [ "me fusse marié(e)", "te fusses marié(e)", "se fût marié(e)", "nous fussions marié(e)s", "vous fussiez marié(e)(s)", "se fussent marié(e)s" ],
-  "imperatif": [ "–", "marie-toi !", "–", "marions-nous !", "mariez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "marie-toi !", "–", "marions-nous !", "mariez-vous !", "–" ]
 }

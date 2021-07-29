@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me resservirais", "te resservirais", "se resservirait", "nous resservirions", "vous resserviriez", "se resserviraient" ],
   "conditionnelPasse": [ "me serais resservi(e)", "te serais resservi(e)", "se serait resservi(e)", "nous serions resservi(e)s", "vous seriez resservi(e)(s)", "se seraient resservi(e)s" ],
   "conditionnelPasseII": [ "me fusse resservi(e)", "te fusses resservi(e)", "se fût resservi(e)", "nous fussions resservi(e)s", "vous fussiez resservi(e)(s)", "se fussent resservi(e)s" ],
-  "imperatif": [ "–", "ressers-toi !", "–", "resservons-nous !", "resservez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "ressers-toi !", "–", "resservons-nous !", "resservez-vous !", "–" ]
 }

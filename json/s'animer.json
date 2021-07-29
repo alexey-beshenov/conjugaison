@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'animerais", "t'animerais", "s'animerait", "nous animerions", "vous animeriez", "s'animeraient" ],
   "conditionnelPasse": [ "me serais animé(e)", "te serais animé(e)", "se serait animé(e)", "nous serions animé(e)s", "vous seriez animé(e)(s)", "se seraient animé(e)s" ],
   "conditionnelPasseII": [ "me fusse animé(e)", "te fusses animé(e)", "se fût animé(e)", "nous fussions animé(e)s", "vous fussiez animé(e)(s)", "se fussent animé(e)s" ],
-  "imperatif": [ "–", "anime-toi !", "–", "animons-nous !", "animez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "anime-toi !", "–", "animons-nous !", "animez-vous !", "–" ]
 }

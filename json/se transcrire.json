@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me transcrirais", "te transcrirais", "se transcrirait", "nous transcririons", "vous transcririez", "se transcriraient" ],
   "conditionnelPasse": [ "me serais transcrit(e)", "te serais transcrit(e)", "se serait transcrit(e)", "nous serions transcrit(e)s", "vous seriez transcrit(e)(s)", "se seraient transcrit(e)s" ],
   "conditionnelPasseII": [ "me fusse transcrit(e)", "te fusses transcrit(e)", "se fût transcrit(e)", "nous fussions transcrit(e)s", "vous fussiez transcrit(e)(s)", "se fussent transcrit(e)s" ],
-  "imperatif": [ "–", "transcris-toi !", "–", "transcrivons-nous !", "transcrivez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "transcris-toi !", "–", "transcrivons-nous !", "transcrivez-vous !", "–" ]
 }

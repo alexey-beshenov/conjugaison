@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me déchirerais", "te déchirerais", "se déchirerait", "nous déchirerions", "vous déchireriez", "se déchireraient" ],
   "conditionnelPasse": [ "me serais déchiré(e)", "te serais déchiré(e)", "se serait déchiré(e)", "nous serions déchiré(e)s", "vous seriez déchiré(e)(s)", "se seraient déchiré(e)s" ],
   "conditionnelPasseII": [ "me fusse déchiré(e)", "te fusses déchiré(e)", "se fût déchiré(e)", "nous fussions déchiré(e)s", "vous fussiez déchiré(e)(s)", "se fussent déchiré(e)s" ],
-  "imperatif": [ "–", "déchire-toi !", "–", "déchirons-nous !", "déchirez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "déchire-toi !", "–", "déchirons-nous !", "déchirez-vous !", "–" ]
 }

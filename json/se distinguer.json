@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me distinguerais", "te distinguerais", "se distinguerait", "nous distinguerions", "vous distingueriez", "se distingueraient" ],
   "conditionnelPasse": [ "me serais distingué(e)", "te serais distingué(e)", "se serait distingué(e)", "nous serions distingué(e)s", "vous seriez distingué(e)(s)", "se seraient distingué(e)s" ],
   "conditionnelPasseII": [ "me fusse distingué(e)", "te fusses distingué(e)", "se fût distingué(e)", "nous fussions distingué(e)s", "vous fussiez distingué(e)(s)", "se fussent distingué(e)s" ],
-  "imperatif": [ "–", "distingue-toi !", "–", "distinguons-nous !", "distinguez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "distingue-toi !", "–", "distinguons-nous !", "distinguez-vous !", "–" ]
 }

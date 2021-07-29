@@ -4,19 +4,16 @@
   "participePasse": "distrait",
   "present": [ "me distrais", "te distrais", "se distrait", "nous distrayons", "vous distrayez", "se distraient" ],
   "imparfait": [ "me distrayais", "te distrayais", "se distrayait", "nous distrayions", "vous distrayiez", "se distrayaient" ],
-  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
   "futurSimple": [ "me distrairai", "te distrairas", "se distraira", "nous distrairons", "vous distrairez", "se distrairont" ],
   "passeCompose": [ "me suis distrait(e)", "t'es distrait(e)", "s'est distrait(e)", "nous sommes distrait(e)s", "vous êtes distrait(e)(s)", "se sont distrait(e)s" ],
   "plusQueParfait": [ "m'étais distrait(e)", "t'étais distrait(e)", "s'était distrait(e)", "nous étions distrait(e)s", "vous étiez distrait(e)(s)", "s'étaient distrait(e)s" ],
   "passeAnterieur": [ "me fus distrait(e)", "te fus distrait(e)", "se fut distrait(e)", "nous fûmes distrait(e)s", "vous fûtes distrait(e)(s)", "se furent distrait(e)s" ],
   "futurAnterieur": [ "me serai distrait(e)", "te seras distrait(e)", "se sera distrait(e)", "nous serons distrait(e)s", "vous serez distrait(e)(s)", "se seront distrait(e)s" ],
   "subjonctifPresent": [ "me distraie", "te distraies", "se distraie", "nous distrayions", "vous distrayiez", "se distraient" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPasse": [ "me sois distrait(e)", "te sois distrait(e)", "se soit distrait(e)", "nous soyons distrait(e)s", "vous soyez distrait(e)(s)", "se soient distrait(e)s" ],
   "subjonctifPlusQueParfait": [ "me fusse distrait(e)", "te fusses distrait(e)", "se fût distrait(e)", "nous fussions distrait(e)s", "vous fussiez distrait(e)(s)", "se fussent distrait(e)s" ],
   "conditionnelPresent": [ "me distrairais", "te distrairais", "se distrairait", "nous distrairions", "vous distrairiez", "se distrairaient" ],
   "conditionnelPasse": [ "me serais distrait(e)", "te serais distrait(e)", "se serait distrait(e)", "nous serions distrait(e)s", "vous seriez distrait(e)(s)", "se seraient distrait(e)s" ],
   "conditionnelPasseII": [ "me fusse distrait(e)", "te fusses distrait(e)", "se fût distrait(e)", "nous fussions distrait(e)s", "vous fussiez distrait(e)(s)", "se fussent distrait(e)s" ],
-  "imperatif": [ "–", "distrais-toi !", "–", "distrayons-nous !", "distrayez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "distrais-toi !", "–", "distrayons-nous !", "distrayez-vous !", "–" ]
 }

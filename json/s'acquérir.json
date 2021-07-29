@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'acquerrais", "t'acquerrais", "s'acquerrait", "nous acquerrions", "vous acquerriez", "s'acquerraient" ],
   "conditionnelPasse": [ "me serais acquis(e)", "te serais acquis(e)", "se serait acquis(e)", "nous serions acquis(es)", "vous seriez acquis(e(s))", "se seraient acquis(es)" ],
   "conditionnelPasseII": [ "me fusse acquis(e)", "te fusses acquis(e)", "se fût acquis(e)", "nous fussions acquis(es)", "vous fussiez acquis(e(s))", "se fussent acquis(es)" ],
-  "imperatif": [ "–", "acquiers-toi !", "–", "acquérons-nous !", "acquérez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "acquiers-toi !", "–", "acquérons-nous !", "acquérez-vous !", "–" ]
 }

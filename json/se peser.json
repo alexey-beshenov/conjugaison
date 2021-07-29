@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me pèserais", "te pèserais", "se pèserait", "nous pèserions", "vous pèseriez", "se pèseraient" ],
   "conditionnelPasse": [ "me serais pesé(e)", "te serais pesé(e)", "se serait pesé(e)", "nous serions pesé(e)s", "vous seriez pesé(e)(s)", "se seraient pesé(e)s" ],
   "conditionnelPasseII": [ "me fusse pesé(e)", "te fusses pesé(e)", "se fût pesé(e)", "nous fussions pesé(e)s", "vous fussiez pesé(e)(s)", "se fussent pesé(e)s" ],
-  "imperatif": [ "–", "pèse-toi !", "–", "pesons-nous !", "pesez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "pèse-toi !", "–", "pesons-nous !", "pesez-vous !", "–" ]
 }

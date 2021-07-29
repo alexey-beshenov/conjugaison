@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me plaindrais", "te plaindrais", "se plaindrait", "nous plaindrions", "vous plaindriez", "se plaindraient" ],
   "conditionnelPasse": [ "me serais plaint(e)", "te serais plaint(e)", "se serait plaint(e)", "nous serions plaint(e)s", "vous seriez plaint(e)(s)", "se seraient plaint(e)s" ],
   "conditionnelPasseII": [ "me fusse plaint(e)", "te fusses plaint(e)", "se fût plaint(e)", "nous fussions plaint(e)s", "vous fussiez plaint(e)(s)", "se fussent plaint(e)s" ],
-  "imperatif": [ "–", "plains-toi !", "–", "plaignons-nous !", "plaignez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "plains-toi !", "–", "plaignons-nous !", "plaignez-vous !", "–" ]
 }

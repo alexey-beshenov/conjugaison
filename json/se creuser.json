@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me creuserais", "te creuserais", "se creuserait", "nous creuserions", "vous creuseriez", "se creuseraient" ],
   "conditionnelPasse": [ "me serais creusé(e)", "te serais creusé(e)", "se serait creusé(e)", "nous serions creusé(e)s", "vous seriez creusé(e)(s)", "se seraient creusé(e)s" ],
   "conditionnelPasseII": [ "me fusse creusé(e)", "te fusses creusé(e)", "se fût creusé(e)", "nous fussions creusé(e)s", "vous fussiez creusé(e)(s)", "se fussent creusé(e)s" ],
-  "imperatif": [ "–", "creuse-toi !", "–", "creusons-nous !", "creusez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "creuse-toi !", "–", "creusons-nous !", "creusez-vous !", "–" ]
 }

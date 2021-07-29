@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me terminerais", "te terminerais", "se terminerait", "nous terminerions", "vous termineriez", "se termineraient" ],
   "conditionnelPasse": [ "me serais terminé(e)", "te serais terminé(e)", "se serait terminé(e)", "nous serions terminé(e)s", "vous seriez terminé(e)(s)", "se seraient terminé(e)s" ],
   "conditionnelPasseII": [ "me fusse terminé(e)", "te fusses terminé(e)", "se fût terminé(e)", "nous fussions terminé(e)s", "vous fussiez terminé(e)(s)", "se fussent terminé(e)s" ],
-  "imperatif": [ "–", "termine-toi !", "–", "terminons-nous !", "terminez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "termine-toi !", "–", "terminons-nous !", "terminez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me tirerais", "te tirerais", "se tirerait", "nous tirerions", "vous tireriez", "se tireraient" ],
   "conditionnelPasse": [ "me serais tiré(e)", "te serais tiré(e)", "se serait tiré(e)", "nous serions tiré(e)s", "vous seriez tiré(e)(s)", "se seraient tiré(e)s" ],
   "conditionnelPasseII": [ "me fusse tiré(e)", "te fusses tiré(e)", "se fût tiré(e)", "nous fussions tiré(e)s", "vous fussiez tiré(e)(s)", "se fussent tiré(e)s" ],
-  "imperatif": [ "–", "tire-toi !", "–", "tirons-nous !", "tirez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "tire-toi !", "–", "tirons-nous !", "tirez-vous !", "–" ]
 }

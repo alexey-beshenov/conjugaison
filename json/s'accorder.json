@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'accorderais", "t'accorderais", "s'accorderait", "nous accorderions", "vous accorderiez", "s'accorderaient" ],
   "conditionnelPasse": [ "me serais accordé(e)", "te serais accordé(e)", "se serait accordé(e)", "nous serions accordé(e)s", "vous seriez accordé(e)(s)", "se seraient accordé(e)s" ],
   "conditionnelPasseII": [ "me fusse accordé(e)", "te fusses accordé(e)", "se fût accordé(e)", "nous fussions accordé(e)s", "vous fussiez accordé(e)(s)", "se fussent accordé(e)s" ],
-  "imperatif": [ "–", "accorde-toi !", "–", "accordons-nous !", "accordez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "accorde-toi !", "–", "accordons-nous !", "accordez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me jetterais", "te jetterais", "se jetterait", "nous jetterions", "vous jetteriez", "se jetteraient" ],
   "conditionnelPasse": [ "me serais jeté(e)", "te serais jeté(e)", "se serait jeté(e)", "nous serions jeté(e)s", "vous seriez jeté(e)(s)", "se seraient jeté(e)s" ],
   "conditionnelPasseII": [ "me fusse jeté(e)", "te fusses jeté(e)", "se fût jeté(e)", "nous fussions jeté(e)s", "vous fussiez jeté(e)(s)", "se fussent jeté(e)s" ],
-  "imperatif": [ "–", "jette-toi !", "–", "jetons-nous !", "jetez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "jette-toi !", "–", "jetons-nous !", "jetez-vous !", "–" ]
 }

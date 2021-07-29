@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "–", "–", "se sauterait", "nous sauterions", "vous sauteriez", "se sauteraient" ],
   "conditionnelPasse": [ "–", "–", "se serait sauté(e)s", "nous serions sauté(e)s", "vous seriez sauté(e)(s)", "se seraient sauté(e)s" ],
   "conditionnelPasseII": [ "–", "–", "se fût sauté(e)s", "nous fussions sauté(e)s", "vous fussiez sauté(e)(s)", "se fussent sauté(e)s" ],
-  "imperatif": [ "–", "–", "–", "sautons-nous !", "sautez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "–", "–", "sautons-nous !", "sautez-vous !", "–" ]
 }

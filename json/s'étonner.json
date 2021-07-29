@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'étonnerais", "t'étonnerais", "s'étonnerait", "nous étonnerions", "vous étonneriez", "s'étonneraient" ],
   "conditionnelPasse": [ "me serais étonné(e)", "te serais étonné(e)", "se serait étonné(e)", "nous serions étonné(e)s", "vous seriez étonné(e)(s)", "se seraient étonné(e)s" ],
   "conditionnelPasseII": [ "me fusse étonné(e)", "te fusses étonné(e)", "se fût étonné(e)", "nous fussions étonné(e)s", "vous fussiez étonné(e)(s)", "se fussent étonné(e)s" ],
-  "imperatif": [ "–", "étonne-toi !", "–", "étonnons-nous !", "étonnez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "étonne-toi !", "–", "étonnons-nous !", "étonnez-vous !", "–" ]
 }

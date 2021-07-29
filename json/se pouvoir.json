@@ -16,7 +16,5 @@
   "subjonctifPlusQueParfait": [ "–", "–", "se fût pu(e)", "–", "–", "–" ],
   "conditionnelPresent": [ "–", "–", "se pourrait", "–", "–", "–" ],
   "conditionnelPasse": [ "–", "–", "se serait pu(e)", "–", "–", "–" ],
-  "conditionnelPasseII": [ "–", "–", "se fût pu(e)", "–", "–", "–" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPasseII": [ "–", "–", "se fût pu(e)", "–", "–", "–" ]
 }

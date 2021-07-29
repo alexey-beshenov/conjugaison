@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'apercevrais", "t'apercevrais", "s'apercevrait", "nous apercevrions", "vous apercevriez", "s'apercevraient" ],
   "conditionnelPasse": [ "me serais aperçu(e)", "te serais aperçu(e)", "se serait aperçu(e)", "nous serions aperçu(e)s", "vous seriez aperçu(e)(s)", "se seraient aperçu(e)s" ],
   "conditionnelPasseII": [ "me fusse aperçu(e)", "te fusses aperçu(e)", "se fût aperçu(e)", "nous fussions aperçu(e)s", "vous fussiez aperçu(e)(s)", "se fussent aperçu(e)s" ],
-  "imperatif": [ "–", "aperçois-toi !", "–", "apercevons-nous !", "apercevez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "aperçois-toi !", "–", "apercevons-nous !", "apercevez-vous !", "–" ]
 }

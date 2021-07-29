@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'appartiendrais", "t'appartiendrais", "s'appartiendrait", "nous appartiendrions", "vous appartiendriez", "s'appartiendraient" ],
   "conditionnelPasse": [ "me serais appartenu", "te serais appartenu", "se serait appartenu", "nous serions appartenu", "vous seriez appartenu", "se seraient appartenu" ],
   "conditionnelPasseII": [ "me fusse appartenu", "te fusses appartenu", "se fût appartenu", "nous fussions appartenu", "vous fussiez appartenu", "se fussent appartenu" ],
-  "imperatif": [ "–", "appartiens-toi !", "–", "appartenons-nous !", "appartenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "appartiens-toi !", "–", "appartenons-nous !", "appartenez-vous !", "–" ]
 }

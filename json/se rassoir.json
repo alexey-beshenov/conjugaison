@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rassiérais, rassoirais, rasseyerais", "te rassiérais, rassoirais, rasseyerais", "se rassiérait, rassoirait, rasseyerait", "nous rassiérions, rassoirions, rasseyerions", "vous rassiériez, rassoiriez, rasseyeriez", "se rassiéraient, rassoiraient, rasseyeraient" ],
   "conditionnelPasse": [ "me serais rassis(e)", "te serais rassis(e)", "se serait rassis(e)", "nous serions rassis(es)", "vous seriez rassis(e(s))", "se seraient rassis(es)" ],
   "conditionnelPasseII": [ "me fusse rassis(e)", "te fusses rassis(e)", "se fût rassis(e)", "nous fussions rassis(es)", "vous fussiez rassis(e(s))", "se fussent rassis(es)" ],
-  "imperatif": [ "–", "rassieds-toi, rassois-toi !", "–", "rasseyons-nous, rassoyons-nous !", "rasseyez-vous, rassoyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rassieds-toi, rassois-toi !", "–", "rasseyons-nous, rassoyons-nous !", "rasseyez-vous, rassoyez-vous !", "–" ]
 }

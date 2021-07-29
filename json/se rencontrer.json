@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rencontrerais", "te rencontrerais", "se rencontrerait", "nous rencontrerions", "vous rencontreriez", "se rencontreraient" ],
   "conditionnelPasse": [ "me serais rencontré(e)", "te serais rencontré(e)", "se serait rencontré(e)", "nous serions rencontré(e)s", "vous seriez rencontré(e)(s)", "se seraient rencontré(e)s" ],
   "conditionnelPasseII": [ "me fusse rencontré(e)", "te fusses rencontré(e)", "se fût rencontré(e)", "nous fussions rencontré(e)s", "vous fussiez rencontré(e)(s)", "se fussent rencontré(e)s" ],
-  "imperatif": [ "–", "rencontre-toi !", "–", "rencontrons-nous !", "rencontrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rencontre-toi !", "–", "rencontrons-nous !", "rencontrez-vous !", "–" ]
 }

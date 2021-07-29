@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me dirigerais", "te dirigerais", "se dirigerait", "nous dirigerions", "vous dirigeriez", "se dirigeraient" ],
   "conditionnelPasse": [ "me serais dirigé(e)", "te serais dirigé(e)", "se serait dirigé(e)", "nous serions dirigé(e)s", "vous seriez dirigé(e)(s)", "se seraient dirigé(e)s" ],
   "conditionnelPasseII": [ "me fusse dirigé(e)", "te fusses dirigé(e)", "se fût dirigé(e)", "nous fussions dirigé(e)s", "vous fussiez dirigé(e)(s)", "se fussent dirigé(e)s" ],
-  "imperatif": [ "–", "dirige-toi !", "–", "dirigeons-nous !", "dirigez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "dirige-toi !", "–", "dirigeons-nous !", "dirigez-vous !", "–" ]
 }

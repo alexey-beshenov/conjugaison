@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me chargerais", "te chargerais", "se chargerait", "nous chargerions", "vous chargeriez", "se chargeraient" ],
   "conditionnelPasse": [ "me serais chargé(e)", "te serais chargé(e)", "se serait chargé(e)", "nous serions chargé(e)s", "vous seriez chargé(e)(s)", "se seraient chargé(e)s" ],
   "conditionnelPasseII": [ "me fusse chargé(e)", "te fusses chargé(e)", "se fût chargé(e)", "nous fussions chargé(e)s", "vous fussiez chargé(e)(s)", "se fussent chargé(e)s" ],
-  "imperatif": [ "–", "charge-toi !", "–", "chargeons-nous !", "chargez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "charge-toi !", "–", "chargeons-nous !", "chargez-vous !", "–" ]
 }

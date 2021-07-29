@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'armerais", "t'armerais", "s'armerait", "nous armerions", "vous armeriez", "s'armeraient" ],
   "conditionnelPasse": [ "me serais armé(e)", "te serais armé(e)", "se serait armé(e)", "nous serions armé(e)s", "vous seriez armé(e)(s)", "se seraient armé(e)s" ],
   "conditionnelPasseII": [ "me fusse armé(e)", "te fusses armé(e)", "se fût armé(e)", "nous fussions armé(e)s", "vous fussiez armé(e)(s)", "se fussent armé(e)s" ],
-  "imperatif": [ "–", "arme-toi !", "–", "armons-nous !", "armez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "arme-toi !", "–", "armons-nous !", "armez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'exécuterais", "t'exécuterais", "s'exécuterait", "nous exécuterions", "vous exécuteriez", "s'exécuteraient" ],
   "conditionnelPasse": [ "me serais exécuté(e)", "te serais exécuté(e)", "se serait exécuté(e)", "nous serions exécuté(e)s", "vous seriez exécuté(e)(s)", "se seraient exécuté(e)s" ],
   "conditionnelPasseII": [ "me fusse exécuté(e)", "te fusses exécuté(e)", "se fût exécuté(e)", "nous fussions exécuté(e)s", "vous fussiez exécuté(e)(s)", "se fussent exécuté(e)s" ],
-  "imperatif": [ "–", "exécute-toi !", "–", "exécutons-nous !", "exécutez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "exécute-toi !", "–", "exécutons-nous !", "exécutez-vous !", "–" ]
 }

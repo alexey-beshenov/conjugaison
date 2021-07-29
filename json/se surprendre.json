@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me surprendrais", "te surprendrais", "se surprendrait", "nous surprendrions", "vous surprendriez", "se surprendraient" ],
   "conditionnelPasse": [ "me serais surpris(e)", "te serais surpris(e)", "se serait surpris(e)", "nous serions surpris(es)", "vous seriez surpris(e(s))", "se seraient surpris(es)" ],
   "conditionnelPasseII": [ "me fusse surpris(e)", "te fusses surpris(e)", "se fût surpris(e)", "nous fussions surpris(es)", "vous fussiez surpris(e(s))", "se fussent surpris(es)" ],
-  "imperatif": [ "–", "surprends-toi !", "–", "surprenons-nous !", "surprenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "surprends-toi !", "–", "surprenons-nous !", "surprenez-vous !", "–" ]
 }

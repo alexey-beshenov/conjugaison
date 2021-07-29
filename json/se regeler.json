@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me regèlerais", "te regèlerais", "se regèlerait", "nous regèlerions", "vous regèleriez", "se regèleraient" ],
   "conditionnelPasse": [ "me serais regelé(e)", "te serais regelé(e)", "se serait regelé(e)", "nous serions regelé(e)s", "vous seriez regelé(e)(s)", "se seraient regelé(e)s" ],
   "conditionnelPasseII": [ "me fusse regelé(e)", "te fusses regelé(e)", "se fût regelé(e)", "nous fussions regelé(e)s", "vous fussiez regelé(e)(s)", "se fussent regelé(e)s" ],
-  "imperatif": [ "–", "regèle-toi !", "–", "regelons-nous !", "regelez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "regèle-toi !", "–", "regelons-nous !", "regelez-vous !", "–" ]
 }

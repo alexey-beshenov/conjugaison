@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'abattrais", "t'abattrais", "s'abattrait", "nous abattrions", "vous abattriez", "s'abattraient" ],
   "conditionnelPasse": [ "me serais abattu(e)", "te serais abattu(e)", "se serait abattu(e)", "nous serions abattu(e)s", "vous seriez abattu(e)(s)", "se seraient abattu(e)s" ],
   "conditionnelPasseII": [ "me fusse abattu(e)", "te fusses abattu(e)", "se fût abattu(e)", "nous fussions abattu(e)s", "vous fussiez abattu(e)(s)", "se fussent abattu(e)s" ],
-  "imperatif": [ "–", "abats-toi !", "–", "abattons-nous !", "abattez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "abats-toi !", "–", "abattons-nous !", "abattez-vous !", "–" ]
 }

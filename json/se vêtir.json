@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me vêtirais", "te vêtirais", "se vêtirait", "nous vêtirions", "vous vêtiriez", "se vêtiraient" ],
   "conditionnelPasse": [ "me serais vêtu(e)", "te serais vêtu(e)", "se serait vêtu(e)", "nous serions vêtu(e)s", "vous seriez vêtu(e)(s)", "se seraient vêtu(e)s" ],
   "conditionnelPasseII": [ "me fusse vêtu(e)", "te fusses vêtu(e)", "se fût vêtu(e)", "nous fussions vêtu(e)s", "vous fussiez vêtu(e)(s)", "se fussent vêtu(e)s" ],
-  "imperatif": [ "–", "vêts-toi !", "–", "vêtons-nous !", "vêtez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "vêts-toi !", "–", "vêtons-nous !", "vêtez-vous !", "–" ]
 }

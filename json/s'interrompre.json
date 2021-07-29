@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'interromprais", "t'interromprais", "s'interromprait", "nous interromprions", "vous interrompriez", "s'interrompraient" ],
   "conditionnelPasse": [ "me serais interrompu(e)", "te serais interrompu(e)", "se serait interrompu(e)", "nous serions interrompu(e)s", "vous seriez interrompu(e)(s)", "se seraient interrompu(e)s" ],
   "conditionnelPasseII": [ "me fusse interrompu(e)", "te fusses interrompu(e)", "se fût interrompu(e)", "nous fussions interrompu(e)s", "vous fussiez interrompu(e)(s)", "se fussent interrompu(e)s" ],
-  "imperatif": [ "–", "interromps-toi !", "–", "interrompons-nous !", "interrompez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "interromps-toi !", "–", "interrompons-nous !", "interrompez-vous !", "–" ]
 }

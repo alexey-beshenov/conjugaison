@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me supposerais", "te supposerais", "se supposerait", "nous supposerions", "vous supposeriez", "se supposeraient" ],
   "conditionnelPasse": [ "me serais supposé(e)", "te serais supposé(e)", "se serait supposé(e)", "nous serions supposé(e)s", "vous seriez supposé(e)(s)", "se seraient supposé(e)s" ],
   "conditionnelPasseII": [ "me fusse supposé(e)", "te fusses supposé(e)", "se fût supposé(e)", "nous fussions supposé(e)s", "vous fussiez supposé(e)(s)", "se fussent supposé(e)s" ],
-  "imperatif": [ "–", "suppose-toi !", "–", "supposons-nous !", "supposez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "suppose-toi !", "–", "supposons-nous !", "supposez-vous !", "–" ]
 }

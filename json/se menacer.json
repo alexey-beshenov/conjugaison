@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me menacerais", "te menacerais", "se menacerait", "nous menacerions", "vous menaceriez", "se menaceraient" ],
   "conditionnelPasse": [ "me serais menacé(e)", "te serais menacé(e)", "se serait menacé(e)", "nous serions menacé(e)s", "vous seriez menacé(e)(s)", "se seraient menacé(e)s" ],
   "conditionnelPasseII": [ "me fusse menacé(e)", "te fusses menacé(e)", "se fût menacé(e)", "nous fussions menacé(e)s", "vous fussiez menacé(e)(s)", "se fussent menacé(e)s" ],
-  "imperatif": [ "–", "menace-toi !", "–", "menaçons-nous !", "menacez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "menace-toi !", "–", "menaçons-nous !", "menacez-vous !", "–" ]
 }

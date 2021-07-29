@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me secourrais", "te secourrais", "se secourrait", "nous secourrions", "vous secourriez", "se secourraient" ],
   "conditionnelPasse": [ "me serais secouru(e)", "te serais secouru(e)", "se serait secouru(e)", "nous serions secouru(e)s", "vous seriez secouru(e)(s)", "se seraient secouru(e)s" ],
   "conditionnelPasseII": [ "me fusse secouru(e)", "te fusses secouru(e)", "se fût secouru(e)", "nous fussions secouru(e)s", "vous fussiez secouru(e)(s)", "se fussent secouru(e)s" ],
-  "imperatif": [ "–", "secours-toi !", "–", "secourons-nous !", "secourez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "secours-toi !", "–", "secourons-nous !", "secourez-vous !", "–" ]
 }

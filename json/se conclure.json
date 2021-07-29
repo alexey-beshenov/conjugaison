@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me conclurais", "te conclurais", "se conclurait", "nous conclurions", "vous concluriez", "se concluraient" ],
   "conditionnelPasse": [ "me serais conclu(e)", "te serais conclu(e)", "se serait conclu(e)", "nous serions conclu(e)s", "vous seriez conclu(e)(s)", "se seraient conclu(e)s" ],
   "conditionnelPasseII": [ "me fusse conclu(e)", "te fusses conclu(e)", "se fût conclu(e)", "nous fussions conclu(e)s", "vous fussiez conclu(e)(s)", "se fussent conclu(e)s" ],
-  "imperatif": [ "–", "conclus-toi !", "–", "concluons-nous !", "concluez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "conclus-toi !", "–", "concluons-nous !", "concluez-vous !", "–" ]
 }

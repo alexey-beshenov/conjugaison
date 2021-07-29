@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me retirerais", "te retirerais", "se retirerait", "nous retirerions", "vous retireriez", "se retireraient" ],
   "conditionnelPasse": [ "me serais retiré(e)", "te serais retiré(e)", "se serait retiré(e)", "nous serions retiré(e)s", "vous seriez retiré(e)(s)", "se seraient retiré(e)s" ],
   "conditionnelPasseII": [ "me fusse retiré(e)", "te fusses retiré(e)", "se fût retiré(e)", "nous fussions retiré(e)s", "vous fussiez retiré(e)(s)", "se fussent retiré(e)s" ],
-  "imperatif": [ "–", "retire-toi !", "–", "retirons-nous !", "retirez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "retire-toi !", "–", "retirons-nous !", "retirez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me ramasserais", "te ramasserais", "se ramasserait", "nous ramasserions", "vous ramasseriez", "se ramasseraient" ],
   "conditionnelPasse": [ "me serais ramassé(e)", "te serais ramassé(e)", "se serait ramassé(e)", "nous serions ramassé(e)s", "vous seriez ramassé(e)(s)", "se seraient ramassé(e)s" ],
   "conditionnelPasseII": [ "me fusse ramassé(e)", "te fusses ramassé(e)", "se fût ramassé(e)", "nous fussions ramassé(e)s", "vous fussiez ramassé(e)(s)", "se fussent ramassé(e)s" ],
-  "imperatif": [ "–", "ramasse-toi !", "–", "ramassons-nous !", "ramassez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "ramasse-toi !", "–", "ramassons-nous !", "ramassez-vous !", "–" ]
 }

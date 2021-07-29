@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rirais", "te rirais", "se rirait", "nous ririons", "vous ririez", "se riraient" ],
   "conditionnelPasse": [ "me serais ri", "te serais ri", "se serait ri", "nous serions ri", "vous seriez ri", "se seraient ri" ],
   "conditionnelPasseII": [ "me fusse ri", "te fusses ri", "se fût ri", "nous fussions ri", "vous fussiez ri", "se fussent ri" ],
-  "imperatif": [ "–", "ris-toi !", "–", "rions-nous !", "riez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "ris-toi !", "–", "rions-nous !", "riez-vous !", "–" ]
 }

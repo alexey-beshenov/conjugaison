@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rêverais", "te rêverais", "se rêverait", "nous rêverions", "vous rêveriez", "se rêveraient" ],
   "conditionnelPasse": [ "me serais rêvé(e)", "te serais rêvé(e)", "se serait rêvé(e)", "nous serions rêvé(e)s", "vous seriez rêvé(e)(s)", "se seraient rêvé(e)s" ],
   "conditionnelPasseII": [ "me fusse rêvé(e)", "te fusses rêvé(e)", "se fût rêvé(e)", "nous fussions rêvé(e)s", "vous fussiez rêvé(e)(s)", "se fussent rêvé(e)s" ],
-  "imperatif": [ "–", "rêve-toi !", "–", "rêvons-nous !", "rêvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rêve-toi !", "–", "rêvons-nous !", "rêvez-vous !", "–" ]
 }

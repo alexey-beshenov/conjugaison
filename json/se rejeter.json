@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rejetterais", "te rejetterais", "se rejetterait", "nous rejetterions", "vous rejetteriez", "se rejetteraient" ],
   "conditionnelPasse": [ "me serais rejeté(e)", "te serais rejeté(e)", "se serait rejeté(e)", "nous serions rejeté(e)s", "vous seriez rejeté(e)(s)", "se seraient rejeté(e)s" ],
   "conditionnelPasseII": [ "me fusse rejeté(e)", "te fusses rejeté(e)", "se fût rejeté(e)", "nous fussions rejeté(e)s", "vous fussiez rejeté(e)(s)", "se fussent rejeté(e)s" ],
-  "imperatif": [ "–", "rejette-toi !", "–", "rejetons-nous !", "rejetez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rejette-toi !", "–", "rejetons-nous !", "rejetez-vous !", "–" ]
 }

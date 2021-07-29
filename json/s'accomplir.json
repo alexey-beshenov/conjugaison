@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'accomplirais", "t'accomplirais", "s'accomplirait", "nous accomplirions", "vous accompliriez", "s'accompliraient" ],
   "conditionnelPasse": [ "me serais accompli(e)", "te serais accompli(e)", "se serait accompli(e)", "nous serions accompli(e)s", "vous seriez accompli(e)(s)", "se seraient accompli(e)s" ],
   "conditionnelPasseII": [ "me fusse accompli(e)", "te fusses accompli(e)", "se fût accompli(e)", "nous fussions accompli(e)s", "vous fussiez accompli(e)(s)", "se fussent accompli(e)s" ],
-  "imperatif": [ "–", "accomplis-toi !", "–", "accomplissons-nous !", "accomplissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "accomplis-toi !", "–", "accomplissons-nous !", "accomplissez-vous !", "–" ]
 }

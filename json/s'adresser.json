@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'adresserais", "t'adresserais", "s'adresserait", "nous adresserions", "vous adresseriez", "s'adresseraient" ],
   "conditionnelPasse": [ "me serais adressé(e)", "te serais adressé(e)", "se serait adressé(e)", "nous serions adressé(e)s", "vous seriez adressé(e)(s)", "se seraient adressé(e)s" ],
   "conditionnelPasseII": [ "me fusse adressé(e)", "te fusses adressé(e)", "se fût adressé(e)", "nous fussions adressé(e)s", "vous fussiez adressé(e)(s)", "se fussent adressé(e)s" ],
-  "imperatif": [ "–", "adresse-toi !", "–", "adressons-nous !", "adressez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "adresse-toi !", "–", "adressons-nous !", "adressez-vous !", "–" ]
 }

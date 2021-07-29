@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'attendrais", "t'attendrais", "s'attendrait", "nous attendrions", "vous attendriez", "s'attendraient" ],
   "conditionnelPasse": [ "me serais attendu(e)", "te serais attendu(e)", "se serait attendu(e)", "nous serions attendu(e)s", "vous seriez attendu(e)(s)", "se seraient attendu(e)s" ],
   "conditionnelPasseII": [ "me fusse attendu(e)", "te fusses attendu(e)", "se fût attendu(e)", "nous fussions attendu(e)s", "vous fussiez attendu(e)(s)", "se fussent attendu(e)s" ],
-  "imperatif": [ "–", "attends-toi !", "–", "attendons-nous !", "attendez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "attends-toi !", "–", "attendons-nous !", "attendez-vous !", "–" ]
 }

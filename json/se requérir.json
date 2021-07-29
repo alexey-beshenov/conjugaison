@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me requerrais", "te requerrais", "se requerrait", "nous requerrions", "vous requerriez", "se requerraient" ],
   "conditionnelPasse": [ "me serais requis(e)", "te serais requis(e)", "se serait requis(e)", "nous serions requis(es)", "vous seriez requis(e(s))", "se seraient requis(es)" ],
   "conditionnelPasseII": [ "me fusse requis(e)", "te fusses requis(e)", "se fût requis(e)", "nous fussions requis(es)", "vous fussiez requis(e(s))", "se fussent requis(es)" ],
-  "imperatif": [ "–", "requiers-toi !", "–", "requérons-nous !", "requérez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "requiers-toi !", "–", "requérons-nous !", "requérez-vous !", "–" ]
 }

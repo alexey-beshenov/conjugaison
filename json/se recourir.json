@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me recourrais", "te recourrais", "se recourrait", "nous recourrions", "vous recourriez", "se recourraient" ],
   "conditionnelPasse": [ "me serais recouru(e)", "te serais recouru(e)", "se serait recouru(e)", "nous serions recouru(e)s", "vous seriez recouru(e)(s)", "se seraient recouru(e)s" ],
   "conditionnelPasseII": [ "me fusse recouru(e)", "te fusses recouru(e)", "se fût recouru(e)", "nous fussions recouru(e)s", "vous fussiez recouru(e)(s)", "se fussent recouru(e)s" ],
-  "imperatif": [ "–", "recours-toi !", "–", "recourons-nous !", "recourez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "recours-toi !", "–", "recourons-nous !", "recourez-vous !", "–" ]
 }

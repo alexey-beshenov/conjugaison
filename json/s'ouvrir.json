@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'ouvrirais", "t'ouvrirais", "s'ouvrirait", "nous ouvririons", "vous ouvririez", "s'ouvriraient" ],
   "conditionnelPasse": [ "me serais ouvert(e)", "te serais ouvert(e)", "se serait ouvert(e)", "nous serions ouvert(e)s", "vous seriez ouvert(e)(s)", "se seraient ouvert(e)s" ],
   "conditionnelPasseII": [ "me fusse ouvert(e)", "te fusses ouvert(e)", "se fût ouvert(e)", "nous fussions ouvert(e)s", "vous fussiez ouvert(e)(s)", "se fussent ouvert(e)s" ],
-  "imperatif": [ "–", "ouvre-toi !", "–", "ouvrons-nous !", "ouvrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "ouvre-toi !", "–", "ouvrons-nous !", "ouvrez-vous !", "–" ]
 }

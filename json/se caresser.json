@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me caresserais", "te caresserais", "se caresserait", "nous caresserions", "vous caresseriez", "se caresseraient" ],
   "conditionnelPasse": [ "me serais caressé(e)", "te serais caressé(e)", "se serait caressé(e)", "nous serions caressé(e)s", "vous seriez caressé(e)(s)", "se seraient caressé(e)s" ],
   "conditionnelPasseII": [ "me fusse caressé(e)", "te fusses caressé(e)", "se fût caressé(e)", "nous fussions caressé(e)s", "vous fussiez caressé(e)(s)", "se fussent caressé(e)s" ],
-  "imperatif": [ "–", "caresse-toi !", "–", "caressons-nous !", "caressez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "caresse-toi !", "–", "caressons-nous !", "caressez-vous !", "–" ]
 }

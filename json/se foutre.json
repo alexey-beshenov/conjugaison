@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me foutrais", "te foutrais", "se foutrait", "nous foutrions", "vous foutriez", "se foutraient" ],
   "conditionnelPasse": [ "me serais foutu(e)", "te serais foutu(e)", "se serait foutu(e)", "nous serions foutu(e)s", "vous seriez foutu(e)(s)", "se seraient foutu(e)s" ],
   "conditionnelPasseII": [ "me fusse foutu(e)", "te fusses foutu(e)", "se fût foutu(e)", "nous fussions foutu(e)s", "vous fussiez foutu(e)(s)", "se fussent foutu(e)s" ],
-  "imperatif": [ "–", "fous-toi !", "–", "foutons-nous !", "foutez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "fous-toi !", "–", "foutons-nous !", "foutez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'inviterais", "t'inviterais", "s'inviterait", "nous inviterions", "vous inviteriez", "s'inviteraient" ],
   "conditionnelPasse": [ "me serais invité(e)", "te serais invité(e)", "se serait invité(e)", "nous serions invité(e)s", "vous seriez invité(e)(s)", "se seraient invité(e)s" ],
   "conditionnelPasseII": [ "me fusse invité(e)", "te fusses invité(e)", "se fût invité(e)", "nous fussions invité(e)s", "vous fussiez invité(e)(s)", "se fussent invité(e)s" ],
-  "imperatif": [ "–", "invite-toi !", "–", "invitons-nous !", "invitez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "invite-toi !", "–", "invitons-nous !", "invitez-vous !", "–" ]
 }

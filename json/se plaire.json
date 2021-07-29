@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me plairais", "te plairais", "se plairait", "nous plairions", "vous plairiez", "se plairaient" ],
   "conditionnelPasse": [ "me serais plu", "te serais plu", "se serait plu", "nous serions plu", "vous seriez plu", "se seraient plu" ],
   "conditionnelPasseII": [ "me fusse plu", "te fusses plu", "se fût plu", "nous fussions plu", "vous fussiez plu", "se fussent plu" ],
-  "imperatif": [ "–", "plais-toi !", "–", "plaisons-nous !", "plaisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "plais-toi !", "–", "plaisons-nous !", "plaisez-vous !", "–" ]
 }

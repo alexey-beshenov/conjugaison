@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me promènerais", "te promènerais", "se promènerait", "nous promènerions", "vous promèneriez", "se promèneraient" ],
   "conditionnelPasse": [ "me serais promené(e)", "te serais promené(e)", "se serait promené(e)", "nous serions promené(e)s", "vous seriez promené(e)(s)", "se seraient promené(e)s" ],
   "conditionnelPasseII": [ "me fusse promené(e)", "te fusses promené(e)", "se fût promené(e)", "nous fussions promené(e)s", "vous fussiez promené(e)(s)", "se fussent promené(e)s" ],
-  "imperatif": [ "–", "promène-toi !", "–", "promenons-nous !", "promenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "promène-toi !", "–", "promenons-nous !", "promenez-vous !", "–" ]
 }

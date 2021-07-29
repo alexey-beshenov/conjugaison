@@ -4,19 +4,16 @@
   "participePasse": "enclos",
   "present": [ "m'enclos", "t'enclos", "s'enclôt", "nous enclosons", "vous enclosez", "s'enclosent" ],
   "imparfait": [ "m'enclosais", "t'enclosais", "s'enclosait", "nous enclosions", "vous enclosiez", "s'enclosaient" ],
-  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
   "futurSimple": [ "m'enclorai", "t'encloras", "s'enclora", "nous enclorons", "vous enclorez", "s'encloront" ],
   "passeCompose": [ "me suis enclos(e)", "t'es enclos(e)", "s'est enclos(e)", "nous sommes enclos(es)", "vous êtes enclos(e(s))", "se sont enclos(es)" ],
   "plusQueParfait": [ "m'étais enclos(e)", "t'étais enclos(e)", "s'était enclos(e)", "nous étions enclos(es)", "vous étiez enclos(e(s))", "s'étaient enclos(es)" ],
   "passeAnterieur": [ "me fus enclos(e)", "te fus enclos(e)", "se fut enclos(e)", "nous fûmes enclos(es)", "vous fûtes enclos(e(s))", "se furent enclos(es)" ],
   "futurAnterieur": [ "me serai enclos(e)", "te seras enclos(e)", "se sera enclos(e)", "nous serons enclos(es)", "vous serez enclos(e(s))", "se seront enclos(es)" ],
   "subjonctifPresent": [ "m'enclose", "t'encloses", "s'enclose", "nous enclosions", "vous enclosiez", "s'enclosent" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPasse": [ "me sois enclos(e)", "te sois enclos(e)", "se soit enclos(e)", "nous soyons enclos(es)", "vous soyez enclos(e(s))", "se soient enclos(es)" ],
   "subjonctifPlusQueParfait": [ "me fusse enclos(e)", "te fusses enclos(e)", "se fût enclos(e)", "nous fussions enclos(es)", "vous fussiez enclos(e(s))", "se fussent enclos(es)" ],
   "conditionnelPresent": [ "m'enclorais", "t'enclorais", "s'enclorait", "nous enclorions", "vous encloriez", "s'encloraient" ],
   "conditionnelPasse": [ "me serais enclos(e)", "te serais enclos(e)", "se serait enclos(e)", "nous serions enclos(es)", "vous seriez enclos(e(s))", "se seraient enclos(es)" ],
   "conditionnelPasseII": [ "me fusse enclos(e)", "te fusses enclos(e)", "se fût enclos(e)", "nous fussions enclos(es)", "vous fussiez enclos(e(s))", "se fussent enclos(es)" ],
-  "imperatif": [ "–", "enclos-toi !", "–", "enclosons-nous !", "enclosez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "enclos-toi !", "–", "enclosons-nous !", "enclosez-vous !", "–" ]
 }

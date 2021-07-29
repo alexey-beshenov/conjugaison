@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me regarderais", "te regarderais", "se regarderait", "nous regarderions", "vous regarderiez", "se regarderaient" ],
   "conditionnelPasse": [ "me serais regardé(e)", "te serais regardé(e)", "se serait regardé(e)", "nous serions regardé(e)s", "vous seriez regardé(e)(s)", "se seraient regardé(e)s" ],
   "conditionnelPasseII": [ "me fusse regardé(e)", "te fusses regardé(e)", "se fût regardé(e)", "nous fussions regardé(e)s", "vous fussiez regardé(e)(s)", "se fussent regardé(e)s" ],
-  "imperatif": [ "–", "regarde-toi !", "–", "regardons-nous !", "regardez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "regarde-toi !", "–", "regardons-nous !", "regardez-vous !", "–" ]
 }

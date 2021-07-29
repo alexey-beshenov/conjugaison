@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me lirais", "te lirais", "se lirait", "nous lirions", "vous liriez", "se liraient" ],
   "conditionnelPasse": [ "me serais lu(e)", "te serais lu(e)", "se serait lu(e)", "nous serions lu(e)s", "vous seriez lu(e)(s)", "se seraient lu(e)s" ],
   "conditionnelPasseII": [ "me fusse lu(e)", "te fusses lu(e)", "se fût lu(e)", "nous fussions lu(e)s", "vous fussiez lu(e)(s)", "se fussent lu(e)s" ],
-  "imperatif": [ "–", "lis-toi !", "–", "lisons-nous !", "lisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "lis-toi !", "–", "lisons-nous !", "lisez-vous !", "–" ]
 }

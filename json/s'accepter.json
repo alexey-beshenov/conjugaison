@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'accepterais", "t'accepterais", "s'accepterait", "nous accepterions", "vous accepteriez", "s'accepteraient" ],
   "conditionnelPasse": [ "me serais accepté(e)", "te serais accepté(e)", "se serait accepté(e)", "nous serions accepté(e)s", "vous seriez accepté(e)(s)", "se seraient accepté(e)s" ],
   "conditionnelPasseII": [ "me fusse accepté(e)", "te fusses accepté(e)", "se fût accepté(e)", "nous fussions accepté(e)s", "vous fussiez accepté(e)(s)", "se fussent accepté(e)s" ],
-  "imperatif": [ "–", "accepte-toi !", "–", "acceptons-nous !", "acceptez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "accepte-toi !", "–", "acceptons-nous !", "acceptez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'entendrais", "t'entendrais", "s'entendrait", "nous entendrions", "vous entendriez", "s'entendraient" ],
   "conditionnelPasse": [ "me serais entendu(e)", "te serais entendu(e)", "se serait entendu(e)", "nous serions entendu(e)s", "vous seriez entendu(e)(s)", "se seraient entendu(e)s" ],
   "conditionnelPasseII": [ "me fusse entendu(e)", "te fusses entendu(e)", "se fût entendu(e)", "nous fussions entendu(e)s", "vous fussiez entendu(e)(s)", "se fussent entendu(e)s" ],
-  "imperatif": [ "–", "entends-toi !", "–", "entendons-nous !", "entendez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "entends-toi !", "–", "entendons-nous !", "entendez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me détruirais", "te détruirais", "se détruirait", "nous détruirions", "vous détruiriez", "se détruiraient" ],
   "conditionnelPasse": [ "me serais détruit(e)", "te serais détruit(e)", "se serait détruit(e)", "nous serions détruit(e)s", "vous seriez détruit(e)(s)", "se seraient détruit(e)s" ],
   "conditionnelPasseII": [ "me fusse détruit(e)", "te fusses détruit(e)", "se fût détruit(e)", "nous fussions détruit(e)s", "vous fussiez détruit(e)(s)", "se fussent détruit(e)s" ],
-  "imperatif": [ "–", "détruis-toi !", "–", "détruisons-nous !", "détruisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "détruis-toi !", "–", "détruisons-nous !", "détruisez-vous !", "–" ]
 }

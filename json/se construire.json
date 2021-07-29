@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me construirais", "te construirais", "se construirait", "nous construirions", "vous construiriez", "se construiraient" ],
   "conditionnelPasse": [ "me serais construit(e)", "te serais construit(e)", "se serait construit(e)", "nous serions construit(e)s", "vous seriez construit(e)(s)", "se seraient construit(e)s" ],
   "conditionnelPasseII": [ "me fusse construit(e)", "te fusses construit(e)", "se fût construit(e)", "nous fussions construit(e)s", "vous fussiez construit(e)(s)", "se fussent construit(e)s" ],
-  "imperatif": [ "–", "construis-toi !", "–", "construisons-nous !", "construisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "construis-toi !", "–", "construisons-nous !", "construisez-vous !", "–" ]
 }

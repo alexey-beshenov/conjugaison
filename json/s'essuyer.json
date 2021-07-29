@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'essuierais", "t'essuierais", "s'essuierait", "nous essuierions", "vous essuieriez", "s'essuieraient" ],
   "conditionnelPasse": [ "me serais essuyé(e)", "te serais essuyé(e)", "se serait essuyé(e)", "nous serions essuyé(e)s", "vous seriez essuyé(e)(s)", "se seraient essuyé(e)s" ],
   "conditionnelPasseII": [ "me fusse essuyé(e)", "te fusses essuyé(e)", "se fût essuyé(e)", "nous fussions essuyé(e)s", "vous fussiez essuyé(e)(s)", "se fussent essuyé(e)s" ],
-  "imperatif": [ "–", "essuie-toi !", "–", "essuyons-nous !", "essuyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "essuie-toi !", "–", "essuyons-nous !", "essuyez-vous !", "–" ]
 }

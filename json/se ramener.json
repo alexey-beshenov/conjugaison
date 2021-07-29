@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me ramènerais", "te ramènerais", "se ramènerait", "nous ramènerions", "vous ramèneriez", "se ramèneraient" ],
   "conditionnelPasse": [ "me serais ramené(e)", "te serais ramené(e)", "se serait ramené(e)", "nous serions ramené(e)s", "vous seriez ramené(e)(s)", "se seraient ramené(e)s" ],
   "conditionnelPasseII": [ "me fusse ramené(e)", "te fusses ramené(e)", "se fût ramené(e)", "nous fussions ramené(e)s", "vous fussiez ramené(e)(s)", "se fussent ramené(e)s" ],
-  "imperatif": [ "–", "ramène-toi !", "–", "ramenons-nous !", "ramenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "ramène-toi !", "–", "ramenons-nous !", "ramenez-vous !", "–" ]
 }

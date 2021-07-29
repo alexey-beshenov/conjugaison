@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me contenterais", "te contenterais", "se contenterait", "nous contenterions", "vous contenteriez", "se contenteraient" ],
   "conditionnelPasse": [ "me serais contenté(e)", "te serais contenté(e)", "se serait contenté(e)", "nous serions contenté(e)s", "vous seriez contenté(e)(s)", "se seraient contenté(e)s" ],
   "conditionnelPasseII": [ "me fusse contenté(e)", "te fusses contenté(e)", "se fût contenté(e)", "nous fussions contenté(e)s", "vous fussiez contenté(e)(s)", "se fussent contenté(e)s" ],
-  "imperatif": [ "–", "contente-toi !", "–", "contentons-nous !", "contentez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "contente-toi !", "–", "contentons-nous !", "contentez-vous !", "–" ]
 }

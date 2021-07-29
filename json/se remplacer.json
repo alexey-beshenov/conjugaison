@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me remplacerais", "te remplacerais", "se remplacerait", "nous remplacerions", "vous remplaceriez", "se remplaceraient" ],
   "conditionnelPasse": [ "me serais remplacé(e)", "te serais remplacé(e)", "se serait remplacé(e)", "nous serions remplacé(e)s", "vous seriez remplacé(e)(s)", "se seraient remplacé(e)s" ],
   "conditionnelPasseII": [ "me fusse remplacé(e)", "te fusses remplacé(e)", "se fût remplacé(e)", "nous fussions remplacé(e)s", "vous fussiez remplacé(e)(s)", "se fussent remplacé(e)s" ],
-  "imperatif": [ "–", "remplace-toi !", "–", "remplaçons-nous !", "remplacez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "remplace-toi !", "–", "remplaçons-nous !", "remplacez-vous !", "–" ]
 }

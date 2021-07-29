@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me sourirais", "te sourirais", "se sourirait", "nous souririons", "vous souririez", "se souriraient" ],
   "conditionnelPasse": [ "me serais souri", "te serais souri", "se serait souri", "nous serions souri", "vous seriez souri", "se seraient souri" ],
   "conditionnelPasseII": [ "me fusse souri", "te fusses souri", "se fût souri", "nous fussions souri", "vous fussiez souri", "se fussent souri" ],
-  "imperatif": [ "–", "souris-toi !", "–", "sourions-nous !", "souriez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "souris-toi !", "–", "sourions-nous !", "souriez-vous !", "–" ]
 }

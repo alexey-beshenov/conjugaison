@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'établirais", "t'établirais", "s'établirait", "nous établirions", "vous établiriez", "s'établiraient" ],
   "conditionnelPasse": [ "me serais établi(e)", "te serais établi(e)", "se serait établi(e)", "nous serions établi(e)s", "vous seriez établi(e)(s)", "se seraient établi(e)s" ],
   "conditionnelPasseII": [ "me fusse établi(e)", "te fusses établi(e)", "se fût établi(e)", "nous fussions établi(e)s", "vous fussiez établi(e)(s)", "se fussent établi(e)s" ],
-  "imperatif": [ "–", "établis-toi !", "–", "établissons-nous !", "établissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "établis-toi !", "–", "établissons-nous !", "établissez-vous !", "–" ]
 }

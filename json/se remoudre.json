@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me remoudrais", "te remoudrais", "se remoudrait", "nous remoudrions", "vous remoudriez", "se remoudraient" ],
   "conditionnelPasse": [ "me serais remoulu(e)", "te serais remoulu(e)", "se serait remoulu(e)", "nous serions remoulu(e)s", "vous seriez remoulu(e)(s)", "se seraient remoulu(e)s" ],
   "conditionnelPasseII": [ "me fusse remoulu(e)", "te fusses remoulu(e)", "se fût remoulu(e)", "nous fussions remoulu(e)s", "vous fussiez remoulu(e)(s)", "se fussent remoulu(e)s" ],
-  "imperatif": [ "–", "remouds-toi !", "–", "remoulons-nous !", "remoulez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "remouds-toi !", "–", "remoulons-nous !", "remoulez-vous !", "–" ]
 }

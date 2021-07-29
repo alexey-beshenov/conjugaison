@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me considérerais", "te considérerais", "se considérerait", "nous considérerions", "vous considéreriez", "se considéreraient" ],
   "conditionnelPasse": [ "me serais considéré(e)", "te serais considéré(e)", "se serait considéré(e)", "nous serions considéré(e)s", "vous seriez considéré(e)(s)", "se seraient considéré(e)s" ],
   "conditionnelPasseII": [ "me fusse considéré(e)", "te fusses considéré(e)", "se fût considéré(e)", "nous fussions considéré(e)s", "vous fussiez considéré(e)(s)", "se fussent considéré(e)s" ],
-  "imperatif": [ "–", "considère-toi !", "–", "considérons-nous !", "considérez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "considère-toi !", "–", "considérons-nous !", "considérez-vous !", "–" ]
 }

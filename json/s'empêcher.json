@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'empêcherais", "t'empêcherais", "s'empêcherait", "nous empêcherions", "vous empêcheriez", "s'empêcheraient" ],
   "conditionnelPasse": [ "me serais empêché(e)", "te serais empêché(e)", "se serait empêché(e)", "nous serions empêché(e)s", "vous seriez empêché(e)(s)", "se seraient empêché(e)s" ],
   "conditionnelPasseII": [ "me fusse empêché(e)", "te fusses empêché(e)", "se fût empêché(e)", "nous fussions empêché(e)s", "vous fussiez empêché(e)(s)", "se fussent empêché(e)s" ],
-  "imperatif": [ "–", "empêche-toi !", "–", "empêchons-nous !", "empêchez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "empêche-toi !", "–", "empêchons-nous !", "empêchez-vous !", "–" ]
 }

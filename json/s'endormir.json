@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'endormirais", "t'endormirais", "s'endormirait", "nous endormirions", "vous endormiriez", "s'endormiraient" ],
   "conditionnelPasse": [ "me serais endormi(e)", "te serais endormi(e)", "se serait endormi(e)", "nous serions endormi(e)s", "vous seriez endormi(e)(s)", "se seraient endormi(e)s" ],
   "conditionnelPasseII": [ "me fusse endormi(e)", "te fusses endormi(e)", "se fût endormi(e)", "nous fussions endormi(e)s", "vous fussiez endormi(e)(s)", "se fussent endormi(e)s" ],
-  "imperatif": [ "–", "endors-toi !", "–", "endormons-nous !", "endormez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "endors-toi !", "–", "endormons-nous !", "endormez-vous !", "–" ]
 }

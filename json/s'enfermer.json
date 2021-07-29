@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'enfermerais", "t'enfermerais", "s'enfermerait", "nous enfermerions", "vous enfermeriez", "s'enfermeraient" ],
   "conditionnelPasse": [ "me serais enfermé(e)", "te serais enfermé(e)", "se serait enfermé(e)", "nous serions enfermé(e)s", "vous seriez enfermé(e)(s)", "se seraient enfermé(e)s" ],
   "conditionnelPasseII": [ "me fusse enfermé(e)", "te fusses enfermé(e)", "se fût enfermé(e)", "nous fussions enfermé(e)s", "vous fussiez enfermé(e)(s)", "se fussent enfermé(e)s" ],
-  "imperatif": [ "–", "enferme-toi !", "–", "enfermons-nous !", "enfermez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "enferme-toi !", "–", "enfermons-nous !", "enfermez-vous !", "–" ]
 }

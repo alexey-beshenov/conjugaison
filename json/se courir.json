@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me courrais", "te courrais", "se courrait", "nous courrions", "vous courriez", "se courraient" ],
   "conditionnelPasse": [ "me serais couru(e)", "te serais couru(e)", "se serait couru(e)", "nous serions couru(e)s", "vous seriez couru(e)(s)", "se seraient couru(e)s" ],
   "conditionnelPasseII": [ "me fusse couru(e)", "te fusses couru(e)", "se fût couru(e)", "nous fussions couru(e)s", "vous fussiez couru(e)(s)", "se fussent couru(e)s" ],
-  "imperatif": [ "–", "cours-toi !", "–", "courons-nous !", "courez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "cours-toi !", "–", "courons-nous !", "courez-vous !", "–" ]
 }

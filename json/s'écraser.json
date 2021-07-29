@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'écraserais", "t'écraserais", "s'écraserait", "nous écraserions", "vous écraseriez", "s'écraseraient" ],
   "conditionnelPasse": [ "me serais écrasé(e)", "te serais écrasé(e)", "se serait écrasé(e)", "nous serions écrasé(e)s", "vous seriez écrasé(e)(s)", "se seraient écrasé(e)s" ],
   "conditionnelPasseII": [ "me fusse écrasé(e)", "te fusses écrasé(e)", "se fût écrasé(e)", "nous fussions écrasé(e)s", "vous fussiez écrasé(e)(s)", "se fussent écrasé(e)s" ],
-  "imperatif": [ "–", "écrase-toi !", "–", "écrasons-nous !", "écrasez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "écrase-toi !", "–", "écrasons-nous !", "écrasez-vous !", "–" ]
 }

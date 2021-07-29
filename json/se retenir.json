@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me retiendrais", "te retiendrais", "se retiendrait", "nous retiendrions", "vous retiendriez", "se retiendraient" ],
   "conditionnelPasse": [ "me serais retenu(e)", "te serais retenu(e)", "se serait retenu(e)", "nous serions retenu(e)s", "vous seriez retenu(e)(s)", "se seraient retenu(e)s" ],
   "conditionnelPasseII": [ "me fusse retenu(e)", "te fusses retenu(e)", "se fût retenu(e)", "nous fussions retenu(e)s", "vous fussiez retenu(e)(s)", "se fussent retenu(e)s" ],
-  "imperatif": [ "–", "retiens-toi !", "–", "retenons-nous !", "retenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "retiens-toi !", "–", "retenons-nous !", "retenez-vous !", "–" ]
 }

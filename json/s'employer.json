@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'emploierais", "t'emploierais", "s'emploierait", "nous emploierions", "vous emploieriez", "s'emploieraient" ],
   "conditionnelPasse": [ "me serais employé(e)", "te serais employé(e)", "se serait employé(e)", "nous serions employé(e)s", "vous seriez employé(e)(s)", "se seraient employé(e)s" ],
   "conditionnelPasseII": [ "me fusse employé(e)", "te fusses employé(e)", "se fût employé(e)", "nous fussions employé(e)s", "vous fussiez employé(e)(s)", "se fussent employé(e)s" ],
-  "imperatif": [ "–", "emploie-toi !", "–", "employons-nous !", "employez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "emploie-toi !", "–", "employons-nous !", "employez-vous !", "–" ]
 }

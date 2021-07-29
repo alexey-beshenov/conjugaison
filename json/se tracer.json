@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me tracerais", "te tracerais", "se tracerait", "nous tracerions", "vous traceriez", "se traceraient" ],
   "conditionnelPasse": [ "me serais tracé(e)", "te serais tracé(e)", "se serait tracé(e)", "nous serions tracé(e)s", "vous seriez tracé(e)(s)", "se seraient tracé(e)s" ],
   "conditionnelPasseII": [ "me fusse tracé(e)", "te fusses tracé(e)", "se fût tracé(e)", "nous fussions tracé(e)s", "vous fussiez tracé(e)(s)", "se fussent tracé(e)s" ],
-  "imperatif": [ "–", "trace-toi !", "–", "traçons-nous !", "tracez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "trace-toi !", "–", "traçons-nous !", "tracez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'imaginerais", "t'imaginerais", "s'imaginerait", "nous imaginerions", "vous imagineriez", "s'imagineraient" ],
   "conditionnelPasse": [ "me serais imaginé", "te serais imaginé", "se serait imaginé", "nous serions imaginé", "vous seriez imaginé", "se seraient imaginé" ],
   "conditionnelPasseII": [ "me fusse imaginé", "te fusses imaginé", "se fût imaginé", "nous fussions imaginé", "vous fussiez imaginé", "se fussent imaginé" ],
-  "imperatif": [ "–", "imagine-toi !", "–", "imaginons-nous !", "imaginez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "imagine-toi !", "–", "imaginons-nous !", "imaginez-vous !", "–" ]
 }

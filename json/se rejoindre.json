@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rejoindrais", "te rejoindrais", "se rejoindrait", "nous rejoindrions", "vous rejoindriez", "se rejoindraient" ],
   "conditionnelPasse": [ "me serais rejoint(e)", "te serais rejoint(e)", "se serait rejoint(e)", "nous serions rejoint(e)s", "vous seriez rejoint(e)(s)", "se seraient rejoint(e)s" ],
   "conditionnelPasseII": [ "me fusse rejoint(e)", "te fusses rejoint(e)", "se fût rejoint(e)", "nous fussions rejoint(e)s", "vous fussiez rejoint(e)(s)", "se fussent rejoint(e)s" ],
-  "imperatif": [ "–", "rejoins-toi !", "–", "rejoignons-nous !", "rejoignez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rejoins-toi !", "–", "rejoignons-nous !", "rejoignez-vous !", "–" ]
 }

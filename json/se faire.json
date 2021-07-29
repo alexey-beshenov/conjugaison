@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me ferais", "te ferais", "se ferait", "nous ferions", "vous feriez", "se feraient" ],
   "conditionnelPasse": [ "me serais fait(e)", "te serais fait(e)", "se serait fait(e)", "nous serions fait(e)s", "vous seriez fait(e)(s)", "se seraient fait(e)s" ],
   "conditionnelPasseII": [ "me fusse fait(e)", "te fusses fait(e)", "se fût fait(e)", "nous fussions fait(e)s", "vous fussiez fait(e)(s)", "se fussent fait(e)s" ],
-  "imperatif": [ "–", "fais-toi !", "–", "faisons-nous !", "faites-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "fais-toi !", "–", "faisons-nous !", "faites-vous !", "–" ]
 }

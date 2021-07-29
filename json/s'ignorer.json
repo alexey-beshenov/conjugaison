@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'ignorerais", "t'ignorerais", "s'ignorerait", "nous ignorerions", "vous ignoreriez", "s'ignoreraient" ],
   "conditionnelPasse": [ "me serais ignoré(e)", "te serais ignoré(e)", "se serait ignoré(e)", "nous serions ignoré(e)s", "vous seriez ignoré(e)(s)", "se seraient ignoré(e)s" ],
   "conditionnelPasseII": [ "me fusse ignoré(e)", "te fusses ignoré(e)", "se fût ignoré(e)", "nous fussions ignoré(e)s", "vous fussiez ignoré(e)(s)", "se fussent ignoré(e)s" ],
-  "imperatif": [ "–", "ignore-toi !", "–", "ignorons-nous !", "ignorez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "ignore-toi !", "–", "ignorons-nous !", "ignorez-vous !", "–" ]
 }

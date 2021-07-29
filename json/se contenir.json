@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me contiendrais", "te contiendrais", "se contiendrait", "nous contiendrions", "vous contiendriez", "se contiendraient" ],
   "conditionnelPasse": [ "me serais contenu(e)", "te serais contenu(e)", "se serait contenu(e)", "nous serions contenu(e)s", "vous seriez contenu(e)(s)", "se seraient contenu(e)s" ],
   "conditionnelPasseII": [ "me fusse contenu(e)", "te fusses contenu(e)", "se fût contenu(e)", "nous fussions contenu(e)s", "vous fussiez contenu(e)(s)", "se fussent contenu(e)s" ],
-  "imperatif": [ "–", "contiens-toi !", "–", "contenons-nous !", "contenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "contiens-toi !", "–", "contenons-nous !", "contenez-vous !", "–" ]
 }

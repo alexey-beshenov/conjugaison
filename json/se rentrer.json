@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rentrerais", "te rentrerais", "se rentrerait", "nous rentrerions", "vous rentreriez", "se rentreraient" ],
   "conditionnelPasse": [ "me serais rentré(e)", "te serais rentré(e)", "se serait rentré(e)", "nous serions rentré(e)s", "vous seriez rentré(e)(s)", "se seraient rentré(e)s" ],
   "conditionnelPasseII": [ "me fusse rentré(e)", "te fusses rentré(e)", "se fût rentré(e)", "nous fussions rentré(e)s", "vous fussiez rentré(e)(s)", "se fussent rentré(e)s" ],
-  "imperatif": [ "–", "rentre-toi !", "–", "rentrons-nous !", "rentrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rentre-toi !", "–", "rentrons-nous !", "rentrez-vous !", "–" ]
 }

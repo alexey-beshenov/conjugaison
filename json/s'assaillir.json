@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'assaillirais", "t'assaillirais", "s'assaillirait", "nous assaillirions", "vous assailliriez", "s'assailliraient" ],
   "conditionnelPasse": [ "me serais assailli(e)", "te serais assailli(e)", "se serait assailli(e)", "nous serions assailli(e)s", "vous seriez assailli(e)(s)", "se seraient assailli(e)s" ],
   "conditionnelPasseII": [ "me fusse assailli(e)", "te fusses assailli(e)", "se fût assailli(e)", "nous fussions assailli(e)s", "vous fussiez assailli(e)(s)", "se fussent assailli(e)s" ],
-  "imperatif": [ "–", "assaille-toi !", "–", "assaillons-nous !", "assaillez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "assaille-toi !", "–", "assaillons-nous !", "assaillez-vous !", "–" ]
 }

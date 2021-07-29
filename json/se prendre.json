@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me prendrais", "te prendrais", "se prendrait", "nous prendrions", "vous prendriez", "se prendraient" ],
   "conditionnelPasse": [ "me serais pris(e)", "te serais pris(e)", "se serait pris(e)", "nous serions pris(es)", "vous seriez pris(e(s))", "se seraient pris(es)" ],
   "conditionnelPasseII": [ "me fusse pris(e)", "te fusses pris(e)", "se fût pris(e)", "nous fussions pris(es)", "vous fussiez pris(e(s))", "se fussent pris(es)" ],
-  "imperatif": [ "–", "prends-toi !", "–", "prenons-nous !", "prenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "prends-toi !", "–", "prenons-nous !", "prenez-vous !", "–" ]
 }

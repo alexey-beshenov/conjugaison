@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me redirais", "te redirais", "se redirait", "nous redirions", "vous rediriez", "se rediraient" ],
   "conditionnelPasse": [ "me serais redit(e)", "te serais redit(e)", "se serait redit(e)", "nous serions redit(e)s", "vous seriez redit(e)(s)", "se seraient redit(e)s" ],
   "conditionnelPasseII": [ "me fusse redit(e)", "te fusses redit(e)", "se fût redit(e)", "nous fussions redit(e)s", "vous fussiez redit(e)(s)", "se fussent redit(e)s" ],
-  "imperatif": [ "–", "redis-toi !", "–", "redisons-nous !", "redites-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "redis-toi !", "–", "redisons-nous !", "redites-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me surprotégerais", "te surprotégerais", "se surprotégerait", "nous surprotégerions", "vous surprotégeriez", "se surprotégeraient" ],
   "conditionnelPasse": [ "me serais surprotégé(e)", "te serais surprotégé(e)", "se serait surprotégé(e)", "nous serions surprotégé(e)s", "vous seriez surprotégé(e)(s)", "se seraient surprotégé(e)s" ],
   "conditionnelPasseII": [ "me fusse surprotégé(e)", "te fusses surprotégé(e)", "se fût surprotégé(e)", "nous fussions surprotégé(e)s", "vous fussiez surprotégé(e)(s)", "se fussent surprotégé(e)s" ],
-  "imperatif": [ "–", "surprotège-toi !", "–", "surprotégeons-nous !", "surprotégez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "surprotège-toi !", "–", "surprotégeons-nous !", "surprotégez-vous !", "–" ]
 }

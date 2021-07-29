@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me revivrais", "te revivrais", "se revivrait", "nous revivrions", "vous revivriez", "se revivraient" ],
   "conditionnelPasse": [ "me serais revécu(e)", "te serais revécu(e)", "se serait revécu(e)", "nous serions revécu(e)s", "vous seriez revécu(e)(s)", "se seraient revécu(e)s" ],
   "conditionnelPasseII": [ "me fusse revécu(e)", "te fusses revécu(e)", "se fût revécu(e)", "nous fussions revécu(e)s", "vous fussiez revécu(e)(s)", "se fussent revécu(e)s" ],
-  "imperatif": [ "–", "revis-toi !", "–", "revivons-nous !", "revivez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "revis-toi !", "–", "revivons-nous !", "revivez-vous !", "–" ]
 }

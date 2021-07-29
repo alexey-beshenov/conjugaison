@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me défendrais", "te défendrais", "se défendrait", "nous défendrions", "vous défendriez", "se défendraient" ],
   "conditionnelPasse": [ "me serais défendu(e)", "te serais défendu(e)", "se serait défendu(e)", "nous serions défendu(e)s", "vous seriez défendu(e)(s)", "se seraient défendu(e)s" ],
   "conditionnelPasseII": [ "me fusse défendu(e)", "te fusses défendu(e)", "se fût défendu(e)", "nous fussions défendu(e)s", "vous fussiez défendu(e)(s)", "se fussent défendu(e)s" ],
-  "imperatif": [ "–", "défends-toi !", "–", "défendons-nous !", "défendez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "défends-toi !", "–", "défendons-nous !", "défendez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me précipiterais", "te précipiterais", "se précipiterait", "nous précipiterions", "vous précipiteriez", "se précipiteraient" ],
   "conditionnelPasse": [ "me serais précipité(e)", "te serais précipité(e)", "se serait précipité(e)", "nous serions précipité(e)s", "vous seriez précipité(e)(s)", "se seraient précipité(e)s" ],
   "conditionnelPasseII": [ "me fusse précipité(e)", "te fusses précipité(e)", "se fût précipité(e)", "nous fussions précipité(e)s", "vous fussiez précipité(e)(s)", "se fussent précipité(e)s" ],
-  "imperatif": [ "–", "précipite-toi !", "–", "précipitons-nous !", "précipitez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "précipite-toi !", "–", "précipitons-nous !", "précipitez-vous !", "–" ]
 }

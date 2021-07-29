@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me préférerais", "te préférerais", "se préférerait", "nous préférerions", "vous préféreriez", "se préféreraient" ],
   "conditionnelPasse": [ "me serais préféré(e)", "te serais préféré(e)", "se serait préféré(e)", "nous serions préféré(e)s", "vous seriez préféré(e)(s)", "se seraient préféré(e)s" ],
   "conditionnelPasseII": [ "me fusse préféré(e)", "te fusses préféré(e)", "se fût préféré(e)", "nous fussions préféré(e)s", "vous fussiez préféré(e)(s)", "se fussent préféré(e)s" ],
-  "imperatif": [ "–", "préfère-toi !", "–", "préférons-nous !", "préférez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "préfère-toi !", "–", "préférons-nous !", "préférez-vous !", "–" ]
 }

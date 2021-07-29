@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'habillerais", "t'habillerais", "s'habillerait", "nous habillerions", "vous habilleriez", "s'habilleraient" ],
   "conditionnelPasse": [ "me serais habillé(e)", "te serais habillé(e)", "se serait habillé(e)", "nous serions habillé(e)s", "vous seriez habillé(e)(s)", "se seraient habillé(e)s" ],
   "conditionnelPasseII": [ "me fusse habillé(e)", "te fusses habillé(e)", "se fût habillé(e)", "nous fussions habillé(e)s", "vous fussiez habillé(e)(s)", "se fussent habillé(e)s" ],
-  "imperatif": [ "–", "habille-toi !", "–", "habillons-nous !", "habillez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "habille-toi !", "–", "habillons-nous !", "habillez-vous !", "–" ]
 }

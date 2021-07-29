@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me reconcevrais", "te reconcevrais", "se reconcevrait", "nous reconcevrions", "vous reconcevriez", "se reconcevraient" ],
   "conditionnelPasse": [ "me serais reconçu(e)", "te serais reconçu(e)", "se serait reconçu(e)", "nous serions reconçu(e)s", "vous seriez reconçu(e)(s)", "se seraient reconçu(e)s" ],
   "conditionnelPasseII": [ "me fusse reconçu(e)", "te fusses reconçu(e)", "se fût reconçu(e)", "nous fussions reconçu(e)s", "vous fussiez reconçu(e)(s)", "se fussent reconçu(e)s" ],
-  "imperatif": [ "–", "reconçois-toi !", "–", "reconcevons-nous !", "reconcevez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "reconçois-toi !", "–", "reconcevons-nous !", "reconcevez-vous !", "–" ]
 }

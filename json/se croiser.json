@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me croiserais", "te croiserais", "se croiserait", "nous croiserions", "vous croiseriez", "se croiseraient" ],
   "conditionnelPasse": [ "me serais croisé(e)", "te serais croisé(e)", "se serait croisé(e)", "nous serions croisé(e)s", "vous seriez croisé(e)(s)", "se seraient croisé(e)s" ],
   "conditionnelPasseII": [ "me fusse croisé(e)", "te fusses croisé(e)", "se fût croisé(e)", "nous fussions croisé(e)s", "vous fussiez croisé(e)(s)", "se fussent croisé(e)s" ],
-  "imperatif": [ "–", "croise-toi !", "–", "croisons-nous !", "croisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "croise-toi !", "–", "croisons-nous !", "croisez-vous !", "–" ]
 }

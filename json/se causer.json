@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me causerais", "te causerais", "se causerait", "nous causerions", "vous causeriez", "se causeraient" ],
   "conditionnelPasse": [ "me serais causé(e)", "te serais causé(e)", "se serait causé(e)", "nous serions causé(e)s", "vous seriez causé(e)(s)", "se seraient causé(e)s" ],
   "conditionnelPasseII": [ "me fusse causé(e)", "te fusses causé(e)", "se fût causé(e)", "nous fussions causé(e)s", "vous fussiez causé(e)(s)", "se fussent causé(e)s" ],
-  "imperatif": [ "–", "cause-toi !", "–", "causons-nous !", "causez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "cause-toi !", "–", "causons-nous !", "causez-vous !", "–" ]
 }

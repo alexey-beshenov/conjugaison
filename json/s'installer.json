@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'installerais", "t'installerais", "s'installerait", "nous installerions", "vous installeriez", "s'installeraient" ],
   "conditionnelPasse": [ "me serais installé(e)", "te serais installé(e)", "se serait installé(e)", "nous serions installé(e)s", "vous seriez installé(e)(s)", "se seraient installé(e)s" ],
   "conditionnelPasseII": [ "me fusse installé(e)", "te fusses installé(e)", "se fût installé(e)", "nous fussions installé(e)s", "vous fussiez installé(e)(s)", "se fussent installé(e)s" ],
-  "imperatif": [ "–", "installe-toi !", "–", "installons-nous !", "installez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "installe-toi !", "–", "installons-nous !", "installez-vous !", "–" ]
 }

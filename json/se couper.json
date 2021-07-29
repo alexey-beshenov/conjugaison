@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me couperais", "te couperais", "se couperait", "nous couperions", "vous couperiez", "se couperaient" ],
   "conditionnelPasse": [ "me serais coupé(e)", "te serais coupé(e)", "se serait coupé(e)", "nous serions coupé(e)s", "vous seriez coupé(e)(s)", "se seraient coupé(e)s" ],
   "conditionnelPasseII": [ "me fusse coupé(e)", "te fusses coupé(e)", "se fût coupé(e)", "nous fussions coupé(e)s", "vous fussiez coupé(e)(s)", "se fussent coupé(e)s" ],
-  "imperatif": [ "–", "coupe-toi !", "–", "coupons-nous !", "coupez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "coupe-toi !", "–", "coupons-nous !", "coupez-vous !", "–" ]
 }

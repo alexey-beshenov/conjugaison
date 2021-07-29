@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me passerais", "te passerais", "se passerait", "nous passerions", "vous passeriez", "se passeraient" ],
   "conditionnelPasse": [ "me serais passé(e)", "te serais passé(e)", "se serait passé(e)", "nous serions passé(e)s", "vous seriez passé(e)(s)", "se seraient passé(e)s" ],
   "conditionnelPasseII": [ "me fusse passé(e)", "te fusses passé(e)", "se fût passé(e)", "nous fussions passé(e)s", "vous fussiez passé(e)(s)", "se fussent passé(e)s" ],
-  "imperatif": [ "–", "passe-toi !", "–", "passons-nous !", "passez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "passe-toi !", "–", "passons-nous !", "passez-vous !", "–" ]
 }

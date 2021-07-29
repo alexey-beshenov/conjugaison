@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me risquerais", "te risquerais", "se risquerait", "nous risquerions", "vous risqueriez", "se risqueraient" ],
   "conditionnelPasse": [ "me serais risqué(e)", "te serais risqué(e)", "se serait risqué(e)", "nous serions risqué(e)s", "vous seriez risqué(e)(s)", "se seraient risqué(e)s" ],
   "conditionnelPasseII": [ "me fusse risqué(e)", "te fusses risqué(e)", "se fût risqué(e)", "nous fussions risqué(e)s", "vous fussiez risqué(e)(s)", "se fussent risqué(e)s" ],
-  "imperatif": [ "–", "risque-toi !", "–", "risquons-nous !", "risquez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "risque-toi !", "–", "risquons-nous !", "risquez-vous !", "–" ]
 }

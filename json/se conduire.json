@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me conduirais", "te conduirais", "se conduirait", "nous conduirions", "vous conduiriez", "se conduiraient" ],
   "conditionnelPasse": [ "me serais conduit(e)", "te serais conduit(e)", "se serait conduit(e)", "nous serions conduit(e)s", "vous seriez conduit(e)(s)", "se seraient conduit(e)s" ],
   "conditionnelPasseII": [ "me fusse conduit(e)", "te fusses conduit(e)", "se fût conduit(e)", "nous fussions conduit(e)s", "vous fussiez conduit(e)(s)", "se fussent conduit(e)s" ],
-  "imperatif": [ "–", "conduis-toi !", "–", "conduisons-nous !", "conduisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "conduis-toi !", "–", "conduisons-nous !", "conduisez-vous !", "–" ]
 }

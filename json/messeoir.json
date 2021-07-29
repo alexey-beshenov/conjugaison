@@ -4,14 +4,9 @@
   "participePasse": "messeyant",
   "present": [ "–", "–", "messied", "–", "–", "messiéent" ],
   "imparfait": [ "–", "–", "messeyait", "–", "–", "messeyaient" ],
-  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
   "futurSimple": [ "–", "–", "messiéra", "–", "–", "messiéront" ],
   "subjonctifPresent": [ "–", "–", "messiée", "–", "–", "messiéent" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPresent": [ "–", "–", "messiérait", "–", "–", "messiéraient" ],
-  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPresent": [ "–", "–", "messiée", "–", "–", "messiéent" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
-  "conditionnelPresent": [ "–", "–", "messiérait", "–", "–", "messiéraient" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPresent": [ "–", "–", "messiérait", "–", "–", "messiéraient" ]
 }

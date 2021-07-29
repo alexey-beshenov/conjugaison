@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me descendrais", "te descendrais", "se descendrait", "nous descendrions", "vous descendriez", "se descendraient" ],
   "conditionnelPasse": [ "me serais descendu(e)", "te serais descendu(e)", "se serait descendu(e)", "nous serions descendu(e)s", "vous seriez descendu(e)(s)", "se seraient descendu(e)s" ],
   "conditionnelPasseII": [ "me fusse descendu(e)", "te fusses descendu(e)", "se fût descendu(e)", "nous fussions descendu(e)s", "vous fussiez descendu(e)(s)", "se fussent descendu(e)s" ],
-  "imperatif": [ "–", "descends-toi !", "–", "descendons-nous !", "descendez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "descends-toi !", "–", "descendons-nous !", "descendez-vous !", "–" ]
 }

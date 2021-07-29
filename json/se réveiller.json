@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me réveillerais", "te réveillerais", "se réveillerait", "nous réveillerions", "vous réveilleriez", "se réveilleraient" ],
   "conditionnelPasse": [ "me serais réveillé(e)", "te serais réveillé(e)", "se serait réveillé(e)", "nous serions réveillé(e)s", "vous seriez réveillé(e)(s)", "se seraient réveillé(e)s" ],
   "conditionnelPasseII": [ "me fusse réveillé(e)", "te fusses réveillé(e)", "se fût réveillé(e)", "nous fussions réveillé(e)s", "vous fussiez réveillé(e)(s)", "se fussent réveillé(e)s" ],
-  "imperatif": [ "–", "réveille-toi !", "–", "réveillons-nous !", "réveillez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "réveille-toi !", "–", "réveillons-nous !", "réveillez-vous !", "–" ]
 }

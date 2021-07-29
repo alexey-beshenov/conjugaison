@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me découdrais", "te découdrais", "se découdrait", "nous découdrions", "vous découdriez", "se découdraient" ],
   "conditionnelPasse": [ "me serais décousu(e)", "te serais décousu(e)", "se serait décousu(e)", "nous serions décousu(e)s", "vous seriez décousu(e)(s)", "se seraient décousu(e)s" ],
   "conditionnelPasseII": [ "me fusse décousu(e)", "te fusses décousu(e)", "se fût décousu(e)", "nous fussions décousu(e)s", "vous fussiez décousu(e)(s)", "se fussent décousu(e)s" ],
-  "imperatif": [ "–", "découds-toi !", "–", "décousons-nous !", "décousez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "découds-toi !", "–", "décousons-nous !", "décousez-vous !", "–" ]
 }

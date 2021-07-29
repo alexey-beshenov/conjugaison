@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me maintiendrais", "te maintiendrais", "se maintiendrait", "nous maintiendrions", "vous maintiendriez", "se maintiendraient" ],
   "conditionnelPasse": [ "me serais maintenu(e)", "te serais maintenu(e)", "se serait maintenu(e)", "nous serions maintenu(e)s", "vous seriez maintenu(e)(s)", "se seraient maintenu(e)s" ],
   "conditionnelPasseII": [ "me fusse maintenu(e)", "te fusses maintenu(e)", "se fût maintenu(e)", "nous fussions maintenu(e)s", "vous fussiez maintenu(e)(s)", "se fussent maintenu(e)s" ],
-  "imperatif": [ "–", "maintiens-toi !", "–", "maintenons-nous !", "maintenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "maintiens-toi !", "–", "maintenons-nous !", "maintenez-vous !", "–" ]
 }

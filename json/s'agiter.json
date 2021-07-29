@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'agiterais", "t'agiterais", "s'agiterait", "nous agiterions", "vous agiteriez", "s'agiteraient" ],
   "conditionnelPasse": [ "me serais agité(e)", "te serais agité(e)", "se serait agité(e)", "nous serions agité(e)s", "vous seriez agité(e)(s)", "se seraient agité(e)s" ],
   "conditionnelPasseII": [ "me fusse agité(e)", "te fusses agité(e)", "se fût agité(e)", "nous fussions agité(e)s", "vous fussiez agité(e)(s)", "se fussent agité(e)s" ],
-  "imperatif": [ "–", "agite-toi !", "–", "agitons-nous !", "agitez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "agite-toi !", "–", "agitons-nous !", "agitez-vous !", "–" ]
 }

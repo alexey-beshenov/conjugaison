@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me croirais", "te croirais", "se croirait", "nous croirions", "vous croiriez", "se croiraient" ],
   "conditionnelPasse": [ "me serais cru(e)", "te serais cru(e)", "se serait cru(e)", "nous serions cru(e)s", "vous seriez cru(e)(s)", "se seraient cru(e)s" ],
   "conditionnelPasseII": [ "me fusse cru(e)", "te fusses cru(e)", "se fût cru(e)", "nous fussions cru(e)s", "vous fussiez cru(e)(s)", "se fussent cru(e)s" ],
-  "imperatif": [ "–", "crois-toi !", "–", "croyons-nous !", "croyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "crois-toi !", "–", "croyons-nous !", "croyez-vous !", "–" ]
 }

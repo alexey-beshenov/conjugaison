@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "–", "–", "se saluerait", "nous saluerions", "vous salueriez", "se salueraient" ],
   "conditionnelPasse": [ "–", "–", "se serait salué(e)s", "nous serions salué(e)s", "vous seriez salué(e)(s)", "se seraient salué(e)s" ],
   "conditionnelPasseII": [ "–", "–", "se fût salué(e)s", "nous fussions salué(e)s", "vous fussiez salué(e)(s)", "se fussent salué(e)s" ],
-  "imperatif": [ "–", "–", "–", "saluons-nous !", "saluez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "–", "–", "saluons-nous !", "saluez-vous !", "–" ]
 }

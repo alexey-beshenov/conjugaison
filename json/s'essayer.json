@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'essaierais, essayerais", "t'essaierais, essayerais", "s'essaierait, essayerait", "nous essaierions, essayerions", "vous essaieriez, essayeriez", "s'essaieraient, essayeraient" ],
   "conditionnelPasse": [ "me serais essayé(e)", "te serais essayé(e)", "se serait essayé(e)", "nous serions essayé(e)s", "vous seriez essayé(e)(s)", "se seraient essayé(e)s" ],
   "conditionnelPasseII": [ "me fusse essayé(e)", "te fusses essayé(e)", "se fût essayé(e)", "nous fussions essayé(e)s", "vous fussiez essayé(e)(s)", "se fussent essayé(e)s" ],
-  "imperatif": [ "–", "essaie-toi, essaye-toi !", "–", "essayons-nous !", "essayez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "essaie-toi, essaye-toi !", "–", "essayons-nous !", "essayez-vous !", "–" ]
 }

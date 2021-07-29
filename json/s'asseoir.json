@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'assiérais, assoirais, asseyerais", "t'assiérais, assoirais, asseyerais", "s'assiérait, assoirait, asseyerait", "nous assiérions, assoirions, asseyerions", "vous assiériez, assoiriez, asseyeriez", "s'assiéraient, assoiraient, asseyeraient" ],
   "conditionnelPasse": [ "me serais assis(e)", "te serais assis(e)", "se serait assis(e)", "nous serions assis(es)", "vous seriez assis(e(s))", "se seraient assis(es)" ],
   "conditionnelPasseII": [ "me fusse assis(e)", "te fusses assis(e)", "se fût assis(e)", "nous fussions assis(es)", "vous fussiez assis(e(s))", "se fussent assis(es)" ],
-  "imperatif": [ "–", "assieds-toi, assois-toi !", "–", "asseyons-nous, assoyons-nous !", "asseyez-vous, assoyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "assieds-toi, assois-toi !", "–", "asseyons-nous, assoyons-nous !", "asseyez-vous, assoyez-vous !", "–" ]
 }

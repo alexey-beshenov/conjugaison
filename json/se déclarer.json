@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me déclarerais", "te déclarerais", "se déclarerait", "nous déclarerions", "vous déclareriez", "se déclareraient" ],
   "conditionnelPasse": [ "me serais déclaré(e)", "te serais déclaré(e)", "se serait déclaré(e)", "nous serions déclaré(e)s", "vous seriez déclaré(e)(s)", "se seraient déclaré(e)s" ],
   "conditionnelPasseII": [ "me fusse déclaré(e)", "te fusses déclaré(e)", "se fût déclaré(e)", "nous fussions déclaré(e)s", "vous fussiez déclaré(e)(s)", "se fussent déclaré(e)s" ],
-  "imperatif": [ "–", "déclare-toi !", "–", "déclarons-nous !", "déclarez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "déclare-toi !", "–", "déclarons-nous !", "déclarez-vous !", "–" ]
 }

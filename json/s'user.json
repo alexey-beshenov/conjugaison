@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'userais", "t'userais", "s'userait", "nous userions", "vous useriez", "s'useraient" ],
   "conditionnelPasse": [ "me serais usé(e)", "te serais usé(e)", "se serait usé(e)", "nous serions usé(e)s", "vous seriez usé(e)(s)", "se seraient usé(e)s" ],
   "conditionnelPasseII": [ "me fusse usé(e)", "te fusses usé(e)", "se fût usé(e)", "nous fussions usé(e)s", "vous fussiez usé(e)(s)", "se fussent usé(e)s" ],
-  "imperatif": [ "–", "use-toi !", "–", "usons-nous !", "usez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "use-toi !", "–", "usons-nous !", "usez-vous !", "–" ]
 }

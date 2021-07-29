@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me semblerais", "te semblerais", "se semblerait", "nous semblerions", "vous sembleriez", "se sembleraient" ],
   "conditionnelPasse": [ "me serais semblé(e)", "te serais semblé(e)", "se serait semblé(e)", "nous serions semblé(e)s", "vous seriez semblé(e)(s)", "se seraient semblé(e)s" ],
   "conditionnelPasseII": [ "me fusse semblé(e)", "te fusses semblé(e)", "se fût semblé(e)", "nous fussions semblé(e)s", "vous fussiez semblé(e)(s)", "se fussent semblé(e)s" ],
-  "imperatif": [ "–", "semble-toi !", "–", "semblons-nous !", "semblez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "semble-toi !", "–", "semblons-nous !", "semblez-vous !", "–" ]
 }

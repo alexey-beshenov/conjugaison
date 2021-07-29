@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'enverrais", "t'enverrais", "s'enverrait", "nous enverrions", "vous enverriez", "s'enverraient" ],
   "conditionnelPasse": [ "me serais envoyé(e)", "te serais envoyé(e)", "se serait envoyé(e)", "nous serions envoyé(e)s", "vous seriez envoyé(e)(s)", "se seraient envoyé(e)s" ],
   "conditionnelPasseII": [ "me fusse envoyé(e)", "te fusses envoyé(e)", "se fût envoyé(e)", "nous fussions envoyé(e)s", "vous fussiez envoyé(e)(s)", "se fussent envoyé(e)s" ],
-  "imperatif": [ "–", "envoie-toi !", "–", "envoyons-nous !", "envoyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "envoie-toi !", "–", "envoyons-nous !", "envoyez-vous !", "–" ]
 }

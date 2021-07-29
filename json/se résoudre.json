@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me résoudrais", "te résoudrais", "se résoudrait", "nous résoudrions", "vous résoudriez", "se résoudraient" ],
   "conditionnelPasse": [ "me serais résolu(e)", "te serais résolu(e)", "se serait résolu(e)", "nous serions résolu(e)s", "vous seriez résolu(e)(s)", "se seraient résolu(e)s" ],
   "conditionnelPasseII": [ "me fusse résolu(e)", "te fusses résolu(e)", "se fût résolu(e)", "nous fussions résolu(e)s", "vous fussiez résolu(e)(s)", "se fussent résolu(e)s" ],
-  "imperatif": [ "–", "résous-toi !", "–", "résolvons-nous !", "résolvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "résous-toi !", "–", "résolvons-nous !", "résolvez-vous !", "–" ]
 }

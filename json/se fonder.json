@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me fonderais", "te fonderais", "se fonderait", "nous fonderions", "vous fonderiez", "se fonderaient" ],
   "conditionnelPasse": [ "me serais fondé(e)", "te serais fondé(e)", "se serait fondé(e)", "nous serions fondé(e)s", "vous seriez fondé(e)(s)", "se seraient fondé(e)s" ],
   "conditionnelPasseII": [ "me fusse fondé(e)", "te fusses fondé(e)", "se fût fondé(e)", "nous fussions fondé(e)s", "vous fussiez fondé(e)(s)", "se fussent fondé(e)s" ],
-  "imperatif": [ "–", "fonde-toi !", "–", "fondons-nous !", "fondez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "fonde-toi !", "–", "fondons-nous !", "fondez-vous !", "–" ]
 }

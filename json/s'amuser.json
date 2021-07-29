@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'amuserais", "t'amuserais", "s'amuserait", "nous amuserions", "vous amuseriez", "s'amuseraient" ],
   "conditionnelPasse": [ "me serais amusé(e)", "te serais amusé(e)", "se serait amusé(e)", "nous serions amusé(e)s", "vous seriez amusé(e)(s)", "se seraient amusé(e)s" ],
   "conditionnelPasseII": [ "me fusse amusé(e)", "te fusses amusé(e)", "se fût amusé(e)", "nous fussions amusé(e)s", "vous fussiez amusé(e)(s)", "se fussent amusé(e)s" ],
-  "imperatif": [ "–", "amuse-toi !", "–", "amusons-nous !", "amusez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "amuse-toi !", "–", "amusons-nous !", "amusez-vous !", "–" ]
 }

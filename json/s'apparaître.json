@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'apparaîtrais", "t'apparaîtrais", "s'apparaîtrait", "nous apparaîtrions", "vous apparaîtriez", "s'apparaîtraient" ],
   "conditionnelPasse": [ "me serais apparu(e)", "te serais apparu(e)", "se serait apparu(e)", "nous serions apparu(e)s", "vous seriez apparu(e)(s)", "se seraient apparu(e)s" ],
   "conditionnelPasseII": [ "me fusse apparu(e)", "te fusses apparu(e)", "se fût apparu(e)", "nous fussions apparu(e)s", "vous fussiez apparu(e)(s)", "se fussent apparu(e)s" ],
-  "imperatif": [ "–", "apparais-toi !", "–", "apparaissons-nous !", "apparaissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "apparais-toi !", "–", "apparaissons-nous !", "apparaissez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me réfléchirais", "te réfléchirais", "se réfléchirait", "nous réfléchirions", "vous réfléchiriez", "se réfléchiraient" ],
   "conditionnelPasse": [ "me serais réfléchi(e)", "te serais réfléchi(e)", "se serait réfléchi(e)", "nous serions réfléchi(e)s", "vous seriez réfléchi(e)(s)", "se seraient réfléchi(e)s" ],
   "conditionnelPasseII": [ "me fusse réfléchi(e)", "te fusses réfléchi(e)", "se fût réfléchi(e)", "nous fussions réfléchi(e)s", "vous fussiez réfléchi(e)(s)", "se fussent réfléchi(e)s" ],
-  "imperatif": [ "–", "réfléchis-toi !", "–", "réfléchissons-nous !", "réfléchissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "réfléchis-toi !", "–", "réfléchissons-nous !", "réfléchissez-vous !", "–" ]
 }

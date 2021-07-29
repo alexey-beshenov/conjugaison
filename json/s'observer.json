@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'observerais", "t'observerais", "s'observerait", "nous observerions", "vous observeriez", "s'observeraient" ],
   "conditionnelPasse": [ "me serais observé(e)", "te serais observé(e)", "se serait observé(e)", "nous serions observé(e)s", "vous seriez observé(e)(s)", "se seraient observé(e)s" ],
   "conditionnelPasseII": [ "me fusse observé(e)", "te fusses observé(e)", "se fût observé(e)", "nous fussions observé(e)s", "vous fussiez observé(e)(s)", "se fussent observé(e)s" ],
-  "imperatif": [ "–", "observe-toi !", "–", "observons-nous !", "observez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "observe-toi !", "–", "observons-nous !", "observez-vous !", "–" ]
 }

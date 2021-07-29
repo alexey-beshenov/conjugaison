@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me sauverais", "te sauverais", "se sauverait", "nous sauverions", "vous sauveriez", "se sauveraient" ],
   "conditionnelPasse": [ "me serais sauvé(e)", "te serais sauvé(e)", "se serait sauvé(e)", "nous serions sauvé(e)s", "vous seriez sauvé(e)(s)", "se seraient sauvé(e)s" ],
   "conditionnelPasseII": [ "me fusse sauvé(e)", "te fusses sauvé(e)", "se fût sauvé(e)", "nous fussions sauvé(e)s", "vous fussiez sauvé(e)(s)", "se fussent sauvé(e)s" ],
-  "imperatif": [ "–", "sauve-toi !", "–", "sauvons-nous !", "sauvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "sauve-toi !", "–", "sauvons-nous !", "sauvez-vous !", "–" ]
 }

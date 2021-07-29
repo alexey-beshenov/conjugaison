@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'ajouterais", "t'ajouterais", "s'ajouterait", "nous ajouterions", "vous ajouteriez", "s'ajouteraient" ],
   "conditionnelPasse": [ "me serais ajouté(e)", "te serais ajouté(e)", "se serait ajouté(e)", "nous serions ajouté(e)s", "vous seriez ajouté(e)(s)", "se seraient ajouté(e)s" ],
   "conditionnelPasseII": [ "me fusse ajouté(e)", "te fusses ajouté(e)", "se fût ajouté(e)", "nous fussions ajouté(e)s", "vous fussiez ajouté(e)(s)", "se fussent ajouté(e)s" ],
-  "imperatif": [ "–", "ajoute-toi !", "–", "ajoutons-nous !", "ajoutez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "ajoute-toi !", "–", "ajoutons-nous !", "ajoutez-vous !", "–" ]
 }

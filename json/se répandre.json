@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me répandrais", "te répandrais", "se répandrait", "nous répandrions", "vous répandriez", "se répandraient" ],
   "conditionnelPasse": [ "me serais répandu(e)", "te serais répandu(e)", "se serait répandu(e)", "nous serions répandu(e)s", "vous seriez répandu(e)(s)", "se seraient répandu(e)s" ],
   "conditionnelPasseII": [ "me fusse répandu(e)", "te fusses répandu(e)", "se fût répandu(e)", "nous fussions répandu(e)s", "vous fussiez répandu(e)(s)", "se fussent répandu(e)s" ],
-  "imperatif": [ "–", "répands-toi !", "–", "répandons-nous !", "répandez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "répands-toi !", "–", "répandons-nous !", "répandez-vous !", "–" ]
 }

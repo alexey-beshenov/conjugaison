@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me tiendrais", "te tiendrais", "se tiendrait", "nous tiendrions", "vous tiendriez", "se tiendraient" ],
   "conditionnelPasse": [ "me serais tenu(e)", "te serais tenu(e)", "se serait tenu(e)", "nous serions tenu(e)s", "vous seriez tenu(e)(s)", "se seraient tenu(e)s" ],
   "conditionnelPasseII": [ "me fusse tenu(e)", "te fusses tenu(e)", "se fût tenu(e)", "nous fussions tenu(e)s", "vous fussiez tenu(e)(s)", "se fussent tenu(e)s" ],
-  "imperatif": [ "–", "tiens-toi !", "–", "tenons-nous !", "tenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "tiens-toi !", "–", "tenons-nous !", "tenez-vous !", "–" ]
 }

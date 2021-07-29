@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me serrerais", "te serrerais", "se serrerait", "nous serrerions", "vous serreriez", "se serreraient" ],
   "conditionnelPasse": [ "me serais serré(e)", "te serais serré(e)", "se serait serré(e)", "nous serions serré(e)s", "vous seriez serré(e)(s)", "se seraient serré(e)s" ],
   "conditionnelPasseII": [ "me fusse serré(e)", "te fusses serré(e)", "se fût serré(e)", "nous fussions serré(e)s", "vous fussiez serré(e)(s)", "se fussent serré(e)s" ],
-  "imperatif": [ "–", "serre-toi !", "–", "serrons-nous !", "serrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "serre-toi !", "–", "serrons-nous !", "serrez-vous !", "–" ]
 }

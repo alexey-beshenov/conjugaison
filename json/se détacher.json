@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me détacherais", "te détacherais", "se détacherait", "nous détacherions", "vous détacheriez", "se détacheraient" ],
   "conditionnelPasse": [ "me serais détaché(e)", "te serais détaché(e)", "se serait détaché(e)", "nous serions détaché(e)s", "vous seriez détaché(e)(s)", "se seraient détaché(e)s" ],
   "conditionnelPasseII": [ "me fusse détaché(e)", "te fusses détaché(e)", "se fût détaché(e)", "nous fussions détaché(e)s", "vous fussiez détaché(e)(s)", "se fussent détaché(e)s" ],
-  "imperatif": [ "–", "détache-toi !", "–", "détachons-nous !", "détachez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "détache-toi !", "–", "détachons-nous !", "détachez-vous !", "–" ]
 }

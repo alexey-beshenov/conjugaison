@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me pourvoirais", "te pourvoirais", "se pourvoirait", "nous pourvoirions", "vous pourvoiriez", "se pourvoiraient" ],
   "conditionnelPasse": [ "me serais pourvu(e)", "te serais pourvu(e)", "se serait pourvu(e)", "nous serions pourvu(e)s", "vous seriez pourvu(e)(s)", "se seraient pourvu(e)s" ],
   "conditionnelPasseII": [ "me fusse pourvu(e)", "te fusses pourvu(e)", "se fût pourvu(e)", "nous fussions pourvu(e)s", "vous fussiez pourvu(e)(s)", "se fussent pourvu(e)s" ],
-  "imperatif": [ "–", "pourvois-toi !", "–", "pourvoyons-nous !", "pourvoyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "pourvois-toi !", "–", "pourvoyons-nous !", "pourvoyez-vous !", "–" ]
 }

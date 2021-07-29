@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'entourerais", "t'entourerais", "s'entourerait", "nous entourerions", "vous entoureriez", "s'entoureraient" ],
   "conditionnelPasse": [ "me serais entouré(e)", "te serais entouré(e)", "se serait entouré(e)", "nous serions entouré(e)s", "vous seriez entouré(e)(s)", "se seraient entouré(e)s" ],
   "conditionnelPasseII": [ "me fusse entouré(e)", "te fusses entouré(e)", "se fût entouré(e)", "nous fussions entouré(e)s", "vous fussiez entouré(e)(s)", "se fussent entouré(e)s" ],
-  "imperatif": [ "–", "entoure-toi !", "–", "entourons-nous !", "entourez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "entoure-toi !", "–", "entourons-nous !", "entourez-vous !", "–" ]
 }

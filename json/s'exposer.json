@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'exposerais", "t'exposerais", "s'exposerait", "nous exposerions", "vous exposeriez", "s'exposeraient" ],
   "conditionnelPasse": [ "me serais exposé(e)", "te serais exposé(e)", "se serait exposé(e)", "nous serions exposé(e)s", "vous seriez exposé(e)(s)", "se seraient exposé(e)s" ],
   "conditionnelPasseII": [ "me fusse exposé(e)", "te fusses exposé(e)", "se fût exposé(e)", "nous fussions exposé(e)s", "vous fussiez exposé(e)(s)", "se fussent exposé(e)s" ],
-  "imperatif": [ "–", "expose-toi !", "–", "exposons-nous !", "exposez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "expose-toi !", "–", "exposons-nous !", "exposez-vous !", "–" ]
 }

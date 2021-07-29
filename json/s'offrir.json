@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'offrirais", "t'offrirais", "s'offrirait", "nous offririons", "vous offririez", "s'offriraient" ],
   "conditionnelPasse": [ "me serais offert(e)", "te serais offert(e)", "se serait offert(e)", "nous serions offert(e)s", "vous seriez offert(e)(s)", "se seraient offert(e)s" ],
   "conditionnelPasseII": [ "me fusse offert(e)", "te fusses offert(e)", "se fût offert(e)", "nous fussions offert(e)s", "vous fussiez offert(e)(s)", "se fussent offert(e)s" ],
-  "imperatif": [ "–", "offre-toi !", "–", "offrons-nous !", "offrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "offre-toi !", "–", "offrons-nous !", "offrez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me fatiguerais", "te fatiguerais", "se fatiguerait", "nous fatiguerions", "vous fatigueriez", "se fatigueraient" ],
   "conditionnelPasse": [ "me serais fatigué(e)", "te serais fatigué(e)", "se serait fatigué(e)", "nous serions fatigué(e)s", "vous seriez fatigué(e)(s)", "se seraient fatigué(e)s" ],
   "conditionnelPasseII": [ "me fusse fatigué(e)", "te fusses fatigué(e)", "se fût fatigué(e)", "nous fussions fatigué(e)s", "vous fussiez fatigué(e)(s)", "se fussent fatigué(e)s" ],
-  "imperatif": [ "–", "fatigue-toi !", "–", "fatiguons-nous !", "fatiguez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "fatigue-toi !", "–", "fatiguons-nous !", "fatiguez-vous !", "–" ]
 }

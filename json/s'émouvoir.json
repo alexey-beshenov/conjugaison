@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'émouvrais", "t'émouvrais", "s'émouvrait", "nous émouvrions", "vous émouvriez", "s'émouvraient" ],
   "conditionnelPasse": [ "me serais ému(e)", "te serais ému(e)", "se serait ému(e)", "nous serions ému(e)s", "vous seriez ému(e)(s)", "se seraient ému(e)s" ],
   "conditionnelPasseII": [ "me fusse ému(e)", "te fusses ému(e)", "se fût ému(e)", "nous fussions ému(e)s", "vous fussiez ému(e)(s)", "se fussent ému(e)s" ],
-  "imperatif": [ "–", "émeus-toi !", "–", "émouvons-nous !", "émouvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "émeus-toi !", "–", "émouvons-nous !", "émouvez-vous !", "–" ]
 }

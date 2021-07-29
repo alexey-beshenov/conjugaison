@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me percevrais", "te percevrais", "se percevrait", "nous percevrions", "vous percevriez", "se percevraient" ],
   "conditionnelPasse": [ "me serais perçu(e)", "te serais perçu(e)", "se serait perçu(e)", "nous serions perçu(e)s", "vous seriez perçu(e)(s)", "se seraient perçu(e)s" ],
   "conditionnelPasseII": [ "me fusse perçu(e)", "te fusses perçu(e)", "se fût perçu(e)", "nous fussions perçu(e)s", "vous fussiez perçu(e)(s)", "se fussent perçu(e)s" ],
-  "imperatif": [ "–", "perçois-toi !", "–", "percevons-nous !", "percevez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "perçois-toi !", "–", "percevons-nous !", "percevez-vous !", "–" ]
 }

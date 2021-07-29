@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me prétendrais", "te prétendrais", "se prétendrait", "nous prétendrions", "vous prétendriez", "se prétendraient" ],
   "conditionnelPasse": [ "me serais prétendu(e)", "te serais prétendu(e)", "se serait prétendu(e)", "nous serions prétendu(e)s", "vous seriez prétendu(e)(s)", "se seraient prétendu(e)s" ],
   "conditionnelPasseII": [ "me fusse prétendu(e)", "te fusses prétendu(e)", "se fût prétendu(e)", "nous fussions prétendu(e)s", "vous fussiez prétendu(e)(s)", "se fussent prétendu(e)s" ],
-  "imperatif": [ "–", "prétends-toi !", "–", "prétendons-nous !", "prétendez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "prétends-toi !", "–", "prétendons-nous !", "prétendez-vous !", "–" ]
 }

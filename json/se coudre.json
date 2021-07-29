@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me coudrais", "te coudrais", "se coudrait", "nous coudrions", "vous coudriez", "se coudraient" ],
   "conditionnelPasse": [ "me serais cousu(e)", "te serais cousu(e)", "se serait cousu(e)", "nous serions cousu(e)s", "vous seriez cousu(e)(s)", "se seraient cousu(e)s" ],
   "conditionnelPasseII": [ "me fusse cousu(e)", "te fusses cousu(e)", "se fût cousu(e)", "nous fussions cousu(e)s", "vous fussiez cousu(e)(s)", "se fussent cousu(e)s" ],
-  "imperatif": [ "–", "couds-toi !", "–", "cousons-nous !", "cousez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "couds-toi !", "–", "cousons-nous !", "cousez-vous !", "–" ]
 }

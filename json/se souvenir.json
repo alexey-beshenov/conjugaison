@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me souviendrais", "te souviendrais", "se souviendrait", "nous souviendrions", "vous souviendriez", "se souviendraient" ],
   "conditionnelPasse": [ "me serais souvenu(e)", "te serais souvenu(e)", "se serait souvenu(e)", "nous serions souvenu(e)s", "vous seriez souvenu(e)(s)", "se seraient souvenu(e)s" ],
   "conditionnelPasseII": [ "me fusse souvenu(e)", "te fusses souvenu(e)", "se fût souvenu(e)", "nous fussions souvenu(e)s", "vous fussiez souvenu(e)(s)", "se fussent souvenu(e)s" ],
-  "imperatif": [ "–", "souviens-toi !", "–", "souvenons-nous !", "souvenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "souviens-toi !", "–", "souvenons-nous !", "souvenez-vous !", "–" ]
 }

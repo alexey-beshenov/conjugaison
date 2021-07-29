@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'arrêterais", "t'arrêterais", "s'arrêterait", "nous arrêterions", "vous arrêteriez", "s'arrêteraient" ],
   "conditionnelPasse": [ "me serais arrêté(e)", "te serais arrêté(e)", "se serait arrêté(e)", "nous serions arrêté(e)s", "vous seriez arrêté(e)(s)", "se seraient arrêté(e)s" ],
   "conditionnelPasseII": [ "me fusse arrêté(e)", "te fusses arrêté(e)", "se fût arrêté(e)", "nous fussions arrêté(e)s", "vous fussiez arrêté(e)(s)", "se fussent arrêté(e)s" ],
-  "imperatif": [ "–", "arrête-toi !", "–", "arrêtons-nous !", "arrêtez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "arrête-toi !", "–", "arrêtons-nous !", "arrêtez-vous !", "–" ]
 }

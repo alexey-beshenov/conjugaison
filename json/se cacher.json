@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me cacherais", "te cacherais", "se cacherait", "nous cacherions", "vous cacheriez", "se cacheraient" ],
   "conditionnelPasse": [ "me serais caché(e)", "te serais caché(e)", "se serait caché(e)", "nous serions caché(e)s", "vous seriez caché(e)(s)", "se seraient caché(e)s" ],
   "conditionnelPasseII": [ "me fusse caché(e)", "te fusses caché(e)", "se fût caché(e)", "nous fussions caché(e)s", "vous fussiez caché(e)(s)", "se fussent caché(e)s" ],
-  "imperatif": [ "–", "cache-toi !", "–", "cachons-nous !", "cachez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "cache-toi !", "–", "cachons-nous !", "cachez-vous !", "–" ]
 }

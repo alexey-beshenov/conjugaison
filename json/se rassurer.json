@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rassurerais", "te rassurerais", "se rassurerait", "nous rassurerions", "vous rassureriez", "se rassureraient" ],
   "conditionnelPasse": [ "me serais rassuré(e)", "te serais rassuré(e)", "se serait rassuré(e)", "nous serions rassuré(e)s", "vous seriez rassuré(e)(s)", "se seraient rassuré(e)s" ],
   "conditionnelPasseII": [ "me fusse rassuré(e)", "te fusses rassuré(e)", "se fût rassuré(e)", "nous fussions rassuré(e)s", "vous fussiez rassuré(e)(s)", "se fussent rassuré(e)s" ],
-  "imperatif": [ "–", "rassure-toi !", "–", "rassurons-nous !", "rassurez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rassure-toi !", "–", "rassurons-nous !", "rassurez-vous !", "–" ]
 }

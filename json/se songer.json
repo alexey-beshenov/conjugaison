@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me songerais", "te songerais", "se songerait", "nous songerions", "vous songeriez", "se songeraient" ],
   "conditionnelPasse": [ "me serais songé(e)", "te serais songé(e)", "se serait songé(e)", "nous serions songé(e)s", "vous seriez songé(e)(s)", "se seraient songé(e)s" ],
   "conditionnelPasseII": [ "me fusse songé(e)", "te fusses songé(e)", "se fût songé(e)", "nous fussions songé(e)s", "vous fussiez songé(e)(s)", "se fussent songé(e)s" ],
-  "imperatif": [ "–", "songe-toi !", "–", "songeons-nous !", "songez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "songe-toi !", "–", "songeons-nous !", "songez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me signifierais", "te signifierais", "se signifierait", "nous signifierions", "vous signifieriez", "se signifieraient" ],
   "conditionnelPasse": [ "me serais signifié(e)", "te serais signifié(e)", "se serait signifié(e)", "nous serions signifié(e)s", "vous seriez signifié(e)(s)", "se seraient signifié(e)s" ],
   "conditionnelPasseII": [ "me fusse signifié(e)", "te fusses signifié(e)", "se fût signifié(e)", "nous fussions signifié(e)s", "vous fussiez signifié(e)(s)", "se fussent signifié(e)s" ],
-  "imperatif": [ "–", "signifie-toi !", "–", "signifions-nous !", "signifiez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "signifie-toi !", "–", "signifions-nous !", "signifiez-vous !", "–" ]
 }

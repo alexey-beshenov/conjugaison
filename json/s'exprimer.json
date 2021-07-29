@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'exprimerais", "t'exprimerais", "s'exprimerait", "nous exprimerions", "vous exprimeriez", "s'exprimeraient" ],
   "conditionnelPasse": [ "me serais exprimé(e)", "te serais exprimé(e)", "se serait exprimé(e)", "nous serions exprimé(e)s", "vous seriez exprimé(e)(s)", "se seraient exprimé(e)s" ],
   "conditionnelPasseII": [ "me fusse exprimé(e)", "te fusses exprimé(e)", "se fût exprimé(e)", "nous fussions exprimé(e)s", "vous fussiez exprimé(e)(s)", "se fussent exprimé(e)s" ],
-  "imperatif": [ "–", "exprime-toi !", "–", "exprimons-nous !", "exprimez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "exprime-toi !", "–", "exprimons-nous !", "exprimez-vous !", "–" ]
 }

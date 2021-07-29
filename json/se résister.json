@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me résisterais", "te résisterais", "se résisterait", "nous résisterions", "vous résisteriez", "se résisteraient" ],
   "conditionnelPasse": [ "me serais résisté(e)", "te serais résisté(e)", "se serait résisté(e)", "nous serions résisté(e)s", "vous seriez résisté(e)(s)", "se seraient résisté(e)s" ],
   "conditionnelPasseII": [ "me fusse résisté(e)", "te fusses résisté(e)", "se fût résisté(e)", "nous fussions résisté(e)s", "vous fussiez résisté(e)(s)", "se fussent résisté(e)s" ],
-  "imperatif": [ "–", "résiste-toi !", "–", "résistons-nous !", "résistez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "résiste-toi !", "–", "résistons-nous !", "résistez-vous !", "–" ]
 }

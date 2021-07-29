@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me traduirais", "te traduirais", "se traduirait", "nous traduirions", "vous traduiriez", "se traduiraient" ],
   "conditionnelPasse": [ "me serais traduit(e)", "te serais traduit(e)", "se serait traduit(e)", "nous serions traduit(e)s", "vous seriez traduit(e)(s)", "se seraient traduit(e)s" ],
   "conditionnelPasseII": [ "me fusse traduit(e)", "te fusses traduit(e)", "se fût traduit(e)", "nous fussions traduit(e)s", "vous fussiez traduit(e)(s)", "se fussent traduit(e)s" ],
-  "imperatif": [ "–", "traduis-toi !", "–", "traduisons-nous !", "traduisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "traduis-toi !", "–", "traduisons-nous !", "traduisez-vous !", "–" ]
 }

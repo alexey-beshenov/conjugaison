@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'emporterais", "t'emporterais", "s'emporterait", "nous emporterions", "vous emporteriez", "s'emporteraient" ],
   "conditionnelPasse": [ "me serais emporté(e)", "te serais emporté(e)", "se serait emporté(e)", "nous serions emporté(e)s", "vous seriez emporté(e)(s)", "se seraient emporté(e)s" ],
   "conditionnelPasseII": [ "me fusse emporté(e)", "te fusses emporté(e)", "se fût emporté(e)", "nous fussions emporté(e)s", "vous fussiez emporté(e)(s)", "se fussent emporté(e)s" ],
-  "imperatif": [ "–", "emporte-toi !", "–", "emportons-nous !", "emportez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "emporte-toi !", "–", "emportons-nous !", "emportez-vous !", "–" ]
 }

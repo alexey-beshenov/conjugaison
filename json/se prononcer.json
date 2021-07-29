@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me prononcerais", "te prononcerais", "se prononcerait", "nous prononcerions", "vous prononceriez", "se prononceraient" ],
   "conditionnelPasse": [ "me serais prononcé(e)", "te serais prononcé(e)", "se serait prononcé(e)", "nous serions prononcé(e)s", "vous seriez prononcé(e)(s)", "se seraient prononcé(e)s" ],
   "conditionnelPasseII": [ "me fusse prononcé(e)", "te fusses prononcé(e)", "se fût prononcé(e)", "nous fussions prononcé(e)s", "vous fussiez prononcé(e)(s)", "se fussent prononcé(e)s" ],
-  "imperatif": [ "–", "prononce-toi !", "–", "prononçons-nous !", "prononcez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "prononce-toi !", "–", "prononçons-nous !", "prononcez-vous !", "–" ]
 }

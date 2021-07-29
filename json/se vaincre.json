@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me vaincrais", "te vaincrais", "se vaincrait", "nous vaincrions", "vous vaincriez", "se vaincraient" ],
   "conditionnelPasse": [ "me serais vaincu(e)", "te serais vaincu(e)", "se serait vaincu(e)", "nous serions vaincu(e)s", "vous seriez vaincu(e)(s)", "se seraient vaincu(e)s" ],
   "conditionnelPasseII": [ "me fusse vaincu(e)", "te fusses vaincu(e)", "se fût vaincu(e)", "nous fussions vaincu(e)s", "vous fussiez vaincu(e)(s)", "se fussent vaincu(e)s" ],
-  "imperatif": [ "–", "vaincs-toi !", "–", "vainquons-nous !", "vainquez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "vaincs-toi !", "–", "vainquons-nous !", "vainquez-vous !", "–" ]
 }

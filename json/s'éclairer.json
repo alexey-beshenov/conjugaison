@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'éclairerais", "t'éclairerais", "s'éclairerait", "nous éclairerions", "vous éclaireriez", "s'éclaireraient" ],
   "conditionnelPasse": [ "me serais éclairé(e)", "te serais éclairé(e)", "se serait éclairé(e)", "nous serions éclairé(e)s", "vous seriez éclairé(e)(s)", "se seraient éclairé(e)s" ],
   "conditionnelPasseII": [ "me fusse éclairé(e)", "te fusses éclairé(e)", "se fût éclairé(e)", "nous fussions éclairé(e)s", "vous fussiez éclairé(e)(s)", "se fussent éclairé(e)s" ],
-  "imperatif": [ "–", "éclaire-toi !", "–", "éclairons-nous !", "éclairez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "éclaire-toi !", "–", "éclairons-nous !", "éclairez-vous !", "–" ]
 }

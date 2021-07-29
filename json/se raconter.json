@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me raconterais", "te raconterais", "se raconterait", "nous raconterions", "vous raconteriez", "se raconteraient" ],
   "conditionnelPasse": [ "me serais raconté", "te serais raconté", "se serait raconté", "nous serions raconté", "vous seriez raconté", "se seraient raconté" ],
   "conditionnelPasseII": [ "me fusse raconté", "te fusses raconté", "se fût raconté", "nous fussions raconté", "vous fussiez raconté", "se fussent raconté" ],
-  "imperatif": [ "–", "raconte-toi !", "–", "racontons-nous !", "racontez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "raconte-toi !", "–", "racontons-nous !", "racontez-vous !", "–" ]
 }

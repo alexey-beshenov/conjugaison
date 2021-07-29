@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me chercherais", "te chercherais", "se chercherait", "nous chercherions", "vous chercheriez", "se chercheraient" ],
   "conditionnelPasse": [ "me serais cherché(e)", "te serais cherché(e)", "se serait cherché(e)", "nous serions cherché(e)s", "vous seriez cherché(e)(s)", "se seraient cherché(e)s" ],
   "conditionnelPasseII": [ "me fusse cherché(e)", "te fusses cherché(e)", "se fût cherché(e)", "nous fussions cherché(e)s", "vous fussiez cherché(e)(s)", "se fussent cherché(e)s" ],
-  "imperatif": [ "–", "cherche-toi !", "–", "cherchons-nous !", "cherchez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "cherche-toi !", "–", "cherchons-nous !", "cherchez-vous !", "–" ]
 }

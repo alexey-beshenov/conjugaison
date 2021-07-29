@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me fixerais", "te fixerais", "se fixerait", "nous fixerions", "vous fixeriez", "se fixeraient" ],
   "conditionnelPasse": [ "me serais fixé(e)", "te serais fixé(e)", "se serait fixé(e)", "nous serions fixé(e)s", "vous seriez fixé(e)(s)", "se seraient fixé(e)s" ],
   "conditionnelPasseII": [ "me fusse fixé(e)", "te fusses fixé(e)", "se fût fixé(e)", "nous fussions fixé(e)s", "vous fussiez fixé(e)(s)", "se fussent fixé(e)s" ],
-  "imperatif": [ "–", "fixe-toi !", "–", "fixons-nous !", "fixez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "fixe-toi !", "–", "fixons-nous !", "fixez-vous !", "–" ]
 }

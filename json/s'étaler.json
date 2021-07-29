@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'étalerais", "t'étalerais", "s'étalerait", "nous étalerions", "vous étaleriez", "s'étaleraient" ],
   "conditionnelPasse": [ "me serais étalé(e)", "te serais étalé(e)", "se serait étalé(e)", "nous serions étalé(e)s", "vous seriez étalé(e)(s)", "se seraient étalé(e)s" ],
   "conditionnelPasseII": [ "me fusse étalé(e)", "te fusses étalé(e)", "se fût étalé(e)", "nous fussions étalé(e)s", "vous fussiez étalé(e)(s)", "se fussent étalé(e)s" ],
-  "imperatif": [ "–", "étale-toi !", "–", "étalons-nous !", "étalez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "étale-toi !", "–", "étalons-nous !", "étalez-vous !", "–" ]
 }

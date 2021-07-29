@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me dirais", "te dirais", "se dirait", "nous dirions", "vous diriez", "se diraient" ],
   "conditionnelPasse": [ "me serais dit", "te serais dit", "se serait dit", "nous serions dit", "vous seriez dit", "se seraient dit" ],
   "conditionnelPasseII": [ "me fusse dit", "te fusses dit", "se fût dit", "nous fussions dit", "vous fussiez dit", "se fussent dit" ],
-  "imperatif": [ "–", "dis-toi !", "–", "disons-nous !", "dites-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "dis-toi !", "–", "disons-nous !", "dites-vous !", "–" ]
 }

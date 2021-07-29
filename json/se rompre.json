@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me romprais", "te romprais", "se romprait", "nous romprions", "vous rompriez", "se rompraient" ],
   "conditionnelPasse": [ "me serais rompu(e)", "te serais rompu(e)", "se serait rompu(e)", "nous serions rompu(e)s", "vous seriez rompu(e)(s)", "se seraient rompu(e)s" ],
   "conditionnelPasseII": [ "me fusse rompu(e)", "te fusses rompu(e)", "se fût rompu(e)", "nous fussions rompu(e)s", "vous fussiez rompu(e)(s)", "se fussent rompu(e)s" ],
-  "imperatif": [ "–", "romps-toi !", "–", "rompons-nous !", "rompez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "romps-toi !", "–", "rompons-nous !", "rompez-vous !", "–" ]
 }

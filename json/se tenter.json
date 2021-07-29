@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me tenterais", "te tenterais", "se tenterait", "nous tenterions", "vous tenteriez", "se tenteraient" ],
   "conditionnelPasse": [ "me serais tenté(e)", "te serais tenté(e)", "se serait tenté(e)", "nous serions tenté(e)s", "vous seriez tenté(e)(s)", "se seraient tenté(e)s" ],
   "conditionnelPasseII": [ "me fusse tenté(e)", "te fusses tenté(e)", "se fût tenté(e)", "nous fussions tenté(e)s", "vous fussiez tenté(e)(s)", "se fussent tenté(e)s" ],
-  "imperatif": [ "–", "tente-toi !", "–", "tentons-nous !", "tentez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "tente-toi !", "–", "tentons-nous !", "tentez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me traînerais", "te traînerais", "se traînerait", "nous traînerions", "vous traîneriez", "se traîneraient" ],
   "conditionnelPasse": [ "me serais traîné(e)", "te serais traîné(e)", "se serait traîné(e)", "nous serions traîné(e)s", "vous seriez traîné(e)(s)", "se seraient traîné(e)s" ],
   "conditionnelPasseII": [ "me fusse traîné(e)", "te fusses traîné(e)", "se fût traîné(e)", "nous fussions traîné(e)s", "vous fussiez traîné(e)(s)", "se fussent traîné(e)s" ],
-  "imperatif": [ "–", "traîne-toi !", "–", "traînons-nous !", "traînez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "traîne-toi !", "–", "traînons-nous !", "traînez-vous !", "–" ]
 }

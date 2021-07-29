@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rendrais", "te rendrais", "se rendrait", "nous rendrions", "vous rendriez", "se rendraient" ],
   "conditionnelPasse": [ "me serais rendu(e)", "te serais rendu(e)", "se serait rendu(e)", "nous serions rendu(e)s", "vous seriez rendu(e)(s)", "se seraient rendu(e)s" ],
   "conditionnelPasseII": [ "me fusse rendu(e)", "te fusses rendu(e)", "se fût rendu(e)", "nous fussions rendu(e)s", "vous fussiez rendu(e)(s)", "se fussent rendu(e)s" ],
-  "imperatif": [ "–", "rends-toi !", "–", "rendons-nous !", "rendez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rends-toi !", "–", "rendons-nous !", "rendez-vous !", "–" ]
 }

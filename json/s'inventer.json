@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'inventerais", "t'inventerais", "s'inventerait", "nous inventerions", "vous inventeriez", "s'inventeraient" ],
   "conditionnelPasse": [ "me serais inventé(e)", "te serais inventé(e)", "se serait inventé(e)", "nous serions inventé(e)s", "vous seriez inventé(e)(s)", "se seraient inventé(e)s" ],
   "conditionnelPasseII": [ "me fusse inventé(e)", "te fusses inventé(e)", "se fût inventé(e)", "nous fussions inventé(e)s", "vous fussiez inventé(e)(s)", "se fussent inventé(e)s" ],
-  "imperatif": [ "–", "invente-toi !", "–", "inventons-nous !", "inventez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "invente-toi !", "–", "inventons-nous !", "inventez-vous !", "–" ]
 }

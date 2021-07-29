@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'envelopperais", "t'envelopperais", "s'envelopperait", "nous envelopperions", "vous envelopperiez", "s'envelopperaient" ],
   "conditionnelPasse": [ "me serais enveloppé(e)", "te serais enveloppé(e)", "se serait enveloppé(e)", "nous serions enveloppé(e)s", "vous seriez enveloppé(e)(s)", "se seraient enveloppé(e)s" ],
   "conditionnelPasseII": [ "me fusse enveloppé(e)", "te fusses enveloppé(e)", "se fût enveloppé(e)", "nous fussions enveloppé(e)s", "vous fussiez enveloppé(e)(s)", "se fussent enveloppé(e)s" ],
-  "imperatif": [ "–", "enveloppe-toi !", "–", "enveloppons-nous !", "enveloppez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "enveloppe-toi !", "–", "enveloppons-nous !", "enveloppez-vous !", "–" ]
 }

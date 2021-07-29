@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me partagerais", "te partagerais", "se partagerait", "nous partagerions", "vous partageriez", "se partageraient" ],
   "conditionnelPasse": [ "me serais partagé(e)", "te serais partagé(e)", "se serait partagé(e)", "nous serions partagé(e)s", "vous seriez partagé(e)(s)", "se seraient partagé(e)s" ],
   "conditionnelPasseII": [ "me fusse partagé(e)", "te fusses partagé(e)", "se fût partagé(e)", "nous fussions partagé(e)s", "vous fussiez partagé(e)(s)", "se fussent partagé(e)s" ],
-  "imperatif": [ "–", "partage-toi !", "–", "partageons-nous !", "partagez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "partage-toi !", "–", "partageons-nous !", "partagez-vous !", "–" ]
 }

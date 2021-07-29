@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me recueillerais", "te recueillerais", "se recueillerait", "nous recueillerions", "vous recueilleriez", "se recueilleraient" ],
   "conditionnelPasse": [ "me serais recueilli(e)", "te serais recueilli(e)", "se serait recueilli(e)", "nous serions recueilli(e)s", "vous seriez recueilli(e)(s)", "se seraient recueilli(e)s" ],
   "conditionnelPasseII": [ "me fusse recueilli(e)", "te fusses recueilli(e)", "se fût recueilli(e)", "nous fussions recueilli(e)s", "vous fussiez recueilli(e)(s)", "se fussent recueilli(e)s" ],
-  "imperatif": [ "–", "recueille-toi !", "–", "recueillons-nous !", "recueillez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "recueille-toi !", "–", "recueillons-nous !", "recueillez-vous !", "–" ]
 }

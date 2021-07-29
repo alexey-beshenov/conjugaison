@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'avancerais", "t'avancerais", "s'avancerait", "nous avancerions", "vous avanceriez", "s'avanceraient" ],
   "conditionnelPasse": [ "me serais avancé(e)", "te serais avancé(e)", "se serait avancé(e)", "nous serions avancé(e)s", "vous seriez avancé(e)(s)", "se seraient avancé(e)s" ],
   "conditionnelPasseII": [ "me fusse avancé(e)", "te fusses avancé(e)", "se fût avancé(e)", "nous fussions avancé(e)s", "vous fussiez avancé(e)(s)", "se fussent avancé(e)s" ],
-  "imperatif": [ "–", "avance-toi !", "–", "avançons-nous !", "avancez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "avance-toi !", "–", "avançons-nous !", "avancez-vous !", "–" ]
 }

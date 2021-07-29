@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me surferais", "te surferais", "se surferait", "nous surferions", "vous surferiez", "se surferaient" ],
   "conditionnelPasse": [ "me serais surfait(e)", "te serais surfait(e)", "se serait surfait(e)", "nous serions surfait(e)s", "vous seriez surfait(e)(s)", "se seraient surfait(e)s" ],
   "conditionnelPasseII": [ "me fusse surfait(e)", "te fusses surfait(e)", "se fût surfait(e)", "nous fussions surfait(e)s", "vous fussiez surfait(e)(s)", "se fussent surfait(e)s" ],
-  "imperatif": [ "–", "surfais-toi !", "–", "surfaisons-nous !", "surfaites-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "surfais-toi !", "–", "surfaisons-nous !", "surfaites-vous !", "–" ]
 }

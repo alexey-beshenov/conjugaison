@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me représenterais", "te représenterais", "se représenterait", "nous représenterions", "vous représenteriez", "se représenteraient" ],
   "conditionnelPasse": [ "me serais représenté(e)", "te serais représenté(e)", "se serait représenté(e)", "nous serions représenté(e)s", "vous seriez représenté(e)(s)", "se seraient représenté(e)s" ],
   "conditionnelPasseII": [ "me fusse représenté(e)", "te fusses représenté(e)", "se fût représenté(e)", "nous fussions représenté(e)s", "vous fussiez représenté(e)(s)", "se fussent représenté(e)s" ],
-  "imperatif": [ "–", "représente-toi !", "–", "représentons-nous !", "représentez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "représente-toi !", "–", "représentons-nous !", "représentez-vous !", "–" ]
 }

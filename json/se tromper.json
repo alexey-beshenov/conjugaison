@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me tromperais", "te tromperais", "se tromperait", "nous tromperions", "vous tromperiez", "se tromperaient" ],
   "conditionnelPasse": [ "me serais trompé(e)", "te serais trompé(e)", "se serait trompé(e)", "nous serions trompé(e)s", "vous seriez trompé(e)(s)", "se seraient trompé(e)s" ],
   "conditionnelPasseII": [ "me fusse trompé(e)", "te fusses trompé(e)", "se fût trompé(e)", "nous fussions trompé(e)s", "vous fussiez trompé(e)(s)", "se fussent trompé(e)s" ],
-  "imperatif": [ "–", "trompe-toi !", "–", "trompons-nous !", "trompez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "trompe-toi !", "–", "trompons-nous !", "trompez-vous !", "–" ]
 }

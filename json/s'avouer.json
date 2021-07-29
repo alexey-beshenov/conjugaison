@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'avouerais", "t'avouerais", "s'avouerait", "nous avouerions", "vous avoueriez", "s'avoueraient" ],
   "conditionnelPasse": [ "me serais avoué(e)", "te serais avoué(e)", "se serait avoué(e)", "nous serions avoué(e)s", "vous seriez avoué(e)(s)", "se seraient avoué(e)s" ],
   "conditionnelPasseII": [ "me fusse avoué(e)", "te fusses avoué(e)", "se fût avoué(e)", "nous fussions avoué(e)s", "vous fussiez avoué(e)(s)", "se fussent avoué(e)s" ],
-  "imperatif": [ "–", "avoue-toi !", "–", "avouons-nous !", "avouez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "avoue-toi !", "–", "avouons-nous !", "avouez-vous !", "–" ]
 }

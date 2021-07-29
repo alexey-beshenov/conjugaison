@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me retreindrais", "te retreindrais", "se retreindrait", "nous retreindrions", "vous retreindriez", "se retreindraient" ],
   "conditionnelPasse": [ "me serais retreint(e)", "te serais retreint(e)", "se serait retreint(e)", "nous serions retreint(e)s", "vous seriez retreint(e)(s)", "se seraient retreint(e)s" ],
   "conditionnelPasseII": [ "me fusse retreint(e)", "te fusses retreint(e)", "se fût retreint(e)", "nous fussions retreint(e)s", "vous fussiez retreint(e)(s)", "se fussent retreint(e)s" ],
-  "imperatif": [ "–", "retreins-toi !", "–", "retreignons-nous !", "retreignez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "retreins-toi !", "–", "retreignons-nous !", "retreignez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me retrouverais", "te retrouverais", "se retrouverait", "nous retrouverions", "vous retrouveriez", "se retrouveraient" ],
   "conditionnelPasse": [ "me serais retrouvé(e)", "te serais retrouvé(e)", "se serait retrouvé(e)", "nous serions retrouvé(e)s", "vous seriez retrouvé(e)(s)", "se seraient retrouvé(e)s" ],
   "conditionnelPasseII": [ "me fusse retrouvé(e)", "te fusses retrouvé(e)", "se fût retrouvé(e)", "nous fussions retrouvé(e)s", "vous fussiez retrouvé(e)(s)", "se fussent retrouvé(e)s" ],
-  "imperatif": [ "–", "retrouve-toi !", "–", "retrouvons-nous !", "retrouvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "retrouve-toi !", "–", "retrouvons-nous !", "retrouvez-vous !", "–" ]
 }

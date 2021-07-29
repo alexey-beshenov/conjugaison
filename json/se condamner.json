@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me condamnerais", "te condamnerais", "se condamnerait", "nous condamnerions", "vous condamneriez", "se condamneraient" ],
   "conditionnelPasse": [ "me serais condamné(e)", "te serais condamné(e)", "se serait condamné(e)", "nous serions condamné(e)s", "vous seriez condamné(e)(s)", "se seraient condamné(e)s" ],
   "conditionnelPasseII": [ "me fusse condamné(e)", "te fusses condamné(e)", "se fût condamné(e)", "nous fussions condamné(e)s", "vous fussiez condamné(e)(s)", "se fussent condamné(e)s" ],
-  "imperatif": [ "–", "condamne-toi !", "–", "condamnons-nous !", "condamnez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "condamne-toi !", "–", "condamnons-nous !", "condamnez-vous !", "–" ]
 }

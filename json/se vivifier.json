@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me vivifierais", "te vivifierais", "se vivifierait", "nous vivifierions", "vous vivifieriez", "se vivifieraient" ],
   "conditionnelPasse": [ "me serais vivifié(e)", "te serais vivifié(e)", "se serait vivifié(e)", "nous serions vivifié(e)s", "vous seriez vivifié(e)(s)", "se seraient vivifié(e)s" ],
   "conditionnelPasseII": [ "me fusse vivifié(e)", "te fusses vivifié(e)", "se fût vivifié(e)", "nous fussions vivifié(e)s", "vous fussiez vivifié(e)(s)", "se fussent vivifié(e)s" ],
-  "imperatif": [ "–", "vivifie-toi !", "–", "vivifions-nous !", "vivifiez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "vivifie-toi !", "–", "vivifions-nous !", "vivifiez-vous !", "–" ]
 }

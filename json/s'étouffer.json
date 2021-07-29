@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'étoufferais", "t'étoufferais", "s'étoufferait", "nous étoufferions", "vous étoufferiez", "s'étoufferaient" ],
   "conditionnelPasse": [ "me serais étouffé(e)", "te serais étouffé(e)", "se serait étouffé(e)", "nous serions étouffé(e)s", "vous seriez étouffé(e)(s)", "se seraient étouffé(e)s" ],
   "conditionnelPasseII": [ "me fusse étouffé(e)", "te fusses étouffé(e)", "se fût étouffé(e)", "nous fussions étouffé(e)s", "vous fussiez étouffé(e)(s)", "se fussent étouffé(e)s" ],
-  "imperatif": [ "–", "étouffe-toi !", "–", "étouffons-nous !", "étouffez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "étouffe-toi !", "–", "étouffons-nous !", "étouffez-vous !", "–" ]
 }

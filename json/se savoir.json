@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me saurais", "te saurais", "se saurait", "nous saurions", "vous sauriez", "se sauraient" ],
   "conditionnelPasse": [ "me serais su(e)", "te serais su(e)", "se serait su(e)", "nous serions su(e)s", "vous seriez su(e)(s)", "se seraient su(e)s" ],
   "conditionnelPasseII": [ "me fusse su(e)", "te fusses su(e)", "se fût su(e)", "nous fussions su(e)s", "vous fussiez su(e)(s)", "se fussent su(e)s" ],
-  "imperatif": [ "–", "sache-toi !", "–", "sachons-nous !", "sachez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "sache-toi !", "–", "sachons-nous !", "sachez-vous !", "–" ]
 }

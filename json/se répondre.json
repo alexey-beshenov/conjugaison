@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me répondrais", "te répondrais", "se répondrait", "nous répondrions", "vous répondriez", "se répondraient" ],
   "conditionnelPasse": [ "me serais répondu", "te serais répondu", "se serait répondu", "nous serions répondu", "vous seriez répondu", "se seraient répondu" ],
   "conditionnelPasseII": [ "me fusse répondu", "te fusses répondu", "se fût répondu", "nous fussions répondu", "vous fussiez répondu", "se fussent répondu" ],
-  "imperatif": [ "–", "réponds-toi !", "–", "répondons-nous !", "répondez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "réponds-toi !", "–", "répondons-nous !", "répondez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me remettrais", "te remettrais", "se remettrait", "nous remettrions", "vous remettriez", "se remettraient" ],
   "conditionnelPasse": [ "me serais remis(e)", "te serais remis(e)", "se serait remis(e)", "nous serions remis(es)", "vous seriez remis(e(s))", "se seraient remis(es)" ],
   "conditionnelPasseII": [ "me fusse remis(e)", "te fusses remis(e)", "se fût remis(e)", "nous fussions remis(es)", "vous fussiez remis(e(s))", "se fussent remis(es)" ],
-  "imperatif": [ "–", "remets-toi !", "–", "remettons-nous !", "remettez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "remets-toi !", "–", "remettons-nous !", "remettez-vous !", "–" ]
 }

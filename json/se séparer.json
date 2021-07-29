@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me séparerais", "te séparerais", "se séparerait", "nous séparerions", "vous sépareriez", "se sépareraient" ],
   "conditionnelPasse": [ "me serais séparé(e)", "te serais séparé(e)", "se serait séparé(e)", "nous serions séparé(e)s", "vous seriez séparé(e)(s)", "se seraient séparé(e)s" ],
   "conditionnelPasseII": [ "me fusse séparé(e)", "te fusses séparé(e)", "se fût séparé(e)", "nous fussions séparé(e)s", "vous fussiez séparé(e)(s)", "se fussent séparé(e)s" ],
-  "imperatif": [ "–", "sépare-toi !", "–", "séparons-nous !", "séparez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "sépare-toi !", "–", "séparons-nous !", "séparez-vous !", "–" ]
 }

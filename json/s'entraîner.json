@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'entraînerais", "t'entraînerais", "s'entraînerait", "nous entraînerions", "vous entraîneriez", "s'entraîneraient" ],
   "conditionnelPasse": [ "me serais entraîné(e)", "te serais entraîné(e)", "se serait entraîné(e)", "nous serions entraîné(e)s", "vous seriez entraîné(e)(s)", "se seraient entraîné(e)s" ],
   "conditionnelPasseII": [ "me fusse entraîné(e)", "te fusses entraîné(e)", "se fût entraîné(e)", "nous fussions entraîné(e)s", "vous fussiez entraîné(e)(s)", "se fussent entraîné(e)s" ],
-  "imperatif": [ "–", "entraîne-toi !", "–", "entraînons-nous !", "entraînez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "entraîne-toi !", "–", "entraînons-nous !", "entraînez-vous !", "–" ]
 }

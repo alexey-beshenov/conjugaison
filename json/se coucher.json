@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me coucherais", "te coucherais", "se coucherait", "nous coucherions", "vous coucheriez", "se coucheraient" ],
   "conditionnelPasse": [ "me serais couché(e)", "te serais couché(e)", "se serait couché(e)", "nous serions couché(e)s", "vous seriez couché(e)(s)", "se seraient couché(e)s" ],
   "conditionnelPasseII": [ "me fusse couché(e)", "te fusses couché(e)", "se fût couché(e)", "nous fussions couché(e)s", "vous fussiez couché(e)(s)", "se fussent couché(e)s" ],
-  "imperatif": [ "–", "couche-toi !", "–", "couchons-nous !", "couchez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "couche-toi !", "–", "couchons-nous !", "couchez-vous !", "–" ]
 }

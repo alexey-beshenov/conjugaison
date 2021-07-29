@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me livrerais", "te livrerais", "se livrerait", "nous livrerions", "vous livreriez", "se livreraient" ],
   "conditionnelPasse": [ "me serais livré(e)", "te serais livré(e)", "se serait livré(e)", "nous serions livré(e)s", "vous seriez livré(e)(s)", "se seraient livré(e)s" ],
   "conditionnelPasseII": [ "me fusse livré(e)", "te fusses livré(e)", "se fût livré(e)", "nous fussions livré(e)s", "vous fussiez livré(e)(s)", "se fussent livré(e)s" ],
-  "imperatif": [ "–", "livre-toi !", "–", "livrons-nous !", "livrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "livre-toi !", "–", "livrons-nous !", "livrez-vous !", "–" ]
 }

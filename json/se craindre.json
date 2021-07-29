@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me craindrais", "te craindrais", "se craindrait", "nous craindrions", "vous craindriez", "se craindraient" ],
   "conditionnelPasse": [ "me serais craint(e)", "te serais craint(e)", "se serait craint(e)", "nous serions craint(e)s", "vous seriez craint(e)(s)", "se seraient craint(e)s" ],
   "conditionnelPasseII": [ "me fusse craint(e)", "te fusses craint(e)", "se fût craint(e)", "nous fussions craint(e)s", "vous fussiez craint(e)(s)", "se fussent craint(e)s" ],
-  "imperatif": [ "–", "crains-toi !", "–", "craignons-nous !", "craignez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "crains-toi !", "–", "craignons-nous !", "craignez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me cueillerais", "te cueillerais", "se cueillerait", "nous cueillerions", "vous cueilleriez", "se cueilleraient" ],
   "conditionnelPasse": [ "me serais cueilli(e)", "te serais cueilli(e)", "se serait cueilli(e)", "nous serions cueilli(e)s", "vous seriez cueilli(e)(s)", "se seraient cueilli(e)s" ],
   "conditionnelPasseII": [ "me fusse cueilli(e)", "te fusses cueilli(e)", "se fût cueilli(e)", "nous fussions cueilli(e)s", "vous fussiez cueilli(e)(s)", "se fussent cueilli(e)s" ],
-  "imperatif": [ "–", "cueille-toi !", "–", "cueillons-nous !", "cueillez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "cueille-toi !", "–", "cueillons-nous !", "cueillez-vous !", "–" ]
 }

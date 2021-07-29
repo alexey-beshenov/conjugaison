@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me dépourvoirais", "te dépourvoirais", "se dépourvoirait", "nous dépourvoirions", "vous dépourvoiriez", "se dépourvoiraient" ],
   "conditionnelPasse": [ "me serais dépourvu(e)", "te serais dépourvu(e)", "se serait dépourvu(e)", "nous serions dépourvu(e)s", "vous seriez dépourvu(e)(s)", "se seraient dépourvu(e)s" ],
   "conditionnelPasseII": [ "me fusse dépourvu(e)", "te fusses dépourvu(e)", "se fût dépourvu(e)", "nous fussions dépourvu(e)s", "vous fussiez dépourvu(e)(s)", "se fussent dépourvu(e)s" ],
-  "imperatif": [ "–", "dépourvois-toi !", "–", "dépourvoyons-nous !", "dépourvoyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "dépourvois-toi !", "–", "dépourvoyons-nous !", "dépourvoyez-vous !", "–" ]
 }

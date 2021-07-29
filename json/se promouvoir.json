@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me promouvrais", "te promouvrais", "se promouvrait", "nous promouvrions", "vous promouvriez", "se promouvraient" ],
   "conditionnelPasse": [ "me serais promu(e)", "te serais promu(e)", "se serait promu(e)", "nous serions promu(e)s", "vous seriez promu(e)(s)", "se seraient promu(e)s" ],
   "conditionnelPasseII": [ "me fusse promu(e)", "te fusses promu(e)", "se fût promu(e)", "nous fussions promu(e)s", "vous fussiez promu(e)(s)", "se fussent promu(e)s" ],
-  "imperatif": [ "–", "promeus-toi !", "–", "promouvons-nous !", "promouvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "promeus-toi !", "–", "promouvons-nous !", "promouvez-vous !", "–" ]
 }

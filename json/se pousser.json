@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "–", "–", "se pousserait", "nous pousserions", "vous pousseriez", "se pousseraient" ],
   "conditionnelPasse": [ "–", "–", "se serait poussé(e)s", "nous serions poussé(e)s", "vous seriez poussé(e)(s)", "se seraient poussé(e)s" ],
   "conditionnelPasseII": [ "–", "–", "se fût poussé(e)s", "nous fussions poussé(e)s", "vous fussiez poussé(e)(s)", "se fussent poussé(e)s" ],
-  "imperatif": [ "–", "–", "–", "poussons-nous !", "poussez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "–", "–", "poussons-nous !", "poussez-vous !", "–" ]
 }

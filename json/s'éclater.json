@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'éclaterais", "t'éclaterais", "s'éclaterait", "nous éclaterions", "vous éclateriez", "s'éclateraient" ],
   "conditionnelPasse": [ "me serais éclaté(e)", "te serais éclaté(e)", "se serait éclaté(e)", "nous serions éclaté(e)s", "vous seriez éclaté(e)(s)", "se seraient éclaté(e)s" ],
   "conditionnelPasseII": [ "me fusse éclaté(e)", "te fusses éclaté(e)", "se fût éclaté(e)", "nous fussions éclaté(e)s", "vous fussiez éclaté(e)(s)", "se fussent éclaté(e)s" ],
-  "imperatif": [ "–", "éclate-toi !", "–", "éclatons-nous !", "éclatez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "éclate-toi !", "–", "éclatons-nous !", "éclatez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me désignerais", "te désignerais", "se désignerait", "nous désignerions", "vous désigneriez", "se désigneraient" ],
   "conditionnelPasse": [ "me serais désigné(e)", "te serais désigné(e)", "se serait désigné(e)", "nous serions désigné(e)s", "vous seriez désigné(e)(s)", "se seraient désigné(e)s" ],
   "conditionnelPasseII": [ "me fusse désigné(e)", "te fusses désigné(e)", "se fût désigné(e)", "nous fussions désigné(e)s", "vous fussiez désigné(e)(s)", "se fussent désigné(e)s" ],
-  "imperatif": [ "–", "désigne-toi !", "–", "désignons-nous !", "désignez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "désigne-toi !", "–", "désignons-nous !", "désignez-vous !", "–" ]
 }

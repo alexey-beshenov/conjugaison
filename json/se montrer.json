@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me montrerais", "te montrerais", "se montrerait", "nous montrerions", "vous montreriez", "se montreraient" ],
   "conditionnelPasse": [ "me serais montré(e)", "te serais montré(e)", "se serait montré(e)", "nous serions montré(e)s", "vous seriez montré(e)(s)", "se seraient montré(e)s" ],
   "conditionnelPasseII": [ "me fusse montré(e)", "te fusses montré(e)", "se fût montré(e)", "nous fussions montré(e)s", "vous fussiez montré(e)(s)", "se fussent montré(e)s" ],
-  "imperatif": [ "–", "montre-toi !", "–", "montrons-nous !", "montrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "montre-toi !", "–", "montrons-nous !", "montrez-vous !", "–" ]
 }

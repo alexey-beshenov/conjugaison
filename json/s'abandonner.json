@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'abandonnerais", "t'abandonnerais", "s'abandonnerait", "nous abandonnerions", "vous abandonneriez", "s'abandonneraient" ],
   "conditionnelPasse": [ "me serais abandonné(e)", "te serais abandonné(e)", "se serait abandonné(e)", "nous serions abandonné(e)s", "vous seriez abandonné(e)(s)", "se seraient abandonné(e)s" ],
   "conditionnelPasseII": [ "me fusse abandonné(e)", "te fusses abandonné(e)", "se fût abandonné(e)", "nous fussions abandonné(e)s", "vous fussiez abandonné(e)(s)", "se fussent abandonné(e)s" ],
-  "imperatif": [ "–", "abandonne-toi !", "–", "abandonnons-nous !", "abandonnez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "abandonne-toi !", "–", "abandonnons-nous !", "abandonnez-vous !", "–" ]
 }

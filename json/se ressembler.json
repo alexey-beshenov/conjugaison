@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me ressemblerais", "te ressemblerais", "se ressemblerait", "nous ressemblerions", "vous ressembleriez", "se ressembleraient" ],
   "conditionnelPasse": [ "me serais ressemblé", "te serais ressemblé", "se serait ressemblé", "nous serions ressemblé", "vous seriez ressemblé", "se seraient ressemblé" ],
   "conditionnelPasseII": [ "me fusse ressemblé", "te fusses ressemblé", "se fût ressemblé", "nous fussions ressemblé", "vous fussiez ressemblé", "se fussent ressemblé" ],
-  "imperatif": [ "–", "ressemble-toi !", "–", "ressemblons-nous !", "ressemblez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "ressemble-toi !", "–", "ressemblons-nous !", "ressemblez-vous !", "–" ]
 }

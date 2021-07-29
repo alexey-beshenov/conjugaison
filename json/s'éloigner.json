@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'éloignerais", "t'éloignerais", "s'éloignerait", "nous éloignerions", "vous éloigneriez", "s'éloigneraient" ],
   "conditionnelPasse": [ "me serais éloigné(e)", "te serais éloigné(e)", "se serait éloigné(e)", "nous serions éloigné(e)s", "vous seriez éloigné(e)(s)", "se seraient éloigné(e)s" ],
   "conditionnelPasseII": [ "me fusse éloigné(e)", "te fusses éloigné(e)", "se fût éloigné(e)", "nous fussions éloigné(e)s", "vous fussiez éloigné(e)(s)", "se fussent éloigné(e)s" ],
-  "imperatif": [ "–", "éloigne-toi !", "–", "éloignons-nous !", "éloignez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "éloigne-toi !", "–", "éloignons-nous !", "éloignez-vous !", "–" ]
 }

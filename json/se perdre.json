@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me perdrais", "te perdrais", "se perdrait", "nous perdrions", "vous perdriez", "se perdraient" ],
   "conditionnelPasse": [ "me serais perdu(e)", "te serais perdu(e)", "se serait perdu(e)", "nous serions perdu(e)s", "vous seriez perdu(e)(s)", "se seraient perdu(e)s" ],
   "conditionnelPasseII": [ "me fusse perdu(e)", "te fusses perdu(e)", "se fût perdu(e)", "nous fussions perdu(e)s", "vous fussiez perdu(e)(s)", "se fussent perdu(e)s" ],
-  "imperatif": [ "–", "perds-toi !", "–", "perdons-nous !", "perdez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "perds-toi !", "–", "perdons-nous !", "perdez-vous !", "–" ]
 }

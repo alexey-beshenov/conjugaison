@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me presserais", "te presserais", "se presserait", "nous presserions", "vous presseriez", "se presseraient" ],
   "conditionnelPasse": [ "me serais pressé(e)", "te serais pressé(e)", "se serait pressé(e)", "nous serions pressé(e)s", "vous seriez pressé(e)(s)", "se seraient pressé(e)s" ],
   "conditionnelPasseII": [ "me fusse pressé(e)", "te fusses pressé(e)", "se fût pressé(e)", "nous fussions pressé(e)s", "vous fussiez pressé(e)(s)", "se fussent pressé(e)s" ],
-  "imperatif": [ "–", "presse-toi !", "–", "pressons-nous !", "pressez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "presse-toi !", "–", "pressons-nous !", "pressez-vous !", "–" ]
 }

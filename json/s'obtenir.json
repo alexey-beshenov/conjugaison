@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'obtiendrais", "t'obtiendrais", "s'obtiendrait", "nous obtiendrions", "vous obtiendriez", "s'obtiendraient" ],
   "conditionnelPasse": [ "me serais obtenu(e)", "te serais obtenu(e)", "se serait obtenu(e)", "nous serions obtenu(e)s", "vous seriez obtenu(e)(s)", "se seraient obtenu(e)s" ],
   "conditionnelPasseII": [ "me fusse obtenu(e)", "te fusses obtenu(e)", "se fût obtenu(e)", "nous fussions obtenu(e)s", "vous fussiez obtenu(e)(s)", "se fussent obtenu(e)s" ],
-  "imperatif": [ "–", "obtiens-toi !", "–", "obtenons-nous !", "obtenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "obtiens-toi !", "–", "obtenons-nous !", "obtenez-vous !", "–" ]
 }

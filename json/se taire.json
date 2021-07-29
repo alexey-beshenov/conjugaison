@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me tairais", "te tairais", "se tairait", "nous tairions", "vous tairiez", "se tairaient" ],
   "conditionnelPasse": [ "me serais tu(e)", "te serais tu(e)", "se serait tu(e)", "nous serions tu(e)s", "vous seriez tu(e)(s)", "se seraient tu(e)s" ],
   "conditionnelPasseII": [ "me fusse tu(e)", "te fusses tu(e)", "se fût tu(e)", "nous fussions tu(e)s", "vous fussiez tu(e)(s)", "se fussent tu(e)s" ],
-  "imperatif": [ "–", "tais-toi !", "–", "taisons-nous !", "taisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "tais-toi !", "–", "taisons-nous !", "taisez-vous !", "–" ]
 }

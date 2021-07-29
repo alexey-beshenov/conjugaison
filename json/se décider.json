@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me déciderais", "te déciderais", "se déciderait", "nous déciderions", "vous décideriez", "se décideraient" ],
   "conditionnelPasse": [ "me serais décidé(e)", "te serais décidé(e)", "se serait décidé(e)", "nous serions décidé(e)s", "vous seriez décidé(e)(s)", "se seraient décidé(e)s" ],
   "conditionnelPasseII": [ "me fusse décidé(e)", "te fusses décidé(e)", "se fût décidé(e)", "nous fussions décidé(e)s", "vous fussiez décidé(e)(s)", "se fussent décidé(e)s" ],
-  "imperatif": [ "–", "décide-toi !", "–", "décidons-nous !", "décidez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "décide-toi !", "–", "décidons-nous !", "décidez-vous !", "–" ]
 }

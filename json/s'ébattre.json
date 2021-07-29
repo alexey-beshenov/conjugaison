@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'ébattrais", "t'ébattrais", "s'ébattrait", "nous ébattrions", "vous ébattriez", "s'ébattraient" ],
   "conditionnelPasse": [ "me serais ébattu(e)", "te serais ébattu(e)", "se serait ébattu(e)", "nous serions ébattu(e)s", "vous seriez ébattu(e)(s)", "se seraient ébattu(e)s" ],
   "conditionnelPasseII": [ "me fusse ébattu(e)", "te fusses ébattu(e)", "se fût ébattu(e)", "nous fussions ébattu(e)s", "vous fussiez ébattu(e)(s)", "se fussent ébattu(e)s" ],
-  "imperatif": [ "–", "ébats-toi !", "–", "ébattons-nous !", "ébattez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "ébats-toi !", "–", "ébattons-nous !", "ébattez-vous !", "–" ]
 }

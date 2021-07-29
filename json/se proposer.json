@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me proposerais", "te proposerais", "se proposerait", "nous proposerions", "vous proposeriez", "se proposeraient" ],
   "conditionnelPasse": [ "me serais proposé(e)", "te serais proposé(e)", "se serait proposé(e)", "nous serions proposé(e)s", "vous seriez proposé(e)(s)", "se seraient proposé(e)s" ],
   "conditionnelPasseII": [ "me fusse proposé(e)", "te fusses proposé(e)", "se fût proposé(e)", "nous fussions proposé(e)s", "vous fussiez proposé(e)(s)", "se fussent proposé(e)s" ],
-  "imperatif": [ "–", "propose-toi !", "–", "proposons-nous !", "proposez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "propose-toi !", "–", "proposons-nous !", "proposez-vous !", "–" ]
 }

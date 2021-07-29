@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me réduirais", "te réduirais", "se réduirait", "nous réduirions", "vous réduiriez", "se réduiraient" ],
   "conditionnelPasse": [ "me serais réduit(e)", "te serais réduit(e)", "se serait réduit(e)", "nous serions réduit(e)s", "vous seriez réduit(e)(s)", "se seraient réduit(e)s" ],
   "conditionnelPasseII": [ "me fusse réduit(e)", "te fusses réduit(e)", "se fût réduit(e)", "nous fussions réduit(e)s", "vous fussiez réduit(e)(s)", "se fussent réduit(e)s" ],
-  "imperatif": [ "–", "réduis-toi !", "–", "réduisons-nous !", "réduisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "réduis-toi !", "–", "réduisons-nous !", "réduisez-vous !", "–" ]
 }

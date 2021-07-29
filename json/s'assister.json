@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'assisterais", "t'assisterais", "s'assisterait", "nous assisterions", "vous assisteriez", "s'assisteraient" ],
   "conditionnelPasse": [ "me serais assisté(e)", "te serais assisté(e)", "se serait assisté(e)", "nous serions assisté(e)s", "vous seriez assisté(e)(s)", "se seraient assisté(e)s" ],
   "conditionnelPasseII": [ "me fusse assisté(e)", "te fusses assisté(e)", "se fût assisté(e)", "nous fussions assisté(e)s", "vous fussiez assisté(e)(s)", "se fussent assisté(e)s" ],
-  "imperatif": [ "–", "assiste-toi !", "–", "assistons-nous !", "assistez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "assiste-toi !", "–", "assistons-nous !", "assistez-vous !", "–" ]
 }

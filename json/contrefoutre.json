@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me contrefoutrais", "te contrefoutrais", "se contrefoutrait", "nous contrefoutrions", "vous contrefoutriez", "se contrefoutraient" ],
   "conditionnelPasse": [ "me serais contrefoutu(e)", "te serais contrefoutu(e)", "se serait contrefoutu(e)", "nous serions contrefoutu(e)s", "vous seriez contrefoutu(e)(s)", "se seraient contrefoutu(e)s" ],
   "conditionnelPasseII": [ "me fusse contrefoutu(e)", "te fusses contrefoutu(e)", "se fût contrefoutu(e)", "nous fussions contrefoutu(e)s", "vous fussiez contrefoutu(e)(s)", "se fussent contrefoutu(e)s" ],
-  "imperatif": [ "–", "contrefous-toi !", "–", "contrefoutons-nous !", "contrefoutez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "contrefous-toi !", "–", "contrefoutons-nous !", "contrefoutez-vous !", "–" ]
 }

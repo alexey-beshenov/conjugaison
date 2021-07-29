@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'appellerais", "t'appellerais", "s'appellerait", "nous appellerions", "vous appelleriez", "s'appelleraient" ],
   "conditionnelPasse": [ "me serais appelé(e)", "te serais appelé(e)", "se serait appelé(e)", "nous serions appelé(e)s", "vous seriez appelé(e)(s)", "se seraient appelé(e)s" ],
   "conditionnelPasseII": [ "me fusse appelé(e)", "te fusses appelé(e)", "se fût appelé(e)", "nous fussions appelé(e)s", "vous fussiez appelé(e)(s)", "se fussent appelé(e)s" ],
-  "imperatif": [ "–", "appelle-toi !", "–", "appelons-nous !", "appelez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "appelle-toi !", "–", "appelons-nous !", "appelez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'imposerais", "t'imposerais", "s'imposerait", "nous imposerions", "vous imposeriez", "s'imposeraient" ],
   "conditionnelPasse": [ "me serais imposé(e)", "te serais imposé(e)", "se serait imposé(e)", "nous serions imposé(e)s", "vous seriez imposé(e)(s)", "se seraient imposé(e)s" ],
   "conditionnelPasseII": [ "me fusse imposé(e)", "te fusses imposé(e)", "se fût imposé(e)", "nous fussions imposé(e)s", "vous fussiez imposé(e)(s)", "se fussent imposé(e)s" ],
-  "imperatif": [ "–", "impose-toi !", "–", "imposons-nous !", "imposez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "impose-toi !", "–", "imposons-nous !", "imposez-vous !", "–" ]
 }

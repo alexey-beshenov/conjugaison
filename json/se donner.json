@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me donnerais", "te donnerais", "se donnerait", "nous donnerions", "vous donneriez", "se donneraient" ],
   "conditionnelPasse": [ "me serais donné(e)", "te serais donné(e)", "se serait donné(e)", "nous serions donné(e)s", "vous seriez donné(e)(s)", "se seraient donné(e)s" ],
   "conditionnelPasseII": [ "me fusse donné(e)", "te fusses donné(e)", "se fût donné(e)", "nous fussions donné(e)s", "vous fussiez donné(e)(s)", "se fussent donné(e)s" ],
-  "imperatif": [ "–", "donne-toi !", "–", "donnons-nous !", "donnez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "donne-toi !", "–", "donnons-nous !", "donnez-vous !", "–" ]
 }

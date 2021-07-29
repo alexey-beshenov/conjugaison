@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'arracherais", "t'arracherais", "s'arracherait", "nous arracherions", "vous arracheriez", "s'arracheraient" ],
   "conditionnelPasse": [ "me serais arraché(e)", "te serais arraché(e)", "se serait arraché(e)", "nous serions arraché(e)s", "vous seriez arraché(e)(s)", "se seraient arraché(e)s" ],
   "conditionnelPasseII": [ "me fusse arraché(e)", "te fusses arraché(e)", "se fût arraché(e)", "nous fussions arraché(e)s", "vous fussiez arraché(e)(s)", "se fussent arraché(e)s" ],
-  "imperatif": [ "–", "arrache-toi !", "–", "arrachons-nous !", "arrachez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "arrache-toi !", "–", "arrachons-nous !", "arrachez-vous !", "–" ]
 }

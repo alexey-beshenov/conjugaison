@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me paierais, payerais", "te paierais, payerais", "se paierait, payerait", "nous paierions, payerions", "vous paieriez, payeriez", "se paieraient, payeraient" ],
   "conditionnelPasse": [ "me serais payé(e)", "te serais payé(e)", "se serait payé(e)", "nous serions payé(e)s", "vous seriez payé(e)(s)", "se seraient payé(e)s" ],
   "conditionnelPasseII": [ "me fusse payé(e)", "te fusses payé(e)", "se fût payé(e)", "nous fussions payé(e)s", "vous fussiez payé(e)(s)", "se fussent payé(e)s" ],
-  "imperatif": [ "–", "paie-toi, paye-toi !", "–", "payons-nous !", "payez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "paie-toi, paye-toi !", "–", "payons-nous !", "payez-vous !", "–" ]
 }

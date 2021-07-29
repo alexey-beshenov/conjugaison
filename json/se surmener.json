@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me surmènerais", "te surmènerais", "se surmènerait", "nous surmènerions", "vous surmèneriez", "se surmèneraient" ],
   "conditionnelPasse": [ "me serais surmené(e)", "te serais surmené(e)", "se serait surmené(e)", "nous serions surmené(e)s", "vous seriez surmené(e)(s)", "se seraient surmené(e)s" ],
   "conditionnelPasseII": [ "me fusse surmené(e)", "te fusses surmené(e)", "se fût surmené(e)", "nous fussions surmené(e)s", "vous fussiez surmené(e)(s)", "se fussent surmené(e)s" ],
-  "imperatif": [ "–", "surmène-toi !", "–", "surmenons-nous !", "surmenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "surmène-toi !", "–", "surmenons-nous !", "surmenez-vous !", "–" ]
 }

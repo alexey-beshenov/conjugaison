@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me connaîtrais", "te connaîtrais", "se connaîtrait", "nous connaîtrions", "vous connaîtriez", "se connaîtraient" ],
   "conditionnelPasse": [ "me serais connu(e)", "te serais connu(e)", "se serait connu(e)", "nous serions connu(e)s", "vous seriez connu(e)(s)", "se seraient connu(e)s" ],
   "conditionnelPasseII": [ "me fusse connu(e)", "te fusses connu(e)", "se fût connu(e)", "nous fussions connu(e)s", "vous fussiez connu(e)(s)", "se fussent connu(e)s" ],
-  "imperatif": [ "–", "connais-toi !", "–", "connaissons-nous !", "connaissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "connais-toi !", "–", "connaissons-nous !", "connaissez-vous !", "–" ]
 }

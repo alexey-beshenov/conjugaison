@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'oublierais", "t'oublierais", "s'oublierait", "nous oublierions", "vous oublieriez", "s'oublieraient" ],
   "conditionnelPasse": [ "me serais oublié(e)", "te serais oublié(e)", "se serait oublié(e)", "nous serions oublié(e)s", "vous seriez oublié(e)(s)", "se seraient oublié(e)s" ],
   "conditionnelPasseII": [ "me fusse oublié(e)", "te fusses oublié(e)", "se fût oublié(e)", "nous fussions oublié(e)s", "vous fussiez oublié(e)(s)", "se fussent oublié(e)s" ],
-  "imperatif": [ "–", "oublie-toi !", "–", "oublions-nous !", "oubliez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "oublie-toi !", "–", "oublions-nous !", "oubliez-vous !", "–" ]
 }

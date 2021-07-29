@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me verserais", "te verserais", "se verserait", "nous verserions", "vous verseriez", "se verseraient" ],
   "conditionnelPasse": [ "me serais versé(e)", "te serais versé(e)", "se serait versé(e)", "nous serions versé(e)s", "vous seriez versé(e)(s)", "se seraient versé(e)s" ],
   "conditionnelPasseII": [ "me fusse versé(e)", "te fusses versé(e)", "se fût versé(e)", "nous fussions versé(e)s", "vous fussiez versé(e)(s)", "se fussent versé(e)s" ],
-  "imperatif": [ "–", "verse-toi !", "–", "versons-nous !", "versez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "verse-toi !", "–", "versons-nous !", "versez-vous !", "–" ]
 }

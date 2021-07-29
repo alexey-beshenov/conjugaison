@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me vendrais", "te vendrais", "se vendrait", "nous vendrions", "vous vendriez", "se vendraient" ],
   "conditionnelPasse": [ "me serais vendu(e)", "te serais vendu(e)", "se serait vendu(e)", "nous serions vendu(e)s", "vous seriez vendu(e)(s)", "se seraient vendu(e)s" ],
   "conditionnelPasseII": [ "me fusse vendu(e)", "te fusses vendu(e)", "se fût vendu(e)", "nous fussions vendu(e)s", "vous fussiez vendu(e)(s)", "se fussent vendu(e)s" ],
-  "imperatif": [ "–", "vends-toi !", "–", "vendons-nous !", "vendez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "vends-toi !", "–", "vendons-nous !", "vendez-vous !", "–" ]
 }

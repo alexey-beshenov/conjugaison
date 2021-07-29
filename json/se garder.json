@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me garderais", "te garderais", "se garderait", "nous garderions", "vous garderiez", "se garderaient" ],
   "conditionnelPasse": [ "me serais gardé(e)", "te serais gardé(e)", "se serait gardé(e)", "nous serions gardé(e)s", "vous seriez gardé(e)(s)", "se seraient gardé(e)s" ],
   "conditionnelPasseII": [ "me fusse gardé(e)", "te fusses gardé(e)", "se fût gardé(e)", "nous fussions gardé(e)s", "vous fussiez gardé(e)(s)", "se fussent gardé(e)s" ],
-  "imperatif": [ "–", "garde-toi !", "–", "gardons-nous !", "gardez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "garde-toi !", "–", "gardons-nous !", "gardez-vous !", "–" ]
 }

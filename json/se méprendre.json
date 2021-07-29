@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me méprendrais", "te méprendrais", "se méprendrait", "nous méprendrions", "vous méprendriez", "se méprendraient" ],
   "conditionnelPasse": [ "me serais mépris(e)", "te serais mépris(e)", "se serait mépris(e)", "nous serions mépris(es)", "vous seriez mépris(e(s))", "se seraient mépris(es)" ],
   "conditionnelPasseII": [ "me fusse mépris(e)", "te fusses mépris(e)", "se fût mépris(e)", "nous fussions mépris(es)", "vous fussiez mépris(e(s))", "se fussent mépris(es)" ],
-  "imperatif": [ "–", "méprends-toi !", "–", "méprenons-nous !", "méprenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "méprends-toi !", "–", "méprenons-nous !", "méprenez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me porterais", "te porterais", "se porterait", "nous porterions", "vous porteriez", "se porteraient" ],
   "conditionnelPasse": [ "me serais porté(e)", "te serais porté(e)", "se serait porté(e)", "nous serions porté(e)s", "vous seriez porté(e)(s)", "se seraient porté(e)s" ],
   "conditionnelPasseII": [ "me fusse porté(e)", "te fusses porté(e)", "se fût porté(e)", "nous fussions porté(e)s", "vous fussiez porté(e)(s)", "se fussent porté(e)s" ],
-  "imperatif": [ "–", "porte-toi !", "–", "portons-nous !", "portez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "porte-toi !", "–", "portons-nous !", "portez-vous !", "–" ]
 }

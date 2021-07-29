@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me mettrais", "te mettrais", "se mettrait", "nous mettrions", "vous mettriez", "se mettraient" ],
   "conditionnelPasse": [ "me serais mis(e)", "te serais mis(e)", "se serait mis(e)", "nous serions mis(es)", "vous seriez mis(e(s))", "se seraient mis(es)" ],
   "conditionnelPasseII": [ "me fusse mis(e)", "te fusses mis(e)", "se fût mis(e)", "nous fussions mis(es)", "vous fussiez mis(e(s))", "se fussent mis(es)" ],
-  "imperatif": [ "–", "mets-toi !", "–", "mettons-nous !", "mettez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "mets-toi !", "–", "mettons-nous !", "mettez-vous !", "–" ]
 }

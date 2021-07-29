@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me surveillerais", "te surveillerais", "se surveillerait", "nous surveillerions", "vous surveilleriez", "se surveilleraient" ],
   "conditionnelPasse": [ "me serais surveillé(e)", "te serais surveillé(e)", "se serait surveillé(e)", "nous serions surveillé(e)s", "vous seriez surveillé(e)(s)", "se seraient surveillé(e)s" ],
   "conditionnelPasseII": [ "me fusse surveillé(e)", "te fusses surveillé(e)", "se fût surveillé(e)", "nous fussions surveillé(e)s", "vous fussiez surveillé(e)(s)", "se fussent surveillé(e)s" ],
-  "imperatif": [ "–", "surveille-toi !", "–", "surveillons-nous !", "surveillez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "surveille-toi !", "–", "surveillons-nous !", "surveillez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'approcherais", "t'approcherais", "s'approcherait", "nous approcherions", "vous approcheriez", "s'approcheraient" ],
   "conditionnelPasse": [ "me serais approché(e)", "te serais approché(e)", "se serait approché(e)", "nous serions approché(e)s", "vous seriez approché(e)(s)", "se seraient approché(e)s" ],
   "conditionnelPasseII": [ "me fusse approché(e)", "te fusses approché(e)", "se fût approché(e)", "nous fussions approché(e)s", "vous fussiez approché(e)(s)", "se fussent approché(e)s" ],
-  "imperatif": [ "–", "approche-toi !", "–", "approchons-nous !", "approchez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "approche-toi !", "–", "approchons-nous !", "approchez-vous !", "–" ]
 }

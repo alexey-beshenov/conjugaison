@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rappellerais", "te rappellerais", "se rappellerait", "nous rappellerions", "vous rappelleriez", "se rappelleraient" ],
   "conditionnelPasse": [ "me serais rappelé(e)", "te serais rappelé(e)", "se serait rappelé(e)", "nous serions rappelé(e)s", "vous seriez rappelé(e)(s)", "se seraient rappelé(e)s" ],
   "conditionnelPasseII": [ "me fusse rappelé(e)", "te fusses rappelé(e)", "se fût rappelé(e)", "nous fussions rappelé(e)s", "vous fussiez rappelé(e)(s)", "se fussent rappelé(e)s" ],
-  "imperatif": [ "–", "rappelle-toi !", "–", "rappelons-nous !", "rappelez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rappelle-toi !", "–", "rappelons-nous !", "rappelez-vous !", "–" ]
 }

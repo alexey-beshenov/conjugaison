@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me redevrais", "te redevrais", "se redevrait", "nous redevrions", "vous redevriez", "se redevraient" ],
   "conditionnelPasse": [ "me serais redû, redue", "te serais redû, redue", "se serait redû, redue", "nous serions redu(e)s", "vous seriez redû, redu(e)s", "se seraient redu(e)s" ],
   "conditionnelPasseII": [ "me fusse redû, redue", "te fusses redû, redue", "se fût redû, redue", "nous fussions redu(e)s", "vous fussiez redû, redu(e)s", "se fussent redu(e)s" ],
-  "imperatif": [ "–", "redois-toi !", "–", "redevons-nous !", "redevez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "redois-toi !", "–", "redevons-nous !", "redevez-vous !", "–" ]
 }

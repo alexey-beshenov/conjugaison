@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me reprendrais", "te reprendrais", "se reprendrait", "nous reprendrions", "vous reprendriez", "se reprendraient" ],
   "conditionnelPasse": [ "me serais repris(e)", "te serais repris(e)", "se serait repris(e)", "nous serions repris(es)", "vous seriez repris(e(s))", "se seraient repris(es)" ],
   "conditionnelPasseII": [ "me fusse repris(e)", "te fusses repris(e)", "se fût repris(e)", "nous fussions repris(es)", "vous fussiez repris(e(s))", "se fussent repris(es)" ],
-  "imperatif": [ "–", "reprends-toi !", "–", "reprenons-nous !", "reprenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "reprends-toi !", "–", "reprenons-nous !", "reprenez-vous !", "–" ]
 }

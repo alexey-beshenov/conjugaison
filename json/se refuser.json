@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me refuserais", "te refuserais", "se refuserait", "nous refuserions", "vous refuseriez", "se refuseraient" ],
   "conditionnelPasse": [ "me serais refusé(e)", "te serais refusé(e)", "se serait refusé(e)", "nous serions refusé(e)s", "vous seriez refusé(e)(s)", "se seraient refusé(e)s" ],
   "conditionnelPasseII": [ "me fusse refusé(e)", "te fusses refusé(e)", "se fût refusé(e)", "nous fussions refusé(e)s", "vous fussiez refusé(e)(s)", "se fussent refusé(e)s" ],
-  "imperatif": [ "–", "refuse-toi !", "–", "refusons-nous !", "refusez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "refuse-toi !", "–", "refusons-nous !", "refusez-vous !", "–" ]
 }

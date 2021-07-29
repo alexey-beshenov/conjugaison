@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me surproduirais", "te surproduirais", "se surproduirait", "nous surproduirions", "vous surproduiriez", "se surproduiraient" ],
   "conditionnelPasse": [ "me serais surproduit(e)", "te serais surproduit(e)", "se serait surproduit(e)", "nous serions surproduit(e)s", "vous seriez surproduit(e)(s)", "se seraient surproduit(e)s" ],
   "conditionnelPasseII": [ "me fusse surproduit(e)", "te fusses surproduit(e)", "se fût surproduit(e)", "nous fussions surproduit(e)s", "vous fussiez surproduit(e)(s)", "se fussent surproduit(e)s" ],
-  "imperatif": [ "–", "surproduis-toi !", "–", "surproduisons-nous !", "surproduisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "surproduis-toi !", "–", "surproduisons-nous !", "surproduisez-vous !", "–" ]
 }

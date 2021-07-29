@@ -2,21 +2,12 @@
   "infinitif": "se reclure",
   "participePresent": "se recluant",
   "participePasse": "reclus",
-  "present": [ "–", "–", "–", "–", "–", "–" ],
-  "imparfait": [ "–", "–", "–", "–", "–", "–" ],
-  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
-  "futurSimple": [ "–", "–", "–", "–", "–", "–" ],
   "passeCompose": [ "me suis reclus(e)", "t'es reclus(e)", "s'est reclus(e)", "nous sommes reclus(es)", "vous êtes reclus(e(s))", "se sont reclus(es)" ],
   "plusQueParfait": [ "m'étais reclus(e)", "t'étais reclus(e)", "s'était reclus(e)", "nous étions reclus(es)", "vous étiez reclus(e(s))", "s'étaient reclus(es)" ],
   "passeAnterieur": [ "me fus reclus(e)", "te fus reclus(e)", "se fut reclus(e)", "nous fûmes reclus(es)", "vous fûtes reclus(e(s))", "se furent reclus(es)" ],
   "futurAnterieur": [ "me serai reclus(e)", "te seras reclus(e)", "se sera reclus(e)", "nous serons reclus(es)", "vous serez reclus(e(s))", "se seront reclus(es)" ],
-  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPasse": [ "me sois reclus(e)", "te sois reclus(e)", "se soit reclus(e)", "nous soyons reclus(es)", "vous soyez reclus(e(s))", "se soient reclus(es)" ],
   "subjonctifPlusQueParfait": [ "me fusse reclus(e)", "te fusses reclus(e)", "se fût reclus(e)", "nous fussions reclus(es)", "vous fussiez reclus(e(s))", "se fussent reclus(es)" ],
-  "conditionnelPresent": [ "–", "–", "–", "–", "–", "–" ],
   "conditionnelPasse": [ "me serais reclus(e)", "te serais reclus(e)", "se serait reclus(e)", "nous serions reclus(es)", "vous seriez reclus(e(s))", "se seraient reclus(es)" ],
-  "conditionnelPasseII": [ "me fusse reclus(e)", "te fusses reclus(e)", "se fût reclus(e)", "nous fussions reclus(es)", "vous fussiez reclus(e(s))", "se fussent reclus(es)" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPasseII": [ "me fusse reclus(e)", "te fusses reclus(e)", "se fût reclus(e)", "nous fussions reclus(es)", "vous fussiez reclus(e(s))", "se fussent reclus(es)" ]
 }

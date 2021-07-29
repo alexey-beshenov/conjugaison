@@ -4,14 +4,9 @@
   "participePasse": "seyant",
   "present": [ "–", "–", "sied", "–", "–", "siéent" ],
   "imparfait": [ "–", "–", "seyait", "–", "–", "seyaient" ],
-  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
   "futurSimple": [ "–", "–", "siéra", "–", "–", "siéront" ],
   "subjonctifPresent": [ "–", "–", "siée", "–", "–", "siéent" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPresent": [ "–", "–", "siérait", "–", "–", "siéraient" ],
-  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPresent": [ "–", "–", "siée", "–", "–", "siéent" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
-  "conditionnelPresent": [ "–", "–", "siérait", "–", "–", "siéraient" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPresent": [ "–", "–", "siérait", "–", "–", "siéraient" ]
 }

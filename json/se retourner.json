@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me retournerais", "te retournerais", "se retournerait", "nous retournerions", "vous retourneriez", "se retourneraient" ],
   "conditionnelPasse": [ "me serais retourné(e)", "te serais retourné(e)", "se serait retourné(e)", "nous serions retourné(e)s", "vous seriez retourné(e)(s)", "se seraient retourné(e)s" ],
   "conditionnelPasseII": [ "me fusse retourné(e)", "te fusses retourné(e)", "se fût retourné(e)", "nous fussions retourné(e)s", "vous fussiez retourné(e)(s)", "se fussent retourné(e)s" ],
-  "imperatif": [ "–", "retourne-toi !", "–", "retournons-nous !", "retournez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "retourne-toi !", "–", "retournons-nous !", "retournez-vous !", "–" ]
 }

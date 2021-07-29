@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me vouvoierais", "te vouvoierais", "se vouvoierait", "nous vouvoierions", "vous vouvoieriez", "se vouvoieraient" ],
   "conditionnelPasse": [ "me serais vouvoyé(e)", "te serais vouvoyé(e)", "se serait vouvoyé(e)", "nous serions vouvoyé(e)s", "vous seriez vouvoyé(e)(s)", "se seraient vouvoyé(e)s" ],
   "conditionnelPasseII": [ "me fusse vouvoyé(e)", "te fusses vouvoyé(e)", "se fût vouvoyé(e)", "nous fussions vouvoyé(e)s", "vous fussiez vouvoyé(e)(s)", "se fussent vouvoyé(e)s" ],
-  "imperatif": [ "–", "vouvoie-toi !", "–", "vouvoyons-nous !", "vouvoyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "vouvoie-toi !", "–", "vouvoyons-nous !", "vouvoyez-vous !", "–" ]
 }

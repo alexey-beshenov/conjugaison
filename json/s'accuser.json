@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'accuserais", "t'accuserais", "s'accuserait", "nous accuserions", "vous accuseriez", "s'accuseraient" ],
   "conditionnelPasse": [ "me serais accusé(e)", "te serais accusé(e)", "se serait accusé(e)", "nous serions accusé(e)s", "vous seriez accusé(e)(s)", "se seraient accusé(e)s" ],
   "conditionnelPasseII": [ "me fusse accusé(e)", "te fusses accusé(e)", "se fût accusé(e)", "nous fussions accusé(e)s", "vous fussiez accusé(e)(s)", "se fussent accusé(e)s" ],
-  "imperatif": [ "–", "accuse-toi !", "–", "accusons-nous !", "accusez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "accuse-toi !", "–", "accusons-nous !", "accusez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me frapperais", "te frapperais", "se frapperait", "nous frapperions", "vous frapperiez", "se frapperaient" ],
   "conditionnelPasse": [ "me serais frappé(e)", "te serais frappé(e)", "se serait frappé(e)", "nous serions frappé(e)s", "vous seriez frappé(e)(s)", "se seraient frappé(e)s" ],
   "conditionnelPasseII": [ "me fusse frappé(e)", "te fusses frappé(e)", "se fût frappé(e)", "nous fussions frappé(e)s", "vous fussiez frappé(e)(s)", "se fussent frappé(e)s" ],
-  "imperatif": [ "–", "frappe-toi !", "–", "frappons-nous !", "frappez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "frappe-toi !", "–", "frappons-nous !", "frappez-vous !", "–" ]
 }

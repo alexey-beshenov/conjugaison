@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'attirerais", "t'attirerais", "s'attirerait", "nous attirerions", "vous attireriez", "s'attireraient" ],
   "conditionnelPasse": [ "me serais attiré(e)", "te serais attiré(e)", "se serait attiré(e)", "nous serions attiré(e)s", "vous seriez attiré(e)(s)", "se seraient attiré(e)s" ],
   "conditionnelPasseII": [ "me fusse attiré(e)", "te fusses attiré(e)", "se fût attiré(e)", "nous fussions attiré(e)s", "vous fussiez attiré(e)(s)", "se fussent attiré(e)s" ],
-  "imperatif": [ "–", "attire-toi !", "–", "attirons-nous !", "attirez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "attire-toi !", "–", "attirons-nous !", "attirez-vous !", "–" ]
 }

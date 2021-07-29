@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'accroîtrais", "t'accroîtrais", "s'accroîtrait", "nous accroîtrions", "vous accroîtriez", "s'accroîtraient" ],
   "conditionnelPasse": [ "me serais accru(e)", "te serais accru(e)", "se serait accru(e)", "nous serions accru(e)s", "vous seriez accru(e)(s)", "se seraient accru(e)s" ],
   "conditionnelPasseII": [ "me fusse accru(e)", "te fusses accru(e)", "se fût accru(e)", "nous fussions accru(e)s", "vous fussiez accru(e)(s)", "se fussent accru(e)s" ],
-  "imperatif": [ "–", "accrois-toi !", "–", "accroissons-nous !", "accroissez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "accrois-toi !", "–", "accroissons-nous !", "accroissez-vous !", "–" ]
 }

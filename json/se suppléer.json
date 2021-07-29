@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me suppléerais", "te suppléerais", "se suppléerait", "nous suppléerions", "vous suppléeriez", "se suppléeraient" ],
   "conditionnelPasse": [ "me serais suppléé(e)", "te serais suppléé(e)", "se serait suppléé(e)", "nous serions suppléé(e)s", "vous seriez suppléé(e)(s)", "se seraient suppléé(e)s" ],
   "conditionnelPasseII": [ "me fusse suppléé(e)", "te fusses suppléé(e)", "se fût suppléé(e)", "nous fussions suppléé(e)s", "vous fussiez suppléé(e)(s)", "se fussent suppléé(e)s" ],
-  "imperatif": [ "–", "supplée-toi !", "–", "suppléons-nous !", "suppléez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "supplée-toi !", "–", "suppléons-nous !", "suppléez-vous !", "–" ]
 }

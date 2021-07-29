@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me révélerais", "te révélerais", "se révélerait", "nous révélerions", "vous révéleriez", "se révéleraient" ],
   "conditionnelPasse": [ "me serais révélé(e)", "te serais révélé(e)", "se serait révélé(e)", "nous serions révélé(e)s", "vous seriez révélé(e)(s)", "se seraient révélé(e)s" ],
   "conditionnelPasseII": [ "me fusse révélé(e)", "te fusses révélé(e)", "se fût révélé(e)", "nous fussions révélé(e)s", "vous fussiez révélé(e)(s)", "se fussent révélé(e)s" ],
-  "imperatif": [ "–", "révèle-toi !", "–", "révélons-nous !", "révélez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "révèle-toi !", "–", "révélons-nous !", "révélez-vous !", "–" ]
 }

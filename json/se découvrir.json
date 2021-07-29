@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me découvrirais", "te découvrirais", "se découvrirait", "nous découvririons", "vous découvririez", "se découvriraient" ],
   "conditionnelPasse": [ "me serais découvert(e)", "te serais découvert(e)", "se serait découvert(e)", "nous serions découvert(e)s", "vous seriez découvert(e)(s)", "se seraient découvert(e)s" ],
   "conditionnelPasseII": [ "me fusse découvert(e)", "te fusses découvert(e)", "se fût découvert(e)", "nous fussions découvert(e)s", "vous fussiez découvert(e)(s)", "se fussent découvert(e)s" ],
-  "imperatif": [ "–", "découvre-toi !", "–", "découvrons-nous !", "découvrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "découvre-toi !", "–", "découvrons-nous !", "découvrez-vous !", "–" ]
 }

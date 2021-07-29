@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'attacherais", "t'attacherais", "s'attacherait", "nous attacherions", "vous attacheriez", "s'attacheraient" ],
   "conditionnelPasse": [ "me serais attaché(e)", "te serais attaché(e)", "se serait attaché(e)", "nous serions attaché(e)s", "vous seriez attaché(e)(s)", "se seraient attaché(e)s" ],
   "conditionnelPasseII": [ "me fusse attaché(e)", "te fusses attaché(e)", "se fût attaché(e)", "nous fussions attaché(e)s", "vous fussiez attaché(e)(s)", "se fussent attaché(e)s" ],
-  "imperatif": [ "–", "attache-toi !", "–", "attachons-nous !", "attachez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "attache-toi !", "–", "attachons-nous !", "attachez-vous !", "–" ]
 }

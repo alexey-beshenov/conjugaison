@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me transmettrais", "te transmettrais", "se transmettrait", "nous transmettrions", "vous transmettriez", "se transmettraient" ],
   "conditionnelPasse": [ "me serais transmis(e)", "te serais transmis(e)", "se serait transmis(e)", "nous serions transmis(es)", "vous seriez transmis(e(s))", "se seraient transmis(es)" ],
   "conditionnelPasseII": [ "me fusse transmis(e)", "te fusses transmis(e)", "se fût transmis(e)", "nous fussions transmis(es)", "vous fussiez transmis(e(s))", "se fussent transmis(es)" ],
-  "imperatif": [ "–", "transmets-toi !", "–", "transmettons-nous !", "transmettez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "transmets-toi !", "–", "transmettons-nous !", "transmettez-vous !", "–" ]
 }

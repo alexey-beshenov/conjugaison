@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'achèterais", "t'achèterais", "s'achèterait", "nous achèterions", "vous achèteriez", "s'achèteraient" ],
   "conditionnelPasse": [ "me serais acheté", "te serais acheté", "se serait acheté", "nous serions acheté", "vous seriez acheté", "se seraient acheté" ],
   "conditionnelPasseII": [ "me fusse acheté", "te fusses acheté", "se fût acheté", "nous fussions acheté", "vous fussiez acheté", "se fussent acheté" ],
-  "imperatif": [ "–", "achète-toi !", "–", "achetons-nous !", "achetez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "achète-toi !", "–", "achetons-nous !", "achetez-vous !", "–" ]
 }

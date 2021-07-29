@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'engagerais", "t'engagerais", "s'engagerait", "nous engagerions", "vous engageriez", "s'engageraient" ],
   "conditionnelPasse": [ "me serais engagé(e)", "te serais engagé(e)", "se serait engagé(e)", "nous serions engagé(e)s", "vous seriez engagé(e)(s)", "se seraient engagé(e)s" ],
   "conditionnelPasseII": [ "me fusse engagé(e)", "te fusses engagé(e)", "se fût engagé(e)", "nous fussions engagé(e)s", "vous fussiez engagé(e)(s)", "se fussent engagé(e)s" ],
-  "imperatif": [ "–", "engage-toi !", "–", "engageons-nous !", "engagez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "engage-toi !", "–", "engageons-nous !", "engagez-vous !", "–" ]
 }

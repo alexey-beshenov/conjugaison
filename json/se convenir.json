@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me conviendrais", "te conviendrais", "se conviendrait", "nous conviendrions", "vous conviendriez", "se conviendraient" ],
   "conditionnelPasse": [ "me serais convenu", "te serais convenu", "se serait convenu", "nous serions convenu", "vous seriez convenu", "se seraient convenu" ],
   "conditionnelPasseII": [ "me fusse convenu", "te fusses convenu", "se fût convenu", "nous fussions convenu", "vous fussiez convenu", "se fussent convenu" ],
-  "imperatif": [ "–", "conviens-toi !", "–", "convenons-nous !", "convenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "conviens-toi !", "–", "convenons-nous !", "convenez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me parlerais", "te parlerais", "se parlerait", "nous parlerions", "vous parleriez", "se parleraient" ],
   "conditionnelPasse": [ "me serais parlé", "te serais parlé", "se serait parlé", "nous serions parlé", "vous seriez parlé", "se seraient parlé" ],
   "conditionnelPasseII": [ "me fusse parlé", "te fusses parlé", "se fût parlé", "nous fussions parlé", "vous fussiez parlé", "se fussent parlé" ],
-  "imperatif": [ "–", "parle-toi !", "–", "parlons-nous !", "parlez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "parle-toi !", "–", "parlons-nous !", "parlez-vous !", "–" ]
 }

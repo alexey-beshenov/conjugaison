@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me jouerais", "te jouerais", "se jouerait", "nous jouerions", "vous joueriez", "se joueraient" ],
   "conditionnelPasse": [ "me serais joué(e)", "te serais joué(e)", "se serait joué(e)", "nous serions joué(e)s", "vous seriez joué(e)(s)", "se seraient joué(e)s" ],
   "conditionnelPasseII": [ "me fusse joué(e)", "te fusses joué(e)", "se fût joué(e)", "nous fussions joué(e)s", "vous fussiez joué(e)(s)", "se fussent joué(e)s" ],
-  "imperatif": [ "–", "joue-toi !", "–", "jouons-nous !", "jouez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "joue-toi !", "–", "jouons-nous !", "jouez-vous !", "–" ]
 }

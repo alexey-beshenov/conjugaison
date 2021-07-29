@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me protégerais", "te protégerais", "se protégerait", "nous protégerions", "vous protégeriez", "se protégeraient" ],
   "conditionnelPasse": [ "me serais protégé(e)", "te serais protégé(e)", "se serait protégé(e)", "nous serions protégé(e)s", "vous seriez protégé(e)(s)", "se seraient protégé(e)s" ],
   "conditionnelPasseII": [ "me fusse protégé(e)", "te fusses protégé(e)", "se fût protégé(e)", "nous fussions protégé(e)s", "vous fussiez protégé(e)(s)", "se fussent protégé(e)s" ],
-  "imperatif": [ "–", "protège-toi !", "–", "protégeons-nous !", "protégez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "protège-toi !", "–", "protégeons-nous !", "protégez-vous !", "–" ]
 }

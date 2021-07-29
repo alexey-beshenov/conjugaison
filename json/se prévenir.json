@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me préviendrais", "te préviendrais", "se préviendrait", "nous préviendrions", "vous préviendriez", "se préviendraient" ],
   "conditionnelPasse": [ "me serais prévenu(e)", "te serais prévenu(e)", "se serait prévenu(e)", "nous serions prévenu(e)s", "vous seriez prévenu(e)(s)", "se seraient prévenu(e)s" ],
   "conditionnelPasseII": [ "me fusse prévenu(e)", "te fusses prévenu(e)", "se fût prévenu(e)", "nous fussions prévenu(e)s", "vous fussiez prévenu(e)(s)", "se fussent prévenu(e)s" ],
-  "imperatif": [ "–", "préviens-toi !", "–", "prévenons-nous !", "prévenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "préviens-toi !", "–", "prévenons-nous !", "prévenez-vous !", "–" ]
 }

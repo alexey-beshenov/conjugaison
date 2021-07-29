@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me fermerais", "te fermerais", "se fermerait", "nous fermerions", "vous fermeriez", "se fermeraient" ],
   "conditionnelPasse": [ "me serais fermé(e)", "te serais fermé(e)", "se serait fermé(e)", "nous serions fermé(e)s", "vous seriez fermé(e)(s)", "se seraient fermé(e)s" ],
   "conditionnelPasseII": [ "me fusse fermé(e)", "te fusses fermé(e)", "se fût fermé(e)", "nous fussions fermé(e)s", "vous fussiez fermé(e)(s)", "se fussent fermé(e)s" ],
-  "imperatif": [ "–", "ferme-toi !", "–", "fermons-nous !", "fermez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "ferme-toi !", "–", "fermons-nous !", "fermez-vous !", "–" ]
 }

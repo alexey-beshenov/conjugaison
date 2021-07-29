@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'achèverais", "t'achèverais", "s'achèverait", "nous achèverions", "vous achèveriez", "s'achèveraient" ],
   "conditionnelPasse": [ "me serais achevé(e)", "te serais achevé(e)", "se serait achevé(e)", "nous serions achevé(e)s", "vous seriez achevé(e)(s)", "se seraient achevé(e)s" ],
   "conditionnelPasseII": [ "me fusse achevé(e)", "te fusses achevé(e)", "se fût achevé(e)", "nous fussions achevé(e)s", "vous fussiez achevé(e)(s)", "se fussent achevé(e)s" ],
-  "imperatif": [ "–", "achève-toi !", "–", "achevons-nous !", "achevez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "achève-toi !", "–", "achevons-nous !", "achevez-vous !", "–" ]
 }

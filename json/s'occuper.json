@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'occuperais", "t'occuperais", "s'occuperait", "nous occuperions", "vous occuperiez", "s'occuperaient" ],
   "conditionnelPasse": [ "me serais occupé(e)", "te serais occupé(e)", "se serait occupé(e)", "nous serions occupé(e)s", "vous seriez occupé(e)(s)", "se seraient occupé(e)s" ],
   "conditionnelPasseII": [ "me fusse occupé(e)", "te fusses occupé(e)", "se fût occupé(e)", "nous fussions occupé(e)s", "vous fussiez occupé(e)(s)", "se fussent occupé(e)s" ],
-  "imperatif": [ "–", "occupe-toi !", "–", "occupons-nous !", "occupez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "occupe-toi !", "–", "occupons-nous !", "occupez-vous !", "–" ]
 }

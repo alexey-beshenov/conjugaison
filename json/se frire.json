@@ -3,20 +3,15 @@
   "participePresent": "se frisant",
   "participePasse": "frit",
   "present": [ "me fris", "te fris", "se frit", "–", "–", "–" ],
-  "imparfait": [ "–", "–", "–", "–", "–", "–" ],
-  "passeSimple": [ "–", "–", "–", "–", "–", "–" ],
   "futurSimple": [ "me frirai", "te friras", "se frira", "–", "–", "–" ],
   "passeCompose": [ "me suis frit(e)", "t'es frit(e)", "s'est frit(e)", "nous sommes frit(e)s", "vous êtes frit(e)(s)", "se sont frit(e)s" ],
   "plusQueParfait": [ "m'étais frit(e)", "t'étais frit(e)", "s'était frit(e)", "nous étions frit(e)s", "vous étiez frit(e)(s)", "s'étaient frit(e)s" ],
   "passeAnterieur": [ "me fus frit(e)", "te fus frit(e)", "se fut frit(e)", "nous fûmes frit(e)s", "vous fûtes frit(e)(s)", "se furent frit(e)s" ],
   "futurAnterieur": [ "me serai frit(e)", "te seras frit(e)", "se sera frit(e)", "nous serons frit(e)s", "vous serez frit(e)(s)", "se seront frit(e)s" ],
-  "subjonctifPresent": [ "–", "–", "–", "–", "–", "–" ],
-  "subjonctifImparfait": [ "–", "–", "–", "–", "–", "–" ],
   "subjonctifPasse": [ "me sois frit(e)", "te sois frit(e)", "se soit frit(e)", "nous soyons frit(e)s", "vous soyez frit(e)(s)", "se soient frit(e)s" ],
   "subjonctifPlusQueParfait": [ "me fusse frit(e)", "te fusses frit(e)", "se fût frit(e)", "nous fussions frit(e)s", "vous fussiez frit(e)(s)", "se fussent frit(e)s" ],
   "conditionnelPresent": [ "me frirais", "te frirais", "se frirait", "–", "–", "–" ],
   "conditionnelPasse": [ "me serais frit(e)", "te serais frit(e)", "se serait frit(e)", "nous serions frit(e)s", "vous seriez frit(e)(s)", "se seraient frit(e)s" ],
   "conditionnelPasseII": [ "me fusse frit(e)", "te fusses frit(e)", "se fût frit(e)", "nous fussions frit(e)s", "vous fussiez frit(e)(s)", "se fussent frit(e)s" ],
-  "imperatif": [ "–", "fris-toi !", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "fris-toi !", "–", "–", "–", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me prêterais", "te prêterais", "se prêterait", "nous prêterions", "vous prêteriez", "se prêteraient" ],
   "conditionnelPasse": [ "me serais prêté(e)", "te serais prêté(e)", "se serait prêté(e)", "nous serions prêté(e)s", "vous seriez prêté(e)(s)", "se seraient prêté(e)s" ],
   "conditionnelPasseII": [ "me fusse prêté(e)", "te fusses prêté(e)", "se fût prêté(e)", "nous fussions prêté(e)s", "vous fussiez prêté(e)(s)", "se fussent prêté(e)s" ],
-  "imperatif": [ "–", "prête-toi !", "–", "prêtons-nous !", "prêtez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "prête-toi !", "–", "prêtons-nous !", "prêtez-vous !", "–" ]
 }

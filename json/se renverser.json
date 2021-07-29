@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me renverserais", "te renverserais", "se renverserait", "nous renverserions", "vous renverseriez", "se renverseraient" ],
   "conditionnelPasse": [ "me serais renversé(e)", "te serais renversé(e)", "se serait renversé(e)", "nous serions renversé(e)s", "vous seriez renversé(e)(s)", "se seraient renversé(e)s" ],
   "conditionnelPasseII": [ "me fusse renversé(e)", "te fusses renversé(e)", "se fût renversé(e)", "nous fussions renversé(e)s", "vous fussiez renversé(e)(s)", "se fussent renversé(e)s" ],
-  "imperatif": [ "–", "renverse-toi !", "–", "renversons-nous !", "renversez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "renverse-toi !", "–", "renversons-nous !", "renversez-vous !", "–" ]
 }

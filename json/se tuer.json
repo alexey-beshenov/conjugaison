@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me tuerais", "te tuerais", "se tuerait", "nous tuerions", "vous tueriez", "se tueraient" ],
   "conditionnelPasse": [ "me serais tué(e)", "te serais tué(e)", "se serait tué(e)", "nous serions tué(e)s", "vous seriez tué(e)(s)", "se seraient tué(e)s" ],
   "conditionnelPasseII": [ "me fusse tué(e)", "te fusses tué(e)", "se fût tué(e)", "nous fussions tué(e)s", "vous fussiez tué(e)(s)", "se fussent tué(e)s" ],
-  "imperatif": [ "–", "tue-toi !", "–", "tuons-nous !", "tuez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "tue-toi !", "–", "tuons-nous !", "tuez-vous !", "–" ]
 }

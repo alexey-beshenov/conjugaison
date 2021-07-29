@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me briserais", "te briserais", "se briserait", "nous briserions", "vous briseriez", "se briseraient" ],
   "conditionnelPasse": [ "me serais brisé(e)", "te serais brisé(e)", "se serait brisé(e)", "nous serions brisé(e)s", "vous seriez brisé(e)(s)", "se seraient brisé(e)s" ],
   "conditionnelPasseII": [ "me fusse brisé(e)", "te fusses brisé(e)", "se fût brisé(e)", "nous fussions brisé(e)s", "vous fussiez brisé(e)(s)", "se fussent brisé(e)s" ],
-  "imperatif": [ "–", "brise-toi !", "–", "brisons-nous !", "brisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "brise-toi !", "–", "brisons-nous !", "brisez-vous !", "–" ]
 }

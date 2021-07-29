@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me surgèlerais", "te surgèlerais", "se surgèlerait", "nous surgèlerions", "vous surgèleriez", "se surgèleraient" ],
   "conditionnelPasse": [ "me serais surgelé(e)", "te serais surgelé(e)", "se serait surgelé(e)", "nous serions surgelé(e)s", "vous seriez surgelé(e)(s)", "se seraient surgelé(e)s" ],
   "conditionnelPasseII": [ "me fusse surgelé(e)", "te fusses surgelé(e)", "se fût surgelé(e)", "nous fussions surgelé(e)s", "vous fussiez surgelé(e)(s)", "se fussent surgelé(e)s" ],
-  "imperatif": [ "–", "surgèle-toi !", "–", "surgelons-nous !", "surgelez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "surgèle-toi !", "–", "surgelons-nous !", "surgelez-vous !", "–" ]
 }

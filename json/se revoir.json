@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me reverrais", "te reverrais", "se reverrait", "nous reverrions", "vous reverriez", "se reverraient" ],
   "conditionnelPasse": [ "me serais revu(e)", "te serais revu(e)", "se serait revu(e)", "nous serions revu(e)s", "vous seriez revu(e)(s)", "se seraient revu(e)s" ],
   "conditionnelPasseII": [ "me fusse revu(e)", "te fusses revu(e)", "se fût revu(e)", "nous fussions revu(e)s", "vous fussiez revu(e)(s)", "se fussent revu(e)s" ],
-  "imperatif": [ "–", "revois-toi !", "–", "revoyons-nous !", "revoyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "revois-toi !", "–", "revoyons-nous !", "revoyez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'accompagnerais", "t'accompagnerais", "s'accompagnerait", "nous accompagnerions", "vous accompagneriez", "s'accompagneraient" ],
   "conditionnelPasse": [ "me serais accompagné(e)", "te serais accompagné(e)", "se serait accompagné(e)", "nous serions accompagné(e)s", "vous seriez accompagné(e)(s)", "se seraient accompagné(e)s" ],
   "conditionnelPasseII": [ "me fusse accompagné(e)", "te fusses accompagné(e)", "se fût accompagné(e)", "nous fussions accompagné(e)s", "vous fussiez accompagné(e)(s)", "se fussent accompagné(e)s" ],
-  "imperatif": [ "–", "accompagne-toi !", "–", "accompagnons-nous !", "accompagnez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "accompagne-toi !", "–", "accompagnons-nous !", "accompagnez-vous !", "–" ]
 }

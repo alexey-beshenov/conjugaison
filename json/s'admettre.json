@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'admettrais", "t'admettrais", "s'admettrait", "nous admettrions", "vous admettriez", "s'admettraient" ],
   "conditionnelPasse": [ "me serais admis(e)", "te serais admis(e)", "se serait admis(e)", "nous serions admis(es)", "vous seriez admis(e(s))", "se seraient admis(es)" ],
   "conditionnelPasseII": [ "me fusse admis(e)", "te fusses admis(e)", "se fût admis(e)", "nous fussions admis(es)", "vous fussiez admis(e(s))", "se fussent admis(es)" ],
-  "imperatif": [ "–", "admets-toi !", "–", "admettons-nous !", "admettez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "admets-toi !", "–", "admettons-nous !", "admettez-vous !", "–" ]
 }

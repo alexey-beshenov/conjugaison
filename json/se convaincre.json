@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me convaincrais", "te convaincrais", "se convaincrait", "nous convaincrions", "vous convaincriez", "se convaincraient" ],
   "conditionnelPasse": [ "me serais convaincu(e)", "te serais convaincu(e)", "se serait convaincu(e)", "nous serions convaincu(e)s", "vous seriez convaincu(e)(s)", "se seraient convaincu(e)s" ],
   "conditionnelPasseII": [ "me fusse convaincu(e)", "te fusses convaincu(e)", "se fût convaincu(e)", "nous fussions convaincu(e)s", "vous fussiez convaincu(e)(s)", "se fussent convaincu(e)s" ],
-  "imperatif": [ "–", "convaincs-toi !", "–", "convainquons-nous !", "convainquez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "convaincs-toi !", "–", "convainquons-nous !", "convainquez-vous !", "–" ]
 }

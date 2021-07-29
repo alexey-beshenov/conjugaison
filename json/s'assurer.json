@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'assurerais", "t'assurerais", "s'assurerait", "nous assurerions", "vous assureriez", "s'assureraient" ],
   "conditionnelPasse": [ "me serais assuré(e)", "te serais assuré(e)", "se serait assuré(e)", "nous serions assuré(e)s", "vous seriez assuré(e)(s)", "se seraient assuré(e)s" ],
   "conditionnelPasseII": [ "me fusse assuré(e)", "te fusses assuré(e)", "se fût assuré(e)", "nous fussions assuré(e)s", "vous fussiez assuré(e)(s)", "se fussent assuré(e)s" ],
-  "imperatif": [ "–", "assure-toi !", "–", "assurons-nous !", "assurez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "assure-toi !", "–", "assurons-nous !", "assurez-vous !", "–" ]
 }

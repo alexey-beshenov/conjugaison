@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me sortirais", "te sortirais", "se sortirait", "nous sortirions", "vous sortiriez", "se sortiraient" ],
   "conditionnelPasse": [ "me serais sorti(e)", "te serais sorti(e)", "se serait sorti(e)", "nous serions sorti(e)s", "vous seriez sorti(e)(s)", "se seraient sorti(e)s" ],
   "conditionnelPasseII": [ "me fusse sorti(e)", "te fusses sorti(e)", "se fût sorti(e)", "nous fussions sorti(e)s", "vous fussiez sorti(e)(s)", "se fussent sorti(e)s" ],
-  "imperatif": [ "–", "sors-toi !", "–", "sortons-nous !", "sortez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "sors-toi !", "–", "sortons-nous !", "sortez-vous !", "–" ]
 }

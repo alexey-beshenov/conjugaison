@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me reconquerrais", "te reconquerrais", "se reconquerrait", "nous reconquerrions", "vous reconquerriez", "se reconquerraient" ],
   "conditionnelPasse": [ "me serais reconquis(e)", "te serais reconquis(e)", "se serait reconquis(e)", "nous serions reconquis(es)", "vous seriez reconquis(e(s))", "se seraient reconquis(es)" ],
   "conditionnelPasseII": [ "me fusse reconquis(e)", "te fusses reconquis(e)", "se fût reconquis(e)", "nous fussions reconquis(es)", "vous fussiez reconquis(e(s))", "se fussent reconquis(es)" ],
-  "imperatif": [ "–", "reconquiers-toi !", "–", "reconquérons-nous !", "reconquérez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "reconquiers-toi !", "–", "reconquérons-nous !", "reconquérez-vous !", "–" ]
 }

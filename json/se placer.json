@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me placerais", "te placerais", "se placerait", "nous placerions", "vous placeriez", "se placeraient" ],
   "conditionnelPasse": [ "me serais placé(e)", "te serais placé(e)", "se serait placé(e)", "nous serions placé(e)s", "vous seriez placé(e)(s)", "se seraient placé(e)s" ],
   "conditionnelPasseII": [ "me fusse placé(e)", "te fusses placé(e)", "se fût placé(e)", "nous fussions placé(e)s", "vous fussiez placé(e)(s)", "se fussent placé(e)s" ],
-  "imperatif": [ "–", "place-toi !", "–", "plaçons-nous !", "placez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "place-toi !", "–", "plaçons-nous !", "placez-vous !", "–" ]
 }

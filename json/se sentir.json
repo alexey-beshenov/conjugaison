@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me sentirais", "te sentirais", "se sentirait", "nous sentirions", "vous sentiriez", "se sentiraient" ],
   "conditionnelPasse": [ "me serais senti(e)", "te serais senti(e)", "se serait senti(e)", "nous serions senti(e)s", "vous seriez senti(e)(s)", "se seraient senti(e)s" ],
   "conditionnelPasseII": [ "me fusse senti(e)", "te fusses senti(e)", "se fût senti(e)", "nous fussions senti(e)s", "vous fussiez senti(e)(s)", "se fussent senti(e)s" ],
-  "imperatif": [ "–", "sens-toi !", "–", "sentons-nous !", "sentez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "sens-toi !", "–", "sentons-nous !", "sentez-vous !", "–" ]
 }

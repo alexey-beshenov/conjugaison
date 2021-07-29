@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me moudrais", "te moudrais", "se moudrait", "nous moudrions", "vous moudriez", "se moudraient" ],
   "conditionnelPasse": [ "me serais moulu(e)", "te serais moulu(e)", "se serait moulu(e)", "nous serions moulu(e)s", "vous seriez moulu(e)(s)", "se seraient moulu(e)s" ],
   "conditionnelPasseII": [ "me fusse moulu(e)", "te fusses moulu(e)", "se fût moulu(e)", "nous fussions moulu(e)s", "vous fussiez moulu(e)(s)", "se fussent moulu(e)s" ],
-  "imperatif": [ "–", "mouds-toi !", "–", "moulons-nous !", "moulez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "mouds-toi !", "–", "moulons-nous !", "moulez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me changerais", "te changerais", "se changerait", "nous changerions", "vous changeriez", "se changeraient" ],
   "conditionnelPasse": [ "me serais changé(e)", "te serais changé(e)", "se serait changé(e)", "nous serions changé(e)s", "vous seriez changé(e)(s)", "se seraient changé(e)s" ],
   "conditionnelPasseII": [ "me fusse changé(e)", "te fusses changé(e)", "se fût changé(e)", "nous fussions changé(e)s", "vous fussiez changé(e)(s)", "se fussent changé(e)s" ],
-  "imperatif": [ "–", "change-toi !", "–", "changeons-nous !", "changez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "change-toi !", "–", "changeons-nous !", "changez-vous !", "–" ]
 }

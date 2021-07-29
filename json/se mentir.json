@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me mentirais", "te mentirais", "se mentirait", "nous mentirions", "vous mentiriez", "se mentiraient" ],
   "conditionnelPasse": [ "me serais menti", "te serais menti", "se serait menti", "nous serions menti", "vous seriez menti", "se seraient menti" ],
   "conditionnelPasseII": [ "me fusse menti", "te fusses menti", "se fût menti", "nous fussions menti", "vous fussiez menti", "se fussent menti" ],
-  "imperatif": [ "–", "mens-toi !", "–", "mentons-nous !", "mentez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "mens-toi !", "–", "mentons-nous !", "mentez-vous !", "–" ]
 }

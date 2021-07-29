@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me poursuivrais", "te poursuivrais", "se poursuivrait", "nous poursuivrions", "vous poursuivriez", "se poursuivraient" ],
   "conditionnelPasse": [ "me serais poursuivi(e)", "te serais poursuivi(e)", "se serait poursuivi(e)", "nous serions poursuivi(e)s", "vous seriez poursuivi(e)(s)", "se seraient poursuivi(e)s" ],
   "conditionnelPasseII": [ "me fusse poursuivi(e)", "te fusses poursuivi(e)", "se fût poursuivi(e)", "nous fussions poursuivi(e)s", "vous fussiez poursuivi(e)(s)", "se fussent poursuivi(e)s" ],
-  "imperatif": [ "–", "poursuis-toi !", "–", "poursuivons-nous !", "poursuivez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "poursuis-toi !", "–", "poursuivons-nous !", "poursuivez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me quitterais", "te quitterais", "se quitterait", "nous quitterions", "vous quitteriez", "se quitteraient" ],
   "conditionnelPasse": [ "me serais quitté(e)", "te serais quitté(e)", "se serait quitté(e)", "nous serions quitté(e)s", "vous seriez quitté(e)(s)", "se seraient quitté(e)s" ],
   "conditionnelPasseII": [ "me fusse quitté(e)", "te fusses quitté(e)", "se fût quitté(e)", "nous fussions quitté(e)s", "vous fussiez quitté(e)(s)", "se fussent quitté(e)s" ],
-  "imperatif": [ "–", "quitte-toi !", "–", "quittons-nous !", "quittez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "quitte-toi !", "–", "quittons-nous !", "quittez-vous !", "–" ]
 }

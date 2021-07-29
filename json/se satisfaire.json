@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me satisferais", "te satisferais", "se satisferait", "nous satisferions", "vous satisferiez", "se satisferaient" ],
   "conditionnelPasse": [ "me serais satisfait(e)", "te serais satisfait(e)", "se serait satisfait(e)", "nous serions satisfait(e)s", "vous seriez satisfait(e)(s)", "se seraient satisfait(e)s" ],
   "conditionnelPasseII": [ "me fusse satisfait(e)", "te fusses satisfait(e)", "se fût satisfait(e)", "nous fussions satisfait(e)s", "vous fussiez satisfait(e)(s)", "se fussent satisfait(e)s" ],
-  "imperatif": [ "–", "satisfais-toi !", "–", "satisfaisons-nous !", "satisfaites-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "satisfais-toi !", "–", "satisfaisons-nous !", "satisfaites-vous !", "–" ]
 }

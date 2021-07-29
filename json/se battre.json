@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me battrais", "te battrais", "se battrait", "nous battrions", "vous battriez", "se battraient" ],
   "conditionnelPasse": [ "me serais battu(e)", "te serais battu(e)", "se serait battu(e)", "nous serions battu(e)s", "vous seriez battu(e)(s)", "se seraient battu(e)s" ],
   "conditionnelPasseII": [ "me fusse battu(e)", "te fusses battu(e)", "se fût battu(e)", "nous fussions battu(e)s", "vous fussiez battu(e)(s)", "se fussent battu(e)s" ],
-  "imperatif": [ "–", "bats-toi !", "–", "battons-nous !", "battez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "bats-toi !", "–", "battons-nous !", "battez-vous !", "–" ]
 }

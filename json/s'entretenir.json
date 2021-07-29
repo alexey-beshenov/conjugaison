@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'entretiendrais", "t'entretiendrais", "s'entretiendrait", "nous entretiendrions", "vous entretiendriez", "s'entretiendraient" ],
   "conditionnelPasse": [ "me serais entretenu(e)", "te serais entretenu(e)", "se serait entretenu(e)", "nous serions entretenu(e)s", "vous seriez entretenu(e)(s)", "se seraient entretenu(e)s" ],
   "conditionnelPasseII": [ "me fusse entretenu(e)", "te fusses entretenu(e)", "se fût entretenu(e)", "nous fussions entretenu(e)s", "vous fussiez entretenu(e)(s)", "se fussent entretenu(e)s" ],
-  "imperatif": [ "–", "entretiens-toi !", "–", "entretenons-nous !", "entretenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "entretiens-toi !", "–", "entretenons-nous !", "entretenez-vous !", "–" ]
 }

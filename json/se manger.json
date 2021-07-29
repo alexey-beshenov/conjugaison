@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me mangerais", "te mangerais", "se mangerait", "nous mangerions", "vous mangeriez", "se mangeraient" ],
   "conditionnelPasse": [ "me serais mangé(e)", "te serais mangé(e)", "se serait mangé(e)", "nous serions mangé(e)s", "vous seriez mangé(e)(s)", "se seraient mangé(e)s" ],
   "conditionnelPasseII": [ "me fusse mangé(e)", "te fusses mangé(e)", "se fût mangé(e)", "nous fussions mangé(e)s", "vous fussiez mangé(e)(s)", "se fussent mangé(e)s" ],
-  "imperatif": [ "–", "mange-toi !", "–", "mangeons-nous !", "mangez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "mange-toi !", "–", "mangeons-nous !", "mangez-vous !", "–" ]
 }

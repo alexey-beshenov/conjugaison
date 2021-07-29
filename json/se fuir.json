@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me fuirais", "te fuirais", "se fuirait", "nous fuirions", "vous fuiriez", "se fuiraient" ],
   "conditionnelPasse": [ "me serais fui(e)", "te serais fui(e)", "se serait fui(e)", "nous serions fui(e)s", "vous seriez fui(e)(s)", "se seraient fui(e)s" ],
   "conditionnelPasseII": [ "me fusse fui(e)", "te fusses fui(e)", "se fût fui(e)", "nous fussions fui(e)s", "vous fussiez fui(e)(s)", "se fussent fui(e)s" ],
-  "imperatif": [ "–", "fuis-toi !", "–", "fuyons-nous !", "fuyez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "fuis-toi !", "–", "fuyons-nous !", "fuyez-vous !", "–" ]
 }

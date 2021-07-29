@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me rouvrirais", "te rouvrirais", "se rouvrirait", "nous rouvririons", "vous rouvririez", "se rouvriraient" ],
   "conditionnelPasse": [ "me serais rouvert(e)", "te serais rouvert(e)", "se serait rouvert(e)", "nous serions rouvert(e)s", "vous seriez rouvert(e)(s)", "se seraient rouvert(e)s" ],
   "conditionnelPasseII": [ "me fusse rouvert(e)", "te fusses rouvert(e)", "se fût rouvert(e)", "nous fussions rouvert(e)s", "vous fussiez rouvert(e)(s)", "se fussent rouvert(e)s" ],
-  "imperatif": [ "–", "rouvre-toi !", "–", "rouvrons-nous !", "rouvrez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "rouvre-toi !", "–", "rouvrons-nous !", "rouvrez-vous !", "–" ]
 }

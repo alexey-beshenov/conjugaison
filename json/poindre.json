@@ -16,7 +16,5 @@
   "subjonctifPlusQueParfait": [ "–", "–", "eût point", "–", "–", "eussent point" ],
   "conditionnelPresent": [ "–", "–", "poindrait", "–", "–", "poindraient" ],
   "conditionnelPasse": [ "–", "–", "aurait point", "–", "–", "auraient point" ],
-  "conditionnelPasseII": [ "–", "–", "eût point", "–", "–", "eussent point" ],
-  "imperatif": [ "–", "–", "–", "–", "–", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "conditionnelPasseII": [ "–", "–", "eût point", "–", "–", "eussent point" ]
 }

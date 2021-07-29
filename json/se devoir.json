@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me devrais", "te devrais", "se devrait", "nous devrions", "vous devriez", "se devraient" ],
   "conditionnelPasse": [ "me serais dû, due", "te serais dû, due", "se serait dû, due", "nous serions du(e)s", "vous seriez dû, du(e)s", "se seraient du(e)s" ],
   "conditionnelPasseII": [ "me fusse dû, due", "te fusses dû, due", "se fût dû, due", "nous fussions du(e)s", "vous fussiez dû, du(e)s", "se fussent du(e)s" ],
-  "imperatif": [ "–", "dois-toi !", "–", "devons-nous !", "devez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "dois-toi !", "–", "devons-nous !", "devez-vous !", "–" ]
 }

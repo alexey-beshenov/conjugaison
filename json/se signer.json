@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me signerais", "te signerais", "se signerait", "nous signerions", "vous signeriez", "se signeraient" ],
   "conditionnelPasse": [ "me serais signé(e)", "te serais signé(e)", "se serait signé(e)", "nous serions signé(e)s", "vous seriez signé(e)(s)", "se seraient signé(e)s" ],
   "conditionnelPasseII": [ "me fusse signé(e)", "te fusses signé(e)", "se fût signé(e)", "nous fussions signé(e)s", "vous fussiez signé(e)(s)", "se fussent signé(e)s" ],
-  "imperatif": [ "–", "signe-toi !", "–", "signons-nous !", "signez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "signe-toi !", "–", "signons-nous !", "signez-vous !", "–" ]
 }

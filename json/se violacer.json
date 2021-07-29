@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me violacerais", "te violacerais", "se violacerait", "nous violacerions", "vous violaceriez", "se violaceraient" ],
   "conditionnelPasse": [ "me serais violacé(e)", "te serais violacé(e)", "se serait violacé(e)", "nous serions violacé(e)s", "vous seriez violacé(e)(s)", "se seraient violacé(e)s" ],
   "conditionnelPasseII": [ "me fusse violacé(e)", "te fusses violacé(e)", "se fût violacé(e)", "nous fussions violacé(e)s", "vous fussiez violacé(e)(s)", "se fussent violacé(e)s" ],
-  "imperatif": [ "–", "violace-toi !", "–", "violaçons-nous !", "violacez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "violace-toi !", "–", "violaçons-nous !", "violacez-vous !", "–" ]
 }

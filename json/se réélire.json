@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me réélirais", "te réélirais", "se réélirait", "nous réélirions", "vous rééliriez", "se rééliraient" ],
   "conditionnelPasse": [ "me serais réélu(e)", "te serais réélu(e)", "se serait réélu(e)", "nous serions réélu(e)s", "vous seriez réélu(e)(s)", "se seraient réélu(e)s" ],
   "conditionnelPasseII": [ "me fusse réélu(e)", "te fusses réélu(e)", "se fût réélu(e)", "nous fussions réélu(e)s", "vous fussiez réélu(e)(s)", "se fussent réélu(e)s" ],
-  "imperatif": [ "–", "réélis-toi !", "–", "réélisons-nous !", "réélisez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "réélis-toi !", "–", "réélisons-nous !", "réélisez-vous !", "–" ]
 }

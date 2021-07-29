@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me vaudrais", "te vaudrais", "se vaudrait", "nous vaudrions", "vous vaudriez", "se vaudraient" ],
   "conditionnelPasse": [ "me serais valu(e)", "te serais valu(e)", "se serait valu(e)", "nous serions valu(e)s", "vous seriez valu(e)(s)", "se seraient valu(e)s" ],
   "conditionnelPasseII": [ "me fusse valu(e)", "te fusses valu(e)", "se fût valu(e)", "nous fussions valu(e)s", "vous fussiez valu(e)(s)", "se fussent valu(e)s" ],
-  "imperatif": [ "–", "vaux-toi !", "–", "valons-nous !", "valez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "vaux-toi !", "–", "valons-nous !", "valez-vous !", "–" ]
 }

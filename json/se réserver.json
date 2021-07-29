@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me réserverais", "te réserverais", "se réserverait", "nous réserverions", "vous réserveriez", "se réserveraient" ],
   "conditionnelPasse": [ "me serais réservé(e)", "te serais réservé(e)", "se serait réservé(e)", "nous serions réservé(e)s", "vous seriez réservé(e)(s)", "se seraient réservé(e)s" ],
   "conditionnelPasseII": [ "me fusse réservé(e)", "te fusses réservé(e)", "se fût réservé(e)", "nous fussions réservé(e)s", "vous fussiez réservé(e)(s)", "se fussent réservé(e)s" ],
-  "imperatif": [ "–", "réserve-toi !", "–", "réservons-nous !", "réservez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "réserve-toi !", "–", "réservons-nous !", "réservez-vous !", "–" ]
 }

@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me revêtirais", "te revêtirais", "se revêtirait", "nous revêtirions", "vous revêtiriez", "se revêtiraient" ],
   "conditionnelPasse": [ "me serais revêtu(e)", "te serais revêtu(e)", "se serait revêtu(e)", "nous serions revêtu(e)s", "vous seriez revêtu(e)(s)", "se seraient revêtu(e)s" ],
   "conditionnelPasseII": [ "me fusse revêtu(e)", "te fusses revêtu(e)", "se fût revêtu(e)", "nous fussions revêtu(e)s", "vous fussiez revêtu(e)(s)", "se fussent revêtu(e)s" ],
-  "imperatif": [ "–", "revêts-toi !", "–", "revêtons-nous !", "revêtez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "revêts-toi !", "–", "revêtons-nous !", "revêtez-vous !", "–" ]
 }

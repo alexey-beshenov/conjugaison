@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me reposerais", "te reposerais", "se reposerait", "nous reposerions", "vous reposeriez", "se reposeraient" ],
   "conditionnelPasse": [ "me serais reposé(e)", "te serais reposé(e)", "se serait reposé(e)", "nous serions reposé(e)s", "vous seriez reposé(e)(s)", "se seraient reposé(e)s" ],
   "conditionnelPasseII": [ "me fusse reposé(e)", "te fusses reposé(e)", "se fût reposé(e)", "nous fussions reposé(e)s", "vous fussiez reposé(e)(s)", "se fussent reposé(e)s" ],
-  "imperatif": [ "–", "repose-toi !", "–", "reposons-nous !", "reposez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "repose-toi !", "–", "reposons-nous !", "reposez-vous !", "–" ]
 }

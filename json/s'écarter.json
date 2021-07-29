@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'écarterais", "t'écarterais", "s'écarterait", "nous écarterions", "vous écarteriez", "s'écarteraient" ],
   "conditionnelPasse": [ "me serais écarté(e)", "te serais écarté(e)", "se serait écarté(e)", "nous serions écarté(e)s", "vous seriez écarté(e)(s)", "se seraient écarté(e)s" ],
   "conditionnelPasseII": [ "me fusse écarté(e)", "te fusses écarté(e)", "se fût écarté(e)", "nous fussions écarté(e)s", "vous fussiez écarté(e)(s)", "se fussent écarté(e)s" ],
-  "imperatif": [ "–", "écarte-toi !", "–", "écartons-nous !", "écartez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "écarte-toi !", "–", "écartons-nous !", "écartez-vous !", "–" ]
 }

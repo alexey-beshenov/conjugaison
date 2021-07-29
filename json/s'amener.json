@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'amènerais", "t'amènerais", "s'amènerait", "nous amènerions", "vous amèneriez", "s'amèneraient" ],
   "conditionnelPasse": [ "me serais amené(e)", "te serais amené(e)", "se serait amené(e)", "nous serions amené(e)s", "vous seriez amené(e)(s)", "se seraient amené(e)s" ],
   "conditionnelPasseII": [ "me fusse amené(e)", "te fusses amené(e)", "se fût amené(e)", "nous fussions amené(e)s", "vous fussiez amené(e)(s)", "se fussent amené(e)s" ],
-  "imperatif": [ "–", "amène-toi !", "–", "amenons-nous !", "amenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "amène-toi !", "–", "amenons-nous !", "amenez-vous !", "–" ]
 }

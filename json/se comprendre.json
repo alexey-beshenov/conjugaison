@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "me comprendrais", "te comprendrais", "se comprendrait", "nous comprendrions", "vous comprendriez", "se comprendraient" ],
   "conditionnelPasse": [ "me serais compris(e)", "te serais compris(e)", "se serait compris(e)", "nous serions compris(es)", "vous seriez compris(e(s))", "se seraient compris(es)" ],
   "conditionnelPasseII": [ "me fusse compris(e)", "te fusses compris(e)", "se fût compris(e)", "nous fussions compris(es)", "vous fussiez compris(e(s))", "se fussent compris(es)" ],
-  "imperatif": [ "–", "comprends-toi !", "–", "comprenons-nous !", "comprenez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "comprends-toi !", "–", "comprenons-nous !", "comprenez-vous !", "–" ]
 }

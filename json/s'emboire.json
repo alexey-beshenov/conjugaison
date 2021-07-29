@@ -17,6 +17,5 @@
   "conditionnelPresent": [ "m'emboirais", "t'emboirais", "s'emboirait", "nous emboirions", "vous emboiriez", "s'emboiraient" ],
   "conditionnelPasse": [ "me serais embu(e)", "te serais embu(e)", "se serait embu(e)", "nous serions embu(e)s", "vous seriez embu(e)(s)", "se seraient embu(e)s" ],
   "conditionnelPasseII": [ "me fusse embu(e)", "te fusses embu(e)", "se fût embu(e)", "nous fussions embu(e)s", "vous fussiez embu(e)(s)", "se fussent embu(e)s" ],
-  "imperatif": [ "–", "embois-toi !", "–", "embuvons-nous !", "embuvez-vous !", "–" ],
-  "imperatifPasse": [ "–", "–", "–", "–", "–", "–" ]
+  "imperatif": [ "–", "embois-toi !", "–", "embuvons-nous !", "embuvez-vous !", "–" ]
 }
