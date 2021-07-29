@@ -4,7 +4,6 @@
   "participePasse": "permis",
   "auxiliaire": "avoir",
   "formePronominale": "se permettre",
-  "auxiliaire": "avoir",
   "present": [ "permets", "permets", "permet", "permettons", "permettez", "permettent" ],
   "imparfait": [ "permettais", "permettais", "permettait", "permettions", "permettiez", "permettaient" ],
   "passeSimple": [ "permis", "permis", "permit", "permîmes", "permîtes", "permirent" ],

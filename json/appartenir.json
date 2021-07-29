@@ -4,7 +4,6 @@
   "participePasse": "appartenu",
   "auxiliaire": "avoir",
   "formePronominale": "s'appartenir",
-  "auxiliaire": "avoir",
   "present": [ "appartiens", "appartiens", "appartient", "appartenons", "appartenez", "appartiennent" ],
   "imparfait": [ "appartenais", "appartenais", "appartenait", "appartenions", "apparteniez", "appartenaient" ],
   "passeSimple": [ "appartins", "appartins", "appartint", "appartînmes", "appartîntes", "appartinrent" ],

@@ -4,7 +4,6 @@
   "participePasse": "invité",
   "auxiliaire": "être",
   "formeNonPronominale": "inviter",
-  "auxiliaire": "être",
   "present": [ "m'invite", "t'invites", "s'invite", "nous invitons", "vous invitez", "s'invitent" ],
   "imparfait": [ "m'invitais", "t'invitais", "s'invitait", "nous invitions", "vous invitiez", "s'invitaient" ],
   "passeSimple": [ "m'invitai", "t'invitas", "s'invita", "nous invitâmes", "vous invitâtes", "s'invitèrent" ],

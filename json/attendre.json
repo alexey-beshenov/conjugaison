@@ -4,7 +4,6 @@
   "participePasse": "attendu",
   "auxiliaire": "avoir",
   "formePronominale": "s'attendre",
-  "auxiliaire": "avoir",
   "present": [ "attends", "attends", "attend", "attendons", "attendez", "attendent" ],
   "imparfait": [ "attendais", "attendais", "attendait", "attendions", "attendiez", "attendaient" ],
   "passeSimple": [ "attendis", "attendis", "attendit", "attendîmes", "attendîtes", "attendirent" ],

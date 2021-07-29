@@ -4,7 +4,6 @@
   "participePasse": "requis",
   "auxiliaire": "être",
   "formeNonPronominale": "requérir",
-  "auxiliaire": "être",
   "present": [ "me requiers", "te requiers", "se requiert", "nous requérons", "vous requérez", "se requièrent" ],
   "imparfait": [ "me requérais", "te requérais", "se requérait", "nous requérions", "vous requériez", "se requéraient" ],
   "passeSimple": [ "me requis", "te requis", "se requit", "nous requîmes", "vous requîtes", "se requirent" ],

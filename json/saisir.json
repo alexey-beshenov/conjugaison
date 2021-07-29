@@ -4,7 +4,6 @@
   "participePasse": "saisi",
   "auxiliaire": "avoir",
   "formePronominale": "se saisir",
-  "auxiliaire": "avoir",
   "present": [ "saisis", "saisis", "saisit", "saisissons", "saisissez", "saisissent" ],
   "imparfait": [ "saisissais", "saisissais", "saisissait", "saisissions", "saisissiez", "saisissaient" ],
   "passeSimple": [ "saisis", "saisis", "saisit", "saisîmes", "saisîtes", "saisirent" ],

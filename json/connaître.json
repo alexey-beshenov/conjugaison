@@ -4,7 +4,6 @@
   "participePasse": "connu",
   "auxiliaire": "avoir",
   "formePronominale": "se connaître",
-  "auxiliaire": "avoir",
   "present": [ "connais", "connais", "connaît", "connaissons", "connaissez", "connaissent" ],
   "imparfait": [ "connaissais", "connaissais", "connaissait", "connaissions", "connaissiez", "connaissaient" ],
   "passeSimple": [ "connus", "connus", "connut", "connûmes", "connûtes", "connurent" ],

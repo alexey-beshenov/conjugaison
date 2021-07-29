@@ -4,7 +4,6 @@
   "participePasse": "tenu",
   "auxiliaire": "avoir",
   "formePronominale": "se tenir",
-  "auxiliaire": "avoir",
   "present": [ "tiens", "tiens", "tient", "tenons", "tenez", "tiennent" ],
   "imparfait": [ "tenais", "tenais", "tenait", "tenions", "teniez", "tenaient" ],
   "passeSimple": [ "tins", "tins", "tint", "tînmes", "tîntes", "tinrent" ],

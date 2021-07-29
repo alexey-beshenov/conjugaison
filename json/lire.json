@@ -4,7 +4,6 @@
   "participePasse": "lu",
   "auxiliaire": "avoir",
   "formePronominale": "se lire",
-  "auxiliaire": "avoir",
   "present": [ "lis", "lis", "lit", "lisons", "lisez", "lisent" ],
   "imparfait": [ "lisais", "lisais", "lisait", "lisions", "lisiez", "lisaient" ],
   "passeSimple": [ "lus", "lus", "lut", "lûmes", "lûtes", "lurent" ],

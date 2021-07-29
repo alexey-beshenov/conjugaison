@@ -4,7 +4,6 @@
   "participePasse": "vendu",
   "auxiliaire": "avoir",
   "formePronominale": "se vendre",
-  "auxiliaire": "avoir",
   "present": [ "vends", "vends", "vend", "vendons", "vendez", "vendent" ],
   "imparfait": [ "vendais", "vendais", "vendait", "vendions", "vendiez", "vendaient" ],
   "passeSimple": [ "vendis", "vendis", "vendit", "vendîmes", "vendîtes", "vendirent" ],

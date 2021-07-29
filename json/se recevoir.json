@@ -4,7 +4,6 @@
   "participePasse": "reçu",
   "auxiliaire": "être",
   "formeNonPronominale": "recevoir",
-  "auxiliaire": "être",
   "present": [ "me reçois", "te reçois", "se reçoit", "nous recevons", "vous recevez", "se reçoivent" ],
   "imparfait": [ "me recevais", "te recevais", "se recevait", "nous recevions", "vous receviez", "se recevaient" ],
   "passeSimple": [ "me reçus", "te reçus", "se reçut", "nous reçûmes", "vous reçûtes", "se reçurent" ],

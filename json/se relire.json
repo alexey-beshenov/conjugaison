@@ -4,7 +4,6 @@
   "participePasse": "relu",
   "auxiliaire": "être",
   "formeNonPronominale": "relire",
-  "auxiliaire": "être",
   "present": [ "me relis", "te relis", "se relit", "nous relisons", "vous relisez", "se relisent" ],
   "imparfait": [ "me relisais", "te relisais", "se relisait", "nous relisions", "vous relisiez", "se relisaient" ],
   "passeSimple": [ "me relus", "te relus", "se relut", "nous relûmes", "vous relûtes", "se relurent" ],

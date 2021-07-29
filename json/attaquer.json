@@ -4,7 +4,6 @@
   "participePasse": "attaqué",
   "auxiliaire": "avoir",
   "formePronominale": "s'attaquer",
-  "auxiliaire": "avoir",
   "present": [ "attaque", "attaques", "attaque", "attaquons", "attaquez", "attaquent" ],
   "imparfait": [ "attaquais", "attaquais", "attaquait", "attaquions", "attaquiez", "attaquaient" ],
   "passeSimple": [ "attaquai", "attaquas", "attaqua", "attaquâmes", "attaquâtes", "attaquèrent" ],

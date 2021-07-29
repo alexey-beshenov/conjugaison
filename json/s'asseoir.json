@@ -4,7 +4,6 @@
   "participePasse": "s'assoyant",
   "auxiliaire": "être",
   "formeNonPronominale": "asseoir",
-  "auxiliaire": "être",
   "present": [ "m'assieds, assois", "t'assieds, assois", "s'assied, assoit", "nous asseyons, assoyons", "vous asseyez, assoyez", "s'asseyent, assoient" ],
   "imparfait": [ "m'asseyais, assoyais", "t'asseyais, assoyais", "s'asseyait, assoyait", "nous asseyions, assoyions", "vous asseyiez, assoyiez", "s'asseyaient, assoyaient" ],
   "passeSimple": [ "m'assis", "t'assis", "s'assit", "nous assîmes", "vous assîtes", "s'assirent" ],

@@ -4,7 +4,6 @@
   "participePasse": "condamné",
   "auxiliaire": "avoir",
   "formePronominale": "se condamner",
-  "auxiliaire": "avoir",
   "present": [ "condamne", "condamnes", "condamne", "condamnons", "condamnez", "condamnent" ],
   "imparfait": [ "condamnais", "condamnais", "condamnait", "condamnions", "condamniez", "condamnaient" ],
   "passeSimple": [ "condamnai", "condamnas", "condamna", "condamnâmes", "condamnâtes", "condamnèrent" ],

@@ -4,7 +4,6 @@
   "participePasse": "vécu",
   "auxiliaire": "avoir",
   "formePronominale": "se vivre",
-  "auxiliaire": "avoir",
   "present": [ "vis", "vis", "vit", "vivons", "vivez", "vivent" ],
   "imparfait": [ "vivais", "vivais", "vivait", "vivions", "viviez", "vivaient" ],
   "passeSimple": [ "vécus", "vécus", "vécut", "vécûmes", "vécûtes", "vécurent" ],

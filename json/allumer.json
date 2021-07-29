@@ -4,7 +4,6 @@
   "participePasse": "allumé",
   "auxiliaire": "avoir",
   "formePronominale": "s'allumer",
-  "auxiliaire": "avoir",
   "present": [ "allume", "allumes", "allume", "allumons", "allumez", "allument" ],
   "imparfait": [ "allumais", "allumais", "allumait", "allumions", "allumiez", "allumaient" ],
   "passeSimple": [ "allumai", "allumas", "alluma", "allumâmes", "allumâtes", "allumèrent" ],

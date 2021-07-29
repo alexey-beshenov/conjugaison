@@ -4,7 +4,6 @@
   "participePasse": "transmis",
   "auxiliaire": "avoir",
   "formePronominale": "se transmettre",
-  "auxiliaire": "avoir",
   "present": [ "transmets", "transmets", "transmet", "transmettons", "transmettez", "transmettent" ],
   "imparfait": [ "transmettais", "transmettais", "transmettait", "transmettions", "transmettiez", "transmettaient" ],
   "passeSimple": [ "transmis", "transmis", "transmit", "transmîmes", "transmîtes", "transmirent" ],

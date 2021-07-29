@@ -4,7 +4,6 @@
   "participePasse": "relu",
   "auxiliaire": "avoir",
   "formePronominale": "se relire",
-  "auxiliaire": "avoir",
   "present": [ "relis", "relis", "relit", "relisons", "relisez", "relisent" ],
   "imparfait": [ "relisais", "relisais", "relisait", "relisions", "relisiez", "relisaient" ],
   "passeSimple": [ "relus", "relus", "relut", "relûmes", "relûtes", "relurent" ],

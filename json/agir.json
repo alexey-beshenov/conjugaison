@@ -4,7 +4,6 @@
   "participePasse": "agi",
   "auxiliaire": "avoir",
   "formePronominale": "s'agir",
-  "auxiliaire": "avoir",
   "present": [ "agis", "agis", "agit", "agissons", "agissez", "agissent" ],
   "imparfait": [ "agissais", "agissais", "agissait", "agissions", "agissiez", "agissaient" ],
   "passeSimple": [ "agis", "agis", "agit", "agîmes", "agîtes", "agirent" ],

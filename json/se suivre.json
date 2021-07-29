@@ -4,7 +4,6 @@
   "participePasse": "suivi",
   "auxiliaire": "être",
   "formeNonPronominale": "suivre",
-  "auxiliaire": "être",
   "present": [ "me suis", "te suis", "se suit", "nous suivons", "vous suivez", "se suivent" ],
   "imparfait": [ "me suivais", "te suivais", "se suivait", "nous suivions", "vous suiviez", "se suivaient" ],
   "passeSimple": [ "me suivis", "te suivis", "se suivit", "nous suivîmes", "vous suivîtes", "se suivirent" ],

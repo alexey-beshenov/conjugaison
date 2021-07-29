@@ -4,7 +4,6 @@
   "participePasse": "perdu",
   "auxiliaire": "avoir",
   "formePronominale": "se perdre",
-  "auxiliaire": "avoir",
   "present": [ "perds", "perds", "perd", "perdons", "perdez", "perdent" ],
   "imparfait": [ "perdais", "perdais", "perdait", "perdions", "perdiez", "perdaient" ],
   "passeSimple": [ "perdis", "perdis", "perdit", "perdîmes", "perdîtes", "perdirent" ],

@@ -4,7 +4,6 @@
   "participePasse": "redit",
   "auxiliaire": "avoir",
   "formePronominale": "se redire",
-  "auxiliaire": "avoir",
   "present": [ "redis", "redis", "redit", "redisons", "redites", "redisent" ],
   "imparfait": [ "redisais", "redisais", "redisait", "redisions", "redisiez", "redisaient" ],
   "passeSimple": [ "redis", "redis", "redit", "redîmes", "redîtes", "redirent" ],

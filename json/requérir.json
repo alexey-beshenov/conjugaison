@@ -4,7 +4,6 @@
   "participePasse": "requis",
   "auxiliaire": "avoir",
   "formePronominale": "se requérir",
-  "auxiliaire": "avoir",
   "present": [ "requiers", "requiers", "requiert", "requérons", "requérez", "requièrent" ],
   "imparfait": [ "requérais", "requérais", "requérait", "requérions", "requériez", "requéraient" ],
   "passeSimple": [ "requis", "requis", "requit", "requîmes", "requîtes", "requirent" ],

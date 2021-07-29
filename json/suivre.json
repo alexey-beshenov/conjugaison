@@ -4,7 +4,6 @@
   "participePasse": "suivi",
   "auxiliaire": "avoir",
   "formePronominale": "se suivre",
-  "auxiliaire": "avoir",
   "present": [ "suis", "suis", "suit", "suivons", "suivez", "suivent" ],
   "imparfait": [ "suivais", "suivais", "suivait", "suivions", "suiviez", "suivaient" ],
   "passeSimple": [ "suivis", "suivis", "suivit", "suivîmes", "suivîtes", "suivirent" ],

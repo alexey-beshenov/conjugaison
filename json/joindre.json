@@ -4,7 +4,6 @@
   "participePasse": "joint",
   "auxiliaire": "avoir",
   "formePronominale": "se joindre",
-  "auxiliaire": "avoir",
   "present": [ "joins", "joins", "joint", "joignons", "joignez", "joignent" ],
   "imparfait": [ "joignais", "joignais", "joignait", "joignions", "joigniez", "joignaient" ],
   "passeSimple": [ "joignis", "joignis", "joignit", "joignîmes", "joignîtes", "joignirent" ],

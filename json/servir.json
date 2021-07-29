@@ -4,7 +4,6 @@
   "participePasse": "servi",
   "auxiliaire": "avoir",
   "formePronominale": "se servir",
-  "auxiliaire": "avoir",
   "present": [ "sers", "sers", "sert", "servons", "servez", "servent" ],
   "imparfait": [ "servais", "servais", "servait", "servions", "serviez", "servaient" ],
   "passeSimple": [ "servis", "servis", "servit", "servîmes", "servîtes", "servirent" ],

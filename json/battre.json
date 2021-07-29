@@ -4,7 +4,6 @@
   "participePasse": "battu",
   "auxiliaire": "avoir",
   "formePronominale": "se battre",
-  "auxiliaire": "avoir",
   "present": [ "bats", "bats", "bat", "battons", "battez", "battent" ],
   "imparfait": [ "battais", "battais", "battait", "battions", "battiez", "battaient" ],
   "passeSimple": [ "battis", "battis", "battit", "battîmes", "battîtes", "battirent" ],
