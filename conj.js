@@ -17,7 +17,10 @@ const tenses = [
 // Basic fields to be displayed:
 const basicFields = [
     ["participePresent", "participe présent"],
-    ["participePasse", "participe passé"]
+    ["participePasse", "participe passé"],
+    ["auxiliaire", "auxiliaire", 1],
+    ["formePronominale", "forme pronominale", 1],
+    ["formeNonPronominale", "forme non pronominale", 1]
 ];
 
 //------------------------------------------------------------
@@ -35,6 +38,14 @@ function findGetParameter(parameterName) {
 //------------------------------------------------------------
 // Make a verb list from verbs.json
 
+function addVerbLink (parent, verb) {
+    const a = document.createElement("a");
+    a.textContent = verb;
+    a.setAttribute("href", "#");
+    a.setAttribute("onclick", "setVerb(\""+verb+"\")");
+    parent.appendChild(a);
+}
+
 function makeVerbListFromJSON(data) {
     const div = document.getElementById("verb-list");
 
@@ -43,11 +54,7 @@ function makeVerbListFromJSON(data) {
 
 	for (let j=0; j < data[i].length; j++) {
 	    const li = document.createElement("li");
-	    const a = document.createElement("a");
-	    a.textContent = data[i][j];
-	    a.setAttribute("href", "#" /* +data[i][j] */);
-	    a.setAttribute("onclick", "setVerb(\""+data[i][j]+"\")");
-	    li.appendChild(a);
+	    addVerbLink (li, data[i][j]);
 	    ul.appendChild(li);
 	}
 	div.appendChild(ul);
@@ -80,17 +87,28 @@ function updateBasicInfo() {
 
     const table = document.createElement("table");
     for (let i=0; i < basicFields.length; i++) {
-	const tr = document.createElement("tr");
+	if (data.hasOwnProperty(basicFields[i][0])) {
+	    const tr = document.createElement("tr");
 
-	const th = document.createElement("th");
-	th.textContent = basicFields[i][1] + ":";
+	    const th = document.createElement("th");
+	    th.textContent = basicFields[i][1] + ":";
 
-	const td = document.createElement("td");
-	td.textContent = data[basicFields[i][0]];
+	    
+	    const td = document.createElement("td");
 
-	tr.appendChild(th);
-	tr.appendChild(td);
-	table.appendChild(tr);
+	    if (basicFields[i].length == 3 &&
+		basicFields[i][2] == 1 &&
+		data[basicFields[i][0]] !== "–") {
+		    addVerbLink (td, data[basicFields[i][0]]);
+	    }
+	    else {
+		td.textContent = data[basicFields[i][0]];
+	    }
+
+		tr.appendChild(th);
+	    tr.appendChild(td);
+	    table.appendChild(tr);
+	}
     }
 
     basicDiv.appendChild(table);
