@@ -24,24 +24,12 @@ const basicFields = [
 ];
 
 //------------------------------------------------------------
-
-function findGetParameter(parameterName) {
-    var result = null, tmp = [];
-    var items = location.search.substr(1).split("&");
-    for (var index = 0; index < items.length; index++) {
-	tmp = items[index].split("=");
-	if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
-    }
-    return result;
-}
-
-//------------------------------------------------------------
 // Make a verb list from verbs.json
 
 function addVerbLink (parent, verb) {
     const a = document.createElement("a");
     a.textContent = verb;
-    a.setAttribute("href", "#");
+    a.setAttribute("href", "#"+verb);
     a.setAttribute("onclick", "setVerb(\""+verb+"\")");
     parent.appendChild(a);
 }
@@ -82,6 +70,7 @@ function updateBasicInfo() {
 
     const h2 = document.createElement("h2");
     h2.textContent = data['infinitif'];
+    h2.setAttribute("id", data['infinitif']);
 
     basicDiv.appendChild(h2);
 
@@ -181,37 +170,59 @@ function updateConjugationFromJSON(data) {
     conjDiv.appendChild(table);
 }
 
-function updateConjugation() {
-    const requestURL = './json/' + currentVerb + '.json';
-    const request = new XMLHttpRequest();
-    request.open('GET', requestURL);
-    request.responseType = 'json';
-    request.send();
+//------------------------------------------------------------
+// Global variables
 
-    request.onload = function() {
-	data = request.response;
+var currentVerb = null;
+var currentTense = null;
+var data = null;
+
+function updateConjugation() {
+    if (data !== null && currentVerb !== null && data['infinitif'] === currentVerb) {
 	updateConjugationFromJSON(data);
-	updateBasicInfo();
+    }
+    else {
+	document.getElementById("main").setAttribute("class", "opaque");
+
+	const requestURL = './json/' + currentVerb + '.json';
+	const request = new XMLHttpRequest();
+	request.open('GET', requestURL);
+	request.responseType = 'json';
+	request.send();
+
+	request.onload = function() {
+	    data = request.response;
+	    updateConjugationFromJSON(data);
+	    updateBasicInfo();
+	    location.replace("#" + currentVerb);
+	    document.getElementById("main").setAttribute("class", "");
+	}
     }
 }
 
 //------------------------------------------------------------
-// Global variables
-
-var currentVerb;
-var currentTense;
-var data;
-
 // Initialize global variables:
-var currentVerb = findGetParameter("v");
-if (currentVerb === null) {
-    currentVerb = "être";
+
+function init() {
+    if (window.location.hash) {
+	currentVerb = decodeURI(window.location.hash.substring(1, window.location.hash.length));
+    }
+    else {
+	currentVerb = "être";
+    }
+
+    if (currentTense === null) {
+	currentTense = "present";
+    }
+
+    updateConjugation();
 }
 
-var currentTense = "present";
-
 addTenseList();
+makeVerbList();
+init();
 setActiveTense(currentTense);
 
-updateConjugation();
-makeVerbList();
+window.onhashchange = function() {
+    init();
+}
