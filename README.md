@@ -14,3 +14,4 @@ Moreover,
 * `validate-json.sh` — validate that `json/` has correct contents,
 * `verb-index.pl` — create the verb index `verbs.json` from `json/`,
 * `verbs.json` — the output of `verb-index.pl`.
+* `french-verbs.txt` — a list of French verbs fetched from the Wiktionary API.
