@@ -2,7 +2,7 @@
 
 To try this out, visit
 
-https://alexey-beshenov.github.io/conj/
+https://alexey-beshenov.github.io/conjugaison/
 
 Here are the main files in this repository:
 * `json/` — JSON data for each verb,
